@@ -2,7 +2,7 @@ function find-groups{ #Sees if a user in a certain group that is listed in a fil
 param ([string]$user) #The end user inputs the user
 echo $null | clip.exe #Clear out Clipboard
 foreach($line in [System.IO.File]::ReadLines ("C:/groups.txt"){ #This goes out and reads the file line by line and continues until there is no lines yet
- If ($members -contains $user) { #This functions runs to see if the user in the group line by line 
+ If ($line -contains $user) { #This functions runs to see if the user in the group line by line 
         Write-Host "$user in group" #This displays an output when the statement is true
         Set-Clipboard #This copies the Wrte-host to clipboard
     } Else {
