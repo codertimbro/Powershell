@@ -1,0 +1,7 @@
+out-null = output display is not hidden
+write-host = output display is shown
+get-clipboard = copies the data from the clipboard cache like control+V
+set-clipboard = sets the data to clipboard and deleted the old data like control+C
+set-clipboard $_ -append = sets the data to clipboard but does no delete the old data
+set-clipboard -value "" = sets the data and add to information to the data
+get-verb= shows what verbs can used in functions
