@@ -1,4 +1,6 @@
 function get-subfolders{
+"$(Get-Date -format F) Start logging" #Timestamp the task
 param ([string]$folder) #The end user inputs the folder path
 Get-ChildItem -Path $folder -Recurse -Directory -Force -ErrorAction SilentlyContinue | Select-Object FullName #Gets all the subfolders
+
 }
