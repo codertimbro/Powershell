@@ -1,3 +1,3 @@
 # Powershell
 Powershell
-Different projects I have convert from our VBS to Powershell
+Different projects I have convert from our team VBS scripts to Powershell
