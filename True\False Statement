@@ -1,0 +1,7 @@
+If(a for b){  
+#do something  
+#this shows the true statements
+}
+else{
+out-null #this surpress all the false statements
+}
