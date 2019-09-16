@@ -1,4 +1,0 @@
-Set Clipboard = Set-Clipboard $_ 
-Append and set Clipborad = Set-Clipboard -Append $_
-Clear Clipboard = echo $null | clip.exe
-Copy data to clipboard = get-clipboard 
