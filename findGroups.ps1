@@ -1,3 +1,5 @@
+Write-Host "Find if a user is listed in a group" -Foreground -Yellow
+
 function find-groups{ #Sees if a user in a certain group that is listed in a file
 "$(Get-Date -format F) Start logging" #Timestamp the task
 param ([string]$user) #The end user inputs the user
@@ -12,5 +14,6 @@ foreach($line in [System.IO.File]::ReadLines ("C:/groups.txt"){ #This goes out a
         #it is either Out-null or Write-Host function
     }
 }
+"$(Get-Date -format F) End logging" #Timestamp the task
 Get-Clipboard #This copies all the true statements into clipboard
 }
