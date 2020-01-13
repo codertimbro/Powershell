@@ -1,0 +1,6 @@
+function get-maultiplevaraiblesfromafile{
+$contents = get-content <path> -Raw | ConvertFrom-String -PropertyName var1,var2 #Reads the file in raw format and PropertName sets the variables
+foreach($line in $contents){            # Separates each line by itself
+  <cmdlent> $line.var1 $line.var2       # Executes the function line by line by using set variables in $contents 
+  }
+}
