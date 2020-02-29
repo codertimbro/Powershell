@@ -1,4 +1,8 @@
-functin Send-RegularMessage{$email = "<sender gmail email address>" 
+#Remember to turn on your "Less secure app access" under security tab on gmail account or gmail will block the message. (https://myaccount.google.com/security)
+#You may to do the above every time you send out. 
+#Google is turning the setting back to off even through you set to be on.
+
+function Send-RegularMessage{$email = "<sender gmail email address>" 
  
 $pass = "<your gmail account password>" 
  
