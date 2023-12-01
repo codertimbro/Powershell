@@ -1,0 +1,50 @@
+# Directory path containing the JSON files
+$jsonDirectory = "X:\Sports\CBB\gamejson"
+$csvFileName = "X:\Sports\CBB\Gamelogs\cbb_players_log.csv"
+
+$filenames= (Get-ChildItem -Path $jsonDirectory -Filter *.json).FullName
+$csvData = @()
+$headers = "Date","Name","Team","OPP","Minutes","FGM","FGA","3PM","3PA","FTM","FTA","ORED","REB","NA","AST","ST","BLK","TO","PF","PTS"
+$csvData += $headers -join ','
+# Iterate through the JSON files in the directory
+foreach ($filename in $filenames) {
+     
+    Write-Host $filename
+
+    # Read JSON file
+    $data = Get-Content -Path $filename | ConvertFrom-Json
+    $playersDataHome = $data.boxscore.players[0].statistics
+    $homeTeam = $data.boxscore.players[0].displayname
+    $awayTeamData =  $data.boxscore.players[1].statistics
+    $awayTeam=  $data.boxscore.players[1].displayname
+    $location = "home"
+    $time = $data.header.competitions.date
+    
+foreach ($player in $playersDataHome) {
+    $name = $player.athletes.athlete.displayName
+    $playerStats = $player.athletes.stats
+    $minutes, $fgm, $fga, $3PTM,$3ptA, $ftm, $fta,$ored, $reb,$na,$ast, $st, $blk, $to, $pf, $pts = $playerStats -split '-| '
+    $ptsValue = if ($pts -is [System.Array]) { $pts -join '/' } else { $pts }
+    $playerDataRow = $date,$location, $name,$hometeam, $awayteam,$minutes, $fgm, $fga, $3PTM,$3ptA, $ftm, $fta,$ored, $reb,$na, $ast, $st, $blk, $to, $pf, $ptsValue  -join ','
+    $csvData += $playerDataRow
+}
+$csvData = @()
+$headers = "Date","Name","Team","OPP","Minutes","FGM","FGA","3PM","3PA","FTM","FTA","ORED","REB","NA","AST","ST","BLK","TO","PF","PTS"
+$csvData += $headers -join ','
+$location = "away"
+foreach ($player in $awayTeamData) {
+    $name = $player.athletes.athlete.displayName
+    $playerStats = $player.athletes.stats
+    $minutes, $fgm, $fga, $3PTM,$3ptA, $ftm, $fta,$ored, $reb,$na,$ast, $st, $blk, $to, $pf, $pts = $playerStats -split '-| '
+    $ptsValue = if ($pts -is [System.Array]) { $pts -join '/' } else { $pts }
+    $playerDataRow = $date, $location, $name,$awayteam, $hometeam,$minutes, $fgm, $fga, $3PTM,$3ptA, $ftm, $fta,$ored, $reb,$na, $ast, $st, $blk, $to, $pf, $ptsValue  -join ','
+    $csvData += $playerDataRow
+}
+
+# Save CSV data to a file
+$csvData 
+}
+$csvData | Out-File $csvFileName
+
+  
+invoke-item -path $csvFileName
