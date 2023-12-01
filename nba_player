@@ -1,0 +1,103 @@
+# Get user input
+$name = Read-Host "Enter a name"
+$column = Read-Host "What column"
+$number1 = [float](Read-Host "Enter a number")
+$opp = Read-Host "Enter the opponent name"
+
+# Read CSV data
+$data = Import-Csv "X:\Sports\NBA\gamelogs\nba_players_log.csv"
+
+# Filter data by the specified player name
+$filteredData = $data | Where-Object { $_.name -eq $name }
+
+if ($filteredData.Count -eq 0) {
+    Write-Host "No data found for the player with name: $name"
+}
+else {
+    # Check if filteredData has more than one row
+    if ($filteredData.Count -gt 1) {
+        
+        $filteredData | ForEach-Object { $_.personId }
+    }
+
+    # Calculate consecutive games with shots meeting the specified criteria
+    $streaksAbove = @()
+    $streaksBelow = @()
+    $currentStreakAbove = 0
+    $currentStreakBelow = 0
+
+    $currentStreaksAbove = @()
+    $currentStreaksBelow = @()
+
+    foreach ($val in $filteredData.$column) {
+        if ($val -ge $number1) {
+            $currentStreakAbove++
+            $currentStreakBelow = 0
+            if ($currentStreakAbove -eq 1) {
+                $currentStreaksAbove += $val
+            }
+        }
+        else {
+            $currentStreakBelow++
+            $currentStreakAbove = 0
+            if ($currentStreakBelow -eq 1) {
+                $currentStreaksBelow += $val
+            }
+        }
+
+        if ($currentStreakAbove -gt 0) {
+            $streaksAbove += $currentStreakAbove
+        }
+
+        if ($currentStreakBelow -gt 0) {
+            $streaksBelow += $currentStreakBelow
+        }
+    }
+
+    # Function to calculate streak statistics
+    function Calculate-StreakStatistics($streaks) {
+        if (-not $streaks) {
+            return @(0, 0, 0)  # Return zeros when no streaks are found
+        }
+        $longestStreak = $streaks | Measure-Object -Maximum
+        $shortestStreak = $streaks | Measure-Object -Minimum
+        $averageLength = ($streaks | Measure-Object -Average).Average
+        return @($longestStreak.Maximum, $shortestStreak.Minimum, $averageLength)
+    }
+
+    # Calculate the average shots per game
+    $averageShotsPerGame = $filteredData.$column | Measure-Object -Average | Select-Object -ExpandProperty Average
+
+    # Calculate statistics for "above" condition
+    $longestStreakAbove, $shortestStreakAbove, $averageLengthAbove = Calculate-StreakStatistics $streaksAbove
+
+    # Calculate statistics for "below" condition
+    $longestStreakBelow, $shortestStreakBelow, $averageLengthBelow = Calculate-StreakStatistics $streaksBelow
+
+    # Calculate the percentage of games with the specified condition
+    $percentageOfGamesWithExpectOrMoreShots = ($filteredData.$column -ge $number1).Count / $filteredData.Count * 100
+
+    # Display the streak statistics and other information
+    Write-Host "Consecutive games with $column data"
+    Write-Host "Longest streak of $column over: $longestStreakAbove"
+    Write-Host "Shortest streak of $column over: $shortestStreakAbove"
+    Write-Host "Average length of streaks of $column over: $($averageLengthAbove -f '0.00')"
+
+    Write-Host "Streaks Under"
+    Write-Host "Longest streak of $column under: $longestStreakBelow"
+    Write-Host "Shortest streak of $column under: $shortestStreakBelow"
+    Write-Host "Average length of streaks of $column under: $($averageLengthBelow -f '0.00')"
+
+    Write-Host "Average $column per game: $($averageShotsPerGame -f '0.00')"
+    Write-Host "Percentage of games with $column >= $number1 $($percentageOfGamesWithExpectOrMoreShots -f '0.00')%"
+
+   
+
+    # Display the last 8 rows of data
+    Write-Host "Last 8 rows of data:"
+    $filteredData | Select-Object -Last 5 | Format-Table  away_team, $column, location, PRATotals, SBTtotal, PRTotals, RATotal
+
+    $filteredData = $data | Where-Object { $_.name -eq $name -and $_.away_team -eq $opp }
+    Write-Host "Last 5 games against the opponent:"
+   $filteredData | Select-Object -Last 5 | Format-Table  away_team, $column, location, PRATotals, SBTtotal, PRTotals, RATotal
+}
