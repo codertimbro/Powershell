@@ -1,0 +1,163 @@
+#team nhl data script
+
+$team= Read-host "Team"
+$column= Read-Host "Column"
+
+$results =(Get-ChildItem -Path X:\Sports\NHL\gamejson -Filter *.json).fullname
+$data=foreach($line in $results){
+$game = Get-Content $line | ConvertFrom-Json
+if($game.awayteam.abbrev -eq $team){
+$PP=$game.awayteam.$column
+$gameid1= $game.startTimeUTC
+$gameid= $gameid1.split("T")[0]
+
+$gameid, $team, "away", $PP -join ','
+}
+elseif($game.hometeam.abbrev -eq $team){
+ $PP=$game.hometeam.$column
+$gameid1= $game.startTimeUTC
+$gameid= $gameid1.split("T")[0]
+ $gameid, $team, "home", $PP -join ','}
+else {continue}
+}
+
+$data|out-file "test1111.txt"
+invoke-item "test1111.txt"
+
+#nhl player
+
+$name = Read-Host "Enter a name"
+$column = Read-Host "What column"
+$number1 = [float](Read-Host "Enter a number")
+$opp = Read-Host "Enter the opponent name"
+$htmlFileName = "PlayerStatisticsReport.html"
+Clear-Content -Path $htmlFileName
+
+$data = Import-Csv "C:\Users\timbro\AppData\Local\Programs\Python\Python38\nhl_players_logs.csv"
+
+
+$filteredData = $data | Where-Object { $_.FormattedName -eq $name }
+
+if ($filteredData.Count -eq 0) {
+    Write-Host "No data found for the player with name: $name"
+} else {
+  
+
+    $streaksAbove = @()
+    $streaksBelow = @()
+    $currentStreakAbove = 0
+    $currentStreakBelow = 0
+
+    foreach ($val in $filteredData.$column) {
+        if ($val -ge $number1) {
+            $currentStreakAbove++
+            if ($currentStreakBelow -gt 0) {
+                $streaksBelow += $currentStreakBelow
+                $currentStreakBelow = 0
+            }
+        } else {
+            if ($currentStreakAbove -gt 0) {
+                $streaksAbove += $currentStreakAbove
+                $currentStreakAbove = 0
+            }
+            $currentStreakBelow++
+        }
+    }
+
+    # Function to calculate streak statistics
+    function Calculate-Streak-Statistics($streaks) {
+        if ($streaks.Count -eq 0) {
+            return 0, 0, 0  # Return zeros when no streaks are found
+        }
+        $longestStreak = $streaks | Measure-Object -Maximum
+        $shortestStreak = $streaks | Measure-Object -Minimum
+        $averageLength = ($streaks | Measure-Object -Average).Average
+        return $longestStreak.Maximum, $shortestStreak.Minimum, $averageLength
+    }
+
+    # Calculate the average shots per game
+    $averageShotsPerGame = $filteredData.$column | Measure-Object -Average
+
+    # Calculate statistics for "above" condition
+    $longestStreakAbove, $shortestStreakAbove, $averageLengthAbove = Calculate-Streak-Statistics $streaksAbove
+
+    # Calculate statistics for "below" condition
+    $longestStreakBelow, $shortestStreakBelow, $averageLengthBelow = Calculate-Streak-Statistics $streaksBelow
+
+    # Calculate the percentage of games with the specified condition
+    $percentageOfGames = ($filteredData.$column -ge $number1).Count / $filteredData.Count * 100
+
+    # HTML content
+    $htmlContent = @"
+    <html>
+    <head>
+        <style>
+            table {
+                border-collapse: collapse;
+                width: 50%;
+            }
+
+            th, td {
+                border: 1px solid black;
+                padding: 8px;
+                text-align: left;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Player Statistics Report</h2>
+        <p><strong>Player Name:</strong> $name</p>
+        <p><strong>Opponent:</strong> $opp</p>
+        <table>
+            <tr>
+                <th>Statistic</th>
+                <th>Value</th>
+            </tr>
+            <tr>
+                <td>Longest Streak of $column Over</td>
+                <td>$longestStreakAbove</td>
+            </tr>
+            <tr>
+                <td>Shortest Streak of $column Over</td>
+                <td>$shortestStreakAbove</td>
+            </tr>
+            <tr>
+                <td>Average Length of Streaks of $column Over</td>
+                <td>$($averageLengthAbove -f 2)</td>
+            </tr>
+            <tr>
+                <td>Longest Streak of $column Under</td>
+                <td>$longestStreakBelow</td>
+            </tr>
+            <tr>
+                <td>Shortest Streak of $column Under</td>
+                <td>$shortestStreakBelow</td>
+            </tr>
+            <tr>
+                <td>Average Length of Streaks of $column Under</td>
+                <td>$($averageLengthBelow -f 2)</td>
+            </tr>
+            <tr>
+                <td>Average $column Per Game</td>
+                <td>$($averageShotsPerGame.Average -f 2)</td>
+            </tr>
+            <tr>
+                <td>Percentage of Games with $column >= $($number1 -f 2)</td>
+                <td>$($percentageOfGames -f 2)%</td>
+            </tr>
+        </table>
+$htmlContent += @"
+    <h3>Filtered Data</h3>
+    <h4>Last 8 rows</h4>
+    $($filteredData | Select-Object -Last 8 | ConvertTo-Html -Fragment)
+
+    <h4>Against $opp</h4>
+    $($filteredData | Where-Object { $_.FormattedName -eq $name -and $_.Opp -eq $opp } | ConvertTo-Html -Fragment)
+"@
+
+
+$htmlContent | Out-File -FilePath $htmlFileName -Append
+
+Write-Host "Player statistics report saved to $htmlFileName"
+Invoke-Item -Path $htmlFileName  # Open the HTML file in the default web browser
+   }
