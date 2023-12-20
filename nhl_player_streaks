@@ -1,0 +1,68 @@
+
+$name = Read-Host "Enter a name"
+$column = Read-Host "What column"
+$number1 = [float](Read-Host "Enter a number")
+$opp = Read-Host "Enter the opponent name"
+$homeaway = Read-Host "Home or Away"
+$htmlFileName = "PlayerStatisticsReport.html"
+Clear-Content -Path $htmlFileName
+
+$data = Import-Csv "C:\Users\timbro\AppData\Local\Programs\Python\Python38\nhl_players_logs.csv"
+
+
+$filteredData = $data | Where-Object { $_.FormattedName -eq $name }
+
+if ($filteredData.Count -eq 0) {
+    Write-Host "No data found for the player with name: $name"
+} else {
+  
+
+    $streaksAbove = @()
+    $streaksBelow = @()
+    $currentStreakAbove = 0
+    $currentStreakBelow = 0
+
+    foreach ($val in $filteredData.$column) {
+        if ($val -ge $number1) {
+            $currentStreakAbove++
+            if ($currentStreakBelow -gt 0) {
+                $streaksBelow += $currentStreakBelow
+                $currentStreakBelow = 0
+            }
+        } else {
+            if ($currentStreakAbove -gt 0) {
+                $streaksAbove += $currentStreakAbove
+                $currentStreakAbove = 0
+            }
+            $currentStreakBelow++
+        }
+    }
+
+    # Function to calculate streak statistics
+    function Calculate-Streak-Statistics($streaks) {
+        if ($streaks.Count -eq 0) {
+            return 0, 0, 0  # Return zeros when no streaks are found
+        }
+        $longestStreak = $streaks | Measure-Object -Maximum
+        $shortestStreak = $streaks | Measure-Object -Minimum
+        $averageLength = ($streaks | Measure-Object -Average).Average
+        return $longestStreak.Maximum, $shortestStreak.Minimum, $averageLength
+    }
+
+    # Calculate the average shots per game
+    $averageShotsPerGame = $filteredData.$column | Measure-Object -Average
+
+    # Calculate statistics for "above" condition
+    $longestStreakAbove, $shortestStreakAbove, $averageLengthAbove = Calculate-Streak-Statistics $streaksAbove
+
+    # Calculate statistics for "below" condition
+    $longestStreakBelow, $shortestStreakBelow, $averageLengthBelow = Calculate-Streak-Statistics $streaksBelow
+
+    # Calculate the percentage of games with the specified condition
+    $percentageOfGames = ($filteredData.$column -ge $number1).Count / $filteredData.Count * 100
+
+
+$htmlContent = @"
+<html>
+<head>
+    <style>
