@@ -1,0 +1,155 @@
+# Still have to add location like home and away
+
+$csvData = Import-Csv -Path "C:\Users\timbro\AppData\Local\Programs\Python\Python38\nhl_players_logs.csv"
+Invoke-Item "C:\Powershell\teams.txt"
+
+$number1 = Read-Host "Enter the threshold value"
+$column = Read-Host "Enter the column name"
+$games = Read-Host "Enter the number of games"
+$teamsFile = Get-Content -Path "C:\Powershell\teams.txt"
+
+# Group the data by PlayerID
+$locationgroupedData = $csvData | Where-Object { $_.Team -in $teamsFile -and $_.homeaway -eq 'Home' } | Group-Object -Property playerID
+$groupedData1 = $csvData | Where-Object { $_.Team -in $teamsFile } | Group-Object -Property playerID
+
+# Create an array to store the results
+$results = @()
+
+# Iterate through each player and check if they had 1 or more shots in their last 5 games
+foreach ($group in $groupedData1) {
+    $playerID = $group.Name
+    $playerData = $group.Group | Select-Object -Last $games
+
+    # Check if $playerData is not null and has at least one element
+    if ($playerData -ne $null -and $playerData.Count -gt 0) {
+        # Check if the player had 1 or more shots in each of the last 5 games
+        $hasShots = $playerData | ForEach-Object {
+            $_.$column -gt $number1
+        }
+
+        # Check if the player had 1 or more shots in all of their last 5 games
+        if ($hasShots -notcontains $false) {
+            # Get the team information for the player
+            $teamInfo = $playerData[0].Team  # Assuming the team information is the same for all rows of a player
+            $name = $playerData[0].FormattedName
+
+            # Build a custom object with player and team information
+            $resultObject = [PSCustomObject]@{
+                PlayerID = $playerID
+                Team = $teamInfo
+                FormattedName = $name
+                ShotsInLast5Games = 'Yes'
+            }
+
+            # Add the result object to the array
+            $results += $resultObject
+        }
+    }
+    else {
+        Write-Host "No data for player $playerID"
+    }
+}
+
+# Sort the results array by the Team property
+$results = $results | Sort-Object Team
+
+# Display the sorted results for players who had 1 or more shots in all of their last 5 games
+foreach ($result in $results) {
+    Write-Host "$($result.FormattedName), $($result.Team)"
+}
+
+Write-Host "--------------------------------------------"
+
+# Create an array to store the streaks
+$streaks = @()
+
+# Iterate through each player and check streaks
+# Iterate through each player and check streaks
+foreach ($group in $groupedData1) {
+    $playerID = $group.Name
+    $playerData = $group.Group 
+
+    $streaksAbove1 = @()
+    $streaksBelow1 = @()
+    $currentStreakAbove1 = 0
+    $currentStreakBelow1 = 0
+
+    foreach ($data in $playerData) {
+        $val = $data.$column
+        $playerName = $data.FormattedName
+        $playerTeam = $data.Team
+
+        if ($val -ge $number1) {
+            $currentStreakAbove1++
+            if ($currentStreakBelow1 -gt 0) {
+                $streaksBelow1 += [PSCustomObject]@{
+                    PlayerName = $playerName
+                    Team = $playerTeam
+                    StreakLength = $currentStreakBelow1
+                }
+                $currentStreakBelow1 = 0
+            }
+        } else {
+            if ($currentStreakAbove1 -gt 0) {
+                $streaksAbove1 += [PSCustomObject]@{
+                    PlayerName = $playerName
+                    Team = $playerTeam
+                    StreakLength = $currentStreakAbove1
+                }
+                $currentStreakAbove1 = 0
+            }
+            $currentStreakBelow1++
+        }
+    }
+
+    # Function to calculate streak statistics
+    function Calculate-Streak-Statistics($streaks) {
+        if ($streaks.Count -eq 0) {
+            return 0, 0, 0  # Return zeros when no streaks are found
+        }
+        $longestStreak1 = $streaks | Measure-Object -Property StreakLength -Maximum
+        $shortestStreak1 = $streaks | Measure-Object -Property StreakLength -Minimum
+        $averageLength1 = ($streaks | Measure-Object -Property StreakLength -Average).Average
+        
+        return $longestStreak1.Maximum, $shortestStreak1.Minimum, $averageLength1
+    }
+
+    # Calculate statistics for "above" condition
+    $longestStreakAbove1, $shortestStreakAbove1, $averageLengthAbove1 = Calculate-Streak-Statistics $streaksAbove1
+
+    # Calculate statistics for "below" condition
+    $longestStreakBelow1, $shortestStreakBelow1, $averageLengthBelow1 = Calculate-Streak-Statistics $streaksBelow1
+
+    # Calculate the percentage of streaks above the threshold
+    $percentageOfGames = $streaksAbove1.Count / $playerData.Count * 100
+
+
+    # Build a custom object with player, team, and streak information including the percentage
+    $streaks += [PSCustomObject]@{
+        PlayerName = $playerName
+        Team = $playerTeam
+        LongestStreak = $longestStreakAbove1
+        ShortestStreak = $shortestStreakAbove1
+        AverageLength = $averageLengthAbove1
+        PercentageStreaksAboveThreshold = $percentageOfGames
+    }
+}
+
+
+# Sort the streaks array by Team property
+$streaks = $streaks | Sort-Object Team
+
+# Display streaks for each player
+foreach ($streak in $streaks) {
+    Write-Host "Player name: $($streak.PlayerName)"
+    Write-Host "Team: $($streak.Team)"
+    Write-Host "Longest Streak: $($streak.LongestStreak)"
+    Write-Host "Shortest Streak: $($streak.ShortestStreak)"
+    Write-Host "Average Length: $($streak.AverageLength)"
+    
+  Write-Host "%: $($streak.PercentageStreaksAboveThreshold)"
+    Write-Host "--------------------------------------------"
+}
+
+$results | Export-Csv -Path "C:\Powershell\results.csv" -NoTypeInformation
+$streaks | Export-Csv -Path "C:\Powershell\streaks.csv" -NoTypeInformation
