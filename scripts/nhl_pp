@@ -1,0 +1,13 @@
+$results =(Get-ChildItem -Path C:\Users\timbro\AppData\Local\Programs\Python\Python38\gamejson\2023 -Filter *.json).fullname
+$data=foreach($line in $results){
+$game = Get-Content $line | ConvertFrom-Json
+$gameid= $game.gameDate
+$team= $game.hometeam.abbrev
+$team1= $game.awayteam.abbrev
+$PP1=$game.awayteam.powerPlayConversion
+$PP=$game.hometeam.powerPlayConversion
+$gameid, $team1, $team, "away", $PP1, $pp -join ','
+$gameid, $team,$team1, "home", $PP, $PP1 -join ','}
+ 
+$data|out-file "test.txt"
+invoke-item "test.txt"
