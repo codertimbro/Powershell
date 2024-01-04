@@ -1,0 +1,70 @@
+# Specify the path to your CSV file
+$csvPath = "C:\Users\timbro\AppData\Local\Programs\Python\Python38\nhl_players_logs.csv"
+
+
+# Import the CSV file
+$data = Import-Csv $csvPath
+
+# Initialize a hashtable to store streak information for each team
+$teamStreaks = @{}
+
+# Iterate through each row in the CSV data
+foreach ($row in $data) {
+    $team = $row.Team
+    $date = $row.GameID
+    $ppPoints = [int]$row.Shots
+
+    # Initialize the streak counter for the team if not already set
+    if (-not $teamStreaks.ContainsKey($team)) {
+        $teamStreaks[$team] = @{
+            'CurrentStreak' = 0
+            'StreakLengths' = @()
+        }
+    }
+
+    # Check if the PPPoints value is greater than 1
+    if ($ppPoints -gt 2) {
+        # Increment the current streak for the team
+        $teamStreaks[$team].CurrentStreak++
+    } else {
+        # If the PPPoints value is 0, reset the streak and store the length
+        if ($teamStreaks[$team].CurrentStreak -gt 0) {
+            $teamStreaks[$team].StreakLengths += $teamStreaks[$team].CurrentStreak
+            $teamStreaks[$team].CurrentStreak = 0
+        }
+    }
+}
+
+# Calculate the average streak length for each team
+$teamAverages = @{}
+foreach ($team in $teamStreaks.Keys) {
+    $streakLengths = $teamStreaks[$team].StreakLengths
+    if ($streakLengths.Count -gt 0) {
+        $averageStreakLength = ($streakLengths | Measure-Object -Average).Average
+        $teamAverages[$team] = $averageStreakLength
+    } else {
+        $teamAverages[$team] = 0
+    }
+}
+
+# Display teams that are at or near their streak
+$threshold = 3  # Adjust the threshold as needed
+$results = @()
+foreach ($team in $teamAverages.Keys) {
+    $averageStreakLength = $teamAverages[$team]
+    if ($averageStreakLength -ge $threshold) {
+        $result = [PSCustomObject]@{
+            'Team' = $team
+            'AverageStreakLength' = $averageStreakLength
+        }
+        $results += $result
+    }
+}
+
+# Specify the path to save the results CSV file
+$resultsPath = "C:\Users\timbro\AppData\Local\Programs\Python\Python38\File.csv"
+
+# Export the results to a CSV file
+$results | Export-Csv -Path $resultsPath -NoTypeInformation
+Write-Host "Results saved to $resultsPath"
+invoke-item "C:\Users\timbro\AppData\Local\Programs\Python\Python38\File.csv"
