@@ -1,0 +1,236 @@
+$apiUrl = "https://api-web.nhle.com/v1/gamecenter/2023020233/boxscore"
+$response = Invoke-RestMethod -Uri $apiUrl -Method Get
+
+
+# Read JSON file
+$data = $response
+
+# Extract goalie data (or any other data you need)
+$homeTeamData = $data.homeTeam
+$team = $homeTeamData.abbrev
+$awayTeamData = $data.awayTeam
+$team1 = $awayTeamData.abbrev
+
+# Extract the game date
+
+$gameDate = $data.gameDate
+$homeaway = "home"
+
+# Extract player data for home forwards
+$homeForwards = $data.boxscore.playerByGameStats.homeTeam.forwards
+
+$results=foreach ($player in $homeForwards) {
+       $playerData = @{ "playerId" = $player.playerId
+        "team" = $team
+        "GameID" = $gameDate
+        "FormattedName" = $player.name.default
+        "toi" = $player.toi
+        "Shots" = $player.shots
+        "Points" = $player.points
+        "Goals" = $player.goals
+        "Assists" = $player.assists
+        "PPPoints" = $player.powerPlayPoints
+        "PPtoi" = $player.powerPlayToi
+        "homeaway" = $homeaway
+        "Opp" = $team1
+        "blockedShots"= $player.blockedShots
+        }
+    
+    $playerData
+  
+}
+
+$homeForwards = $data.boxscore.playerByGameStats.homeTeam.defense
+$results1=foreach ($player in $homeForwards) {
+    $playerData = @{
+        "playerId" = $player.playerId
+        "team" = $team
+        "GameID" = $gameDate
+        "FormattedName" = $player.name.default
+        "toi" = $player.toi
+        "Shots" = $player.shots
+        "Points" = $player.points
+        "Goals" = $player.goals
+        "Assists" = $player.assists
+        "PPPoints" = $player.powerPlayPoints
+        "PPtoi" = $player.powerPlayToi
+        "homeaway" = $homeaway
+        "Opp" = $team1
+        "blockedShots"= $player.blockedShots
+    }
+     $playerData
+}
+
+
+# Extract goalie data (or any other data you need)
+$awayTeamData = $data.awayTeam
+$team1 = $awayTeamData.abbrev
+$homeaway = "away"
+
+# Extract player data for home forwards
+$homeForwards = $data.boxscore.playerByGameStats.awayTeam.forwards
+$results2=foreach ($player in $homeForwards) {
+    $playerData = @{
+        "playerId" = $player.playerId
+        "team" = $team1
+        "GameID" = $gameDate
+        "FormattedName" = $player.name.default
+        "toi" = $player.toi
+        "Shots" = $player.shots
+        "Points" = $player.points
+        "Goals" = $player.goals
+        "Assists" = $player.assists
+        "PPPoints" = $player.powerPlayPoints
+        "PPtoi" = $player.powerPlayToi
+        "homeaway" = $homeaway
+        "Opp" = $team
+        "blockedShots"= $player.blockedShots
+    }
+    $playerData
+}
+
+$homeForwards = $data.boxscore.playerByGameStats.awayTeam.defense
+$results3=foreach ($player in $homeForwards) {
+    $playerData = @{
+        "playerId" = $player.playerId
+        "team" = $team1
+        "GameID" = $gameDate
+        "FormattedName" = $player.name.default
+        "toi" = $player.toi
+        "Shots" = $player.shots
+        "Points" = $player.points
+        "Goals" = $player.goals
+        "Assists" = $player.assists
+        "PPPoints" = $player.powerPlayPoints
+        "PPtoi" = $player.powerPlayToi
+        "homeaway" = $homeaway
+        "Opp" = $team
+        "blockedShots"= $player.blockedShots
+    }
+     $playerData
+}
+
+
+$htmlFilePath = "nhl_players_logs.html"
+# Create an HTML file and write the table header
+@"
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+</head>
+<body>
+<table>
+    <tr>
+        <th>GameID</th>
+        <th>homeaway</th>
+        <th>team</th>
+        <th>Opp</th>
+        <th>FormattedName</th>
+        <th>Shots</th>
+        <th>Goals</th>
+        <th>Assists</th>
+        <th>Points</th>
+        <th>PPPoints</th>
+        <th>blockedShots</th>
+        <th>PPtoi</th>
+        <th>toi</th>
+    </tr>
+"@ | Out-File -FilePath $htmlFilePath -Encoding UTF8
+
+# Write the player data to the HTML file
+$results | ForEach-Object {
+    @"
+    <tr>
+        <td>$($_.GameID)</td>
+        <td>$($_.homeaway)</td>
+        <td>$($_.team)</td>
+        <td>$($_.Opp)</td>
+        <td>$($_.FormattedName)</td>
+        <td>$($_.Shots)</td>
+        <td>$($_.Goals)</td>
+        <td>$($_.Assists)</td>
+        <td>$($_.Points)</td>
+        <td>$($_.PPPoints)</td>
+        <td>$($_.blockedShots)</td>
+        <td>$($_.PPtoi)</td>
+        <td>$($_.toi)</td>
+    </tr>
+"@
+} | Out-File -FilePath $htmlFilePath -Append -Encoding UTF8
+$results1 | ForEach-Object {
+    @"
+    <tr>
+        <td>$($_.GameID)</td>
+        <td>$($_.homeaway)</td>
+        <td>$($_.team)</td>
+        <td>$($_.Opp)</td>
+        <td>$($_.FormattedName)</td>
+        <td>$($_.Shots)</td>
+        <td>$($_.Goals)</td>
+        <td>$($_.Assists)</td>
+        <td>$($_.Points)</td>
+        <td>$($_.PPPoints)</td>
+        <td>$($_.blockedShots)</td>
+        <td>$($_.PPtoi)</td>
+        <td>$($_.toi)</td>
+    </tr>
+"@
+} | Out-File -FilePath $htmlFilePath -Append -Encoding UTF8
+$results2 | ForEach-Object {
+    @"
+    <tr>
+        <td>$($_.GameID)</td>
+        <td>$($_.homeaway)</td>
+        <td>$($_.team)</td>
+        <td>$($_.Opp)</td>
+        <td>$($_.FormattedName)</td>
+        <td>$($_.Shots)</td>
+        <td>$($_.Goals)</td>
+        <td>$($_.Assists)</td>
+        <td>$($_.Points)</td>
+        <td>$($_.PPPoints)</td>
+        <td>$($_.blockedShots)</td>
+        <td>$($_.PPtoi)</td>
+        <td>$($_.toi)</td>
+    </tr>
+"@
+} | Out-File -FilePath $htmlFilePath -Append -Encoding UTF8
+$results3 | ForEach-Object {
+    @"
+    <tr>
+        <td>$($_.GameID)</td>
+        <td>$($_.homeaway)</td>
+        <td>$($_.team)</td>
+        <td>$($_.Opp)</td>
+        <td>$($_.FormattedName)</td>
+        <td>$($_.Shots)</td>
+        <td>$($_.Goals)</td>
+        <td>$($_.Assists)</td>
+        <td>$($_.Points)</td>
+        <td>$($_.PPPoints)</td>
+        <td>$($_.blockedShots)</td>
+        <td>$($_.PPtoi)</td>
+        <td>$($_.toi)</td>
+    </tr>
+"@
+} | Out-File -FilePath $htmlFilePath -Append -Encoding UTF8
+
+# Complete the HTML file
+"</table>
+</body>
+</html>
+" | Out-File -FilePath $htmlFilePath -Append -Encoding UTF8
+
+invoke-item -path $htmlFilePath
+
