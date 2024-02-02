@@ -1,0 +1,216 @@
+Symbol,Name,Exchange,Leverage
+AAPB,"Graniteshares Aapl 1.75X Daily ETF",NASDAQ,Double-Long
+AAPU,"Daily Aaple 1.5X ETF",NASDAQ,Double-Long
+AGQ,"Ultra Silver 2X ETF","NYSE Arca",Double-Long
+AMZU,"Daily Amazon 1.5X ETF",NASDAQ,Double-Long
+BABX,"Graniteshares Baba 1.75X Daily ETF",NASDAQ,Double-Long
+BDCX,"Etracs Quarterly Pay 1.5X Bdc ETN","NYSE Arca",Double-Long
+BERZ,"Microsectors Fang & Innovation -3X ETN","NYSE Arca",Triple-Short
+BIB,"Ultra Nasdaq Biotechnology 2X ETF",NASDAQ,Double-Long
+BIS,"Ultrashort Nasdaq Biotechnology -2X ETF",NASDAQ,Double-Short
+BITX,"Volatility 2X Bitcoin Strategy ETF","NYSE Arca",Double-Long
+BNKD,"Microsectors U.S. Big Banks -3X ETN","NYSE Arca",Triple-Short
+BNKU,"Microsectors U.S. Big Banks 3X ETN","NYSE Arca",Triple-Long
+BOIL,"Ultra Bloomberg Natural Gas 2X ETF","NYSE Arca",Double-Long
+BRZU,"Brazil Bull 3X Direxion","NYSE Arca",Triple-Long
+BUFB,"Innovator Laddered Allocation Buffer ETF","NYSE Arca",Triple-Long
+BULZ,"Microsectors Fang & Innovation 3X ETN","NYSE Arca",Triple-Long
+BZQ,"Ultrashort MSCI Brazil Capped -2X ETF","NYSE Arca",Double-Short
+CARD,"Montreal Max Auto Industry -3X ETN","NYSE Arca",Triple-Short
+CARU,"Montreal Max Auto Industry 3X ETN","NYSE Arca",Triple-Long
+CEFD,"Etracs Monthly Pay 1.5X ETN","NYSE Arca",Double-Long
+CHAU,"CSI 300 China A 2X ETF Direxion","NYSE Arca",Double-Long
+CLDL,"Cloud Computing 2X Shares Direxion","NYSE Arca",Double-Long
+CONL,"Graniteshares Coinbase 1.5X Daily ETF",NASDAQ,Double-Long
+CURE,"Healthcare Bull 3X ETF Direxion","NYSE Arca",Triple-Long
+CWEB,"CSI China Internet Idx Bull 2X ETF Direxion","NYSE Arca",Double-Long
+DDM,"Ultra Dow30 2X ETF","NYSE Arca",Double-Long
+DFEN,"Aerospace Defense Bull 3X ETF Direxion","NYSE Arca",Triple-Long
+DGP,"DB Gold 2X ETN Powershares","NYSE Arca",Double-Long
+DIG,"Ultra Oil & Gas 2X ETF","NYSE Arca",Double-Long
+DPST,"Regional Banks Bull 3X Direxion","NYSE Arca",Triple-Long
+DRIP,"S&P Oil & Gas Expl Bear -2X Direxion","NYSE Arca",Double-Short
+DRN,"Real Estate Bull 3X Direxion","NYSE Arca",Triple-Long
+DRV,"Real Estate Bear -3X Direxion","NYSE Arca",Triple-Short
+DUG,"Ultrashort Oil & Gas -2X ETF","NYSE Arca",Double-Short
+DULL,"Microsectors Gold -3X Inverse Leveraged ETN","NYSE Arca",Triple-Short
+DUSL,"Industrials Bull 3X Direxion","NYSE Arca",Triple-Long
+DUST,"Gold Miners Bear -2X Direxion","NYSE Arca",Double-Short
+DXD,"Ultrashort Dow30 -2X ETF","NYSE Arca",Double-Short
+DZZ,"DB Gold -2X ETN Powershares","NYSE Arca",Double-Short
+EDC,"Emrg Mkts Bull 3X Direxion","NYSE Arca",Triple-Long
+EDZ,"Emrg Mkts Bear -3X Direxion","NYSE Arca",Triple-Short
+EET,"Ultra MSCI Emerging Markets 2X ETF","NYSE Arca",Double-Long
+EEV,"Ultrashort MSCI Emerging Markets -2X ETF","NYSE Arca",Double-Short
+EFO,"Ultra MSCI EAFE 2X ETF","NYSE Arca",Double-Long
+EFU,"Ultrashort MSCI EAFE -2X ETF","NYSE Arca",Double-Short
+EPV,"Ultrashort FTSE Europe -2X ETF","NYSE Arca",Double-Short
+ERX,"Energy Bull 2X ETF Direxion","NYSE Arca",Double-Long
+ERY,"Energy Bear -2X Direxion","NYSE Arca",Double-Short
+ESUS,"Etracs 2X MSCI US ESG Focus TR ETN","NYSE Arca",Double-Long
+EUO,"Ultrashort Euro -2X ETF","NYSE Arca",Double-Short
+EURL,"FTSE Europe Bull 3X Direxion","NYSE Arca",Triple-Long
+EVAV,"Electric and Autonomous 2X ETF Direxion","NYSE Arca",Double-Long
+EWV,"Ultrashort MSCI Japan -2X ETF","NYSE Arca",Double-Short
+EZJ,"Ultra MSCI Japan 2X ETF","NYSE Arca",Double-Long
+FAS,"Financial Bull 3X Direxion","NYSE Arca",Triple-Long
+FAZ,"Financial Bear -3X Direxion","NYSE Arca",Triple-Short
+FBGX,"FI Enhanced Large Cap Growth 2X ETN","NYSE Arca",Double-Long
+FBL,"Graniteshares Meta 1.5X Daily ETF",NASDAQ,Double-Long
+FEDL,"Etracs 2X Ifed Invest With The Fed TR","NYSE Arca",Double-Long
+FLYD,"Microsectors Travel -3X ETN","NYSE Arca",Triple-Short
+FLYU,"Microsectors Travel 3X ETN","NYSE Arca",Triple-Long
+FNGD,"Microsectors Fang+ -3X ETN","NYSE Arca",Triple-Short
+FNGG,"Large Caps & Fangs Bull 2X ETF Direxion","NYSE Arca",Double-Long
+FNGO,"Microsectors Fang+ 2X ETN","NYSE Arca",Double-Long
+FNGU,"Microsectors Fang+ 3X ETN","NYSE Arca",Triple-Long
+FXP,"Ultrashort FTSE China 50 -2X ETF","NYSE Arca",Double-Short
+GDXD,"Microsectors Gold Miners -3X ETN","NYSE Arca",Triple-Short
+GDXU,"Microsectors Gold Miners 3X ETN","NYSE Arca",Triple-Long
+GGLL,"Daily Google Bull 1.5X Shares Direxion",NASDAQ,Double-Long
+GLL,"Ultrashort Gold -2X ETF","NYSE Arca",Double-Short
+GUSH,"S&P Oil & Gas Expl Bull 2X ETF Direxion","NYSE Arca",Double-Long
+HDLB,"Etracs 2X US HI Div Low Vol ETN Series B","NYSE Arca",Double-Long
+HIBL,"S&P 500 High Beta Bull 3X Direxion","NYSE Arca",Triple-Long
+HIBS,"S&P 500 High Beta Bear -3X Direxion","NYSE Arca",Triple-Short
+INDL,"India Bull 3X Direxion","NYSE Arca",Triple-Long
+IWDL,"Etracs 2X US Value Factor TR ETN","NYSE Arca",Double-Long
+IWFL,"Etracs 2X US Growth Factor TR ETN","NYSE Arca",Double-Long
+IWML,"Etracs 2X US Size Factor TR ETN","NYSE Arca",Double-Long
+JDST,"Junior Gold Mine Bear -3X Direxion","NYSE Arca",Triple-Short
+JETD,"Max Airlines -3X Inverse Leveraged Etns","NYSE Arca",Triple-Short
+JETU,"Max Airlines 3X Leveraged Etns","NYSE Arca",Triple-Long
+JNUG,"Junior Gold Mine Bull 3X Direxion","NYSE Arca",Triple-Long
+JULD,"Innovator Premium Income 10 Barrier ETF - Jul","NYSE Arca",Double-Long
+JULH,"Innovator Premium Income 20 Barrier ETF - Jul","NYSE Arca",Double-Long
+JULJ,"Innovator Premium Income 30 Barrier ETF - Jul","NYSE Arca",Double-Long
+JULQ,"Innovator Premium Income 40 Barrier ETF - Jul","NYSE Arca",Double-Long
+KLNE,"Daily Global Clean Energy Bull 2X ETF Direxion","NYSE Arca",Double-Long
+KOLD,"Ultrashort Bloomberg Natural Gas -2X ETF","NYSE Arca",Double-Short
+KORU,"South Korea Bull 3X Direxion","NYSE Arca",Triple-Long
+LABD,"S&P Biotech Bear -3X Direxion","NYSE Arca",Triple-Short
+LABU,"S&P Biotech Bull 3X Direxion","NYSE Arca",Triple-Long
+LTL,"Ultra Telecommunications 2X ETF","NYSE Arca",Double-Long
+MEXX,"MSCI Mexico Bull 3X Direxion","NYSE Arca",Triple-Long
+MIDU,"Mid Cap Bull 3X Direxion","NYSE Arca",Triple-Long
+MLPR,"Etracs Quarterly Pay 1.5X Alerian MLP ETN","NYSE Arca",Double-Long
+MSFU,"Daily Microsoft 1.5X ETF Direxion",NASDAQ,Double-Long
+MSOX,"Advisorshares Msos 2X Daily ETF","NYSE Arca",Double-Long
+MTUL,"Etracs 2X MSCI US Momentum Factor TR ETF","NYSE Arca",Double-Long
+MVRL,"Etracs Monthly Pay 1.5X Mortgage REIT ETN","NYSE Arca",Double-Long
+MVV,"Ultra Midcap400 2X ETF","NYSE Arca",Double-Long
+MZZ,"Ultrashort Midcap400 -2X ETF","NYSE Arca",Double-Short
+NAIL,"Homebuild & Suppliers Bull 3X Direxion","NYSE Arca",Triple-Long
+NRGD,"Microsectors U.S. Big Oil Index -3X ETN","NYSE Arca",Triple-Short
+NRGU,"Microsectors U.S. Big Oil Index 3X ETN","NYSE Arca",Triple-Long
+NUGT,"Gold Miners Bull 2X ETF Direxion","NYSE Arca",Double-Long
+NVD,"Graniteshares 1.5X Short Nvda Daily ETF",NASDAQ,Double-Short
+NVDL,"Graniteshares Nvda 1.5X Daily ETF",NASDAQ,Double-Long
+NVDQ,"T-Rex 2X Inverse Nvidia Daily Target ETF","NYSE Arca",Double-Short
+NVDS,"Axs Nivida -1.25X Daily ETF",NASDAQ,Double-Short
+NVDU,"Direxion Daily Nvda Bull 1.5X Shares",NASDAQ,Double-Long
+NVDX,"T-Rex 2X Long Nvidia Daily Target ETF","NYSE Arca",Double-Long
+OILD,"Microsectors Oil & Gas Exp. & Prod -3X ETN","NYSE Arca",Triple-Short
+OILU,"Microsectors Oil & Gas Exp. & Prod. 3X ETN","NYSE Arca",Triple-Long
+OOTO,"Travel & Vacation Bull 2X ETF Direxion","NYSE Arca",Double-Long
+PFFL,"Etracs 2X Prfd Stock Index ETN","NYSE Arca",Double-Long
+PILL,"Pharmaceutical & Medical Bull 3X Direxion ETF","NYSE Arca",Triple-Long
+PST,"Ultrashort Lehman 7-10 Year Treasury -2X ETF","NYSE Arca",Double-Short
+QID,"Ultrashort QQQ -2X ETF","NYSE Arca",Double-Short
+QLD,"Ultra QQQ 2X ETF","NYSE Arca",Double-Long
+QULL,"Etracs 2X MSCI US Quality Factor TR ETF","NYSE Arca",Double-Long
+RETL,"Retail Bull 3X Direxion","NYSE Arca",Triple-Long
+REW,"Ultrashort Technology -2X ETF","NYSE Arca",Double-Short
+ROM,"Ultra Technology 2X ETF","NYSE Arca",Double-Long
+RXD,"Ultrashort Health Care -2X ETF","NYSE Arca",Double-Short
+RXL,"Ultra Health Care 2X ETF","NYSE Arca",Double-Long
+SAA,"Ultra Smallcap600 2X ETF","NYSE Arca",Double-Long
+SCC,"Ultrashort Consumer Services -2X ETF","NYSE Arca",Double-Short
+SCDL,"Etracs 2X US Dividend Factor TR ETN","NYSE Arca",Double-Long
+SCO,"Ultrashort Bloomberg Crude Oil -2X ETF","NYSE Arca",Double-Short
+SDD,"Ultrashort Smallcap600 -2X ETF","NYSE Arca",Double-Short
+SDOW,"Ultrapro Short Dow 30 -3X ETF","NYSE Arca",Triple-Short
+SDP,"Ultrashort Utilities -2X ETF","NYSE Arca",Double-Short
+SDS,"Ultrashort S&P500 -2X ETF","NYSE Arca",Double-Short
+SHNY,"Microsectors Gold 3X Leveraged ETN","NYSE Arca",Triple-Long
+SIJ,"Ultrashort Industrials -2X ETF","NYSE Arca",Double-Short
+SKF,"Ultrashort Financials -2X ETF","NYSE Arca",Double-Short
+SKRE,"Tuttle Capital Daily 2X Inverse Regional Banks E",NASDAQ,Double-Short
+SKYU,"Ultra Nasdaq Cloud Computing 2X ETF",NASDAQ,Double-Long
+SMDD,"Ultrapro Short Midcap 400 -3X ETF","NYSE Arca",Triple-Short
+SMHB,"Etracs 2X Small Cap HI Div ETN","NYSE Arca",Double-Long
+SMN,"Ultrashort Basic Materials -2X ETF","NYSE Arca",Double-Short
+SOXL,"Semiconductor Bull 3X Direxion","NYSE Arca",Triple-Long
+SOXS,"Semiconductor Bear -3X Direxion","NYSE Arca",Triple-Short
+SPUU,"S&P 500 Bull 2X ETF Direxion","NYSE Arca",Double-Long
+SPXL,"S&P 500 Bull 3X Direxion","NYSE Arca",Triple-Long
+SPXS,"S&P 500 Bear -3X Direxion","NYSE Arca",Triple-Short
+SPXU,"Ultrapro Short S&P500 -3X ETF","NYSE Arca",Triple-Short
+SQQQ,"Ultrapro Short QQQ -3X ETF",NASDAQ,Triple-Short
+SRS,"Ultrashort Real Estate -2X ETF","NYSE Arca",Double-Short
+SRTY,"Ultrapro Short Russell 2000 -3X ETF","NYSE Arca",Triple-Short
+SSG,"Ultrashort Semiconductors -2X ETF","NYSE Arca",Double-Short
+SSO,"Ultra S&P500 2X ETF","NYSE Arca",Double-Long
+SZK,"Ultrashort Consumer Goods -2X ETF","NYSE Arca",Double-Short
+TARK,"Axs 2X Innovation ETF",NASDAQ,Double-Long
+TBT,"Ultrashort Lehman 20 Year Treasury -2X ETF","NYSE Arca",Double-Short
+TECL,"Technology Bull 3X Direxion","NYSE Arca",Triple-Long
+TECS,"Technology Bear -3X Direxion","NYSE Arca",Triple-Short
+TMF,"20+ Year Trsy Bull 3X Direxion ETF","NYSE Arca",Triple-Long
+TMV,"20+ Year Trsy Bear -3X Direxion ETF","NYSE Arca",Triple-Short
+TNA,"Smallcap Bull 3X Direxion","NYSE Arca",Triple-Long
+TPOR,"Transportation Bull 3X Direxion","NYSE Arca",Triple-Long
+TQQQ,"Ultrapro QQQ 3X ETF",NASDAQ,Triple-Long
+TSDD,"Graniteshares 1.5X Short Tsla Daily ETF",NASDAQ,Double-Short
+TSL,"Graniteshares Tsla 1.25X Daily ETF",NASDAQ,Double-Long
+TSLL,"Daily Tesla Bull 1.5X ETF Direxion",NASDAQ,Double-Long
+TSLR,"Graniteshares 1.75X Long Tsla Daily ETF",NASDAQ,Double-Long
+TSLT,"T-Rex 2X Long Tesla Daily Target ETF",NASDAQ,Double-Long
+TSLZ,"T-Rex 2X Inverse Tesla Daily Target ETF",NASDAQ,Double-Short
+TTT,"Ultrapro Short 20 Year Treasury -3X ETF","NYSE Arca",Triple-Short
+TWM,"Ultrashort Russell 2000 -2X ETF","NYSE Arca",Double-Short
+TYD,"7-10 Year Treasury Bull 3X Direxion ETF","NYSE Arca",Triple-Long
+TYO,"7-10 Year Treasury Bear -3X Direxion ETF","NYSE Arca",Triple-Short
+TZA,"Smallcap Bear -3X Direxion","NYSE Arca",Triple-Short
+UBOT,"Robotics Artificial Intelligence 3X Direxion","NYSE Arca",Triple-Long
+UBR,"Ultra MSCI Brazil Capped 2X ETF","NYSE Arca",Double-Long
+UBT,"Ultra 20+ Year Treasury 2X ETF","NYSE Arca",Double-Long
+UCC,"Ultra Consumer Services 2X ETF","NYSE Arca",Double-Long
+UCO,"Ultra Bloomberg Crude Oil 2X ETF","NYSE Arca",Double-Long
+UCYB,"Ultra Nasdaq Cybersecurity 2X ETF",NASDAQ,Double-Long
+UDOW,"Ultrapro Dow30 3X ETF","NYSE Arca",Triple-Long
+UGE,"Ultra Consumer Goods 2X ETF","NYSE Arca",Double-Long
+UGL,"Ultra Gold 2X ETF","NYSE Arca",Double-Long
+UJB,"Ultra High Yield 2X ETF","NYSE Arca",Double-Long
+ULE,"Ultra Euro 2X ETF","NYSE Arca",Double-Long
+UMDD,"Ultrapro Midcap 400 Proshares 3X ETF","NYSE Arca",Triple-Long
+UPRO,"Ultrapro S&P 500 3X ETF","NYSE Arca",Triple-Long
+UPV,"Ultra FTSE Europe 2X ETF","NYSE Arca",Double-Long
+UPW,"Ultra Utilities 2X ETF","NYSE Arca",Double-Long
+URE,"Ultra Real Estate 2X ETF","NYSE Arca",Double-Long
+URTY,"Ultrapro Russell 2000 3X ETF","NYSE Arca",Triple-Long
+USD,"Ultra Semiconductors 2X ETF","NYSE Arca",Double-Long
+USML,"Etracs 2X MSCI US Minimum Volatility Fund","NYSE Arca",Double-Long
+UST,"Ultra 7-10 Year Treasury 2X ETF","NYSE Arca",Double-Long
+UTSL,"Utilities Bull 3X Direxion","NYSE Arca",Triple-Long
+UVIX,"VS TR 2X Long VIX Futures ETF","NYSE Arca",Double-Long
+UVXY,"Ultra VIX Short-Term 2X Futures ETF","NYSE Arca",Double-Long
+UWM,"Ultra Russell 2000 2X ETF","NYSE Arca",Double-Long
+UXI,"Ultra Industrials 2X ETF","NYSE Arca",Double-Long
+UYG,"Ultra Financials 2X ETF","NYSE Arca",Double-Long
+UYM,"Ultra Basic Materials 2X ETF","NYSE Arca",Double-Long
+WANT,"Consumer Discretionary Bull 3X Direxion","NYSE Arca",Triple-Long
+WEBL,"DJ Internet Bull 3X Direxion","NYSE Arca",Triple-Long
+WEBS,"DJ Internet Bear -3X Direxion","NYSE Arca",Triple-Short
+WTID,"Microsectors Energy -3X Leveraged ETN","NYSE Arca",Triple-Short
+WTIU,"Microsectors Energy 3X Leveraged ETN","NYSE Arca",Triple-Long
+XBJA,"Innovator U.S. Accelerated 9 Buffer ETF - Jan","NYSE Arca",Double-Long
+XDJA,"Innovator U.S. Accelerated ETF - Jan","NYSE Arca",Double-Long
+XPP,"Ultra FTSE China 50 2X ETF","NYSE Arca",Double-Long
+XTJA,"Innovator U.S. Accelerated Plus ETF - Jan","NYSE Arca",Triple-Long
+YANG,"FTSE China Bear -3X Direxion","NYSE Arca",Triple-Short
+YCL,"Ultra Yen 2X ETF","NYSE Arca",Double-Long
+YCS,"Ultrashort Yen New -2X ETF","NYSE Arca",Double-Short
+YINN,"FTSE China Bull 3X Direxion","NYSE Arca",Triple-Long
+ZSL,"Ultrashort Silver -2X ETF","NYSE Arca",Double-Short
+"Downloaded from Barchart.com as of 02-02-2024 08:21am CST"
