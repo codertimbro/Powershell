@@ -1,0 +1,96 @@
+Get-Member
+Get-Command
+Get-Help <cmdlet_name> -Full
+
+Printers
+# Query WMI for printer information on the remote computer
+$printers = Get-WmiObject -Class Win32_Printer -ComputerName $remoteComputer
+
+# Display information about each printer
+foreach ($printer in $printers) {
+    Write-Host "Printer Name: $($printer.Name)"
+    Write-Host "  Port Name: $($printer.PortName)"
+    Write-Host "  Driver Name: $($printer.DriverName)"
+    Write-Host "  Location: $($printer.Location)"
+    Write-Host "  Network Printer: $($printer.Network)"
+    Write-Host "  Default Printer: $($printer.Default)"
+    Write-Host "  Status: $($printer.Status)"
+    Write-Host "  "
+}
+
+Sotware version
+
+# Query WMI for installed software information on the remote computer
+$software = Get-WmiObject -Class Win32_Product -ComputerName $remoteComputer
+
+# Display information about each installed software
+foreach ($app in $software) {
+    Write-Host "Name: $($app.Name)"
+    Write-Host "Version: $($app.Version)"
+    Write-Host "Vendor: $($app.Vendor)"
+    Write-Host " "
+}
+
+Registy
+
+# Specify the registry path you want to access
+$registryPath = "SOFTWARE\Microsoft\Windows\CurrentVersion"
+
+# Access registry entries on the remote computer
+$registryEntries = Invoke-Command -ComputerName $remoteComputer -ScriptBlock {
+    Get-ItemProperty -Path "HKLM:\$using:registryPath" -ErrorAction SilentlyContinue
+}
+
+# Display the retrieved registry entries
+if ($registryEntries) {
+    foreach ($entry in $registryEntries.PSObject.Properties) {
+        Write-Host "Name: $($entry.Name)"
+        Write-Host "Value: $($entry.Value)"
+        Write-Host " "
+    }
+} else {
+    Write-Host "No registry entries found at path: $registryPath"
+}
+
+Network
+# Query WMI for network adapter information on the remote computer
+$networkAdapters = Get-WmiObject -Class Win32_NetworkAdapter -ComputerName $remoteComputer | Where-Object {$_.AdapterType -like "*Ethernet*" -or $_.AdapterType -like "*Wireless*"}
+
+# Display information about network adapters
+foreach ($adapter in $networkAdapters) {
+    Write-Host "Name: $($adapter.Name)"
+    Write-Host "Description: $($adapter.Description)"
+    Write-Host "MAC Address: $($adapter.MACAddress)"
+    Write-Host "Adapter Type: $($adapter.AdapterType)"
+    Write-Host "Device ID: $($adapter.DeviceID)"
+    Write-Host " "
+}
+
+Network drives
+# Query WMI for mapped drives on the remote computer
+$driveMappings = Get-WmiObject -Class Win32_LogicalDisk -ComputerName $remoteComputer -Filter "DriveType=4"
+
+# Display information about drive mappings
+foreach ($drive in $driveMappings) {
+    Write-Host "DeviceID: $($drive.DeviceID)"
+    Write-Host "ProviderName: $($drive.ProviderName)"
+    Write-Host " "
+}
+
+
+Search for word or drive
+# Specify the directory path on the remote computer where you want to start the search
+$searchPath = "\\$remoteComputer\C$\"  # Example: "C:\" is the root of the C drive
+
+# Search for the file by name on the remote computer
+$foundFiles = Get-ChildItem -Path $searchPath -Recurse -Filter $fileName -ErrorAction SilentlyContinue
+
+# Display the paths of found files
+if ($foundFiles) {
+    foreach ($file in $foundFiles) {
+        Write-Host "Found file: $($file.FullName)"
+    }
+} else {
+    Write-Host "File '$fileName' not found on $remoteComputer."
+}
+
