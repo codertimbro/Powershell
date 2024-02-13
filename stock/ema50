@@ -1,0 +1,18 @@
+# Daily numbers (replace with your own data)
+$dailyNumbers = @(100, 110, 105, 120, 115, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170)
+
+# Calculate the 50-day EMA
+$emaValues = @()
+$alpha = 2 / (50 + 1)  # EMA smoothing factor
+
+for ($i = 0; $i -lt $dailyNumbers.Count; $i++) {
+    if ($i -eq 0) {
+        $ema = $dailyNumbers[$i]
+    } else {
+        $ema = $alpha * $dailyNumbers[$i] + (1 - $alpha) * $emaValues[$i - 1]
+    }
+    $emaValues += $ema
+}
+
+# Display the EMA values
+$emaValues
