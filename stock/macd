@@ -1,0 +1,43 @@
+# Daily numbers (replace with your own data)
+$dailyNumbers = @(100, 110, 105, 120, 115, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170)
+
+# Parameters
+$shortEMAperiod = 12
+$longEMAperiod = 26
+
+# Calculate the short-term EMA (12-day EMA)
+$shortEMAValues = @()
+$alphaShort = 2 / ($shortEMAperiod + 1)
+
+for ($i = 0; $i -lt $dailyNumbers.Count; $i++) {
+    if ($i -eq 0) {
+        $shortEMA = $dailyNumbers[$i]
+    } else {
+        $shortEMA = $alphaShort * $dailyNumbers[$i] + (1 - $alphaShort) * $shortEMAValues[$i - 1]
+    }
+    $shortEMAValues += $shortEMA
+}
+
+# Calculate the long-term EMA (26-day EMA)
+$longEMAValues = @()
+$alphaLong = 2 / ($longEMAperiod + 1)
+
+for ($i = 0; $i -lt $dailyNumbers.Count; $i++) {
+    if ($i -eq 0) {
+        $longEMA = $dailyNumbers[$i]
+    } else {
+        $longEMA = $alphaLong * $dailyNumbers[$i] + (1 - $alphaLong) * $longEMAValues[$i - 1]
+    }
+    $longEMAValues += $longEMA
+}
+
+# Calculate the MACD (difference between short-term and long-term EMAs)
+$macdValues = @()
+
+for ($i = 0; $i -lt $dailyNumbers.Count; $i++) {
+    $macd = $shortEMAValues[$i] - $longEMAValues[$i]
+    $macdValues += $macd
+}
+
+# Display the MACD values
+$macdValues
