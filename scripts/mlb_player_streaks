@@ -29,7 +29,7 @@ if ($totalStreaks -gt 0) {
 }
 
 # Output results
-$totalStreaks
+Write-Host "Total Streaks: $totalStreaks"
 Write-Host "Streak Lengths: $($streakLengths -join ', ')"
 Write-Host "Average Streak Length: $averageStreakLength"
 Write-Host "Current Streak: $currentStreak"
