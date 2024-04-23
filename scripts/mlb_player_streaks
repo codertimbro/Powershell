@@ -1,5 +1,5 @@
 # Read data from CSV file
-$scores  =gc "c:\users\timbro\scores.txt" 
+$scores = gc "c:\users\timbro\scores.txt"
 
 # Calculate streaks of consecutive scores
 $currentStreak = 0
@@ -28,12 +28,26 @@ if ($totalStreaks -gt 0) {
     $averageStreakLength = 0
 }
 
-# Output results
+# Output streak-related results
 Write-Host "Total Streaks: $totalStreaks"
 Write-Host "Streak Lengths: $($streakLengths -join ', ')"
 Write-Host "Average Streak Length: $averageStreakLength"
-Write-Host "Current Streak: $currentStreak"
 
+# Calculate current streak count of either 0 or 1 or more
+$currentStreakCount = 0
+$inStreak = $false
+
+# Calculate current streak count of either 0 or 1 or more
+foreach ($score in $scores) {
+    if ($score -ge 1) {
+        $inStreak = $true
+        $currentStreakCount++
+    } elseif ($inStreak) {
+        break
+    }
+}
+Write-Host "Current Streak Count: $currentStreakCount"
+# Calculate the probability of the next game having a score of 1 or more
 $totalGames = $scores.Count
 $positiveScores = ($scores | Where-Object { $_ -ge 1 }).Count
 $probability = $positiveScores / $totalGames
@@ -47,5 +61,52 @@ if ($nextGameScore -le $probability) {
     $nextGameResult = 0
 }
 
+# Output probability and next game result
 Write-Host "Probability of next game having a score of 1 or more: $($probability * 100)%"
 Write-Host "Next game result: $nextGameResult"
+# Read data from CSV file
+# Initialize variables
+$consecutiveZeros = 0
+$zeroStreaks = @()
+
+# Calculate consecutive streaks of 0s
+
+# Initialize variables
+$consecutiveZeros = 0
+$zeroStreaks = @()
+
+# Calculate consecutive streaks of 0s
+foreach ($score in $scores) {
+    if ($score -eq 0) {
+        $consecutiveZeros++
+    } elseif ($consecutiveZeros -gt 0) {
+        $zeroStreaks += $consecutiveZeros
+        $consecutiveZeros = 0
+    }
+}
+
+# Add the last streak if there are any remaining zeros at the end
+if ($consecutiveZeros -gt 0) {
+    $zeroStreaks += $consecutiveZeros
+}
+
+# Calculate average consecutive zeros
+$totalStreaks = $zeroStreaks.Count
+$totalZeroStreakLength = $zeroStreaks | Measure-Object -Sum | Select-Object -ExpandProperty Sum
+if ($totalStreaks -gt 0) {
+    $averageZeroStreakLength = [math]::Round($totalZeroStreakLength / $totalStreaks, 2)
+} else {
+    $averageZeroStreakLength = 0
+}
+
+# Calculate current streak of consecutive zeros
+$currentStreak = 0
+if ($scores[-1] -eq 0) {
+    $currentStreak = $consecutiveZeros
+}
+
+# Output results
+Write-Host "Total Zero Streaks: $totalStreaks"
+Write-Host "Zero Streak Lengths: $($zeroStreaks -join ', ')"
+Write-Host "Average Consecutive Zeros: $averageZeroStreakLength"
+Write-Host "Current Streak of Consecutive Zeros: $currentStreak"
