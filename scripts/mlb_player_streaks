@@ -1,0 +1,51 @@
+# Read data from CSV file
+$scores  =gc "c:\users\timbro\scores.txt" 
+
+# Calculate streaks of consecutive scores
+$currentStreak = 0
+$streakLengths = @()
+foreach ($score in $scores) {
+    if ($score -ge 1) {
+        $currentStreak++
+    } else {
+        if ($currentStreak -gt 0) {
+            $streakLengths += $currentStreak
+            $currentStreak = 0
+        }
+    }
+}
+# Check if there's an ongoing streak at the end
+if ($currentStreak -gt 0) {
+    $streakLengths += $currentStreak
+}
+
+# Calculate average streak length
+$totalStreaks = $streakLengths.Count
+$totalStreakLength = $streakLengths | Measure-Object -Sum | Select-Object -ExpandProperty Sum
+if ($totalStreaks -gt 0) {
+    $averageStreakLength = [math]::Round($totalStreakLength / $totalStreaks, 2)
+} else {
+    $averageStreakLength = 0
+}
+
+# Output results
+$totalStreaks
+Write-Host "Streak Lengths: $($streakLengths -join ', ')"
+Write-Host "Average Streak Length: $averageStreakLength"
+Write-Host "Current Streak: $currentStreak"
+
+$totalGames = $scores.Count
+$positiveScores = ($scores | Where-Object { $_ -ge 1 }).Count
+$probability = $positiveScores / $totalGames
+
+# Simulate the next game
+$random = New-Object Random
+$nextGameScore = $random.NextDouble()
+if ($nextGameScore -le $probability) {
+    $nextGameResult = 1
+} else {
+    $nextGameResult = 0
+}
+
+Write-Host "Probability of next game having a score of 1 or more: $($probability * 100)%"
+Write-Host "Next game result: $nextGameResult"
