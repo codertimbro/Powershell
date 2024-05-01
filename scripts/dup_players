@@ -1,0 +1,12 @@
+Go to https://rotogrinders.com/lineups/mlb
+Copy data to excel
+Save as player.csv
+Make header name, count
+Go to https://www.baseballmusings.com/cgi-bin/CompareSplits.py?&BatterType=1
+Copy data to excel
+Save the file as player.txt
+
+$fileContent = gc player.txt
+$fileContent1= import-csv player.csv
+$player= $fileContent1.name
+$data = $player |where {$fileContent -contains $_}
