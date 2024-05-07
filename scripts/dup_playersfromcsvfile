@@ -1,0 +1,34 @@
+# Main Script
+$csvContent = Import-Csv -Path "player.csv"
+$txtContent = Get-Content -Path "players1.txt"
+
+# Find duplicates in both files
+$duplicateNames = $csvContent.player | Where-Object { $_ -in $txtContent } | Select-Object -Unique
+
+# Sort data by RBI
+$sortedData = $csvContent | Sort-Object RBI
+
+# Iterate through duplicate names
+$dat1 = foreach ($name in $duplicateNames) {
+    # Find matching line in sorted CSV data
+    $matchingLine = $sortedData | Where-Object { $_.player -eq $name }
+
+    # Output the matching line with properties on one line
+    foreach ($line in $matchingLine) {
+        # Construct a hashtable to store key-value pairs
+        $data = @{
+            Player = $line.player
+            AB = $line.AB
+            '2B' = $line.'2B'
+            RBI = $line.RBI
+            AVG= $line.AVG
+            # Add other properties as needed
+        }
+        # Output the hashtable
+        New-Object PSObject -Property $data
+    }
+}
+
+# Export the data to CSV
+$dat1 | Export-Csv "test.csv" -NoTypeInformation
+invoke-item "test.csv"
