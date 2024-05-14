@@ -1,0 +1,201 @@
+ $line3 = (Get-ChildItem D:\MLB\GamesLogs -Filter *.txt).FullName
+foreach($filePath in $line3)
+{
+$date= $filePath.split("\\")[3].split(".")[0].split("_")[0]
+$hometeam=$filePath.split(".")[0].split("_")[1].split("-")[1]
+$awayteam= $filePath.split(".")[0].split("_")[1].split("-")[0]
+# Path to the output file
+$outputFilePath = "D:\MLB\gameslogs\teams\$awayteam.csv"
+
+# Read the content of the original file
+$content = Get-Content -Path $filePath
+
+# Variable to store lines from the first occurrence of "T1" until the first occurrence of "Box Score:"
+$linesBetweenT1AndBoxScore = @()
+
+# Flag to indicate if "T1" has been encountered
+$t1Encountered = $false
+
+# Loop through each line in the file
+foreach ($line in $content) {
+    # Check if the line contains "T1"
+    if ($line -match "T1") {
+        # Set the flag to true
+        $t1Encountered = $true
+    }
+
+    # If "T1" has been encountered, add the line to the array
+    if ($t1Encountered) {
+        $linesBetweenT1AndBoxScore += $line
+    }
+
+    # Check if the line contains "Box Score:"
+    if ($line -match "Box Score:") {
+        # If "Box Score:" is found, break out of the loop
+        break
+    }
+}
+
+# Save the lines from the first occurrence of "T1" until the first occurrence of "Box Score:" to the output file
+$linesBetweenT1AndBoxScore 
+
+
+
+# Initialize an array to store the lines that meet the criteria
+$desiredLines = @()
+
+# Read the file line by line
+$lines = $linesBetweenT1AndBoxScore 
+for ($i = 0; $i -lt $lines.Count; $i++) {
+    $line = $lines[$i]
+
+    # Check if the line starts with "1T"
+    if ($line -match "\bT1\b") {
+        # Check the next two lines if they are positive
+        for ($j = $i + 1; $j -lt $lines.Count -and $j -lt $i + 3; $j++) {
+            $nextLine = $lines[$j]
+            if ($nextLine -gt 0) {  # Assuming positive means greater than zero
+                # If positive, add the lines to the desiredLines array
+                $desiredLines += $line
+                $desiredLines += $nextLine
+                $desiredLines += $lines[$j + 1]
+                break
+            }
+        }
+    }
+}
+
+
+
+
+# Initialize counters for singles, doubles, triples, and home runs
+$singlesCount = 0
+$doublesCount = 0
+$triplesCount = 0
+$homeRunsCount = 0
+$runsCount= 0
+$strikeout= 0
+$Walks= 0
+# Iterate through each line and count occurrences of singles, doubles, triples, and home runs
+foreach ($line in $desiredLines) {
+    # Use regular expressions to search for occurrences of singles, doubles, triples, and home runs
+    $singlesCount += [regex]::Matches($line, '\bsingles\b', 'IgnoreCase').Count
+    $doublesCount += [regex]::Matches($line, '\bdoubles\b', 'IgnoreCase').Count
+    $triplesCount += [regex]::Matches($line, '\btriples\b', 'IgnoreCase').Count
+    $homeRunsCount += [regex]::Matches($line, '\bhomers\b', 'IgnoreCase').Count
+    $runsCount += [regex]::Matches($line, '\bscores\b', 'IgnoreCase').Count
+    $strikeout += [regex]::Matches($line, '\bstrikes\b', 'IgnoreCase').Count
+    $walks += [regex]::Matches($line, '\bwalks\b', 'IgnoreCase').Count
+}
+$1stinn = [PSCustomObject]@{
+    Date = $date
+    HomeAway = "away"
+    HomeTeam = $hometeam
+    Awayteam = $awayteam
+    SinglesCount = $singlesCount
+    DoublesCount = $doublesCount
+    TriplesCount = $triplesCount
+    HomeRunsCount = $homeRunsCount
+    RunsCount = $runsCount
+    Strikeout = $strikeout
+    Walks= $walks
+}
+$1stinn | Export-Csv -Path $outputFilePath -Append -NoTypeInformation
+# Output the counts of singles, doubles, triples, and home runs
+
+
+
+$outputFilePath = "D:\MLB\gameslogs\teams\$hometeam.csv"
+# Variable to store lines from the first occurrence of "T1" until the first occurrence of "Box Score:"
+$linesBetweenT1AndBoxScore = @()
+
+# Flag to indicate if "T1" has been encountered
+$t1Encountered = $false
+
+# Loop through each line in the file
+foreach ($line in $content) {
+    # Check if the line contains "T1"
+    if ($line -match "B1") {
+        # Set the flag to true
+        $t1Encountered = $true
+    }
+
+    # If "T1" has been encountered, add the line to the array
+    if ($t1Encountered) {
+        $linesBetweenT1AndBoxScore += $line
+    }
+
+    # Check if the line contains "Box Score:"
+    if ($line -match "Box Score:") {
+        # If "Box Score:" is found, break out of the loop
+        break
+    }
+}
+
+# Save the lines from the first occurrence of "T1" until the first occurrence of "Box Score:" to the output file
+$linesBetweenT1AndBoxScore 
+
+
+
+# Initialize an array to store the lines that meet the criteria
+$desiredLines = @()
+
+# Read the file line by line
+$lines = $linesBetweenT1AndBoxScore 
+for ($i = 0; $i -lt $lines.Count; $i++) {
+    $line = $lines[$i]
+
+    # Check if the line starts with "1T"
+    if ($line -match "\bB1\b") {
+        # Check the next two lines if they are positive
+        for ($j = $i + 1; $j -lt $lines.Count -and $j -lt $i + 3; $j++) {
+            $nextLine = $lines[$j]
+            if ($nextLine -gt 0) {  # Assuming positive means greater than zero
+                # If positive, add the lines to the desiredLines array
+                $desiredLines += $line
+                $desiredLines += $nextLine
+                $desiredLines += $lines[$j + 1]
+                break
+            }
+        }
+    }
+}
+
+
+
+
+# Initialize counters for singles, doubles, triples, and home runs
+$singlesCount = 0
+$doublesCount = 0
+$triplesCount = 0
+$homeRunsCount = 0
+$runsCount= 0
+$strikeout= 0
+$Walks= 0
+# Iterate through each line and count occurrences of singles, doubles, triples, and home runs
+foreach ($line in $desiredLines) {
+    # Use regular expressions to search for occurrences of singles, doubles, triples, and home runs
+    $singlesCount += [regex]::Matches($line, '\bsingles\b', 'IgnoreCase').Count
+    $doublesCount += [regex]::Matches($line, '\bdoubles\b', 'IgnoreCase').Count
+    $triplesCount += [regex]::Matches($line, '\btriples\b', 'IgnoreCase').Count
+    $homeRunsCount += [regex]::Matches($line, '\bhomers\b', 'IgnoreCase').Count
+    $runsCount += [regex]::Matches($line, '\bscores\b', 'IgnoreCase').Count
+    $strikeout += [regex]::Matches($line, '\bstrikes\b', 'IgnoreCase').Count
+    $walks += [regex]::Matches($line, '\bwalks\b', 'IgnoreCase').Count
+}
+$1stinn = [PSCustomObject]@{
+    Date = $date
+    HomeAway = "home"
+    HomeTeam = $hometeam
+    Awayteam = $awayteam
+    SinglesCount = $singlesCount
+    DoublesCount = $doublesCount
+    TriplesCount = $triplesCount
+    HomeRunsCount = $homeRunsCount
+    RunsCount = $runsCount
+    Strikeout = $strikeout
+    Walks= $walks
+}
+$1stinn | Export-Csv -Path $outputFilePath -Append -NoTypeInformation
+Start-sleep -Milliseconds 500
+}
