@@ -1,0 +1,51 @@
+# Get all .txt files in the specified directory
+$line3 = Get-ChildItem -Path 'D:\MLB\GamesLogs\test' -Filter *.txt
+
+foreach($filePath in $line3) {
+    # Extract date, away team, and home team from the file name
+    $fileName = [System.IO.Path]::GetFileNameWithoutExtension($filePath)
+    $fileNameParts = $fileName -split "_"
+    
+    $date = $fileNameParts[0]
+    $teams = $fileNameParts[1]
+    $teamParts = $teams -split "-"
+
+    $awayteam = $teamParts[0]
+    $hometeam = $teamParts[1]
+
+    # Construct the output file name
+    $outputFileName = "${date}_${awayteam}_${hometeam}.txt"
+    $outputFilePath = Join-Path -Path 'D:\MLB\GamesLogs\test' -ChildPath $outputFileName
+
+    # Read the content of the original file
+    $content = Get-Content -Path $filePath.FullName
+
+    # Initialize variable to store lines from the first occurrence of "Play-by-play:" until the first occurrence of "Box Score:"
+    $linesBetweenT1AndBoxScore = @()
+
+    # Flag to indicate if "Play-by-play:" has been encountered
+    $t1Encountered = $false
+
+    # Loop through each line in the file
+    foreach ($line in $content) {
+        # Check if the line contains "Play-by-play:"
+        if ($line -match "Play-by-play:") {
+            # Set the flag to true
+            $t1Encountered = $true
+        }
+
+        # If "Play-by-play:" has been encountered, add the line to the array
+        if ($t1Encountered) {
+            $linesBetweenT1AndBoxScore += $line
+        }
+
+        # Check if the line contains "Box Score:"
+        if ($line -match "Box Score:") {
+            # If "Box Score:" is found, break out of the loop
+            break
+        }
+    }
+
+    # Save the lines from the first occurrence of "Play-by-play:" until the first occurrence of "Box Score:" to the output file
+    $linesBetweenT1AndBoxScore | Out-File -FilePath $outputFilePath
+}
