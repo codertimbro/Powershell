@@ -1,0 +1,156 @@
+ $line3 = (Get-ChildItem D:\MLB\GamesLogs -Filter *.txt).FullName
+$data3=foreach($filePath in $line3)
+{
+$filedata= split-path $filePath -leaf
+$date1=$filedata.split("_")[0]
+$date2 = Get-Date $date1
+$date= $date2.ToString("yyyy-MM-dd")
+$hometeam1=$filedata.split("_")[1].split("-")[1].split(".")[0]
+$awayteam1= $filedata.split("_")[1].split("-")[0]
+$content = Get-Content -Path $filePath
+
+ $hometeam =switch($hometeam1){
+cin{"Reds"}
+wsh{"Nationals"}
+atl{"Braves"}
+default{break}
+nyy{"Yankees"}
+hou{"Astros"}
+pit{"Pirates"}
+mia{"Marlins"}
+sf{"Gaints"}
+sd{"Padres"}
+stl{"Cardinals"}
+lad{"Dodgers"}
+tor{"Blue Jays"}
+tb{"Rays"}
+phi{"Phillies"}
+bos{"Red Sox"}
+sea{"Mariners"}
+cle{"Guardians"}
+oak{"Athletics"}
+col{"Rockies"}
+ari{"Diamondbacks"}
+mil{"Brewers"}
+nym{"Mets"}
+chc{"Cubs"}
+tex{"Rangers"}
+laa{"Angels"}
+bal{"Orioles"}
+min{"Twins"}
+kc{"Royals"}
+cws{"White Sox"}
+det{"Tigers"}
+
+}
+$awayteam= switch($awayteam1){
+cin{"Reds"}
+wsh{"Nationals"}
+atl{"Braves"}
+default{break}
+nyy{"Yankees"}
+hou{"Astros"}
+pit{"Pirates"}
+mia{"Marlins"}
+sf{"Gaints"}
+sd{"Padres"}
+stl{"Cardinals"}
+lad{"Dodgers"}
+tor{"Blue Jays"}
+tb{"Rays"}
+phi{"Phillies"}
+bos{"Red Sox"}
+sea{"Mariners"}
+cle{"Guardians"}
+oak{"Athletics"}
+col{"Rockies"}
+ari{"Diamondbacks"}
+mil{"Brewers"}
+nym{"Mets"}
+chc{"Cubs"}
+tex{"Rangers"}
+laa{"Angels"}
+bal{"Orioles"}
+min{"Twins"}
+kc{"Royals"}
+cws{"White Sox"}
+det{"Tigers"}
+
+}
+
+
+
+$collect = $false
+$linesBetweenT1AndBoxScore = @()
+
+foreach($line in $content) {
+    if($line -like "Play-by-Play Box Score") {
+        $collect = $true
+        $linesBetweenT1AndBoxScore = @()  # Clear the array to start capturing anew
+    }
+
+    if($collect) {
+        $linesBetweenT1AndBoxScore += $line.Trim()
+    }
+
+    if($line -match "W:") {
+        $collect = $false
+    }
+}
+$home1= $linesBetweenT1AndBoxScore[5]
+$home2= $home1[6]
+
+$away1= $linesBetweenT1AndBoxScore[4]
+$away2= $away1[6]
+
+
+
+
+
+
+
+$collect = $false
+$linesBetweenT1AndBoxScore = @()
+
+foreach($line in $content) {
+    if($line -like "$hometeam Pitching:") {
+        $collect = $true
+        $linesBetweenT1AndBoxScore = @()  # Clear the array to start capturing anew
+    }
+
+    if($collect) {
+        $linesBetweenT1AndBoxScore += $line.Trim()
+    }
+
+    if($line -match "$hometeam Pitching Totals:") {
+        $collect = $false
+    }
+}
+$homestarter= $hometeam1,$awayteam1, "home",$date,$away2,  $linesBetweenT1AndBoxScore[2], $linesBetweenT1AndBoxScore[3] -join " "
+$homestarter
+$collect = $false
+$linesBetweenT1AndBoxScore = @()
+
+ foreach($line in $content) {
+    if($line -like "$awayteam Pitching:") {
+        $collect = $true
+        $linesBetweenT1AndBoxScore = @()  # Clear the array to start capturing anew
+    }
+
+    if($collect) {
+        $linesBetweenT1AndBoxScore += $line.Trim()
+    }
+
+    if($line -match "$awayteam Pitching Totals:") {
+        $collect = $false
+    }
+
+$awaystarter= $awayteam1,$hometeam1, "away",$date,$home2,  $linesBetweenT1AndBoxScore[2], $linesBetweenT1AndBoxScore[3] -join " "
+$awaystarter
+}}
+$ddd=$data3|unique
+$f1=$ddd.replace(" ",",")
+$f=$f1.replace(",+", ",")
+$filteredContent = $f| Where-Object {$_ -match "P,\d+\.0,"}
+$filteredContent|out-file "text.txt"
+invoke-item "text.txt"
