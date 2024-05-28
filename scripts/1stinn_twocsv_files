@@ -1,0 +1,33 @@
+# Main Script 
+invoke-item "playersdata.csv"
+Read-host "https://www.baseballmusings.com and save it to player.csv"
+invoke-item "todaystarter.csv"
+Read-host "https://www.baseball-reference.com/previews/"
+
+$todaystarter  = Import-Csv -Path "todaystarter.csv"
+$csvcontent = Import-Csv -Path "playersdata.csv"
+
+
+# Find matching player names and locations, and pull all properties from todaystarter
+$duplicateNames = $csvcontent| Where-Object {
+    $player = $_.player
+    $location = $_.location
+    
+   $todaystarter | Where-Object { $_.player -eq $player -and $_.location -eq $location }
+   
+
+} | Select-Object -Property Player, Location, AB, Hits, BA, OBA| ForEach-Object {
+    # Calculate the average of BA and OBA
+    $_ | Add-Member -MemberType NoteProperty -Name BAOBA -Value (([double]$_.BA + [double]$_.OBA) / 2)
+
+    $_
+}
+
+
+$duplicateNames = $duplicateNames | Sort-Object Player
+
+
+# Output the results to a CSV file
+$duplicateNames| Export-Csv -Path "output.csv" -NoTypeInformation
+
+invoke-item output.csv
