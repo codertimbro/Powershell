@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+Address:<br>
+<textarea id="addressTextarea">
+342 Alvin ^ Road
+Ducksburg *</textarea>
+<br>
+
+ttt:<br>
+<textarea id="tttTextarea">
+9</textarea>
+<br>
+
+
+rrr:<br>
+<textarea id="rrrTextarea">
+yyyy
+</textarea>
+<br>
+<button type="button" onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var address = document.getElementById("addressTextarea").value;
+  var ttt = document.getElementById("tttTextarea").value;
+  var rrr = document.getElementById("rrrTextarea").value;
+  
+  var processedAddress = address.replace(/\^/, ttt);
+  processedAddress = processedAddress.replace(/\*/, rrr);
+  
+  document.getElementById("demo").innerHTML = processedAddress;
+}
+</script>
+
+</body>
+</html>
