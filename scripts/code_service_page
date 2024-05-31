@@ -25,14 +25,10 @@ yyyy
 
 <script>
 function myFunction() {
-  var address = document.getElementById("addressTextarea").value;
-  var ttt = document.getElementById("tttTextarea").value;
-  var rrr = document.getElementById("rrrTextarea").value;
+  var processedAddress = document.getElementById("addressTextarea").value;
   
-  var processedAddress = address.replace(/\^/, ttt);
-  processedAddress = processedAddress.replace(/\*/, rrr);
-  
-  document.getElementById("demo").innerHTML = processedAddress;
+  // Open the processed address in a new tab
+  window.open(processedAddress);
 }
 </script>
 
