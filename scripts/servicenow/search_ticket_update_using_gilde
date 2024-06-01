@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update ServiceNow Ticket</title>
+    <!-- Glide.js CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.core.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/css/glide.theme.min.css">
+    <style>
+        /* Custom styles for the slider */
+        .glide__slide {
+            padding: 20px;
+            text-align: center;
+            background: #f0f0f0;
+            border-radius: 10px;
+            margin: 10px;
+        }
+        .glide__controls {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .ticket-info {
+            text-align: left;
+        }
+        .message {
+            margin: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .message.success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .message.error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+    </style>
+</head>
+<body>
+    <div class="glide">
+        <div class="glide__track" data-glide-el="track">
+            <ul class="glide__slides" id="ticket-slides">
+                <!-- Slides will be populated here -->
+            </ul>
+        </div>
+        <div class="glide__arrows" data-glide-el="controls">
+            <button class="glide__arrow glide__arrow--left" data-glide-dir="<">Prev</button>
+            <button class="glide__arrow glide__arrow--right" data-glide-dir=">">Next</button>
+        </div>
+    </div>
+
+    <form id="ticketForm">
+        <label for="ticketId">Ticket ID:</label>
+        <input type="text" id="ticketId" name="ticketId" required>
+        <button type="button" id="fetchTicket">Fetch Ticket</button>
+    </form>
+
+    <div id="message" class="message"></div>
+    <button type="button" id="openTicket" style="display: none;">Open Ticket</button>
+
+    <!-- Glide.js JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide/dist/glide.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const glide = new Glide('.glide', {
+                type: 'carousel',
+                startAt: 0,
+                perView: 1
+            });
+
+            document.getElementById('fetchTicket').addEventListener('click', function () {
+                const ticketId = document.getElementById('ticketId').value;
+                fetchTicketDetails(ticketId);
+            });
+
+            function fetchTicketDetails(ticketId) {
+                const url = `/api/now/table/incident?sysparm_query=number=${ticketId}`;
+                showMessage('Fetching ticket details...', 'info');
+
+                fetch(url, {
+                    method: 'GET',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    credentials: 'include' // Include cookies for SSO
+                })
+                .then(response => {
+                    if (!response.ok) {
+                        return response.json().then(errorData => {
+                            throw new Error(`HTTP error! Status: ${response.status}, Error: ${errorData.error.message}`);
+                        });
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    if (!data.result || data.result.length === 0) {
+                        throw new Error('No ticket found with the provided ID');
+                    }
+                    const ticket = data.result[0];
+                    displayTicketDetails(ticket);
+                    showMessage('Ticket fetched successfully!', 'success');
+                    document.getElementById('openTicket').style.display = 'inline';
+                    document.getElementById('openTicket').onclick = function() {
+                        window.open(`https://your-instance.service-now.com/nav_to.do?uri=incident.do?sys_id=${ticket.sys_id}`, '_blank');
+                    };
+                })
+                .catch(error => {
+                    console.error('Error fetching ticket:', error);
+                    showMessage('Error fetching ticket: ' + error.message, 'error');
+                    document.getElementById('openTicket').style.display = 'none';
+                });
+            }
+
+            function displayTicketDetails(ticket) {
+                const ticketSlides = document.getElementById('ticket-slides');
+                ticketSlides.innerHTML = ''; // Clear existing slides
+
+                const slide = document.createElement('li');
+                slide.className = 'glide__slide ticket-info';
+                slide.innerHTML = `
+                    <h2>${ticket.short_description}</h2>
+                    <p><strong>Description:</strong> ${ticket.description}</p>
+                    <p><strong>Hostname:</strong> ${ticket.cmdb_ci ? ticket.cmdb_ci.display_value : 'N/A'}</p>
+                    <p><strong>Impact User:</strong> ${ticket.caller_id.display_value}</p>
+                    <p><strong>Phone Number:</strong> ${ticket.caller_id ? ticket.caller_id.phone : 'N/A'}</p>
+                `;
+                ticketSlides.appendChild(slide);
+
+                glide.mount();
+            }
+
+            function showMessage(message, type) {
+                const messageDiv = document.getElementById('message');
+                messageDiv.textContent = message;
+                messageDiv.className = `message ${type}`;
+            }
+        });
+    </script>
+</body>
+</html>
