@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incident Query URL Generator</title>
+    <style>
+        .dynamic-notes {
+            white-space: pre-wrap;
+            border: 1px solid #ccc;
+            padding: 10px;
+            min-height: 100px;
+            max-width: 600px;
+        }
+    </style>
+    <script>
+        function generateUrl() {
+            const baseUrl = "https://xxxxxx.service-now.com/change_request.do?";
+            const product = document.getElementById("product").value.trim();
+            const months = document.getElementById("months").value.trim();
+            const assignmentGroup = document.getElementById("assignment_group").value.trim();
+
+            let url = baseUrl;
+
+            if (product) {
+                url += "short_descriptionLIKE" + encodeURIComponent(product);
+            }
+            if (months) {
+                const date = new Date();
+                date.setMonth(date.getMonth() - months);
+                const formattedDate = date.toISOString().split('T')[0];
+                url += "^opened_at>=" + encodeURIComponent(formattedDate);
+            }
+            if (assignmentGroup) {
+                const groups = assignmentGroup.split('\n').map(group => encodeURIComponent(group.trim())).join('^assignment_group=');
+                if (groups) {
+                    url += "^assignment_group=" + groups;
+                }
+            }
+
+            document.getElementById("outputUrl").value = url;
+        }
+
+        function updateAssignmentGroups() {
+            const assignmentGroupInput = document.getElementById("assignment_group").value;
+            const groups = assignmentGroupInput.split('\n').filter(group => group.trim() !== '');
+            document.getElementById("dynamic_assignment_groups_display").innerText = groups.join("\n");
+        }
+    </script>
+</head>
+<body>
+    <h1>Incident Query URL Generator</h1>
+    <form onsubmit="generateUrl(); return false;">
+        <label for="product">Product:</label><br>
+        <input type="text" id="product" name="product"><br><br>
+        
+        <label for="months">Months (number of months to filter by):</label><br>
+        <input type="number" id="months" name="months"><br><br>
+        
+        <label for="assignment_group">Assignment Group:</label><br>
+        <textarea id="assignment_group" name="assignment_group" oninput="updateAssignmentGroups()"></textarea><br><br>
+        <div id="dynamic_assignment_groups_display" class="dynamic-notes"></div><br>
+        
+        <button type="submit">Generate URL</button>
+    </form>
+    
+    <h2>Generated URL:</h2>
+    <textarea id="outputUrl" rows="4" cols="100" readonly></textarea>
+</body>
+</html>
