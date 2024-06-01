@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Incident Ticket URL Generator</title>
+    <style>
+        .dynamic-notes {
+            white-space: pre-wrap;
+            border: 1px solid #ccc;
+            padding: 10px;
+            min-height: 100px;
+            max-width: 600px;
+        }
+    </style>
+    <script>
+        function generateUrl() {
+            const baseUrl = "https://xxxxxx.service-now.com/change_request.do?";
+            const sysId = document.getElementById("sys_id").value.trim();
+            const workNotes = document.getElementById("work_notes").value.trim();
+            const shortDescription = document.getElementById("short_description").value.trim();
+            const email = document.getElementById("email").value.trim();
+            const restorationSection = document.getElementById("restoration_section").value.trim();
+            const closingNotes = document.getElementById("closing_notes").value.trim();
+            const assignedTo = document.getElementById("assigned_to").value;
+
+            let url = baseUrl + "sys_id=" + encodeURIComponent(sysId);
+
+            if (workNotes) {
+                url += "&sysparm=work_notes=" + encodeURIComponent(workNotes);
+            }
+            if (shortDescription) {
+                url += "^short_description=" + encodeURIComponent(shortDescription);
+            }
+            if (email) {
+                url += "^email=" + encodeURIComponent(email);
+            }
+            if (restorationSection) {
+                url += "^restoration_section=" + encodeURIComponent(restorationSection);
+            }
+            if (closingNotes) {
+                url += "^closing_notes=" + encodeURIComponent(closingNotes);
+            }
+            if (assignedTo === "Blank") {
+                url += "^assigned_to=";
+            }
+
+            document.getElementById("outputUrl").value = url;
+        }
+
+        function updateWorkNotes() {
+            const workNotesInput = document.getElementById("work_notes").value;
+            const sentences = workNotesInput.match(/[^\.!\?]+[\.!\?]+/g) || [workNotesInput];
+            document.getElementById("dynamic_notes_display").innerText = sentences.join("\n");
+        }
+    </script>
+</head>
+<body>
+    <h1>Incident Ticket URL Generator</h1>
+    <form onsubmit="generateUrl(); return false;">
+        <label for="sys_id">Incident Ticket Number (sys_id):</label><br>
+        <input type="text" id="sys_id" name="sys_id"><br><br>
+        
+        <label for="short_description">Short Description:</label><br>
+        <input type="text" id="short_description" name="short_description"><br><br>
+        
+        <label for="work_notes">Work Notes:</label><br>
+        <textarea id="work_notes" name="work_notes" oninput="updateWorkNotes()"></textarea><br><br>
+        <div id="dynamic_notes_display" class="dynamic-notes"></div><br>
+        
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        
+        <label for="restoration_section">Restoration Section:</label><br>
+        <textarea id="restoration_section" name="restoration_section"></textarea><br><br>
+        
+        <label for="closing_notes">Closing Notes:</label><br>
+        <textarea id="closing_notes" name="closing_notes"></textarea><br><br>
+        
+        <label for="assigned_to">Assigned To:</label><br>
+        <select id="assigned_to" name="assigned_to">
+            <option value="Leave as is">Leave as is</option>
+            <option value="Blank">Blank</option>
+        </select><br><br>
+        
+        <button type="submit">Generate URL</button>
+    </form>
+    
+    <h2>Generated URL:</h2>
+    <textarea id="outputUrl" rows="4" cols="100" readonly></textarea>
+</body>
+</html>
