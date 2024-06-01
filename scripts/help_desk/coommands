@@ -1,0 +1,22 @@
+
+Get-EventLog - LogName “Windows PowerShell” -ComputerName “local computer”, “Server1”, “Server2” -EntryType Error
+Stop-Process -Name “notepad”
+get-process
+Show-Command
+Measure-Object
+Invoke-WebRequest	
+invoke-item
+  Full Path for files =  (Get-ChildItem D:\MLB\GamesLogs -Filter *.txt).FullName
+
+  Swtich
+
+ $hometeam =switch($hometeam1){
+cin{"Reds"}
+wsh{"Nationals"}
+atl{"Braves"}
+default{break}
+nyy{"Yankees"}
+hou{"Astros"}
+}
+
+Get-Content -Path $filePath
