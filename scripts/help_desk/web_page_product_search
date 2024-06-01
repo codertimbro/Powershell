@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        label, input {
+            display: block;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Product Search</h1>
+        <form id="productForm">
+            <label for="productName">Enter Product Name:</label>
+            <input type="text" id="productName" name="productName" required>
+            <button type="button" id="searchProduct">Search Product</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('searchProduct').addEventListener('click', function () {
+            const productName = document.getElementById('productName').value;
+            if (productName) {
+                openWebPages(productName);
+            } else {
+                alert('Please enter a product name.');
+            }
+        });
+
+        function openWebPages(productName) {
+            const searchQueries = {
+                'Amazon': `https://www.amazon.com/s?k=${encodeURIComponent(productName)}`,
+                'eBay': `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(productName)}`,
+                'Walmart': `https://www.walmart.com/search/?query=${encodeURIComponent(productName)}`,
+                'Best Buy': `https://www.bestbuy.com/site/searchpage.jsp?st=${encodeURIComponent(productName)}`
+            };
+
+            for (const [site, url] of Object.entries(searchQueries)) {
+                window.open(url, '_blank');
+            }
+        }
+    </script>
+</body>
+</html>
