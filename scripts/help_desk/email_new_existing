@@ -1,0 +1,94 @@
+# Load Outlook com object
+# need to add new tmeple template very basic
+
+$ol = New-Object -comObject Outlook.Application
+
+# Define function to open new email from template
+Function Open-OutlookTemplate {
+    Param(
+        [string]$templatePath,
+        [string]$ticketNumber,
+        [string]$issue
+    )
+
+    # Open template
+    $mail = $ol.CreateItemFromTemplate($templatePath)
+
+    # Replace placeholders
+    $mail.Body = $mail.Body -replace '\$ticketnumber', $ticketNumber
+    $mail.Body = $mail.Body -replace '\$issue', $issue
+
+    # Display the email
+    $mail.Display()
+}
+
+# Function to search emails
+Function Search-Emails {
+    Param(
+        [string]$product,
+        [string]$title
+    )
+
+    # Search through all inboxes
+    $outlookNamespace = $ol.GetNamespace("MAPI")
+    $inboxFolders = $outlookNamespace.Folders | Where-Object { $_.Name -eq "Inbox" -or $_.Name -eq "Shared Mailbox Name" }
+
+    $results = @()
+
+    # Search emails
+    foreach ($folder in $inboxFolders) {
+        $folder.Items | Where-Object { $_.Subject -like "*$product*" } | ForEach-Object {
+            if ($_.Subject -like "*$title*") {
+                $results += $_
+            }
+        }
+    }
+
+    return $results
+}
+
+# Prompt user for action
+$action = Read-Host "Do you want to create a new email or search old ones? (Type 'new' or 'search')"
+
+if ($action -eq "new") {
+    # If creating a new email, prompt for ticket number and issue
+    $ticketNumber = Read-Host "Enter ticket number"
+    $issue = Read-Host "Enter issue description"
+    
+    # Call function to open new email from template
+    Open-OutlookTemplate -templatePath "path\to\new.msg" -ticketNumber $ticketNumber -issue $issue
+}
+elseif ($action -eq "search") {
+    # If searching old emails, prompt for product and title
+    $product = Read-Host "Enter product name"
+    $title = Read-Host "Enter email title"
+    
+    # Call function to search emails
+    $searchResults = Search-Emails -product $product -title $title
+
+    # Display search results
+    if ($searchResults.Count -gt 0) {
+        Write-Host "Search Results:"
+        $searchResults | ForEach-Object {
+            Write-Host $_.Subject
+        }
+    }
+    else {
+        Write-Host "No emails found matching the search criteria."
+    }
+
+    # Prompt user to open specific email
+    $emailToOpen = Read-Host "Enter the title of the email you want to open"
+
+    # Open the selected email
+    $selectedEmail = $searchResults | Where-Object { $_.Subject -eq $emailToOpen } | Select-Object -First 1
+    if ($selectedEmail -ne $null) {
+        $selectedEmail.Display()
+    }
+    else {
+        Write-Host "Email not found."
+    }
+}
+else {
+    Write-Host "Invalid action."
+}
