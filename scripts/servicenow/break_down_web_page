@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ServiceNow API Breakdown</title>
+    <style>
+        /* CSS styling can be added here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #0072c6;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0072c6;
+        }
+        p {
+            line-height: 1.6;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            background-color: #0072c6;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ServiceNow API Breakdown</h1>
+        <p>A breakdown of the ServiceNow API URL</p>
+    </header>
+    <div class="container">
+        <form id="apiForm">
+            <h2>API Endpoint</h2>
+            <input type="text" id="endpoint" placeholder="API Endpoint URL" required>
+
+            <h2>Parameters</h2>
+            <input type="text" id="query" placeholder="sysparm_query" required>
+            <input type="text" id="displayValue" placeholder="sysparm_display_value" required>
+            <input type="text" id="fields" placeholder="sysparm_fields" required>
+
+            <input type="submit" value="Generate URL">
+        </form>
+
+        <div id="result" style="display: none;">
+            <h2>Generated URL</h2>
+            <p id="generatedUrl"></p>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('apiForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var endpoint = document.getElementById('endpoint').value;
+            var query = document.getElementById('query').value;
+            var displayValue = document.getElementById('displayValue').value;
+            var fields = document.getElementById('fields').value;
+
+            var generatedUrl = endpoint + '?sysparm_query=' + encodeURIComponent(query) +
+                '&sysparm_display_value=' + displayValue +
+                '&sysparm_fields=' + encodeURIComponent(fields);
+
+            document.getElementById('generatedUrl').textContent = generatedUrl;
+            document.getElementById('result').style.display = 'block';
+        });
+    </script>
+</body>
+</html>
