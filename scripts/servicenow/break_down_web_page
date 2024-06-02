@@ -97,3 +97,40 @@
     </script>
 </body>
 </html>
+
+Possible 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ServiceNow URL Parser</title>
+</head>
+<body>
+    <h1>ServiceNow URL Parser</h1>
+    <form id="urlForm">
+        <label for="urlInput">Enter ServiceNow URL:</label><br>
+        <input type="text" id="urlInput" name="urlInput" size="100"><br><br>
+        <input type="button" value="Parse URL" onclick="parseURL()">
+    </form>
+    <h2>Parsed Information</h2>
+    <div id="parsedInfo"></div>
+
+    <script>
+        function parseURL() {
+            const url = document.getElementById('urlInput').value;
+            const params = new URLSearchParams(url.split('?')[1]);
+            let parsedInfoDiv = document.getElementById('parsedInfo');
+            parsedInfoDiv.innerHTML = "<ul>";
+
+            for (const [key, value] of params.entries()) {
+                parsedInfoDiv.innerHTML += `<li>${key}: ${value}</li>`;
+            }
+
+            parsedInfoDiv.innerHTML += "</ul>";
+        }
+    </script>
+</body>
+</html>
+
