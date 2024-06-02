@@ -1,1 +1,81 @@
 https://your-instance.service-now.com/incident.do?sys_id=-1^sysparm_query=assigned_to=Tim%20Brown
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ServiceNow Ticket URL Generator</title>
+    <style>
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        input[type="text"], textarea {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+        }
+        input[type="button"] {
+            margin-top: 20px;
+        }
+        #generatedURL {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>ServiceNow Ticket URL Generator</h1>
+    <form id="ticketForm">
+        <label for="assignTo">Assign To:</label>
+        <input type="text" id="assignTo" name="assignTo">
+
+        <label for="assignGroup">Assign Group:</label>
+        <input type="text" id="assignGroup" name="assignGroup">
+
+        <label for="shortDescription">Short Description:</label>
+        <input type="text" id="shortDescription" name="shortDescription">
+
+        <label for="longDescription">Long Description:</label>
+        <textarea id="longDescription" name="longDescription" rows="4"></textarea>
+
+        <label for="reportedBy">Reported By:</label>
+        <input type="text" id="reportedBy" name="reportedBy">
+
+        <label for="state">State:</label>
+        <input type="text" id="state" name="state">
+
+        <input type="button" value="Generate URL" onclick="generateURL()">
+    </form>
+    <h2>Generated URL</h2>
+    <div id="generatedURL"></div>
+
+    <script>
+        function generateURL() {
+            const baseUrl = 'https://<instancename>.service-now.com/nav_to.do?uri=com.glideapp.servicecatalog_cat_item_view.do';
+            const assignTo = document.getElementById('assignTo').value;
+            const assignGroup = document.getElementById('assignGroup').value;
+            const shortDescription = document.getElementById('shortDescription').value;
+            const longDescription = document.getElementById('longDescription').value;
+            const reportedBy = document.getElementById('reportedBy').value;
+            const state = document.getElementById('state').value;
+
+            const params = new URLSearchParams({
+                sysparm_assign_to: assignTo,
+                sysparm_assign_group: assignGroup,
+                sysparm_short_description: shortDescription,
+                sysparm_long_description: longDescription,
+                sysparm_reported_by: reportedBy,
+                sysparm_state: state
+            });
+
+            const fullUrl = `${baseUrl}?${params.toString()}`;
+            document.getElementById('generatedURL').textContent = fullUrl;
+        }
+    </script>
+</body>
+</html>
+
