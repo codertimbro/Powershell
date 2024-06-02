@@ -1,0 +1,8 @@
+https://<instance name>.service-now.com/syslog_list.do?XML&sysparm_orderby=sys_id&sysparm_record_count=10000 #retunrs 10000 results
+https://<instance name>.service-now.com/incident_list.do?CSV	Export all incidents to a comma-separated value text file.
+https://<instance name>.service-now.com/incident_list.do?CSV&sysparm_query=sys_id%3E%3Db4aedb520a0a0b1001af10e278657d27	Export a particular incident to a comma-separated value text file.
+https://<instance name>.service-now.com/incident_list.do?CSV&sysparm_orderby=sys_id	Export all incidents to a comma-separated value text file and sort the list by sys_id.
+sysparm_query Displays a list of records that match the query. For example: https://<instance name>.service-now.com/incident_list.do?XML&sysparm_query=priority=1
+
+sysparm_orderby Sorts a list of records by the column name provided. For example: https://<instance name>.service-now.com/incident_list.do?XML&sysparm_query=priority=1&sysparm_orderby=assigned_to
+You can sort by only one column using sysparm_orderby. To sort by multiple columns, use sysparm_query=ORDERBY[column name]^ORDERBY[column name]. For example: sysparm_query=ORDERBYassigned_to^ORDERBYpriority.
