@@ -6,3 +6,26 @@ sysparm_query Displays a list of records that match the query. For example: http
 
 sysparm_orderby Sorts a list of records by the column name provided. For example: https://<instance name>.service-now.com/incident_list.do?XML&sysparm_query=priority=1&sysparm_orderby=assigned_to
 You can sort by only one column using sysparm_orderby. To sort by multiple columns, use sysparm_query=ORDERBY[column name]^ORDERBY[column name]. For example: sysparm_query=ORDERBYassigned_to^ORDERBYpriority.
+
+https://<instance name>.service-now.com/incident_list.do Opens a list of all incidents without the navigation frame.
+https://<instance name>.service-now.com/nav_to.do?uri=incident_list.do Opens a list of all incidents with (example 1) the navigation frame.
+https://<instance name>.service-now.com/nav_to.do?uri=incident_list.do?sysparm_query=active=true^escalation=2 Returns a list of active incidents with high escalation in the standard interface.
+https://<instance name>.service-now.com/nav_to.do?uri=incident_list.do?sysparm_query=active=false&CSV Returns a comma-separated value file of records in the Incident table that meet the query conditions.
+https://<instance name>.service-now.com/nav_to.do?uri=incident.do?sys_id=-1&sysparm_query=priority=1^incident_state=3^caller_id=javascript:gs.getUserID() You can also use JavaScript to access GlideSystem methods. The following example creates the same type of incident as above, and also populates the caller ID with the current user ID.
+https://<instance name>.service-now.com/nav_to.do?uri=incident.do?sys_id=-1&sysparm_query=priority=1^incident_state=3 Opens a new Incident form in the standard interface with a priority of 1 and an incident state of Awaiting Problem.
+nav_to.do?uri= To display the page in the standard interface, with the banner frame on top and the application navigator on the left
+<page name>.do? To open a form, list, UI page, or other page
+<table name>_list.do To view a list
+	<sys_id> To open a record in form view
+sys_id is -1. To create a new record
+sysparm_query=number=INC00040 Specifies a query (number is INC00040
+sysparm_view=ess: Specifies a view (ess).
+sysparm_query=priority=2^active=true: Specifies a complex query with two terms (priority is 2 and active is true).
+sysparm_query=priority=2^active=true^EQ^GROUPBYcategory: Groups query results (by category).
+sysparm_order=number: Specifies the field by which to sort (number).
+sysparm_order_direction=desc: Specifies a sort order (descending).
+sysparm_force_row_count=5: Limits the maximum number of results (5 records).
+sysparm_result_view=viewname: Specifies the view for search results.
+%26CSV To specify a file format. (CSV, XML, PDF, or UNL (Unload))
+& To separate page parameters
+^(carat) To build multiple term queries or specify multiple field values
