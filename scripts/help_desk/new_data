@@ -20,3 +20,10 @@ $scriptBlock = {
 
 # Run the script block on the remote computer
 Invoke-Command -ComputerName $remoteComputer -ScriptBlock $scriptBlock
+
+
+$computerName = "RemoteComputerName"
+$credential = Get-Credential
+Invoke-Command -ComputerName $computerName -Credential $credential -ScriptBlock {
+    Get-WmiObject -Class Win32_Product | Select-Object -Property Name, Version
+}
