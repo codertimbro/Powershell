@@ -1,13 +1,22 @@
-# Get the current user
-$currentUser = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
-Write-Output "Current User: $currentUser"
+# Define the remote computer name
+$remoteComputer = "RemoteComputerName"
 
-# Check HKCU:\Network and list the subfolders
-$networkKey = "HKCU:\Network"
-$subKeys = Get-ChildItem -Path $networkKey
+# Define the script block to execute on the remote computer
+$scriptBlock = {
+    # Get the current user
+    $currentUser = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
+    Write-Output "Current User: $currentUser"
 
-# Output the subfolders
-Write-Output "Subfolders under HKCU:\Network:"
-foreach ($subKey in $subKeys) {
-    Write-Output $subKey.Name
+    # Check HKCU:\Network and list the subfolders
+    $networkKey = "HKCU:\Network"
+    $subKeys = Get-ChildItem -Path $networkKey
+
+    # Output the subfolders
+    Write-Output "Subfolders under HKCU:\Network:"
+    foreach ($subKey in $subKeys) {
+        Write-Output $subKey.Name
+    }
 }
+
+# Run the script block on the remote computer
+Invoke-Command -ComputerName $remoteComputer -ScriptBlock $scriptBlock
