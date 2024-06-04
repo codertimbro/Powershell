@@ -1,0 +1,13 @@
+# Get the current user
+$currentUser = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
+Write-Output "Current User: $currentUser"
+
+# Check HKCU:\Network and list the subfolders
+$networkKey = "HKCU:\Network"
+$subKeys = Get-ChildItem -Path $networkKey
+
+# Output the subfolders
+Write-Output "Subfolders under HKCU:\Network:"
+foreach ($subKey in $subKeys) {
+    Write-Output $subKey.Name
+}
