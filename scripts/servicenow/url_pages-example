@@ -58,3 +58,5 @@ https://xxx.service-now.com/nav_to.do?uri=task.do?sysparm_query=number= query a 
 iXXX.service-now.com/incident.do?sys_id=INC0010910 request item : XXX.service-now.com/sc_req_item.do?sys_id=RITM0010372
 https://[instance].service-now.com/task.do?sysparm_query=number=INC1234567
 https://[instance].service-now.com/task.do?sysparm_query=number=REQ1234567
+https://ourCompany.service-now.com/kb_view.do?sysparm_query=titleLIKEZoom - queries KBs
+
