@@ -29,3 +29,27 @@ sysparm_result_view=viewname: Specifies the view for search results.
 %26CSV To specify a file format. (CSV, XML, PDF, or UNL (Unload))
 & To separate page parameters
 ^(carat) To build multiple term queries or specify multiple field values
+https://<your_instance>.service-now.com/api/now/table/sys_user?sysparm_query=name=<user_name>&sysparm_fields=sys_id  get the user sys_id you need it for caller id
+Space: %20
+Newline: %0A
+Carriage return: %0D
+Double quote ("): %22
+Hash (#): %23
+Percent (%): %25
+Ampersand (&): %26
+Single quote ('): %27
+Open parenthesis ((): %28
+Close parenthesis ()): %29
+Plus (+): %2B
+Comma (,): %2C
+Slash (/): %2F
+Colon (:): %3A
+Semicolon (;): %3B
+Less than (<): %3C
+Equal sign (=): %3D
+Greater than (>): %3E
+Question mark (?): %3F
+At symbol (@): %40
+Backslash (\): %5C
+Pipe (|): %7C
+Arrow (→): %E2%86%92
