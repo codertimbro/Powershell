@@ -70,10 +70,19 @@
                 'Best Buy': `https://www.bestbuy.com/site/searchpage.jsp?st=${encodeURIComponent(productName)}`
             };
 
-            for (const [site, url] of Object.entries(searchQueries)) {
-                window.open(url, '_blank');
-            }
+            const keys = Object.keys(searchQueries);
+            const firstKey = keys.shift();
+            const firstUrl = searchQueries[firstKey];
+            
+            const popup = window.open(firstUrl, '_blank');
+            keys.forEach(key => {
+                const url = searchQueries[key];
+                setTimeout(() => {
+                    window.open(url, '_blank');
+                }, 100); // Delay opening subsequent tabs to ensure they open in new tabs
+            });
         }
     </script>
 </body>
 </html>
+Remeber to enable pop ups
