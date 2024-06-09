@@ -38,7 +38,7 @@ function Update-MsgFile {
 }
 
 # Call the function to update the .msg file
-Update-MsgFile -templatePath $templatePath -outputPath $outputPath -userName $userName -software $software -ticketNumber $ticketNumber -issue $issue -whatsGoingOn $whatsGoingOn
+Update-MsgFile -templatePath $templatePath -outputPath $outputPath 
 
 # Output result
 Write-Output "MSG file processed and opened."
