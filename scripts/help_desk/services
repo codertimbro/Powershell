@@ -6,3 +6,5 @@ Get-CimInstance -Class Win32_SystemDriver |
 
 
 $service = Get-Service -DisplayName "Xbox Live Game Save"  -ErrorAction SilentlyContinue
+Get-CimInstance -ClassName Win32_Service |
+    Format-Table -Property Status, Name, DisplayName -AutoSize -Wrap
