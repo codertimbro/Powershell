@@ -1,0 +1,25 @@
+# Start Excel application
+$excel = New-Object -ComObject Excel.Application
+$excel.Visible = $false
+
+# Get Excel add-ins collection
+$addIns = $excel.AddIns
+
+# List all add-ins
+Write-Output "List of all Excel add-ins:"
+foreach ($addIn in $addIns) {
+    Write-Output $addIn.Name
+}
+
+# List disabled add-ins
+Write-Output "`nDisabled Excel add-ins:"
+foreach ($addIn in $addIns) {
+    if (-not $addIn.Installed) {
+        Write-Output $addIn.Name
+    }
+}
+
+# Close Excel
+$excel.Quit()
+[System.Runtime.Interopservices.Marshal]::ReleaseComObject($excel) | Out-Null
+Remove-Variable excel
