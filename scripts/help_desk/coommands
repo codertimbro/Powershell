@@ -21,5 +21,9 @@ hou{"Astros"}
 
 Get-Content -Path $filePath
 
+Get-CimClass -Namespace root/CIMV2 | 
+    Where-Object CimClassName -like Win32* | 
+    Select-Object CimClassName
 
-
+Get-CimInstance -Class Win32_OperatingSystem | Get-Member -MemberType Property
+Get-CimInstance -Class Win32_OperatingSystem -ComputerName 192.168.50.128
