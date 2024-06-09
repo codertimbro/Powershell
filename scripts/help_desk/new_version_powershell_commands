@@ -32,6 +32,7 @@
         <pre id="commandOutput"></pre>
         <h2>Registry Location</h2>
         <pre id="registryOutput"></pre>
+        <div id="linkContainer"></div>
     </div>
 
     <script>
@@ -42,11 +43,16 @@
 
             let command = '';
             let registryLocation = '';
+            let links = {};
 
             switch (type) {
                 case 'Registry':
                     command = `Get-ItemProperty -Path "HKLM:\\Software\\${softwareName}"`;
                     registryLocation = `HKLM\\Software\\${softwareName}`;
+                    links = {
+                        "Google": "https://www.google.com",
+                        "StackOverflow": "https://stackoverflow.com"
+                    };
                     break;
                 case 'Services':
                     command = `Get-Service -ComputerName ${hostname} -Name ${softwareName}`;
@@ -62,18 +68,21 @@
             }
 
             document.getElementById('commandOutput').innerText = command;
+            document.getElementById('registryOutput').innerText = registryLocation;
+
+            const linkContainer = document.getElementById('linkContainer');
+            linkContainer.innerHTML = '';
+
             if (type === 'Registry') {
-                document.getElementById('registryOutput').innerText = registryLocation;
-            } else {
-                document.getElementById('registryOutput').innerText = '';
-            }
-           document.getElementById('printer').innerText = command;
-            if (type === 'Registry') {
-                document.getElementById('registryOutput').innerText = registryLocation;
-            } else {
-                document.getElementById('registryOutput').innerText = '';
+                for (const [name, url] of Object.entries(links)) {
+                    const linkButton = document.createElement('button');
+                    linkButton.innerText = name;
+                    linkButton.onclick = () => window.open(url, '_blank');
+                    linkContainer.appendChild(linkButton);
+                }
             }
         }
     </script>
 </body>
 </html>
+
