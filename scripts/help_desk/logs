@@ -35,3 +35,24 @@ foreach ($directory in $logDirectories) {
         Write-Output "Found log file: $($file.FullName)"
     }
 }
+
+Reboot logs
+# Replace "REMOTE_COMPUTER_NAME" with the name of the remote computer you want to query
+$remoteComputer = "REMOTE_COMPUTER_NAME"
+
+# Query the System event log on the remote computer for shutdown events
+$events = Get-WinEvent -ComputerName $remoteComputer -FilterHashtable @{
+    LogName = "System"
+    ID = 1074,1076,6005,6006,6008,6013
+} -ErrorAction SilentlyContinue
+
+# Output the events
+foreach ($event in $events) {
+    $properties = @{
+        TimeGenerated = $event.TimeGenerated
+        EventID = $event.Id
+        Message = $event.Message
+    }
+    New-Object PSObject -Property $properties
+}
+
