@@ -70,7 +70,7 @@
         </ul>
         <button onclick="addNewItem()">Add New Item</button>
     </div>
-    <div class="editable-section">
+<div class="container">
         <h2>Editable Section</h2>
         <ul id="editable-list">
            
@@ -78,7 +78,7 @@
         <button onclick="addNewItemToEditable()">Add New Item</button>
     </div>
 
-    <div class="service-now-section">
+<div class="container">
         <h2>Update ServiceNow</h2>
         <label for="ticket-number">Ticket Number:</label><br>
         <input type="text" id="ticket-number" name="ticket-number"><br>
@@ -89,12 +89,28 @@
         <button onclick="updateServiceNow()">Update ServiceNow</button>
     </div>
 
-<div class="troubleshooting-section">
+<div class="container">
     <h2>Troubleshooting</h2>
     <button onclick="openExternalPage('https://www.stackoverflow.com')">Stack Overflow</button>
     <button onclick="openExternalPage('https://www.google.com')">Google</button>
     <button onclick="openExternalPage('https://www.kkkfs.com')">KKKFS</button>
 </div>
+<div class="container">
+    <h2>Powershell Scripts</h2>
+    <label for="computer">Computer:</label>
+    <input type="text" id="computer" placeholder="Enter computer name">
+    <h3>Select Task:</h3>
+    <button onclick="getDiskSpace()">Get Disk Space</button>
+    <button onclick="clearZoomTempFolder()">Clear out Zoom temp folder</button>
+    <button onclick="clearTeamsTempFolder()">Clear out Teams temp folder</button>
+    <button onclick="browseZoomFolder()">Browse to Computer Zoom folder</button>
+    <button onclick="browseInstallFolder()">Browse to Computer Install folder</button>
+    <button onclick="whatIsInstalled()">What is installed on computer</button>
+    <button onclick="findProduct()">Find a product installed</button>
+    <button onclick="getProcesses()">Get Processes</button>
+    <div id="output"></div>
+</div>
+ </div>
 <script>
     // Initialize to-do list items
     var todoItems = ["Clear temp", "Clear temp1"];
@@ -166,6 +182,108 @@
     }
 function openExternalPage(url) {
     window.open(url, "_blank");
+}
+function getDiskSpace() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `# PowerShell script to get disk space on computer "${computer}"
+# Your PowerShell script goes here`;
+    document.getElementById("output").textContent = script;
+}
+
+function clearZoomTempFolder() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `# PowerShell script to clear out Zoom temp folder on computer "${computer}"
+# Your PowerShell script goes here`;
+    document.getElementById("output").textContent = script;
+}
+
+function clearTeamsTempFolder() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `# PowerShell script to clear out Teams temp folder on computer "${computer}"
+# Your PowerShell script goes here`;
+    document.getElementById("output").textContent = script;
+}
+
+function browseZoomFolder() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `# PowerShell script to browse to Computer Zoom folder on computer "${computer}"
+# Your PowerShell script goes here`;
+    document.getElementById("output").textContent = script;
+}
+
+function browseInstallFolder() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `# PowerShell script to browse to Computer Install folder on computer "${computer}"
+# Your PowerShell script goes here`;
+    document.getElementById("output").textContent = script;
+}
+
+function whatIsInstalled() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `# PowerShell script to find what is installed on computer "${computer}"
+# Your PowerShell script goes here`;
+    document.getElementById("output").textContent = script;
+}
+
+function findProduct() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `# PowerShell script to find a product installed on computer "${computer}"
+# Your PowerShell script goes here`;
+    document.getElementById("output").textContent = script;
+}
+
+function getProcesses() {
+    var computer = document.getElementById("computer").value.trim();
+    
+    if (computer === "") {
+        alert("Please fill in the computer name.");
+        return;
+    }
+    
+    var script = `Get-process -ComputerName ${computer}`;
+    document.getElementById("output").textContent = script;
 }
 </script>
 
