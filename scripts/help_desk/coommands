@@ -42,3 +42,9 @@ Get-CimInstance -ClassName Win32_LocalTime time
 New-Item -Path 'C:\temp\New Folder' -ItemType Directory
 New-Item -Path 'C:\temp\New Folder\file.txt' -ItemType File
 Get-ChildItem -Path C:\Windows -Force show hidden items
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall This is what is listed in add and remove programs
+$UninstallPath = 'HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall'
+Get-ChildItem -Path $UninstallPath |
+    ForEach-Object -Process { $_.GetValue('DisplayName') } |
+    Sort-Object
