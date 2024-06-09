@@ -27,3 +27,15 @@ Get-CimClass -Namespace root/CIMV2 |
 
 Get-CimInstance -Class Win32_OperatingSystem | Get-Member -MemberType Property
 Get-CimInstance -Class Win32_OperatingSystem -ComputerName 192.168.50.128
+
+Get-CimInstance -ClassName Win32_OperatingSystem | Invoke-CimMethod -MethodName Shutdown
+shutdown.exe -l
+Stop-Computer
+
+Restart-Computer -Force
+
+Get-CimInstance -ClassName Win32_OperatingSystem |
+  Select-Object -Property BuildNumber,BuildType,OSType,ServicePackMajorVersion,ServicePackMinorVersion
+
+(Get-CimInstance -ClassName Win32_ComputerSystem -Property UserName).username who is logon to the machine
+Get-CimInstance -ClassName Win32_LocalTime time
