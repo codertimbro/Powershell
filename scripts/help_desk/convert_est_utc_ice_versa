@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Time Converter</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+    }
+    .container {
+        max-width: 600px;
+        margin: 50px auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+        text-align: center;
+    }
+    input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    input[type="button"] {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    input[type="button"]:hover {
+        background-color: #0056b3;
+    }
+</style>
+</head>
+<body>
+
+<h1>Time Converter</h1>
+    <label for="timeSelect">Select Time:</label>
+    <select id="timeSelect">
+        <option value="12:00 AM">12:00 AM</option>
+        <option value="01:00 AM">01:00 AM</option>
+        <option value="02:00 AM">02:00 AM</option>
+        <option value="03:00 AM">03:00 AM</option>
+        <option value="04:00 AM">04:00 AM</option>
+        <option value="05:00 AM">05:00 AM</option>
+        <option value="06:00 AM">06:00 AM</option>
+        <option value="07:00 AM">07:00 AM</option>
+        <option value="08:00 AM">08:00 AM</option>
+        <option value="09:00 AM">09:00 AM</option>
+        <option value="10:00 AM">10:00 AM</option>
+        <option value="11:00 AM">11:00 AM</option>
+        <option value="12:00 PM">12:00 PM</option>
+        <option value="01:00 PM">01:00 PM 13:00</option>
+        <option value="02:00 PM">02:00 PM 14:00</option>
+        <option value="03:00 PM">03:00 PM 15:00</option>
+        <option value="04:00 PM">04:00 PM 16:00</option>
+        <option value="05:00 PM">05:00 PM 17:00</option>
+        <option value="06:00 PM">06:00 PM 18:00</option>
+        <option value="07:00 PM">07:00 PM 19:00</option>
+        <option value="08:00 PM">08:00 PM 20:00</option>
+        <option value="09:00 PM">09:00 PM 21:00</option>
+        <option value="10:00 PM">10:00 PM 22:00</option>
+        <option value="11:00 PM">11:00 PM 23:00</option>
+    </select>
+    <button onclick="convertToUTC()">Convert to UTC</button>
+    <button onclick="convertToEST()">Convert to EST</button>
+    <div id="convertedTime"></div>
+</div>
+<script>
+    function convertToUTC() {
+        var timeInput = document.getElementById("timeSelect").value;
+        var date = new Date("2000-01-01 " + timeInput); // Use an arbitrary date for consistent parsing
+        var utcTime1 = date.toUTCString();
+        var utcTime = utcTime1.split(' ')[4] + ' ' + utcTime1.split(' ')[5];
+        document.getElementById("convertedTime").textContent = utcTime;
+    }
+
+    function convertToEST() {
+        var timeInput = document.getElementById("timeSelect").value;
+        var date = new Date("2000-01-01 " + timeInput); // Use an arbitrary date for consistent parsing
+        var estOffset = -5 * 60; // EST offset is UTC-5
+        date.setMinutes(date.getMinutes() + estOffset);
+        var estTime = date.toLocaleTimeString('en-US', {timeZone: 'America/New_York'});
+        document.getElementById("convertedTime").textContent = "EST Time: " + estTime;
+    }
+</script>
+
+</body>
+</html>
