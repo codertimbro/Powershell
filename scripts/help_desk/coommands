@@ -41,3 +41,4 @@ Get-CimInstance -ClassName Win32_OperatingSystem |
 Get-CimInstance -ClassName Win32_LocalTime time
 New-Item -Path 'C:\temp\New Folder' -ItemType Directory
 New-Item -Path 'C:\temp\New Folder\file.txt' -ItemType File
+Get-ChildItem -Path C:\Windows -Force show hidden items
