@@ -1,11 +1,8 @@
-param (
-    [string]$userName,
-    [string]$software,
-    [string]$ticketNumber,
-    [string]$issue,
-    [string]$whatsGoingOn
-)
-
+$username= Read-Host "Username"
+$software= Read-Host "Software"
+$ticketNumber= Read-Host "Ticket Number"
+$issue= Read-Host "Title Issue"
+$whatsGoingOn = Read-Host "Body message"
 # Path to the .msg template file
 $templatePath = "C:\path\to\your\template.msg"
 # Path to save the modified .msg file
