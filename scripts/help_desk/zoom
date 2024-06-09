@@ -116,10 +116,16 @@
         <button onclick="openExternalPage('u:/convert_est_utc_ice_versa.htm')">EST to UTC Converter</button>
         <button onclick="openExternalPage('U:/email_templates.htm')">Email Templates</button>
         <button onclick="openExternalPage('http://myapps/')">My Apps Page</button></li>
-        <button onclick="copyToClipboard('https://zoom.us/download/vdi/5.16.11.24500/ZoomCitrixHDXMediaPlugin.msi')">Home MAC Version Link</button>
-        <button onclick="copyToClipboard('https://zoom.us/download/vdi/5.16.11.24500/ZoomCitrixHDXMediaPlugin.msi')">Home Windows Version Link</button>
-        <button onclick="copyToClipboard('https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html#ctx-dl-eula')">Home Windows Citrix Workspace Link</button>
-        <button onclick="copyToClipboard('https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html')">Home MAC Citrix Workspace Link</button>
+        <button onclick="openExternalPage('http://snview/prb112233')">Problem ticket with Zoom Video</button></li>
+        <button onclick="openExternalPage('http://snview/prb11dfsd3')">Problem ticket with Zoom Audio</button></li>
+        <button onclick="openExternalPage('http://snview/prb112233')">Problem ticket with Jabber and Zoom</button></li>
+     <h3>Copy Links Section</h3>
+        <button onclick="copyToClipboard('https://zoom.us/download/vdi/5.16.11.24500/ZoomCitrixHDXMediaPlugin.msi')">Home MAC Version Link to copy</button>
+        <button onclick="copyToClipboard('https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html')">Home MAC Citrix Workspace Link to copy</button>
+        <button onclick="copyToClipboard('https://zoom.us/download/vdi/5.16.11.24500/ZoomCitrixHDXMediaPlugin.msi')">Home Windows Version Link to copy</button>
+        <button onclick="copyToClipboard('https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html#ctx-dl-eula')">Home Windows Citrix Workspace Link to copy</button>
+        
+
     </div>
 
     <h2 onclick="toggleVisibility('powershell')">Powershell Scripts</h2>
