@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zoom</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+    h1 {
+        text-align: center;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin-bottom: 10px;
+        cursor: pointer;
+    }
+    button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    button:hover {
+        background-color: #45a049;
+    }
+    .section-content {
+        display: none;
+    }
+    .show {
+        display: block;
+    }
+    .hide {
+        display: none;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>To-Do List</h1>
+
+    <h2 onclick="toggleVisibility('general')">General</h2>
+    <div class="section-content show" id="general">
+        <ul>
+            <li>Version: 2.6</li>
+            <li>Scripts<br>VM\Moonshot: cm_zomm_2.3_01<br>APC: cm_zvc_zoom</li>
+            <li>Support page: N/a</li>
+        </ul>
+        <button onclick="toggleSection('general')">Hide General Info</button>
+    </div>
+
+    <h2 onclick="toggleVisibility('notes')">Notes</h2>
+    <div class="section-content show" id="notes">
+        <ul>
+            <li>Make home and Morgan version the same</li>
+            <li>Video Issue: Have uninstall all Zoom on personal machine and install Zoom vdi<br> Have them uninstall and install Workspace via command line<br> Email the user the Clean Workspace Template on below page<br>Go to Web Page section and click on Email Template</li> 
+        </ul>
+        <button onclick="toggleSection('notes')">Hide Notes Info</button>
+    </div>
+
+    <h2 onclick="toggleVisibility('to-do-list')">To-Do List</h2>
+    <div class="section-content" id="to-do-list">
+        <ul>
+            <!-- List items will be added here -->
+        </ul>
+        <button onclick="addNewItem()">Add New Item</button>
+    </div>
+
+    <h2 onclick="toggleVisibility('editable-section')">Editable Section</h2>
+    <div class="section-content" id="editable-section">
+        <ul>
+            <!-- Editable items will be added here -->
+        </ul>
+        <button onclick="addNewItemToEditable()">Add New Item</button>
+    </div>
+
+    <h2 onclick="toggleVisibility('service-now-section')">Update ServiceNow</h2>
+    <div class="section-content" id="service-now-section">
+        <label for="ticket-number">Ticket Number:</label><br>
+        <input type="text" id="ticket-number" name="ticket-number"><br>
+        <label for="user-id">User ID:</label><br>
+        <input type="text" id="user-id" name="user-id"><br>
+        <label for="restoration_notes">Restroatin notes</label><br>
+        <input type="text" id="restoration_notes" name="restoration_notes"><br>
+        <label for="short-description">Short Description:</label><br>
+        <input type="text" id="short-description" name="short-description"><br>
+        <button onclick="updateServiceNow()">Update ServiceNow</button>
+    </div>
+
+    <h2 onclick="toggleVisibility('troubleshooting-section')">Web Pages</h2>
+    <div class="section-content" id="troubleshooting-section">
+        <button onclick="openExternalPage('https://www.stackoverflow.com')">Stack Overflow</button>
+        <button onclick="openExternalPage('https://www.google.com')">Google</button>
+        <button onclick="openExternalPage('https://pokemyapps/')">Pokemyapps</button>
+        <button onclick="openExternalPage('u:/convert_est_utc_ice_versa.htm')">EST to UTC Converter</button>
+        <button onclick="openExternalPage('U:/email_templates.htm')">Email Templates</button>
+        <button onclick="openExternalPage('http://myapps/')">My Apps Page</button></li>
+        <button onclick="copyToClipboard('https://zoom.us/download/vdi/5.16.11.24500/ZoomCitrixHDXMediaPlugin.msi')">Home MAC Version Link</button>
+        <button onclick="copyToClipboard('https://zoom.us/download/vdi/5.16.11.24500/ZoomCitrixHDXMediaPlugin.msi')">Home Windows Version Link</button>
+        <button onclick="copyToClipboard('https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html#ctx-dl-eula')">Home Windows Citrix Workspace Link</button>
+        <button onclick="copyToClipboard('https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html')">Home MAC Citrix Workspace Link</button>
+    </div>
+
+    <h2 onclick="toggleVisibility('powershell')">Powershell Scripts</h2>
+    <div class="section-content" id="powershell">
+        <label for="computer">Computer:</label>
+        <input type="text" id="computer" placeholder="Enter computer name"><br>
+        <h3>Select Task:</h3>
+        <button onclick="getDiskSpace()">Get Disk Space</button>
+        <button onclick="clearZoomTempFolder()">Clear out Zoom temp folder</button>
+        <button onclick="clearTeamsTempFolder()">Clear out Teams temp folder</button>
+        <button onclick="browseZoomFolder()">Browse to Computer Zoom folder</button>
+        <button onclick="browseInstallFolder()">Browse to Computer Install folder</button>
+        <button onclick="whatIsInstalled()">What is installed on computer</button>
+        <button onclick="findProduct()">Find a product installed</button>
+        <button onclick="getProcesses()">Get Processes</button>
+        <div id="output"></div>
+    </div>
+
+    <button id="reset-button" style="display: none;" onclick="resetAll()">Reset</button>
+</div>
+
+<script>
+function toggleVisibility(sectionId) {
+    // Hide all sections
+    var sections = document.querySelectorAll('.section-content');
+    sections.forEach(function(section) {
+        section.style.display = 'none';
+    });
+
+    // Show the clicked section
+    var section = document.getElementById(sectionId);
+    section.style.display = 'block';
+
+    // Show the reset button
+    document.getElementById('reset-button').style.display = 'block';
+}
+
+function resetAll() {
+    // Show all sections
+    var sections = document.querySelectorAll('.section-content');
+    sections.forEach(function(section) {
+        section.style.display = 'block';
+    });
+
+    // Hide the reset button
+    document.getElementById('reset-button').style.display = 'none';
+}
+
+function toggleSection(sectionId) {
+    var section = document.getElementById(sectionId);
+    if (section.style.display === 'none') {
+        section.style.display = 'block';
+    } else {
+        section.style.display = 'none';
+    }
+}
+
+function copyToClipboard(text) {
+    var textarea = document.createElement('textarea');
+    textarea.value = text;
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textarea);
+    alert('Copied to clipboard: ' + text);
+}
+
+function openExternalPage(url) {
+    window.open(url, '_blank');
+}
+
+// Example functions for PowerShell scripts
+function getDiskSpace() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `# PowerShell script to get disk space on computer "${computer}"\n# Your PowerShell script goes here`;
+    document.getElementById('output').textContent = script;
+}
+
+function clearZoomTempFolder() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `# PowerShell script to clear out Zoom temp folder on computer "${computer}"\n# Your PowerShell script goes here`;
+    document.getElementById('output').textContent = script;
+}
+
+function clearTeamsTempFolder() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `# PowerShell script to clear out Teams temp folder on computer "${computer}"\n# Your PowerShell script goes here`;
+    document.getElementById('output').textContent = script;
+}
+
+function browseZoomFolder() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `# PowerShell script to browse to Computer Zoom folder on computer "${computer}"\n# Your PowerShell script goes here`;
+    document.getElementById('output').textContent = script;
+}
+
+function browseInstallFolder() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `# PowerShell script to browse to Computer Install folder on computer "${computer}"\n# Your PowerShell script goes here`;
+    document.getElementById('output').textContent = script;
+}
+
+function whatIsInstalled() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `# PowerShell script to find what is installed on computer "${computer}"\n# Your PowerShell script goes here`;
+    document.getElementById('output').textContent = script;
+}
+
+function findProduct() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `# PowerShell script to find a product installed on computer "${computer}"\n# Your PowerShell script goes here`;
+    document.getElementById('output').textContent = script;
+}
+
+function getProcesses() {
+    var computer = document.getElementById('computer').value.trim();
+    if (computer === '') {
+        alert('Please fill in the computer name.');
+        return;
+    }
+    var script = `Get-process -ComputerName ${computer}`;
+    document.getElementById('output').textContent = script;
+}
+
+// Initialize to-do list items
+var todoItems = ["Clear Zoom temp at C:\\\\Users\\Username\\AppData\\Roaming\\ZoomVDI\\data.", "Uninstall Cm_zoom.","Rebooted Machine via pokemyapps.", "Installed cm_zoom via pokemyapps.", "Had user uninstall all Zoom on personal machine.", "Rebooted their machine.", "Installed Zoom VDI 5.16.11.24500 on personal machine", "Had user log back into myDesk and click on your Hosted Desktop link", "Open Zoom", "Still not working", "Went to Zoom settings connections tab ZoomVDI is connecting.", "Attached logs to the ticket.", "Attached screen shot.", "Now it is working.", "Uninstalled ZoomVDi via pgutlile tool.","Remoted into their personal machine.","Uninstalled via add and remove programs all workspace and installed latest Workspace via command line using the command of /cleaninstall." ];
+var todoList = document.querySelector("#to-do-list ul");
+todoItems.forEach(function(item) {
+    var listItem = document.createElement("li");
+    listItem.textContent = item;
+    listItem.onclick = function() {
+        addEditableItem(this.textContent);
+        this.remove();
+    };
+    todoList.appendChild(listItem);
+});
+
+// Initialize editable section items
+var editableItems = ["Talk to the user.", "Remoted in."];
+var editableList = document.querySelector("#editable-section ul");
+editableItems.forEach(function(item) {
+    var listItem = document.createElement("li");
+    listItem.textContent = item;
+    listItem.onclick = function() {
+        this.remove();
+    };
+    editableList.appendChild(listItem);
+});
+
+// Function to add a new item to editable section
+function addEditableItem(itemText) {
+    var editableList = document.querySelector("#editable-section ul");
+    var listItem = document.createElement("li");
+    listItem.textContent = itemText;
+    listItem.onclick = function() {
+        this.remove();
+    };
+    editableList.appendChild(listItem);
+}
+
+// Function to add a new item to to-do list
+function addNewItem() {
+    var newItem = prompt("Enter new item:");
+    if (newItem) {
+        var listItem = document.createElement("li");
+        listItem.textContent = newItem;
+        listItem.onclick = function() {
+            addEditableItem(this.textContent);
+            this.remove();
+        };
+        todoList.appendChild(listItem);
+    }
+}
+
+// Function to add a new item to editable section
+function addNewItemToEditable() {
+    var newItem = prompt("Enter new item:");
+    if (newItem) {
+        addEditableItem(newItem);
+    }
+}
+
+// Function to update ServiceNow
+function updateServiceNow() {
+    var ticketNumber = document.getElementById("ticket-number").value;
+    var userId = document.getElementById("user-id").value;
+    var shortDescription = document.getElementById("short-description").value;
+    var editableContent = document.querySelector("#editable-section ul").innerText;
+    var workNotes = encodeURIComponent("Work Notes:\n" + editableContent);
+    var resolution_list = encodeURIComponent("Request Filled");
+    var restoration_notes= document.getElementById("restoration_notes").value;
+    var serviceNowUrl = "https://your-service-now-url.com/update?ticket=" + ticketNumber + "&user=" + userId + "&short_description=" + encodeURIComponent(shortDescription) + "&work_notes=" + workNotes+ restoration_notes+resolution_list;
+    window.open(serviceNowUrl, "_blank");
+}
+</script>
+</body>
+</html>
