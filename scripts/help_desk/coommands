@@ -20,3 +20,4 @@ hou{"Astros"}
 }
 
 Get-Content -Path $filePath
+$service = Get-Service -DisplayName "Xbox Live Game Save"  -ErrorAction SilentlyContinue
