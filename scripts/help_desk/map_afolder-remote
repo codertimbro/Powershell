@@ -1,0 +1,21 @@
+# Replace "REMOTE_COMPUTER_NAME" with the name of the remote computer
+$remoteComputer = "REMOTE_COMPUTER_NAME"
+
+# Replace "REMOTE_FOLDER_PATH" with the path of the folder you want to map on the remote computer
+$remoteFolderPath = "\\REMOTE_COMPUTER_NAME\SHARE_NAME"
+
+# Replace "DRIVE_LETTER" with the desired drive letter you want to assign to the mapped folder
+$driveLetter = "Z"
+
+# Map the folder
+New-PSDrive -Name "MappedDrive" -PSProvider FileSystem -Root $remoteFolderPath -Persist -Scope Global
+
+# You can also use the following line if you want to provide credentials for the remote connection
+# New-PSDrive -Name "MappedDrive" -PSProvider FileSystem -Root $remoteFolderPath -Persist -Scope Global -Credential (Get-Credential)
+
+# Check if mapping was successful
+if (Test-Path "$driveLetter`:") {
+    Write-Host "Folder mapped successfully to drive $driveLetter`:"
+} else {
+    Write-Host "Failed to map folder to drive $driveLetter`:"
+}
