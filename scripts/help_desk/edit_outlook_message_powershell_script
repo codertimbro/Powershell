@@ -8,17 +8,6 @@ $templatePath = "C:\path\to\your\template.msg"
 # Path to save the modified .msg file
 $outputPath = "C:\path\to\output\modified-$ticketNumber.msg"
 
-# Function to replace text in .msg file
-function Update-MsgFile {
-    param (
-        [string]$templatePath,
-        [string]$outputPath,
-        [string]$userName,
-        [string]$software,
-        [string]$ticketNumber,
-        [string]$issue,
-        [string]$whatsGoingOn
-    )
 
     # Load the Outlook COM object
     $outlook = New-Object -ComObject Outlook.Application
@@ -35,10 +24,3 @@ function Update-MsgFile {
 
     # Open the updated message
     $msg.Display()
-}
-
-# Call the function to update the .msg file
-Update-MsgFile -templatePath $templatePath -outputPath $outputPath 
-
-# Output result
-Write-Output "MSG file processed and opened."
