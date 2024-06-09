@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>To-Do List</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+    h1 {
+        text-align: center;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin-bottom: 10px;
+        cursor: pointer;
+    }
+    button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    button:hover {
+        background-color: #45a049;
+    }
+    .to-do-list {
+        margin-top: 20px;
+    }
+    .editable-section {
+        margin-top: 20px;
+    }
+    .service-now-section {
+        margin-top: 20px;
+    }
+    .troubleshooting-section {
+        margin-top: 20px;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>To-Do List</h1>
+    <div class="to-do-list">
+        <h2>To-Do List</h2>
+        <ul id="todo-list">
+            <!-- List items will be added here -->
+        </ul>
+        <button onclick="addNewItem()">Add New Item</button>
+    </div>
+    <div class="editable-section">
+        <h2>Editable Section</h2>
+        <ul id="editable-list">
+           
+        </ul>
+        <button onclick="addNewItemToEditable()">Add New Item</button>
+    </div>
+
+    <div class="service-now-section">
+        <h2>Update ServiceNow</h2>
+        <label for="ticket-number">Ticket Number:</label><br>
+        <input type="text" id="ticket-number" name="ticket-number"><br>
+        <label for="user-id">User ID:</label><br>
+        <input type="text" id="user-id" name="user-id"><br>
+        <label for="short-description">Short Description:</label><br>
+        <input type="text" id="short-description" name="short-description"><br>
+        <button onclick="updateServiceNow()">Update ServiceNow</button>
+    </div>
+
+<div class="troubleshooting-section">
+    <h2>Troubleshooting</h2>
+    <button onclick="openExternalPage('https://www.stackoverflow.com')">Stack Overflow</button>
+    <button onclick="openExternalPage('https://www.google.com')">Google</button>
+    <button onclick="openExternalPage('https://www.kkkfs.com')">KKKFS</button>
+</div>
+<script>
+    // Initialize to-do list items
+    var todoItems = ["Clear temp", "Clear temp1"];
+    var todoList = document.getElementById("todo-list");
+    todoItems.forEach(function(item) {
+        var listItem = document.createElement("li");
+        listItem.textContent = item;
+        listItem.onclick = function() {
+            addEditableItem(this.textContent);
+            this.remove();
+        };
+        todoList.appendChild(listItem);
+    });
+
+    // Initialize editable section items
+    var editableItems = ["Talk to the user.", "Remoted in."];
+    var editableList = document.getElementById("editable-list");
+    editableItems.forEach(function(item) {
+        var listItem = document.createElement("li");
+        listItem.textContent = item;
+        listItem.onclick = function() {
+            this.remove();
+        };
+        editableList.appendChild(listItem);
+    });
+
+    // Function to add a new item to editable section
+    function addEditableItem(itemText) {
+        var editableList = document.getElementById("editable-list");
+        var listItem = document.createElement("li");
+        listItem.textContent = itemText;
+        listItem.onclick = function() {
+            this.remove();
+        };
+        editableList.appendChild(listItem);
+    }
+
+    // Function to add a new item to to-do list
+    function addNewItem() {
+        var newItem = prompt("Enter new item:");
+        if (newItem) {
+            var listItem = document.createElement("li");
+            listItem.textContent = newItem;
+            listItem.onclick = function() {
+                addEditableItem(this.textContent);
+                this.remove();
+            };
+            todoList.appendChild(listItem);
+        }
+    }
+
+    // Function to add a new item to editable section
+    function addNewItemToEditable() {
+        var newItem = prompt("Enter new item:");
+        if (newItem) {
+            addEditableItem(newItem);
+        }
+    }
+
+    // Function to update ServiceNow
+    function updateServiceNow() {
+        var ticketNumber = document.getElementById("ticket-number").value;
+        var userId = document.getElementById("user-id").value;
+        var shortDescription = document.getElementById("short-description").value;
+        var editableContent = document.getElementById("editable-list").innerText;
+        var workNotes = encodeURIComponent("Work Notes:\n" + editableContent);
+        var serviceNowUrl = "https://your-service-now-url.com/update?ticket=" + ticketNumber + "&user=" + userId + "&short_description=" + encodeURIComponent(shortDescription) + "&work_notes=" + workNotes;
+        window.open(serviceNowUrl, "_blank");
+    }
+function openExternalPage(url) {
+    window.open(url, "_blank");
+}
+</script>
+
+
+</body>
+</html>
