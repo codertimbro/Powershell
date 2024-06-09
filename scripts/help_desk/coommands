@@ -39,3 +39,5 @@ Get-CimInstance -ClassName Win32_OperatingSystem |
 
 (Get-CimInstance -ClassName Win32_ComputerSystem -Property UserName).username who is logon to the machine
 Get-CimInstance -ClassName Win32_LocalTime time
+New-Item -Path 'C:\temp\New Folder' -ItemType Directory
+New-Item -Path 'C:\temp\New Folder\file.txt' -ItemType File
