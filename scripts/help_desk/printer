@@ -1,0 +1,3 @@
+(New-Object -ComObject WScript.Network).SetDefaultPrinter('MyPrinter') Start Default
+(New-Object -ComObject WScript.Network).RemovePrinterConnection("\\Printserver01\Xerox5") Remove
+(New-Object -ComObject WScript.Network).AddWindowsPrinterConnection("\\Printserver01\Xerox5") installing a printer
