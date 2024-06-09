@@ -1,2 +1,1 @@
-$printer = Get-CimInstance -Class Win32_Printer -Filter "Name='MyPrinter'"
-Invoke-CimMethod -InputObject $printer -MethodName SetDefaultPrinter
+(New-Object -ComObject WScript.Network).SetDefaultPrinter('MyPrinter')
