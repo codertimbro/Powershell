@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Command Generator</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { max-width: 600px; margin: auto; padding: 20px; }
+        input, button { margin: 10px 0; padding: 10px; width: 100%; }
+        button { cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Software Command Generator</h1>
+        <label for="softwareName">Software Name:</label>
+        <input type="text" id="softwareName" placeholder="Enter software name">
+
+        <label for="hostname">Hostname:</label>
+        <input type="text" id="hostname" placeholder="Enter hostname">
+
+        <label for="loginID">Login ID:</label>
+        <input type="text" id="loginID" placeholder="Enter login ID">
+
+        <button onclick="generateCommand('Registry')">Registry</button>
+        <button onclick="generateCommand('Services')">Services</button>
+        <button onclick="generateCommand('Printer')">Printer</button>
+        <button onclick="generateCommand('Drives')">Drives</button>
+
+        <h2>Generated Command</h2>
+        <pre id="commandOutput"></pre>
+        <h2>Registry Location</h2>
+        <pre id="registryOutput"></pre>
+    </div>
+
+    <script>
+        function generateCommand(type) {
+            const softwareName = document.getElementById('softwareName').value;
+            const hostname = document.getElementById('hostname').value;
+            const loginID = document.getElementById('loginID').value;
+
+            let command = '';
+            let registryLocation = '';
+
+            switch (type) {
+                case 'Registry':
+                    command = `Get-ItemProperty -Path "HKLM:\\Software\\${softwareName}"`;
+                    registryLocation = `HKLM\\Software\\${softwareName}`;
+                    break;
+                case 'Services':
+                    command = `Get-Service -ComputerName ${hostname} -Name ${softwareName}`;
+                    break;
+                case 'Printer':
+                    command = `Get-Printer -ComputerName ${hostname} -Name ${softwareName}`;
+                    break;
+                case 'Drives':
+                    command = `Get-PSDrive -Name ${softwareName}`;
+                    break;
+                default:
+                    command = 'Invalid type';
+            }
+
+            document.getElementById('commandOutput').innerText = command;
+            if (type === 'Registry') {
+                document.getElementById('registryOutput').innerText = registryLocation;
+            } else {
+                document.getElementById('registryOutput').innerText = '';
+            }
+           document.getElementById('printer').innerText = command;
+            if (type === 'Registry') {
+                document.getElementById('registryOutput').innerText = registryLocation;
+            } else {
+                document.getElementById('registryOutput').innerText = '';
+            }
+        }
+    </script>
+</body>
+</html>
