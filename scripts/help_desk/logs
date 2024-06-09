@@ -1,0 +1,37 @@
+
+param (
+    [string]$softwareName
+)
+
+# Define common log directories
+$logDirectories = @(
+    "C:\ProgramData",
+    "C:\Program Files",
+    "C:\Program Files (x86)",
+    "C:\Users\*\AppData\Local",
+    "C:\Users\*\AppData\Roaming",
+    "C:\Windows\Logs",
+    "C:\Windows\System32\LogFiles"
+)
+
+# Function to search for log files
+function Search-LogFiles {
+    param (
+        [string]$directory,
+        [string]$softwareName
+    )
+
+    $files = Get-ChildItem -Path $directory -Recurse -Include *.log,*.txt,*.err,*.trace,*.dmp -ErrorAction SilentlyContinue | Where-Object { $_.FullName -match $softwareName }
+    return $files
+}
+
+# Search for log files in each directory
+foreach ($directory in $logDirectories) {
+    $expandedDirectory = $directory -replace "\*", ""
+    Write-Output "Searching in: $expandedDirectory"
+    $logFiles = Search-LogFiles -directory $directory -softwareName $softwareName
+
+    foreach ($file in $logFiles) {
+        Write-Output "Found log file: $($file.FullName)"
+    }
+}
