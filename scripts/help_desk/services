@@ -1,0 +1,8 @@
+Services running
+Get-CimInstance -Class Win32_SystemDriver |
+    Where-Object {$_.State -eq "Running"} |
+    Where-Object {$_.StartMode -eq "Manual"} |
+    Format-Table -Property Name,DisplayName
+
+
+
