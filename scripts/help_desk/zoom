@@ -2,8 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Zoom</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zoom</title>
+   
+</head>
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -55,7 +57,8 @@
     .hide {
         display: none;
     }
-   #todo-items-list li {
+ 
+   #to-do-list  li {
         list-style-type: disc; 
     }
 
@@ -63,7 +66,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>To-Do List</h1>
+    <h1>Zoom</h1>
 
     <h2 onclick="toggleVisibility('general')">General</h2>
     <div class="section-content show" id="general"  >
@@ -86,14 +89,17 @@
     
     <label for="computer">Computer:</label>
     <input type="text" id="computer" placeholder="Enter computer name"><br>
-    
+  
     <h2 onclick="toggleVisibility('to-do-list')">To-Do List</h2>
-    <div class="section-content" id="to-do-list"  >
-        <ul id="todo-items-list">
-            <!-- To-do items will be added here -->
+
+    <div class="section-content" id="to-do-list">
+        <ul class="list-group-item">
+            <!-- List items will be added here dynamically -->
         </ul>
         <button onclick="addNewItem()">Add New Item</button>
     </div>
+
+
 
    <h2 onclick="toggleVisibility('editable-section')">Ticket Notes</h2>
   <div class="section-content" id="editable-section"  >
@@ -153,6 +159,7 @@
     <button id="reset-button" style="display: none;" onclick="resetAll()">Reset</button>
 </div>
 
+
 <script>
 function toggleVisibility(sectionId) {
     // Hide all sections
@@ -203,29 +210,105 @@ function openExternalPage(url) {
     window.open(url, '_blank');
 }
 
+   
+    var todoList = document.querySelector("#to-do-list ul");
+    var todoItems = [
+        "Clear Zoom temp at C:\\\\Users\\Username\\AppData\\Roaming\\ZoomVDI\\data.",
+        "Uninstall and install Zoom and Citrix Workspace.",
+        "Personal machine mac or Windows.",
+        "Check zoomcheck/username.",
+        "Install latest VDA.",
+        "What type of device like webcam and headset?",
+        "For sound, video, and hardware issues for personal macs, go to mac_security_setttings_enable.msg"
+    ];
 
-// Initialize to-do list items
-var todoItems = [
-  "Clear Zoom temp at C:\\\\Users\\Username\\AppData\\Roaming\\ZoomVDI\\data.",
-  "Uninstall and install Zoom and Citrix Workspace.",
-  "Personal machine mac or Windows.",
-  "Check zoomcheck/username.",
-  "Install latest VDA.",
-  "What type of device like webcam and headset?",
-  "For sound, video, and hardware issues for personal macs, go to mac_security_setttings_enable.msg"
-];
+    // Function to add a new item to the list
+    function addNewItem() {
+        var newItem = prompt("Enter new item:");
+        if (newItem) {
+            var listItem = document.createElement("li");
+            listItem.className = "list-group-item";
+            listItem.textContent = newItem;
+            listItem.onclick = function() {
+                this.style.display = "none";
+            };
+            todoList.appendChild(listItem);
+        }
+    }
 
-var todoList = document.getElementById("todo-items-list");
-todoItems.forEach(function(item) {
-  var listItem = document.createElement("li");
-  listItem.innerHTML = item; // Use innerHTML to insert HTML content
-  listItem.onclick = function() {
-    addEditableItem(item); // Pass 'item' instead of 'this.textContent'
-    this.remove();
-  };
-  todoList.appendChild(listItem);
-});
+    // Populate the to-do list
+    todoItems.forEach(function(item) {
+        var listItem = document.createElement("li");
+        listItem.className = "list-group-item";
+        listItem.textContent = item;
+        listItem.onclick = function() {
+            this.style.display = "none";
+        };
+        todoList.appendChild(listItem);
+    });
 
+    // Function to toggle visibility of the to-do list
+    function toggleVisibility(id) {
+        var element = document.getElementById(id);
+        if (element.style.display === "none") {
+            element.style.display = "block";
+        } else {
+            element.style.display = "none";
+        }
+    }
+
+ function updateServiceNow() {
+    var ticketNumber = document.getElementById("ticket-number").value;
+    var userId = document.getElementById("user-id").value;
+    var shortDescription = document.getElementById("short-description").value;
+    var editableContent = document.querySelector("#editable-section ul").innerText;
+    var workNotes = encodeURIComponent("Work Notes:\n" + editableContent);
+    var resolution_list = encodeURIComponent("Request Filled");
+    var restoration_notes= document.getElementById("restoration_notes").value;
+    var serviceNowUrl = "https://your-service-now-url.com/update?ticket=" + ticketNumber + "&user=" + userId + "&short_description=" + encodeURIComponent(shortDescription) + "&work_notes=" + workNotes+ restoration_notes+resolution_list;
+    window.open(serviceNowUrl, "_blank");
+}
+
+
+function getDiskSpace() {
+    alert('Running PowerShell script to get disk space...');
+    // Add PowerShell script logic here
+}
+
+function clearZoomTempFolder() {
+    alert('Running PowerShell script to clear Zoom temp folder...');
+    // Add PowerShell script logic here
+}
+
+function clearTeamsTempFolder() {
+    alert('Running PowerShell script to clear Teams temp folder...');
+    // Add PowerShell script logic here
+}
+
+function browseZoomFolder() {
+    alert('Running PowerShell script to browse Zoom folder...');
+    // Add PowerShell script logic here
+}
+
+function browseInstallFolder() {
+    alert('Running PowerShell script to browse install folder...');
+    // Add PowerShell script logic here
+}
+
+function whatIsInstalled() {
+    alert('Running PowerShell script to check what is installed...');
+    // Add PowerShell script logic here
+}
+
+function findProduct() {
+    alert('Running PowerShell script to find a product...');
+    // Add PowerShell script logic here
+}
+
+function getProcesses() {
+    alert('Running PowerShell script to get processes...');
+    // Add PowerShell script logic here
+}
 // Initialize editable section items
 var computer = document.getElementById('computer').value.trim();
 var editableItems = [
@@ -286,78 +369,6 @@ function addNewItemToEditable() {
         };
         document.getElementById("editable-items-list").appendChild(listItem);
     }
-}
-
-
-
-function addNewItem() {
-  var newItem = prompt("Enter new item:");
-  if (newItem) {
-    var listItem = document.createElement("li");
-    listItem.textContent = newItem;
-    listItem.onclick = function() {
-      addEditableItem(this.textContent);
-      this.remove();
-    };
-    todoList.appendChild(listItem);
-  }
-}
-
-
-
-
-
- function updateServiceNow() {
-    var ticketNumber = document.getElementById("ticket-number").value;
-    var userId = document.getElementById("user-id").value;
-    var shortDescription = document.getElementById("short-description").value;
-    var editableContent = document.querySelector("#editable-section ul").innerText;
-    var workNotes = encodeURIComponent("Work Notes:\n" + editableContent);
-    var resolution_list = encodeURIComponent("Request Filled");
-    var restoration_notes= document.getElementById("restoration_notes").value;
-    var serviceNowUrl = "https://your-service-now-url.com/update?ticket=" + ticketNumber + "&user=" + userId + "&short_description=" + encodeURIComponent(shortDescription) + "&work_notes=" + workNotes+ restoration_notes+resolution_list;
-    window.open(serviceNowUrl, "_blank");
-}
-
-
-function getDiskSpace() {
-    alert('Running PowerShell script to get disk space...');
-    // Add PowerShell script logic here
-}
-
-function clearZoomTempFolder() {
-    alert('Running PowerShell script to clear Zoom temp folder...');
-    // Add PowerShell script logic here
-}
-
-function clearTeamsTempFolder() {
-    alert('Running PowerShell script to clear Teams temp folder...');
-    // Add PowerShell script logic here
-}
-
-function browseZoomFolder() {
-    alert('Running PowerShell script to browse Zoom folder...');
-    // Add PowerShell script logic here
-}
-
-function browseInstallFolder() {
-    alert('Running PowerShell script to browse install folder...');
-    // Add PowerShell script logic here
-}
-
-function whatIsInstalled() {
-    alert('Running PowerShell script to check what is installed...');
-    // Add PowerShell script logic here
-}
-
-function findProduct() {
-    alert('Running PowerShell script to find a product...');
-    // Add PowerShell script logic here
-}
-
-function getProcesses() {
-    alert('Running PowerShell script to get processes...');
-    // Add PowerShell script logic here
 }
 </script>
 </body>
