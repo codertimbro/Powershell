@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PowerShell Scripts</title>
+</head>
+<body>
+    <h1>PowerShell Scripts</h1>
+    
+    <button onclick="showEditForm()">Edit Email Message</button>
+    <button onclick="showMapDriveForm()">Map Drive Remotely</button>
+    
+    <div id="editFormContainer" style="display:none;">
+        <h2>Edit .msg with PowerShell</h2>
+        <form id="editForm">
+            <label for="username">Username:</label><br>
+            <input type="text" id="username" name="username"><br>
+            <label for="assignee">Assignee:</label><br>
+            <input type="text" id="assignee" name="assignee"><br>
+            <label for="ticketNumber">Ticket Number:</label><br>
+            <input type="text" id="ticketNumber" name="ticketNumber"><br>
+            <label for="issue">Issue:</label><br>
+            <input type="text" id="issue" name="issue"><br><br>
+            <input type="submit" value="Generate PowerShell Script">
+        </form>
+
+        <hr>
+
+        <h3>PowerShell Script:</h3>
+        <pre id="powerShellScript"></pre>
+    </div>
+
+    <div id="mapDriveFormContainer" style="display:none;">
+        <h2>Map Drive Remotely with PowerShell</h2>
+        <form id="mapDriveForm">
+            <label for="remotePath">Remote Path:</label><br>
+            <input type="text" id="remotePath" name="remotePath"><br>
+            <label for="driveLetter">Drive Letter:</label><br>
+            <input type="text" id="driveLetter" name="driveLetter" maxlength="1"><br><br>
+            <input type="submit" value="Generate PowerShell Script">
+        </form>
+
+        <hr>
+
+        <h3>PowerShell Script:</h3>
+        <pre id="mapDriveScript"></pre>
+    </div>
+
+    <script>
+        function showEditForm() {
+            document.getElementById("editFormContainer").style.display = "block";
+            document.getElementById("mapDriveFormContainer").style.display = "none";
+            document.getElementById("mapDriveButton").style.display = "none";
+        }
+
+        function showMapDriveForm() {
+            document.getElementById("mapDriveFormContainer").style.display = "block";
+            document.getElementById("editFormContainer").style.display = "none";
+            document.getElementById("editButton").style.display = "none";
+        }
+
+        document.getElementById("editForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            var username = document.getElementById("username").value;
+            var assignee = document.getElementById("assignee").value;
+            var ticketNumber = document.getElementById("ticketNumber").value;
+            var issue = document.getElementById("issue").value;
+
+            var script = `# PowerShell Script to edit .msg
+$Outlook = New-Object -ComObject Outlook.Application
+$Msg = $Outlook.CreateItemFromTemplate("path_to_your_msg_file.msg")
+
+$Msg.Subject = $Msg.Subject.Replace('$ticket', '${ticketNumber}')
+$Msg.Body = $Msg.Body.Replace('$ticket', '${ticketNumber}')
+$Msg.Subject = $Msg.Subject.Replace('$issue', '${issue}')
+$Msg.Body = $Msg.Body.Replace('$issue', '${issue}')
+$Msg.Subject = $Msg.Subject.Replace('$username', '${username}')
+$Msg.Body = $Msg.Body.Replace('$username', '${username}')
+$Msg.Subject = $Msg.Subject.Replace('$assignee', '${assignee}')
+$Msg.Body = $Msg.Body.Replace('$assignee', '${assignee}')
+
+$Msg.Save()
+$Outlook.Quit()
+`;
+
+            document.getElementById("powerShellScript").textContent = script;
+        });
+
+        document.getElementById("mapDriveForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            var remotePath = document.getElementById("remotePath").value;
+            var driveLetter = document.getElementById("driveLetter").value.toUpperCase();
+
+            var script = `# PowerShell Script to map drive remotely
+$Password = ConvertTo-SecureString 'YourPassword' -AsPlainText -Force
+$Credential = New-Object System.Management.Automation.PSCredential ('Username', $Password)
+New-PSDrive -Name ${driveLetter} -PSProvider FileSystem -Root "${remotePath}" -Credential $Credential
+`;
+
+            document.getElementById("mapDriveScript").textContent = script;
+        });
+    </script>
+</body>
+</html>
