@@ -1,0 +1,1 @@
+https://your_instance.service-now.com/api/now/table/sys_user?sysparm_query=user_name=<login_id>
