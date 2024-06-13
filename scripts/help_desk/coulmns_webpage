@@ -18,10 +18,10 @@
             margin-bottom: 5px;
             position: relative;
         }
-        .item::after {
-            content: "→";
+        .item::before {
+            content: "→ ";
             position: absolute;
-            right: 10px;
+            left: 10px;
             font-size: 1.2em;
             font-weight: bold;
         }
@@ -124,7 +124,8 @@
     }
 
     function addItemToTextarea(item) {
-        selectedItems.push(item);
+        const itemWithArrow = `→ ${item}`;
+        selectedItems.push(itemWithArrow);
         const textarea = document.getElementById('itemList');
         textarea.value = selectedItems.join('\n');
     }
