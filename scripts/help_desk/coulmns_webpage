@@ -135,3 +135,5 @@
 
 </body>
 </html>
+ const itemWithArrow = `→ ${item}`;
+        selectedItems.push(itemWithArrow);
