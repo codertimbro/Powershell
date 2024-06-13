@@ -3,21 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Columns</title>
+    <title>Interactive Columns with Bootstrap</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <style>
         body {
             font-family: Arial, sans-serif;
-        }
-        .container {
-            display: grid;
-            grid-template-columns: repeat(10, 1fr);
-            gap: 10px;
-            padding: 20px;
-        }
-        .column {
-            border: 1px solid #ccc;
-            padding: 10px;
-            background-color: #f9f9f9;
         }
         .item {
             background-color: #f0f0f0;
@@ -65,60 +55,68 @@
             background: rgba(0, 0, 0, 0.5);
             z-index: 999;
         }
+        .fade-out {
+            opacity: 0.5;
+        }
+        .refresh-button {
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <div class="column">
-        <div class="item">Column 1 Item 1</div>
-        <div class="item">Column 1 Item 2</div>
-        <div class="item">Column 1 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 2 Item 1</div>
-        <div class="item">Column 2 Item 2</div>
-        <div class="item">Column 2 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 3 Item 1</div>
-        <div class="item">Column 3 Item 2</div>
-        <div class="item">Column 3 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 4 Item 1</div>
-        <div class="item">Column 4 Item 2</div>
-        <div class="item">Column 4 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 5 Item 1</div>
-        <div class="item">Column 5 Item 2</div>
-        <div class="item">Column 5 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 6 Item 1</div>
-        <div class="item">Column 6 Item 2</div>
-        <div class="item">Column 6 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 7 Item 1</div>
-        <div class="item">Column 7 Item 2</div>
-        <div class="item">Column 7 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 8 Item 1</div>
-        <div class="item">Column 8 Item 2</div>
-        <div class="item">Column 8 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 9 Item 1</div>
-        <div class="item">Column 9 Item 2</div>
-        <div class="item">Column 9 Item 3</div>
-    </div>
-    <div class="column">
-        <div class="item">Column 10 Item 1</div>
-        <div class="item">Column 10 Item 2</div>
-        <div class="item">Column 10 Item 3</div>
+    <div class="row">
+        <div class="col" onclick="selectColumn(event, 'Column 1')">
+            <div class="item">Outlook Item 1</div>
+            <div class="item">Outlook Item 2</div>
+            <div class="item">Outlook Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 2')">
+            <div class="item">Zoom Item 1</div>
+            <div class="item">Zoom Item 2</div>
+            <div class="item">Zoom Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 3')">
+            <div class="item">Teams Item 1</div>
+            <div class="item">Teams Item 2</div>
+            <div class="item">Teams Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 4')">
+            <div class="item">Slack Item 1</div>
+            <div class="item">Slack Item 2</div>
+            <div class="item">Slack Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 5')">
+            <div class="item">Skype Item 1</div>
+            <div class="item">Skype Item 2</div>
+            <div class="item">Skype Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 6')">
+            <div class="item">Webex Item 1</div>
+            <div class="item">Webex Item 2</div>
+            <div class="item">Webex Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 7')">
+            <div class="item">Hangouts Item 1</div>
+            <div class="item">Hangouts Item 2</div>
+            <div class="item">Hangouts Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 8')">
+            <div class="item">Messenger Item 1</div>
+            <div class="item">Messenger Item 2</div>
+            <div class="item">Messenger Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 9')">
+            <div class="item">WhatsApp Item 1</div>
+            <div class="item">WhatsApp Item 2</div>
+            <div class="item">WhatsApp Item 3</div>
+        </div>
+        <div class="col" onclick="selectColumn(event, 'Column 10')">
+            <div class="item">Telegram Item 1</div>
+            <div class="item">Telegram Item 2</div>
+            <div class="item">Telegram Item 3</div>
+        </div>
     </div>
 </div>
 
@@ -126,35 +124,55 @@
 <div class="column-container" id="selectedColumn"></div>
 <div class="textarea-container">
     <textarea id="itemList" readonly></textarea>
+    <button class="btn btn-primary refresh-button" onclick="refreshPage()">Refresh</button>
 </div>
 
 <script>
-    const items = document.querySelectorAll('.item');
-    const columns = document.querySelectorAll('.column');
+    const columns = document.querySelectorAll('.col');
     const textareaContainer = document.querySelector('.textarea-container');
     const textarea = document.getElementById('itemList');
     const overlay = document.querySelector('.overlay');
     const columnContainer = document.getElementById('selectedColumn');
     let itemList = [];
 
-    items.forEach(item => {
-        item.addEventListener('click', () => {
-            const itemText = item.textContent.trim() + " →";
+    function selectColumn(event, columnName) {
+        const column = event.currentTarget;
+        const items = column.querySelectorAll('.item');
+        itemList = []; // Clear previous items
+        items.forEach(item => {
+            const itemText = `${item.textContent.trim()} →`;
             itemList.push(itemText);
-            textarea.value = itemList.join('\n');
-            columnContainer.innerHTML = itemText;
-            textareaContainer.style.display = 'block';
-            columnContainer.style.display = 'block';
-            overlay.style.display = 'block';
         });
-    });
+        const formattedItems = itemList.join('\n');
+        textarea.value = `Talk to the user.\nRemoted into\n${formattedItems}`;
+
+        // Display selected column and textarea
+        columnContainer.innerHTML = `<h4>${columnName}</h4><div>${formattedItems.replace(/\n/g, '<br>')}</div>`;
+        textareaContainer.style.display = 'block';
+        columnContainer.style.display = 'block';
+        overlay.style.display = 'block';
+
+        // Fade out other columns
+        document.querySelector('.container').classList.add('fade-out');
+    }
+
+    function refreshPage() {
+        location.reload();
+    }
 
     overlay.addEventListener('click', () => {
         textareaContainer.style.display = 'none';
         columnContainer.style.display = 'none';
         overlay.style.display = 'none';
+
+        // Remove fade-out effect
+        document.querySelector('.container').classList.remove('fade-out');
     });
 </script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 </body>
 </html>
