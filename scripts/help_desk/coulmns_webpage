@@ -14,12 +14,18 @@
             gap: 10px;
             padding: 20px;
         }
+        .column {
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
         .item {
             background-color: #f0f0f0;
             padding: 10px;
             text-align: center;
             border: 1px solid #ccc;
             cursor: pointer;
+            margin-bottom: 5px;
             position: relative;
         }
         .item::after {
@@ -29,7 +35,7 @@
             font-size: 1.2em;
             font-weight: bold;
         }
-        .textarea-container {
+        .textarea-container, .column-container {
             display: none;
             position: fixed;
             top: 50%;
@@ -41,6 +47,8 @@
             z-index: 1000;
             width: 80%;
             max-width: 600px;
+            max-height: 80%;
+            overflow-y: auto;
         }
         textarea {
             width: 100%;
@@ -62,52 +70,88 @@
 <body>
 
 <div class="container">
-    <div class="item">Item 1</div>
-    <div class="item">Item 2</div>
-    <div class="item">Item 3</div>
-    <div class="item">Item 4</div>
-    <div class="item">Item 5</div>
-    <div class="item">Item 6</div>
-    <div class="item">Item 7</div>
-    <div class="item">Item 8</div>
-    <div class="item">Item 9</div>
-    <div class="item">Item 10</div>
-    <div class="item">Item 11</div>
-    <div class="item">Item 12</div>
-    <div class="item">Item 13</div>
-    <div class="item">Item 14</div>
-    <div class="item">Item 15</div>
-    <div class="item">Item 16</div>
-    <div class="item">Item 17</div>
-    <div class="item">Item 18</div>
-    <div class="item">Item 19</div>
-    <div class="item">Item 20</div>
+    <div class="column">
+        <div class="item">Column 1 Item 1</div>
+        <div class="item">Column 1 Item 2</div>
+        <div class="item">Column 1 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 2 Item 1</div>
+        <div class="item">Column 2 Item 2</div>
+        <div class="item">Column 2 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 3 Item 1</div>
+        <div class="item">Column 3 Item 2</div>
+        <div class="item">Column 3 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 4 Item 1</div>
+        <div class="item">Column 4 Item 2</div>
+        <div class="item">Column 4 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 5 Item 1</div>
+        <div class="item">Column 5 Item 2</div>
+        <div class="item">Column 5 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 6 Item 1</div>
+        <div class="item">Column 6 Item 2</div>
+        <div class="item">Column 6 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 7 Item 1</div>
+        <div class="item">Column 7 Item 2</div>
+        <div class="item">Column 7 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 8 Item 1</div>
+        <div class="item">Column 8 Item 2</div>
+        <div class="item">Column 8 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 9 Item 1</div>
+        <div class="item">Column 9 Item 2</div>
+        <div class="item">Column 9 Item 3</div>
+    </div>
+    <div class="column">
+        <div class="item">Column 10 Item 1</div>
+        <div class="item">Column 10 Item 2</div>
+        <div class="item">Column 10 Item 3</div>
+    </div>
 </div>
 
 <div class="overlay"></div>
+<div class="column-container" id="selectedColumn"></div>
 <div class="textarea-container">
     <textarea id="itemList" readonly></textarea>
 </div>
 
 <script>
     const items = document.querySelectorAll('.item');
+    const columns = document.querySelectorAll('.column');
     const textareaContainer = document.querySelector('.textarea-container');
     const textarea = document.getElementById('itemList');
     const overlay = document.querySelector('.overlay');
+    const columnContainer = document.getElementById('selectedColumn');
     let itemList = [];
 
     items.forEach(item => {
         item.addEventListener('click', () => {
-            const itemText = item.textContent.trim();
+            const itemText = item.textContent.trim() + " →";
             itemList.push(itemText);
             textarea.value = itemList.join('\n');
+            columnContainer.innerHTML = itemText;
             textareaContainer.style.display = 'block';
+            columnContainer.style.display = 'block';
             overlay.style.display = 'block';
         });
     });
 
     overlay.addEventListener('click', () => {
         textareaContainer.style.display = 'none';
+        columnContainer.style.display = 'none';
         overlay.style.display = 'none';
     });
 </script>
