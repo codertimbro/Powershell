@@ -18,13 +18,6 @@
             margin-bottom: 5px;
             position: relative;
         }
-        .item::before {
-            content: "→ ";
-            position: absolute;
-            left: 10px;
-            font-size: 1.2em;
-            font-weight: bold;
-        }
         .modal-content {
             padding: 20px;
         }
@@ -124,13 +117,12 @@
     }
 
     function addItemToTextarea(item) {
-        const itemWithArrow = `→ ${item}`;
-        selectedItems.push(itemWithArrow);
+        selectedItems.push(item);
         const textarea = document.getElementById('itemList');
-        textarea.value = selectedItems.join('\n');
+        const formattedItems = selectedItems.join('\n');
+        textarea.value = `Talk to the user.\nRemoted into\n${formattedItems}`;
     }
-    const formattedItems = itemList.join('\n');
-    textarea.value = `Talk to the user.\nRemoted into\n${formattedItems}`;
+
     function refreshPage() {
         selectedItems = [];
         document.getElementById('itemList').value = '';
@@ -143,13 +135,3 @@
 
 </body>
 </html>
-  function selectColumn(event, columnName) {
-        const column = event.currentTarget;
-        const items = column.querySelectorAll('.item');
-        itemList = []; // Clear previous items
-        items.forEach(item => {
-            const itemText = `${item.textContent.trim()} →`;
-            itemList.push(itemText);
-        });
-        const formattedItems = itemList.join('\n');
-        textarea.value = `Talk to the user.\nRemoted into\n${formattedItems}`;
