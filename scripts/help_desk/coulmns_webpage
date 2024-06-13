@@ -25,41 +25,13 @@
             font-size: 1.2em;
             font-weight: bold;
         }
-        .textarea-container, .column-container {
-            display: none;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: #fff;
-            border: 1px solid #ccc;
+        .modal-content {
             padding: 20px;
-            z-index: 1000;
-            width: 80%;
-            max-width: 600px;
-            max-height: 80%;
-            overflow-y: auto;
         }
         textarea {
             width: 100%;
             height: 200px;
             font-size: 1em;
-        }
-        .overlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.5);
-            z-index: 999;
-        }
-        .fade-out {
-            opacity: 0.5;
-        }
-        .refresh-button {
-            margin-top: 20px;
         }
     </style>
 </head>
@@ -67,107 +39,105 @@
 
 <div class="container">
     <div class="row">
-        <div class="col" onclick="selectColumn(event, 'Column 1')">
-            <div class="item">Outlook Item 1</div>
-            <div class="item">Outlook Item 2</div>
-            <div class="item">Outlook Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Outlook', ['Outlook Item 1', 'Outlook Item 2', 'Outlook Item 3'])">
+            <div class="item">Outlook</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 2')">
-            <div class="item">Zoom Item 1</div>
-            <div class="item">Zoom Item 2</div>
-            <div class="item">Zoom Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Zoom', ['Zoom Item 1', 'Zoom Item 2', 'Zoom Item 3'])">
+            <div class="item">Zoom</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 3')">
-            <div class="item">Teams Item 1</div>
-            <div class="item">Teams Item 2</div>
-            <div class="item">Teams Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Teams', ['Teams Item 1', 'Teams Item 2', 'Teams Item 3'])">
+            <div class="item">Teams</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 4')">
-            <div class="item">Slack Item 1</div>
-            <div class="item">Slack Item 2</div>
-            <div class="item">Slack Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Slack', ['Slack Item 1', 'Slack Item 2', 'Slack Item 3'])">
+            <div class="item">Slack</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 5')">
-            <div class="item">Skype Item 1</div>
-            <div class="item">Skype Item 2</div>
-            <div class="item">Skype Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Skype', ['Skype Item 1', 'Skype Item 2', 'Skype Item 3'])">
+            <div class="item">Skype</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 6')">
-            <div class="item">Webex Item 1</div>
-            <div class="item">Webex Item 2</div>
-            <div class="item">Webex Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Webex', ['Webex Item 1', 'Webex Item 2', 'Webex Item 3'])">
+            <div class="item">Webex</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 7')">
-            <div class="item">Hangouts Item 1</div>
-            <div class="item">Hangouts Item 2</div>
-            <div class="item">Hangouts Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Hangouts', ['Hangouts Item 1', 'Hangouts Item 2', 'Hangouts Item 3'])">
+            <div class="item">Hangouts</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 8')">
-            <div class="item">Messenger Item 1</div>
-            <div class="item">Messenger Item 2</div>
-            <div class="item">Messenger Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Messenger', ['Messenger Item 1', 'Messenger Item 2', 'Messenger Item 3'])">
+            <div class="item">Messenger</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 9')">
-            <div class="item">WhatsApp Item 1</div>
-            <div class="item">WhatsApp Item 2</div>
-            <div class="item">WhatsApp Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'WhatsApp', ['WhatsApp Item 1', 'WhatsApp Item 2', 'WhatsApp Item 3'])">
+            <div class="item">WhatsApp</div>
         </div>
-        <div class="col" onclick="selectColumn(event, 'Column 10')">
-            <div class="item">Telegram Item 1</div>
-            <div class="item">Telegram Item 2</div>
-            <div class="item">Telegram Item 3</div>
+        <div class="col" onclick="showColumnModal(event, 'Telegram', ['Telegram Item 1', 'Telegram Item 2', 'Telegram Item 3'])">
+            <div class="item">Telegram</div>
         </div>
     </div>
 </div>
 
-<div class="overlay"></div>
-<div class="column-container" id="selectedColumn"></div>
-<div class="textarea-container">
-    <textarea id="itemList" readonly></textarea>
-    <button class="btn btn-primary refresh-button" onclick="refreshPage()">Refresh</button>
+<!-- Column Items Modal -->
+<div class="modal fade" id="columnModal" tabindex="-1" role="dialog" aria-labelledby="columnModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="columnModalLabel"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div id="columnItems"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Textarea Modal -->
+<div class="modal fade" id="textareaModal" tabindex="-1" role="dialog" aria-labelledby="textareaModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="textareaModalLabel">Selected Items</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <textarea id="itemList"></textarea>
+                <button class="btn btn-primary refresh-button mt-3" onclick="refreshPage()">Refresh</button>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script>
-    const columns = document.querySelectorAll('.col');
-    const textareaContainer = document.querySelector('.textarea-container');
-    const textarea = document.getElementById('itemList');
-    const overlay = document.querySelector('.overlay');
-    const columnContainer = document.getElementById('selectedColumn');
-    let itemList = [];
+    let selectedItems = [];
 
-    function selectColumn(event, columnName) {
-        const column = event.currentTarget;
-        const items = column.querySelectorAll('.item');
-        itemList = []; // Clear previous items
+    function showColumnModal(event, columnName, items) {
+        const modalTitle = document.getElementById('columnModalLabel');
+        const columnItems = document.getElementById('columnItems');
+        modalTitle.textContent = columnName;
+        columnItems.innerHTML = ''; // Clear previous items
+
         items.forEach(item => {
-            const itemText = `${item.textContent.trim()} →`;
-            itemList.push(itemText);
+            const itemDiv = document.createElement('div');
+            itemDiv.className = 'item';
+            itemDiv.textContent = item;
+            itemDiv.onclick = () => addItemToTextarea(item);
+            columnItems.appendChild(itemDiv);
         });
-        const formattedItems = itemList.join('\n');
-        textarea.value = `Talk to the user.\nRemoted into\n${formattedItems}`;
 
-        // Display selected column and textarea
-        columnContainer.innerHTML = `<h4>${columnName}</h4><div>${formattedItems.replace(/\n/g, '<br>')}</div>`;
-        textareaContainer.style.display = 'block';
-        columnContainer.style.display = 'block';
-        overlay.style.display = 'block';
+        $('#columnModal').modal('show');
+    }
 
-        // Fade out other columns
-        document.querySelector('.container').classList.add('fade-out');
+    function addItemToTextarea(item) {
+        selectedItems.push(item);
+        const textarea = document.getElementById('itemList');
+        textarea.value = selectedItems.join('\n');
+        $('#textareaModal').modal('show');
     }
 
     function refreshPage() {
-        location.reload();
+        selectedItems = [];
+        document.getElementById('itemList').value = '';
     }
-
-    overlay.addEventListener('click', () => {
-        textareaContainer.style.display = 'none';
-        columnContainer.style.display = 'none';
-        overlay.style.display = 'none';
-
-        // Remove fade-out effect
-        document.querySelector('.container').classList.remove('fade-out');
-    });
 </script>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
