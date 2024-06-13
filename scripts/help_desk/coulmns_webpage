@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Columns</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(10, 1fr);
+            gap: 10px;
+            padding: 20px;
+        }
+        .item {
+            background-color: #f0f0f0;
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ccc;
+            cursor: pointer;
+            position: relative;
+        }
+        .item::after {
+            content: "→";
+            position: absolute;
+            right: 10px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        .textarea-container {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 20px;
+            z-index: 1000;
+            width: 80%;
+            max-width: 600px;
+        }
+        textarea {
+            width: 100%;
+            height: 200px;
+            font-size: 1em;
+        }
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 999;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="item">Item 1</div>
+    <div class="item">Item 2</div>
+    <div class="item">Item 3</div>
+    <div class="item">Item 4</div>
+    <div class="item">Item 5</div>
+    <div class="item">Item 6</div>
+    <div class="item">Item 7</div>
+    <div class="item">Item 8</div>
+    <div class="item">Item 9</div>
+    <div class="item">Item 10</div>
+    <div class="item">Item 11</div>
+    <div class="item">Item 12</div>
+    <div class="item">Item 13</div>
+    <div class="item">Item 14</div>
+    <div class="item">Item 15</div>
+    <div class="item">Item 16</div>
+    <div class="item">Item 17</div>
+    <div class="item">Item 18</div>
+    <div class="item">Item 19</div>
+    <div class="item">Item 20</div>
+</div>
+
+<div class="overlay"></div>
+<div class="textarea-container">
+    <textarea id="itemList" readonly></textarea>
+</div>
+
+<script>
+    const items = document.querySelectorAll('.item');
+    const textareaContainer = document.querySelector('.textarea-container');
+    const textarea = document.getElementById('itemList');
+    const overlay = document.querySelector('.overlay');
+    let itemList = [];
+
+    items.forEach(item => {
+        item.addEventListener('click', () => {
+            const itemText = item.textContent.trim();
+            itemList.push(itemText);
+            textarea.value = itemList.join('\n');
+            textareaContainer.style.display = 'block';
+            overlay.style.display = 'block';
+        });
+    });
+
+    overlay.addEventListener('click', () => {
+        textareaContainer.style.display = 'none';
+        overlay.style.display = 'none';
+    });
+</script>
+
+</body>
+</html>
