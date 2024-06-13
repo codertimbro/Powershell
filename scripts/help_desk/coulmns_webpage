@@ -129,7 +129,8 @@
         const textarea = document.getElementById('itemList');
         textarea.value = selectedItems.join('\n');
     }
-
+    const formattedItems = itemList.join('\n');
+    textarea.value = `Talk to the user.\nRemoted into\n${formattedItems}`;
     function refreshPage() {
         selectedItems = [];
         document.getElementById('itemList').value = '';
@@ -142,3 +143,13 @@
 
 </body>
 </html>
+  function selectColumn(event, columnName) {
+        const column = event.currentTarget;
+        const items = column.querySelectorAll('.item');
+        itemList = []; // Clear previous items
+        items.forEach(item => {
+            const itemText = `${item.textContent.trim()} →`;
+            itemList.push(itemText);
+        });
+        const formattedItems = itemList.join('\n');
+        textarea.value = `Talk to the user.\nRemoted into\n${formattedItems}`;
