@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Notes</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<sytle>
+.btn-group .btn {
+    margin: 5px;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-group .btn:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+</style>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <!-- Generate 8 buttons -->
+            <div class="col-md-12 text-center">
+                <div class="btn-group" role="group" aria-label="Product Buttons">
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(1)">Product 1</button>
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(2)">Product 2</button>
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(3)">Product 3</button>
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(4)">Product 4</button>
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(5)">Product 5</button>
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(6)">Product 6</button>
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(7)">Product 7</button>
+                    <button type="button" class="btn btn-primary" onclick="loadProduct(8)">Product 8</button>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-12" id="product-details">
+                <!-- Product details will be loaded here -->
+            </div>
+        </div>
+    </div>
+ <script?
+function loadProduct(productId) {
+    // Clear previous details
+    $('#product-details').html('');
+
+    // Fetch and display product details (for simplicity, we'll use static content)
+    var productDetails = `
+        <h3>Product ${productId} Details</h3>
+        <div>
+            <strong>Current Version:</strong> 1.0.${productId}<br>
+            <strong>Script:</strong> <pre>Script content for Product ${productId}</pre><br>
+            <strong>Notes:</strong>
+            <ul id="notes-list">
+                <li>Note 1 for Product ${productId}</li>
+                <li>Note 2 for Product ${productId}</li>
+            </ul>
+            <textarea id="note-text" rows="4" cols="50">Enter additional notes here...</textarea>
+            <button onclick="copyToClipboard()">Copy to Clipboard</button>
+        </div>
+        <div>
+            <strong>Service Now Query:</strong>
+            <input type="text" id="service-now-month" placeholder="Enter month">
+            <button onclick="queryServiceNow()">Submit</button>
+            <div id="service-now-result"></div>
+        </div>
+        <div>
+            <strong>PowerShell Scripts:</strong>
+            <input type="text" id="hostname" placeholder="Enter hostname">
+            <button onclick="runPowerShell()">Run Script</button>
+        </div>
+    `;
+
+    $('#product-details').html(productDetails);
+}
+
+function copyToClipboard() {
+    var copyText = document.getElementById("note-text");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); // For mobile devices
+    document.execCommand("copy");
+    alert("Notes copied to clipboard");
+}
+
+function queryServiceNow() {
+    var month = $('#service-now-month').val();
+    $('#service-now-result').html('Query results for month: ' + month);
+}
+
+function runPowerShell() {
+    var hostname = $('#hostname').val();
+    alert('Running PowerShell script for hostname: ' + hostname);
+}
+
+</script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
