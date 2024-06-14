@@ -1,1 +1,2 @@
 robocopy "C:\source\folder" "D:\destination\folder" /E /Z /MT:16 /R:3 /W:1 /LOG:robocopy_log.txt
+robocopy "C:\SourceFolder" "D:\DestinationFolder" /E /Z /MT:16 /R:2 /W:1  /XC /XN /XO /LOG:robocopy_log.txt
