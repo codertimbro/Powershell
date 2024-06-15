@@ -1,0 +1,103 @@
+# Read the products from the text file
+$products = Get-Content -Path "products.txt"
+
+# Start the HTML content
+$htmlContent = @"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Products Page</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <h1 class="mt-5">Products</h1>
+"@
+
+# Generate buttons and modals for each product
+foreach ($index in 0..($products.Length - 1)) {
+    $product = $products[$index]
+    $productId = "product$index"
+    
+    # Add button
+    $htmlContent += @"
+    <!-- Button to trigger modal for $product -->
+    <button type="button" class="btn btn-primary mt-3" data-toggle="modal" data-target="#$productId">
+        $product
+    </button>
+"@
+
+    # Add modal
+    $htmlContent += @"
+    <!-- Modal for $product -->
+    <div class="modal fade" id="$productId" tabindex="-1" aria-labelledby="${productId}Label" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="${productId}Label">$product</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="textarea${productId}">Write a 10-word sentence:</label>
+                        <textarea class="form-control" id="textarea${productId}" rows="5"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Clickable List:</label>
+                        <ul class="list-group">
+                            <li class="list-group-item">Item 1</li>
+                            <li class="list-group-item">Item 2</li>
+                            <li class="list-group-item">Item 3</li>
+                            <li class="list-group-item">Item 4</li>
+                        </ul>
+                    </div>
+                    <div class="form-group">
+                        <label>Info Section:</label>
+                        <p>Some information about $product.</p>
+                    </div>
+                    <div class="form-group">
+                        <label>PowerShell Command:</label>
+                        <input type="text" class="form-control" id="powershell${productId}" value="Get-ProductInfo -Name '$product'" readonly>
+                        <button type="button" class="btn btn-secondary mt-2" onclick="copyToClipboard('powershell${productId}')">Copy to Clipboard</button>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+"@
+}
+
+# End the HTML content
+$htmlContent += @"
+</div>
+<!-- jQuery, Popper.js, and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    function copyToClipboard(elementId) {
+        var copyText = document.getElementById(elementId);
+        copyText.select();
+        copyText.setSelectionRange(0, 99999); // For mobile devices
+        document.execCommand("copy");
+        alert("Copied the text: " + copyText.value);
+    }
+</script>
+</body>
+</html>
+"@
+
+# Output the HTML content to a file
+$outputFilePath = "products.html"
+$htmlContent | Out-File -FilePath $outputFilePath -Encoding utf8
+
+Write-Output "HTML file has been generated: $outputFilePath"
