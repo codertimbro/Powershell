@@ -1,0 +1,49 @@
+# Define the input and output files
+$inputFile = "products.txt"
+$outputFile = "index.html"
+
+# Read the products from the file
+$products = Get-Content $inputFile | ForEach-Object {
+    $parts = $_ -split ","
+    [PSCustomObject]@{
+        Name = $parts[0].Trim()
+        URL = $parts[1].Trim()
+    }
+}
+
+# Define the HTML template with Bootstrap 5
+$htmlTemplate = @"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Buttons</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Product Buttons</h1>
+        <div class="d-grid gap-2 mt-3">
+            <!-- Buttons will be inserted here -->
+            BUTTON_PLACEHOLDER
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+"@
+
+# Generate the buttons HTML
+$buttonsHtml = $products | ForEach-Object {
+    "<button type='button' class='btn btn-primary' onclick='window.open(`"$_($URL)`", `_blank`)'>{0}</button>" -f $_.Name
+} | Out-String
+
+# Replace the placeholder in the template with the generated buttons
+$htmlContent = $htmlTemplate -replace "BUTTON_PLACEHOLDER", $buttonsHtml
+
+# Write the HTML content to the output file
+Set-Content -Path $outputFile -Value $htmlContent
+
+Write-Host "HTML file generated at $outputFile"
