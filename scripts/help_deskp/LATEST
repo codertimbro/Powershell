@@ -80,16 +80,16 @@ foreach ($index in 0..($products.Length - 1)) {
 $htmlContent += @"
 <!-- Second Modal -->
 <div class="modal fade" id="secondModal" tabindex="-1" aria-labelledby="secondModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
+    <div class="modal-dialog modal-fullscreen">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="secondModalLabel">Web Page</h5>
+                <h5 class="modal-title" id="secondModalLabel">Full Screen Web Page</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
-            <div class="modal-body">
-                <iframe src="https://www.example.com" width="100%" height="400px"></iframe>
+            <div class="modal-body p-0">
+                <iframe src="https://www.google.com" width="100%" height="100%" style="border: none;"></iframe>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" onclick="openPreviousModal()">Back to Product Modal</button>
