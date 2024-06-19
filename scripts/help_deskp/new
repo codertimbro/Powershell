@@ -1,0 +1,183 @@
+# Path to the products.txt file
+$productFilePath = "products.txt"
+
+# Path to the output HTML file
+$outputHtmlFilePath = "products.html"
+
+# Read the products from the file
+$products = Get-Content -Path $productFilePath
+
+# Generate the HTML content
+$htmlContent = @"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessible Product Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            padding: 20px;
+        }
+        .section {
+            width: 48%;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .product-list {
+            list-style: none;
+            padding: 0;
+            display: none; /* Initially hide the product list */
+        }
+        .product-item {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .external-links a, .mixed-content a {
+            display: block;
+            padding: 10px;
+            margin-bottom: 10px;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .external-links a:hover, .mixed-content a:hover {
+            background-color: #0056b3;
+        }
+        .btn {
+            padding: 10px 20px;
+            margin-bottom: 10px;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <script>
+        function loadProducts() {
+            const products = [
+"@
+
+foreach ($product in $products) {
+    $htmlContent += "`"$product`","
+}
+
+$htmlContent = $htmlContent.TrimEnd(',')
+
+$htmlContent += @"
+            ];
+
+            const productList = document.getElementById('productList');
+            products.forEach(product => {
+                const li = document.createElement('li');
+                li.textContent = product;
+                li.className = 'product-item';
+                productList.appendChild(li);
+            });
+
+            document.getElementById('productList').style.display = 'block';
+            document.getElementById('loadButton').style.display = 'none';
+        }
+
+        function filterProducts() {
+            const searchValue = document.getElementById('search').value.toLowerCase();
+            const products = document.getElementsByClassName('product-item');
+            let hasMatch = false;
+            for (let i = 0; i < products.length; i++) {
+                const product = products[i].innerText.toLowerCase();
+                if (product.includes(searchValue)) {
+                    products[i].style.display = '';
+                    hasMatch = true;
+                } else {
+                    products[i].style.display = 'none';
+                }
+            }
+            document.getElementById('productList').style.display = hasMatch ? 'block' : 'none';
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <!-- Product Section -->
+        <div class="section">
+            <h2>Products</h2>
+            <input type="text" id="search" onkeyup="filterProducts()" placeholder="Search for products...">
+            <button id="loadButton" class="btn" onclick="loadProducts()">Load Products</button>
+            <ul class="product-list" id="productList">
+                <!-- Products will be dynamically loaded here -->
+            </ul>
+        </div>
+
+        <!-- External Links Section 1 -->
+        <div class="section external-links">
+            <h2>External Links 1</h2>
+            <a href="https://www.example.com" target="_blank">Example 1</a>
+            <a href="https://www.example2.com" target="_blank">Example 2</a>
+            <a href="https://www.example3.com" target="_blank">Example 3</a>
+        </div>
+
+        <!-- External Links Section 2 -->
+        <div class="section external-links">
+            <h2>External Links 2</h2>
+            <a href="https://www.example4.com" target="_blank">Example 4</a>
+            <a href="https://www.example5.com" target="_blank">Example 5</a>
+            <a href="https://www.example6.com" target="_blank">Example 6</a>
+        </div>
+
+        <!-- Mixed Content Section -->
+        <div class="section mixed-content">
+            <h2>Mixed Content</h2>
+            <a href="https://www.example7.com" target="_blank">Example 7</a>
+            <a href="https://www.example8.com" target="_blank">Example 8</a>
+            <a href="https://www.example9.com" target="_blank">Example 9</a>
+            <ul class="product-list">
+                <!-- List 10 Products here -->
+                <li class="product-item">Product 101</li>
+                <li class="product-item">Product 102</li>
+                <li class="product-item">Product 103</li>
+                <li class="product-item">Product 104</li>
+                <li class="product-item">Product 105</li>
+                <li class="product-item">Product 106</li>
+                <li class="product-item">Product 107</li>
+                <li class="product-item">Product 108</li>
+                <li class="product-item">Product 109</li>
+                <li class="product-item">Product 110</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+"@
+
+# Write the HTML content to the file
+Set-Content -Path $outputHtmlFilePath -Value $htmlContent
+
+Write-Host "HTML file has been generated at $outputHtmlFilePath"
