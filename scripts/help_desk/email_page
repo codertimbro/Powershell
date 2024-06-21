@@ -1,3 +1,23 @@
+<script>
+        function createEmail() {
+            const fromEmail = document.getElementById('fromEmail').value;
+            const toEmail = document.getElementById('toEmail').value;
+            const subject = document.getElementById('subject').value;
+            const info = document.getElementById('info').value;
+
+            const username = fromEmail.split('@')[0].split('.')[0]; // Extract the first part of the username
+            const capitalizedUsername = username.charAt(0).toUpperCase() + username.slice(1);
+
+            const upperCaseSubject = subject.toUpperCase();
+            const lowerCaseSubject = subject.toLowerCase();
+
+            const body = `Hi ${capitalizedUsername},\n\n${info}\n\nsubject: ${lowerCaseSubject}`;
+
+            const mailtoUrl = `mailto:${toEmail}?subject=${encodeURIComponent(upperCaseSubject)}&body=${encodeURIComponent(body)}`;
+
+            window.location.href = mailtoUrl;
+        }
+    </script>
 <!DOCTYPE html>
 <html lang="en">
 <head>
