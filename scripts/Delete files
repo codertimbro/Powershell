@@ -1,0 +1,43 @@
+# Define directories to scan for files
+$directories = @(
+    "$env:USERPROFILE\Downloads",
+    "$env:USERPROFILE\AppData\Local\Temp",
+    "$env:USERPROFILE\AppData\Local\Microsoft\Windows\Temporary Internet Files"
+)
+
+# Minimum age of files to consider (in days)
+$minimumAgeInDays = 7
+
+# Function to get file size in a human-readable format
+function Format-FileSize {
+    param([int64]$size)
+    if ($size -lt 1kb) {
+        "$size bytes"
+    } elseif ($size -lt 1mb) {
+        "{0:N2} KB" -f ($size / 1kb)
+    } elseif ($size -lt 1gb) {
+        "{0:N2} MB" -f ($size / 1mb)
+    } elseif ($size -lt 1tb) {
+        "{0:N2} GB" -f ($size / 1gb)
+    } else {
+        "{0:N2} TB" -f ($size / 1tb)
+    }
+}
+
+# Loop through each directory and find files that can be deleted
+foreach ($directory in $directories) {
+    if (Test-Path $directory -PathType Container) {
+        $files = Get-ChildItem -Path $directory -File | Where-Object { $_.LastWriteTime -lt (Get-Date).AddDays(-$minimumAgeInDays) }
+        if ($files.Count -gt 0) {
+            Write-Output "Files in $directory that are safe to delete:"
+            foreach ($file in $files) {
+                Write-Output ("{0,-80} {1}" -f $file.FullName, (Format-FileSize $file.Length))
+            }
+            Write-Output ""
+        } else {
+            Write-Output "No files found in $directory that are safe to delete."
+        }
+    } else {
+        Write-Output "Directory $directory does not exist."
+    }
+}
