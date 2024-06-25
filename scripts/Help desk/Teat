@@ -1,0 +1,4 @@
+Get-ChildItem -Path "C:\Path\To\Search" -Recurse -File -ErrorAction SilentlyContinue |
+Where-Object { $_.LastWriteTime -lt (Get-Date).AddDays(-30) } |
+Select-Object FullName, Length |
+Sort-Object Length -Descending
