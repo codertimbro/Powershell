@@ -1,0 +1,74 @@
+json file 
+[
+    {"name": "Product 1", "url": "https://example.com/product1"},
+    {"name": "Product 2", "url": "https://example.com/product2"},
+    {"name": "Product 3", "url": "https://example.com/product3"},
+    ...
+    {"name": "Product 50", "url": "https://example.com/product50"}
+]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        #product-list {
+            margin-top: 20px;
+        }
+        .product-item {
+            margin: 5px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Product Search</h1>
+    <input type="text" id="search-bar" placeholder="Search for a product...">
+    <div id="product-list"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
+document.addEventListener('DOMContentLoaded', function() {
+    const searchBar = document.getElementById('search-bar');
+    const productList = document.getElementById('product-list');
+    let products = [];
+
+    // Load products from the file (assuming the file is a JSON array)
+    fetch('products.json')
+        .then(response => response.json())
+        .then(data => {
+            products = data;
+            displayProducts(products);
+        })
+        .catch(error => console.error('Error loading products:', error));
+
+    // Function to display the products
+    function displayProducts(products) {
+        productList.innerHTML = '';
+        products.forEach(product => {
+            const productItem = document.createElement('div');
+            productItem.className = 'product-item';
+            productItem.textContent = product.name;
+            productItem.onclick = () => window.location.href = product.url;
+            productList.appendChild(productItem);
+        });
+    }
+
+    // Function to filter products based on search input
+    searchBar.addEventListener('input', function() {
+        const searchTerm = searchBar.value.toLowerCase();
+        const filteredProducts = products.filter(product =>
+            product.name.toLowerCase().includes(searchTerm)
+        );
+        displayProducts(filteredProducts);
+    });
+});
