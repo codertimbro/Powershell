@@ -1,0 +1,45 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetTitleMatchMode, 2 ; Allows partial matching of window titles
+
+; Define the coordinates and text
+xInput := 200   ; X-coordinate of the input field
+yInput := 300   ; Y-coordinate of the input field
+xButton := 250  ; X-coordinate of the button
+yButton := 350  ; Y-coordinate of the button
+textToEnter := "Your text here"
+
+; Focus on the primary monitor (monitor 1 is generally the primary)
+SysGet, MonitorCount, MonitorCount
+SysGet, MonitorPrimary, MonitorPrimary
+Loop %MonitorCount%
+{
+    SysGet, Monitor, Monitor, %A_Index%
+    if (MonitorPrimary = A_Index)
+    {
+        ; Move mouse to the primary monitor's top-left corner to ensure focus
+        MouseMove, %MonitorLeft%, %MonitorTop%
+        Click
+        break
+    }
+}
+
+; Optional: Activate a specific window on monitor 1 (e.g., a browser window)
+; WinActivate, YourBrowserWindowTitle
+
+; Give some time for the focus change
+Sleep, 500
+
+; Move the mouse to the input field and click
+MouseMove, %xInput%, %yInput%
+Click
+
+; Input the text
+Send, %textToEnter%
+
+; Give some time for the text input
+Sleep, 500
+
+; Move the mouse to the button and click
+MouseMove, %xButton%, %yButton%
+Click
