@@ -1,0 +1,28 @@
+# Create a secure password string
+$securePassword = ConvertTo-SecureString $password -AsPlainText -Force
+
+# Create a credential object
+$credential = New-Object System.Management.Automation.PSCredential ($username, $securePassword)
+
+# Perform the web request
+$response = Invoke-WebRequest -Uri $url -Credential $credential
+
+# Check if the request was successful
+if ($response.StatusCode -eq 200) {
+    # Parse the HTML content
+    $html = $response.Content
+
+    # Use regex to find the long ID (sys_id)
+    $pattern = 'sys_id=([a-f0-9]{32})'
+    $matches = [regex]::Matches($html, $pattern)
+
+    if ($matches.Count -gt 0) {
+        # Extract the first match
+        $sys_id = $matches[0].Groups[1].Value
+        Write-Output "Record ID: $sys_id"
+    } else {
+        Write-Output "No long ID found in the response."
+    }
+} else {
+    Write-Output "Failed to retrieve the page. Status code: $($response.StatusCode)"
+}
