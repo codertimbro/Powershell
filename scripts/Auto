@@ -1,0 +1,11 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+
+; Hotkey to get mouse coordinates
+^!c::  ; Ctrl + Alt + C
+    ; Get the current position of the mouse
+    MouseGetPos, xpos, ypos
+    
+    ; Display the coordinates in a message box
+    MsgBox, The mouse cursor is at X%xpos% Y%ypos%
+return
