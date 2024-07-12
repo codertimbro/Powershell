@@ -26,3 +26,9 @@ if ($response.StatusCode -eq 200) {
 } else {
     Write-Output "Failed to retrieve the page. Status code: $($response.StatusCode)"
 }
+# Define the URL of the ServiceNow record
+$url = "https://your_instance.service-now.com/your_table.do?sys_id=your_short_id"
+
+# Define your username and password
+$username = "yourUsername"
+$password = "yourPassword"
