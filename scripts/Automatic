@@ -1,0 +1,39 @@
+scripts # Create a new Internet Explorer COM object
+$ie = New-Object -ComObject InternetExplorer.Application
+
+# Navigate to the website
+$ie.Navigate("http://www.example.com")
+$ie.Visible = $true
+
+# Wait for the page to load completely
+while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 100 }
+
+# Find the input field (assuming it has an ID of 'inputFieldId')
+$inputField = $ie.Document.getElementById("inputFieldId")
+
+# Focus on the input field
+$inputField.focus()
+
+# Create a WScript Shell object to send keys
+$wshell = New-Object -ComObject WScript.Shell
+
+# Send the keys to the input field
+$wshell.SendKeys("Your text here")
+
+# Optionally, wait for a moment to ensure the text is entered
+Start-Sleep -Seconds 1
+
+# Find the button (assuming it has an ID of 'buttonId')
+$button = $ie.Document.getElementById("buttonId")
+
+# Focus on the button
+$button.focus()
+
+# Send the Enter key to click the button
+$wshell.SendKeys("{ENTER}")
+
+# Wait for the next page to load (if necessary)
+while ($ie.Busy -eq $true) { Start-Sleep -Milliseconds 100 }
+
+# Optionally, you can close the browser
+# $ie
