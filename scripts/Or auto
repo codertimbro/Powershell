@@ -1,0 +1,27 @@
+# Create a new Internet Explorer COM object
+$ie = New-Object -ComObject InternetExplorer.Application
+
+# Navigate to the website
+$ie.Navigate("http://www.example.com")
+$ie.Visible = $true
+
+# Wait for the page to load completely
+while ($ie.Busy) { Start-Sleep -Milliseconds 100 }
+
+# Find the input field (assuming it has an ID of 'inputFieldId')
+$inputField = $ie.Document.getElementById("inputFieldId")
+
+# Enter text into the input field
+$inputField.value = "Your text here"
+
+# Find the button (assuming it has an ID of 'buttonId')
+$button = $ie.Document.getElementById("buttonId")
+
+# Click the button
+$button.click()
+
+# Wait for the next page to load (if necessary)
+while ($ie.Busy) { Start-Sleep -Milliseconds 100 }
+
+# Optionally, you can close the browser
+# $ie.Quit()
