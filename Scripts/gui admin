@@ -1,0 +1,98 @@
+Add-Type -AssemblyName PresentationFramework
+
+# Create the Window
+[xml]$xaml = @"
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Remote System Admin" Height="400" Width="600">
+    <Grid>
+        <StackPanel>
+            <Button Name="GetDriveMapping" Content="Get Drive Mapping" Width="200" Margin="10"/>
+            <Button Name="GetPrinters" Content="Get Installed Printers" Width="200" Margin="10"/>
+            <Button Name="GetPrograms" Content="Get Installed Programs" Width="200" Margin="10"/>
+            <Button Name="ClearTeamsCache" Content="Clear Teams Cache" Width="200" Margin="10"/>
+            <Button Name="ClearZoomCache" Content="Clear Zoom Cache" Width="200" Margin="10"/>
+            <Button Name="CheckPresenceSetup" Content="Check Presence Setup" Width="200" Margin="10"/>
+            <Button Name="ReadRegistry" Content="Read Registry" Width="200" Margin="10"/>
+            <Button Name="ReadServices" Content="Read Services" Width="200" Margin="10"/>
+            <Button Name="CheckADGroup" Content="Check AD Group Membership" Width="200" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
+"@
+
+# Load the XAML
+$reader = (New-Object System.Xml.XmlNodeReader $xaml)
+try {
+    $window = [Windows.Markup.XamlReader]::Load($reader)
+} catch {
+    Write-Error "Failed to load XAML"
+    exit
+}
+
+# Define Functions
+function Get-DriveMapping {
+    # Add code to get drive mapping
+    [System.Windows.MessageBox]::Show("Drive Mapping")
+}
+
+function Get-Printers {
+    # Add code to get installed printers
+    [System.Windows.MessageBox]::Show("Installed Printers")
+}
+
+function Get-Programs {
+    # Add code to get installed programs
+    [System.Windows.MessageBox]::Show("Installed Programs")
+}
+
+function Clear-TeamsCache {
+    # Add code to clear Teams cache
+    [System.Windows.MessageBox]::Show("Teams Cache Cleared")
+}
+
+function Clear-ZoomCache {
+    # Add code to clear Zoom cache
+    [System.Windows.MessageBox]::Show("Zoom Cache Cleared")
+}
+
+function Check-PresenceSetup {
+    # Add code to check presence setup
+    [System.Windows.MessageBox]::Show("Presence Setup Checked")
+}
+
+function Read-Registry {
+    # Add code to read registry
+    [System.Windows.MessageBox]::Show("Registry Read")
+}
+
+function Read-Services {
+    # Add code to read services
+    [System.Windows.MessageBox]::Show("Services Read")
+}
+
+function Check-ADGroup {
+    # Add code to check AD group membership
+    [System.Windows.MessageBox]::Show("AD Group Membership Checked")
+}
+
+# Attach Functions to Buttons
+$window.FindName("GetDriveMapping").Add_Click({ Get-DriveMapping })
+$window.FindName("GetPrinters").Add_Click({ Get-Printers })
+$window.FindName("GetPrograms").Add_Click({ Get-Programs })
+$window.FindName("ClearTeamsCache").Add_Click({ Clear-TeamsCache })
+$window.FindName("ClearZoomCache").Add_Click({ Clear-ZoomCache })
+$window.FindName("CheckPresenceSetup").Add_Click({ Check-PresenceSetup })
+$window.FindName("ReadRegistry").Add_Click({ Read-Registry })
+$window.FindName("ReadServices").Add_Click({ Read-Services })
+$window.FindName("CheckADGroup").Add_Click({ Check-ADGroup })
+
+# Show the Window
+$window.ShowDialog() | Out-Null
+function Get-DriveMapping {
+    $output = Invoke-Command -ComputerName $remoteComputer -ScriptBlock {
+        Get-WmiObject -Class Win32_MappedLogicalDisk | Select-Object DeviceID, ProviderName
+    }
+    $outputText = $output | Out-String
+    [System.Windows.MessageBox]::Show($outputText, "Drive Mappings")
+}
