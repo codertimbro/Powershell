@@ -1,0 +1,29 @@
+# Add types for using user32.dll functions
+Add-Type @"
+using System;
+using System.Runtime.InteropServices;
+public class User32 {
+    [DllImport("user32.dll", CharSet=CharSet.Auto, CallingConvention=CallingConvention.StdCall)]
+    public static extern void mouse_event(long dwFlags, long dx, long dy, long cButtons, long dwExtraInfo);
+
+    [DllImport("user32.dll", CharSet=CharSet.Auto, CallingConvention=CallingConvention.StdCall)]
+    public static extern bool SetCursorPos(int X, int Y);
+}
+"@
+
+# Constants for mouse events
+$MOUSEEVENTF_MOVE = 0x0001
+$MOUSEEVENTF_LEFTDOWN = 0x0002
+$MOUSEEVENTF_LEFTUP = 0x0004
+
+# Set the cursor position
+[int]$x = 500
+[int]$y = 500
+[User32]::SetCursorPos($x, $y)
+
+# Perform a mouse click
+[User32]::mouse_event($MOUSEEVENTF_LEFTDOWN, $x, $y, 0, 0)
+Start-Sleep -Milliseconds 100
+[User32]::mouse_event($MOUSEEVENTF_LEFTUP, $x, $y, 0, 0)
+
+Write-Output "Mouse moved to position ($x, $y) and clicked."
