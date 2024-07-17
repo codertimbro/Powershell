@@ -1,0 +1,129 @@
+$apiKey = "YOUR_API_KEY"
+$symbol = "AAPL"
+$function = "TIME_SERIES_DAILY"
+$url = "https://www.alphavantage.co/query?function=$function&symbol=$symbol&apikey=$apiKey"
+
+$data = Invoke-RestMethod -Uri $url
+$timeSeries = $data."Time Series (Daily)"
+function Calculate-MovingAverage {
+    param (
+        [float[]] $data,
+        [int] $period
+    )
+
+    $result = @()
+    for ($i = 0; $i -le $data.Length - $period; $i++) {
+        $subset = $data[$i..($i + $period - 1)]
+        $average = ($subset | Measure-Object -Sum).Sum / $period
+        $result += [PSCustomObject]@{
+            Date = $data[$i + $period - 1].Date
+            MA = $average
+        }
+    }
+    return $result
+}
+
+$closePrices = $timeSeries.Values | ForEach-Object { [float]$_."4. close" }
+$ma18 = Calculate-MovingAverage -data $closePrices -period 18
+$ma42 = Calculate-MovingAverage -data $closePrices -period 42
+# ... Repeat for other moving averages
+
+
+function Calculate-MACD {
+    param (
+        [float[]] $data,
+        [int] $shortPeriod,
+        [int] $longPeriod,
+        [int] $signalPeriod
+    )
+
+    $shortMA = Calculate-MovingAverage -data $data -period $shortPeriod
+    $longMA = Calculate-MovingAverage -data $data -period $longPeriod
+
+    $macdLine = @()
+    for ($i = 0; $i -lt $shortMA.Count; $i++) {
+        $macdValue = $shortMA[$i].MA - $longMA[$i].MA
+        $macdLine += $macdValue
+    }
+
+    $signalLine = Calculate-MovingAverage -data $macdLine -period $signalPeriod
+
+    return [PSCustomObject]@{
+        MACDLine = $macdLine
+        SignalLine = $signalLine
+    }
+}
+
+$macd = Calculate-MACD -data $closePrices -shortPeriod 12 -longPeriod 26 -signalPeriod 9
+
+
+function Analyze-BuySellSignals {
+    param (
+        [PSCustomObject[]] $macd,
+        [PSCustomObject[]] $ma
+    )
+
+    $signals = @()
+    for ($i = 1; $i -lt $macd.MACDLine.Count; $i++) {
+        if ($macd.MACDLine[$i] -gt $macd.SignalLine[$i] -and $macd.MACDLine[$i - 1] -lt $macd.SignalLine[$i - 1]) {
+            $signals += [PSCustomObject]@{
+                Date = $macd.MACDLine[$i].Date
+                Signal = "Buy"
+            }
+        } elseif ($macd.MACDLine[$i] -lt $macd.SignalLine[$i] -and $macd.MACDLine[$i - 1] -gt $macd.SignalLine[$i - 1]) {
+            $signals += [PSCustomObject]@{
+                Date = $macd.MACDLine[$i].Date
+                Signal = "Sell"
+            }
+        }
+    }
+    return $signals
+}
+
+$signals = Analyze-BuySellSignals -macd $macd -ma $ma
+# Example function to output analysis
+function Output-Analysis {
+    param (
+        [PSCustomObject[]] $signals,
+        [PSCustomObject[]] $timeSeries
+    )
+
+    foreach ($signal in $signals) {
+        $date = $signal.Date
+        $signalType = $signal.Signal
+        Write-Host "$date: $signalType signal detected"
+    }
+
+    # Additional analysis for premarket, average return, etc.
+}
+
+Output-Analysis -signals $signals -timeSeries $timeSeries
+
+
+everything
+
+$apiKey = "YOUR_API_KEY"
+$symbol = "AAPL"
+$function = "TIME_SERIES_DAILY"
+$url = "https://www.alphavantage.co/query?function=$function&symbol=$symbol&apikey=$apiKey"
+
+$data = Invoke-RestMethod -Uri $url
+$timeSeries = $data."Time Series (Daily)"
+
+# Extract close prices
+$closePrices = $timeSeries.Values | ForEach-Object { [float]$_."4. close" }
+
+# Calculate Moving Averages
+$ma18 = Calculate-MovingAverage -data $closePrices -period 18
+$ma42 = Calculate-MovingAverage -data $closePrices -period 42
+# ... Repeat for other moving averages
+
+# Calculate MACD
+$macd = Calculate-MACD -data $closePrices -shortPeriod 12 -longPeriod 26 -signalPeriod 9
+
+# Analyze Buy/Sell Signals
+$signals = Analyze-BuySellSignals -macd $macd -ma $ma
+
+# Output Analysis
+Output-Analysis -signals $signals -timeSeries $timeSeries
+
