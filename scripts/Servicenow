@@ -1,0 +1,1 @@
+https://<instance_name>.service-now.com/nav_to.do?uri=incident_list.do?sysparm_query=state=6^sys_updated_on>=javascript:gs.dateGenerate('YYYY-MM-DD','02:00:00')^sys_updated_on<=javascript:gs.dateGenerate('YYYY-MM-DD','23:59:59')
