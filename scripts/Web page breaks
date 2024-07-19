@@ -1,0 +1,27 @@
+Add-Type -AssemblyName PresentationFramework
+
+[void][System.Reflection.Assembly]::LoadWithPartialName('System.Drawing')
+[void][System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms')
+
+# Create a new form
+$form = New-Object System.Windows.Forms.Form
+$form.Text = "Break"
+$form.StartPosition = "CenterScreen"
+$form.Size = New-Object System.Drawing.Size(960, 540)  # Assuming a 1920x1080 resolution, this will be half the size of the screen
+
+# Create a new label
+$label = New-Object System.Windows.Forms.Label
+$label.Text = "Break"
+$label.AutoSize = $true
+$label.Font = New-Object System.Drawing.Font("Microsoft Sans Serif", 36, [System.Drawing.FontStyle]::Bold)
+$label.TextAlign = "MiddleCenter"
+
+# Add the label to the form
+$form.Controls.Add($label)
+
+# Center the label
+$label.Location = New-Object System.Drawing.Point(($form.ClientSize.Width - $label.PreferredWidth) / 2, ($form.ClientSize.Height - $label.PreferredHeight) / 2)
+
+# Display the form
+$form.Add_Shown({$form.Activate()})
+[void]$form
