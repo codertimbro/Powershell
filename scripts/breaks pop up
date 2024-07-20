@@ -1,0 +1,34 @@
+Add-Type -AssemblyName System.Windows.Forms
+
+function Show-BreakNotification {
+    param (
+        [string]$Title = "Break Time!",
+        [string]$Message = "It's time to take a break."
+    )
+
+    $form = New-Object System.Windows.Forms.Form
+    $form.Text = $Title
+    $form.Size = New-Object System.Drawing.Size(800, 800)
+    $form.StartPosition = "CenterScreen"
+    $form.BackColor = [System.Drawing.Color]::FromArgb(0xDD, 0xF5, 0xF6)
+
+    $textBox = New-Object System.Windows.Forms.TextBox
+    $textBox.Multiline = $true
+    $textBox.ReadOnly = $true
+    $textBox.Size = New-Object System.Drawing.Size(760, 760)  # Slightly smaller to fit in the form
+    $textBox.Location = New-Object System.Drawing.Point(20, 20)  # Centered with margin
+    $textBox.TextAlign = "Center"
+    $textBox.Font = New-Object System.Drawing.Font("Verdana", 24)
+    $textBox.Text = $Message
+    $textBox.BackColor = $form.BackColor
+    $textBox.BorderStyle = "None"
+
+    # Add the TextBox to the form
+    $form.Controls.Add($textBox)
+
+    # Show the form as a dialog
+    $form.ShowDialog()
+}
+
+# Call the function to show the notification
+Show-BreakNotification -Title "Break Reminder" -Message "It's time to take a break."
