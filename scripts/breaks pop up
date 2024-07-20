@@ -6,12 +6,14 @@ function Show-BreakNotification {
         [string]$Message = "It's time to take a break."
     )
 
+    # Create the form
     $form = New-Object System.Windows.Forms.Form
     $form.Text = $Title
     $form.Size = New-Object System.Drawing.Size(800, 800)
     $form.StartPosition = "CenterScreen"
     $form.BackColor = [System.Drawing.Color]::FromArgb(0xDD, 0xF5, 0xF6)
 
+    # Create the TextBox
     $textBox = New-Object System.Windows.Forms.TextBox
     $textBox.Multiline = $true
     $textBox.ReadOnly = $true
@@ -25,6 +27,16 @@ function Show-BreakNotification {
 
     # Add the TextBox to the form
     $form.Controls.Add($textBox)
+
+    # Create a timer to close the form after 2 seconds
+    $timer = New-Object System.Windows.Forms.Timer
+    $timer.Interval = 4000 # 2000 milliseconds = 2 seconds
+    $timer.Add_Tick({
+        $form.Close()
+    })
+
+    # Start the timer
+    $timer.Start()
 
     # Show the form as a dialog
     $form.ShowDialog()
