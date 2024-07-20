@@ -1,0 +1,11 @@
+# Define the URL of the web page to scrape
+$url = "https://example.com"
+
+# Perform the web request to get the content of the web page
+$response = Invoke-WebRequest -Uri $url
+
+# Parse the HTML content and extract the links
+$links = $response.Links | Select-Object -ExpandProperty href
+
+# Output the links
+$links
