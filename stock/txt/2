@@ -1,0 +1,178 @@
+transcript_vway_macd_supertrnd_tradeline
+hello guys in today's video I'm
+revealing a simple and very profitable
+trading strategy I will go through
+everything step by step and try to teach
+you every single detail so be sure to
+watch the full video to make sure you
+don't miss anything but first make sure
+you subscribe to our YouTube channel so
+you don't miss out on any of our new
+videos so without further Ado let's get
+started with today's video
+for this strategy we will use a
+combination of three indicators super
+Trend I'm a CD and the v-wap let's start
+with the super Trend first as it will
+help us to know the short-term trend of
+the market
+all right so let's add the super Trend
+indicator to the chart for adding
+indicators to our chart here we click on
+the indicators Tab and type supertrain
+in the search box
+and we're going to use this one here
+created by tradingview add it to the
+chart
+and for this super Trend we must change
+the settings so go to the indicator
+settings and in the input section change
+the ATR link from 10 to 1 and factor
+from 3 to 2.
+the super Trend indicator is visible
+with its two colors while they can be
+changed the default colors are usually
+red and green when it is green it is a
+signal to buy an asset while when it is
+read it is assigned to sell an asset the
+downside is that a super Trend indicator
+is more useful in trending markets where
+there are clear-up Trends and downtrends
+in price this may not be profitable when
+the market is moving sideways and may
+give false signals triggering wrong
+trades for more efficient signals super
+Trends are used in combination with
+other indicators
+and so let's move on to the second
+indicator for our strategy which is the
+view app so go to the indicator and
+search for v-wap
+and we're going to use this one here add
+it to the chart
+first we need to make some minor
+adjustments to its settings so go to the
+indicator settings and in the style
+section I'm going to hide these upper
+bands and lower bands
+okay so the view app is the average
+price of a stock weighted by the total
+trading volume it is used to calculate
+the average price of a stock over a
+period of time v-wap is important
+because it provides Traders with pricing
+insight into both the trend and value of
+a security okay so now let's add our
+third and final indicator go to the
+indicator type macd and then add it to
+the chart
+now go to the indicator settings
+and in the style tab we uncheck the McD
+line and the signal line because in this
+strategy we only need the histogram okay
+now that our setup is ready let's move
+on to the trading rules but before we go
+any further if you want to show us your
+support and help us produce a lot of new
+content make sure you hit the Subscribe
+button and the notification Bell it's
+only two clicks but it means a lot to us
+let's start with the rules for entering
+short positions
+so here are the conditions for entering
+a short trade first the price should
+trade below the view app and the candle
+should also close very near to it we
+will avoid taking any trades when the
+price is away from the v-wap second the
+super Trend should turn red indicating a
+sell signal and finally the macd
+histogram should be read if all the
+conditions are met you can take a cell
+position you can set a stop loss on
+either the view app line or the super
+trend line depending on which is closest
+to the entry candle and our take profit
+would be two times greater than the stop
+loss
+let's look at some examples to help you
+understand
+here we see that the price is trading
+below the view app and the super trend
+has also turned red indicating a sell
+signal and on the next candle the macd
+histogram has also turned red so all the
+conditions are met on this candle we
+will enter a short trade at the open of
+the next candle
+I set the stop loss on the v-wap line
+and our take profit would be two times
+greater than the stop loss
+here the price closes below the view app
+at the same time the Super Trend turns
+red indicating a sell signal and the
+macd histogram also turns red so all the
+conditions are met on this candle we
+will enter a short trade at the open of
+the next candle
+I set the stop loss on the v-wap line
+and our take profit would be two times
+greater than the stop loss
+now let's understand the conditions for
+entering a long trade entering a long
+position is the exact opposite of
+entering a short position
+first the price should trade above the
+view app and the candle should also
+close very near to it second the super
+Trend should turn green indicating a Buy
+Signal the next step is to use the macd
+to confirm the upward momentum by
+waiting for the macd histogram to turn
+green if all the conditions are met you
+can take a buy position
+you can set a stop loss on either the
+v-wap line or the super trend line
+depending on which is closest to the
+entry candle and our take profit would
+be two times greater than the stop loss
+let's see some examples
+here the price closes above the v-wap at
+the same time the Super Trend turns
+green indicating a Buy Signal and the
+macd histogram also turns green so all
+the conditions are met on this candle we
+will enter a long trade at the open of
+the next candle
+I set the stop loss on the v-wap line
+and our stop was hit on this trade we
+all know that no strategy can ever be
+100 accurate let's see another example
+here we see that the price is trading
+above the v-wap at the same time the
+Super Trend turns green indicating a Buy
+Signal and the macd histogram also turns
+green so all the conditions are met on
+this candle we will enter a long trade
+at the open of the next candle I set the
+stop loss on the v-wap line and our take
+profit would be two times greater than
+the stop loss
+here we see that the price is trading
+above the v-wap at the same time the
+Super Trend turns green indicating a Buy
+Signal and the macd histogram also turns
+green so all the conditions are met on
+this candle we will enter a long trade
+at the open of the next candle I set the
+stop loss on the v-wap line
+and our take profit would be two times
+greater than the stop loss
+again nothing in this video should be
+taken as Financial advice this is purely
+for informational purposes so thank you
+guys for watching and if you like the
+video then be sure to subscribe to our
+channel so that you don't miss on any of
+our new videos I'll see you in the next
+video
