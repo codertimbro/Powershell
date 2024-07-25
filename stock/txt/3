@@ -1,0 +1,207 @@
+transcript_macd_vwap_magic_indicator
+welcome to Magic indicator strategies
+in this video we will teach you a very
+accurate trading strategy that features
+three one of the most powerful
+indicators on trading view this trading
+algorithm is suitable for beginners as
+well as for advanced Traders
+it can produce a lot of high quality
+signals per day
+so if you're a day trader who wants to
+make a sustainable career in this
+business this strategy can help you get
+there fast
+you do not need any premium or paid
+indicators for this strategy
+the combination of indicators we found
+produces 100 better results than some
+premium tools that cost a lot of money
+this method works for Forex
+cryptocurrencies and stocks
+it shows excellent results on shorter
+time frames such as 5 minutes 15 minutes
+and one hour
+as we mentioned you only need three free
+trading view indicators for this
+strategy the macd utbot alerts and vwap
+indicator
+by the end of this short video you will
+learn the entry rules for this strategy
+the money management behind it and how
+to build this setup
+Traders before we start be sure to click
+the like button on this video And
+subscribe to Magic indicator strategies
+our mission with this channel is to turn
+you into a successful Trader as fast as
+possible
+before we proceed to the trading rules
+let's first understand what macd
+indicator is
+the moving average convergence
+Divergence macd oscillator is a momentum
+indicator designed to show the
+relationship between two sets of moving
+averages
+the macd subtracts the long-term EMA
+from the short-term EMA to produce an
+indicator that reflects both Trend and
+momentum the indicator consists of three
+elements a macd line which measures the
+distance between two moving averages the
+signal line which identifies changes in
+price momentum and the histogram which
+represents the difference between the
+macd and Signal line
+when the macd line crosses the signal
+Line This is an indication of a
+short-term momentum change
+when both of the lines cross the zero
+level this usually indicates a shift in
+a longer term trend
+the next indicator we have on our chart
+is called volume weighted average price
+or vwap
+this is a technical analysis indicator
+used on intraday charts that resets at
+the start of every new trading session
+it's a trading Benchmark that represents
+the average price of security has traded
+it throughout the day based on both
+volume and price
+vwap is used in different ways by
+Traders
+Traders may use vwap as a trend
+confirmation tool and build trading
+rules around it
+we will use vwap as a baseline for our
+strategy
+the third indicator of our strategy is
+utbot alerts
+this is a simple buy and sell indicator
+that is based on the average true range
+the average true range or ATR is an
+indicator that measures Market
+volatility
+it's used in technical analysis and
+shows how much an asset's price moves on
+average during a given time frame
+based on this information the indicator
+finds the most optimal prices for
+entering long and short trades
+okay now that we know how these
+indicators function let's break down the
+exact conditions for buy and sell trades
+so for a Buy Signal to be valid the
+following must be met
+first a buy label must be printed below
+the price bar
+second at the time the signal is issued
+the price bar must be fully above the
+vwap blue line
+third the macd histogram should be
+colored green
+if the bar is light green you should not
+enter the trade
+lastly check the position of the most
+recent bullish cross on the macd against
+the zero level
+the cross must occur above the middle
+line
+open a Buy trade at the close of the
+current price bar if these rules are in
+place
+set the stop loss below the most recent
+swing low
+exit a winning long trade as soon as the
+indicator prints a cell label
+here are a couple more examples of by
+trades
+watch how the macd indicator filters out
+false signals
+here we see the Candlestick price is
+above the v-wap
+a Buy Signal was issued
+the macd is green and the cross happened
+above zero
+Traders it's very critical to stick to
+the strategy rules we just showed you
+sometimes the risk reward ratio can be
+really high
+this is a major secret to making a lot
+of money from Trading
+Traders if you're enjoying the content
+be sure to click the like button and
+subscribe to Magic indicator strategies
+you're becoming a better Trader day by
+day by watching our videos
+all right now let's learn how to enter
+short trades
+first the indicator must issue a signal
+to sell
+second at the time the signal is present
+the price bar must be below the vwap
+band
+third the macd histogram should be read
+if the bar is colored in light red the
+signal is invalid
+lastly check the position of the most
+recent cross on the macd
+the cross needs to be below the middle
+level
+if these conditions are present place an
+order to sell at the close of the price
+bar
+set your stop loss above the most recent
+swing high and exit a winning short
+trade once you receive a signal to buy
+if you follow these rules you'll be
+amazed at how well this strategy works
+so how exactly should you add these
+indicators to the chart
+well first log into trading View and
+open the chart of any asset
+then head over to the indicators menu
+and search for the first tool which is
+called moving average convergence
+Divergence
+you can find this indicator under
+technicals
+leave its settings on default
+for the second tool search for volume
+weighted average price
+choose this indicator right here
+its settings will also remain by default
+finally for the third indicator add
+utbot alerts
+select this one that was created by
+Quant nomad
+access its settings and change the ATR
+period to 5.
+that's it the strategy is ready
+in order to save your time you can
+create alerts for these buy and sell
+signals
+the way you can do that is by clicking
+on the alert button at the top and
+selecting the utbot alerts indicator as
+the condition
+as for the signal you can choose buy
+sell or even both
+set the alert to occur once per bar
+close
+once you've finished click create
+you will be notified every time the
+indicator prints a signal
+make sure to check if the rest of the
+conditions are met before entering the
+trade
+we tested this strategy on the price of
+Bitcoin on the five minutes time frame
+the strategy had a win ratio close to 90
+percent
+this is truly amazing and we're happy to
+share it with you
+thanks for watching this video
+till the next one
