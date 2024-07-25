@@ -1,0 +1,306 @@
+transcript_macd_100x_data_trader
+
+hey i tested the macd indicator 100
+times
+watch the full video to see the results
+so if you're a beginner trader i'm sure
+you've watched at least one trading guru
+that tells you about how great the macd
+indicator is
+all these guru does is tell you all
+about the strategies that you can
+implement in the macd indicator
+but have you ever watched like a full 30
+minute training video
+and walk out still not knowing crap but
+because you just watched a long video
+your brain kind of tricks you into
+thinking that you actually learned
+something and you thought you did
+something productive with those 30
+minutes but in reality you had no idea
+what the guy just said
+yeah that's called some cost fallacy and
+it's bad
+but don't worry we've all been there so
+instead of bull crapping about how great
+the macd
+indicator is i'm just going to reveal to
+you the approximate win rate of the
+indicator
+so you don't have to waste your precious
+time and money testing it yourself
+let me do all that for you
+so first there are two methods that i'm
+gonna be testing with the macd indicator
+so the first method is i'm gonna call it
+the normal method which is just your
+normal way of using the macd
+the second is i'm gonna call it the new
+method
+this method still uses the macd
+indicator but in a very different way
+some say that this second method
+actually gives a higher win rate
+let's see
+so let me give a quick explanation just
+in case some of you don't know how the
+macd works
+there are four components in the macd
+this blue line
+is called the macd line this line moves
+faster
+and is more sensitive to price action
+which will be the main focus of the macd
+indicator
+this orange line is called the signal
+line this line reacts slower to price
+changes and is used to show the
+direction of a trend
+less sensitive it is mainly used to
+filter out market noises
+next we have the macd histogram it
+simply represents the difference between
+the signal line
+and the macd line you can see that if
+the two lines are further apart
+the histogram gets longer and if the two
+lines are closer
+the histogram gets shorter next we have
+the baseline
+which just shows the middle area of the
+mat the indicator
+when the two lines are above the
+baseline it indicates a bullish
+sentiment meaning that the market is
+uptrending
+and when it is below the baseline it
+indicates a bearish momentum
+or a downtrend so now that you know the
+parts of the macd
+i'm gonna explain to you how you use the
+macd like i said in the start of the
+video
+there are two methods that i'm gonna
+back test so the first method
+is called the normal method this is
+simply how most people use the macd
+indicator
+so quick summary there are two lines
+it can be either above or below the
+baseline
+if the two lines are below the baseline
+and the macd line crosses above the
+signal line
+you go long and if the two lines are
+above the baseline and it crosses below
+the signal line
+you go short pretty simple
+now for the new method this is a
+different way of utilizing the macd
+the lines can be either above or below
+the baseline
+if the lines are below the baseline you
+wait for it to cross downwards again
+then you take a short position
+[Music]
+so after the lines crosses upwards
+wait for it to cross downwards again
+while still being below the baseline
+that's when you take your short position
+it's the same example with the long
+position when the lines are above the
+baseline
+and it crosses upwards again while still
+being above the baseline
+you take a long position
+for the normal method it focuses on
+spotting reversals
+as the lines are below the baseline when
+you go long
+however the new method focuses on trend
+continuations
+as you enter a long position when the
+lines are already above the baseline
+for my exit strategy since we are solely
+testing the macd indicator
+that means i will also use the macd
+indicator as my exit strategy
+my exit strategy would be the same for
+those two methods
+every time the macd line and the signal
+line crosses over
+i exit my trade it doesn't matter if
+it's above or below the baseline
+if it crosses over at any point i close
+the trade
+there are a couple of rules that i use
+when back testing an indicator
+the first rule is measuring at a
+candle's close
+what do i mean by this well indicators
+collects data from the candle itself
+so if the candle is still moving the
+indicator would also be
+moving
+that is why it is important to start
+measuring from a candle's close
+for example here we have a chart let's
+say i'm testing the normal method
+so i'll start measuring here
+because it's a green candle so the close
+is in the top part of the body
+so i'll start here and let's say just an
+example that our exit signal is here
+and it happens to be a red candle a red
+candle
+closes at the bottom of the candle's
+body so the measurement would be from
+this point
+to this point
+the next rule is that if my entry signal
+appears
+immediately after my exit signal i'm
+going to enter at the next candle
+so what do i mean by this because our
+exit strategy is waiting for the macd to
+cross over
+there are often times where the macd
+displays an entry signal
+right after it displays an exit signal
+as shown here
+so if this happens i'll start measuring
+at the next candle's close
+i'm gonna be using the euro usd 15
+minute chart for this back test
+so here's an excel sheet that i created
+to record this back
+test here i can insert how much wins and
+loss i already got
+and it would automatically calculate the
+win rate
+so i'll consider a win if i make a
+profit
+it does not matter how much pips i got
+if i got a profit i'll consider it a win
+however if i get a loss or a break even
+i'm counting it as a loss
+this back test i'm going to start with a
+capital of ten thousand dollars
+and every trade i'm using 150 times
+leverage
+but i'm only trading with one percent of
+my capital per trade
+so that i would not blow up my account
+this means that i would only risk
+one percent of my capital per trade this
+excel sheet also automatically counts
+your new capital after you trade
+so for example let's say i got three
+pips from a trade
+so i'll enter it here and it'll
+automatically calculate how much profit
+you got
+what's your new capital and what is your
+new trading budget because like i said
+i'll only risk one percent of my capital
+per trade
+so this automatically calculates one
+percent from my new
+capital
+bear in mind that these results are just
+an approximate win rate because you
+can't determine the exact win rate of
+the strategy by only testing it 100
+times
+so after back testing these two types of
+macd
+indicators 100 times here are the
+results
+so for the normal method we have a 42
+win rate with 42 wins and 58 losses
+but even though the win rate is less
+than 50
+we still managed to come out profitable
+we made a total of
+ten dollars and thirteen cents or nine
+pips from our ten thousand dollars
+investment
+now remember that we didn't manage our
+losses and had a proper exit strategy
+so if we had used a proper risk
+management and a good exit strategy i'm
+pretty sure we would come out more
+profitable
+we actually made 343 dollars at some
+point
+our biggest single trade win was 115
+dollars and 42 cents
+which was about 57 pips
+however our biggest one trade loss
+was 156 or 77
+pips like i said had i used the correct
+exit plan and a proper risk management
+i could have avoided that huge loss and
+exited that trade earlier
+for the new macd method the second macd
+strategy had a whopping
+23 win rate which is very far compared
+to the normal method
+with 42 we lost a total of
+75 cents which is about 46 pips using
+this indicator
+at some point we reached a profit of 138
+and 33 cents our biggest
+one trade profit was 59
+and our biggest one trade loss was only
+42 dollars
+unlike the normal method where most
+losses comes from
+huge one trade losses this indicator's
+losses
+mostly comes from small yet continuous
+losses
+so i think even though if we use the
+tight stop loss and the correct money
+management
+the results wouldn't be any better
+either because the odds are simply
+against us
+the concept of the new method kinda
+makes sense as it
+tries to capture continuation trends
+instead of reversals
+yet the normal method does a much better
+job of detecting continuation trends
+while giving a good entry because in my
+opinion the new method tries so hard to
+capture continuation trends
+meaning that the trend had already
+happened it also displays a late signal
+and it's not even a good entry
+overall i think the macd does a really
+good job of spotting early trends
+of course trends on the market does not
+always happen sometimes the market is
+stagnant but the macd
+rarely gives false signals for entry
+especially when you combine it with a
+good exit indicator
+if you want me to backtest multiple
+indicators
+comment which indicators you want me to
+backtest below
+and remember the most important factor
+to determine your success
+is always money management because
+trading is just a probability game
+and finding which indicators has the
+highest probability
+would give you an edge and if you pair
+that up with good money management
+you will succeed at trading
+and that's the end for me today
+subscribe if this content give you value
+thank you so much for watching and i'll
+see you in the next video
