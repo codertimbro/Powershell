@@ -1,0 +1,39 @@
+$remoteComputer = "RemoteComputerName"
+$searchWord = "SearchWord"
+
+Invoke-Command -ComputerName $remoteComputer -ScriptBlock {
+    param ($searchWord)
+
+    function Search-Registry {
+        param (
+            [string]$keyPath
+        )
+        try {
+            $items = Get-ChildItem -Path $keyPath -ErrorAction Stop
+            foreach ($item in $items) {
+                if ($item.PSIsContainer) {
+                    Search-Registry -keyPath $item.PSPath
+                } else {
+                    $values = Get-ItemProperty -Path $item.PSPath
+                    foreach ($value in $values.PSObject.Properties) {
+                        if ($value.Value -match $searchWord) {
+                            [PSCustomObject]@{
+                                KeyPath   = $item.PSPath
+                                Name      = $value.Name
+                                Value     = $value.Value
+                            }
+                        }
+                    }
+                }
+            }
+        } catch {
+            Write-Error $_.Exception.Message
+        }
+    }
+
+    $basePaths = @("HKLM:\", "HKCU:\")
+    $results = foreach ($basePath in $basePaths) {
+        Search-Registry -keyPath $basePath
+    }
+    return $results
+} -ArgumentList $searchWord
