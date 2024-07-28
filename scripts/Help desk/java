@@ -1,0 +1,73 @@
+$remoteComputer = "RemoteComputerName"
+
+# Check if Java is installed and get the version
+Invoke-Command -ComputerName $remoteComputer -ScriptBlock {
+    $javaVersion = & java -version 2>&1
+    if ($javaVersion) {
+        Write-Output "Java is installed."
+        Write-Output $javaVersion
+    } else {
+        Write-Output "Java is not installed."
+    }
+}
+search
+Invoke-Command -ComputerName $remoteComputer -ScriptBlock {
+    # Check JAVA_HOME
+    $javaHome = [System.Environment]::GetEnvironmentVariable('JAVA_HOME', 'Machine')
+    if ($javaHome) {
+        Write-Output "JAVA_HOME is set to: $javaHome"
+    } else {
+        Write-Output "JAVA_HOME is not set."
+    }
+
+    # Check Path
+    $path = [System.Environment]::GetEnvironmentVariable('Path', 'Machine')
+    if ($path -match ".*JAVA_HOME.*") {
+        Write-Output "Path includes JAVA_HOME"
+    } else {
+        Write-Output "Path does not include JAVA_HOME"
+    }
+}
+set
+Invoke-Command -ComputerName $remoteComputer -ScriptBlock {
+    # Set JAVA_HOME
+    $javaHomePath = "C:\Program Files\Java\jdk-11.0.11"  # Update this path as needed
+    [System.Environment]::SetEnvironmentVariable('JAVA_HOME', $javaHomePath, 'Machine')
+
+    # Update Path
+    $currentPath = [System.Environment]::GetEnvironmentVariable('Path', 'Machine')
+    if ($currentPath -notmatch ".*JAVA_HOME.*") {
+        $newPath = "$currentPath;`%JAVA_HOME`%\bin"
+        [System.Environment]::SetEnvironmentVariable('Path', $newPath, 'Machine')
+    }
+}
+
+debug
+  Invoke-Command -ComputerName $remoteComputer -ScriptBlock {
+    @echo off
+    SETLOCAL
+
+    echo JAVA_HOME is set to: %JAVA_HOME%
+    echo PATH is set to: %PATH%
+
+    REM Check if JAVA_HOME is set
+    IF NOT DEFINED JAVA_HOME (
+        echo JAVA_HOME is not set.
+        exit /b 1
+    )
+
+    REM Check if java executable is accessible
+    IF NOT EXIST "%JAVA_HOME%\bin\java.exe" (
+        echo java.exe not found in JAVA_HOME\bin.
+        exit /b 1
+    )
+
+    REM Check Java version
+    java -version
+    IF %ERRORLEVEL% NEQ 0 (
+        echo Java is not installed or not found in PATH.
+        exit /b 1
+    )
+
+    echo Java is installed and accessible.
+}
