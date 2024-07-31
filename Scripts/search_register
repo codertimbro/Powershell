@@ -1,0 +1,2 @@
+$jdkKey = Get-ChildItem -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" | 
+    Where-Object { $_.GetValue("DisplayName") -like "*Java*Development*Kit*" }
