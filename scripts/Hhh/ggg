@@ -1,0 +1,29 @@
+# Get-Top50LargestDirectories.ps1
+
+param(
+    [string]$Path = "C:\", # Default path to C:\ if not specified
+    [int]$Top = 50 # Default to top 50 directories
+)
+
+# Get directory sizes using robocopy and output to a temporary file
+$tempFile = [System.IO.Path]::GetTempFileName()
+robocopy $Path $Path /L /S /BYTES /NJH /NJS /FP /NC /NDL /NFL /MT:1 > $tempFile
+
+# Read the temporary file and parse directory sizes
+$dirSizes = Get-Content $tempFile | ForEach-Object {
+    if ($_ -match '^(\d+)\s+\d+\s+\d+\s+(.+)$') {
+        [PSCustomObject]@{
+            Size = [int64]$matches[1]
+            Path = $matches[2]
+        }
+    }
+}
+
+# Sort by size and get the top directories
+$topDirs = $dirSizes | Sort-Object Size -Descending | Select-Object -First $Top
+
+# Output the top directories
+$topDirs | Format-Table -AutoSize
+
+# Clean up temporary file
+Remove-Item $tempFile
