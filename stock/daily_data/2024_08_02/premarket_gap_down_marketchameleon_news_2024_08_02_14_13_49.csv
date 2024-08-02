@@ -1,0 +1,2 @@
+ticker,name,close,volume,EMA10|5,Stoch.K|5,Stoch.D|5,ROC|15,VWAP|5,BB.upper,UO,RSI3[1]|5,Value.Traded|5,MACD.signal,MACD.macd,Mom|30,Mom_14|30,relative_volume_intraday|5,Rec.Stoch.RSI|15,change_from_open,volume_change_abs|15,relative_volume_10d_calc,update_mode|5,indicators_bars_count|5,brokername,date
+NASDAQ:TSLA,TSLA,206.67,59287729,207.12,18.89,14.89,-2.35,210.77,271.97,42.11,43.56,40481683.33,6.74,1.15,-9.76,-13.09,0.76,0,-3.82,-1016654,0.57,delayed_streaming_900,2,premarket_gap_down_marketchameleon_news,08-02-2024-14-13
