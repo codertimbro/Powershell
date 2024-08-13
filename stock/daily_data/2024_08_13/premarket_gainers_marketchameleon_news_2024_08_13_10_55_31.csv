@@ -1,0 +1,7 @@
+ticker,name,close,volume,EMA10|5,Stoch.K|5,Stoch.D|5,ROC|15,VWAP|5,BB.upper,UO,RSI3[1]|5,Value.Traded|5,MACD.signal,MACD.macd,Mom|30,Mom_14|30,relative_volume_intraday|5,Rec.Stoch.RSI|15,change_from_open,volume_change_abs|15,relative_volume_10d_calc,update_mode|5,indicators_bars_count|5,brokername,date
+NASDAQ:PARA,PARA,10.26,1436425,10.25,42.0,33.21,0.0,10.26,12.15,26.17,78.18,341916.88,-0.17,-0.28,0.02,-0.01,0.64,1,-0.58,-172037,0.14,delayed_streaming_900,2,premarket_gainers_marketchameleon_news,08-13-2024-10-55
+NASDAQ:SOUN,SOUN,5.3,15434242,5.31,39.54,46.07,2.19,5.38,5.51,52.61,15.27,2732754.2,0.03,0.06,0.14,0.03,1.66,0,-0.09,19612,0.54,delayed_streaming_900,2,premarket_gainers_marketchameleon_news,08-13-2024-10-55
+NASDAQ:AMZN,AMZN,167.8,9643628,167.78,51.81,59.73,0.42,167.94,194.93,47.0,45.19,30036087.9,-5.28,-6.28,0.04,-0.24,0.59,-1,-0.01,-777251,0.16,delayed_streaming_900,2,premarket_gainers_marketchameleon_news,08-13-2024-10-55
+NASDAQ:RIOT,RIOT,7.66,3761467,7.67,44.86,46.51,-0.18,7.68,13.16,42.02,16.26,1157702.38,-0.43,-0.73,-0.07,-0.1,0.6,0,0.2,68305,0.2,delayed_streaming_900,2,premarket_gainers_marketchameleon_news,08-13-2024-10-55
+NASDAQ:ALXO,ALXO,2.49,148219,2.49,12.37,14.62,-0.6,2.51,8.29,44.4,35.3,9241.65,-1.17,-1.3,0.0,-0.11,0.17,0,1.22,-24402,0.04,delayed_streaming_900,2,premarket_gainers_marketchameleon_news,08-13-2024-10-55
+NASDAQ:INTC,INTC,20.02,19095703,19.86,76.63,71.78,3.62,19.85,39.22,37.05,83.05,28228353.18,-2.55,-3.48,0.48,0.4,0.66,0,2.75,70959,0.17,delayed_streaming_900,2,premarket_gainers_marketchameleon_news,08-13-2024-10-55
