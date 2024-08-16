@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modern Timer</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #1e1e2f;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      text-align: center;
+    }
+    .timer {
+      font-size: 5rem;
+      margin: 20px 0;
+      color: #00d4ff;
+    }
+    .progress-bar {
+      width: 100%;
+      background-color: #333;
+      border-radius: 5px;
+      overflow: hidden;
+    }
+    .progress {
+      height: 20px;
+      background-color: #00d4ff;
+      width: 0;
+    }
+    input[type="number"] {
+      padding: 10px;
+      font-size: 1.5rem;
+      width: 100px;
+      border-radius: 5px;
+      border: 2px solid #00d4ff;
+      background-color: #1e1e2f;
+      color: #ffffff;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 1.5rem;
+      border: none;
+      border-radius: 5px;
+      background-color: #00d4ff;
+      color: #1e1e2f;
+      cursor: pointer;
+      margin-top: 20px;
+      margin-right: 10px;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #00b4e3;
+    }
+    #stopButton {
+      background-color: #ff4f4f;
+    }
+    #stopButton:hover {
+      background-color: #ff3a3a;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Modern Timer</h1>
+    <input id="minutes" type="number" placeholder="Minutes" min="1">
+    <div>
+      <button onclick="startTimer()">Start Timer</button>
+      <button id="stopButton" onclick="stopTimer()">Stop Timer</button>
+    </div>
+    <div class="timer" id="timer">00:00</div>
+    <div class="progress-bar">
+      <div class="progress" id="progress"></div>
+    </div>
+    <!-- Audio element for sound alert -->
+    <audio id="alertSound">
+      <source src="file:///C:/Windows/Media/Windows%20Notify%20Calendar.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+
+  <script>
+    let timerInterval;
+
+    function startTimer() {
+      const minutesInput = document.getElementById('minutes');
+      let totalSeconds = minutesInput.value * 60;
+      const timerDisplay = document.getElementById('timer');
+      const progressBar = document.getElementById('progress');
+      const alertSound = document.getElementById('alertSound');
+
+      if (timerInterval) {
+        clearInterval(timerInterval);
+      }
+
+      timerInterval = setInterval(() => {
+        let minutes = Math.floor(totalSeconds / 60);
+        let seconds = totalSeconds % 60;
+        seconds = seconds < 10 ? '0' + seconds : seconds;
+        timerDisplay.textContent = `${minutes}:${seconds}`;
+        
+        const percentage = 100 - ((totalSeconds / (minutesInput.value * 60)) * 100);
+        progressBar.style.width = `${percentage}%`;
+
+        if (totalSeconds <= 0) {
+          clearInterval(timerInterval);
+          alertSound.play();  // Play sound when time is up
+        }
+        totalSeconds--;
+      }, 1000);
+    }
+
+    function stopTimer() {
+      clearInterval(timerInterval);
+      document.getElementById('timer').textContent = '00:00';
+      document.getElementById('progress').style.width = '0';
+      document.getElementById('minutes').value = '';
+    }
+  </script>
+</body>
+</html>
