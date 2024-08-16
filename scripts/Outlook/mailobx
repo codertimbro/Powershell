@@ -1,0 +1,23 @@
+# Load Outlook COM Object
+$Outlook = New-Object -ComObject Outlook.Application
+$Namespace = $Outlook.GetNamespace("MAPI")
+
+# Get the Shared Mailbox
+$SharedMailbox = $Namespace.Folders.Item("Shared Mailbox Name")
+
+# Access the Inbox of the Shared Mailbox
+$Inbox = $SharedMailbox.Folders.Item("Inbox")
+
+# Access the Subfolder within the Shared Mailbox
+$Subfolder = $Inbox.Folders.Item("Subfolder Name")
+
+# Find the first email that you want to move
+$Email = $Inbox.Items | Where-Object { $_.Subject -like "*Specific Subject*" } | Select-Object -First 1
+
+# Move the email to the subfolder
+if ($Email) {
+    $Email.Move($Subfolder)
+    Write-Host "Email moved to subfolder successfully."
+} else {
+    Write-Host "No matching email found."
+}
