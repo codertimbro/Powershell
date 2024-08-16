@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Section Page with Modal</title>
+    <style>
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1e1e2f;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0;
+    padding: 20px;
+    margin-left: 4in; /* Push everything to the left by 4 inches */
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px; /* Reduce gap between cards */
+    margin-left: -3in; /* Move card-container 3 inches to the left */
+}
+
+.card {
+    background: #2e2e3a;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 10px; /* Reduce padding */
+    text-align: center;
+    position: relative;
+    height: 250px; /* Reduce height */
+    overflow: hidden; /* Hide overflow */
+}
+
+.card button {
+    display: block;
+    margin: 10px auto; /* Center buttons */
+    padding: 8px 15px;
+    font-size: 1.2rem;
+}
+
+.card.modern-timer, .card.break-ideas, .card.projects, .card.work-page {
+    margin-bottom: 1in; /* Adjust spacing */
+}
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+
+button {
+    padding: 8px 15px;
+    font-size: 1rem; /* Adjust font size */
+    border: none;
+    border-radius: 5px;
+    background-color: #00d4ff;
+    color: #1e1e2f;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #00b4e3;
+}
+
+#stopButton {
+    background-color: #ff4f4f;
+}
+
+#stopButton:hover {
+    background-color: #ff3a3a;
+}
+
+.timer {
+    font-size: 4rem; /* Adjust font size */
+    margin: 10px 0;
+    color: #00d4ff;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #333;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 20px;
+    background-color: #00d4ff;
+    width: 0;
+}
+
+input[type="number"], input[type="text"] {
+    padding: 8px;
+    font-size: 1rem; /* Adjust font size */
+    border-radius: 5px;
+    border: 2px solid #00d4ff;
+    background-color: #1e1e2f;
+    color: #ffffff;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background: #2e2e3a;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    max-height: 40%;
+    overflow: auto;
+    position: relative;
+}
+
+.modal-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.modal-content .close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="card-container">
+            <div class="card modern-timer">
+                <h1>Modern Timer</h1>
+                <input id="minutes" type="number" placeholder="Minutes" min="1">
+                <div class="button-container">
+                    <button onclick="startTimer()">Start Timer</button>
+                    <button id="stopButton" onclick="stopTimer()">Stop Timer</button>
+                    <button onclick="setTimer(15)">15 Minutes</button>
+                    <button onclick="setTimer(30)">30 Minutes</button>
+                    <button onclick="setTimer(2)">2 Minutes</button>
+                </div>
+                <div class="timer" id="timer">00:00</div>
+                <div class="progress-bar">
+                    <div class="progress" id="progress"></div>
+                </div>
+                <!-- Audio element for sound alert -->
+                <audio id="alertSound">
+                    <source src="file:///C:/Windows/Media/Windows%20Notify%20Calendar.wav" type="audio/wav">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+
+            <div class="card break-ideas">
+                <h1>Break Ideas</h1>
+                <div>
+                    <button id="randomIdeaBtn">Show Random Idea</button>
+                    <button id="nightstandBtn">Nightstand</button>
+                    <button id="pantryBtn">Small Pantry</button>
+                    <button id="shoeRackBtn">Shoe Rack</button>
+                </div>
+                <div id="showIdea"></div>
+                <div id="ideaContent" class="hidden"></div>
+                <div class="video-container" id="videoContainer" class="hidden"></div>
+            </div>
+
+            <div class="card projects">
+                <h1>Projects</h1>
+                <div class="input-group">
+                    <input type="text" id="projectInput" placeholder="Enter a new project...">
+                    <button onclick="addProject()">Add Project</button>
+                </div>
+                <ul id="projectList">
+                    <!-- Example project items, these will be dynamically added -->
+                    <li>Project 1 <button class="remove-btn">Remove</button></li>
+                    <li>Project 2 <button class="remove-btn">Remove</button></li>
+                    <li>Project 3 <button class="remove-btn">Remove</button></li>
+                </ul>
+                <div class="input-group">
+                    <button onclick="saveProjects()">Save Projects</button>
+                </div>
+            </div>
+
+            <div class="card work-page">
+                <h1>Work Page</h1>
+                <div class="search-group">
+                    <input type="text" placeholder="Search projects...">
+                    <button onclick="searchProjects()">Search</button>
+                </div>
+                <div class="work-page-group">
+                    <button onclick="createNewTask()">Create New Task</button>
+                    <button onclick="viewCompletedTasks()">View Completed Tasks</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Timer -->
+    <div id="timerModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="modalTimer" class="timer">00:00</div>
+            <div class="progress-bar">
+                <div class="progress" id="modalProgress"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for Break Ideas -->
+    <div id="ideaModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeIdeaModal()">&times;</span>
+            <div id="modalIdeaContent"></div>
+            <img id="modalImage" src="" alt="Idea Image" />
+            <button onclick="goBackToMain()">Go Back</button>
+        </div>
+    </div>
+
+    <script>
+        // Timer JavaScript
+        let timerInterval;
+
+        function startTimer() {
+            const minutesInput = document.getElementById('minutes');
+            let totalSeconds = minutesInput.value * 60;
+            if (totalSeconds <= 0) return; // Prevent non-positive values
+
+            const timerDisplay = document.getElementById('timer');
+            const progressBar = document.getElementById('progress');
+            const alertSound = document.getElementById('alertSound');
+            const modalTimer = document.getElementById('modalTimer');
+            const modalProgress = document.getElementById('modalProgress');
+
+            if (timerInterval) {
+                clearInterval(timerInterval);
+            }
+
+            timerInterval = setInterval(() => {
+                let minutes = Math.floor(totalSeconds / 60);
+                let seconds = totalSeconds % 60;
+                seconds = seconds < 10 ? '0' + seconds : seconds;
+                timerDisplay.textContent = `${minutes}:${seconds}`;
+                modalTimer.textContent = `${minutes}:${seconds}`;
+                
+                const percentage = 100 - ((totalSeconds / (minutesInput.value * 60)) * 100);
+                progressBar.style.width = `${percentage}%`;
+                modalProgress.style.width = `${percentage}%`;
+
+                totalSeconds--;
+
+                if (totalSeconds < 0) {
+                    clearInterval(timerInterval);
+                    timerDisplay.textContent = '00:00';
+                    modalTimer.textContent = '00:00';
+                    alertSound.play(); // Play sound when timer ends
+                }
+            }, 1000);
+
+            // Show modal for timer
+            document.getElementById('timerModal').style.display = 'flex';
+        }
+
+        function stopTimer() {
+            if (timerInterval) {
+                clearInterval(timerInterval);
+                timerInterval = null;
+                document.getElementById('timer').textContent = '00:00';
+                document.getElementById('progress').style.width = '0%';
+            }
+        }
+
+        function setTimer(minutes) {
+            document.getElementById('minutes').value = minutes;
+            startTimer();
+        }
+
+        function closeModal() {
+            document.getElementById('timerModal').style.display = 'none';
+        }
+
+        function closeIdeaModal() {
+            document.getElementById('ideaModal').style.display = 'none';
+        }
+
+        function goBackToMain() {
+            closeIdeaModal();
+        }
+
+        // Break Ideas JavaScript
+        const videoLinks = {
+            'Nightstand': 'https://www.youtube.com/embed/VIDEO_ID_FOR_NIGHTSTAND',
+            'Small Pantry': 'https://www.youtube.com/embed/VIDEO_ID_FOR_SMALL_PANTRY',
+            'Shoe Rack': 'https://www.youtube.com/embed/VIDEO_ID_FOR_SHOE_RACK'
+        };
+
+        document.getElementById('randomIdeaBtn').addEventListener('click', () => {
+            const ideas = Object.keys(videoLinks);
+            const randomIdea = ideas[Math.floor(Math.random() * ideas.length)];
+            displayIdeaContent(randomIdea);
+        });
+
+        document.getElementById('nightstandBtn').addEventListener('click', () => {
+            displayIdeaContent('Nightstand');
+        });
+
+        document.getElementById('pantryBtn').addEventListener('click', () => {
+            displayIdeaContent('Small Pantry');
+        });
+
+        document.getElementById('shoeRackBtn').addEventListener('click', () => {
+            displayIdeaContent('Shoe Rack');
+        });
+
+        function displayIdeaContent(idea) {
+            let content = '';
+            switch (idea) {
+                case 'Nightstand':
+                    content = `
+                        <h2>${idea}</h2>
+                        <p>How to get started: Plan your design and gather materials.</p>
+                        <p>Process: Cut the wood, assemble the pieces, and finish with paint or varnish.</p>
+                        <p>Finish: Install hardware and place your nightstand in your room.</p>
+                    `;
+                    break;
+                case 'Small Pantry':
+                    content = `
+                        <h2>${idea}</h2>
+                        <p>How to get started: Measure your space and design the layout.</p>
+                        <p>Process: Install shelves and organize your canned goods.</p>
+                        <p>Finish: Label the shelves and add any additional features.</p>
+                    `;
+                    break;
+                case 'Shoe Rack':
+                    content = `
+                        <h2>${idea}</h2>
+                        <p>How to get started: Determine the size and style of your shoe rack.</p>
+                        <p>Process: Build or assemble the rack and install it in your desired location.</p>
+                        <p>Finish: Arrange your shoes and adjust the shelves as needed.</p>
+                    `;
+                    break;
+            }
+
+            document.getElementById('modalIdeaContent').innerHTML = content;
+            document.getElementById('videoContainer').innerHTML = `<iframe src="${videoLinks[idea]}" allowfullscreen></iframe>`;
+            document.getElementById('modalImage').src = `image_source_for_${idea}`; // Provide the appropriate image source
+            document.getElementById('ideaModal').style.display = 'flex';
+        }
+
+        // Projects JavaScript
+        function addProject() {
+            const projectInput = document.getElementById('projectInput');
+            const projectList = document.getElementById('projectList');
+            const newProject = projectInput.value.trim();
+
+            if (newProject) {
+                const li = document.createElement('li');
+                li.innerHTML = `${newProject} <button class="remove-btn" onclick="removeProject(this)">Remove</button>`;
+                projectList.appendChild(li);
+                projectInput.value = '';
+            }
+        }
+
+        function removeProject(button) {
+            button.parentElement.remove();
+        }
+
+        function saveProjects() {
+            const projectList = document.getElementById('projectList');
+            const projects = Array.from(projectList.children).map(li => li.textContent.replace('Remove', '').trim());
+            console.log('Projects saved:', projects);
+            alert('Projects saved!');
+        }
+
+        function searchProjects() {
+            // Implement search functionality
+        }
+
+        function createNewTask() {
+            // Implement create new task functionality
+        }
+
+        function viewCompletedTasks() {
+            // Implement view completed tasks functionality
+        }
+    </script>
+</body>
+</html>
