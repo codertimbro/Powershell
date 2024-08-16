@@ -1,0 +1,292 @@
+<style>
+        /* General body styling */
+        body {
+            font-family: 'Arial', sans-serif; /* Sets the font for the entire page */
+            background-color: #e3f2fd; /* Light blue background */
+            color: #333; /* Dark gray text color */
+            margin: 0; /* Removes default margin around the body */
+            padding: 20px; /* Adds space inside the body; changing to 22px would increase space inside */
+            display: flex; /* Enables flexbox layout */
+            flex-wrap: wrap; /* Allows items to wrap to the next line if there's not enough space */
+            gap: 20px; /* Space between columns or divs; increasing to 22px would add more space */
+        }
+
+        /* Styling for all containers */
+        .container {
+            background-color: #ffffff; /* White background */
+            border-radius: 10px; /* Rounded corners; increasing to 12px would make corners more rounded */
+            padding: 20px; /* Space inside the container; increasing to 22px adds more space inside */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+            flex: 1; /* Allows the container to grow and shrink with available space */
+            min-width: 220px; /* Minimum width of containers; changing to 250px would increase minimum size */
+        }
+
+        /* Styling for the timer section */
+        .timer {
+            display: flex; /* Enables flexbox layout */
+            flex-direction: column; /* Stacks items vertically; changing to row stacks items horizontally */
+            align-items: center; /* Centers items horizontally */
+            min-height: calc(220px - 0.5in); /* Minimum height, decreased by 0.5 inches; increasing would make it taller */
+        }
+
+        /* Styling for the break ideas and projects sections */
+        .break-ideas, .projects {
+            display: flex; /* Enables flexbox layout */
+            flex-direction: column; /* Stacks items vertically */
+        }
+
+        /* Styling for the work page section */
+        .work-page {
+            display: flex; /* Enables flexbox layout */
+            flex-direction: column; /* Stacks items vertically */
+            align-items: center; /* Centers items horizontally */
+        }
+
+        /* Styling for the work page button */
+        .work-page-group button {
+            width: calc(100% + 1in); /* Button width increased by 1 inch; changing to 2in would make it wider */
+        }
+
+        /* Styling for headings */
+        h1 {
+            text-align: center; /* Centers text horizontally */
+            color: #007acc; /* Blue color for headings */
+            font-size: 2rem; /* Font size for headings; changing to 1.5rem would make it smaller */
+            margin-bottom: 20px; /* Space below headings; increasing to 22px would add more space */
+        }
+
+        /* Styling for button groups */
+        .button-group {
+            margin-bottom: 20px; /* Space below button group; changing to 22px would increase space */
+        }
+
+        /* General button styling */
+        button {
+            padding: 10px 20px; /* Space inside buttons; changing to 12px 22px adds more space inside */
+            font-size: 1.2rem; /* Font size for buttons; changing to 1rem would make the text smaller */
+            background-color: #007acc; /* Blue background */
+            color: white; /* White text color */
+            border: none; /* No border; adding 1px solid #007acc would add a blue border */
+            border-radius: 5px; /* Rounded corners; increasing to 8px would make corners more rounded */
+            cursor: pointer; /* Changes cursor to pointer when hovering */
+            margin-right: 10px; /* Space between buttons; increasing to 12px adds more space */
+            transition: background-color 0.3s ease; /* Smooth background color transition */
+        }
+
+        /* Button hover effect */
+        button:hover {
+            background-color: #005f99; /* Darker blue on hover */
+        }
+
+        /* Styling for input groups */
+        .input-group {
+            margin-bottom: 20px; /* Space below input group; changing to 22px increases space */
+        }
+
+        /* Styling for text inputs */
+        input[type="text"] {
+            width: calc(100% - 120px); /* Width of the input, accounting for button width; changing to 100% - 140px would make it narrower */
+            padding: 10px; /* Space inside text inputs; increasing to 12px adds more space inside */
+            font-size: 1.2rem; /* Font size for text inputs; changing to 1rem would make the text smaller */
+            border: 2px solid #007acc; /* Blue border */
+            border-radius: 5px; /* Rounded corners; increasing to 8px would make corners more rounded */
+            background-color: #f0f4f8; /* Light gray background */
+            color: #333; /* Dark gray text color */
+            margin-right: 10px; /* Space between input and button; increasing to 12px adds more space */
+        }
+
+        /* Styling for unordered lists */
+        ul {
+            list-style-type: none; /* Removes bullet points */
+            padding: 0; /* Removes default padding */
+        }
+
+        /* Styling for list items */
+        li {
+            background-color: #eaf4fb; /* Light blue background for list items */
+            margin-bottom: 10px; /* Space below each list item; increasing to 12px adds more space */
+            padding: 10px; /* Space inside list items; increasing to 12px adds more space inside */
+            font-size: 1.2rem; /* Font size for list items; changing to 1rem would make the text smaller */
+            border-radius: 5px; /* Rounded corners; increasing to 8px would make corners more rounded */
+            display: flex; /* Enables flexbox layout */
+            justify-content: space-between; /* Space between text and button */
+            align-items: center; /* Centers items vertically */
+        }
+
+        /* Styling for remove buttons */
+        .remove-btn {
+            background-color: #ff4f4f; /* Red background */
+            color: white; /* White text color */
+            border: none; /* No border; adding 1px solid #ff4f4f would add a red border */
+            border-radius: 5px; /* Rounded corners; increasing to 8px would make corners more rounded */
+            padding: 5px 10px; /* Space inside buttons; increasing to 7px 12px adds more space inside */
+            cursor: pointer; /* Changes cursor to pointer when hovering */
+            transition: background-color 0.3s ease; /* Smooth background color transition */
+        }
+
+        /* Remove button hover effect */
+        .remove-btn:hover {
+            background-color: #e04343; /* Darker red on hover */
+        }
+
+        /* Centering text in search and work page groups */
+        .search-group, .work-page-group {
+            text-align: center; /* Centers text horizontally */
+        }
+
+        /* Styling for search input */
+        .search-group input[type="text"] {
+            width: 70%; /* Width of search input; changing to 60% makes it narrower */
+            margin-right: 10px; /* Space between input and button; increasing to 12px adds more space */
+        }
+
+        /* Styling for search and work page buttons */
+        .search-group button, .work-page-group button {
+            width: 20%; /* Width of buttons; changing to 25% makes buttons wider */
+        }
+
+        /* Styling for image container */
+        .image-container {
+            flex: 1; /* Allows the image container to grow and shrink with available space */
+            min-width: 100%; /* Minimum width of the image container; increasing to 120% makes it wider */
+            height: 400px; /* Fixed height for image container; changing to 500px makes it taller */
+            background-image: url('path-to-your-image.jpg'); /* Image URL */
+            background-size: cover; /* Covers the entire container */
+            background-position: center; /* Centers the image */
+            border-radius: 10px; /* Rounded corners; increasing to 12px would make corners more rounded */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+        }
+        let timerInterval;
+
+    function startTimer() {
+      const minutesInput = document.getElementById('minutes');
+      let totalSeconds = minutesInput.value * 60;
+      const timerDisplay = document.getElementById('timer');
+      const progressBar = document.getElementById('progress');
+      const alertSound = document.getElementById('alertSound');
+
+      if (timerInterval) {
+        clearInterval(timerInterval);
+      }
+
+      timerInterval = setInterval(() => {
+        let minutes = Math.floor(totalSeconds / 60);
+        let seconds = totalSeconds % 60;
+        seconds = seconds < 10 ? '0' + seconds : seconds;
+        timerDisplay.textContent = `${minutes}:${seconds}`;
+        
+        const percentage = 100 - ((totalSeconds / (minutesInput.value * 60)) * 100);
+        progressBar.style.width = `${percentage}%`;
+
+        if (totalSeconds <= 0) {
+          clearInterval(timerInterval);
+          alertSound.play();  // Play sound when time is up
+        }
+        totalSeconds--;
+      }, 1000);
+    }
+
+    function stopTimer() {
+      clearInterval(timerInterval);
+      document.getElementById('timer').textContent = '00:00';
+      document.getElementById('progress').style.width = '0';
+      document.getElementById('minutes').value = '';
+    }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <h1>Modern Timer</h1>
+    <input id="minutes" type="number" placeholder="Minutes" min="1">
+    <div>
+      <button onclick="startTimer()">Start Timer</button>
+      <button id="stopButton" onclick="stopTimer()">Stop Timer</button>
+    </div>
+    <div class="timer" id="timer">00:00</div>
+    <div class="progress-bar">
+      <div class="progress" id="progress"></div>
+    </div>
+    <!-- Audio element for sound alert -->
+    <audio id="alertSound">
+      <source src="file:///C:/Windows/Media/Windows%20Notify%20Calendar.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+    <div class="container break-ideas">
+        <h1>Break Ideas</h1>
+        <ul>
+                    <ul>
+            <li>Watch a YouTube video</li>
+            <li>Search the web</li>
+            <li>Get up and stretch</li>
+        </ul>
+    </div>
+    <div class="container projects">
+        <h1>Projects</h1>
+        <div class="input-group">
+            <input type="text" id="projectInput" placeholder="Enter a new project...">
+            <button onclick="addProject()">Add Project</button>
+        </div>
+        <ul id="projectList">
+            <!-- Example project items, these will be dynamically added -->
+            <li>Project 1 <button class="remove-btn">Remove</button></li>
+            <li>Project 2 <button class="remove-btn">Remove</button></li>
+            <li>Project 3 <button class="remove-btn">Remove</button></li>
+        </ul>
+        <div class="input-group">
+            <button onclick="saveProjects()">Save Projects</button>
+        </div>
+    </div>
+    <div class="container work-page">
+        <h1>Work Page</h1>
+        <div class="search-group">
+            <input type="text" placeholder="Search projects...">
+            <button onclick="searchProjects()">Search</button>
+        </div>
+        <div class="work-page-group">
+            <button onclick="createNewTask()">Create New Task</button>
+            <button onclick="viewCompletedTasks()">View Completed Tasks</button>
+        </div>
+    </div>
+    <div class="image-container" id="imageContainer"></div>
+
+    <script>
+       let timerInterval;
+
+    function startTimer() {
+      const minutesInput = document.getElementById('minutes');
+      let totalSeconds = minutesInput.value * 60;
+      const timerDisplay = document.getElementById('timer');
+      const progressBar = document.getElementById('progress');
+      const alertSound = document.getElementById('alertSound');
+
+      if (timerInterval) {
+        clearInterval(timerInterval);
+      }
+
+      timerInterval = setInterval(() => {
+        let minutes = Math.floor(totalSeconds / 60);
+        let seconds = totalSeconds % 60;
+        seconds = seconds < 10 ? '0' + seconds : seconds;
+        timerDisplay.textContent = `${minutes}:${seconds}`;
+        
+        const percentage = 100 - ((totalSeconds / (minutesInput.value * 60)) * 100);
+        progressBar.style.width = `${percentage}%`;
+
+        if (totalSeconds <= 0) {
+          clearInterval(timerInterval);
+          alertSound.play();  // Play sound when time is up
+        }
+        totalSeconds--;
+      }, 1000);
+    }
+
+    function stopTimer() {
+      clearInterval(timerInterval);
+      document.getElementById('timer').textContent = '00:00';
+      document.getElementById('progress').style.width = '0';
+      document.getElementById('minutes').value = '';
+    }
+    </script>
+</body>
+</html>
