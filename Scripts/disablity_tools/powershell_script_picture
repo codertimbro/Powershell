@@ -1,0 +1,39 @@
+Add-Type -AssemblyName System.Windows.Forms
+Add-Type -AssemblyName System.Drawing
+
+# Function to capture a screenshot
+function Capture-Screenshot {
+    param (
+        [string]$url,
+        [string]$outputFile
+    )
+
+    $browser = New-Object System.Windows.Forms.WebBrowser
+    $browser.ScriptErrorsSuppressed = $true
+    $browser.Navigate($url)
+
+    # Wait for the page to load
+    while ($browser.ReadyState -ne [System.Windows.Forms.WebBrowserReadyState]::Complete) {
+        Start-Sleep -Seconds 1
+    }
+
+    # Get the size of the page
+    $width = $browser.Document.Body.ScrollRectangle.Width
+    $height = $browser.Document.Body.ScrollRectangle.Height
+    
+    $bitmap = New-Object System.Drawing.Bitmap -ArgumentList $width, $height
+    $graphics = [System.Drawing.Graphics]::FromImage($bitmap)
+    $graphics.CopyFromScreen(0, 0, 0, 0, $bitmap.Size)
+
+    $bitmap.Save($outputFile, [System.Drawing.Imaging.ImageFormat]::Png)
+    
+    $graphics.Dispose()
+    $bitmap.Dispose()
+}
+
+# URL to capture
+$url = "https://www.flickr.com/photos/jeremybarton/16015637075/in/photolist-dFNtA8-VjJ5yU-VRqmLE-2ezSzKb-m1zdxn-Tnpu41-qpfjVH-rqTmVh-s5hLes-s5hGv5-s5q7ap-8uy6A4-6vHXby-qkuVLy-QKDQib-9yEJxr-6iVjwk-2441gCv-9yEJqGUnL4x-2ezSAYU-7Q7NGj-837zMZ-7BqcpK-7ZanTH-7HPgaD-2dgJwuP-8uBb9A-m1ymVD-8L4w1n-FrBqHW-7XyezW-837zNc-837zMT-837zN4-7Bu1fE-tN43Cm-Mg6oGf-Lc5KoG-pZRhAd-2hQfQLv-nSg5Tv-2od7uMa-qCECkj-2oaFYZF-2oaJui3-2od7uBR-2od7Fev-2obd4h7-2obc8ky/lightbox/"
+$outputFile = "screenshot.png"
+
+# Capture screenshot
+Capture-Screenshot -url $url -outputFile $outputFile
