@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accessible Notes Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+    }
+    h1, h3 {
+      font-size: 1.5rem;
+      color: #333;
+    }
+    .note-card {
+      margin-bottom: 20px;
+      background-color: #ffffff;
+      border: 1px solid #cccccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .note-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+      color: #333;
+    }
+    .note-content {
+      font-size: 1rem;
+      color: #555;
+    }
+    .topic-header {
+      margin-top: 20px;
+      margin-bottom: 15px;
+      font-weight: bold;
+      color: #444;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .btn-primary {
+      background-color: #007bff;
+      border: none;
+    }
+    .btn-primary:focus {
+      box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+    }
+    input, textarea {
+      font-size: 1rem;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    input:focus, textarea:focus {
+      border-color: #007bff;
+      outline: none;
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container mt-4">
+    <h1 tabindex="0">My Accessible Notes</h1>
+    
+    <!-- Add Note Section -->
+    <div class="mb-4" aria-labelledby="add-note-header">
+      <h3 id="add-note-header">Add a Note</h3>
+      <div class="mb-3">
+        <label for="noteTitle" class="form-label">Title</label>
+        <input type="text" class="form-control" id="noteTitle" placeholder="Enter note title" aria-required="true">
+      </div>
+      <div class="mb-3">
+        <label for="noteContent" class="form-label">Content</label>
+        <textarea class="form-control" id="noteContent" rows="3" placeholder="Enter note content" aria-required="true"></textarea>
+      </div>
+      <button id="saveNoteButton" class="btn btn-primary" aria-label="Save Note">Save Note</button>
+    </div>
+    
+    <!-- Notes Display Section -->
+    <div id="notesContainer">
+      <h3>All Notes</h3>
+      <!-- Notes will be dynamically added here -->
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('saveNoteButton').addEventListener('click', function() {
+      // Get the note title and content
+      const title = document.getElementById('noteTitle').value;
+      const content = document.getElementById('noteContent').value;
+
+      if (title && content) {
+        // Create a new note card
+        const noteCard = document.createElement('div');
+        noteCard.classList.add('card', 'note-card');
+        noteCard.setAttribute('tabindex', '0'); // Allow keyboard focus
+        noteCard.setAttribute('role', 'region'); // Accessibility
+        noteCard.setAttribute('aria-label', title); // Describe content
+        noteCard.innerHTML = `
+          <div class="card-body">
+            <h5 class="card-title note-title">${title}</h5>
+            <p class="card-text note-content">${content}</p>
+          </div>
+        `;
+        
+        // Add the new note to the notes container
+        document.getElementById('notesContainer').appendChild(noteCard);
+        
+        // Clear the input fields
+        document.getElementById('noteTitle').value = '';
+        document.getElementById('noteContent').value = '';
+
+        // Save notes to localStorage
+        saveNotesToLocalStorage();
+      } else {
+        alert('Please fill in both the title and content.');
+      }
+    });
+
+    function saveNotesToLocalStorage() {
+      const notesContainer = document.getElementById('notesContainer');
+      const notes = notesContainer.innerHTML;
+      localStorage.setItem('notes', notes);
+    }
+
+    function loadNotesFromLocalStorage() {
+      const savedNotes = localStorage.getItem('notes');
+      if (savedNotes) {
+        document.getElementById('notesContainer').innerHTML = savedNotes;
+      }
+    }
+
+    // Load notes when the page loads
+    window.onload = loadNotesFromLocalStorage;
+  </script>
+</body>
+</html>
