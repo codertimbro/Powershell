@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accessible Notes Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+    }
+    h1, h3 {
+      font-size: 1.5rem;
+      color: #333;
+    }
+    .note-card {
+      margin-bottom: 20px;
+      background-color: #ffffff;
+      border: 1px solid #cccccc;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .note-title {
+      font-size: 1.25rem;
+      font-weight: bold;
+      color: #333;
+    }
+    .note-content {
+      font-size: 1rem;
+      color: #555;
+    }
+    .topic-header {
+      margin-top: 20px;
+      margin-bottom: 15px;
+      font-weight: bold;
+      color: #444;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .btn-primary {
+      background-color: #007bff;
+      border: none;
+    }
+    .btn-primary:focus {
+      box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+    }
+    input, textarea {
+      font-size: 1rem;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    input:focus, textarea:focus {
+      border-color: #007bff;
+      outline: none;
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+    .remove-note {
+      cursor: pointer;
+      color: red;
+      font-size: 0.9rem;
+      float: right;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container mt-4">
+    <h1 tabindex="0">My Accessible Notes</h1>
+    
+    <!-- Add Note Section -->
+    <div class="mb-4" aria-labelledby="add-note-header">
+      <h3 id="add-note-header">Add a Note</h3>
+      <div class="mb-3">
+        <label for="noteTitle" class="form-label">Title</label>
+        <input type="text" class="form-control" id="noteTitle" placeholder="Enter note title" aria-required="true">
+      </div>
+      <div class="mb-3">
+        <label for="noteContent" class="form-label">Content</label>
+        <textarea class="form-control" id="noteContent" rows="3" placeholder="Enter note content" aria-required="true"></textarea>
+      </div>
+      <div class="mb-3">
+        <label for="sectionSelect" class="form-label">Choose Section</label>
+        <select id="sectionSelect" class="form-control">
+          <option value="section1">Section 1</option>
+          <option value="section2">Section 2</option>
+          <option value="section3">Section 3</option>
+        </select>
+      </div>
+      <button id="saveNoteButton" class="btn btn-primary" aria-label="Save Note">Add Note</button>
+    </div>
+    
+    <!-- Notes Display Section -->
+    <div class="row" id="notesContainer">
+      <div class="col-md-4" id="section1">
+        <h3>Section 1</h3>
+        <!-- Notes for Section 1 -->
+      </div>
+      <div class="col-md-4" id="section2">
+        <h3>Section 2</h3>
+        <!-- Notes for Section 2 -->
+      </div>
+      <div class="col-md-4" id="section3">
+        <h3>Section 3</h3>
+        <!-- Notes for Section 3 -->
+      </div>
+    </div>
+    
+    <div class="mt-4">
+      <button id="saveAllButton" class="btn btn-success" aria-label="Save All Notes">Save All Notes</button>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('saveNoteButton').addEventListener('click', function() {
+      const title = document.getElementById('noteTitle').value;
+      const content = document.getElementById('noteContent').value;
+      const section = document.getElementById('sectionSelect').value;
+
+      if (title && content) {
+        const noteCard = document.createElement('div');
+        noteCard.classList.add('card', 'note-card');
+        noteCard.setAttribute('tabindex', '0'); // Allow keyboard focus
+        noteCard.setAttribute('role', 'region'); // Accessibility
+        noteCard.setAttribute('aria-label', title); // Describe content
+        noteCard.innerHTML = `
+          <div class="card-body">
+            <span class="remove-note">Remove</span>
+            <h5 class="card-title note-title">${title}</h5>
+            <p class="card-text note-content">${content}</p>
+          </div>
+        `;
+        
+        // Add remove functionality
+        noteCard.querySelector('.remove-note').addEventListener('click', function() {
+          noteCard.remove();
+          saveAllNotes();
+        });
+        
+        // Append the note to the selected section
+        document.getElementById(section).appendChild(noteCard);
+        
+        // Clear the input fields
+        document.getElementById('noteTitle').value = '';
+        document.getElementById('noteContent').value = '';
+
+        // Save notes to localStorage
+        saveAllNotes();
+      } else {
+        alert('Please fill in both the title and content.');
+      }
+    });
+
+    document.getElementById('saveAllButton').addEventListener('click', saveAllNotes);
+
+    function saveAllNotes() {
+      const sections = ['section1', 'section2', 'section3'];
+      sections.forEach(section => {
+        const notes = document.getElementById(section).innerHTML;
+        localStorage.setItem(section, notes);
+      });
+    }
+
+    function loadNotesFromLocalStorage() {
+      const sections = ['section1', 'section2', 'section3'];
+      sections.forEach(section => {
+        const savedNotes = localStorage.getItem(section);
+        if (savedNotes) {
+          document.getElementById(section).innerHTML = savedNotes;
+          addRemoveListeners(section);
+        }
+      });
+    }
+
+    function addRemoveListeners(section) {
+      const notes = document.getElementById(section).querySelectorAll('.remove-note');
+      notes.forEach(note => {
+        note.addEventListener('click', function() {
+          note.parentElement.parentElement.remove();
+          saveAllNotes();
+        });
+      });
+    }
+
+    // Load notes when the page loads
+    window.onload = loadNotesFromLocalStorage;
+  </script>
+</body>
+</html>
