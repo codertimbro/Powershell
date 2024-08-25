@@ -1,0 +1,10 @@
+.\handle.exe "C:\path\to\your\file.ext"
+Stop-Process -Id <PID> -Force
+.\sdelete.exe -p 1 -s "C:\path\to\your\file.ext"
+
+network file as admin cmd server side
+net file
+net file <ID> /close
+
+Get-SmbOpenFile
+Close-SmbOpenFile -FileId <ID>
