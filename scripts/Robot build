@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build a Simple Robot Step-by-Step</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            color: #333;
+            padding: 20px;
+        }
+        h1, h2 {
+            background-color: #ffdd57;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 1.8em;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 15px 0;
+        }
+        a {
+            color: #2c7edb;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .step {
+            margin-bottom: 30px;
+            padding: 10px;
+            background: #fff;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Build a Simple Robot Step-by-Step</h1>
+    <p>This guide will help you build a robot that can pick up objects and move them to another place. The steps are clear, concise, and include links to helpful resources.</p>
+
+    <div class="step">
+        <h2>Step 1: Learn the Basics of Robotics and Electronics</h2>
+        <p>Start by understanding basic robotics and electronics concepts.</p>
+        <ul>
+            <li><a href="https://www.coursera.org/learn/robotics" target="_blank">Introduction to Robotics (Coursera)</a></li>
+            <li><a href="https://learn.adafruit.com/category/learn-electronics" target="_blank">Electronics Tutorials (Adafruit)</a></li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 2: Choose Your Microcontroller</h2>
+        <p>Decide between platforms like Arduino or Raspberry Pi. These control your robot's actions.</p>
+        <ul>
+            <li><a href="https://www.arduino.cc/en/Guide/HomePage" target="_blank">Arduino Guide for Beginners</a></li>
+            <li><a href="https://www.raspberrypi.org/documentation/" target="_blank">Raspberry Pi Documentation</a></li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 3: Learn Programming</h2>
+        <p>Programming helps you tell the robot what to do. Depending on your microcontroller, you'll learn different languages.</p>
+        <ul>
+            <li><a href="https://www.learnpython.org/" target="_blank">Python for Beginners (Raspberry Pi)</a></li>
+            <li><a href="https://www.learnrobotics.org/blog/arduino-programming/" target="_blank">Arduino Programming for Beginners</a></li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 4: Plan Your Robot's Design</h2>
+        <p>Think about how your robot will look and move. You'll need motors, a gripper, and a chassis.</p>
+        <ul>
+            <li><a href="https://www.robotshop.com/community/forum/t/grippers/12885" target="_blank">Robot Gripper Design Guide</a></li>
+            <li><a href="https://www.robotshop.com/community/forum/t/building-a-mobile-robot-base/13954" target="_blank">Robot Chassis Guide</a></li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 5: Add Sensors</h2>
+        <p>Sensors help your robot detect objects and navigate its surroundings.</p>
+        <ul>
+            <li><a href="https://www.electronicwings.com/arduino/ultrasonic-sensor" target="_blank">How to Use Ultrasonic Sensors with Arduino</a></li>
+            <li><a href="https://projects.raspberrypi.org/en/projects/getting-started-with-picamera" target="_blank">Raspberry Pi Camera Module Guide</a></li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 6: Build and Test Your Robot</h2>
+        <p>Put everything together and test your robot. Start with simple tasks and then add more features.</p>
+        <ul>
+            <li><a href="https://www.robotshop.com/community/tutorials/show/how-to-build-a-robot-complete-beginners-guide" target="_blank">Building Your First Robot</a></li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 7: Advanced Features (Optional)</h2>
+        <p>After your robot works, you can add advanced features like navigation or object recognition.</p>
+        <ul>
+            <li><a href="https://www.ros.org/" target="_blank">Robot Operating System (ROS)</a></li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 8: Buy Parts and Tools</h2>
+        <p>You’ll need these essential items to build your robot:</p>
+        <ul>
+            <li>Microcontroller: Arduino or Raspberry Pi</li>
+            <li>Motors and Servos</li>
+            <li>Sensors: Ultrasonic, Infrared, or Camera</li>
+            <li>Power Supply: Batteries</li>
+            <li>Mechanical Parts: Wheels, Chassis, Gripper</li>
+            <li>Tools: Soldering Iron, Multimeter</li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <h2>Step 9: Get Support and Community Help</h2>
+        <p>If you need help, join online communities for advice and support.</p>
+        <ul>
+            <li><a href="https://www.reddit.com/r/robotics/" target="_blank">Reddit Robotics Community</a></li>
+            <li><a href="https://www.hackster.io/" target="_blank">Hackster.io Projects</a></li>
+        </ul>
+    </div>
+</body>
+</html>
+
