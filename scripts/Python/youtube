@@ -1,0 +1,95 @@
+pip install requests beautifulsoup4 youtube-transcript-api markdown2 pygithub
+import requests
+from bs4 import BeautifulSoup
+
+def get_last_10_video_ids(channel_url):
+    response = requests.get(channel_url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    # Extract video IDs from the page
+    video_ids = []
+    for link in soup.find_all('a', href=True):
+        href = link['href']
+        if '/watch?v=' in href:
+            video_id = href.split('=')[1]
+            if video_id not in video_ids:
+                video_ids.append(video_id)
+        if len(video_ids) >= 10:
+            break
+    return video_ids
+from youtube_transcript_api import YouTubeTranscriptApi
+
+def download_captions(video_id):
+    try:
+        transcript = YouTubeTranscriptApi.get_transcript(video_id)
+        caption_text = "\n".join([item['text'] for item in transcript])
+        with open(f"{video_id}.txt", "w", encoding="utf-8") as file:
+            file.write(caption_text)
+        return caption_text
+    except Exception as e:
+        print(f"Failed to download captions for video {video_id}: {e}")
+        return None
+def create_webpage(video_ids, captions):
+    html_content = """
+    <html>
+    <head>
+        <title>YouTube Captions</title>
+        <style>
+            body { font-family: Arial, sans-serif; }
+            .video-caption { margin-bottom: 20px; }
+            h2 { color: #333; }
+        </style>
+    </head>
+    <body>
+        <h1>YouTube Captions</h1>
+    """
+    
+    for video_id, caption in zip(video_ids, captions):
+        html_content += f"""
+        <div class="video-caption">
+            <h2>Video ID: {video_id}</h2>
+            <pre>{caption}</pre>
+        </div>
+        """
+
+    html_content += """
+    </body>
+    </html>
+    """
+
+    with open("captions.html", "w", encoding="utf-8") as file:
+        file.write(html_content)
+
+from github import Github
+import os
+
+def upload_to_github(repo_name, file_paths, commit_message, github_token):
+    g = Github(github_token)
+    repo = g.get_user().get_repo(repo_name)
+    
+    for file_path in file_paths:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+        repo.create_file(file_path, commit_message, content, branch="main")
+        print(f"Uploaded {file_path} to GitHub")
+
+# Example usage
+if __name__ == "__main__":
+    channel_url = "https://www.youtube.com/@channelname/videos"
+    video_ids = get_last_10_video_ids(channel_url)
+    
+    captions = []
+    for video_id in video_ids:
+        caption = download_captions(video_id)
+        if caption:
+            captions.append(caption)
+    
+    create_webpage(video_ids, captions)
+    
+    file_paths = [f"{video_id}.txt" for video_id in video_ids] + ["captions.html"]
+    github_token = "your_github_token"
+    upload_to_github("your_repo_name", file_paths, "Add captions and webpage", github_token)
+
+
+
+
