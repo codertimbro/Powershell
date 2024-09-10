@@ -1,0 +1,110 @@
+# Get the list of processes
+$processes = Get-Process | Select-Object Name, Id, @{Name="MemoryUsage(MB)";Expression={[math]::round($_.WorkingSet / 1MB, 2)}}
+
+# Create HTML content with expandable rows
+$htmlContent = @"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Process List</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; }
+        th { background-color: #f4f4f4; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        tr:hover { background-color: #e2e2e2; }
+        #searchInput { width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ddd; }
+        .details { display: none; padding: 10px; background-color: #f1f1f1; border-top: 1px solid #ddd; }
+        .expand-button { cursor: pointer; color: blue; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Process List</h1>
+    <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search for processes...">
+    <table id="processTable">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>ID</th>
+                <th>Memory Usage (MB)</th>
+            </tr>
+        </thead>
+        <tbody>
+"@
+
+# Append each process as a row in the HTML table with expandable details
+foreach ($process in $processes) {
+    $htmlContent += @"
+        <tr>
+            <td><span class="expand-button" onclick="toggleDetails(this)">+ Show Details</span></td>
+            <td>$($process.Name)</td>
+            <td>$($process.Id)</td>
+            <td>$($process.'MemoryUsage(MB)')</td>
+        </tr>
+        <tr class="details">
+            <td colspan="4">
+                <!-- Additional details can be added here -->
+                Process Name: $($process.Name) <br>
+                Process ID: $($process.Id) <br>
+                Memory Usage (MB): $($process.'MemoryUsage(MB)') <br>
+                <!-- Add more details if needed -->
+            </td>
+        </tr>
+"@
+}
+
+# Close HTML tags with JavaScript for filtering and toggling details
+$htmlContent += @"
+        </tbody>
+    </table>
+    <script>
+        function filterTable() {
+            var input, filter, table, tr, td, i, j, shouldShow;
+            input = document.getElementById('searchInput');
+            filter = input.value.toLowerCase();
+            table = document.getElementById('processTable');
+            tr = table.getElementsByTagName('tr');
+
+            for (i = 1; i < tr.length; i += 2) {
+                tr[i].style.display = 'none';
+                td = tr[i].getElementsByTagName('td');
+                for (j = 1; j < td.length; j++) {
+                    if (td[j]) {
+                        if (td[j].innerHTML.toLowerCase().indexOf(filter) > -1) {
+                            tr[i].style.display = '';
+                            break;
+                        }
+                    }
+                }
+            }
+        }
+
+        function toggleDetails(element) {
+            var row = element.parentElement.parentElement;
+            var detailsRow = row.nextElementSibling;
+            var isVisible = detailsRow.style.display === 'table-row';
+            
+            if (isVisible) {
+                detailsRow.style.display = 'none';
+                element.innerHTML = '+ Show Details';
+            } else {
+                detailsRow.style.display = 'table-row';
+                element.innerHTML = '- Hide Details';
+            }
+        }
+    </script>
+</body>
+</html>
+"@
+
+# Path to save the HTML file
+$outputFile = "C:\path\to\your\output\ProcessList.html"
+
+# Save the HTML content to the file
+$htmlContent | Out-File -FilePath $outputFile -Encoding utf8
+
+Write-Output "HTML file has been created at: $outputFile"
