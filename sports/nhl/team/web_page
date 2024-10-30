@@ -1,0 +1,187 @@
+Create the season_analysis.json: Ensure that season_analysis.json (or your specific JSON file) is in the same directory as index.html. This file should contain the structure of your data, like so:
+
+json
+Copy code
+{
+    "Player One": {
+        "team": "TeamA",
+        "position": "Skater",
+        "seasons": {
+            "20222023": {
+                "streak_data": { ... },
+                "goalie_performance": { ... }
+            },
+            ...
+        }
+    },
+    "Player Two": { ... }
+}
+JavaScript Update for Fetching JSON Data: Modify the JavaScript to load season_analysis.json dynamically and populate the webpage with teams and players.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team and Player Stats</title>
+    <style>
+        /* General styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            width: 100%;
+            margin-top: 20px;
+        }
+        h2 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        .team {
+            margin-bottom: 20px;
+            background: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .team h3 {
+            color: #34495e;
+            margin-bottom: 10px;
+        }
+        .player-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .player-list li {
+            cursor: pointer;
+            padding: 5px;
+            margin: 5px 0;
+            background: #e7f1ff;
+            border-radius: 3px;
+        }
+        .player-list li:hover {
+            background-color: #d0e6ff;
+        }
+        /* Modal styling */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+            z-index: 1000;
+        }
+        .modal-content {
+            background: #2c3e50;
+            padding: 20px;
+            border-radius: 5px;
+            max-width: 600px;
+            width: 90%;
+        }
+        .modal-content pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-size: 14px;
+        }
+        .close-btn {
+            cursor: pointer;
+            background: #e74c3c;
+            color: #fff;
+            border: none;
+            padding: 8px 12px;
+            font-size: 14px;
+            border-radius: 3px;
+            float: right;
+        }
+        .close-btn:hover {
+            background: #c0392b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Teams and Players</h2>
+        <!-- Teams and players will be populated here by JavaScript -->
+    </div>
+
+    <!-- Modal for player details -->
+    <div id="playerModal" class="modal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">Close</button>
+            <h3 id="modalPlayerName"></h3>
+            <pre id="modalPlayerData"></pre>
+        </div>
+    </div>
+
+    <script>
+        async function loadJSONData() {
+            try {
+                const response = await fetch('season_analysis.json');
+                const data = await response.json();
+                displayTeamsAndPlayers(data);
+            } catch (error) {
+                console.error("Error loading JSON data:", error);
+            }
+        }
+
+        function displayTeamsAndPlayers(data) {
+            const container = document.querySelector('.container');
+            const teams = {};
+
+            // Organize players by team
+            Object.entries(data).forEach(([playerName, playerData]) => {
+                const team = playerData.team;
+                if (!teams[team]) teams[team] = [];
+                teams[team].push({ name: playerName, data: playerData });
+            });
+
+            // Display each team and their players
+            Object.keys(teams).forEach(teamName => {
+                const teamDiv = document.createElement('div');
+                teamDiv.className = 'team';
+                teamDiv.innerHTML = `<h3>${teamName}</h3>`;
+
+                const playerList = document.createElement('ul');
+                playerList.className = 'player-list';
+
+                teams[teamName].forEach(player => {
+                    const playerItem = document.createElement('li');
+                    playerItem.textContent = player.name;
+                    playerItem.addEventListener('click', () => showPlayerData(player));
+                    playerList.appendChild(playerItem);
+                });
+
+                teamDiv.appendChild(playerList);
+                container.appendChild(teamDiv);
+            });
+        }
+
+        function showPlayerData(player) {
+            document.getElementById('modalPlayerName').textContent = player.name;
+            document.getElementById('modalPlayerData').textContent = JSON.stringify(player.data, null, 2);
+            document.getElementById('playerModal').style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('playerModal').style.display = 'none';
+        }
+
+        // Load JSON data on page load
+        document.addEventListener('DOMContentLoaded', loadJSONData);
+    </script>
+</body>
+</html>
