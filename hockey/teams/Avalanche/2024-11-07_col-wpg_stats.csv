@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Avalanche,Jets,home,D,Samuel Girard D,21:04,0,0,-1,3,4,0,1,1,0/0
+Avalanche,Jets,home,D,Cale Makar D,25:16,0,0,0,2,1,0,0,2,0/0
+Avalanche,Jets,home,D,Sam Malinski D,17:13,0,0,0,2,0,0,2,3,0/0
+Avalanche,Jets,home,D,Josh Manson D,18:37,0,0,-1,0,3,0,1,2,0/0
+Avalanche,Jets,home,D,Devon Toews D,20:42,0,0,0,3,0,2,1,0,0/0
+Avalanche,Jets,home,D,Calvin de Haan D,14:33,0,0,0,2,1,0,0,1,0/0
+Avalanche,Jets,home,D,Samuel Girard D,21:04,0,0,-1,3,4,0,1,1,0/0
+Avalanche,Jets,home,D,Cale Makar D,25:16,0,0,0,2,1,0,0,2,0/0
+Avalanche,Jets,home,D,Sam Malinski D,17:13,0,0,0,2,0,0,2,3,0/0
+Avalanche,Jets,home,D,Josh Manson D,18:37,0,0,-1,0,3,0,1,2,0/0
+Avalanche,Jets,home,D,Devon Toews D,20:42,0,0,0,3,0,2,1,0,0/0
+Avalanche,Jets,home,D,Calvin de Haan D,14:33,0,0,0,2,1,0,0,1,0/0
+Avalanche,Jets,home,F,Ivan Ivan C,10:35,0,0,0,0,1,0,0,0,0/3
+Avalanche,Jets,home,F,Parker Kelly C,13:29,0,0,0,1,0,0,2,0,6/15
+Avalanche,Jets,home,F,Joel Kiviranta L,14:39,0,0,-1,1,1,0,0,1,0/0
+Avalanche,Jets,home,F,Nikolai Kovalenko R,12:27,0,0,0,1,2,0,0,0,0/0
+Avalanche,Jets,home,F,Artturi Lehkonen L,25:11,0,0,0,2,2,2,0,0,0/0
+Avalanche,Jets,home,F,Nathan MacKinnon C,24:29,0,0,0,4,0,0,0,1,7/17
+Avalanche,Jets,home,F,Casey Mittelstadt C,17:59,0,0,-1,2,0,0,1,0,6/13
+Avalanche,Jets,home,F,Logan O'Connor R,16:12,0,0,-1,2,1,0,0,0,0/0
+Avalanche,Jets,home,F,Nikita Prishchepov C,06:49,0,0,0,1,0,0,0,0,0/0
+Avalanche,Jets,home,F,Mikko Rantanen R,23:55,0,0,0,3,2,0,1,3,4/6
+Avalanche,Jets,home,F,T.J. Tynan C,09:11,0,0,0,2,1,0,0,0,1/2
+Avalanche,Jets,home,F,Chris Wagner R,06:30,0,0,0,4,0,0,0,0,2/3
+Avalanche,Jets,home,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Jets,home,F,Samuel Girard D,21:04,0,0,-1,3,4,0,1,1,0/0
+Avalanche,Jets,home,F,Cale Makar D,25:16,0,0,0,2,1,0,0,2,0/0
+Avalanche,Jets,home,F,Sam Malinski D,17:13,0,0,0,2,0,0,2,3,0/0
+Avalanche,Jets,home,F,Josh Manson D,18:37,0,0,-1,0,3,0,1,2,0/0
+Avalanche,Jets,home,F,Devon Toews D,20:42,0,0,0,3,0,2,1,0,0/0
+Avalanche,Jets,home,F,Calvin de Haan D,14:33,0,0,0,2,1,0,0,1,0/0
+Avalanche,Jets,home,F,Ivan Ivan C,10:35,0,0,0,0,1,0,0,0,0/3
+Avalanche,Jets,home,F,Parker Kelly C,13:29,0,0,0,1,0,0,2,0,6/15
+Avalanche,Jets,home,F,Joel Kiviranta L,14:39,0,0,-1,1,1,0,0,1,0/0
+Avalanche,Jets,home,F,Nikolai Kovalenko R,12:27,0,0,0,1,2,0,0,0,0/0
+Avalanche,Jets,home,F,Artturi Lehkonen L,25:11,0,0,0,2,2,2,0,0,0/0
+Avalanche,Jets,home,F,Nathan MacKinnon C,24:29,0,0,0,4,0,0,0,1,7/17
+Avalanche,Jets,home,F,Casey Mittelstadt C,17:59,0,0,-1,2,0,0,1,0,6/13
+Avalanche,Jets,home,F,Logan O'Connor R,16:12,0,0,-1,2,1,0,0,0,0/0
+Avalanche,Jets,home,F,Nikita Prishchepov C,06:49,0,0,0,1,0,0,0,0,0/0
+Avalanche,Jets,home,F,Mikko Rantanen R,23:55,0,0,0,3,2,0,1,3,4/6
+Avalanche,Jets,home,F,T.J. Tynan C,09:11,0,0,0,2,1,0,0,0,1/2
+Avalanche,Jets,home,F,Chris Wagner R,06:30,0,0,0,4,0,0,0,0,2/3
+Avalanche,Jets,home,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Jets,home,F,Samuel Girard D,21:04,0,0,-1,3,4,0,1,1,0/0
+Avalanche,Jets,home,F,Cale Makar D,25:16,0,0,0,2,1,0,0,2,0/0
+Avalanche,Jets,home,F,Sam Malinski D,17:13,0,0,0,2,0,0,2,3,0/0
+Avalanche,Jets,home,F,Josh Manson D,18:37,0,0,-1,0,3,0,1,2,0/0
+Avalanche,Jets,home,F,Devon Toews D,20:42,0,0,0,3,0,2,1,0,0/0
+Avalanche,Jets,home,F,Calvin de Haan D,14:33,0,0,0,2,1,0,0,1,0/0
