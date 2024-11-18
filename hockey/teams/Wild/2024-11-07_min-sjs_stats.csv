@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Wild,Sharks,home,D,Zach Bogosian D,18:50,1,0,1,3,1,0,0,1,0/0
+Wild,Sharks,home,D,Jonas Brodin D,20:05,1,0,1,1,2,0,0,0,0/0
+Wild,Sharks,home,D,Declan Chisholm D,16:15,0,1,0,1,0,0,0,1,0/0
+Wild,Sharks,home,D,Brock Faber D,21:48,0,1,0,2,1,2,0,1,0/0
+Wild,Sharks,home,D,Jake Middleton D,20:55,0,0,1,1,1,0,0,0,0/0
+Wild,Sharks,home,D,Jared Spurgeon D,16:46,0,0,1,6,0,2,0,0,0/0
+Wild,Sharks,home,D,Zach Bogosian D,18:50,1,0,1,3,1,0,0,1,0/0
+Wild,Sharks,home,D,Jonas Brodin D,20:05,1,0,1,1,2,0,0,0,0/0
+Wild,Sharks,home,D,Declan Chisholm D,16:15,0,1,0,1,0,0,0,1,0/0
+Wild,Sharks,home,D,Brock Faber D,21:48,0,1,0,2,1,2,0,1,0/0
+Wild,Sharks,home,D,Jake Middleton D,20:55,0,0,1,1,1,0,0,0,0/0
+Wild,Sharks,home,D,Jared Spurgeon D,16:46,0,0,1,6,0,2,0,0,0/0
+Wild,Sharks,home,F,Matt Boldy L,16:13,2,0,1,5,0,0,1,2,1/1
+Wild,Sharks,home,F,Joel Eriksson Ek C,18:26,0,0,1,1,0,2,1,0,6/19
+Wild,Sharks,home,F,Marcus Foligno L,11:29,0,1,0,0,0,0,1,0,2/2
+Wild,Sharks,home,F,Frederick Gaudreau C,18:25,0,1,1,2,1,0,0,0,4/15
+Wild,Sharks,home,F,Ryan Hartman R,15:28,0,0,1,2,1,0,0,1,0/0
+Wild,Sharks,home,F,Marcus Johansson L,14:30,0,0,0,2,0,0,1,2,0/0
+Wild,Sharks,home,F,Kirill Kaprizov L,21:10,0,3,2,3,1,0,0,2,0/0
+Wild,Sharks,home,F,Marat Khusnutdinov C,12:07,0,0,0,0,0,0,0,2,2/7
+Wild,Sharks,home,F,Jakub Lauko C,10:46,0,0,0,1,0,0,1,1,0/0
+Wild,Sharks,home,F,Marco Rossi C,13:12,0,1,0,0,1,0,0,0,4/10
+Wild,Sharks,home,F,Yakov Trenin C,11:39,0,0,0,0,0,0,0,0,0/0
+Wild,Sharks,home,F,Mats Zuccarello R,16:08,1,0,0,1,0,0,0,0,2/2
+Wild,Sharks,home,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Sharks,home,F,Zach Bogosian D,18:50,1,0,1,3,1,0,0,1,0/0
+Wild,Sharks,home,F,Jonas Brodin D,20:05,1,0,1,1,2,0,0,0,0/0
+Wild,Sharks,home,F,Declan Chisholm D,16:15,0,1,0,1,0,0,0,1,0/0
+Wild,Sharks,home,F,Brock Faber D,21:48,0,1,0,2,1,2,0,1,0/0
+Wild,Sharks,home,F,Jake Middleton D,20:55,0,0,1,1,1,0,0,0,0/0
+Wild,Sharks,home,F,Jared Spurgeon D,16:46,0,0,1,6,0,2,0,0,0/0
+Wild,Sharks,home,F,Matt Boldy L,16:13,2,0,1,5,0,0,1,2,1/1
+Wild,Sharks,home,F,Joel Eriksson Ek C,18:26,0,0,1,1,0,2,1,0,6/19
+Wild,Sharks,home,F,Marcus Foligno L,11:29,0,1,0,0,0,0,1,0,2/2
+Wild,Sharks,home,F,Frederick Gaudreau C,18:25,0,1,1,2,1,0,0,0,4/15
+Wild,Sharks,home,F,Ryan Hartman R,15:28,0,0,1,2,1,0,0,1,0/0
+Wild,Sharks,home,F,Marcus Johansson L,14:30,0,0,0,2,0,0,1,2,0/0
+Wild,Sharks,home,F,Kirill Kaprizov L,21:10,0,3,2,3,1,0,0,2,0/0
+Wild,Sharks,home,F,Marat Khusnutdinov C,12:07,0,0,0,0,0,0,0,2,2/7
+Wild,Sharks,home,F,Jakub Lauko C,10:46,0,0,0,1,0,0,1,1,0/0
+Wild,Sharks,home,F,Marco Rossi C,13:12,0,1,0,0,1,0,0,0,4/10
+Wild,Sharks,home,F,Yakov Trenin C,11:39,0,0,0,0,0,0,0,0,0/0
+Wild,Sharks,home,F,Mats Zuccarello R,16:08,1,0,0,1,0,0,0,0,2/2
+Wild,Sharks,home,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Sharks,home,F,Zach Bogosian D,18:50,1,0,1,3,1,0,0,1,0/0
+Wild,Sharks,home,F,Jonas Brodin D,20:05,1,0,1,1,2,0,0,0,0/0
+Wild,Sharks,home,F,Declan Chisholm D,16:15,0,1,0,1,0,0,0,1,0/0
+Wild,Sharks,home,F,Brock Faber D,21:48,0,1,0,2,1,2,0,1,0/0
+Wild,Sharks,home,F,Jake Middleton D,20:55,0,0,1,1,1,0,0,0,0/0
+Wild,Sharks,home,F,Jared Spurgeon D,16:46,0,0,1,6,0,2,0,0,0/0
