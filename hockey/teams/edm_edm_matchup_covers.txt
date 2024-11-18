@@ -1,0 +1,714 @@
+Edmonton @ Montreal Matchups, Results & Stats
+Bell Centre
+
+Team Table
+Team	Record	ATS	O/U	Away	Home
+
+EDM
+9-7-2	5-13-0	6-11-1	5-2-1	4-5-1
+
+MON
+6-10-2	8-10-0	10-8-0	2-6-1	4-4-1
+betmgm
+
+Switch books
+Game Odds
+Team	ML	Total	Puck Line
+
+EDM
+-275	o6.5 -110	-1.5 -110
+
+MON
++220	u6.5 -110	+1.5 -110
+Head-To-Head
+Last 10
+Betting Terms
+Win / Loss
+7-3
+Over / Under
+7-3-0
+Head-To-Head
+Date	Home	Result	ML	O/U	HSOG	ASOG	HPP	APP
+Mar 19, '24	EDM	 3 - 2 (OT)	EDM -379	u6.5	32	25	1-5	0-3
+Jan 13, '24	MON	 2 - 1 (OT)	EDM -244	u6.5	24	41	1-4	1-5
+Feb 12, '23	MON	 6 - 2	MON +244	o6.5	30	31	2-3	1-6
+Dec 03, '22	EDM	 5 - 3	EDM -235	o6.5	22	33	3-5	2-3
+Mar 05, '22	EDM	 5 - 2	MON +210	o6.5	30	29	0-4	2-4
+Jan 29, '22	MON	 7 - 2	EDM -213	o6.5	23	24	1-2	0-1
+May 12, '21	MON	 4 - 3 (OT)	EDM -138	o6.0	29	22	0-1	2-3
+May 10, '21	MON	 4 - 3 (OT)	EDM -113	o6.0	28	35	0-2	0-1
+Apr 21, '21	EDM	 4 - 3	MON +111	o6.0	25	31	1-4	1-4
+Apr 19, '21	EDM	 4 - 1	EDM -137	u6.0	36	23	0-4	0-2
+Goaltenders
+Last 5
+Betting Terms
+W/L
+3-1-1-0
+GAA
+3.00
+Save %
+.871
+Edmonton Goaltender Stats
+Date	Score	W/L	GA	SA	SV%	SO	ML	O/U
+S.Skinner	Nov 16, 2024	TOR 4 - EDM 3 (OT)	-	4	22	.818	-	L -141	o6.0
+C.Pickard	Nov 14, 2024	EDM 3 - NAS 2 (OT)	W	2	22	.909	-	W -194	u6.5
+S.Skinner	Nov 12, 2024	EDM 4 - NYI 3 (OT)	W	3	22	.864	-	W -218	o6.0
+S.Skinner	Nov 9, 2024	VAN 3 - EDM 7	W	3	20	.850	-	W -122	o6.0
+S.Skinner	Nov 6, 2024	EDM 2 - VEG 4	L	3	34	.912	-	L -159	u6.5
+Offense vs Defense
+Betting Terms
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.78
+Total	3.89
+0.50
+1st Period	1.22
+1.00
+2nd Period	1.22
+1.06
+3rd Period	1.39
+0.22
+OT	0.06
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+33.33
+Total	30.22
+10.83
+1st Period	8.94
+11.28
+2nd Period	10.67
+10.44
+3rd Period	10.39
+0.78
+OT	0.22
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.08
+Total	0.87
+0.05
+1st Period	0.86
+0.09
+2nd Period	0.89
+0.10
+3rd Period	0.87
+0.29
+OT	0.75
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+8 - 46
+G/Att vs. GA/Att	12 - 63
+17.39
+PP % vs. PK %	80.95
+Goaltenders
+Goaltenders table
+Edmonton Goaltenders
+Name	S	SV	SV%	WL
+Calvin Pickard	145	129	0.890	4-2-0
+Stuart Skinner	308	270	0.877	5-5-2
+
+EDM last 10 
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.20
+Total	4.10
+0.60
+1st Period	1.00
+1.00
+2nd Period	1.50
+1.30
+3rd Period	1.50
+0.30
+OT	0.10
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+32.30
+Total	26.80
+10.50
+1st Period	7.60
+10.50
+2nd Period	10.10
+10.50
+3rd Period	9.00
+0.80
+OT	0.10
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.85
+0.06
+1st Period	0.87
+0.10
+2nd Period	0.85
+0.12
+3rd Period	0.83
+0.37
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+5 - 25
+G/Att vs. GA/Att	9 - 35
+20.00
+PP % vs. PK %	74.29
+Goaltenders
+Goaltenders table
+Edmonton Goaltenders
+Name	S	SV	SV%	WL
+Calvin Pickard	91	83	0.912	3-1-0
+Stuart Skinner	154	133	0.864	3-2-1
+
+EDM location
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.50
+Total	3.56
+0.88
+1st Period	1.22
+0.88
+2nd Period	1.00
+1.62
+3rd Period	1.22
+0.12
+OT	0.11
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+31.75
+Total	32.78
+10.75
+1st Period	10.56
+10.00
+2nd Period	10.78
+10.75
+3rd Period	11.33
+0.25
+OT	0.11
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.89
+0.08
+1st Period	0.88
+0.09
+2nd Period	0.91
+0.15
+3rd Period	0.89
+0.50
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+4 - 23
+G/Att vs. GA/Att	4 - 28
+17.39
+PP % vs. PK %	85.71
+Goaltenders
+Goaltenders table
+Edmonton Goaltenders
+Name	S	SV	SV%	WL
+Calvin Pickard	80	75	0.938	3-0-0
+Stuart Skinner	121	103	0.851	2-2-1
+
+edm as favor
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.93
+Total	1.00
+0.47
+1st Period	0.00
+1.13
+2nd Period	1.00
+1.07
+3rd Period	0.00
+0.27
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+33.93
+Total	26.00
+10.40
+1st Period	12.00
+11.87
+2nd Period	7.00
+10.73
+3rd Period	7.00
+0.93
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.09
+Total	0.96
+0.04
+1st Period	1.00
+0.10
+2nd Period	0.86
+0.10
+3rd Period	1.00
+0.29
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+8 - 42
+G/Att vs. GA/Att	0 - 4
+19.05
+PP % vs. PK %	100.00
+Goaltenders
+Goaltenders table
+Edmonton Goaltenders
+Name	S	SV	SV%	WL
+Calvin Pickard	102	90	0.882	3-1-0
+Stuart Skinner	285	250	0.877	5-4-2
+
+EDM last 10 
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 16, '24	
+@
+
+TOR
+L 3 - 4 (OT)	L -141	o6.0	30	22	1-2	0-4
+Nov 14, '24	
+
+NAS
+W 3 - 2 (OT)	W -194	u6.5	34	22	0-4	0-2
+Nov 12, '24	
+
+NYI
+W 4 - 3 (OT)	W -218	o6.0	42	22	1-2	0-2
+Nov 09, '24	
+@
+
+VAN
+W 7 - 3	W -122	o6.0	31	20	1-3	1-2
+Nov 06, '24	
+
+VEG
+L 2 - 4	L -159	u6.5	29	34	0-1	1-2
+Nov 04, '24	
+
+NJ
+L 0 - 3	L +117	u6.5	31	16	0-1	1-1
+Nov 03, '24	
+@
+
+CAL
+W 4 - 2	W -159	u6.5	31	31	1-3	1-2
+Oct 31, '24	
+@
+
+NAS
+W 5 - 1	W +112	u6.5	29	27	0-1	1-3
+Oct 28, '24	
+@
+
+CLB
+L 1 - 6	L -233	o6.5	32	25	1-6	1-4
+Oct 27, '24	
+@
+
+DET
+W 3 - 2 (OT)	W -267	u6.5	34	26	0-2	0-1
+
+MON last 10
+Record
+Last 10
+Betting Terms
+Win / Loss
+3-6-1-0
+Over / Under
+5-5-0
+ML
+-$264
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 16, '24	
+
+CLB
+W 5 - 1	W -113	u6.5	30	26	1-4	0-4
+Nov 14, '24	
+@
+
+MIN
+L 0 - 3	L +236	u6.0	19	27	0-3	1-3
+Nov 11, '24	
+@
+
+BUF
+W 7 - 5	W +191	o6.5	23	18	2-6	1-4
+Nov 09, '24	
+@
+
+TOR
+L 1 - 4	L +180	u6.5	21	27	1-2	2-4
+Nov 07, '24	
+@
+
+NJ
+L 3 - 5	L +273	o6.5	24	26	0-2	0-3
+Nov 05, '24	
+
+CAL
+L 2 - 3 (OT)	L +130	u6.5	24	35	1-3	0-1
+Nov 02, '24	
+@
+
+PIT
+L 1 - 3	L +154	u6.5	26	23	0-2	1-2
+Oct 31, '24	
+@
+
+WAS
+L 3 - 6	L +196	o6.5	15	34	1-6	1-5
+Oct 29, '24	
+
+SEA
+L 2 - 8	L +152	o6.0	30	23	0-4	3-6
+Oct 27, '24	
+@
+
+PHI
+W 4 - 3	W +156	o6.5	24	26	1-2	0-3
+Mon golaiee
+oaltender Stats
+Date	Score	W/L	GA	SA	SV%	SO	ML	O/U
+S.Montembeault	Nov 16, 2024	MON 5 - CLB 1	W	1	26	.962	-	W -113	u6.5
+S.Montembeault	Nov 14, 2024	MIN 3 - MON 0	L	2	27	.926	-	L +236	u6.0
+C.Primeau	Nov 11, 2024	BUF 5 - MON 7	-	5	14	.643	-	W +191	o6.5
+S.Montembeault	Nov 11, 2024	BUF 5 - MON 7	W	0	4	1.00	-	W +191	o6.5
+S.Montembeault	Nov 9, 2024	TOR 4 - MON 1	L	4	27	.852	-	L +180	u6.5
+S.Montembeault	Nov 7, 2024	NJ 5 - MON 3	L	4	26	.846	-	L +273	o6.5
+
+
+Mon overall
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.83
+Total	3.17
+0.78
+1st Period	0.83
+1.11
+2nd Period	0.89
+0.94
+3rd Period	1.33
+0.00
+OT	0.11
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+24.50
+Total	25.33
+8.83
+1st Period	8.28
+7.72
+2nd Period	8.22
+7.78
+3rd Period	8.56
+0.17
+OT	0.28
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.12
+Total	0.87
+0.09
+1st Period	0.90
+0.14
+2nd Period	0.89
+0.12
+3rd Period	0.84
+0.00
+OT	0.60
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+14 - 63
+G/Att vs. GA/Att	16 - 47
+22.22
+PP % vs. PK %	65.96
+Goaltenders
+Goaltenders table
+Montreal Goaltenders
+Name	S	SV	SV%	WL
+Sam Montembeault	352	316	0.898	5-8-1
+Cayden Primeau	187	158	0.845	1-2-1
+
+mon last 10
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.80
+Total	3.00
+0.40
+1st Period	0.90
+1.40
+2nd Period	0.70
+1.00
+3rd Period	1.30
+0.00
+OT	0.10
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+23.60
+Total	24.60
+8.70
+1st Period	8.70
+7.60
+2nd Period	7.60
+7.30
+3rd Period	8.10
+0.00
+OT	0.20
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.12
+Total	0.88
+0.05
+1st Period	0.90
+0.18
+2nd Period	0.91
+0.14
+3rd Period	0.84
+0.00
+OT	0.50
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+7 - 34
+G/Att vs. GA/Att	6 - 23
+20.59
+PP % vs. PK %	73.91
+Goaltenders
+Goaltenders table
+Montreal Goaltenders
+Name	S	SV	SV%	WL
+Sam Montembeault	178	157	0.882	2-5-1
+Cayden Primeau	87	70	0.805	1-1-0
+
+mon location
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.78
+Total	3.00
+1.00
+1st Period	0.88
+0.78
+2nd Period	0.88
+1.00
+3rd Period	1.12
+0.00
+OT	0.12
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+26.78
+Total	25.25
+11.22
+1st Period	7.88
+7.67
+2nd Period	7.88
+7.89
+3rd Period	9.38
+0.00
+OT	0.12
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.88
+0.09
+1st Period	0.89
+0.10
+2nd Period	0.89
+0.13
+3rd Period	0.88
+0.00
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+7 - 33
+G/Att vs. GA/Att	6 - 20
+21.21
+PP % vs. PK %	70.00
+Goaltenders
+Goaltenders table
+Montreal Goaltenders
+Name	S	SV	SV%	WL
+Sam Montembeault	245	221	0.902	4-4-1
+Cayden Primeau	48	42	0.875	0-0-0
+
+
+mon as undedogs
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.71
+Total	2.67
+0.76
+1st Period	0.67
+1.12
+2nd Period	0.67
+0.82
+3rd Period	1.33
+0.00
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+24.18
+Total	22.33
+8.41
+1st Period	7.33
+7.88
+2nd Period	7.33
+7.71
+3rd Period	7.67
+0.18
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.88
+0.09
+1st Period	0.91
+0.14
+2nd Period	0.91
+0.11
+3rd Period	0.83
+0.00
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+13 - 59
+G/Att vs. GA/Att	3 - 5
+22.03
+PP % vs. PK %	40.00
+Goaltenders
+Goaltenders table
+Montreal Goaltenders
+Name	S	SV	SV%	WL
+Sam Montembeault	326	291	0.893	4-8-1
+Cayden Primeau	187	158	0.845	1-2-1
+
+Mon season
+Regular Season
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+Nov 16	 CLB	W 5-1	W -113	U 6.5	S. Montembeault	D. Tarasov
+Nov 14	 @ MIN	L 0-3	L +236	U 6	S. Montembeault	F. Gustavsson
+Nov 11	 @ BUF	W 7-5	W +191	O 6.5	S. Montembeault	D. Levi
+Nov 9	 @ TOR	L 1-4	L +180	U 6.5	S. Montembeault	J. Woll
+Nov 7	 @ NJ	L 3-5	L +273	O 6.5	S. Montembeault	J. Markstrom
+Nov 5	 CAL	L 2-3 (OT)	L +130	U 6.5	S. Montembeault	D. Wolf
+Nov 2	 @ PIT	L 1-3	L +154	U 6.5	S. Montembeault	A. Nedeljkovic
+Oct 31	 @ WAS	L 3-6	L +196	O 6.5	C. Primeau	C. Lindgren
+Oct 29	 SEA	L 2-8	L +152	O 6	S. Montembeault	J. Daccord
+Oct 27	 @ PHI	W 4-3	W +156	O 6.5	C. Primeau	A. Kolosov
+Oct 26	 STL	W 5-2	W +111	O 6	S. Montembeault	J. Binnington
+Oct 22	 NYR	L 2-7	L +218	O 6	S. Montembeault	I. Shesterkin
+Oct 19	 @ NYI	L 3-4 (SO)	L +201	O 6	C. Primeau	S. Varlamov
+Oct 17	 LA	L 1-4	L +119	U 6	S. Montembeault	D. Rittich
+Oct 14	 PIT	L 3-6	L +126	O 6	S. Montembeault	T. Jarry
+Oct 12	 OTT	W 4-1	W +138	U 6	S. Montembeault	L. Ullmark
+Oct 10	 @ BOS	L 4-6	L +253	O 6	C. Primeau	J. Swayman
+Oct 9	 TOR	W 1-0	W +174	U 6.5	S. Montembeault	A. Stolarz
+
+EDM season
+Regular Season
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+Nov 16	 @ TOR	L 3-4 (OT)	L -141	O 6	S. Skinner	A. Stolarz
+Nov 14	 NAS	W 3-2 (OT)	W -194	U 6.5	C. Pickard	S. Wedgewood
+Nov 12	 NYI	W 4-3 (OT)	W -218	O 6	S. Skinner	I. Sorokin
+Nov 9	 @ VAN	W 7-3	W -122	O 6	S. Skinner	K. Lankinen
+Nov 6	 VEG	L 2-4	L -159	U 6.5	S. Skinner	A. Hill
+Nov 4	 NJ	L 0-3	L +117	U 6.5	C. Pickard	J. Allen
+Nov 3	 @ CAL	W 4-2	W -159	U 6.5	S. Skinner	D. Vladar
+Oct 31	 @ NAS	W 5-1	W +112	U 6.5	C. Pickard	J. Saros
+Oct 28	 @ CLB	L 1-6	L -233	O 6.5	S. Skinner	E. Merzlikins
+Oct 27	 @ DET	W 3-2 (OT)	W -267	U 6.5	C. Pickard	C. Talbot
+Oct 25	 PIT	W 4-0	W -207	U 7	S. Skinner	J. Blomqvist
+Oct 22	 CAR	L 2-3 (OT)	L -112	U 6.5	S. Skinner	F. Andersen
+Oct 19	 @ DAL	L 1-4	L -115	U 6.5	S. Skinner	J. Oettinger
+Oct 17	 @ NAS	W 4-2	W -120	U 6.5	C. Pickard	J. Saros
+Oct 15	 PHI	W 4-3 (OT)	W -198	O 6.5	S. Skinner	S. Ersson
+Oct 13	 CAL	L 1-4	L -240	U 7	S. Skinner	D. Vladar
+Oct 12	 CHI	L 2-5	L -342	O 6.5	C. Pickard	P. Mrazek
+Oct 9	 WIN	L 0-6	L -180	P 6	S. Skinner	C. Hellebuyck
