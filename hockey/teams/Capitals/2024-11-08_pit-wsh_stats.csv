@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Capitals,Penguins,away,D,Alexander Alexeyev D,12:43,0,0,0,2,0,0,0,1,0/0
+Capitals,Penguins,away,D,John Carlson D,24:04,0,0,-1,3,4,0,1,0,0/0
+Capitals,Penguins,away,D,Martin Fehervary D,19:00,0,0,-3,0,0,0,0,1,0/0
+Capitals,Penguins,away,D,Matt Roy D,18:48,0,0,-1,1,0,2,0,2,0/0
+Capitals,Penguins,away,D,Rasmus Sandin D,20:59,1,0,2,1,3,0,0,1,0/0
+Capitals,Penguins,away,D,Trevor van Riemsdyk D,16:50,0,0,0,2,2,0,0,2,0/0
+Capitals,Penguins,away,D,Alexander Alexeyev D,12:43,0,0,0,2,0,0,0,1,0/0
+Capitals,Penguins,away,D,John Carlson D,24:04,0,0,-1,3,4,0,1,0,0/0
+Capitals,Penguins,away,D,Martin Fehervary D,19:00,0,0,-3,0,0,0,0,1,0/0
+Capitals,Penguins,away,D,Matt Roy D,18:48,0,0,-1,1,0,2,0,2,0/0
+Capitals,Penguins,away,D,Rasmus Sandin D,20:59,1,0,2,1,3,0,0,1,0/0
+Capitals,Penguins,away,D,Trevor van Riemsdyk D,16:50,0,0,0,2,2,0,0,2,0/0
+Capitals,Penguins,away,F,Nic Dowd C,14:04,0,0,-1,0,0,0,0,0,5/12
+Capitals,Penguins,away,F,Pierre-Luc Dubois L,16:19,0,0,-1,2,1,0,0,0,11/19
+Capitals,Penguins,away,F,Brandon Duhaime R,12:00,0,0,0,2,1,0,0,0,1/2
+Capitals,Penguins,away,F,Hendrix Lapierre C,11:57,0,1,1,0,0,0,0,1,3/7
+Capitals,Penguins,away,F,Andrew Mangiapane L,13:21,1,0,0,2,1,0,0,2,0/0
+Capitals,Penguins,away,F,Connor McMichael C,18:49,0,1,-1,2,1,0,0,0,0/1
+Capitals,Penguins,away,F,Alex Ovechkin L,19:39,0,0,-2,5,0,0,0,0,0/0
+Capitals,Penguins,away,F,Aliaksei Protas C,16:50,0,0,-2,2,1,0,0,0,0/0
+Capitals,Penguins,away,F,Taylor Raddysh R,12:33,0,0,0,2,1,0,0,0,0/1
+Capitals,Penguins,away,F,Dylan Strome C,20:28,0,0,-2,4,2,0,0,0,10/17
+Capitals,Penguins,away,F,Jakub Vrana L,10:45,0,1,1,0,0,2,0,0,0/0
+Capitals,Penguins,away,F,Tom Wilson R,19:35,0,1,-1,4,2,0,0,0,0/0
+Capitals,Penguins,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexander
+Capitals,Penguins,away,F,Alexander Alexeyev D,12:43,0,0,0,2,0,0,0,1,0/0
+Capitals,Penguins,away,F,John Carlson D,24:04,0,0,-1,3,4,0,1,0,0/0
+Capitals,Penguins,away,F,Martin Fehervary D,19:00,0,0,-3,0,0,0,0,1,0/0
+Capitals,Penguins,away,F,Matt Roy D,18:48,0,0,-1,1,0,2,0,2,0/0
+Capitals,Penguins,away,F,Rasmus Sandin D,20:59,1,0,2,1,3,0,0,1,0/0
+Capitals,Penguins,away,F,Trevor van Riemsdyk D,16:50,0,0,0,2,2,0,0,2,0/0
+Capitals,Penguins,away,F,Nic Dowd C,14:04,0,0,-1,0,0,0,0,0,5/12
+Capitals,Penguins,away,F,Pierre-Luc Dubois L,16:19,0,0,-1,2,1,0,0,0,11/19
+Capitals,Penguins,away,F,Brandon Duhaime R,12:00,0,0,0,2,1,0,0,0,1/2
+Capitals,Penguins,away,F,Hendrix Lapierre C,11:57,0,1,1,0,0,0,0,1,3/7
+Capitals,Penguins,away,F,Andrew Mangiapane L,13:21,1,0,0,2,1,0,0,2,0/0
+Capitals,Penguins,away,F,Connor McMichael C,18:49,0,1,-1,2,1,0,0,0,0/1
+Capitals,Penguins,away,F,Alex Ovechkin L,19:39,0,0,-2,5,0,0,0,0,0/0
+Capitals,Penguins,away,F,Aliaksei Protas C,16:50,0,0,-2,2,1,0,0,0,0/0
+Capitals,Penguins,away,F,Taylor Raddysh R,12:33,0,0,0,2,1,0,0,0,0/1
+Capitals,Penguins,away,F,Dylan Strome C,20:28,0,0,-2,4,2,0,0,0,10/17
+Capitals,Penguins,away,F,Jakub Vrana L,10:45,0,1,1,0,0,2,0,0,0/0
+Capitals,Penguins,away,F,Tom Wilson R,19:35,0,1,-1,4,2,0,0,0,0/0
+Capitals,Penguins,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexander
+Capitals,Penguins,away,F,Alexander Alexeyev D,12:43,0,0,0,2,0,0,0,1,0/0
+Capitals,Penguins,away,F,John Carlson D,24:04,0,0,-1,3,4,0,1,0,0/0
+Capitals,Penguins,away,F,Martin Fehervary D,19:00,0,0,-3,0,0,0,0,1,0/0
+Capitals,Penguins,away,F,Matt Roy D,18:48,0,0,-1,1,0,2,0,2,0/0
+Capitals,Penguins,away,F,Rasmus Sandin D,20:59,1,0,2,1,3,0,0,1,0/0
+Capitals,Penguins,away,F,Trevor van Riemsdyk D,16:50,0,0,0,2,2,0,0,2,0/0
