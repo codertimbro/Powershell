@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Wild,Penguins,home,D,Zach Bogosian D,14:41,0,0,0,3,2,0,0,1,0/0
+Wild,Penguins,home,D,Jonas Brodin D,21:59,0,0,1,5,3,0,0,3,0/0
+Wild,Penguins,home,D,Brock Faber D,23:58,0,1,1,1,0,5,0,0,0/0
+Wild,Penguins,home,D,Jon Merrill D,12:17,0,0,0,0,2,2,0,1,0/0
+Wild,Penguins,home,D,Jake Middleton D,18:54,0,1,2,2,1,0,1,1,0/0
+Wild,Penguins,home,D,Jared Spurgeon D,19:54,0,0,2,0,2,0,0,1,0/0
+Wild,Penguins,home,D,Zach Bogosian D,14:41,0,0,0,3,2,0,0,1,0/0
+Wild,Penguins,home,D,Jonas Brodin D,21:59,0,0,1,5,3,0,0,3,0/0
+Wild,Penguins,home,D,Brock Faber D,23:58,0,1,1,1,0,5,0,0,0/0
+Wild,Penguins,home,D,Jon Merrill D,12:17,0,0,0,0,2,2,0,1,0/0
+Wild,Penguins,home,D,Jake Middleton D,18:54,0,1,2,2,1,0,1,1,0/0
+Wild,Penguins,home,D,Jared Spurgeon D,19:54,0,0,2,0,2,0,0,1,0/0
+Wild,Penguins,home,F,Matt Boldy L,23:31,0,0,1,5,1,0,2,1,0/0
+Wild,Penguins,home,F,Joel Eriksson Ek C,22:05,0,0,0,2,1,0,0,0,10/29
+Wild,Penguins,home,F,Marcus Foligno L,11:22,0,0,0,0,0,0,0,1,0/0
+Wild,Penguins,home,F,Frederick Gaudreau C,12:53,2,1,2,4,1,0,1,0,5/8
+Wild,Penguins,home,F,Marcus Johansson L,14:39,0,0,0,1,0,0,0,0,0/0
+Wild,Penguins,home,F,Kirill Kaprizov L,24:38,1,2,2,7,1,0,0,1,0/0
+Wild,Penguins,home,F,Marat Khusnutdinov C,08:47,0,1,1,0,0,0,0,2,3/8
+Wild,Penguins,home,F,Jakub Lauko C,08:42,1,0,1,2,1,0,0,0,0/0
+Wild,Penguins,home,F,Liam Ohgren L,07:21,0,0,1,1,1,0,0,0,0/0
+Wild,Penguins,home,F,Marco Rossi C,16:01,0,1,0,1,0,2,0,0,6/12
+Wild,Penguins,home,F,Yakov Trenin C,14:03,0,0,1,1,1,0,0,0,0/2
+Wild,Penguins,home,F,Mats Zuccarello R,20:50,1,0,0,4,1,0,0,1,1/1
+Wild,Penguins,home,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Penguins,home,F,Zach Bogosian D,14:41,0,0,0,3,2,0,0,1,0/0
+Wild,Penguins,home,F,Jonas Brodin D,21:59,0,0,1,5,3,0,0,3,0/0
+Wild,Penguins,home,F,Brock Faber D,23:58,0,1,1,1,0,5,0,0,0/0
+Wild,Penguins,home,F,Jon Merrill D,12:17,0,0,0,0,2,2,0,1,0/0
+Wild,Penguins,home,F,Jake Middleton D,18:54,0,1,2,2,1,0,1,1,0/0
+Wild,Penguins,home,F,Jared Spurgeon D,19:54,0,0,2,0,2,0,0,1,0/0
+Wild,Penguins,home,F,Matt Boldy L,23:31,0,0,1,5,1,0,2,1,0/0
+Wild,Penguins,home,F,Joel Eriksson Ek C,22:05,0,0,0,2,1,0,0,0,10/29
+Wild,Penguins,home,F,Marcus Foligno L,11:22,0,0,0,0,0,0,0,1,0/0
+Wild,Penguins,home,F,Frederick Gaudreau C,12:53,2,1,2,4,1,0,1,0,5/8
+Wild,Penguins,home,F,Marcus Johansson L,14:39,0,0,0,1,0,0,0,0,0/0
+Wild,Penguins,home,F,Kirill Kaprizov L,24:38,1,2,2,7,1,0,0,1,0/0
+Wild,Penguins,home,F,Marat Khusnutdinov C,08:47,0,1,1,0,0,0,0,2,3/8
+Wild,Penguins,home,F,Jakub Lauko C,08:42,1,0,1,2,1,0,0,0,0/0
+Wild,Penguins,home,F,Liam Ohgren L,07:21,0,0,1,1,1,0,0,0,0/0
+Wild,Penguins,home,F,Marco Rossi C,16:01,0,1,0,1,0,2,0,0,6/12
+Wild,Penguins,home,F,Yakov Trenin C,14:03,0,0,1,1,1,0,0,0,0/2
+Wild,Penguins,home,F,Mats Zuccarello R,20:50,1,0,0,4,1,0,0,1,1/1
+Wild,Penguins,home,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Penguins,home,F,Zach Bogosian D,14:41,0,0,0,3,2,0,0,1,0/0
+Wild,Penguins,home,F,Jonas Brodin D,21:59,0,0,1,5,3,0,0,3,0/0
+Wild,Penguins,home,F,Brock Faber D,23:58,0,1,1,1,0,5,0,0,0/0
+Wild,Penguins,home,F,Jon Merrill D,12:17,0,0,0,0,2,2,0,1,0/0
+Wild,Penguins,home,F,Jake Middleton D,18:54,0,1,2,2,1,0,1,1,0/0
+Wild,Penguins,home,F,Jared Spurgeon D,19:54,0,0,2,0,2,0,0,1,0/0
