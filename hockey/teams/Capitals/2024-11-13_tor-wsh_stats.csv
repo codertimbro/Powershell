@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Capitals,Maple Leafs,away,D,John Carlson D,24:43,0,0,-1,4,1,0,0,0,0/0
+Capitals,Maple Leafs,away,D,Jakob Chychrun D,19:27,0,0,-1,2,0,2,0,2,0/0
+Capitals,Maple Leafs,away,D,Martin Fehervary D,19:44,0,0,1,1,1,0,0,2,0/0
+Capitals,Maple Leafs,away,D,Matt Roy D,22:18,0,1,1,0,1,0,0,2,0/0
+Capitals,Maple Leafs,away,D,Rasmus Sandin D,19:12,0,1,1,1,1,0,0,1,0/0
+Capitals,Maple Leafs,away,D,Trevor van Riemsdyk D,17:17,0,0,0,0,3,0,1,1,0/0
+Capitals,Maple Leafs,away,D,John Carlson D,24:43,0,0,-1,4,1,0,0,0,0/0
+Capitals,Maple Leafs,away,D,Jakob Chychrun D,19:27,0,0,-1,2,0,2,0,2,0/0
+Capitals,Maple Leafs,away,D,Martin Fehervary D,19:44,0,0,1,1,1,0,0,2,0/0
+Capitals,Maple Leafs,away,D,Matt Roy D,22:18,0,1,1,0,1,0,0,2,0/0
+Capitals,Maple Leafs,away,D,Rasmus Sandin D,19:12,0,1,1,1,1,0,0,1,0/0
+Capitals,Maple Leafs,away,D,Trevor van Riemsdyk D,17:17,0,0,0,0,3,0,1,1,0/0
+Capitals,Maple Leafs,away,F,Nic Dowd C,16:09,0,0,1,0,0,2,0,3,5/14
+Capitals,Maple Leafs,away,F,Pierre-Luc Dubois L,17:49,0,1,-1,1,2,0,0,0,8/18
+Capitals,Maple Leafs,away,F,Brandon Duhaime R,16:50,0,0,0,0,4,0,0,0,1/1
+Capitals,Maple Leafs,away,F,Hendrix Lapierre C,08:09,0,0,0,1,0,0,0,0,1/2
+Capitals,Maple Leafs,away,F,Andrew Mangiapane L,10:50,0,0,0,0,0,0,0,1,0/0
+Capitals,Maple Leafs,away,F,Connor McMichael C,20:31,0,1,0,0,4,0,0,0,1/2
+Capitals,Maple Leafs,away,F,Alex Ovechkin L,16:32,0,1,0,4,0,0,0,1,0/0
+Capitals,Maple Leafs,away,F,Aliaksei Protas C,17:28,1,1,1,4,0,0,1,0,0/1
+Capitals,Maple Leafs,away,F,Taylor Raddysh R,14:36,1,0,1,1,0,0,0,1,1/1
+Capitals,Maple Leafs,away,F,Dylan Strome C,19:39,1,0,0,1,1,0,0,0,12/15
+Capitals,Maple Leafs,away,F,Jakub Vrana L,09:29,0,0,0,1,1,0,0,0,0/0
+Capitals,Maple Leafs,away,F,Tom Wilson R,19:51,0,0,-1,6,0,0,1,2,0/0
+Capitals,Maple Leafs,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOJohn
+Capitals,Maple Leafs,away,F,John Carlson D,24:43,0,0,-1,4,1,0,0,0,0/0
+Capitals,Maple Leafs,away,F,Jakob Chychrun D,19:27,0,0,-1,2,0,2,0,2,0/0
+Capitals,Maple Leafs,away,F,Martin Fehervary D,19:44,0,0,1,1,1,0,0,2,0/0
+Capitals,Maple Leafs,away,F,Matt Roy D,22:18,0,1,1,0,1,0,0,2,0/0
+Capitals,Maple Leafs,away,F,Rasmus Sandin D,19:12,0,1,1,1,1,0,0,1,0/0
+Capitals,Maple Leafs,away,F,Trevor van Riemsdyk D,17:17,0,0,0,0,3,0,1,1,0/0
+Capitals,Maple Leafs,away,F,Nic Dowd C,16:09,0,0,1,0,0,2,0,3,5/14
+Capitals,Maple Leafs,away,F,Pierre-Luc Dubois L,17:49,0,1,-1,1,2,0,0,0,8/18
+Capitals,Maple Leafs,away,F,Brandon Duhaime R,16:50,0,0,0,0,4,0,0,0,1/1
+Capitals,Maple Leafs,away,F,Hendrix Lapierre C,08:09,0,0,0,1,0,0,0,0,1/2
+Capitals,Maple Leafs,away,F,Andrew Mangiapane L,10:50,0,0,0,0,0,0,0,1,0/0
+Capitals,Maple Leafs,away,F,Connor McMichael C,20:31,0,1,0,0,4,0,0,0,1/2
+Capitals,Maple Leafs,away,F,Alex Ovechkin L,16:32,0,1,0,4,0,0,0,1,0/0
+Capitals,Maple Leafs,away,F,Aliaksei Protas C,17:28,1,1,1,4,0,0,1,0,0/1
+Capitals,Maple Leafs,away,F,Taylor Raddysh R,14:36,1,0,1,1,0,0,0,1,1/1
+Capitals,Maple Leafs,away,F,Dylan Strome C,19:39,1,0,0,1,1,0,0,0,12/15
+Capitals,Maple Leafs,away,F,Jakub Vrana L,09:29,0,0,0,1,1,0,0,0,0/0
+Capitals,Maple Leafs,away,F,Tom Wilson R,19:51,0,0,-1,6,0,0,1,2,0/0
+Capitals,Maple Leafs,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOJohn
+Capitals,Maple Leafs,away,F,John Carlson D,24:43,0,0,-1,4,1,0,0,0,0/0
+Capitals,Maple Leafs,away,F,Jakob Chychrun D,19:27,0,0,-1,2,0,2,0,2,0/0
+Capitals,Maple Leafs,away,F,Martin Fehervary D,19:44,0,0,1,1,1,0,0,2,0/0
+Capitals,Maple Leafs,away,F,Matt Roy D,22:18,0,1,1,0,1,0,0,2,0/0
+Capitals,Maple Leafs,away,F,Rasmus Sandin D,19:12,0,1,1,1,1,0,0,1,0/0
+Capitals,Maple Leafs,away,F,Trevor van Riemsdyk D,17:17,0,0,0,0,3,0,1,1,0/0
