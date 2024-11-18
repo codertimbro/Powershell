@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Capitals,Flyers,away,D,John Carlson D,26:34,0,0,3,3,1,0,0,2,0/0
+Capitals,Flyers,away,D,Jakob Chychrun D,19:38,0,0,-1,0,1,0,1,2,0/0
+Capitals,Flyers,away,D,Martin Fehervary D,19:52,0,0,2,1,1,0,0,0,0/0
+Capitals,Flyers,away,D,Dylan McIlrath D,12:44,0,2,2,0,0,2,1,2,0/0
+Capitals,Flyers,away,D,Rasmus Sandin D,17:38,0,2,4,2,5,0,0,2,0/0
+Capitals,Flyers,away,D,Trevor van Riemsdyk D,17:49,0,1,0,1,3,0,0,0,0/0
+Capitals,Flyers,away,D,John Carlson D,26:34,0,0,3,3,1,0,0,2,0/0
+Capitals,Flyers,away,D,Jakob Chychrun D,19:38,0,0,-1,0,1,0,1,2,0/0
+Capitals,Flyers,away,D,Martin Fehervary D,19:52,0,0,2,1,1,0,0,0,0/0
+Capitals,Flyers,away,D,Dylan McIlrath D,12:44,0,2,2,0,0,2,1,2,0/0
+Capitals,Flyers,away,D,Rasmus Sandin D,17:38,0,2,4,2,5,0,0,2,0/0
+Capitals,Flyers,away,D,Trevor van Riemsdyk D,17:49,0,1,0,1,3,0,0,0,0/0
+Capitals,Flyers,away,F,Nic Dowd C,14:17,1,0,2,2,0,2,2,0,7/17
+Capitals,Flyers,away,F,Pierre-Luc Dubois L,18:12,1,2,3,4,1,4,0,1,4/14
+Capitals,Flyers,away,F,Brandon Duhaime R,14:52,0,0,0,1,0,0,0,0,3/3
+Capitals,Flyers,away,F,Hendrix Lapierre C,11:40,0,0,-1,1,2,0,0,0,3/11
+Capitals,Flyers,away,F,Andrew Mangiapane L,12:37,0,0,0,1,2,0,0,0,0/0
+Capitals,Flyers,away,F,Connor McMichael C,16:15,2,0,3,2,0,0,0,0,1/1
+Capitals,Flyers,away,F,Alex Ovechkin L,17:24,1,0,1,3,0,0,0,1,0/0
+Capitals,Flyers,away,F,Aliaksei Protas C,12:59,0,1,2,1,0,0,0,1,0/0
+Capitals,Flyers,away,F,Taylor Raddysh R,12:18,1,0,0,2,0,0,0,1,0/1
+Capitals,Flyers,away,F,Dylan Strome C,16:53,0,1,1,0,3,0,0,2,8/18
+Capitals,Flyers,away,F,Jakub Vrana L,10:36,0,0,0,2,1,0,1,2,0/2
+Capitals,Flyers,away,F,Tom Wilson R,20:07,0,0,4,0,1,2,0,1,0/1
+Capitals,Flyers,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOJohn
+Capitals,Flyers,away,F,John Carlson D,26:34,0,0,3,3,1,0,0,2,0/0
+Capitals,Flyers,away,F,Jakob Chychrun D,19:38,0,0,-1,0,1,0,1,2,0/0
+Capitals,Flyers,away,F,Martin Fehervary D,19:52,0,0,2,1,1,0,0,0,0/0
+Capitals,Flyers,away,F,Dylan McIlrath D,12:44,0,2,2,0,0,2,1,2,0/0
+Capitals,Flyers,away,F,Rasmus Sandin D,17:38,0,2,4,2,5,0,0,2,0/0
+Capitals,Flyers,away,F,Trevor van Riemsdyk D,17:49,0,1,0,1,3,0,0,0,0/0
+Capitals,Flyers,away,F,Nic Dowd C,14:17,1,0,2,2,0,2,2,0,7/17
+Capitals,Flyers,away,F,Pierre-Luc Dubois L,18:12,1,2,3,4,1,4,0,1,4/14
+Capitals,Flyers,away,F,Brandon Duhaime R,14:52,0,0,0,1,0,0,0,0,3/3
+Capitals,Flyers,away,F,Hendrix Lapierre C,11:40,0,0,-1,1,2,0,0,0,3/11
+Capitals,Flyers,away,F,Andrew Mangiapane L,12:37,0,0,0,1,2,0,0,0,0/0
+Capitals,Flyers,away,F,Connor McMichael C,16:15,2,0,3,2,0,0,0,0,1/1
+Capitals,Flyers,away,F,Alex Ovechkin L,17:24,1,0,1,3,0,0,0,1,0/0
+Capitals,Flyers,away,F,Aliaksei Protas C,12:59,0,1,2,1,0,0,0,1,0/0
+Capitals,Flyers,away,F,Taylor Raddysh R,12:18,1,0,0,2,0,0,0,1,0/1
+Capitals,Flyers,away,F,Dylan Strome C,16:53,0,1,1,0,3,0,0,2,8/18
+Capitals,Flyers,away,F,Jakub Vrana L,10:36,0,0,0,2,1,0,1,2,0/2
+Capitals,Flyers,away,F,Tom Wilson R,20:07,0,0,4,0,1,2,0,1,0/1
+Capitals,Flyers,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOJohn
+Capitals,Flyers,away,F,John Carlson D,26:34,0,0,3,3,1,0,0,2,0/0
+Capitals,Flyers,away,F,Jakob Chychrun D,19:38,0,0,-1,0,1,0,1,2,0/0
+Capitals,Flyers,away,F,Martin Fehervary D,19:52,0,0,2,1,1,0,0,0,0/0
+Capitals,Flyers,away,F,Dylan McIlrath D,12:44,0,2,2,0,0,2,1,2,0/0
+Capitals,Flyers,away,F,Rasmus Sandin D,17:38,0,2,4,2,5,0,0,2,0/0
+Capitals,Flyers,away,F,Trevor van Riemsdyk D,17:49,0,1,0,1,3,0,0,0,0/0
