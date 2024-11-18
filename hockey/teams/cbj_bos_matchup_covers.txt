@@ -1,0 +1,700 @@
+Team Table
+Team	Record	ATS	O/U	Away	Home
+
+CLB
+6-9-2	9-8-0	11-6-0	1-6-2	5-3-0
+
+BOS
+8-8-3	4-15-0	9-10-0	3-5-1	5-3-2
+betmgm
+
+Switch books
+Game Odds
+Team	ML	Total	Puck Line
+
+CLB
++200	o6.0 -120	+1.5 -120
+
+BOS
+-250	u6.0 +100	-1.5 +100
+Head-To-Head
+Last 10
+Betting Terms
+Win / Loss
+8-2
+Over / Under
+3-7-0
+Head-To-Head
+Date	Home	Result	ML	O/U	HSOG	ASOG	HPP	APP
+Jan 02, '24	CLB	 4 - 1	BOS -218	u6.5	27	27	0-1	1-3
+Dec 03, '23	BOS	 3 - 1	BOS -254	u6.5	28	25	2-6	0-4
+Nov 27, '23	CLB	 5 - 2	CLB +246	o6.5	40	33	1-5	0-2
+Mar 30, '23	BOS	 2 - 1 (OT)	BOS -455	u6.5	31	26	1-5	0-5
+Dec 17, '22	BOS	 4 - 2	BOS -360	u6.5	39	33	2-3	2-5
+Oct 28, '22	CLB	 4 - 0	BOS -143	u6.5	30	35	0-3	0-2
+Apr 04, '22	CLB	 3 - 2 (OT)	BOS -226	u6.5	22	37	0-5	0-5
+Apr 02, '22	BOS	 5 - 2	BOS -344	o6.5	42	24	1-1	0-1
+Mar 05, '22	CLB	 5 - 4 (SO)	BOS -238	o6.0	24	32	2-3	1-2
+Jan 14, '20	CLB	 3 - 0	CLB +124	u5.5	27	34	1-2	0-4
+Goaltenders
+Last 5
+Betting Terms
+W/L
+1-4-0-0
+GAA
+3.60
+Save %
+.867
+Columbus Goaltender Stats
+Date	Score	W/L	GA	SA	SV%	SO	ML	O/U
+D.Tarasov	Nov 16, 2024	MON 5 - CLB 1	L	5	30	.833	-	L +102	u6.5
+E.Merzlikins	Nov 15, 2024	CLB 6 - PIT 2	W	2	23	.913	-	W +108	o6.5
+E.Merzlikins	Nov 12, 2024	SEA 5 - CLB 2	L	4	32	.875	-	L +132	o6.0
+D.Tarasov	Nov 10, 2024	ANA 4 - CLB 2	L	3	29	.897	-	L -109	u6.5
+E.Merzlikins	Nov 9, 2024	LA 5 - CLB 2	L	4	22	.818	-	L +166	o6.5
+
+COL Offense vs Defense
+Betting Terms
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.12
+Total	3.37
+1.00
+1st Period	1.05
+1.06
+2nd Period	1.16
+1.06
+3rd Period	1.00
+0.00
+OT	0.16
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+31.71
+Total	29.53
+9.06
+1st Period	8.63
+11.41
+2nd Period	10.37
+11.06
+3rd Period	9.68
+0.18
+OT	0.79
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.89
+0.11
+1st Period	0.88
+0.09
+2nd Period	0.89
+0.10
+3rd Period	0.90
+0.00
+OT	0.80
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+8 - 47
+G/Att vs. GA/Att	19 - 76
+17.02
+PP % vs. PK %	75.00
+Goaltenders
+Goaltenders table
+Columbus Goaltenders
+Name	S	SV	SV%	WL
+Elvis Merzlikins	254	228	0.898	3-5-1
+Daniil Tarasov	230	198	0.861	3-4-1
+
+CBJ location
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.33
+Total	2.80
+0.67
+1st Period	0.80
+1.00
+2nd Period	1.00
+0.67
+3rd Period	0.80
+0.00
+OT	0.20
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+33.56
+Total	28.30
+10.22
+1st Period	8.10
+11.78
+2nd Period	9.60
+11.22
+3rd Period	9.40
+0.33
+OT	1.20
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.07
+Total	0.90
+0.07
+1st Period	0.90
+0.08
+2nd Period	0.90
+0.06
+3rd Period	0.91
+0.00
+OT	0.83
+
+CBJ last 10
+
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.60
+Total	3.20
+1.00
+1st Period	0.90
+0.60
+2nd Period	1.10
+1.00
+3rd Period	1.00
+0.00
+OT	0.20
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+33.00
+Total	28.80
+9.60
+1st Period	7.70
+11.10
+2nd Period	10.40
+12.10
+3rd Period	9.80
+0.20
+OT	0.80
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.08
+Total	0.89
+0.10
+1st Period	0.88
+0.05
+2nd Period	0.89
+0.08
+3rd Period	0.90
+0.00
+OT	0.75
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+5 - 27
+G/Att vs. GA/Att	10 - 33
+18.52
+PP % vs. PK %	69.70
+Goaltenders
+Goaltenders table
+Columbus Goaltenders
+Name	S	SV	SV%	WL
+Elvis Merzlikins	206	187	0.908	3-3-1
+Daniil Tarasov	81	66	0.815	0-3-0
+
+
+CBJ as underdogs
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.25
+Total	5.29
+1.06
+1st Period	1.86
+1.12
+2nd Period	1.86
+1.06
+3rd Period	1.57
+0.00
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+30.56
+Total	33.71
+8.81
+1st Period	10.71
+11.06
+2nd Period	12.43
+10.62
+3rd Period	10.43
+0.06
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.84
+0.12
+1st Period	0.83
+0.10
+2nd Period	0.85
+0.10
+3rd Period	0.85
+0.00
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+8 - 44
+G/Att vs. GA/Att	13 - 34
+18.18
+PP % vs. PK %	61.76
+Goaltenders
+Goaltenders table
+Columbus Goaltenders
+Name	S	SV	SV%	WL
+Elvis Merzlikins	227	203	0.894	3-5-0
+Daniil Tarasov	230	198	0.861	3-4-1
+
+BOS overall
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.47
+Total	3.59
+0.84
+1st Period	0.76
+1.00
+2nd Period	1.41
+0.47
+3rd Period	1.29
+0.16
+OT	0.12
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+26.89
+Total	28.65
+9.74
+1st Period	8.59
+9.37
+2nd Period	10.76
+7.21
+3rd Period	9.00
+0.58
+OT	0.29
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.09
+Total	0.87
+0.09
+1st Period	0.91
+0.11
+2nd Period	0.87
+0.07
+3rd Period	0.86
+0.27
+OT	0.60
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+8 - 71
+G/Att vs. GA/Att	10 - 51
+11.27
+PP % vs. PK %	80.39
+Goaltenders
+Goaltenders table
+Boston Goaltenders
+Name	S	SV	SV%	WL
+Joonas Korpisalo	181	163	0.901	3-2-1
+Jeremy Swayman	376	334	0.888	5-6-2
+
+BOs last 10
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.00
+Total	3.70
+0.80
+1st Period	1.00
+0.60
+2nd Period	1.30
+0.50
+3rd Period	1.30
+0.10
+OT	0.10
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+25.90
+Total	29.00
+9.50
+1st Period	8.80
+9.40
+2nd Period	11.30
+6.40
+3rd Period	8.60
+0.60
+OT	0.30
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.08
+Total	0.87
+0.08
+1st Period	0.89
+0.06
+2nd Period	0.88
+0.08
+3rd Period	0.85
+0.17
+OT	0.67
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+2 - 33
+G/Att vs. GA/Att	6 - 31
+6.06
+PP % vs. PK %	80.65
+Goaltenders
+Goaltenders table
+Boston Goaltenders
+Name	S	SV	SV%	WL
+Joonas Korpisalo	121	112	0.926	2-1-1
+Jeremy Swayman	165	144	0.873	2-3-1
+
+Bos as favor
+
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.67
+Total	2.00
+0.83
+1st Period	0.00
+1.17
+2nd Period	1.00
+0.42
+3rd Period	0.00
+0.25
+OT	1.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+27.33
+Total	27.00
+10.00
+1st Period	6.00
+9.83
+2nd Period	11.00
+6.58
+3rd Period	7.00
+0.92
+OT	3.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.93
+0.08
+1st Period	1.00
+0.12
+2nd Period	0.91
+0.06
+3rd Period	1.00
+0.27
+OT	0.67
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+3 - 42
+G/Att vs. GA/Att	0 - 4
+7.14
+PP % vs. PK %	100.00
+Goaltenders
+Goaltenders table
+Boston Goaltenders
+Name	S	SV	SV%	WL
+Joonas Korpisalo	106	99	0.934	2-1-1
+Jeremy Swayman	218	199	0.913	5-1-2
+
+Bos locaiton
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.70
+Total	4.33
+1.00
+1st Period	1.00
+1.30
+2nd Period	1.56
+0.10
+3rd Period	1.56
+0.30
+OT	0.22
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+27.20
+Total	28.22
+10.20
+1st Period	8.67
+9.80
+2nd Period	10.56
+6.10
+3rd Period	8.44
+1.10
+OT	0.56
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.85
+0.10
+1st Period	0.88
+0.13
+2nd Period	0.85
+0.02
+3rd Period	0.82
+0.27
+OT	0.60
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+4 - 37
+G/Att vs. GA/Att	6 - 27
+10.81
+PP % vs. PK %	77.78
+Goaltenders
+Goaltenders table
+Boston Goaltenders
+Name	S	SV	SV%	WL
+Joonas Korpisalo	86	79	0.919	1-1-1
+Jeremy Swayman	195	176	0.903	4-2-1
+
+Bos last 5 goaliee
+Boston Goaltender Stats
+Date	Score	W/L	GA	SA	SV%	SO	ML	O/U
+J.Korpisalo	Nov 16, 2024	BOS 2 - STL 3 (OT)	-	3	31	.903	-	L -177	u6.0
+J.Swayman	Nov 14, 2024	DAL 7 - BOS 2	L	7	38	.816	-	L +151	o6.0
+J.Swayman	Nov 12, 2024	STL 2 - BOS 3	W	2	22	.909	-	W -173	u5.5
+J.Swayman	Nov 9, 2024	BOS 2 - OTT 3 (OT)	-	3	34	.912	-	L -137	u6.0
+J.Korpisalo	Nov 7, 2024	BOS 4 - CAL 3 (OT)	W	3	37	.919	-	W -141	o6.0
+
+Bos last 10
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 16, '24	
+
+STL
+L 2 - 3 (OT)	L -177	u6.0	17	31	0-1	0-2
+Nov 14, '24	
+@
+
+DAL
+L 2 - 7	L +151	o6.0	25	38	0-2	0-2
+Nov 12, '24	
+@
+
+STL
+W 3 - 2	W -173	u5.5	30	22	0-4	2-3
+Nov 09, '24	
+
+OTT
+L 2 - 3 (OT)	L -137	u6.0	16	34	0-2	1-3
+Nov 07, '24	
+
+CAL
+W 4 - 3 (OT)	W -141	o6.0	38	37	0-2	1-3
+Nov 05, '24	
+@
+
+TOR
+L 0 - 4	L +108	u5.5	29	26	0-6	3-7
+Nov 03, '24	
+
+SEA
+W 2 - 0	W -163	u5.5	33	23	1-5	0-3
+Nov 02, '24	
+@
+
+PHI
+W 3 - 0	W -112	u6.5	31	20	0-2	0-3
+Oct 31, '24	
+@
+
+CAR
+L 2 - 8	L +149	o6.0	15	37	1-5	3-5
+Oct 29, '24	
+
+PHI
+L 0 - 2	L -149	u6.5	25	18	0-4	0-2
+
+cbj last 10
+Record
+Last 10
+Betting Terms
+Win / Loss
+3-6-1-0
+Over / Under
+6-4-0
+ML
+-$273
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 16, '24	
+@
+
+MON
+L 1 - 5	L +102	u6.5	26	30	0-4	1-4
+Nov 15, '24	
+
+PIT
+W 6 - 2	W +108	o6.5	39	23	1-5	1-4
+Nov 12, '24	
+@
+
+SEA
+L 2 - 5	L +132	o6.0	40	32	0-1	1-3
+Nov 10, '24	
+@
+
+ANA
+L 2 - 4	L -109	u6.5	40	29	1-2	0-2
+Nov 09, '24	
+@
+
+LA
+L 2 - 5	L +166	o6.5	26	22	1-3	1-4
+Nov 05, '24	
+@
+
+SJ
+L 1 - 2 (OT)	L -126	u6.5	50	27	0-3	0-4
+Nov 02, '24	
+@
+
+WAS
+L 2 - 7	L +227	o6.5	36	22	0-3	0-1
+Nov 01, '24	
+
+WIN
+L 2 - 6	L +140	o6.5	22	44	1-2	1-2
+Oct 30, '24	
+
+NYI
+W 2 - 0	W +113	u6.0	26	26	0-0	0-1
+Oct 28, '24	
+
+EDM
+W 6 - 1	W +206	o6.5	25	32	1-4	1-6
+
+bos season
+Regular Season
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+Nov 16	 STL	L 2-3 (OT)	L -177	U 6	J. Korpisalo	J. Binnington
+Nov 14	 @ DAL	L 2-7	L +151	O 6	J. Swayman	J. Oettinger
+Nov 12	 @ STL	W 3-2	W -173	U 5.5	J. Swayman	J. Binnington
+Nov 9	 OTT	L 2-3 (OT)	L -137	U 6	J. Swayman	L. Ullmark
+Nov 7	 CAL	W 4-3 (OT)	W -141	O 6	J. Korpisalo	D. Wolf
+Nov 5	 @ TOR	L 0-4	L +108	U 5.5	J. Swayman	A. Stolarz
+Nov 3	 SEA	W 2-0	W -163	U 5.5	J. Swayman	J. Daccord
+Nov 2	 @ PHI	W 3-0	W -112	U 6.5	J. Korpisalo	A. Kolosov
+Oct 31	 @ CAR	L 2-8	L +149	O 6	J. Swayman	P. Kochetkov
+Oct 29	 PHI	L 0-2	L -149	U 6.5	J. Korpisalo	S. Ersson
+Oct 26	 TOR	W 4-3 (OT)	W +106	O 6	J. Swayman	A. Stolarz
+Oct 24	 DAL	L 2-5	L -117	O 6	J. Swayman	C. DeSmith
+Oct 22	 @ NAS	L 0-4	L +126	U 6	J. Swayman	J. Saros
+Oct 19	 @ UTAH	L 1-2 (OT)	L -139	U 6	J. Swayman	C. Ingram
+Oct 16	 @ COL	W 5-3	W +118	O 6.5	J. Korpisalo	A. Georgiev
+Oct 14	 FLA	L 3-4	L -122	O 5.5	J. Swayman	S. Bobrovsky
+Oct 12	 LA	W 2-1 (OT)	W -159	U 5.5	J. Swayman	D. Kuemper
+Oct 10	 MON	W 6-4	W -292	O 6	J. Swayman	C. Primeau
+Oct 8	 @ FLA	L 4-6	L +145	O 5.5	J. Korpisalo	S. Bobrovsky
+
+cbj season
+Regular Season
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+Nov 16	 @ MON	L 1-5	L +102	U 6.5	D. Tarasov	S. Montembeault
+Nov 15	 PIT	W 6-2	W +108	O 6.5	E. Merzlikins	T. Jarry
+Nov 12	 @ SEA	L 2-5	L +132	O 6	E. Merzlikins	J. Daccord
+Nov 10	 @ ANA	L 2-4	L -109	U 6.5	D. Tarasov	J. Gibson
+Nov 9	 @ LA	L 2-5	L +166	O 6.5	E. Merzlikins	D. Rittich
+Nov 5	 @ SJ	L 1-2 (OT)	L -126	U 6.5	E. Merzlikins	V. Vanecek
+Nov 2	 @ WAS	L 2-7	L +227	O 6.5	D. Tarasov	L. Thompson
+Nov 1	 WIN	L 2-6	L +140	O 6.5	E. Merzlikins	E. Comrie
+Oct 30	 NYI	W 2-0	W +113	U 6	E. Merzlikins	S. Varlamov
+Oct 28	 EDM	W 6-1	W +206	O 6.5	E. Merzlikins	S. Skinner
+Oct 26	 @ NAS	L 3-4 (OT)	L +162	O 6.5	D. Tarasov	S. Wedgewood
+Oct 22	 TOR	W 6-2	W +164	O 6.5	D. Tarasov	D. Hildeby
+Oct 19	 MIN	L 1-3	L +154	U 6	D. Tarasov	F. Gustavsson
+Oct 17	 BUF	W 6-4	W +127	O 6.5	D. Tarasov	D. Levi
+Oct 15	 FLA	L 3-4	L +123	O 6	E. Merzlikins	S. Knight
+Oct 12	 @ COL	W 6-4	W +275	O 6.5	D. Tarasov	J. Annunen
+Oct 10	 @ MIN	L 2-3	L +232	U 6.5	E. Merzlikins	F. Gustavsson
