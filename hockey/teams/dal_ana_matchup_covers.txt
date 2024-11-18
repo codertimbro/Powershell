@@ -1,0 +1,696 @@
+Team Table
+Team	Record	ATS	O/U	Away	Home
+
+ANA
+6-8-2	10-6-0	4-10-2	2-3-2	4-5-0
+
+DAL
+11-5-0	8-8-0	5-9-2	4-4-0	7-1-0
+betmgm
+
+Switch books
+Game Odds
+Team	ML	Total	Puck Line
+
+ANA
++290	o6.0 -120	+1.5 +115
+
+DAL
+-375	u6.0 +100	-1.5 -135
+Head-To-Head
+Last 10
+Betting Terms
+Win / Loss
+9-1
+Over / Under
+2-7-1
+Head-To-Head
+Date	Home	Result	ML	O/U	HSOG	ASOG	HPP	APP
+Mar 08, '24	ANA	 6 - 2	DAL -304	o6.0	27	36	1-4	3-5
+Jan 25, '24	DAL	 4 - 3 (OT)	DAL -333	o6.5	44	21	0-2	0-0
+Oct 19, '23	ANA	 3 - 2	DAL -251	u6.0	29	24	0-4	2-5
+Feb 06, '23	DAL	 3 - 2 (SO)	DAL -375	u6.0	41	34	0-5	1-4
+Jan 04, '23	ANA	 2 - 0	ANA +170	u6.0	27	35	1-1	0-4
+Dec 01, '22	DAL	 5 - 0	DAL -321	u6.5	41	31	2-4	0-3
+Apr 29, '22	DAL	 4 - 2	DAL -231	P6.0	19	21	1-2	0-1
+Mar 31, '22	ANA	 3 - 2 (OT)	DAL -170	u5.5	23	35	0-3	1-1
+Mar 29, '22	ANA	 3 - 2	DAL -170	u5.5	28	32	0-1	0-3
+Jan 09, '20	ANA	 3 - 0	DAL -122	u5.0	27	27	0-2	2-3
+Goaltenders
+Last 5
+Betting Terms
+W/L
+2-3-0-0
+GAA
+3.80
+Save %
+.883
+Anaheim Goaltender Stats
+Date	Score	W/L	GA	SA	SV%	SO	ML	O/U
+J.Gibson	Nov 15, 2024	ANA 6 - DET 4	W	4	25	.840	-	W +132	o6.0
+L.Dostal	Nov 13, 2024	ANA 2 - VEG 3	L	3	39	.923	-	L +195	u6.5
+J.Gibson	Nov 10, 2024	ANA 4 - CLB 2	W	2	40	.950	-	W -101	u6.5
+L.Dostal	Nov 8, 2024	ANA 2 - MIN 5	L	5	31	.839	-	L +181	o5.5
+L.Dostal	Nov 5, 2024	ANA 1 - VAN 5	L	5	37	.865	-	L +213	p6.0
+Offense vs Defense
+Betting Terms
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.44
+Total	2.25
+0.69
+1st Period	0.50
+0.38
+2nd Period	0.88
+1.31
+3rd Period	0.88
+0.06
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+27.75
+Total	26.75
+9.00
+1st Period	8.94
+8.69
+2nd Period	7.94
+9.94
+3rd Period	9.75
+0.12
+OT	0.12
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.09
+Total	0.92
+0.08
+1st Period	0.94
+0.04
+2nd Period	0.89
+0.13
+3rd Period	0.91
+0.50
+OT	1.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+8 - 55
+G/Att vs. GA/Att	7 - 48
+14.55
+PP % vs. PK %	85.42
+Goaltenders
+Goaltenders table
+Anaheim Goaltenders
+Name	S	SV	SV%	WL
+Lukas Dostal	425	392	0.922	4-6-2
+John Gibson	65	59	0.908	2-0-0
+
+ana last 10 
+Record
+Last 10
+Betting Terms
+Win / Loss
+3-6-1-0
+Over / Under
+3-6-1
+ML
+-$259
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 15, '24	
+
+DET
+W 6 - 4	W +132	o6.0	29	25	2-4	3-4
+Nov 13, '24	
+
+VEG
+L 2 - 3	L +195	u6.5	24	39	0-3	1-3
+Nov 10, '24	
+
+CLB
+W 4 - 2	W -101	u6.5	30	40	0-2	1-2
+Nov 08, '24	
+
+MIN
+L 2 - 5	L +181	o5.5	35	31	0-6	1-2
+Nov 05, '24	
+
+VAN
+L 1 - 5	L +213	p6.0	22	37	1-4	1-5
+Nov 03, '24	
+
+CHI
+L 2 - 4	L -125	u6.5	40	29	1-5	2-2
+Oct 31, '24	
+@
+
+PIT
+L 1 - 2 (OT)	L +160	u6.5	23	45	0-2	0-3
+Oct 29, '24	
+@
+
+NYI
+W 3 - 1	W +209	u5.5	22	41	2-3	1-4
+Oct 27, '24	
+@
+
+NJ
+L 2 - 6	L +292	o6.5	26	34	0-2	1-1
+Oct 26, '24	
+@
+
+NYR
+L 1 - 2	L +245	u6.5	33	32	0-1	0-1
+
+ana olocation
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+1.86
+Total	1.75
+0.86
+1st Period	0.50
+0.14
+2nd Period	0.38
+0.86
+3rd Period	0.88
+0.00
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+25.14
+Total	27.50
+8.29
+1st Period	9.38
+7.29
+2nd Period	7.62
+9.43
+3rd Period	10.25
+0.14
+OT	0.25
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.07
+Total	0.94
+0.10
+1st Period	0.95
+0.02
+2nd Period	0.95
+0.09
+3rd Period	0.91
+0.00
+OT	1.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+2 - 17
+G/Att vs. GA/Att	2 - 20
+11.76
+PP % vs. PK %	90.00
+Goaltenders
+Goaltenders table
+Anaheim Goaltenders
+Name	S	SV	SV%	WL
+Lukas Dostal	197	188	0.954	2-1-2
+John Gibson	0	0	0.000	0-0-0
+
+ana last 10 
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.40
+Total	2.70
+0.70
+1st Period	0.80
+0.30
+2nd Period	0.80
+1.40
+3rd Period	1.10
+0.00
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+28.40
+Total	24.90
+8.60
+1st Period	9.10
+9.10
+2nd Period	7.10
+10.70
+3rd Period	8.70
+0.00
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.08
+Total	0.89
+0.08
+1st Period	0.91
+0.03
+2nd Period	0.89
+0.13
+3rd Period	0.87
+0.00
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+6 - 32
+G/Att vs. GA/Att	6 - 27
+18.75
+PP % vs. PK %	77.78
+Goaltenders
+Goaltenders table
+Anaheim Goaltenders
+Name	S	SV	SV%	WL
+Lukas Dostal	254	232	0.913	1-5-1
+John Gibson	65	59	0.908	2-0-0
+
+ana as underdog
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.33
+Total	4.00
+0.83
+1st Period	1.50
+0.33
+2nd Period	1.50
+1.08
+3rd Period	1.00
+0.08
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+25.33
+Total	25.00
+8.17
+1st Period	9.50
+8.00
+2nd Period	7.00
+9.00
+3rd Period	8.50
+0.17
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.09
+Total	0.84
+0.10
+1st Period	0.84
+0.04
+2nd Period	0.79
+0.12
+3rd Period	0.88
+0.50
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+5 - 37
+G/Att vs. GA/Att	3 - 9
+13.51
+PP % vs. PK %	66.67
+Goaltenders
+Goaltenders table
+Anaheim Goaltenders
+Name	S	SV	SV%	WL
+Lukas Dostal	338	310	0.917	2-5-2
+John Gibson	25	21	0.840	1-0-0
+
+
+dal last 10 
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 16, '24	
+@
+
+MIN
+W 2 - 1	W -148	u6.0	40	23	0-1	0-2
+Nov 14, '24	
+
+BOS
+W 7 - 2	W -168	o6.0	38	25	0-2	0-2
+Nov 11, '24	
+@
+
+PIT
+W 7 - 1	W -165	o6.5	40	21	2-4	0-1
+Nov 09, '24	
+@
+
+WIN
+L 1 - 4	L -104	u6.0	33	25	0-4	2-5
+Nov 07, '24	
+
+CHI
+W 3 - 1	W -330	u6.0	40	26	0-3	1-3
+Nov 02, '24	
+@
+
+FLA
+L 2 - 4	L -106	u6.5	25	24	1-4	1-4
+Nov 01, '24	
+
+FLA
+L 4 - 6	L +105	o6.0	36	28	0-3	1-2
+Oct 26, '24	
+
+CHI
+W 4 - 2	W -332	p6.0	30	24	1-3	0-3
+Oct 24, '24	
+@
+
+BOS
+W 5 - 2	W +106	o6.0	32	27	3-5	1-4
+Oct 22, '24	
+@
+
+BUF
+L 2 - 4	L -146	p6.0	30	24	0-3	0
+
+dal overall
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.38
+Total	3.12
+1.06
+1st Period	0.88
+1.25
+2nd Period	0.56
+1.06
+3rd Period	1.56
+0.00
+OT	0.12
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+31.25
+Total	34.88
+9.56
+1st Period	11.38
+10.69
+2nd Period	11.81
+10.88
+3rd Period	11.25
+0.06
+OT	0.44
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.91
+0.11
+1st Period	0.92
+0.12
+2nd Period	0.95
+0.10
+3rd Period	0.86
+0.00
+OT	0.71
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+9 - 50
+G/Att vs. GA/Att	15 - 45
+18.00
+PP % vs. PK %	66.67
+Goaltenders
+Goaltenders table
+Dallas Goaltenders
+Name	S	SV	SV%	WL
+Casey DeSmith	112	104	0.929	2-2-0
+Jake Oettinger	314	288	0.917	9-3-0
+
+dal location
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.62
+Total	2.57
+1.00
+1st Period	0.14
+1.25
+2nd Period	0.71
+1.38
+3rd Period	1.43
+0.00
+OT	0.29
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+32.00
+Total	37.57
+10.12
+1st Period	13.86
+11.75
+2nd Period	12.57
+9.88
+3rd Period	10.14
+0.12
+OT	1.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.93
+0.10
+1st Period	0.99
+0.11
+2nd Period	0.94
+0.14
+3rd Period	0.86
+0.00
+OT	0.71
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+2 - 21
+G/Att vs. GA/Att	4 - 21
+9.52
+PP % vs. PK %	80.95
+Goaltenders
+Goaltenders table
+Dallas Goaltenders
+Name	S	SV	SV%	WL
+Casey DeSmith	25	25	1.000	1-0-0
+Jake Oettinger	195	181	0.928	6-1-0
+
+
+dal last 10
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.70
+Total	3.40
+1.30
+1st Period	1.10
+1.10
+2nd Period	0.80
+1.30
+3rd Period	1.40
+0.00
+OT	0.10
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+34.40
+Total	35.30
+11.10
+1st Period	12.50
+11.40
+2nd Period	11.10
+11.80
+3rd Period	11.50
+0.00
+OT	0.20
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.90
+0.12
+1st Period	0.91
+0.10
+2nd Period	0.93
+0.11
+3rd Period	0.88
+0.00
+OT	0.50
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+7 - 32
+G/Att vs. GA/Att	11 - 27
+21.88
+PP % vs. PK %	59.26
+Goaltenders
+Goaltenders table
+Dallas Goaltenders
+Name	S	SV	SV%	WL
+Casey DeSmith	61	56	0.918	1-1-0
+Jake Oettinger	186	166	0.892	5-3-0
+
+dal favor
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.64
+Total	1.75
+1.21
+1st Period	0.75
+1.29
+2nd Period	0.25
+1.14
+3rd Period	0.75
+0.00
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+31.57
+Total	31.75
+10.00
+1st Period	10.50
+10.86
+2nd Period	10.50
+10.57
+3rd Period	10.75
+0.07
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.12
+Total	0.94
+0.12
+1st Period	0.93
+0.12
+2nd Period	0.98
+0.11
+3rd Period	0.93
+0.00
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+8 - 42
+G/Att vs. GA/Att	4 - 9
+19.05
+PP % vs. PK %	55.56
+Goaltenders
+Goaltenders table
+Dallas Goaltenders
+Name	S	SV	SV%	WL
+Casey DeSmith	78	73	0.936	2-1-0
+Jake Oettinger	299	277	0.926	9-2-0
+
+dal seasaon
+Nov 16	 @ MIN	W 2-1	W -148	U 6	J. Oettinger	F. Gustavsson
+Nov 14	 BOS	W 7-2	W -168	O 6	J. Oettinger	J. Swayman
+Nov 11	 @ PIT	W 7-1	W -165	O 6.5	J. Oettinger	J. Blomqvist
+Nov 9	 @ WIN	L 1-4	L -104	U 6	J. Oettinger	C. Hellebuyck
+Nov 7	 CHI	W 3-1	W -330	U 6	J. Oettinger	A. Soderblom
+Nov 2	 @ FLA	L 2-4	L -106	U 6.5	C. DeSmith	S. Knight
+Nov 1	 FLA	L 4-6	L +105	O 6	J. Oettinger	S. Bobrovsky
+Oct 26	 CHI	W 4-2	W -332	P 6	J. Oettinger	P. Mrazek
+Oct 24	 @ BOS	W 5-2	W +106	O 6	C. DeSmith	J. Swayman
+Oct 22	 @ BUF	L 2-4	L -146	P 6	J. Oettinger	U. Luukkonen
+Oct 19	 EDM	W 4-1	W +104	U 6.5	J. Oettinger	S. Skinner
+Oct 17	 @ WAS	L 2-3	L -148	U 5.5	C. DeSmith	C. Lindgren
+Oct 15	 SJ	W 3-2 (SO)	W -398	U 6	J. Oettinger	M. Blackwood
+Oct 13	 SEA	W 2-0	W -170	U 6	C. DeSmith	P. Grubauer
+Oct 12	 NYI	W 3-0	W -180	U 5.5	J. Oettinger	S. Varlamov
+Oct 10	 @ NAS	W 4-3	W -127	O 6.5	J. Oettinger	S. Wedgewood
+
+ana season
+
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+Nov 15	 DET	W 6-4	W +132	O 6	J. Gibson	A. Lyon
+Nov 13	 VEG	L 2-3	L +195	U 6.5	J. Reimer	A. Hill
+Nov 13	 VEG	L 2-3	L +195	U 6.5	L. Dostal	A. Hill
+Nov 10	 CLB	W 4-2	W -101	U 6.5	J. Gibson	D. Tarasov
+Nov 8	 MIN	L 2-5	L +181	O 5.5	L. Dostal	F. Gustavsson
+Nov 5	 VAN	L 1-5	L +213	P 6	L. Dostal	K. Lankinen
+Nov 3	 CHI	L 2-4	L -125	U 6.5	L. Dostal	A. Soderblom
+Oct 31	 @ PIT	L 1-2 (OT)	L +160	U 6.5	L. Dostal	A. Nedeljkovic
+Oct 29	 @ NYI	W 3-1	W +209	U 5.5	L. Dostal	I. Sorokin
+Oct 27	 @ NJ	L 2-6	L +292	O 6.5	J. Reimer	J. Markstrom
+Oct 26	 @ NYR	L 1-2	L +245	U 6.5	L. Dostal	J. Quick
+Oct 22	 SJ	W 3-1	W -147	U 6	L. Dostal	M. Blackwood
+Oct 20	 LA	L 1-4	L +154	U 6	L. Dostal	D. Rittich
+Oct 18	 @ COL	L 3-4 (OT)	L +236	P 7	L. Dostal	A. Georgiev
+Oct 16	 UTAH	W 5-4 (OT)	W +134	O 6	L. Dostal	C. Ingram
+Oct 13	 @ VEG	L 1-3	L +247	U 6.5	J. Reimer	I. Samsonov
+Oct 12	 @ SJ	W 2-0	W -134	U 6.5	L. Dostal	V. Vanecek
