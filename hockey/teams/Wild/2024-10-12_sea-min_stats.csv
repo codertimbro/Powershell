@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Wild,Kraken,away,D,Zach Bogosian D,13:49,0,0,0,3,1,2,0,0,0/0
+Wild,Kraken,away,D,Jonas Brodin D,25:57,0,0,0,1,0,2,0,0,0/0
+Wild,Kraken,away,D,Brock Faber D,28:20,0,1,1,2,0,0,0,1,0/0
+Wild,Kraken,away,D,Jon Merrill D,13:49,0,0,1,1,0,0,0,1,0/0
+Wild,Kraken,away,D,Jake Middleton D,20:13,0,0,-1,0,2,0,0,0,0/0
+Wild,Kraken,away,D,Jared Spurgeon D,19:33,0,1,-1,0,3,0,1,0,0/0
+Wild,Kraken,away,D,Zach Bogosian D,13:49,0,0,0,3,1,2,0,0,0/0
+Wild,Kraken,away,D,Jonas Brodin D,25:57,0,0,0,1,0,2,0,0,0/0
+Wild,Kraken,away,D,Brock Faber D,28:20,0,1,1,2,0,0,0,1,0/0
+Wild,Kraken,away,D,Jon Merrill D,13:49,0,0,1,1,0,0,0,1,0/0
+Wild,Kraken,away,D,Jake Middleton D,20:13,0,0,-1,0,2,0,0,0,0/0
+Wild,Kraken,away,D,Jared Spurgeon D,19:33,0,1,-1,0,3,0,1,0,0/0
+Wild,Kraken,away,F,Matt Boldy L,23:38,1,1,0,6,1,0,0,0,1/2
+Wild,Kraken,away,F,Joel Eriksson Ek C,11:44,0,0,0,1,0,0,0,0,5/12
+Wild,Kraken,away,F,Marcus Foligno L,13:28,0,0,-1,0,1,0,0,1,0/0
+Wild,Kraken,away,F,Frederick Gaudreau C,11:03,0,0,-1,0,0,0,0,0,3/4
+Wild,Kraken,away,F,Ryan Hartman R,16:13,1,0,-1,6,0,0,0,1,5/15
+Wild,Kraken,away,F,Marcus Johansson L,15:53,0,0,0,2,0,0,0,1,0/0
+Wild,Kraken,away,F,Kirill Kaprizov L,24:16,1,2,2,4,0,0,0,5,0/0
+Wild,Kraken,away,F,Marat Khusnutdinov C,12:08,0,0,-1,0,0,0,0,0,9/13
+Wild,Kraken,away,F,Jakub Lauko C,10:03,0,0,-1,2,0,0,0,0,0/1
+Wild,Kraken,away,F,Marco Rossi C,16:44,0,2,2,4,2,0,0,0,6/14
+Wild,Kraken,away,F,Yakov Trenin C,15:45,0,0,-1,1,0,0,0,0,0/0
+Wild,Kraken,away,F,Mats Zuccarello R,19:50,1,1,2,5,0,0,1,1,4/4
+Wild,Kraken,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Kraken,away,F,Zach Bogosian D,13:49,0,0,0,3,1,2,0,0,0/0
+Wild,Kraken,away,F,Jonas Brodin D,25:57,0,0,0,1,0,2,0,0,0/0
+Wild,Kraken,away,F,Brock Faber D,28:20,0,1,1,2,0,0,0,1,0/0
+Wild,Kraken,away,F,Jon Merrill D,13:49,0,0,1,1,0,0,0,1,0/0
+Wild,Kraken,away,F,Jake Middleton D,20:13,0,0,-1,0,2,0,0,0,0/0
+Wild,Kraken,away,F,Jared Spurgeon D,19:33,0,1,-1,0,3,0,1,0,0/0
+Wild,Kraken,away,F,Matt Boldy L,23:38,1,1,0,6,1,0,0,0,1/2
+Wild,Kraken,away,F,Joel Eriksson Ek C,11:44,0,0,0,1,0,0,0,0,5/12
+Wild,Kraken,away,F,Marcus Foligno L,13:28,0,0,-1,0,1,0,0,1,0/0
+Wild,Kraken,away,F,Frederick Gaudreau C,11:03,0,0,-1,0,0,0,0,0,3/4
+Wild,Kraken,away,F,Ryan Hartman R,16:13,1,0,-1,6,0,0,0,1,5/15
+Wild,Kraken,away,F,Marcus Johansson L,15:53,0,0,0,2,0,0,0,1,0/0
+Wild,Kraken,away,F,Kirill Kaprizov L,24:16,1,2,2,4,0,0,0,5,0/0
+Wild,Kraken,away,F,Marat Khusnutdinov C,12:08,0,0,-1,0,0,0,0,0,9/13
+Wild,Kraken,away,F,Jakub Lauko C,10:03,0,0,-1,2,0,0,0,0,0/1
+Wild,Kraken,away,F,Marco Rossi C,16:44,0,2,2,4,2,0,0,0,6/14
+Wild,Kraken,away,F,Yakov Trenin C,15:45,0,0,-1,1,0,0,0,0,0/0
+Wild,Kraken,away,F,Mats Zuccarello R,19:50,1,1,2,5,0,0,1,1,4/4
+Wild,Kraken,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Kraken,away,F,Zach Bogosian D,13:49,0,0,0,3,1,2,0,0,0/0
+Wild,Kraken,away,F,Jonas Brodin D,25:57,0,0,0,1,0,2,0,0,0/0
+Wild,Kraken,away,F,Brock Faber D,28:20,0,1,1,2,0,0,0,1,0/0
+Wild,Kraken,away,F,Jon Merrill D,13:49,0,0,1,1,0,0,0,1,0/0
+Wild,Kraken,away,F,Jake Middleton D,20:13,0,0,-1,0,2,0,0,0,0/0
+Wild,Kraken,away,F,Jared Spurgeon D,19:33,0,1,-1,0,3,0,1,0,0/0
