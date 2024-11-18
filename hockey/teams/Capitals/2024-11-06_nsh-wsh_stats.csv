@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Capitals,Predators,away,D,Alexander Alexeyev D,10:58,0,0,0,0,1,0,0,0,0/0
+Capitals,Predators,away,D,John Carlson D,23:08,0,0,0,3,1,0,0,3,0/0
+Capitals,Predators,away,D,Martin Fehervary D,20:09,0,1,0,2,3,0,0,1,0/0
+Capitals,Predators,away,D,Matt Roy D,20:07,0,1,1,3,3,2,0,3,0/0
+Capitals,Predators,away,D,Rasmus Sandin D,23:04,0,0,1,0,3,0,0,1,0/0
+Capitals,Predators,away,D,Trevor van Riemsdyk D,14:28,0,0,0,1,1,0,1,2,0/0
+Capitals,Predators,away,D,Alexander Alexeyev D,10:58,0,0,0,0,1,0,0,0,0/0
+Capitals,Predators,away,D,John Carlson D,23:08,0,0,0,3,1,0,0,3,0/0
+Capitals,Predators,away,D,Martin Fehervary D,20:09,0,1,0,2,3,0,0,1,0/0
+Capitals,Predators,away,D,Matt Roy D,20:07,0,1,1,3,3,2,0,3,0/0
+Capitals,Predators,away,D,Rasmus Sandin D,23:04,0,0,1,0,3,0,0,1,0/0
+Capitals,Predators,away,D,Trevor van Riemsdyk D,14:28,0,0,0,1,1,0,1,2,0/0
+Capitals,Predators,away,F,Nic Dowd C,17:53,0,0,-1,2,1,0,1,2,10/20
+Capitals,Predators,away,F,Pierre-Luc Dubois L,14:59,0,1,0,2,2,0,1,0,5/16
+Capitals,Predators,away,F,Brandon Duhaime R,16:24,0,0,-1,0,2,0,0,1,0/0
+Capitals,Predators,away,F,Hendrix Lapierre C,12:07,0,0,0,3,0,0,0,0,4/9
+Capitals,Predators,away,F,Andrew Mangiapane L,14:33,0,0,0,4,0,2,1,0,0/0
+Capitals,Predators,away,F,Connor McMichael C,17:02,1,0,0,6,0,0,0,0,0/1
+Capitals,Predators,away,F,Sonny Milano L,10:00,0,0,0,2,0,0,0,0,0/0
+Capitals,Predators,away,F,Alex Ovechkin L,19:12,1,1,2,4,1,0,2,2,0/0
+Capitals,Predators,away,F,Aliaksei Protas C,11:40,1,0,2,2,0,0,0,0,0/0
+Capitals,Predators,away,F,Taylor Raddysh R,15:45,0,0,-1,1,1,0,0,2,0/0
+Capitals,Predators,away,F,Dylan Strome C,17:03,0,2,2,0,0,0,0,1,11/17
+Capitals,Predators,away,F,Tom Wilson R,17:28,0,0,0,1,1,0,0,0,0/0
+Capitals,Predators,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexander
+Capitals,Predators,away,F,Alexander Alexeyev D,10:58,0,0,0,0,1,0,0,0,0/0
+Capitals,Predators,away,F,John Carlson D,23:08,0,0,0,3,1,0,0,3,0/0
+Capitals,Predators,away,F,Martin Fehervary D,20:09,0,1,0,2,3,0,0,1,0/0
+Capitals,Predators,away,F,Matt Roy D,20:07,0,1,1,3,3,2,0,3,0/0
+Capitals,Predators,away,F,Rasmus Sandin D,23:04,0,0,1,0,3,0,0,1,0/0
+Capitals,Predators,away,F,Trevor van Riemsdyk D,14:28,0,0,0,1,1,0,1,2,0/0
+Capitals,Predators,away,F,Nic Dowd C,17:53,0,0,-1,2,1,0,1,2,10/20
+Capitals,Predators,away,F,Pierre-Luc Dubois L,14:59,0,1,0,2,2,0,1,0,5/16
+Capitals,Predators,away,F,Brandon Duhaime R,16:24,0,0,-1,0,2,0,0,1,0/0
+Capitals,Predators,away,F,Hendrix Lapierre C,12:07,0,0,0,3,0,0,0,0,4/9
+Capitals,Predators,away,F,Andrew Mangiapane L,14:33,0,0,0,4,0,2,1,0,0/0
+Capitals,Predators,away,F,Connor McMichael C,17:02,1,0,0,6,0,0,0,0,0/1
+Capitals,Predators,away,F,Sonny Milano L,10:00,0,0,0,2,0,0,0,0,0/0
+Capitals,Predators,away,F,Alex Ovechkin L,19:12,1,1,2,4,1,0,2,2,0/0
+Capitals,Predators,away,F,Aliaksei Protas C,11:40,1,0,2,2,0,0,0,0,0/0
+Capitals,Predators,away,F,Taylor Raddysh R,15:45,0,0,-1,1,1,0,0,2,0/0
+Capitals,Predators,away,F,Dylan Strome C,17:03,0,2,2,0,0,0,0,1,11/17
+Capitals,Predators,away,F,Tom Wilson R,17:28,0,0,0,1,1,0,0,0,0/0
+Capitals,Predators,away,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexander
+Capitals,Predators,away,F,Alexander Alexeyev D,10:58,0,0,0,0,1,0,0,0,0/0
+Capitals,Predators,away,F,John Carlson D,23:08,0,0,0,3,1,0,0,3,0/0
+Capitals,Predators,away,F,Martin Fehervary D,20:09,0,1,0,2,3,0,0,1,0/0
+Capitals,Predators,away,F,Matt Roy D,20:07,0,1,1,3,3,2,0,3,0/0
+Capitals,Predators,away,F,Rasmus Sandin D,23:04,0,0,1,0,3,0,0,1,0/0
+Capitals,Predators,away,F,Trevor van Riemsdyk D,14:28,0,0,0,1,1,0,1,2,0/0
