@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Penguins,Blue Jackets,home,D,Ryan Graves D,14:32,0,0,-3,1,3,0,0,2,0/0
+Penguins,Blue Jackets,home,D,Matt Grzelcyk D,17:30,0,0,0,0,2,0,0,0,0/0
+Penguins,Blue Jackets,home,D,Erik Karlsson D,23:43,0,0,-1,2,0,0,0,1,0/0
+Penguins,Blue Jackets,home,D,Marcus Pettersson D,23:13,0,0,0,1,2,2,2,2,0/0
+Penguins,Blue Jackets,home,D,Ryan Shea D,15:10,0,0,-3,1,1,0,1,0,0/0
+Penguins,Blue Jackets,home,D,Jack St. Ivany D,18:40,0,0,0,1,4,2,0,0,0/0
+Penguins,Blue Jackets,home,D,Ryan Graves D,14:32,0,0,-3,1,3,0,0,2,0/0
+Penguins,Blue Jackets,home,D,Matt Grzelcyk D,17:30,0,0,0,0,2,0,0,0,0/0
+Penguins,Blue Jackets,home,D,Erik Karlsson D,23:43,0,0,-1,2,0,0,0,1,0/0
+Penguins,Blue Jackets,home,D,Marcus Pettersson D,23:13,0,0,0,1,2,2,2,2,0/0
+Penguins,Blue Jackets,home,D,Ryan Shea D,15:10,0,0,-3,1,1,0,1,0,0/0
+Penguins,Blue Jackets,home,D,Jack St. Ivany D,18:40,0,0,0,1,4,2,0,0,0/0
+Penguins,Blue Jackets,home,F,Noel Acciari C,14:34,0,0,-1,0,2,2,0,1,7/10
+Penguins,Blue Jackets,home,F,Anthony Beauvillier L,13:30,1,1,1,2,0,0,0,3,0/0
+Penguins,Blue Jackets,home,F,Michael Bunting L,13:00,1,0,-3,3,0,0,0,0,1/1
+Penguins,Blue Jackets,home,F,Sidney Crosby C,20:45,0,1,-1,3,1,0,1,0,11/21
+Penguins,Blue Jackets,home,F,Evgeni Malkin C,18:33,0,0,-4,0,2,2,0,0,4/12
+Penguins,Blue Jackets,home,F,Matt Nieto L,13:26,0,0,-1,1,0,0,0,1,1/2
+Penguins,Blue Jackets,home,F,Drew O'Connor L,15:59,0,1,0,2,0,2,0,0,4/13
+Penguins,Blue Jackets,home,F,Sam Poulin R,09:22,0,0,0,1,0,0,0,2,0/0
+Penguins,Blue Jackets,home,F,Jesse Puljujarvi R,11:50,0,0,0,2,0,0,0,0,0/0
+Penguins,Blue Jackets,home,F,Valtteri Puustinen R,09:33,0,0,-1,1,0,0,0,0,0/0
+Penguins,Blue Jackets,home,F,Rickard Rakell R,20:26,0,0,-1,1,4,0,0,2,0/0
+Penguins,Blue Jackets,home,F,Bryan Rust R,19:29,0,0,-3,1,1,0,1,0,0/0
+Penguins,Blue Jackets,home,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Blue Jackets,home,F,Ryan Graves D,14:32,0,0,-3,1,3,0,0,2,0/0
+Penguins,Blue Jackets,home,F,Matt Grzelcyk D,17:30,0,0,0,0,2,0,0,0,0/0
+Penguins,Blue Jackets,home,F,Erik Karlsson D,23:43,0,0,-1,2,0,0,0,1,0/0
+Penguins,Blue Jackets,home,F,Marcus Pettersson D,23:13,0,0,0,1,2,2,2,2,0/0
+Penguins,Blue Jackets,home,F,Ryan Shea D,15:10,0,0,-3,1,1,0,1,0,0/0
+Penguins,Blue Jackets,home,F,Jack St. Ivany D,18:40,0,0,0,1,4,2,0,0,0/0
+Penguins,Blue Jackets,home,F,Noel Acciari C,14:34,0,0,-1,0,2,2,0,1,7/10
+Penguins,Blue Jackets,home,F,Anthony Beauvillier L,13:30,1,1,1,2,0,0,0,3,0/0
+Penguins,Blue Jackets,home,F,Michael Bunting L,13:00,1,0,-3,3,0,0,0,0,1/1
+Penguins,Blue Jackets,home,F,Sidney Crosby C,20:45,0,1,-1,3,1,0,1,0,11/21
+Penguins,Blue Jackets,home,F,Evgeni Malkin C,18:33,0,0,-4,0,2,2,0,0,4/12
+Penguins,Blue Jackets,home,F,Matt Nieto L,13:26,0,0,-1,1,0,0,0,1,1/2
+Penguins,Blue Jackets,home,F,Drew O'Connor L,15:59,0,1,0,2,0,2,0,0,4/13
+Penguins,Blue Jackets,home,F,Sam Poulin R,09:22,0,0,0,1,0,0,0,2,0/0
+Penguins,Blue Jackets,home,F,Jesse Puljujarvi R,11:50,0,0,0,2,0,0,0,0,0/0
+Penguins,Blue Jackets,home,F,Valtteri Puustinen R,09:33,0,0,-1,1,0,0,0,0,0/0
+Penguins,Blue Jackets,home,F,Rickard Rakell R,20:26,0,0,-1,1,4,0,0,2,0/0
+Penguins,Blue Jackets,home,F,Bryan Rust R,19:29,0,0,-3,1,1,0,1,0,0/0
+Penguins,Blue Jackets,home,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Blue Jackets,home,F,Ryan Graves D,14:32,0,0,-3,1,3,0,0,2,0/0
+Penguins,Blue Jackets,home,F,Matt Grzelcyk D,17:30,0,0,0,0,2,0,0,0,0/0
+Penguins,Blue Jackets,home,F,Erik Karlsson D,23:43,0,0,-1,2,0,0,0,1,0/0
+Penguins,Blue Jackets,home,F,Marcus Pettersson D,23:13,0,0,0,1,2,2,2,2,0/0
+Penguins,Blue Jackets,home,F,Ryan Shea D,15:10,0,0,-3,1,1,0,1,0,0/0
+Penguins,Blue Jackets,home,F,Jack St. Ivany D,18:40,0,0,0,1,4,2,0,0,0/0
