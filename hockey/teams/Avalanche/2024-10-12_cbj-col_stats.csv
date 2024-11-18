@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Avalanche,Blue Jackets,away,D,Samuel Girard D,19:22,0,0,-2,0,0,0,3,0,0/0
+Avalanche,Blue Jackets,away,D,Cale Makar D,23:33,0,2,0,1,0,0,0,1,0/0
+Avalanche,Blue Jackets,away,D,Sam Malinski D,16:45,0,0,-1,1,0,0,0,2,0/0
+Avalanche,Blue Jackets,away,D,Josh Manson D,16:46,0,0,-2,1,0,2,0,1,0/0
+Avalanche,Blue Jackets,away,D,Devon Toews D,21:57,0,0,-1,2,3,0,0,0,0/0
+Avalanche,Blue Jackets,away,D,Calvin de Haan D,15:35,0,1,-1,2,4,0,0,0,0/0
+Avalanche,Blue Jackets,away,D,Samuel Girard D,19:22,0,0,-2,0,0,0,3,0,0/0
+Avalanche,Blue Jackets,away,D,Cale Makar D,23:33,0,2,0,1,0,0,0,1,0/0
+Avalanche,Blue Jackets,away,D,Sam Malinski D,16:45,0,0,-1,1,0,0,0,2,0/0
+Avalanche,Blue Jackets,away,D,Josh Manson D,16:46,0,0,-2,1,0,2,0,1,0/0
+Avalanche,Blue Jackets,away,D,Devon Toews D,21:57,0,0,-1,2,3,0,0,0,0/0
+Avalanche,Blue Jackets,away,D,Calvin de Haan D,15:35,0,1,-1,2,4,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Ross Colton C,18:48,1,1,-1,3,1,0,0,1,1/2
+Avalanche,Blue Jackets,away,F,Ivan Ivan C,09:41,0,1,-1,1,0,0,0,0,1/4
+Avalanche,Blue Jackets,away,F,Parker Kelly C,12:12,0,1,-1,1,0,0,1,1,9/13
+Avalanche,Blue Jackets,away,F,Joel Kiviranta L,09:09,0,0,-1,0,0,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Nikolai Kovalenko R,13:50,0,0,0,1,0,0,1,1,0/0
+Avalanche,Blue Jackets,away,F,Nathan MacKinnon C,23:23,1,1,1,3,0,10,2,0,10/16
+Avalanche,Blue Jackets,away,F,Casey Mittelstadt C,22:35,1,0,-1,2,4,2,0,2,7/16
+Avalanche,Blue Jackets,away,F,Logan O'Connor R,16:04,0,0,-1,1,1,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Mikko Rantanen R,24:04,0,1,1,3,1,2,2,0,3/5
+Avalanche,Blue Jackets,away,F,Calum Ritchie C,15:10,0,0,-1,4,2,0,1,1,2/3
+Avalanche,Blue Jackets,away,F,Chris Wagner R,06:26,0,0,-1,1,0,2,0,0,3/4
+Avalanche,Blue Jackets,away,F,Miles Wood L,12:24,1,0,-1,3,1,0,0,1,0/1
+Avalanche,Blue Jackets,away,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Blue Jackets,away,F,Samuel Girard D,19:22,0,0,-2,0,0,0,3,0,0/0
+Avalanche,Blue Jackets,away,F,Cale Makar D,23:33,0,2,0,1,0,0,0,1,0/0
+Avalanche,Blue Jackets,away,F,Sam Malinski D,16:45,0,0,-1,1,0,0,0,2,0/0
+Avalanche,Blue Jackets,away,F,Josh Manson D,16:46,0,0,-2,1,0,2,0,1,0/0
+Avalanche,Blue Jackets,away,F,Devon Toews D,21:57,0,0,-1,2,3,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Calvin de Haan D,15:35,0,1,-1,2,4,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Ross Colton C,18:48,1,1,-1,3,1,0,0,1,1/2
+Avalanche,Blue Jackets,away,F,Ivan Ivan C,09:41,0,1,-1,1,0,0,0,0,1/4
+Avalanche,Blue Jackets,away,F,Parker Kelly C,12:12,0,1,-1,1,0,0,1,1,9/13
+Avalanche,Blue Jackets,away,F,Joel Kiviranta L,09:09,0,0,-1,0,0,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Nikolai Kovalenko R,13:50,0,0,0,1,0,0,1,1,0/0
+Avalanche,Blue Jackets,away,F,Nathan MacKinnon C,23:23,1,1,1,3,0,10,2,0,10/16
+Avalanche,Blue Jackets,away,F,Casey Mittelstadt C,22:35,1,0,-1,2,4,2,0,2,7/16
+Avalanche,Blue Jackets,away,F,Logan O'Connor R,16:04,0,0,-1,1,1,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Mikko Rantanen R,24:04,0,1,1,3,1,2,2,0,3/5
+Avalanche,Blue Jackets,away,F,Calum Ritchie C,15:10,0,0,-1,4,2,0,1,1,2/3
+Avalanche,Blue Jackets,away,F,Chris Wagner R,06:26,0,0,-1,1,0,2,0,0,3/4
+Avalanche,Blue Jackets,away,F,Miles Wood L,12:24,1,0,-1,3,1,0,0,1,0/1
+Avalanche,Blue Jackets,away,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Blue Jackets,away,F,Samuel Girard D,19:22,0,0,-2,0,0,0,3,0,0/0
+Avalanche,Blue Jackets,away,F,Cale Makar D,23:33,0,2,0,1,0,0,0,1,0/0
+Avalanche,Blue Jackets,away,F,Sam Malinski D,16:45,0,0,-1,1,0,0,0,2,0/0
+Avalanche,Blue Jackets,away,F,Josh Manson D,16:46,0,0,-2,1,0,2,0,1,0/0
+Avalanche,Blue Jackets,away,F,Devon Toews D,21:57,0,0,-1,2,3,0,0,0,0/0
+Avalanche,Blue Jackets,away,F,Calvin de Haan D,15:35,0,1,-1,2,4,0,0,0,0/0
