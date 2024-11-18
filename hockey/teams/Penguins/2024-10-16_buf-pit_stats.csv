@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Penguins,Sabres,away,D,Ryan Graves D,13:27,0,0,1,1,0,0,2,3,0/0
+Penguins,Sabres,away,D,Matt Grzelcyk D,20:55,0,0,0,2,2,2,0,0,0/0
+Penguins,Sabres,away,D,Erik Karlsson D,26:37,0,1,-1,2,4,0,1,3,0/0
+Penguins,Sabres,away,D,Kris Letang D,23:41,0,0,-1,2,1,0,0,1,0/0
+Penguins,Sabres,away,D,Marcus Pettersson D,21:29,0,0,-2,1,2,2,0,0,0/0
+Penguins,Sabres,away,D,Jack St. Ivany D,14:42,0,0,0,2,0,0,1,0,0/0
+Penguins,Sabres,away,D,Ryan Graves D,13:27,0,0,1,1,0,0,2,3,0/0
+Penguins,Sabres,away,D,Matt Grzelcyk D,20:55,0,0,0,2,2,2,0,0,0/0
+Penguins,Sabres,away,D,Erik Karlsson D,26:37,0,1,-1,2,4,0,1,3,0/0
+Penguins,Sabres,away,D,Kris Letang D,23:41,0,0,-1,2,1,0,0,1,0/0
+Penguins,Sabres,away,D,Marcus Pettersson D,21:29,0,0,-2,1,2,2,0,0,0/0
+Penguins,Sabres,away,D,Jack St. Ivany D,14:42,0,0,0,2,0,0,1,0,0/0
+Penguins,Sabres,away,F,Noel Acciari C,10:14,0,1,1,2,0,0,1,0,2/3
+Penguins,Sabres,away,F,Anthony Beauvillier L,13:09,0,0,-2,3,0,0,0,1,0/0
+Penguins,Sabres,away,F,Michael Bunting L,16:17,0,0,-1,2,0,0,0,4,1/1
+Penguins,Sabres,away,F,Sidney Crosby C,22:02,1,2,0,3,1,0,1,3,21/31
+Penguins,Sabres,away,F,Lars Eller C,13:58,0,1,-1,1,0,0,1,1,6/11
+Penguins,Sabres,away,F,Cody Glass C,08:18,0,0,0,1,0,0,1,0,0/4
+Penguins,Sabres,away,F,Kevin Hayes R,10:09,0,0,0,1,0,0,0,0,3/3
+Penguins,Sabres,away,F,Evgeni Malkin C,22:51,1,3,1,7,2,0,2,1,8/12
+Penguins,Sabres,away,F,Drew O'Connor L,13:06,1,1,0,1,1,0,0,0,0/0
+Penguins,Sabres,away,F,Jesse Puljujarvi R,13:22,1,0,-1,3,1,0,1,0,0/0
+Penguins,Sabres,away,F,Rickard Rakell R,17:32,1,0,0,3,0,0,0,1,0/1
+Penguins,Sabres,away,F,Bryan Rust R,21:05,1,1,0,6,0,0,0,3,0/0
+Penguins,Sabres,away,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Sabres,away,F,Ryan Graves D,13:27,0,0,1,1,0,0,2,3,0/0
+Penguins,Sabres,away,F,Matt Grzelcyk D,20:55,0,0,0,2,2,2,0,0,0/0
+Penguins,Sabres,away,F,Erik Karlsson D,26:37,0,1,-1,2,4,0,1,3,0/0
+Penguins,Sabres,away,F,Kris Letang D,23:41,0,0,-1,2,1,0,0,1,0/0
+Penguins,Sabres,away,F,Marcus Pettersson D,21:29,0,0,-2,1,2,2,0,0,0/0
+Penguins,Sabres,away,F,Jack St. Ivany D,14:42,0,0,0,2,0,0,1,0,0/0
+Penguins,Sabres,away,F,Noel Acciari C,10:14,0,1,1,2,0,0,1,0,2/3
+Penguins,Sabres,away,F,Anthony Beauvillier L,13:09,0,0,-2,3,0,0,0,1,0/0
+Penguins,Sabres,away,F,Michael Bunting L,16:17,0,0,-1,2,0,0,0,4,1/1
+Penguins,Sabres,away,F,Sidney Crosby C,22:02,1,2,0,3,1,0,1,3,21/31
+Penguins,Sabres,away,F,Lars Eller C,13:58,0,1,-1,1,0,0,1,1,6/11
+Penguins,Sabres,away,F,Cody Glass C,08:18,0,0,0,1,0,0,1,0,0/4
+Penguins,Sabres,away,F,Kevin Hayes R,10:09,0,0,0,1,0,0,0,0,3/3
+Penguins,Sabres,away,F,Evgeni Malkin C,22:51,1,3,1,7,2,0,2,1,8/12
+Penguins,Sabres,away,F,Drew O'Connor L,13:06,1,1,0,1,1,0,0,0,0/0
+Penguins,Sabres,away,F,Jesse Puljujarvi R,13:22,1,0,-1,3,1,0,1,0,0/0
+Penguins,Sabres,away,F,Rickard Rakell R,17:32,1,0,0,3,0,0,0,1,0/1
+Penguins,Sabres,away,F,Bryan Rust R,21:05,1,1,0,6,0,0,0,3,0/0
+Penguins,Sabres,away,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Sabres,away,F,Ryan Graves D,13:27,0,0,1,1,0,0,2,3,0/0
+Penguins,Sabres,away,F,Matt Grzelcyk D,20:55,0,0,0,2,2,2,0,0,0/0
+Penguins,Sabres,away,F,Erik Karlsson D,26:37,0,1,-1,2,4,0,1,3,0/0
+Penguins,Sabres,away,F,Kris Letang D,23:41,0,0,-1,2,1,0,0,1,0/0
+Penguins,Sabres,away,F,Marcus Pettersson D,21:29,0,0,-2,1,2,2,0,0,0/0
+Penguins,Sabres,away,F,Jack St. Ivany D,14:42,0,0,0,2,0,0,1,0,0/0
