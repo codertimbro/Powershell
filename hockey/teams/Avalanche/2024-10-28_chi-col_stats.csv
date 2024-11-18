@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Avalanche,Blackhawks,away,D,Samuel Girard D,20:19,0,0,-1,1,0,2,0,3,0/0
+Avalanche,Blackhawks,away,D,Cale Makar D,26:17,0,1,-4,4,0,0,1,1,0/0
+Avalanche,Blackhawks,away,D,Sam Malinski D,13:58,0,1,1,2,1,0,1,1,0/0
+Avalanche,Blackhawks,away,D,Josh Manson D,15:24,0,0,0,0,0,0,2,2,0/0
+Avalanche,Blackhawks,away,D,Devon Toews D,22:10,0,0,-1,1,1,0,1,1,0/0
+Avalanche,Blackhawks,away,D,Calvin de Haan D,16:26,0,0,1,2,1,2,0,1,0/0
+Avalanche,Blackhawks,away,D,Samuel Girard D,20:19,0,0,-1,1,0,2,0,3,0/0
+Avalanche,Blackhawks,away,D,Cale Makar D,26:17,0,1,-4,4,0,0,1,1,0/0
+Avalanche,Blackhawks,away,D,Sam Malinski D,13:58,0,1,1,2,1,0,1,1,0/0
+Avalanche,Blackhawks,away,D,Josh Manson D,15:24,0,0,0,0,0,0,2,2,0/0
+Avalanche,Blackhawks,away,D,Devon Toews D,22:10,0,0,-1,1,1,0,1,1,0/0
+Avalanche,Blackhawks,away,D,Calvin de Haan D,16:26,0,0,1,2,1,2,0,1,0/0
+Avalanche,Blackhawks,away,F,Ross Colton C,15:00,0,0,-1,3,1,0,0,0,0/0
+Avalanche,Blackhawks,away,F,Ivan Ivan C,11:14,0,0,-2,1,0,0,0,0,2/4
+Avalanche,Blackhawks,away,F,Parker Kelly C,12:00,0,0,0,1,1,0,0,0,7/9
+Avalanche,Blackhawks,away,F,Joel Kiviranta L,14:47,0,0,0,1,1,0,1,0,1/1
+Avalanche,Blackhawks,away,F,Nikolai Kovalenko R,17:10,0,0,-1,1,1,0,0,2,0/0
+Avalanche,Blackhawks,away,F,Nathan MacKinnon C,24:57,1,0,-4,1,1,0,0,4,7/15
+Avalanche,Blackhawks,away,F,Casey Mittelstadt C,21:55,1,0,-1,5,0,0,0,0,6/12
+Avalanche,Blackhawks,away,F,Logan O'Connor R,16:12,0,1,1,1,3,0,0,0,0/0
+Avalanche,Blackhawks,away,F,Mikko Rantanen R,25:13,0,0,-4,0,3,0,1,0,6/9
+Avalanche,Blackhawks,away,F,Matt Stienburg C,03:14,0,0,0,0,0,0,0,1,0/0
+Avalanche,Blackhawks,away,F,Chris Wagner R,05:11,0,0,-1,0,0,0,0,0,3/6
+Avalanche,Blackhawks,away,F,Miles Wood L,14:38,0,0,0,2,3,2,1,1,0/0
+Avalanche,Blackhawks,away,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Blackhawks,away,F,Samuel Girard D,20:19,0,0,-1,1,0,2,0,3,0/0
+Avalanche,Blackhawks,away,F,Cale Makar D,26:17,0,1,-4,4,0,0,1,1,0/0
+Avalanche,Blackhawks,away,F,Sam Malinski D,13:58,0,1,1,2,1,0,1,1,0/0
+Avalanche,Blackhawks,away,F,Josh Manson D,15:24,0,0,0,0,0,0,2,2,0/0
+Avalanche,Blackhawks,away,F,Devon Toews D,22:10,0,0,-1,1,1,0,1,1,0/0
+Avalanche,Blackhawks,away,F,Calvin de Haan D,16:26,0,0,1,2,1,2,0,1,0/0
+Avalanche,Blackhawks,away,F,Ross Colton C,15:00,0,0,-1,3,1,0,0,0,0/0
+Avalanche,Blackhawks,away,F,Ivan Ivan C,11:14,0,0,-2,1,0,0,0,0,2/4
+Avalanche,Blackhawks,away,F,Parker Kelly C,12:00,0,0,0,1,1,0,0,0,7/9
+Avalanche,Blackhawks,away,F,Joel Kiviranta L,14:47,0,0,0,1,1,0,1,0,1/1
+Avalanche,Blackhawks,away,F,Nikolai Kovalenko R,17:10,0,0,-1,1,1,0,0,2,0/0
+Avalanche,Blackhawks,away,F,Nathan MacKinnon C,24:57,1,0,-4,1,1,0,0,4,7/15
+Avalanche,Blackhawks,away,F,Casey Mittelstadt C,21:55,1,0,-1,5,0,0,0,0,6/12
+Avalanche,Blackhawks,away,F,Logan O'Connor R,16:12,0,1,1,1,3,0,0,0,0/0
+Avalanche,Blackhawks,away,F,Mikko Rantanen R,25:13,0,0,-4,0,3,0,1,0,6/9
+Avalanche,Blackhawks,away,F,Matt Stienburg C,03:14,0,0,0,0,0,0,0,1,0/0
+Avalanche,Blackhawks,away,F,Chris Wagner R,05:11,0,0,-1,0,0,0,0,0,3/6
+Avalanche,Blackhawks,away,F,Miles Wood L,14:38,0,0,0,2,3,2,1,1,0/0
+Avalanche,Blackhawks,away,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Blackhawks,away,F,Samuel Girard D,20:19,0,0,-1,1,0,2,0,3,0/0
+Avalanche,Blackhawks,away,F,Cale Makar D,26:17,0,1,-4,4,0,0,1,1,0/0
+Avalanche,Blackhawks,away,F,Sam Malinski D,13:58,0,1,1,2,1,0,1,1,0/0
+Avalanche,Blackhawks,away,F,Josh Manson D,15:24,0,0,0,0,0,0,2,2,0/0
+Avalanche,Blackhawks,away,F,Devon Toews D,22:10,0,0,-1,1,1,0,1,1,0/0
+Avalanche,Blackhawks,away,F,Calvin de Haan D,16:26,0,0,1,2,1,2,0,1,0/0
