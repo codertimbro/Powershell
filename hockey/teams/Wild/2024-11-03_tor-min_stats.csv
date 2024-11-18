@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Wild,Maple Leafs,away,D,Zach Bogosian D,13:29,0,0,0,1,0,0,0,2,0/0
+Wild,Maple Leafs,away,D,Jonas Brodin D,23:50,0,0,1,4,0,0,0,1,0/0
+Wild,Maple Leafs,away,D,Declan Chisholm D,12:57,0,0,0,1,1,0,0,1,0/0
+Wild,Maple Leafs,away,D,Brock Faber D,24:42,0,0,0,1,2,0,1,0,0/0
+Wild,Maple Leafs,away,D,Jake Middleton D,19:09,0,0,0,2,2,0,1,0,0/0
+Wild,Maple Leafs,away,D,Jared Spurgeon D,22:00,0,2,2,2,1,0,0,2,0/0
+Wild,Maple Leafs,away,D,Zach Bogosian D,13:29,0,0,0,1,0,0,0,2,0/0
+Wild,Maple Leafs,away,D,Jonas Brodin D,23:50,0,0,1,4,0,0,0,1,0/0
+Wild,Maple Leafs,away,D,Declan Chisholm D,12:57,0,0,0,1,1,0,0,1,0/0
+Wild,Maple Leafs,away,D,Brock Faber D,24:42,0,0,0,1,2,0,1,0,0/0
+Wild,Maple Leafs,away,D,Jake Middleton D,19:09,0,0,0,2,2,0,1,0,0/0
+Wild,Maple Leafs,away,D,Jared Spurgeon D,22:00,0,2,2,2,1,0,0,2,0/0
+Wild,Maple Leafs,away,F,Matt Boldy L,21:11,1,0,1,3,0,0,1,1,0/3
+Wild,Maple Leafs,away,F,Joel Eriksson Ek C,19:42,0,0,0,4,0,0,1,1,8/18
+Wild,Maple Leafs,away,F,Marcus Foligno L,12:07,0,0,1,0,0,0,1,0,1/1
+Wild,Maple Leafs,away,F,Frederick Gaudreau C,12:56,0,1,1,1,0,0,0,1,5/7
+Wild,Maple Leafs,away,F,Ryan Hartman R,12:36,1,0,1,3,0,2,0,1,0/0
+Wild,Maple Leafs,away,F,Marcus Johansson L,14:01,0,0,0,3,0,0,0,0,0/0
+Wild,Maple Leafs,away,F,Kirill Kaprizov L,24:25,0,0,0,1,0,2,1,3,0/0
+Wild,Maple Leafs,away,F,Marat Khusnutdinov C,10:38,0,0,0,0,1,0,0,1,2/6
+Wild,Maple Leafs,away,F,Jakub Lauko C,10:02,0,0,0,1,0,0,1,1,0/0
+Wild,Maple Leafs,away,F,Marco Rossi C,19:59,0,1,1,1,0,2,0,0,7/12
+Wild,Maple Leafs,away,F,Yakov Trenin C,08:44,0,0,0,1,0,0,0,0,0/0
+Wild,Maple Leafs,away,F,Mats Zuccarello R,19:28,0,0,0,4,1,0,0,0,0/0
+Wild,Maple Leafs,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Maple Leafs,away,F,Zach Bogosian D,13:29,0,0,0,1,0,0,0,2,0/0
+Wild,Maple Leafs,away,F,Jonas Brodin D,23:50,0,0,1,4,0,0,0,1,0/0
+Wild,Maple Leafs,away,F,Declan Chisholm D,12:57,0,0,0,1,1,0,0,1,0/0
+Wild,Maple Leafs,away,F,Brock Faber D,24:42,0,0,0,1,2,0,1,0,0/0
+Wild,Maple Leafs,away,F,Jake Middleton D,19:09,0,0,0,2,2,0,1,0,0/0
+Wild,Maple Leafs,away,F,Jared Spurgeon D,22:00,0,2,2,2,1,0,0,2,0/0
+Wild,Maple Leafs,away,F,Matt Boldy L,21:11,1,0,1,3,0,0,1,1,0/3
+Wild,Maple Leafs,away,F,Joel Eriksson Ek C,19:42,0,0,0,4,0,0,1,1,8/18
+Wild,Maple Leafs,away,F,Marcus Foligno L,12:07,0,0,1,0,0,0,1,0,1/1
+Wild,Maple Leafs,away,F,Frederick Gaudreau C,12:56,0,1,1,1,0,0,0,1,5/7
+Wild,Maple Leafs,away,F,Ryan Hartman R,12:36,1,0,1,3,0,2,0,1,0/0
+Wild,Maple Leafs,away,F,Marcus Johansson L,14:01,0,0,0,3,0,0,0,0,0/0
+Wild,Maple Leafs,away,F,Kirill Kaprizov L,24:25,0,0,0,1,0,2,1,3,0/0
+Wild,Maple Leafs,away,F,Marat Khusnutdinov C,10:38,0,0,0,0,1,0,0,1,2/6
+Wild,Maple Leafs,away,F,Jakub Lauko C,10:02,0,0,0,1,0,0,1,1,0/0
+Wild,Maple Leafs,away,F,Marco Rossi C,19:59,0,1,1,1,0,2,0,0,7/12
+Wild,Maple Leafs,away,F,Yakov Trenin C,08:44,0,0,0,1,0,0,0,0,0/0
+Wild,Maple Leafs,away,F,Mats Zuccarello R,19:28,0,0,0,4,1,0,0,0,0/0
+Wild,Maple Leafs,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Maple Leafs,away,F,Zach Bogosian D,13:29,0,0,0,1,0,0,0,2,0/0
+Wild,Maple Leafs,away,F,Jonas Brodin D,23:50,0,0,1,4,0,0,0,1,0/0
+Wild,Maple Leafs,away,F,Declan Chisholm D,12:57,0,0,0,1,1,0,0,1,0/0
+Wild,Maple Leafs,away,F,Brock Faber D,24:42,0,0,0,1,2,0,1,0,0/0
+Wild,Maple Leafs,away,F,Jake Middleton D,19:09,0,0,0,2,2,0,1,0,0/0
+Wild,Maple Leafs,away,F,Jared Spurgeon D,22:00,0,2,2,2,1,0,0,2,0/0
