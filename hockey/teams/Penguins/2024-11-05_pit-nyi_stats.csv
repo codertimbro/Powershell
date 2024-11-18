@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Penguins,Islanders,home,D,Ryan Graves D,14:06,0,0,0,2,0,2,0,1,0/0
+Penguins,Islanders,home,D,Matt Grzelcyk D,21:43,0,1,-1,0,3,0,1,2,0/0
+Penguins,Islanders,home,D,Erik Karlsson D,25:47,0,0,2,4,0,0,2,4,0/0
+Penguins,Islanders,home,D,Kris Letang D,22:15,0,0,-2,3,0,2,2,2,0/0
+Penguins,Islanders,home,D,Marcus Pettersson D,25:17,0,0,1,0,0,0,1,2,0/0
+Penguins,Islanders,home,D,Jack St. Ivany D,16:01,0,0,0,0,0,0,0,0,0/0
+Penguins,Islanders,home,D,Ryan Graves D,14:06,0,0,0,2,0,2,0,1,0/0
+Penguins,Islanders,home,D,Matt Grzelcyk D,21:43,0,1,-1,0,3,0,1,2,0/0
+Penguins,Islanders,home,D,Erik Karlsson D,25:47,0,0,2,4,0,0,2,4,0/0
+Penguins,Islanders,home,D,Kris Letang D,22:15,0,0,-2,3,0,2,2,2,0/0
+Penguins,Islanders,home,D,Marcus Pettersson D,25:17,0,0,1,0,0,0,1,2,0/0
+Penguins,Islanders,home,D,Jack St. Ivany D,16:01,0,0,0,0,0,0,0,0,0/0
+Penguins,Islanders,home,F,Noel Acciari C,16:54,0,1,0,3,4,0,2,0,6/12
+Penguins,Islanders,home,F,Anthony Beauvillier L,11:21,0,0,-1,4,0,0,0,0,0/0
+Penguins,Islanders,home,F,Michael Bunting L,11:29,1,0,1,1,0,2,0,1,0/1
+Penguins,Islanders,home,F,Sidney Crosby C,21:49,1,0,0,5,0,0,0,0,15/27
+Penguins,Islanders,home,F,Lars Eller C,18:48,0,0,0,0,2,0,0,1,5/13
+Penguins,Islanders,home,F,Cody Glass C,14:11,0,0,0,0,0,0,1,0,0/0
+Penguins,Islanders,home,F,Kevin Hayes R,09:40,0,0,-1,0,0,0,0,0,3/4
+Penguins,Islanders,home,F,Blake Lizotte C,10:55,0,0,0,1,1,0,0,0,1/4
+Penguins,Islanders,home,F,Evgeni Malkin C,22:12,1,1,0,3,0,0,0,0,0/0
+Penguins,Islanders,home,F,Drew O'Connor L,19:35,0,0,0,5,0,2,1,1,0/0
+Penguins,Islanders,home,F,Jesse Puljujarvi R,09:49,0,1,1,2,0,0,0,1,0/0
+Penguins,Islanders,home,F,Rickard Rakell R,21:46,0,2,0,2,0,0,0,1,0/0
+Penguins,Islanders,home,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Islanders,home,F,Ryan Graves D,14:06,0,0,0,2,0,2,0,1,0/0
+Penguins,Islanders,home,F,Matt Grzelcyk D,21:43,0,1,-1,0,3,0,1,2,0/0
+Penguins,Islanders,home,F,Erik Karlsson D,25:47,0,0,2,4,0,0,2,4,0/0
+Penguins,Islanders,home,F,Kris Letang D,22:15,0,0,-2,3,0,2,2,2,0/0
+Penguins,Islanders,home,F,Marcus Pettersson D,25:17,0,0,1,0,0,0,1,2,0/0
+Penguins,Islanders,home,F,Jack St. Ivany D,16:01,0,0,0,0,0,0,0,0,0/0
+Penguins,Islanders,home,F,Noel Acciari C,16:54,0,1,0,3,4,0,2,0,6/12
+Penguins,Islanders,home,F,Anthony Beauvillier L,11:21,0,0,-1,4,0,0,0,0,0/0
+Penguins,Islanders,home,F,Michael Bunting L,11:29,1,0,1,1,0,2,0,1,0/1
+Penguins,Islanders,home,F,Sidney Crosby C,21:49,1,0,0,5,0,0,0,0,15/27
+Penguins,Islanders,home,F,Lars Eller C,18:48,0,0,0,0,2,0,0,1,5/13
+Penguins,Islanders,home,F,Cody Glass C,14:11,0,0,0,0,0,0,1,0,0/0
+Penguins,Islanders,home,F,Kevin Hayes R,09:40,0,0,-1,0,0,0,0,0,3/4
+Penguins,Islanders,home,F,Blake Lizotte C,10:55,0,0,0,1,1,0,0,0,1/4
+Penguins,Islanders,home,F,Evgeni Malkin C,22:12,1,1,0,3,0,0,0,0,0/0
+Penguins,Islanders,home,F,Drew O'Connor L,19:35,0,0,0,5,0,2,1,1,0/0
+Penguins,Islanders,home,F,Jesse Puljujarvi R,09:49,0,1,1,2,0,0,0,1,0/0
+Penguins,Islanders,home,F,Rickard Rakell R,21:46,0,2,0,2,0,0,0,1,0/0
+Penguins,Islanders,home,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Islanders,home,F,Ryan Graves D,14:06,0,0,0,2,0,2,0,1,0/0
+Penguins,Islanders,home,F,Matt Grzelcyk D,21:43,0,1,-1,0,3,0,1,2,0/0
+Penguins,Islanders,home,F,Erik Karlsson D,25:47,0,0,2,4,0,0,2,4,0/0
+Penguins,Islanders,home,F,Kris Letang D,22:15,0,0,-2,3,0,2,2,2,0/0
+Penguins,Islanders,home,F,Marcus Pettersson D,25:17,0,0,1,0,0,0,1,2,0/0
+Penguins,Islanders,home,F,Jack St. Ivany D,16:01,0,0,0,0,0,0,0,0,0/0
