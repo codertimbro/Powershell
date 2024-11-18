@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Predators,Flames,home,D,Alexandre Carrier D,20:19,0,0,0,1,1,2,3,0,0/0
+Predators,Flames,home,D,Marc Del Gaizo D,13:56,0,0,-1,0,2,0,0,0,0/0
+Predators,Flames,home,D,Roman Josi D,27:04,0,0,-1,3,3,0,1,1,0/0
+Predators,Flames,home,D,Jeremy Lauzon D,18:17,0,0,0,1,2,2,1,1,0/0
+Predators,Flames,home,D,Luke Schenn D,14:03,0,0,-1,0,1,0,0,1,0/0
+Predators,Flames,home,D,Brady Skjei D,21:06,0,0,0,3,4,2,2,1,0/0
+Predators,Flames,home,D,Alexandre Carrier D,20:19,0,0,0,1,1,2,3,0,0/0
+Predators,Flames,home,D,Marc Del Gaizo D,13:56,0,0,-1,0,2,0,0,0,0/0
+Predators,Flames,home,D,Roman Josi D,27:04,0,0,-1,3,3,0,1,1,0/0
+Predators,Flames,home,D,Jeremy Lauzon D,18:17,0,0,0,1,2,2,1,1,0/0
+Predators,Flames,home,D,Luke Schenn D,14:03,0,0,-1,0,1,0,0,1,0/0
+Predators,Flames,home,D,Brady Skjei D,21:06,0,0,0,3,4,2,2,1,0/0
+Predators,Flames,home,F,Luke Evangelista R,14:54,0,0,0,3,1,0,0,0,0/0
+Predators,Flames,home,F,Filip Forsberg L,17:41,0,0,-1,1,0,0,1,1,0/0
+Predators,Flames,home,F,Zachary L'Heureux L,08:30,0,0,-1,1,0,0,0,0,0/0
+Predators,Flames,home,F,Jonathan Marchessault R,17:07,0,0,-1,3,0,0,0,1,0/2
+Predators,Flames,home,F,Michael McCarron C,11:05,0,0,-1,1,0,7,0,0,8/15
+Predators,Flames,home,F,Gustav Nyquist R,17:55,0,0,-1,1,0,0,0,2,0/0
+Predators,Flames,home,F,Ryan O'Reilly C,17:13,0,0,-1,2,0,0,0,0,9/18
+Predators,Flames,home,F,Juuso Parssinen C,15:13,0,0,0,1,1,0,0,0,2/15
+Predators,Flames,home,F,Colton Sissons C,15:36,0,0,0,1,0,2,0,2,15/19
+Predators,Flames,home,F,Cole Smith R,11:51,0,0,-1,3,1,0,0,0,0/0
+Predators,Flames,home,F,Steven Stamkos C,18:04,0,0,-1,1,1,0,1,1,8/15
+Predators,Flames,home,F,Philip Tomasino R,12:58,0,0,0,3,1,0,1,0,1/1
+Predators,Flames,home,F,Predators Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexandre
+Predators,Flames,home,F,Alexandre Carrier D,20:19,0,0,0,1,1,2,3,0,0/0
+Predators,Flames,home,F,Marc Del Gaizo D,13:56,0,0,-1,0,2,0,0,0,0/0
+Predators,Flames,home,F,Roman Josi D,27:04,0,0,-1,3,3,0,1,1,0/0
+Predators,Flames,home,F,Jeremy Lauzon D,18:17,0,0,0,1,2,2,1,1,0/0
+Predators,Flames,home,F,Luke Schenn D,14:03,0,0,-1,0,1,0,0,1,0/0
+Predators,Flames,home,F,Brady Skjei D,21:06,0,0,0,3,4,2,2,1,0/0
+Predators,Flames,home,F,Luke Evangelista R,14:54,0,0,0,3,1,0,0,0,0/0
+Predators,Flames,home,F,Filip Forsberg L,17:41,0,0,-1,1,0,0,1,1,0/0
+Predators,Flames,home,F,Zachary L'Heureux L,08:30,0,0,-1,1,0,0,0,0,0/0
+Predators,Flames,home,F,Jonathan Marchessault R,17:07,0,0,-1,3,0,0,0,1,0/2
+Predators,Flames,home,F,Michael McCarron C,11:05,0,0,-1,1,0,7,0,0,8/15
+Predators,Flames,home,F,Gustav Nyquist R,17:55,0,0,-1,1,0,0,0,2,0/0
+Predators,Flames,home,F,Ryan O'Reilly C,17:13,0,0,-1,2,0,0,0,0,9/18
+Predators,Flames,home,F,Juuso Parssinen C,15:13,0,0,0,1,1,0,0,0,2/15
+Predators,Flames,home,F,Colton Sissons C,15:36,0,0,0,1,0,2,0,2,15/19
+Predators,Flames,home,F,Cole Smith R,11:51,0,0,-1,3,1,0,0,0,0/0
+Predators,Flames,home,F,Steven Stamkos C,18:04,0,0,-1,1,1,0,1,1,8/15
+Predators,Flames,home,F,Philip Tomasino R,12:58,0,0,0,3,1,0,1,0,1/1
+Predators,Flames,home,F,Predators Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexandre
+Predators,Flames,home,F,Alexandre Carrier D,20:19,0,0,0,1,1,2,3,0,0/0
+Predators,Flames,home,F,Marc Del Gaizo D,13:56,0,0,-1,0,2,0,0,0,0/0
+Predators,Flames,home,F,Roman Josi D,27:04,0,0,-1,3,3,0,1,1,0/0
+Predators,Flames,home,F,Jeremy Lauzon D,18:17,0,0,0,1,2,2,1,1,0/0
+Predators,Flames,home,F,Luke Schenn D,14:03,0,0,-1,0,1,0,0,1,0/0
+Predators,Flames,home,F,Brady Skjei D,21:06,0,0,0,3,4,2,2,1,0/0
