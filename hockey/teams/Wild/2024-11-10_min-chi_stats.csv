@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Wild,Blackhawks,home,D,Zach Bogosian D,18:06,0,0,1,1,0,0,0,0,0/0
+Wild,Blackhawks,home,D,Jonas Brodin D,16:38,0,0,0,1,1,0,1,2,0/0
+Wild,Blackhawks,home,D,Brock Faber D,27:43,0,0,-1,0,2,0,2,1,0/0
+Wild,Blackhawks,home,D,Jon Merrill D,11:38,0,0,0,2,1,0,0,1,0/0
+Wild,Blackhawks,home,D,Jake Middleton D,22:46,0,0,0,1,3,0,0,2,0/0
+Wild,Blackhawks,home,D,Jared Spurgeon D,18:43,0,0,-1,2,1,0,0,0,0/0
+Wild,Blackhawks,home,D,Zach Bogosian D,18:06,0,0,1,1,0,0,0,0,0/0
+Wild,Blackhawks,home,D,Jonas Brodin D,16:38,0,0,0,1,1,0,1,2,0/0
+Wild,Blackhawks,home,D,Brock Faber D,27:43,0,0,-1,0,2,0,2,1,0/0
+Wild,Blackhawks,home,D,Jon Merrill D,11:38,0,0,0,2,1,0,0,1,0/0
+Wild,Blackhawks,home,D,Jake Middleton D,22:46,0,0,0,1,3,0,0,2,0/0
+Wild,Blackhawks,home,D,Jared Spurgeon D,18:43,0,0,-1,2,1,0,0,0,0/0
+Wild,Blackhawks,home,F,Matt Boldy L,18:16,1,0,0,4,0,2,0,1,0/2
+Wild,Blackhawks,home,F,Joel Eriksson Ek C,17:56,0,0,-1,2,0,2,0,2,11/18
+Wild,Blackhawks,home,F,Marcus Foligno L,11:31,0,0,0,0,0,0,0,0,0/1
+Wild,Blackhawks,home,F,Frederick Gaudreau C,14:21,0,0,0,4,2,0,0,0,3/10
+Wild,Blackhawks,home,F,Ryan Hartman R,13:51,0,0,0,2,0,0,0,1,2/5
+Wild,Blackhawks,home,F,Marcus Johansson L,15:10,0,0,-2,0,0,2,0,0,0/0
+Wild,Blackhawks,home,F,Kirill Kaprizov L,25:02,0,1,1,5,0,0,0,1,0/1
+Wild,Blackhawks,home,F,Marat Khusnutdinov C,11:43,0,0,0,1,0,0,0,0,3/5
+Wild,Blackhawks,home,F,Jakub Lauko C,10:52,0,0,0,1,2,0,0,0,0/0
+Wild,Blackhawks,home,F,Marco Rossi C,15:51,0,0,0,5,0,0,1,2,5/7
+Wild,Blackhawks,home,F,Yakov Trenin C,10:15,0,0,0,1,0,0,0,0,2/4
+Wild,Blackhawks,home,F,Mats Zuccarello R,19:20,0,1,0,1,1,0,1,1,0/1
+Wild,Blackhawks,home,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Blackhawks,home,F,Zach Bogosian D,18:06,0,0,1,1,0,0,0,0,0/0
+Wild,Blackhawks,home,F,Jonas Brodin D,16:38,0,0,0,1,1,0,1,2,0/0
+Wild,Blackhawks,home,F,Brock Faber D,27:43,0,0,-1,0,2,0,2,1,0/0
+Wild,Blackhawks,home,F,Jon Merrill D,11:38,0,0,0,2,1,0,0,1,0/0
+Wild,Blackhawks,home,F,Jake Middleton D,22:46,0,0,0,1,3,0,0,2,0/0
+Wild,Blackhawks,home,F,Jared Spurgeon D,18:43,0,0,-1,2,1,0,0,0,0/0
+Wild,Blackhawks,home,F,Matt Boldy L,18:16,1,0,0,4,0,2,0,1,0/2
+Wild,Blackhawks,home,F,Joel Eriksson Ek C,17:56,0,0,-1,2,0,2,0,2,11/18
+Wild,Blackhawks,home,F,Marcus Foligno L,11:31,0,0,0,0,0,0,0,0,0/1
+Wild,Blackhawks,home,F,Frederick Gaudreau C,14:21,0,0,0,4,2,0,0,0,3/10
+Wild,Blackhawks,home,F,Ryan Hartman R,13:51,0,0,0,2,0,0,0,1,2/5
+Wild,Blackhawks,home,F,Marcus Johansson L,15:10,0,0,-2,0,0,2,0,0,0/0
+Wild,Blackhawks,home,F,Kirill Kaprizov L,25:02,0,1,1,5,0,0,0,1,0/1
+Wild,Blackhawks,home,F,Marat Khusnutdinov C,11:43,0,0,0,1,0,0,0,0,3/5
+Wild,Blackhawks,home,F,Jakub Lauko C,10:52,0,0,0,1,2,0,0,0,0/0
+Wild,Blackhawks,home,F,Marco Rossi C,15:51,0,0,0,5,0,0,1,2,5/7
+Wild,Blackhawks,home,F,Yakov Trenin C,10:15,0,0,0,1,0,0,0,0,2/4
+Wild,Blackhawks,home,F,Mats Zuccarello R,19:20,0,1,0,1,1,0,1,1,0/1
+Wild,Blackhawks,home,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Blackhawks,home,F,Zach Bogosian D,18:06,0,0,1,1,0,0,0,0,0/0
+Wild,Blackhawks,home,F,Jonas Brodin D,16:38,0,0,0,1,1,0,1,2,0/0
+Wild,Blackhawks,home,F,Brock Faber D,27:43,0,0,-1,0,2,0,2,1,0/0
+Wild,Blackhawks,home,F,Jon Merrill D,11:38,0,0,0,2,1,0,0,1,0/0
+Wild,Blackhawks,home,F,Jake Middleton D,22:46,0,0,0,1,3,0,0,2,0/0
+Wild,Blackhawks,home,F,Jared Spurgeon D,18:43,0,0,-1,2,1,0,0,0,0/0
