@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Capitals,Avalanche,home,D,John Carlson D,22:28,0,1,2,2,2,0,1,3,0/0
+Capitals,Avalanche,home,D,Jakob Chychrun D,18:14,1,0,1,2,1,0,0,1,0/0
+Capitals,Avalanche,home,D,Martin Fehervary D,19:43,0,0,0,0,1,0,0,0,0/0
+Capitals,Avalanche,home,D,Matt Roy D,20:28,0,0,-1,1,1,0,0,2,0/0
+Capitals,Avalanche,home,D,Rasmus Sandin D,19:06,1,0,1,3,1,0,0,2,0/0
+Capitals,Avalanche,home,D,Trevor van Riemsdyk D,16:18,0,1,1,1,2,0,1,0,0/0
+Capitals,Avalanche,home,D,John Carlson D,22:28,0,1,2,2,2,0,1,3,0/0
+Capitals,Avalanche,home,D,Jakob Chychrun D,18:14,1,0,1,2,1,0,0,1,0/0
+Capitals,Avalanche,home,D,Martin Fehervary D,19:43,0,0,0,0,1,0,0,0,0/0
+Capitals,Avalanche,home,D,Matt Roy D,20:28,0,0,-1,1,1,0,0,2,0/0
+Capitals,Avalanche,home,D,Rasmus Sandin D,19:06,1,0,1,3,1,0,0,2,0/0
+Capitals,Avalanche,home,D,Trevor van Riemsdyk D,16:18,0,1,1,1,2,0,1,0,0/0
+Capitals,Avalanche,home,F,Nic Dowd C,13:58,0,0,-2,1,2,0,1,0,8/11
+Capitals,Avalanche,home,F,Pierre-Luc Dubois L,15:52,0,2,2,1,1,0,0,0,11/22
+Capitals,Avalanche,home,F,Brandon Duhaime R,10:41,0,0,-2,0,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Lars Eller C,11:57,0,0,0,0,0,0,0,0,6/14
+Capitals,Avalanche,home,F,Andrew Mangiapane L,14:54,0,0,1,2,0,2,0,0,0/0
+Capitals,Avalanche,home,F,Connor McMichael C,16:07,2,0,3,2,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Alex Ovechkin L,18:50,0,1,1,1,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Aliaksei Protas C,18:06,0,0,0,0,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Taylor Raddysh R,12:27,0,0,-2,0,0,0,0,1,0/1
+Capitals,Avalanche,home,F,Dylan Strome C,19:00,0,1,2,1,1,0,0,1,9/17
+Capitals,Avalanche,home,F,Jakub Vrana L,11:49,1,0,0,2,0,0,0,1,0/0
+Capitals,Avalanche,home,F,Tom Wilson R,18:02,0,1,3,1,2,0,0,1,0/0
+Capitals,Avalanche,home,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOJohn
+Capitals,Avalanche,home,F,John Carlson D,22:28,0,1,2,2,2,0,1,3,0/0
+Capitals,Avalanche,home,F,Jakob Chychrun D,18:14,1,0,1,2,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Martin Fehervary D,19:43,0,0,0,0,1,0,0,0,0/0
+Capitals,Avalanche,home,F,Matt Roy D,20:28,0,0,-1,1,1,0,0,2,0/0
+Capitals,Avalanche,home,F,Rasmus Sandin D,19:06,1,0,1,3,1,0,0,2,0/0
+Capitals,Avalanche,home,F,Trevor van Riemsdyk D,16:18,0,1,1,1,2,0,1,0,0/0
+Capitals,Avalanche,home,F,Nic Dowd C,13:58,0,0,-2,1,2,0,1,0,8/11
+Capitals,Avalanche,home,F,Pierre-Luc Dubois L,15:52,0,2,2,1,1,0,0,0,11/22
+Capitals,Avalanche,home,F,Brandon Duhaime R,10:41,0,0,-2,0,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Lars Eller C,11:57,0,0,0,0,0,0,0,0,6/14
+Capitals,Avalanche,home,F,Andrew Mangiapane L,14:54,0,0,1,2,0,2,0,0,0/0
+Capitals,Avalanche,home,F,Connor McMichael C,16:07,2,0,3,2,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Alex Ovechkin L,18:50,0,1,1,1,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Aliaksei Protas C,18:06,0,0,0,0,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Taylor Raddysh R,12:27,0,0,-2,0,0,0,0,1,0/1
+Capitals,Avalanche,home,F,Dylan Strome C,19:00,0,1,2,1,1,0,0,1,9/17
+Capitals,Avalanche,home,F,Jakub Vrana L,11:49,1,0,0,2,0,0,0,1,0/0
+Capitals,Avalanche,home,F,Tom Wilson R,18:02,0,1,3,1,2,0,0,1,0/0
+Capitals,Avalanche,home,F,Capitals Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOJohn
+Capitals,Avalanche,home,F,John Carlson D,22:28,0,1,2,2,2,0,1,3,0/0
+Capitals,Avalanche,home,F,Jakob Chychrun D,18:14,1,0,1,2,1,0,0,1,0/0
+Capitals,Avalanche,home,F,Martin Fehervary D,19:43,0,0,0,0,1,0,0,0,0/0
+Capitals,Avalanche,home,F,Matt Roy D,20:28,0,0,-1,1,1,0,0,2,0/0
+Capitals,Avalanche,home,F,Rasmus Sandin D,19:06,1,0,1,3,1,0,0,2,0/0
+Capitals,Avalanche,home,F,Trevor van Riemsdyk D,16:18,0,1,1,1,2,0,1,0,0/0
