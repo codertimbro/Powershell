@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Avalanche,Sharks,home,D,Samuel Girard D,22:32,0,1,2,1,2,0,0,3,0/0
+Avalanche,Sharks,home,D,John Ludvig D,12:13,0,1,1,1,1,0,0,1,0/0
+Avalanche,Sharks,home,D,Cale Makar D,25:41,1,2,2,2,1,0,0,2,0/0
+Avalanche,Sharks,home,D,Sam Malinski D,16:38,0,0,0,2,1,0,0,0,0/0
+Avalanche,Sharks,home,D,Josh Manson D,17:22,0,1,1,1,5,6,0,2,0/0
+Avalanche,Sharks,home,D,Calvin de Haan D,22:01,0,0,0,2,2,2,0,1,0/0
+Avalanche,Sharks,home,D,Samuel Girard D,22:32,0,1,2,1,2,0,0,3,0/0
+Avalanche,Sharks,home,D,John Ludvig D,12:13,0,1,1,1,1,0,0,1,0/0
+Avalanche,Sharks,home,D,Cale Makar D,25:41,1,2,2,2,1,0,0,2,0/0
+Avalanche,Sharks,home,D,Sam Malinski D,16:38,0,0,0,2,1,0,0,0,0/0
+Avalanche,Sharks,home,D,Josh Manson D,17:22,0,1,1,1,5,6,0,2,0/0
+Avalanche,Sharks,home,D,Calvin de Haan D,22:01,0,0,0,2,2,2,0,1,0/0
+Avalanche,Sharks,home,F,Ross Colton C,18:59,2,0,1,4,1,0,0,0,1/5
+Avalanche,Sharks,home,F,Ivan Ivan C,10:47,0,0,1,1,0,0,0,2,3/3
+Avalanche,Sharks,home,F,Parker Kelly C,13:48,0,0,0,0,1,0,0,0,4/14
+Avalanche,Sharks,home,F,Joel Kiviranta L,11:23,1,0,2,1,0,0,0,2,2/3
+Avalanche,Sharks,home,F,Nikolai Kovalenko R,15:22,0,0,0,0,1,0,0,1,0/0
+Avalanche,Sharks,home,F,Nathan MacKinnon C,20:00,0,2,2,3,0,0,0,2,7/15
+Avalanche,Sharks,home,F,Casey Mittelstadt C,16:48,0,0,0,1,1,0,0,0,15/22
+Avalanche,Sharks,home,F,Logan O'Connor R,16:26,0,0,0,0,0,7,0,0,0/1
+Avalanche,Sharks,home,F,Mikko Rantanen R,20:22,0,1,2,1,0,0,0,1,0/0
+Avalanche,Sharks,home,F,Calum Ritchie C,10:49,0,0,0,0,0,0,0,1,0/0
+Avalanche,Sharks,home,F,Matt Stienburg C,08:19,0,0,1,1,0,0,0,1,0/0
+Avalanche,Sharks,home,F,Miles Wood L,12:12,0,0,0,1,2,2,0,0,0/0
+Avalanche,Sharks,home,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Sharks,home,F,Samuel Girard D,22:32,0,1,2,1,2,0,0,3,0/0
+Avalanche,Sharks,home,F,John Ludvig D,12:13,0,1,1,1,1,0,0,1,0/0
+Avalanche,Sharks,home,F,Cale Makar D,25:41,1,2,2,2,1,0,0,2,0/0
+Avalanche,Sharks,home,F,Sam Malinski D,16:38,0,0,0,2,1,0,0,0,0/0
+Avalanche,Sharks,home,F,Josh Manson D,17:22,0,1,1,1,5,6,0,2,0/0
+Avalanche,Sharks,home,F,Calvin de Haan D,22:01,0,0,0,2,2,2,0,1,0/0
+Avalanche,Sharks,home,F,Ross Colton C,18:59,2,0,1,4,1,0,0,0,1/5
+Avalanche,Sharks,home,F,Ivan Ivan C,10:47,0,0,1,1,0,0,0,2,3/3
+Avalanche,Sharks,home,F,Parker Kelly C,13:48,0,0,0,0,1,0,0,0,4/14
+Avalanche,Sharks,home,F,Joel Kiviranta L,11:23,1,0,2,1,0,0,0,2,2/3
+Avalanche,Sharks,home,F,Nikolai Kovalenko R,15:22,0,0,0,0,1,0,0,1,0/0
+Avalanche,Sharks,home,F,Nathan MacKinnon C,20:00,0,2,2,3,0,0,0,2,7/15
+Avalanche,Sharks,home,F,Casey Mittelstadt C,16:48,0,0,0,1,1,0,0,0,15/22
+Avalanche,Sharks,home,F,Logan O'Connor R,16:26,0,0,0,0,0,7,0,0,0/1
+Avalanche,Sharks,home,F,Mikko Rantanen R,20:22,0,1,2,1,0,0,0,1,0/0
+Avalanche,Sharks,home,F,Calum Ritchie C,10:49,0,0,0,0,0,0,0,1,0/0
+Avalanche,Sharks,home,F,Matt Stienburg C,08:19,0,0,1,1,0,0,0,1,0/0
+Avalanche,Sharks,home,F,Miles Wood L,12:12,0,0,0,1,2,2,0,0,0/0
+Avalanche,Sharks,home,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Sharks,home,F,Samuel Girard D,22:32,0,1,2,1,2,0,0,3,0/0
+Avalanche,Sharks,home,F,John Ludvig D,12:13,0,1,1,1,1,0,0,1,0/0
+Avalanche,Sharks,home,F,Cale Makar D,25:41,1,2,2,2,1,0,0,2,0/0
+Avalanche,Sharks,home,F,Sam Malinski D,16:38,0,0,0,2,1,0,0,0,0/0
+Avalanche,Sharks,home,F,Josh Manson D,17:22,0,1,1,1,5,6,0,2,0/0
+Avalanche,Sharks,home,F,Calvin de Haan D,22:01,0,0,0,2,2,2,0,1,0/0
