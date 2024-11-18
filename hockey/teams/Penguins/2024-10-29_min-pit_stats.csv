@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Penguins,Wild,away,D,Ryan Graves D,13:46,0,0,-2,0,2,0,0,1,0/0
+Penguins,Wild,away,D,Matt Grzelcyk D,18:24,0,1,-1,1,0,0,0,1,0/0
+Penguins,Wild,away,D,Erik Karlsson D,21:38,0,0,0,1,0,0,0,5,0/0
+Penguins,Wild,away,D,Kris Letang D,24:06,0,1,-2,6,1,0,0,0,0/0
+Penguins,Wild,away,D,Marcus Pettersson D,25:45,0,1,0,1,2,0,1,1,0/0
+Penguins,Wild,away,D,Jack St. Ivany D,13:50,0,0,-1,0,1,7,0,0,0/0
+Penguins,Wild,away,D,Ryan Graves D,13:46,0,0,-2,0,2,0,0,1,0/0
+Penguins,Wild,away,D,Matt Grzelcyk D,18:24,0,1,-1,1,0,0,0,1,0/0
+Penguins,Wild,away,D,Erik Karlsson D,21:38,0,0,0,1,0,0,0,5,0/0
+Penguins,Wild,away,D,Kris Letang D,24:06,0,1,-2,6,1,0,0,0,0/0
+Penguins,Wild,away,D,Marcus Pettersson D,25:45,0,1,0,1,2,0,1,1,0/0
+Penguins,Wild,away,D,Jack St. Ivany D,13:50,0,0,-1,0,1,7,0,0,0/0
+Penguins,Wild,away,F,Noel Acciari C,16:07,0,0,-1,1,1,0,1,1,4/15
+Penguins,Wild,away,F,Anthony Beauvillier L,10:57,0,0,-3,3,1,2,0,0,0/0
+Penguins,Wild,away,F,Michael Bunting L,12:48,0,0,-3,2,0,0,0,0,0/0
+Penguins,Wild,away,F,Sidney Crosby C,20:44,0,3,1,3,0,0,0,0,21/25
+Penguins,Wild,away,F,Lars Eller C,17:49,0,0,-1,3,1,4,0,0,5/7
+Penguins,Wild,away,F,Cody Glass C,14:18,0,0,-2,1,1,0,0,2,3/7
+Penguins,Wild,away,F,Kevin Hayes R,06:32,0,0,-1,0,0,2,0,0,2/6
+Penguins,Wild,away,F,Evgeni Malkin C,20:04,0,0,1,1,0,0,0,0,0/0
+Penguins,Wild,away,F,Drew O'Connor L,17:37,0,0,-1,0,0,0,1,1,0/0
+Penguins,Wild,away,F,Jesse Puljujarvi R,04:59,0,0,-1,0,0,0,0,0,0/0
+Penguins,Wild,away,F,Valtteri Puustinen R,11:50,1,0,-1,1,1,0,0,0,0/0
+Penguins,Wild,away,F,Rickard Rakell R,19:57,2,0,2,5,1,0,0,3,0/0
+Penguins,Wild,away,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Wild,away,F,Ryan Graves D,13:46,0,0,-2,0,2,0,0,1,0/0
+Penguins,Wild,away,F,Matt Grzelcyk D,18:24,0,1,-1,1,0,0,0,1,0/0
+Penguins,Wild,away,F,Erik Karlsson D,21:38,0,0,0,1,0,0,0,5,0/0
+Penguins,Wild,away,F,Kris Letang D,24:06,0,1,-2,6,1,0,0,0,0/0
+Penguins,Wild,away,F,Marcus Pettersson D,25:45,0,1,0,1,2,0,1,1,0/0
+Penguins,Wild,away,F,Jack St. Ivany D,13:50,0,0,-1,0,1,7,0,0,0/0
+Penguins,Wild,away,F,Noel Acciari C,16:07,0,0,-1,1,1,0,1,1,4/15
+Penguins,Wild,away,F,Anthony Beauvillier L,10:57,0,0,-3,3,1,2,0,0,0/0
+Penguins,Wild,away,F,Michael Bunting L,12:48,0,0,-3,2,0,0,0,0,0/0
+Penguins,Wild,away,F,Sidney Crosby C,20:44,0,3,1,3,0,0,0,0,21/25
+Penguins,Wild,away,F,Lars Eller C,17:49,0,0,-1,3,1,4,0,0,5/7
+Penguins,Wild,away,F,Cody Glass C,14:18,0,0,-2,1,1,0,0,2,3/7
+Penguins,Wild,away,F,Kevin Hayes R,06:32,0,0,-1,0,0,2,0,0,2/6
+Penguins,Wild,away,F,Evgeni Malkin C,20:04,0,0,1,1,0,0,0,0,0/0
+Penguins,Wild,away,F,Drew O'Connor L,17:37,0,0,-1,0,0,0,1,1,0/0
+Penguins,Wild,away,F,Jesse Puljujarvi R,04:59,0,0,-1,0,0,0,0,0,0/0
+Penguins,Wild,away,F,Valtteri Puustinen R,11:50,1,0,-1,1,1,0,0,0,0/0
+Penguins,Wild,away,F,Rickard Rakell R,19:57,2,0,2,5,1,0,0,3,0/0
+Penguins,Wild,away,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Wild,away,F,Ryan Graves D,13:46,0,0,-2,0,2,0,0,1,0/0
+Penguins,Wild,away,F,Matt Grzelcyk D,18:24,0,1,-1,1,0,0,0,1,0/0
+Penguins,Wild,away,F,Erik Karlsson D,21:38,0,0,0,1,0,0,0,5,0/0
+Penguins,Wild,away,F,Kris Letang D,24:06,0,1,-2,6,1,0,0,0,0/0
+Penguins,Wild,away,F,Marcus Pettersson D,25:45,0,1,0,1,2,0,1,1,0/0
+Penguins,Wild,away,F,Jack St. Ivany D,13:50,0,0,-1,0,1,7,0,0,0/0
