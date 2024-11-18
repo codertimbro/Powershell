@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Predators,Capitals,home,D,Alexandre Carrier D,19:32,0,1,0,0,1,2,0,0,0/0
+Predators,Capitals,home,D,Marc Del Gaizo D,15:13,0,0,-1,2,2,2,0,0,0/0
+Predators,Capitals,home,D,Roman Josi D,25:14,0,0,0,4,3,0,1,1,0/0
+Predators,Capitals,home,D,Jeremy Lauzon D,18:04,0,0,-1,0,3,2,0,1,0/0
+Predators,Capitals,home,D,Luke Schenn D,16:54,0,0,-1,2,1,0,0,0,0/0
+Predators,Capitals,home,D,Brady Skjei D,23:16,0,0,1,4,0,0,0,1,0/0
+Predators,Capitals,home,D,Alexandre Carrier D,19:32,0,1,0,0,1,2,0,0,0/0
+Predators,Capitals,home,D,Marc Del Gaizo D,15:13,0,0,-1,2,2,2,0,0,0/0
+Predators,Capitals,home,D,Roman Josi D,25:14,0,0,0,4,3,0,1,1,0/0
+Predators,Capitals,home,D,Jeremy Lauzon D,18:04,0,0,-1,0,3,2,0,1,0/0
+Predators,Capitals,home,D,Luke Schenn D,16:54,0,0,-1,2,1,0,0,0,0/0
+Predators,Capitals,home,D,Brady Skjei D,23:16,0,0,1,4,0,0,0,1,0/0
+Predators,Capitals,home,F,Luke Evangelista R,13:57,0,1,1,2,0,0,0,0,0/0
+Predators,Capitals,home,F,Filip Forsberg L,16:47,0,0,0,3,3,2,2,0,0/0
+Predators,Capitals,home,F,Zachary L'Heureux L,09:22,0,0,0,3,0,0,1,1,0/0
+Predators,Capitals,home,F,Jonathan Marchessault R,15:03,0,0,-2,3,0,2,1,1,1/3
+Predators,Capitals,home,F,Michael McCarron C,16:59,0,0,0,1,1,0,0,2,5/12
+Predators,Capitals,home,F,Gustav Nyquist R,14:35,0,0,-2,1,1,0,1,0,0/1
+Predators,Capitals,home,F,Ryan O'Reilly C,20:25,0,1,0,3,2,0,0,0,15/22
+Predators,Capitals,home,F,Juuso Parssinen C,16:58,1,0,0,1,0,0,1,1,5/12
+Predators,Capitals,home,F,Colton Sissons C,05:05,0,0,-1,1,1,0,0,0,2/5
+Predators,Capitals,home,F,Cole Smith R,13:07,0,0,0,2,0,0,0,2,1/1
+Predators,Capitals,home,F,Steven Stamkos C,16:10,1,0,0,2,0,0,0,0,3/6
+Predators,Capitals,home,F,Philip Tomasino R,12:49,0,1,1,1,2,0,0,1,1/1
+Predators,Capitals,home,F,Predators Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexandre
+Predators,Capitals,home,F,Alexandre Carrier D,19:32,0,1,0,0,1,2,0,0,0/0
+Predators,Capitals,home,F,Marc Del Gaizo D,15:13,0,0,-1,2,2,2,0,0,0/0
+Predators,Capitals,home,F,Roman Josi D,25:14,0,0,0,4,3,0,1,1,0/0
+Predators,Capitals,home,F,Jeremy Lauzon D,18:04,0,0,-1,0,3,2,0,1,0/0
+Predators,Capitals,home,F,Luke Schenn D,16:54,0,0,-1,2,1,0,0,0,0/0
+Predators,Capitals,home,F,Brady Skjei D,23:16,0,0,1,4,0,0,0,1,0/0
+Predators,Capitals,home,F,Luke Evangelista R,13:57,0,1,1,2,0,0,0,0,0/0
+Predators,Capitals,home,F,Filip Forsberg L,16:47,0,0,0,3,3,2,2,0,0/0
+Predators,Capitals,home,F,Zachary L'Heureux L,09:22,0,0,0,3,0,0,1,1,0/0
+Predators,Capitals,home,F,Jonathan Marchessault R,15:03,0,0,-2,3,0,2,1,1,1/3
+Predators,Capitals,home,F,Michael McCarron C,16:59,0,0,0,1,1,0,0,2,5/12
+Predators,Capitals,home,F,Gustav Nyquist R,14:35,0,0,-2,1,1,0,1,0,0/1
+Predators,Capitals,home,F,Ryan O'Reilly C,20:25,0,1,0,3,2,0,0,0,15/22
+Predators,Capitals,home,F,Juuso Parssinen C,16:58,1,0,0,1,0,0,1,1,5/12
+Predators,Capitals,home,F,Colton Sissons C,05:05,0,0,-1,1,1,0,0,0,2/5
+Predators,Capitals,home,F,Cole Smith R,13:07,0,0,0,2,0,0,0,2,1/1
+Predators,Capitals,home,F,Steven Stamkos C,16:10,1,0,0,2,0,0,0,0,3/6
+Predators,Capitals,home,F,Philip Tomasino R,12:49,0,1,1,1,2,0,0,1,1/1
+Predators,Capitals,home,F,Predators Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexandre
+Predators,Capitals,home,F,Alexandre Carrier D,19:32,0,1,0,0,1,2,0,0,0/0
+Predators,Capitals,home,F,Marc Del Gaizo D,15:13,0,0,-1,2,2,2,0,0,0/0
+Predators,Capitals,home,F,Roman Josi D,25:14,0,0,0,4,3,0,1,1,0/0
+Predators,Capitals,home,F,Jeremy Lauzon D,18:04,0,0,-1,0,3,2,0,1,0/0
+Predators,Capitals,home,F,Luke Schenn D,16:54,0,0,-1,2,1,0,0,0,0/0
+Predators,Capitals,home,F,Brady Skjei D,23:16,0,0,1,4,0,0,0,1,0/0
