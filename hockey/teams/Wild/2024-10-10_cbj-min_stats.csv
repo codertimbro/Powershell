@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Wild,Blue Jackets,away,D,Zach Bogosian D,14:51,0,0,0,3,1,0,0,2,0/0
+Wild,Blue Jackets,away,D,Jonas Brodin D,22:08,0,1,1,0,3,0,1,0,0/0
+Wild,Blue Jackets,away,D,Brock Faber D,24:57,0,0,1,1,1,0,0,0,0/0
+Wild,Blue Jackets,away,D,Jon Merrill D,12:55,0,0,0,0,1,0,0,1,0/0
+Wild,Blue Jackets,away,D,Jake Middleton D,22:14,0,0,0,1,6,2,0,1,0/0
+Wild,Blue Jackets,away,D,Jared Spurgeon D,19:36,0,0,0,2,3,0,0,0,0/0
+Wild,Blue Jackets,away,D,Zach Bogosian D,14:51,0,0,0,3,1,0,0,2,0/0
+Wild,Blue Jackets,away,D,Jonas Brodin D,22:08,0,1,1,0,3,0,1,0,0/0
+Wild,Blue Jackets,away,D,Brock Faber D,24:57,0,0,1,1,1,0,0,0,0/0
+Wild,Blue Jackets,away,D,Jon Merrill D,12:55,0,0,0,0,1,0,0,1,0/0
+Wild,Blue Jackets,away,D,Jake Middleton D,22:14,0,0,0,1,6,2,0,1,0/0
+Wild,Blue Jackets,away,D,Jared Spurgeon D,19:36,0,0,0,2,3,0,0,0,0/0
+Wild,Blue Jackets,away,F,Matt Boldy L,18:43,1,2,2,3,1,0,0,0,1/1
+Wild,Blue Jackets,away,F,Joel Eriksson Ek C,19:56,1,0,2,3,1,0,0,1,11/20
+Wild,Blue Jackets,away,F,Marcus Foligno L,13:09,0,0,0,0,0,2,0,0,0/0
+Wild,Blue Jackets,away,F,Frederick Gaudreau C,13:04,0,0,0,1,0,0,1,0,5/8
+Wild,Blue Jackets,away,F,Ryan Hartman R,13:55,0,0,0,2,0,0,0,1,7/14
+Wild,Blue Jackets,away,F,Marcus Johansson L,14:28,0,2,2,1,0,0,0,0,0/0
+Wild,Blue Jackets,away,F,Kirill Kaprizov L,18:04,0,1,-1,3,0,0,0,1,0/0
+Wild,Blue Jackets,away,F,Marat Khusnutdinov C,13:37,0,0,0,0,0,0,0,0,1/5
+Wild,Blue Jackets,away,F,Jakub Lauko C,12:14,0,0,0,2,0,0,0,0,0/0
+Wild,Blue Jackets,away,F,Marco Rossi C,14:01,0,0,-1,1,0,0,0,2,6/10
+Wild,Blue Jackets,away,F,Yakov Trenin C,13:05,0,0,0,1,1,0,0,1,0/0
+Wild,Blue Jackets,away,F,Mats Zuccarello R,14:47,1,0,-1,2,0,0,0,1,1/1
+Wild,Blue Jackets,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Blue Jackets,away,F,Zach Bogosian D,14:51,0,0,0,3,1,0,0,2,0/0
+Wild,Blue Jackets,away,F,Jonas Brodin D,22:08,0,1,1,0,3,0,1,0,0/0
+Wild,Blue Jackets,away,F,Brock Faber D,24:57,0,0,1,1,1,0,0,0,0/0
+Wild,Blue Jackets,away,F,Jon Merrill D,12:55,0,0,0,0,1,0,0,1,0/0
+Wild,Blue Jackets,away,F,Jake Middleton D,22:14,0,0,0,1,6,2,0,1,0/0
+Wild,Blue Jackets,away,F,Jared Spurgeon D,19:36,0,0,0,2,3,0,0,0,0/0
+Wild,Blue Jackets,away,F,Matt Boldy L,18:43,1,2,2,3,1,0,0,0,1/1
+Wild,Blue Jackets,away,F,Joel Eriksson Ek C,19:56,1,0,2,3,1,0,0,1,11/20
+Wild,Blue Jackets,away,F,Marcus Foligno L,13:09,0,0,0,0,0,2,0,0,0/0
+Wild,Blue Jackets,away,F,Frederick Gaudreau C,13:04,0,0,0,1,0,0,1,0,5/8
+Wild,Blue Jackets,away,F,Ryan Hartman R,13:55,0,0,0,2,0,0,0,1,7/14
+Wild,Blue Jackets,away,F,Marcus Johansson L,14:28,0,2,2,1,0,0,0,0,0/0
+Wild,Blue Jackets,away,F,Kirill Kaprizov L,18:04,0,1,-1,3,0,0,0,1,0/0
+Wild,Blue Jackets,away,F,Marat Khusnutdinov C,13:37,0,0,0,0,0,0,0,0,1/5
+Wild,Blue Jackets,away,F,Jakub Lauko C,12:14,0,0,0,2,0,0,0,0,0/0
+Wild,Blue Jackets,away,F,Marco Rossi C,14:01,0,0,-1,1,0,0,0,2,6/10
+Wild,Blue Jackets,away,F,Yakov Trenin C,13:05,0,0,0,1,1,0,0,1,0/0
+Wild,Blue Jackets,away,F,Mats Zuccarello R,14:47,1,0,-1,2,0,0,0,1,1/1
+Wild,Blue Jackets,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Blue Jackets,away,F,Zach Bogosian D,14:51,0,0,0,3,1,0,0,2,0/0
+Wild,Blue Jackets,away,F,Jonas Brodin D,22:08,0,1,1,0,3,0,1,0,0/0
+Wild,Blue Jackets,away,F,Brock Faber D,24:57,0,0,1,1,1,0,0,0,0/0
+Wild,Blue Jackets,away,F,Jon Merrill D,12:55,0,0,0,0,1,0,0,1,0/0
+Wild,Blue Jackets,away,F,Jake Middleton D,22:14,0,0,0,1,6,2,0,1,0/0
+Wild,Blue Jackets,away,F,Jared Spurgeon D,19:36,0,0,0,2,3,0,0,0,0/0
