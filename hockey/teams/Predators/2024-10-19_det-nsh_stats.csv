@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Predators,Red Wings,away,D,Alexandre Carrier D,19:57,0,0,-2,2,2,0,1,1,0/0
+Predators,Red Wings,away,D,Marc Del Gaizo D,16:02,0,0,0,3,1,2,1,0,0/0
+Predators,Red Wings,away,D,Roman Josi D,26:54,0,0,-1,4,3,0,0,1,0/0
+Predators,Red Wings,away,D,Jeremy Lauzon D,18:28,0,0,-2,1,2,0,0,0,0/0
+Predators,Red Wings,away,D,Luke Schenn D,15:17,1,0,1,2,2,2,1,0,0/0
+Predators,Red Wings,away,D,Brady Skjei D,20:46,0,0,0,1,0,0,1,0,0/0
+Predators,Red Wings,away,D,Alexandre Carrier D,19:57,0,0,-2,2,2,0,1,1,0/0
+Predators,Red Wings,away,D,Marc Del Gaizo D,16:02,0,0,0,3,1,2,1,0,0/0
+Predators,Red Wings,away,D,Roman Josi D,26:54,0,0,-1,4,3,0,0,1,0/0
+Predators,Red Wings,away,D,Jeremy Lauzon D,18:28,0,0,-2,1,2,0,0,0,0/0
+Predators,Red Wings,away,D,Luke Schenn D,15:17,1,0,1,2,2,2,1,0,0/0
+Predators,Red Wings,away,D,Brady Skjei D,20:46,0,0,0,1,0,0,1,0,0/0
+Predators,Red Wings,away,F,Luke Evangelista R,12:08,0,0,0,3,0,0,0,0,0/0
+Predators,Red Wings,away,F,Filip Forsberg L,19:54,0,1,-1,7,0,2,0,0,0/0
+Predators,Red Wings,away,F,Mark Jankowski C,15:27,0,0,0,3,0,0,0,0,2/2
+Predators,Red Wings,away,F,Jonathan Marchessault R,18:36,0,1,-2,0,0,0,0,0,0/1
+Predators,Red Wings,away,F,Michael McCarron R,09:07,0,0,-2,0,0,0,0,1,2/3
+Predators,Red Wings,away,F,Tommy Novak C,12:52,0,0,-1,2,0,0,0,0,2/7
+Predators,Red Wings,away,F,Gustav Nyquist C,17:48,0,1,0,1,1,0,0,2,0/0
+Predators,Red Wings,away,F,Ryan O'Reilly C,20:51,0,1,0,2,1,0,0,2,11/27
+Predators,Red Wings,away,F,Colton Sissons C,15:51,0,0,-1,1,0,0,1,2,8/15
+Predators,Red Wings,away,F,Cole Smith L,09:29,0,0,-1,1,2,2,0,0,1/1
+Predators,Red Wings,away,F,Steven Stamkos C,19:36,1,0,-3,6,1,0,0,0,3/7
+Predators,Red Wings,away,F,Philip Tomasino C,05:08,0,0,-2,0,0,0,0,0,0/0
+Predators,Red Wings,away,F,Predators Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexandre
+Predators,Red Wings,away,F,Alexandre Carrier D,19:57,0,0,-2,2,2,0,1,1,0/0
+Predators,Red Wings,away,F,Marc Del Gaizo D,16:02,0,0,0,3,1,2,1,0,0/0
+Predators,Red Wings,away,F,Roman Josi D,26:54,0,0,-1,4,3,0,0,1,0/0
+Predators,Red Wings,away,F,Jeremy Lauzon D,18:28,0,0,-2,1,2,0,0,0,0/0
+Predators,Red Wings,away,F,Luke Schenn D,15:17,1,0,1,2,2,2,1,0,0/0
+Predators,Red Wings,away,F,Brady Skjei D,20:46,0,0,0,1,0,0,1,0,0/0
+Predators,Red Wings,away,F,Luke Evangelista R,12:08,0,0,0,3,0,0,0,0,0/0
+Predators,Red Wings,away,F,Filip Forsberg L,19:54,0,1,-1,7,0,2,0,0,0/0
+Predators,Red Wings,away,F,Mark Jankowski C,15:27,0,0,0,3,0,0,0,0,2/2
+Predators,Red Wings,away,F,Jonathan Marchessault R,18:36,0,1,-2,0,0,0,0,0,0/1
+Predators,Red Wings,away,F,Michael McCarron R,09:07,0,0,-2,0,0,0,0,1,2/3
+Predators,Red Wings,away,F,Tommy Novak C,12:52,0,0,-1,2,0,0,0,0,2/7
+Predators,Red Wings,away,F,Gustav Nyquist C,17:48,0,1,0,1,1,0,0,2,0/0
+Predators,Red Wings,away,F,Ryan O'Reilly C,20:51,0,1,0,2,1,0,0,2,11/27
+Predators,Red Wings,away,F,Colton Sissons C,15:51,0,0,-1,1,0,0,1,2,8/15
+Predators,Red Wings,away,F,Cole Smith L,09:29,0,0,-1,1,2,2,0,0,1/1
+Predators,Red Wings,away,F,Steven Stamkos C,19:36,1,0,-3,6,1,0,0,0,3/7
+Predators,Red Wings,away,F,Philip Tomasino C,05:08,0,0,-2,0,0,0,0,0,0/0
+Predators,Red Wings,away,F,Predators Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOAlexandre
+Predators,Red Wings,away,F,Alexandre Carrier D,19:57,0,0,-2,2,2,0,1,1,0/0
+Predators,Red Wings,away,F,Marc Del Gaizo D,16:02,0,0,0,3,1,2,1,0,0/0
+Predators,Red Wings,away,F,Roman Josi D,26:54,0,0,-1,4,3,0,0,1,0/0
+Predators,Red Wings,away,F,Jeremy Lauzon D,18:28,0,0,-2,1,2,0,0,0,0/0
+Predators,Red Wings,away,F,Luke Schenn D,15:17,1,0,1,2,2,2,1,0,0/0
+Predators,Red Wings,away,F,Brady Skjei D,20:46,0,0,0,1,0,0,1,0,0/0
