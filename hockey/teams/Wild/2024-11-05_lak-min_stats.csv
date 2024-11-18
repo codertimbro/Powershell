@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Wild,Kings,away,D,Zach Bogosian D,14:04,1,0,-1,1,0,0,0,1,0/0
+Wild,Kings,away,D,Jonas Brodin D,20:38,0,0,-1,1,1,0,0,0,0/0
+Wild,Kings,away,D,Brock Faber D,24:42,0,0,-1,2,0,0,0,1,0/0
+Wild,Kings,away,D,Jon Merrill D,14:33,0,0,-1,1,0,0,1,0,0/0
+Wild,Kings,away,D,Jake Middleton D,17:22,0,0,0,3,2,0,1,1,0/0
+Wild,Kings,away,D,Jared Spurgeon D,20:22,0,0,-1,3,0,0,1,1,0/0
+Wild,Kings,away,D,Zach Bogosian D,14:04,1,0,-1,1,0,0,0,1,0/0
+Wild,Kings,away,D,Jonas Brodin D,20:38,0,0,-1,1,1,0,0,0,0/0
+Wild,Kings,away,D,Brock Faber D,24:42,0,0,-1,2,0,0,0,1,0/0
+Wild,Kings,away,D,Jon Merrill D,14:33,0,0,-1,1,0,0,1,0,0/0
+Wild,Kings,away,D,Jake Middleton D,17:22,0,0,0,3,2,0,1,1,0/0
+Wild,Kings,away,D,Jared Spurgeon D,20:22,0,0,-1,3,0,0,1,1,0/0
+Wild,Kings,away,F,Matt Boldy L,22:26,0,0,-1,4,1,0,0,0,1/3
+Wild,Kings,away,F,Joel Eriksson Ek C,20:03,0,0,-1,1,1,0,1,0,5/16
+Wild,Kings,away,F,Marcus Foligno L,10:28,0,0,1,0,0,0,0,1,0/0
+Wild,Kings,away,F,Frederick Gaudreau C,15:45,0,1,1,1,1,0,0,0,11/16
+Wild,Kings,away,F,Ryan Hartman R,16:39,0,1,0,1,0,0,0,2,0/0
+Wild,Kings,away,F,Marcus Johansson L,17:52,0,0,0,0,1,0,0,0,0/0
+Wild,Kings,away,F,Kirill Kaprizov L,17:10,0,0,-2,1,0,0,1,2,0/1
+Wild,Kings,away,F,Marat Khusnutdinov C,09:54,0,0,-2,2,0,0,0,0,7/11
+Wild,Kings,away,F,Jakub Lauko C,10:45,0,0,-2,0,0,0,0,1,0/0
+Wild,Kings,away,F,Marco Rossi C,15:32,0,0,-1,2,1,2,0,0,5/14
+Wild,Kings,away,F,Yakov Trenin C,10:59,0,0,-1,1,1,0,1,1,1/1
+Wild,Kings,away,F,Mats Zuccarello R,17:57,0,0,-3,0,0,2,1,2,0/1
+Wild,Kings,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Kings,away,F,Zach Bogosian D,14:04,1,0,-1,1,0,0,0,1,0/0
+Wild,Kings,away,F,Jonas Brodin D,20:38,0,0,-1,1,1,0,0,0,0/0
+Wild,Kings,away,F,Brock Faber D,24:42,0,0,-1,2,0,0,0,1,0/0
+Wild,Kings,away,F,Jon Merrill D,14:33,0,0,-1,1,0,0,1,0,0/0
+Wild,Kings,away,F,Jake Middleton D,17:22,0,0,0,3,2,0,1,1,0/0
+Wild,Kings,away,F,Jared Spurgeon D,20:22,0,0,-1,3,0,0,1,1,0/0
+Wild,Kings,away,F,Matt Boldy L,22:26,0,0,-1,4,1,0,0,0,1/3
+Wild,Kings,away,F,Joel Eriksson Ek C,20:03,0,0,-1,1,1,0,1,0,5/16
+Wild,Kings,away,F,Marcus Foligno L,10:28,0,0,1,0,0,0,0,1,0/0
+Wild,Kings,away,F,Frederick Gaudreau C,15:45,0,1,1,1,1,0,0,0,11/16
+Wild,Kings,away,F,Ryan Hartman R,16:39,0,1,0,1,0,0,0,2,0/0
+Wild,Kings,away,F,Marcus Johansson L,17:52,0,0,0,0,1,0,0,0,0/0
+Wild,Kings,away,F,Kirill Kaprizov L,17:10,0,0,-2,1,0,0,1,2,0/1
+Wild,Kings,away,F,Marat Khusnutdinov C,09:54,0,0,-2,2,0,0,0,0,7/11
+Wild,Kings,away,F,Jakub Lauko C,10:45,0,0,-2,0,0,0,0,1,0/0
+Wild,Kings,away,F,Marco Rossi C,15:32,0,0,-1,2,1,2,0,0,5/14
+Wild,Kings,away,F,Yakov Trenin C,10:59,0,0,-1,1,1,0,1,1,1/1
+Wild,Kings,away,F,Mats Zuccarello R,17:57,0,0,-3,0,0,2,1,2,0/1
+Wild,Kings,away,F,Wild Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOZach
+Wild,Kings,away,F,Zach Bogosian D,14:04,1,0,-1,1,0,0,0,1,0/0
+Wild,Kings,away,F,Jonas Brodin D,20:38,0,0,-1,1,1,0,0,0,0/0
+Wild,Kings,away,F,Brock Faber D,24:42,0,0,-1,2,0,0,0,1,0/0
+Wild,Kings,away,F,Jon Merrill D,14:33,0,0,-1,1,0,0,1,0,0/0
+Wild,Kings,away,F,Jake Middleton D,17:22,0,0,0,3,2,0,1,1,0/0
+Wild,Kings,away,F,Jared Spurgeon D,20:22,0,0,-1,3,0,0,1,1,0/0
