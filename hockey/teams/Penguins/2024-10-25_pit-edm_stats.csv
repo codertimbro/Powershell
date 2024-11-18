@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Penguins,Oilers,home,D,Ryan Graves D,16:58,0,0,0,0,2,0,0,1,0/0
+Penguins,Oilers,home,D,Matt Grzelcyk D,21:06,0,0,-1,1,4,0,1,0,0/0
+Penguins,Oilers,home,D,Erik Karlsson D,21:41,0,0,-1,2,0,0,0,0,0/0
+Penguins,Oilers,home,D,Kris Letang D,22:31,0,0,-2,3,1,0,0,0,0/0
+Penguins,Oilers,home,D,Marcus Pettersson D,20:57,0,0,-2,0,2,5,0,2,0/0
+Penguins,Oilers,home,D,Jack St. Ivany D,15:56,0,0,0,1,3,0,0,3,0/0
+Penguins,Oilers,home,D,Ryan Graves D,16:58,0,0,0,0,2,0,0,1,0/0
+Penguins,Oilers,home,D,Matt Grzelcyk D,21:06,0,0,-1,1,4,0,1,0,0/0
+Penguins,Oilers,home,D,Erik Karlsson D,21:41,0,0,-1,2,0,0,0,0,0/0
+Penguins,Oilers,home,D,Kris Letang D,22:31,0,0,-2,3,1,0,0,0,0/0
+Penguins,Oilers,home,D,Marcus Pettersson D,20:57,0,0,-2,0,2,5,0,2,0/0
+Penguins,Oilers,home,D,Jack St. Ivany D,15:56,0,0,0,1,3,0,0,3,0/0
+Penguins,Oilers,home,F,Noel Acciari C,10:46,0,0,-1,2,3,0,1,0,1/9
+Penguins,Oilers,home,F,Anthony Beauvillier L,13:37,0,0,-1,3,0,0,1,0,0/0
+Penguins,Oilers,home,F,Michael Bunting L,15:51,0,0,0,0,0,0,0,1,0/0
+Penguins,Oilers,home,F,Sidney Crosby C,18:27,0,0,-1,1,0,0,0,1,8/16
+Penguins,Oilers,home,F,Lars Eller C,16:57,0,0,-1,3,0,0,0,0,3/5
+Penguins,Oilers,home,F,Cody Glass C,10:40,0,0,-1,1,0,0,0,0,1/3
+Penguins,Oilers,home,F,Kevin Hayes R,08:38,0,0,-1,2,0,0,0,0,2/2
+Penguins,Oilers,home,F,Evgeni Malkin C,19:23,0,0,0,0,0,2,0,2,5/11
+Penguins,Oilers,home,F,Drew O'Connor L,16:33,0,0,-1,3,1,0,2,1,0/1
+Penguins,Oilers,home,F,Jesse Puljujarvi R,10:56,0,0,-1,1,1,0,0,0,0/0
+Penguins,Oilers,home,F,Rickard Rakell R,16:44,0,0,0,2,3,0,0,0,0/0
+Penguins,Oilers,home,F,Bryan Rust R,18:45,0,0,-1,2,0,0,1,3,0/0
+Penguins,Oilers,home,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Oilers,home,F,Ryan Graves D,16:58,0,0,0,0,2,0,0,1,0/0
+Penguins,Oilers,home,F,Matt Grzelcyk D,21:06,0,0,-1,1,4,0,1,0,0/0
+Penguins,Oilers,home,F,Erik Karlsson D,21:41,0,0,-1,2,0,0,0,0,0/0
+Penguins,Oilers,home,F,Kris Letang D,22:31,0,0,-2,3,1,0,0,0,0/0
+Penguins,Oilers,home,F,Marcus Pettersson D,20:57,0,0,-2,0,2,5,0,2,0/0
+Penguins,Oilers,home,F,Jack St. Ivany D,15:56,0,0,0,1,3,0,0,3,0/0
+Penguins,Oilers,home,F,Noel Acciari C,10:46,0,0,-1,2,3,0,1,0,1/9
+Penguins,Oilers,home,F,Anthony Beauvillier L,13:37,0,0,-1,3,0,0,1,0,0/0
+Penguins,Oilers,home,F,Michael Bunting L,15:51,0,0,0,0,0,0,0,1,0/0
+Penguins,Oilers,home,F,Sidney Crosby C,18:27,0,0,-1,1,0,0,0,1,8/16
+Penguins,Oilers,home,F,Lars Eller C,16:57,0,0,-1,3,0,0,0,0,3/5
+Penguins,Oilers,home,F,Cody Glass C,10:40,0,0,-1,1,0,0,0,0,1/3
+Penguins,Oilers,home,F,Kevin Hayes R,08:38,0,0,-1,2,0,0,0,0,2/2
+Penguins,Oilers,home,F,Evgeni Malkin C,19:23,0,0,0,0,0,2,0,2,5/11
+Penguins,Oilers,home,F,Drew O'Connor L,16:33,0,0,-1,3,1,0,2,1,0/1
+Penguins,Oilers,home,F,Jesse Puljujarvi R,10:56,0,0,-1,1,1,0,0,0,0/0
+Penguins,Oilers,home,F,Rickard Rakell R,16:44,0,0,0,2,3,0,0,0,0/0
+Penguins,Oilers,home,F,Bryan Rust R,18:45,0,0,-1,2,0,0,1,3,0/0
+Penguins,Oilers,home,F,Penguins Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FORyan
+Penguins,Oilers,home,F,Ryan Graves D,16:58,0,0,0,0,2,0,0,1,0/0
+Penguins,Oilers,home,F,Matt Grzelcyk D,21:06,0,0,-1,1,4,0,1,0,0/0
+Penguins,Oilers,home,F,Erik Karlsson D,21:41,0,0,-1,2,0,0,0,0,0/0
+Penguins,Oilers,home,F,Kris Letang D,22:31,0,0,-2,3,1,0,0,0,0/0
+Penguins,Oilers,home,F,Marcus Pettersson D,20:57,0,0,-2,0,2,5,0,2,0/0
+Penguins,Oilers,home,F,Jack St. Ivany D,15:56,0,0,0,1,3,0,0,3,0/0
