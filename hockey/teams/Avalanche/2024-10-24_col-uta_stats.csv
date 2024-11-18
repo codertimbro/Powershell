@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Avalanche,Hockey Club,home,D,Samuel Girard D,22:47,0,0,0,1,2,0,0,1,0/0
+Avalanche,Hockey Club,home,D,Cale Makar D,22:36,1,0,1,6,2,0,0,1,0/0
+Avalanche,Hockey Club,home,D,Sam Malinski D,14:40,0,1,1,1,3,0,0,0,0/0
+Avalanche,Hockey Club,home,D,Josh Manson D,19:53,0,0,0,0,1,4,1,1,0/0
+Avalanche,Hockey Club,home,D,Devon Toews D,18:48,0,0,1,3,0,0,0,0,0/0
+Avalanche,Hockey Club,home,D,Calvin de Haan D,16:48,0,0,1,1,3,0,0,1,0/0
+Avalanche,Hockey Club,home,D,Samuel Girard D,22:47,0,0,0,1,2,0,0,1,0/0
+Avalanche,Hockey Club,home,D,Cale Makar D,22:36,1,0,1,6,2,0,0,1,0/0
+Avalanche,Hockey Club,home,D,Sam Malinski D,14:40,0,1,1,1,3,0,0,0,0/0
+Avalanche,Hockey Club,home,D,Josh Manson D,19:53,0,0,0,0,1,4,1,1,0/0
+Avalanche,Hockey Club,home,D,Devon Toews D,18:48,0,0,1,3,0,0,0,0,0/0
+Avalanche,Hockey Club,home,D,Calvin de Haan D,16:48,0,0,1,1,3,0,0,1,0/0
+Avalanche,Hockey Club,home,F,Ross Colton C,11:07,1,0,0,3,0,0,0,0,0/1
+Avalanche,Hockey Club,home,F,Ivan Ivan C,12:50,1,0,1,1,0,0,0,0,1/3
+Avalanche,Hockey Club,home,F,Parker Kelly C,16:43,0,0,0,1,3,2,0,1,4/12
+Avalanche,Hockey Club,home,F,Joel Kiviranta L,17:00,1,0,1,1,2,0,1,2,0/1
+Avalanche,Hockey Club,home,F,Nikolai Kovalenko R,13:17,0,2,1,1,0,0,0,0,0/1
+Avalanche,Hockey Club,home,F,Nathan MacKinnon C,20:57,0,1,1,3,1,0,0,1,5/13
+Avalanche,Hockey Club,home,F,Casey Mittelstadt C,18:16,1,2,0,1,0,0,0,0,4/14
+Avalanche,Hockey Club,home,F,Logan O'Connor R,14:41,0,0,0,1,0,0,0,1,1/7
+Avalanche,Hockey Club,home,F,Mikko Rantanen R,21:29,0,2,1,0,2,0,0,2,0/1
+Avalanche,Hockey Club,home,F,Matt Stienburg C,09:36,0,0,0,0,0,0,0,0,0/0
+Avalanche,Hockey Club,home,F,Chris Wagner R,07:46,0,0,0,0,1,0,0,0,0/3
+Avalanche,Hockey Club,home,F,Miles Wood L,14:57,0,0,1,2,0,0,0,1,1/1
+Avalanche,Hockey Club,home,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Hockey Club,home,F,Samuel Girard D,22:47,0,0,0,1,2,0,0,1,0/0
+Avalanche,Hockey Club,home,F,Cale Makar D,22:36,1,0,1,6,2,0,0,1,0/0
+Avalanche,Hockey Club,home,F,Sam Malinski D,14:40,0,1,1,1,3,0,0,0,0/0
+Avalanche,Hockey Club,home,F,Josh Manson D,19:53,0,0,0,0,1,4,1,1,0/0
+Avalanche,Hockey Club,home,F,Devon Toews D,18:48,0,0,1,3,0,0,0,0,0/0
+Avalanche,Hockey Club,home,F,Calvin de Haan D,16:48,0,0,1,1,3,0,0,1,0/0
+Avalanche,Hockey Club,home,F,Ross Colton C,11:07,1,0,0,3,0,0,0,0,0/1
+Avalanche,Hockey Club,home,F,Ivan Ivan C,12:50,1,0,1,1,0,0,0,0,1/3
+Avalanche,Hockey Club,home,F,Parker Kelly C,16:43,0,0,0,1,3,2,0,1,4/12
+Avalanche,Hockey Club,home,F,Joel Kiviranta L,17:00,1,0,1,1,2,0,1,2,0/1
+Avalanche,Hockey Club,home,F,Nikolai Kovalenko R,13:17,0,2,1,1,0,0,0,0,0/1
+Avalanche,Hockey Club,home,F,Nathan MacKinnon C,20:57,0,1,1,3,1,0,0,1,5/13
+Avalanche,Hockey Club,home,F,Casey Mittelstadt C,18:16,1,2,0,1,0,0,0,0,4/14
+Avalanche,Hockey Club,home,F,Logan O'Connor R,14:41,0,0,0,1,0,0,0,1,1/7
+Avalanche,Hockey Club,home,F,Mikko Rantanen R,21:29,0,2,1,0,2,0,0,2,0/1
+Avalanche,Hockey Club,home,F,Matt Stienburg C,09:36,0,0,0,0,0,0,0,0,0/0
+Avalanche,Hockey Club,home,F,Chris Wagner R,07:46,0,0,0,0,1,0,0,0,0/3
+Avalanche,Hockey Club,home,F,Miles Wood L,14:57,0,0,1,2,0,0,0,1,1/1
+Avalanche,Hockey Club,home,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Hockey Club,home,F,Samuel Girard D,22:47,0,0,0,1,2,0,0,1,0/0
+Avalanche,Hockey Club,home,F,Cale Makar D,22:36,1,0,1,6,2,0,0,1,0/0
+Avalanche,Hockey Club,home,F,Sam Malinski D,14:40,0,1,1,1,3,0,0,0,0/0
+Avalanche,Hockey Club,home,F,Josh Manson D,19:53,0,0,0,0,1,4,1,1,0/0
+Avalanche,Hockey Club,home,F,Devon Toews D,18:48,0,0,1,3,0,0,0,0,0/0
+Avalanche,Hockey Club,home,F,Calvin de Haan D,16:48,0,0,1,1,3,0,0,1,0/0
