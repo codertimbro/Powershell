@@ -1,0 +1,51 @@
+team,opponent,location,position,name,toi,goals,assists,plus_minus,shots,blocks,pim,takeaways,giveaways,faceoffs
+Avalanche,Bruins,away,D,Samuel Girard D,23:34,0,0,0,0,4,0,0,2,0/0
+Avalanche,Bruins,away,D,Oliver Kylington D,17:35,0,0,-1,0,2,2,0,0,0/0
+Avalanche,Bruins,away,D,Cale Makar D,27:28,1,2,-2,2,0,0,2,2,0/0
+Avalanche,Bruins,away,D,Sam Malinski D,13:07,0,0,-1,2,0,0,0,2,0/0
+Avalanche,Bruins,away,D,Josh Manson D,19:18,0,0,0,3,1,0,1,2,0/0
+Avalanche,Bruins,away,D,Calvin de Haan D,15:09,0,0,-1,2,2,0,0,0,0/0
+Avalanche,Bruins,away,D,Samuel Girard D,23:34,0,0,0,0,4,0,0,2,0/0
+Avalanche,Bruins,away,D,Oliver Kylington D,17:35,0,0,-1,0,2,2,0,0,0/0
+Avalanche,Bruins,away,D,Cale Makar D,27:28,1,2,-2,2,0,0,2,2,0/0
+Avalanche,Bruins,away,D,Sam Malinski D,13:07,0,0,-1,2,0,0,0,2,0/0
+Avalanche,Bruins,away,D,Josh Manson D,19:18,0,0,0,3,1,0,1,2,0/0
+Avalanche,Bruins,away,D,Calvin de Haan D,15:09,0,0,-1,2,2,0,0,0,0/0
+Avalanche,Bruins,away,F,Ross Colton C,19:36,1,0,-1,4,2,0,1,1,4/10
+Avalanche,Bruins,away,F,Ivan Ivan C,06:29,0,0,-1,0,0,0,0,0,0/1
+Avalanche,Bruins,away,F,Parker Kelly C,12:43,0,0,-1,1,1,2,1,1,4/13
+Avalanche,Bruins,away,F,Joel Kiviranta L,11:10,0,0,0,0,0,0,0,0,0/0
+Avalanche,Bruins,away,F,Nikolai Kovalenko R,13:03,0,0,-1,2,0,0,0,1,0/0
+Avalanche,Bruins,away,F,Nathan MacKinnon C,23:48,0,2,-2,1,2,0,0,2,9/19
+Avalanche,Bruins,away,F,Casey Mittelstadt C,21:33,0,0,-1,3,1,0,1,0,6/17
+Avalanche,Bruins,away,F,Logan O'Connor R,18:46,0,0,0,0,0,0,0,1,0/0
+Avalanche,Bruins,away,F,Mikko Rantanen R,21:45,1,2,-2,4,0,4,0,3,1/2
+Avalanche,Bruins,away,F,Calum Ritchie C,13:45,0,0,-1,0,0,0,0,2,0/0
+Avalanche,Bruins,away,F,Matt Stienburg C,04:36,0,0,-1,0,0,5,0,0,0/0
+Avalanche,Bruins,away,F,Miles Wood L,12:46,0,0,0,1,0,0,0,1,0/0
+Avalanche,Bruins,away,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Bruins,away,F,Samuel Girard D,23:34,0,0,0,0,4,0,0,2,0/0
+Avalanche,Bruins,away,F,Oliver Kylington D,17:35,0,0,-1,0,2,2,0,0,0/0
+Avalanche,Bruins,away,F,Cale Makar D,27:28,1,2,-2,2,0,0,2,2,0/0
+Avalanche,Bruins,away,F,Sam Malinski D,13:07,0,0,-1,2,0,0,0,2,0/0
+Avalanche,Bruins,away,F,Josh Manson D,19:18,0,0,0,3,1,0,1,2,0/0
+Avalanche,Bruins,away,F,Calvin de Haan D,15:09,0,0,-1,2,2,0,0,0,0/0
+Avalanche,Bruins,away,F,Ross Colton C,19:36,1,0,-1,4,2,0,1,1,4/10
+Avalanche,Bruins,away,F,Ivan Ivan C,06:29,0,0,-1,0,0,0,0,0,0/1
+Avalanche,Bruins,away,F,Parker Kelly C,12:43,0,0,-1,1,1,2,1,1,4/13
+Avalanche,Bruins,away,F,Joel Kiviranta L,11:10,0,0,0,0,0,0,0,0,0/0
+Avalanche,Bruins,away,F,Nikolai Kovalenko R,13:03,0,0,-1,2,0,0,0,1,0/0
+Avalanche,Bruins,away,F,Nathan MacKinnon C,23:48,0,2,-2,1,2,0,0,2,9/19
+Avalanche,Bruins,away,F,Casey Mittelstadt C,21:33,0,0,-1,3,1,0,1,0,6/17
+Avalanche,Bruins,away,F,Logan O'Connor R,18:46,0,0,0,0,0,0,0,1,0/0
+Avalanche,Bruins,away,F,Mikko Rantanen R,21:45,1,2,-2,4,0,4,0,3,1/2
+Avalanche,Bruins,away,F,Calum Ritchie C,13:45,0,0,-1,0,0,0,0,2,0/0
+Avalanche,Bruins,away,F,Matt Stienburg C,04:36,0,0,-1,0,0,5,0,0,0/0
+Avalanche,Bruins,away,F,Miles Wood L,12:46,0,0,0,1,0,0,0,1,0/0
+Avalanche,Bruins,away,F,Avalanche Defenseman:,TOI,G,A,+/-,S,B,PM,TK,GV,FOSamuel
+Avalanche,Bruins,away,F,Samuel Girard D,23:34,0,0,0,0,4,0,0,2,0/0
+Avalanche,Bruins,away,F,Oliver Kylington D,17:35,0,0,-1,0,2,2,0,0,0/0
+Avalanche,Bruins,away,F,Cale Makar D,27:28,1,2,-2,2,0,0,2,2,0/0
+Avalanche,Bruins,away,F,Sam Malinski D,13:07,0,0,-1,2,0,0,0,2,0/0
+Avalanche,Bruins,away,F,Josh Manson D,19:18,0,0,0,3,1,0,1,2,0/0
+Avalanche,Bruins,away,F,Calvin de Haan D,15:09,0,0,-1,2,2,0,0,0,0/0
