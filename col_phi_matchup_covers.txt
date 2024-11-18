@@ -1,0 +1,811 @@
+Team Table
+Team	Record	ATS	O/U	Away	Home
+
+COL
+9-9-0	6-12-0	10-5-3	3-3-0	6-6-0
+
+PHI
+8-8-2	8-10-0	11-7-0	4-4-2	4-4-0
+betmgm
+
+Switch books
+Game Odds
+Team	ML	Total	Puck Line
+
+COL
+-165	o6.5 -115	-1.5 +140
+
+PHI
++140	u6.5 -105	+1.5 -165
+Head-To-Head
+Last 10
+Betting Terms
+Win / Loss
+7-3
+Over / Under
+7-3-0
+Head-To-Head
+Date	Home	Result	ML	O/U	HSOG	ASOG	HPP	APP
+Jan 20, '24	PHI	 7 - 4	COL -104	o6.5	40	25	0-3	1-2
+Dec 09, '23	COL	 5 - 2	PHI +145	o6.0	38	34	0-2	0-1
+Dec 13, '22	COL	 3 - 2	COL -228	u6.0	25	28	0-3	0-2
+Dec 05, '22	PHI	 5 - 3	PHI +165	o6.0	34	32	2-3	1-5
+Mar 25, '22	COL	 6 - 3	COL -368	o6.5	51	31	1-3	0-2
+Dec 06, '21	PHI	 7 - 5	COL -150	o6.5	32	50	1-3	3-5
+Feb 01, '20	PHI	 6 - 3	PHI +134	o6.0	28	31	1-5	1-3
+Dec 11, '19	COL	 3 - 1	COL -154	u6.5	27	33	0-2	0-2
+Oct 22, '18	PHI	 4 - 1	COL +102	u6.0	38	33	0-3	1-2
+Oct 06, '18	COL	 5 - 2	COL -115	o6.0	35	37	1-4	0-3
+Goaltenders
+Last 5
+Betting Terms
+W/L
+3-2-0-0
+GAA
+2.17
+Save %
+.843
+Colorado Goaltender Stats
+Date	Score	W/L	GA	SA	SV%	SO	ML	O/U
+J.Annunen	Nov 15, 2024	COL 2 - WAS 5	L	3	6	.500	-	L -163	p7.0
+T.Miner	Nov 15, 2024	COL 2 - WAS 5	-	1	13	.923	-	L -163	p7.0
+A.Georgiev	Nov 13, 2024	COL 4 - LA 2	W	2	15	.867	-	W -125	p6.0
+A.Georgiev	Nov 11, 2024	COL 3 - NAS 2 (OT)	W	2	30	.933	-	W -137	u6.5
+A.Georgiev	Nov 9, 2024	COL 6 - CAR 4	W	4	31	.871	-	W +111	o6.5
+A.Georgiev	Nov 7, 2024	WIN 1 - COL 0	L	1	28	.964	-	L +126	u6.5
+Offense vs Defense
+Betting Terms
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.39
+Total	3.50
+0.94
+1st Period	0.72
+1.28
+2nd Period	1.56
+1.06
+3rd Period	1.17
+0.11
+OT	0.06
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+30.17
+Total	28.50
+9.06
+1st Period	9.78
+10.83
+2nd Period	9.83
+9.89
+3rd Period	8.06
+0.39
+OT	0.83
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.88
+0.10
+1st Period	0.93
+0.12
+2nd Period	0.84
+0.11
+3rd Period	0.86
+0.29
+OT	0.93
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+18 - 58
+G/Att vs. GA/Att	8 - 62
+31.03
+PP % vs. PK %	87.10
+Goaltenders
+Goaltenders table
+Colorado Goaltenders
+Name	S	SV	SV%	WL
+Justus Annunen	176	155	0.881	5-3-0
+Alexandar Georgiev	233	201	0.863	4-5-0
+Kevin Mandolese	0	0	0.000	0-0-0
+
+
+Phi
+Record
+Last 10
+Betting Terms
+Win / Loss
+6-3-0-1
+Over / Under
+6-4-0
+ML
+$285
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 16, '24	
+
+BUF
+W 5 - 2	W -104	o6.0	32	25	1-5	1-4
+Nov 14, '24	
+@
+
+OTT
+W 5 - 4 (OT)	W +163	o6.0	19	37	0-2	2-6
+Nov 11, '24	
+
+SJ
+W 4 - 3 (SO)	W -267	o6.0	43	31	1-3	0-3
+Nov 09, '24	
+@
+
+FLA
+L 3 - 4 (SO)	L +220	o5.5	37	31	0-2	0-2
+Nov 07, '24	
+@
+
+TB
+W 2 - 1 (SO)	W +182	u6.0	31	23	0-2	0-2
+Nov 05, '24	
+@
+
+CAR
+L 4 - 6	L +263	o6.0	16	34	1-3	0-2
+Nov 02, '24	
+
+BOS
+L 0 - 3	L +102	u6.5	20	30	0-3	0-2
+Oct 31, '24	
+
+STL
+W 2 - 1	W -139	u6.0	21	21	0-3	0-2
+Oct 29, '24	
+@
+
+BOS
+W 2 - 0	W +135	u6.5	19	25	0-2	0-4
+Oct 27, '24	
+
+MON
+L 3 - 4	L -175	o6.5	26	24	0-3	1-2
+Next 3 Games
+Next 3 Games
+Date	vs	Last vs	ML	O/U
+Nov 20, '24	
+
+CAR
+L 4-6	L +263	o6.0
+Nov 23, '24	
+
+CHI
+L 1-5	L -300	u6.5
+Nov 25, '24	
+
+VEG
+W 4-3 (OT)	W +132	o6.0
+Goaltenders
+Last 5
+Betting Terms
+W/L
+4-0-0-1
+GAA
+2.60
+Save %
+.915
+Philadelphia Goaltender Stats
+Date	Score	W/L	GA	SA	SV%	SO	ML	O/U
+I.Fedotov	Nov 16, 2024	PHI 5 - BUF 2	W	2	25	.920	-	W -104	o6.0
+I.Fedotov	Nov 14, 2024	OTT 4 - PHI 5 (OT)	W	4	37	.892	-	W +163	o6.0
+S.Ersson	Nov 11, 2024	PHI 4 - SJ 3 (SO)	W	3	31	.903	-	W -267	o6.0
+S.Ersson	Nov 9, 2024	FLA 4 - PHI 3 (SO)	-	3	31	.903	-	L +220	o5.5
+I.Fedotov	Nov 7, 2024	TB 1 - PHI 2 (SO)	W	1	23	.957	-	W +182	u6.0
+Offense vs Defense
+Betting Terms
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.83
+Total	3.78
+0.89
+1st Period	1.44
+0.72
+2nd Period	1.00
+1.17
+3rd Period	1.33
+0.06
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+27.00
+Total	25.11
+8.56
+1st Period	9.78
+8.83
+2nd Period	7.50
+8.72
+3rd Period	7.72
+0.89
+OT	0.11
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.85
+0.10
+1st Period	0.85
+0.08
+2nd Period	0.87
+0.13
+3rd Period	0.83
+0.06
+OT	1.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+11 - 59
+G/Att vs. GA/Att	13 - 46
+18.64
+PP % vs. PK %	71.74
+Goaltenders
+Goaltenders table
+Philadelphia Goaltenders
+Name	S	SV	SV%	WL
+Samuel Ersson	265	239	0.902	5-2-2
+Ivan Fedotov	163	142	0.871	3-3-0
+Aleksei Kolosov	80	69	0.863	0-3-0
+
+Phi location
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.62
+Total	3.00
+1.00
+1st Period	0.83
+0.50
+2nd Period	0.83
+1.12
+3rd Period	1.33
+0.00
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+26.12
+Total	25.67
+7.62
+1st Period	10.00
+8.75
+2nd Period	7.83
+9.50
+3rd Period	7.83
+0.25
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.88
+0.13
+1st Period	0.92
+0.06
+2nd Period	0.89
+0.12
+3rd Period	0.83
+0.00
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+3 - 25
+G/Att vs. GA/Att	6 - 16
+12.00
+PP % vs. PK %	62.50
+Goaltenders
+Goaltenders table
+Philadelphia Goaltenders
+Name	S	SV	SV%	WL
+Samuel Ersson	147	131	0.891	3-2-0
+Ivan Fedotov	25	23	0.920	1-0-0
+Aleksei Kolosov	46	40	0.870	0-2-0
+
+Phi last 10 
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+2.80
+Total	3.60
+0.90
+1st Period	1.40
+0.70
+2nd Period	0.80
+1.10
+3rd Period	1.40
+0.10
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+26.40
+Total	24.70
+7.90
+1st Period	10.00
+9.10
+2nd Period	7.00
+8.00
+3rd Period	7.60
+1.40
+OT	0.10
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.85
+0.11
+1st Period	0.86
+0.08
+2nd Period	0.89
+0.14
+3rd Period	0.82
+0.07
+OT	1.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+3 - 28
+G/Att vs. GA/Att	6 - 23
+10.71
+PP % vs. PK %	73.91
+Goaltenders
+Goaltenders table
+Philadelphia Goaltenders
+Name	S	SV	SV%	WL
+Samuel Ersson	116	109	0.940	3-0-1
+Ivan Fedotov	85	78	0.918	3-0-0
+Aleksei Kolosov	80	69	0.863	0-3-0
+
+Phi as underdog
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.00
+Total	4.50
+0.86
+1st Period	1.25
+0.86
+2nd Period	1.50
+1.21
+3rd Period	1.75
+0.07
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+27.00
+Total	26.50
+8.43
+1st Period	12.75
+8.93
+2nd Period	6.25
+8.64
+3rd Period	7.50
+1.00
+OT	0.00
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.83
+0.10
+1st Period	0.90
+0.10
+2nd Period	0.76
+0.14
+3rd Period	0.77
+0.07
+OT	0.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+10 - 47
+G/Att vs. GA/Att	5 - 11
+21.28
+PP % vs. PK %	54.55
+Goaltenders
+Goaltenders table
+Philadelphia Goaltenders
+Name	S	SV	SV%	WL
+Samuel Ersson	184	166	0.902	3-1-2
+Ivan Fedotov	163	142	0.871	3-3-0
+Aleksei Kolosov	56	49	0.875	0-2-0
+
+COL last 10 
+Record
+Last 10
+Betting Terms
+Win / Loss
+5-5-0-0
+Over / Under
+6-2-2
+ML
+-$120
+Team - Last 10
+Date	vs	Result	ML	O/U	SF	SA	PP	PK
+Nov 15, '24	
+
+WAS
+L 2 - 5	L -163	p7.0	19	19	0-1	1-2
+Nov 13, '24	
+
+LA
+W 4 - 2	W -125	p6.0	26	15	0-3	0-1
+Nov 11, '24	
+
+NAS
+W 3 - 2 (OT)	W -137	u6.5	32	30	0-2	0-2
+Nov 09, '24	
+
+CAR
+W 6 - 4	W +111	o6.5	29	31	1-5	1-4
+Nov 07, '24	
+@
+
+WIN
+L 0 - 1	L +126	u6.5	35	28	0-1	0-2
+Nov 05, '24	
+
+SEA
+W 6 - 3	W -183	o6.0	32	20	3-5	1-3
+Nov 02, '24	
+@
+
+NAS
+L 2 - 5	L +110	o6.0	31	24	1-4	2-2
+Oct 30, '24	
+
+TB
+L 2 - 5	L +106	o6.5	35	20	1-4	0-3
+Oct 28, '24	
+
+CHI
+L 2 - 5	L -182	o6.5	26	24	1-4	1-3
+Oct 27, '24	
+
+OTT
+W 5 - 4	W -163	o6.5	32	30	0-1	0-1
+
+Col overall
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.39
+Total	3.50
+0.94
+1st Period	0.72
+1.28
+2nd Period	1.56
+1.06
+3rd Period	1.17
+0.11
+OT	0.06
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+30.17
+Total	28.50
+9.06
+1st Period	9.78
+10.83
+2nd Period	9.83
+9.89
+3rd Period	8.06
+0.39
+OT	0.83
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.88
+0.10
+1st Period	0.93
+0.12
+2nd Period	0.84
+0.11
+3rd Period	0.86
+0.29
+OT	0.93
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+18 - 58
+G/Att vs. GA/Att	8 - 62
+31.03
+PP % vs. PK %	87.10
+Goaltenders
+Goaltenders table
+Colorado Goaltenders
+Name	S	SV	SV%	WL
+Justus Annunen	176	155	0.881	5-3-0
+Alexandar Georgiev	233	201	0.863	4-5-0
+Kevin Mandolese	0	0	0.000	0-0-0
+
+col last 10
+
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.20
+Total	2.70
+0.80
+1st Period	0.50
+1.30
+2nd Period	1.20
+1.00
+3rd Period	1.00
+0.10
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+29.70
+Total	28.30
+7.50
+1st Period	10.10
+11.30
+2nd Period	9.60
+10.70
+3rd Period	7.30
+0.20
+OT	1.30
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.11
+Total	0.90
+0.11
+1st Period	0.95
+0.12
+2nd Period	0.88
+0.09
+3rd Period	0.86
+0.50
+OT	1.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+7 - 30
+G/Att vs. GA/Att	4 - 29
+23.33
+PP % vs. PK %	86.21
+Goaltenders
+Goaltenders table
+Colorado Goaltenders
+Name	S	SV	SV%	WL
+Justus Annunen	80	67	0.838	2-2-0
+Alexandar Georgiev	128	116	0.906	3-2-0
+Kevin Mandolese	0	0	0.000	0-0-0
+
+COl as fvoraite
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.50
+Total	3.00
+1.14
+1st Period	0.75
+1.07
+2nd Period	1.25
+1.14
+3rd Period	1.00
+0.14
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+29.71
+Total	26.25
+9.00
+1st Period	9.75
+10.57
+2nd Period	7.75
+9.64
+3rd Period	7.50
+0.50
+OT	1.25
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.12
+Total	0.89
+0.13
+1st Period	0.92
+0.10
+2nd Period	0.84
+0.12
+3rd Period	0.87
+0.29
+OT	1.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+15 - 45
+G/Att vs. GA/Att	1 - 12
+33.33
+PP % vs. PK %	91.67
+Goaltenders
+Goaltenders table
+Colorado Goaltenders
+Name	S	SV	SV%	WL
+Justus Annunen	148	132	0.892	5-2-0
+Alexandar Georgiev	158	136	0.861	3-3-0
+Kevin Mandolese	0	0	0.000	0-0-0
+
+COL location
+Goals
+Goals
+OFFENSE
+Stat	
+DEFENSE
+3.00
+Total	3.12
+1.00
+1st Period	0.62
+1.17
+2nd Period	1.38
+0.83
+3rd Period	1.12
+0.00
+OT	0.00
+Shots
+Shots
+OFFENSE
+Stat	
+DEFENSE
+29.00
+Total	27.38
+10.00
+1st Period	10.38
+10.33
+2nd Period	9.50
+8.67
+3rd Period	6.88
+0.00
+OT	0.62
+Shot Pct vs. Save Pct
+Shot Pct vs. Save Pct
+SHOOTING
+Stat	
+SAVE PCT.
+0.10
+Total	0.89
+0.10
+1st Period	0.94
+0.11
+2nd Period	0.86
+0.10
+3rd Period	0.84
+0.00
+OT	1.00
+Power Play vs Penalty Kill
+Power Play vs Penalty Kill
+POWERPLAY
+Stat	
+PENALTY KILL
+6 - 19
+G/Att vs. GA/Att	3 - 24
+31.58
+PP % vs. PK %	87.50
+Goaltenders
+Goaltenders table
+Colorado Goaltenders
+Name	S	SV	SV%	WL
+Justus Annunen	107	98	0.916	3-1-0
+Alexandar Georgiev	44	38	0.864	0-2-0
+Kevin Mandolese	0	0	0.000	0-0-0
+
+col seaon 
+Regular Season
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+Nov 15	 WAS	L 2-5	L -163	P 7	J. Annunen	C. Lindgren
+Nov 13	 LA	W 4-2	W -125	P 6	A. Georgiev	D. Rittich
+Nov 11	 NAS	W 3-2 (OT)	W -137	U 6.5	A. Georgiev	J. Saros
+Nov 9	 CAR	W 6-4	W +111	O 6.5	A. Georgiev	S. Martin
+Nov 7	 @ WIN	L 0-1	L +126	U 6.5	A. Georgiev	C. Hellebuyck
+Nov 5	 SEA	W 6-3	W -183	O 6	J. Annunen	P. Grubauer
+Nov 2	 @ NAS	L 2-5	L +110	O 6	J. Annunen	J. Saros
+Oct 30	 TB	L 2-5	L +106	O 6.5	K. Kahkonen	A. Vasilevskiy
+Oct 28	 CHI	L 2-5	L -182	O 6.5	A. Georgiev	P. Mrazek
+Oct 27	 OTT	W 5-4	W -163	O 6.5	J. Annunen	A. Forsberg
+Oct 24	 @ UTAH	W 5-1	W -147	U 6.5	J. Annunen	K. Vejmelka
+Oct 22	 @ SEA	W 3-2	W -126	U 6.5	J. Annunen	P. Grubauer
+Oct 20	 @ SJ	W 4-1	W -260	U 6.5	J. Annunen	V. Vanecek
+Oct 18	 ANA	W 4-3 (OT)	W -270	P 7	A. Georgiev	L. Dostal
+Oct 16	 BOS	L 3-5	L -130	O 6.5	A. Georgiev	J. Korpisalo
+Oct 14	 NYI	L 2-6	L -146	O 6.5	A. Georgiev	I. Sorokin
+Oct 12	 CLB	L 4-6	L -320	O 6.5	J. Annunen	D. Tarasov
+Oct 9	 @ VEG	L 4-8	L -101	O 6.5	A. Georgiev	A. Hill
+
+Phi Sea
+Regular Season
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+Nov 16	 BUF	W 5-2	W -104	O 6	I. Fedotov	D. Levi
+Nov 14	 @ OTT	W 5-4 (OT)	W +163	O 6	I. Fedotov	L. Ullmark
+Nov 11	 SJ	W 4-3 (SO)	W -267	O 6	S. Ersson	V. Vanecek
+Nov 9	 @ FLA	L 3-4 (SO)	L +220	O 5.5	S. Ersson	S. Bobrovsky
+Nov 7	 @ TB	W 2-1 (SO)	W +182	U 6	I. Fedotov	A. Vasilevskiy
+Nov 5	 @ CAR	L 4-6	L +263	O 6	A. Kolosov	P. Kochetkov
+Nov 2	 BOS	L 0-3	L +102	U 6.5	A. Kolosov	J. Korpisalo
+Oct 31	 STL	W 2-1	W -139	U 6	S. Ersson	J. Binnington
+Oct 29	 @ BOS	W 2-0	W +135	U 6.5	S. Ersson	J. Korpisalo
+Oct 27	 MON	L 3-4	L -175	O 6.5	A. Kolosov	C. Primeau
+Oct 26	 MIN	W 7-5	W +113	O 6	S. Ersson	F. Gustavsson
+Oct 23	 @ WAS	L 3-6	L +127	O 6	I. Fedotov	L. Thompson
+Oct 22	 WAS	L 1-4	L -134	U 6	S. Ersson	C. Lindgren
+Oct 19	 VAN	L 0-3	L +127	U 6	S. Ersson	K. Lankinen
+Oct 17	 @ SEA	L 4-6	L +113	O 6	I. Fedotov	P. Grubauer
+Oct 15	 @ EDM	L 3-4 (OT)	L +176	O 6.5	S. Ersson	S. Skinner
+Oct 12	 @ CAL	L 3-6	L +116	O 6.5	I. Fedotov	D. Wolf
+Oct 11	 @ VAN	W 3-2 (SO)	W +170	U 6	S. Ersson	K. Lankinen
