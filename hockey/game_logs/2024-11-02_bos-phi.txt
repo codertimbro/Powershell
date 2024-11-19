@@ -1,0 +1,442 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Boston
+Bruins5-6-1Final3 - 0Philadelphia
+Flyers4-7-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+BOS   1  1  1    3  
+PHI   0  0  0    0
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:18 
+Travis Konecny (PHI) tripping against Mark Kastelic (2 minutes)
+   0-0
+P1  14:35 
+Charlie McAvoy (BOS) roughing against Sean Couturier (2 minutes)
+   0-0
+P1  06:32 
+Matthew Poitras (BOS) scores on wrist shot past Aleksei Kolosov, assisted by Hampus Lindholm and Morgan Geekie
+   1-0
+P1  01:13 
+Noah Cates (PHI) holding against Charlie Coyle (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  13:47 
+Matthew Poitras (BOS) slashing against Matvei Michkov (2 minutes)
+   1-0
+P2  08:37 
+Justin Brazeau (BOS) scores on snap shot past Aleksei Kolosov, assisted by Brad Marchand and Elias Lindholm
+   2-0
+3rd Period: ShowHide
+P3  03:39 
+Brad Marchand (BOS) scores on empty net, assisted by David Pastrnak
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) cross-checking against Charlie McAvoy (2 minutes)
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) roughing against Mark Kastelic (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  00:51 
+Matthew Poitras (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Brandon Carlo (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Travis Sanheim (PHI) roughing against Brandon Carlo (2 minutes)
+   3-0
+P3  00:51 
+Travis Konecny (PHI) roughing against Trent Frederic (2 minutes)
+   3-0
+P3  00:51 
+Trent Frederic (BOS) roughing against Travis Konecny (2 minutes)
+   3-0
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:14   0  0    0   0   2   0   0   0   5/5Justin Brazeau R  14:39   1  0    1   4   0   0   0   1   0/0Charlie Coyle C  20:03   0  0    0   2   1   0   1   0   5/7Trent Frederic C  13:51   0  0    1   1   0   2   0   0   0/3Morgan Geekie C  13:27   0  1    1   1   1   0   0   1   1/1Mark Kastelic C  11:30   0  0    0   1   0   4   0   0   1/4Cole Koepke L  10:30   0  0    0   2   0   0   0   1   0/0Elias Lindholm C  17:24   0  1    2   0   3   0   0   0  7/16Brad Marchand L  18:11   1  1    2   4   1   0   1   0   1/1David Pastrnak R  17:44   0  1    1   4   0   0   0   3   1/1Matthew Poitras C  12:30   1  0    1   2   1   4   0   0   2/3Pavel Zacha C  16:00   0  0    0   4   0   0   2   0   1/4Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  19:51   0  0    2   0   3   2   0   0   0/0Hampus Lindholm D  19:01   0  1    2   2   1   0   2   1   0/0Mason Lohrei D  16:24   0  0    0   1   3   0   0   2   0/0Charlie McAvoy D  24:29   0  0    1   1   4   2   0   0   0/0Parker Wotherspoon D  16:54   0  0    0   0   1   0   0   1   0/0Nikita Zadorov D  20:38   0  0    1   2   0   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       31  21  14   6  11 24/45
+                                        53.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  59:49   0  20/20  18/18   2/2   0/0     0
+             1.000  1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  14:50   0  0    0   2   0   0   0   1   0/0Noah Cates L  11:42   0  0    0   2   0   2   0   0   2/2Sean Couturier C  17:24   0  0   -3   3   1   0   0   1  6/10Joel Farabee L  14:24   0  0   -1   0   1   0   0   0   1/2Tyson Foerster R  16:12   0  0   -1   0   1   0   1   1   0/0Morgan Frost C  17:19   0  0    0   2   3   0   0   1  2/11Garnet Hathaway R  10:19   0  0    0   1   3   4   0   0   0/0Travis Konecny R  21:13   0  0   -2   1   1   4   0   0   1/3Scott Laughton C  15:05   0  0    0   0   1   0   0   1   4/9Matvei Michkov R  15:15   0  0   -3   2   0   0   0   1   1/1Ryan Poehling C  11:41   0  0    0   0   2   0   0   1   4/6Owen Tippett R  17:29   0  0   -1   3   0   0   0   1   0/1Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  19:12   0  0    0   1   1   0   1   3   0/0Jamie Drysdale D  23:49   0  0   -1   0   1   0   1   0   0/0Erik Johnson D  10:54   0  0    0   1   1   0   2   0   0/0Rasmus Ristolainen D  21:56   0  0   -2   1   1   0   0   1   0/0Travis Sanheim D  23:15   0  0   -2   0   2   2   0   3   0/0Nick Seeler D  15:00   0  0    0   1   1   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  20  12   5  15 21/45
+                                        46.7%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  07:36   0    8/8    5/5   1/1   2/2     0
+             1.000  1.000 1.000 1.000 Aleksei Kolosov G  51:25   2  20/22  16/18   4/4   0/0     0
+              .909   .889 1.000 Flyers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          2  28/30  21/23   5/5   2/2     0
+              .933   .913 1.000 1.000
+Boston
+Bruins5-6-1Final3 - 0Philadelphia
+Flyers4-7-1
+Boston
+Bruins5-6-1
+Final3 - 0
+Philadelphia
+Flyers4-7-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+BOS   1  1  1    3  
+PHI   0  0  0    0
+1st Period: ShowHide
+P1  19:18 
+Travis Konecny (PHI) tripping against Mark Kastelic (2 minutes)
+   0-0
+P1  14:35 
+Charlie McAvoy (BOS) roughing against Sean Couturier (2 minutes)
+   0-0
+P1  06:32 
+Matthew Poitras (BOS) scores on wrist shot past Aleksei Kolosov, assisted by Hampus Lindholm and Morgan Geekie
+   1-0
+P1  01:13 
+Noah Cates (PHI) holding against Charlie Coyle (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  13:47 
+Matthew Poitras (BOS) slashing against Matvei Michkov (2 minutes)
+   1-0
+P2  08:37 
+Justin Brazeau (BOS) scores on snap shot past Aleksei Kolosov, assisted by Brad Marchand and Elias Lindholm
+   2-0
+3rd Period: ShowHide
+P3  03:39 
+Brad Marchand (BOS) scores on empty net, assisted by David Pastrnak
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) cross-checking against Charlie McAvoy (2 minutes)
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) roughing against Mark Kastelic (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  00:51 
+Matthew Poitras (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Brandon Carlo (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Travis Sanheim (PHI) roughing against Brandon Carlo (2 minutes)
+   3-0
+P3  00:51 
+Travis Konecny (PHI) roughing against Trent Frederic (2 minutes)
+   3-0
+P3  00:51 
+Trent Frederic (BOS) roughing against Travis Konecny (2 minutes)
+   3-0
+1st Period: ShowHide
+P1  19:18 
+Travis Konecny (PHI) tripping against Mark Kastelic (2 minutes)
+   0-0
+P1  14:35 
+Charlie McAvoy (BOS) roughing against Sean Couturier (2 minutes)
+   0-0
+P1  06:32 
+Matthew Poitras (BOS) scores on wrist shot past Aleksei Kolosov, assisted by Hampus Lindholm and Morgan Geekie
+   1-0
+P1  01:13 
+Noah Cates (PHI) holding against Charlie Coyle (2 minutes)
+   1-0
+P1  19:18 
+Travis Konecny (PHI) tripping against Mark Kastelic (2 minutes)
+   0-0
+P1  14:35 
+Charlie McAvoy (BOS) roughing against Sean Couturier (2 minutes)
+   0-0
+P1  06:32 
+Matthew Poitras (BOS) scores on wrist shot past Aleksei Kolosov, assisted by Hampus Lindholm and Morgan Geekie
+   1-0
+P1  01:13 
+Noah Cates (PHI) holding against Charlie Coyle (2 minutes)
+   1-0
+P1  19:18
+Travis Konecny (PHI) tripping against Mark Kastelic (2 minutes)
+0-0
+P1  14:35
+Charlie McAvoy (BOS) roughing against Sean Couturier (2 minutes)
+0-0
+P1  06:32
+Matthew Poitras (BOS) scores on wrist shot past Aleksei Kolosov, assisted by Hampus Lindholm and Morgan Geekie
+1-0
+P1  01:13
+Noah Cates (PHI) holding against Charlie Coyle (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  13:47 
+Matthew Poitras (BOS) slashing against Matvei Michkov (2 minutes)
+   1-0
+P2  08:37 
+Justin Brazeau (BOS) scores on snap shot past Aleksei Kolosov, assisted by Brad Marchand and Elias Lindholm
+   2-0
+P2  13:47 
+Matthew Poitras (BOS) slashing against Matvei Michkov (2 minutes)
+   1-0
+P2  08:37 
+Justin Brazeau (BOS) scores on snap shot past Aleksei Kolosov, assisted by Brad Marchand and Elias Lindholm
+   2-0
+P2  13:47
+Matthew Poitras (BOS) slashing against Matvei Michkov (2 minutes)
+1-0
+P2  08:37
+Justin Brazeau (BOS) scores on snap shot past Aleksei Kolosov, assisted by Brad Marchand and Elias Lindholm
+2-0
+3rd Period: ShowHide
+P3  03:39 
+Brad Marchand (BOS) scores on empty net, assisted by David Pastrnak
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) cross-checking against Charlie McAvoy (2 minutes)
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) roughing against Mark Kastelic (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  00:51 
+Matthew Poitras (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Brandon Carlo (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Travis Sanheim (PHI) roughing against Brandon Carlo (2 minutes)
+   3-0
+P3  00:51 
+Travis Konecny (PHI) roughing against Trent Frederic (2 minutes)
+   3-0
+P3  00:51 
+Trent Frederic (BOS) roughing against Travis Konecny (2 minutes)
+   3-0
+P3  03:39 
+Brad Marchand (BOS) scores on empty net, assisted by David Pastrnak
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) cross-checking against Charlie McAvoy (2 minutes)
+   3-0
+P3  02:14 
+Garnet Hathaway (PHI) roughing against Mark Kastelic (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  02:14 
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+   3-0
+P3  00:51 
+Matthew Poitras (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Brandon Carlo (BOS) roughing against Travis Sanheim (2 minutes)
+   3-0
+P3  00:51 
+Travis Sanheim (PHI) roughing against Brandon Carlo (2 minutes)
+   3-0
+P3  00:51 
+Travis Konecny (PHI) roughing against Trent Frederic (2 minutes)
+   3-0
+P3  00:51 
+Trent Frederic (BOS) roughing against Travis Konecny (2 minutes)
+   3-0
+P3  03:39
+Brad Marchand (BOS) scores on empty net, assisted by David Pastrnak
+3-0
+P3  02:14
+Garnet Hathaway (PHI) cross-checking against Charlie McAvoy (2 minutes)
+3-0
+P3  02:14
+Garnet Hathaway (PHI) roughing against Mark Kastelic (2 minutes)
+3-0
+P3  02:14
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+3-0
+P3  02:14
+Mark Kastelic (BOS) roughing against Garnet Hathaway (2 minutes)
+3-0
+P3  00:51
+Matthew Poitras (BOS) roughing against Travis Sanheim (2 minutes)
+3-0
+P3  00:51
+Brandon Carlo (BOS) roughing against Travis Sanheim (2 minutes)
+3-0
+P3  00:51
+Travis Sanheim (PHI) roughing against Brandon Carlo (2 minutes)
+3-0
+P3  00:51
+Travis Konecny (PHI) roughing against Trent Frederic (2 minutes)
+3-0
+P3  00:51
+Trent Frederic (BOS) roughing against Travis Konecny (2 minutes)
+3-0
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:14   0  0    0   0   2   0   0   0   5/5Justin Brazeau R  14:39   1  0    1   4   0   0   0   1   0/0Charlie Coyle C  20:03   0  0    0   2   1   0   1   0   5/7Trent Frederic C  13:51   0  0    1   1   0   2   0   0   0/3Morgan Geekie C  13:27   0  1    1   1   1   0   0   1   1/1Mark Kastelic C  11:30   0  0    0   1   0   4   0   0   1/4Cole Koepke L  10:30   0  0    0   2   0   0   0   1   0/0Elias Lindholm C  17:24   0  1    2   0   3   0   0   0  7/16Brad Marchand L  18:11   1  1    2   4   1   0   1   0   1/1David Pastrnak R  17:44   0  1    1   4   0   0   0   3   1/1Matthew Poitras C  12:30   1  0    1   2   1   4   0   0   2/3Pavel Zacha C  16:00   0  0    0   4   0   0   2   0   1/4Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  19:51   0  0    2   0   3   2   0   0   0/0Hampus Lindholm D  19:01   0  1    2   2   1   0   2   1   0/0Mason Lohrei D  16:24   0  0    0   1   3   0   0   2   0/0Charlie McAvoy D  24:29   0  0    1   1   4   2   0   0   0/0Parker Wotherspoon D  16:54   0  0    0   0   1   0   0   1   0/0Nikita Zadorov D  20:38   0  0    1   2   0   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       31  21  14   6  11 24/45
+                                        53.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  59:49   0  20/20  18/18   2/2   0/0     0
+             1.000  1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  14:50   0  0    0   2   0   0   0   1   0/0Noah Cates L  11:42   0  0    0   2   0   2   0   0   2/2Sean Couturier C  17:24   0  0   -3   3   1   0   0   1  6/10Joel Farabee L  14:24   0  0   -1   0   1   0   0   0   1/2Tyson Foerster R  16:12   0  0   -1   0   1   0   1   1   0/0Morgan Frost C  17:19   0  0    0   2   3   0   0   1  2/11Garnet Hathaway R  10:19   0  0    0   1   3   4   0   0   0/0Travis Konecny R  21:13   0  0   -2   1   1   4   0   0   1/3Scott Laughton C  15:05   0  0    0   0   1   0   0   1   4/9Matvei Michkov R  15:15   0  0   -3   2   0   0   0   1   1/1Ryan Poehling C  11:41   0  0    0   0   2   0   0   1   4/6Owen Tippett R  17:29   0  0   -1   3   0   0   0   1   0/1Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  19:12   0  0    0   1   1   0   1   3   0/0Jamie Drysdale D  23:49   0  0   -1   0   1   0   1   0   0/0Erik Johnson D  10:54   0  0    0   1   1   0   2   0   0/0Rasmus Ristolainen D  21:56   0  0   -2   1   1   0   0   1   0/0Travis Sanheim D  23:15   0  0   -2   0   2   2   0   3   0/0Nick Seeler D  15:00   0  0    0   1   1   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  20  12   5  15 21/45
+                                        46.7%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  07:36   0    8/8    5/5   1/1   2/2     0
+             1.000  1.000 1.000 1.000 Aleksei Kolosov G  51:25   2  20/22  16/18   4/4   0/0     0
+              .909   .889 1.000 Flyers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          2  28/30  21/23   5/5   2/2     0
+              .933   .913 1.000 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:14   0  0    0   0   2   0   0   0   5/5Justin Brazeau R  14:39   1  0    1   4   0   0   0   1   0/0Charlie Coyle C  20:03   0  0    0   2   1   0   1   0   5/7Trent Frederic C  13:51   0  0    1   1   0   2   0   0   0/3Morgan Geekie C  13:27   0  1    1   1   1   0   0   1   1/1Mark Kastelic C  11:30   0  0    0   1   0   4   0   0   1/4Cole Koepke L  10:30   0  0    0   2   0   0   0   1   0/0Elias Lindholm C  17:24   0  1    2   0   3   0   0   0  7/16Brad Marchand L  18:11   1  1    2   4   1   0   1   0   1/1David Pastrnak R  17:44   0  1    1   4   0   0   0   3   1/1Matthew Poitras C  12:30   1  0    1   2   1   4   0   0   2/3Pavel Zacha C  16:00   0  0    0   4   0   0   2   0   1/4
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+12:14   0  0    0   0   2   0   0   0   5/5
+Justin Brazeau R
+14:39   1  0    1   4   0   0   0   1   0/0
+Charlie Coyle C
+20:03   0  0    0   2   1   0   1   0   5/7
+Trent Frederic C
+13:51   0  0    1   1   0   2   0   0   0/3
+Morgan Geekie C
+13:27   0  1    1   1   1   0   0   1   1/1
+Mark Kastelic C
+11:30   0  0    0   1   0   4   0   0   1/4
+Cole Koepke L
+10:30   0  0    0   2   0   0   0   1   0/0
+Elias Lindholm C
+17:24   0  1    2   0   3   0   0   0  7/16
+Brad Marchand L
+18:11   1  1    2   4   1   0   1   0   1/1
+David Pastrnak R
+17:44   0  1    1   4   0   0   0   3   1/1
+Matthew Poitras C
+12:30   1  0    1   2   1   4   0   0   2/3
+Pavel Zacha C
+16:00   0  0    0   4   0   0   2   0   1/4
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  19:51   0  0    2   0   3   2   0   0   0/0Hampus Lindholm D  19:01   0  1    2   2   1   0   2   1   0/0Mason Lohrei D  16:24   0  0    0   1   3   0   0   2   0/0Charlie McAvoy D  24:29   0  0    1   1   4   2   0   0   0/0Parker Wotherspoon D  16:54   0  0    0   0   1   0   0   1   0/0Nikita Zadorov D  20:38   0  0    1   2   0   0   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+19:51   0  0    2   0   3   2   0   0   0/0
+Hampus Lindholm D
+19:01   0  1    2   2   1   0   2   1   0/0
+Mason Lohrei D
+16:24   0  0    0   1   3   0   0   2   0/0
+Charlie McAvoy D
+24:29   0  0    1   1   4   2   0   0   0/0
+Parker Wotherspoon D
+16:54   0  0    0   0   1   0   0   1   0/0
+Nikita Zadorov D
+20:38   0  0    1   2   0   0   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       31  21  14   6  11 24/45
+                                        53.3%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  59:49   0  20/20  18/18   2/2   0/0     0
+             1.000  1.000 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joonas Korpisalo G
+59:49   0  20/20  18/18   2/2   0/0     0
+             1.000  1.000 1.000
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  14:50   0  0    0   2   0   0   0   1   0/0Noah Cates L  11:42   0  0    0   2   0   2   0   0   2/2Sean Couturier C  17:24   0  0   -3   3   1   0   0   1  6/10Joel Farabee L  14:24   0  0   -1   0   1   0   0   0   1/2Tyson Foerster R  16:12   0  0   -1   0   1   0   1   1   0/0Morgan Frost C  17:19   0  0    0   2   3   0   0   1  2/11Garnet Hathaway R  10:19   0  0    0   1   3   4   0   0   0/0Travis Konecny R  21:13   0  0   -2   1   1   4   0   0   1/3Scott Laughton C  15:05   0  0    0   0   1   0   0   1   4/9Matvei Michkov R  15:15   0  0   -3   2   0   0   0   1   1/1Ryan Poehling C  11:41   0  0    0   0   2   0   0   1   4/6Owen Tippett R  17:29   0  0   -1   3   0   0   0   1   0/1
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bobby Brink R
+14:50   0  0    0   2   0   0   0   1   0/0
+Noah Cates L
+11:42   0  0    0   2   0   2   0   0   2/2
+Sean Couturier C
+17:24   0  0   -3   3   1   0   0   1  6/10
+Joel Farabee L
+14:24   0  0   -1   0   1   0   0   0   1/2
+Tyson Foerster R
+16:12   0  0   -1   0   1   0   1   1   0/0
+Morgan Frost C
+17:19   0  0    0   2   3   0   0   1  2/11
+Garnet Hathaway R
+10:19   0  0    0   1   3   4   0   0   0/0
+Travis Konecny R
+21:13   0  0   -2   1   1   4   0   0   1/3
+Scott Laughton C
+15:05   0  0    0   0   1   0   0   1   4/9
+Matvei Michkov R
+15:15   0  0   -3   2   0   0   0   1   1/1
+Ryan Poehling C
+11:41   0  0    0   0   2   0   0   1   4/6
+Owen Tippett R
+17:29   0  0   -1   3   0   0   0   1   0/1
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  19:12   0  0    0   1   1   0   1   3   0/0Jamie Drysdale D  23:49   0  0   -1   0   1   0   1   0   0/0Erik Johnson D  10:54   0  0    0   1   1   0   2   0   0/0Rasmus Ristolainen D  21:56   0  0   -2   1   1   0   0   1   0/0Travis Sanheim D  23:15   0  0   -2   0   2   2   0   3   0/0Nick Seeler D  15:00   0  0    0   1   1   0   0   0   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Emil Andrae D
+19:12   0  0    0   1   1   0   1   3   0/0
+Jamie Drysdale D
+23:49   0  0   -1   0   1   0   1   0   0/0
+Erik Johnson D
+10:54   0  0    0   1   1   0   2   0   0/0
+Rasmus Ristolainen D
+21:56   0  0   -2   1   1   0   0   1   0/0
+Travis Sanheim D
+23:15   0  0   -2   0   2   2   0   3   0/0
+Nick Seeler D
+15:00   0  0    0   1   1   0   0   0   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  20  12   5  15 21/45
+                                        46.7%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  07:36   0    8/8    5/5   1/1   2/2     0
+             1.000  1.000 1.000 1.000 Aleksei Kolosov G  51:25   2  20/22  16/18   4/4   0/0     0
+              .909   .889 1.000
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Samuel Ersson G
+07:36   0    8/8    5/5   1/1   2/2     0
+             1.000  1.000 1.000 1.000
+Aleksei Kolosov G
+51:25   2  20/22  16/18   4/4   0/0     0
+              .909   .889 1.000
+Flyers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          2  28/30  21/23   5/5   2/2     0
+              .933   .913 1.000 1.000
+Flyers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

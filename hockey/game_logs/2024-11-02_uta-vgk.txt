@@ -1,0 +1,340 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Utah
+Hockey Club5-4-3Final/OT3 - 4Vegas
+Golden Knights8-3-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+UTA   1  1  1  0    3  
+VGK   0  2  1  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:54 
+Jack McBain (UTA) tripping against Cole Schwindt (2 minutes)
+   0-0
+P1  08:08 
+Logan Cooley (UTA) scores on slap shot past Adin Hill, assisted by Nick Bjugstad and Jack McBain
+   1-0
+P1  02:21 
+Jack McBain (UTA) fighting against Keegan Kolesar (5 minutes)
+   1-0
+P1  02:21 
+Keegan Kolesar (VGK) fighting against Jack McBain (5 minutes)
+   1-0
+2nd Period: ShowHide
+P2  08:00 
+Ian Cole (UTA) scores on snap shot past Adin Hill, assisted by Logan Cooley and Clayton Keller
+   2-0
+P2  04:54 
+Pavel Dorofeyev (VGK) scores on wrist shot past Connor Ingram, assisted by Tomas Hertl and Brett Howden
+   2-1
+P2  00:01 
+Noah Hanifin (VGK) scores on wrist shot past Connor Ingram, assisted by Nicolas Roy and Keegan Kolesar
+   2-2
+3rd Period: ShowHide
+P3  14:23 
+William Karlsson (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin
+   2-3
+P3  06:50 
+Alexander Kerfoot (UTA) scores on wrist shot past Adin Hill, assisted by Nick Bjugstad and Maveric Lamoureux
+   3-3
+Overtime: ShowHide
+OT  02:45 
+Brett Howden (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin and Mark Stone
+   3-4
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  12:37   0  2    1   1   1   0   0   0   3/7Logan Cooley C  20:11   1  1    1   2   0   0   1   2  9/15Lawson Crouse L  13:09   0  0    0   0   0   0   0   0   0/0Dylan Guenther R  20:26   0  0    0   3   0   0   1   0   0/1Barrett Hayton C  16:22   0  0   -1   2   4   0   0   1   5/7Clayton Keller R  21:52   0  1    0   1   0   0   0   0   0/0Alexander Kerfoot C  15:19   1  0    0   3   1   0   1   3   1/4Matias Maccelli L  19:05   0  0   -2   0   0   0   0   1   0/0Jack McBain C  11:11   0  1    1   0   0   7   1   0   1/3Nick Schmaltz C  20:00   0  0   -1   2   2   0   1   0   1/3Kevin Stenlund C  12:11   0  0   -1   0   0   0   0   0  7/11Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:01   1  0    1   1   1   0   0   1   0/0Michael Kesselring D  21:07   0  0   -1   1   1   0   1   0   0/0Vladislav Kolyachonok D  07:05   0  0   -1   0   0   0   1   2   0/0Maveric Lamoureux D  15:32   0  1    1   1   0   0   0   1   0/0Olli Maatta D  22:05   0  0    0   0   1   0   1   0   0/0Mikhail Sergachev D  23:06   0  0   -2   0   0   0   0   1   0/0Juuso Valimaki D  15:26   0  0    1   2   1   0   0   1   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       19  12   7   8  13 27/51
+                                        52.9%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:15   4  31/35  30/34   1/1   0/0     0
+              .886   .882 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  18:31   0  0   -1   0   1   0   0   0   0/0Pavel Dorofeyev L  16:13   1  0   -1   3   0   0   0   0   0/0Jack Eichel C  18:25   0  0   -1   4   0   0   2   0  8/15Tomas Hertl C  14:38   0  1   -1   0   0   0   0   0   3/9Alexander Holtz R  13:41   0  0    1   1   0   0   0   0   0/1Brett Howden C  15:12   1  1    0   4   2   0   1   0   0/2William Karlsson C  15:37   1  0    1   3   1   0   0   2  7/12Keegan Kolesar R  13:25   0  1    1   0   1   5   0   1   0/0Tanner Pearson L  13:39   0  0    1   0   0   0   0   0   0/0Nicolas Roy C  16:22   0  1    1   6   0   0   0   0  6/11Cole Schwindt R  13:04   0  0    1   1   0   0   0   0   0/1Mark Stone R  16:44   0  1    0   0   0   0   1   0   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  13:48   0  0   -2   2   1   0   1   0   0/0Noah Hanifin D  24:31   1  2    3   6   1   0   2   3   0/0Brayden McNabb D  22:28   0  0    0   2   3   0   1   2   0/0Alex Pietrangelo D  24:56   0  0    2   0   3   0   0   1   0/0Shea Theodore D  22:14   0  0    0   2   0   0   1   1   0/0Zach Whitecloud D  13:17   0  0   -2   1   2   0   1   3   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       35  15   5  10  13 24/51
+                                        47.1%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  62:15   3  16/19  16/19   0/0   0/0     0
+              .842   .842
+Utah
+Hockey Club5-4-3Final/OT3 - 4Vegas
+Golden Knights8-3-1
+Utah
+Hockey Club5-4-3
+Final/OT3 - 4
+Vegas
+Golden Knights8-3-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+UTA   1  1  1  0    3  
+VGK   0  2  1  1    4
+1st Period: ShowHide
+P1  16:54 
+Jack McBain (UTA) tripping against Cole Schwindt (2 minutes)
+   0-0
+P1  08:08 
+Logan Cooley (UTA) scores on slap shot past Adin Hill, assisted by Nick Bjugstad and Jack McBain
+   1-0
+P1  02:21 
+Jack McBain (UTA) fighting against Keegan Kolesar (5 minutes)
+   1-0
+P1  02:21 
+Keegan Kolesar (VGK) fighting against Jack McBain (5 minutes)
+   1-0
+2nd Period: ShowHide
+P2  08:00 
+Ian Cole (UTA) scores on snap shot past Adin Hill, assisted by Logan Cooley and Clayton Keller
+   2-0
+P2  04:54 
+Pavel Dorofeyev (VGK) scores on wrist shot past Connor Ingram, assisted by Tomas Hertl and Brett Howden
+   2-1
+P2  00:01 
+Noah Hanifin (VGK) scores on wrist shot past Connor Ingram, assisted by Nicolas Roy and Keegan Kolesar
+   2-2
+3rd Period: ShowHide
+P3  14:23 
+William Karlsson (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin
+   2-3
+P3  06:50 
+Alexander Kerfoot (UTA) scores on wrist shot past Adin Hill, assisted by Nick Bjugstad and Maveric Lamoureux
+   3-3
+Overtime: ShowHide
+OT  02:45 
+Brett Howden (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin and Mark Stone
+   3-4
+1st Period: ShowHide
+P1  16:54 
+Jack McBain (UTA) tripping against Cole Schwindt (2 minutes)
+   0-0
+P1  08:08 
+Logan Cooley (UTA) scores on slap shot past Adin Hill, assisted by Nick Bjugstad and Jack McBain
+   1-0
+P1  02:21 
+Jack McBain (UTA) fighting against Keegan Kolesar (5 minutes)
+   1-0
+P1  02:21 
+Keegan Kolesar (VGK) fighting against Jack McBain (5 minutes)
+   1-0
+P1  16:54 
+Jack McBain (UTA) tripping against Cole Schwindt (2 minutes)
+   0-0
+P1  08:08 
+Logan Cooley (UTA) scores on slap shot past Adin Hill, assisted by Nick Bjugstad and Jack McBain
+   1-0
+P1  02:21 
+Jack McBain (UTA) fighting against Keegan Kolesar (5 minutes)
+   1-0
+P1  02:21 
+Keegan Kolesar (VGK) fighting against Jack McBain (5 minutes)
+   1-0
+P1  16:54
+Jack McBain (UTA) tripping against Cole Schwindt (2 minutes)
+0-0
+P1  08:08
+Logan Cooley (UTA) scores on slap shot past Adin Hill, assisted by Nick Bjugstad and Jack McBain
+1-0
+P1  02:21
+Jack McBain (UTA) fighting against Keegan Kolesar (5 minutes)
+1-0
+P1  02:21
+Keegan Kolesar (VGK) fighting against Jack McBain (5 minutes)
+1-0
+2nd Period: ShowHide
+P2  08:00 
+Ian Cole (UTA) scores on snap shot past Adin Hill, assisted by Logan Cooley and Clayton Keller
+   2-0
+P2  04:54 
+Pavel Dorofeyev (VGK) scores on wrist shot past Connor Ingram, assisted by Tomas Hertl and Brett Howden
+   2-1
+P2  00:01 
+Noah Hanifin (VGK) scores on wrist shot past Connor Ingram, assisted by Nicolas Roy and Keegan Kolesar
+   2-2
+P2  08:00 
+Ian Cole (UTA) scores on snap shot past Adin Hill, assisted by Logan Cooley and Clayton Keller
+   2-0
+P2  04:54 
+Pavel Dorofeyev (VGK) scores on wrist shot past Connor Ingram, assisted by Tomas Hertl and Brett Howden
+   2-1
+P2  00:01 
+Noah Hanifin (VGK) scores on wrist shot past Connor Ingram, assisted by Nicolas Roy and Keegan Kolesar
+   2-2
+P2  08:00
+Ian Cole (UTA) scores on snap shot past Adin Hill, assisted by Logan Cooley and Clayton Keller
+2-0
+P2  04:54
+Pavel Dorofeyev (VGK) scores on wrist shot past Connor Ingram, assisted by Tomas Hertl and Brett Howden
+2-1
+P2  00:01
+Noah Hanifin (VGK) scores on wrist shot past Connor Ingram, assisted by Nicolas Roy and Keegan Kolesar
+2-2
+3rd Period: ShowHide
+P3  14:23 
+William Karlsson (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin
+   2-3
+P3  06:50 
+Alexander Kerfoot (UTA) scores on wrist shot past Adin Hill, assisted by Nick Bjugstad and Maveric Lamoureux
+   3-3
+P3  14:23 
+William Karlsson (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin
+   2-3
+P3  06:50 
+Alexander Kerfoot (UTA) scores on wrist shot past Adin Hill, assisted by Nick Bjugstad and Maveric Lamoureux
+   3-3
+P3  14:23
+William Karlsson (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin
+2-3
+P3  06:50
+Alexander Kerfoot (UTA) scores on wrist shot past Adin Hill, assisted by Nick Bjugstad and Maveric Lamoureux
+3-3
+Overtime: ShowHide
+OT  02:45 
+Brett Howden (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin and Mark Stone
+   3-4
+OT  02:45 
+Brett Howden (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin and Mark Stone
+   3-4
+OT  02:45
+Brett Howden (VGK) scores on backhand shot past Connor Ingram, assisted by Noah Hanifin and Mark Stone
+3-4
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  12:37   0  2    1   1   1   0   0   0   3/7Logan Cooley C  20:11   1  1    1   2   0   0   1   2  9/15Lawson Crouse L  13:09   0  0    0   0   0   0   0   0   0/0Dylan Guenther R  20:26   0  0    0   3   0   0   1   0   0/1Barrett Hayton C  16:22   0  0   -1   2   4   0   0   1   5/7Clayton Keller R  21:52   0  1    0   1   0   0   0   0   0/0Alexander Kerfoot C  15:19   1  0    0   3   1   0   1   3   1/4Matias Maccelli L  19:05   0  0   -2   0   0   0   0   1   0/0Jack McBain C  11:11   0  1    1   0   0   7   1   0   1/3Nick Schmaltz C  20:00   0  0   -1   2   2   0   1   0   1/3Kevin Stenlund C  12:11   0  0   -1   0   0   0   0   0  7/11Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:01   1  0    1   1   1   0   0   1   0/0Michael Kesselring D  21:07   0  0   -1   1   1   0   1   0   0/0Vladislav Kolyachonok D  07:05   0  0   -1   0   0   0   1   2   0/0Maveric Lamoureux D  15:32   0  1    1   1   0   0   0   1   0/0Olli Maatta D  22:05   0  0    0   0   1   0   1   0   0/0Mikhail Sergachev D  23:06   0  0   -2   0   0   0   0   1   0/0Juuso Valimaki D  15:26   0  0    1   2   1   0   0   1   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       19  12   7   8  13 27/51
+                                        52.9%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:15   4  31/35  30/34   1/1   0/0     0
+              .886   .882 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  18:31   0  0   -1   0   1   0   0   0   0/0Pavel Dorofeyev L  16:13   1  0   -1   3   0   0   0   0   0/0Jack Eichel C  18:25   0  0   -1   4   0   0   2   0  8/15Tomas Hertl C  14:38   0  1   -1   0   0   0   0   0   3/9Alexander Holtz R  13:41   0  0    1   1   0   0   0   0   0/1Brett Howden C  15:12   1  1    0   4   2   0   1   0   0/2William Karlsson C  15:37   1  0    1   3   1   0   0   2  7/12Keegan Kolesar R  13:25   0  1    1   0   1   5   0   1   0/0Tanner Pearson L  13:39   0  0    1   0   0   0   0   0   0/0Nicolas Roy C  16:22   0  1    1   6   0   0   0   0  6/11Cole Schwindt R  13:04   0  0    1   1   0   0   0   0   0/1Mark Stone R  16:44   0  1    0   0   0   0   1   0   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  13:48   0  0   -2   2   1   0   1   0   0/0Noah Hanifin D  24:31   1  2    3   6   1   0   2   3   0/0Brayden McNabb D  22:28   0  0    0   2   3   0   1   2   0/0Alex Pietrangelo D  24:56   0  0    2   0   3   0   0   1   0/0Shea Theodore D  22:14   0  0    0   2   0   0   1   1   0/0Zach Whitecloud D  13:17   0  0   -2   1   2   0   1   3   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       35  15   5  10  13 24/51
+                                        47.1%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  62:15   3  16/19  16/19   0/0   0/0     0
+              .842   .842
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  12:37   0  2    1   1   1   0   0   0   3/7Logan Cooley C  20:11   1  1    1   2   0   0   1   2  9/15Lawson Crouse L  13:09   0  0    0   0   0   0   0   0   0/0Dylan Guenther R  20:26   0  0    0   3   0   0   1   0   0/1Barrett Hayton C  16:22   0  0   -1   2   4   0   0   1   5/7Clayton Keller R  21:52   0  1    0   1   0   0   0   0   0/0Alexander Kerfoot C  15:19   1  0    0   3   1   0   1   3   1/4Matias Maccelli L  19:05   0  0   -2   0   0   0   0   1   0/0Jack McBain C  11:11   0  1    1   0   0   7   1   0   1/3Nick Schmaltz C  20:00   0  0   -1   2   2   0   1   0   1/3Kevin Stenlund C  12:11   0  0   -1   0   0   0   0   0  7/11
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nick Bjugstad C
+12:37   0  2    1   1   1   0   0   0   3/7
+Logan Cooley C
+20:11   1  1    1   2   0   0   1   2  9/15
+Lawson Crouse L
+13:09   0  0    0   0   0   0   0   0   0/0
+Dylan Guenther R
+20:26   0  0    0   3   0   0   1   0   0/1
+Barrett Hayton C
+16:22   0  0   -1   2   4   0   0   1   5/7
+Clayton Keller R
+21:52   0  1    0   1   0   0   0   0   0/0
+Alexander Kerfoot C
+15:19   1  0    0   3   1   0   1   3   1/4
+Matias Maccelli L
+19:05   0  0   -2   0   0   0   0   1   0/0
+Jack McBain C
+11:11   0  1    1   0   0   7   1   0   1/3
+Nick Schmaltz C
+20:00   0  0   -1   2   2   0   1   0   1/3
+Kevin Stenlund C
+12:11   0  0   -1   0   0   0   0   0  7/11
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:01   1  0    1   1   1   0   0   1   0/0Michael Kesselring D  21:07   0  0   -1   1   1   0   1   0   0/0Vladislav Kolyachonok D  07:05   0  0   -1   0   0   0   1   2   0/0Maveric Lamoureux D  15:32   0  1    1   1   0   0   0   1   0/0Olli Maatta D  22:05   0  0    0   0   1   0   1   0   0/0Mikhail Sergachev D  23:06   0  0   -2   0   0   0   0   1   0/0Juuso Valimaki D  15:26   0  0    1   2   1   0   0   1   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ian Cole D
+18:01   1  0    1   1   1   0   0   1   0/0
+Michael Kesselring D
+21:07   0  0   -1   1   1   0   1   0   0/0
+Vladislav Kolyachonok D
+07:05   0  0   -1   0   0   0   1   2   0/0
+Maveric Lamoureux D
+15:32   0  1    1   1   0   0   0   1   0/0
+Olli Maatta D
+22:05   0  0    0   0   1   0   1   0   0/0
+Mikhail Sergachev D
+23:06   0  0   -2   0   0   0   0   1   0/0
+Juuso Valimaki D
+15:26   0  0    1   2   1   0   0   1   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       19  12   7   8  13 27/51
+                                        52.9%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:15   4  31/35  30/34   1/1   0/0     0
+              .886   .882 1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+62:15   4  31/35  30/34   1/1   0/0     0
+              .886   .882 1.000
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  18:31   0  0   -1   0   1   0   0   0   0/0Pavel Dorofeyev L  16:13   1  0   -1   3   0   0   0   0   0/0Jack Eichel C  18:25   0  0   -1   4   0   0   2   0  8/15Tomas Hertl C  14:38   0  1   -1   0   0   0   0   0   3/9Alexander Holtz R  13:41   0  0    1   1   0   0   0   0   0/1Brett Howden C  15:12   1  1    0   4   2   0   1   0   0/2William Karlsson C  15:37   1  0    1   3   1   0   0   2  7/12Keegan Kolesar R  13:25   0  1    1   0   1   5   0   1   0/0Tanner Pearson L  13:39   0  0    1   0   0   0   0   0   0/0Nicolas Roy C  16:22   0  1    1   6   0   0   0   0  6/11Cole Schwindt R  13:04   0  0    1   1   0   0   0   0   0/1Mark Stone R  16:44   0  1    0   0   0   0   1   0   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+18:31   0  0   -1   0   1   0   0   0   0/0
+Pavel Dorofeyev L
+16:13   1  0   -1   3   0   0   0   0   0/0
+Jack Eichel C
+18:25   0  0   -1   4   0   0   2   0  8/15
+Tomas Hertl C
+14:38   0  1   -1   0   0   0   0   0   3/9
+Alexander Holtz R
+13:41   0  0    1   1   0   0   0   0   0/1
+Brett Howden C
+15:12   1  1    0   4   2   0   1   0   0/2
+William Karlsson C
+15:37   1  0    1   3   1   0   0   2  7/12
+Keegan Kolesar R
+13:25   0  1    1   0   1   5   0   1   0/0
+Tanner Pearson L
+13:39   0  0    1   0   0   0   0   0   0/0
+Nicolas Roy C
+16:22   0  1    1   6   0   0   0   0  6/11
+Cole Schwindt R
+13:04   0  0    1   1   0   0   0   0   0/1
+Mark Stone R
+16:44   0  1    0   0   0   0   1   0   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  13:48   0  0   -2   2   1   0   1   0   0/0Noah Hanifin D  24:31   1  2    3   6   1   0   2   3   0/0Brayden McNabb D  22:28   0  0    0   2   3   0   1   2   0/0Alex Pietrangelo D  24:56   0  0    2   0   3   0   0   1   0/0Shea Theodore D  22:14   0  0    0   2   0   0   1   1   0/0Zach Whitecloud D  13:17   0  0   -2   1   2   0   1   3   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Hague D
+13:48   0  0   -2   2   1   0   1   0   0/0
+Noah Hanifin D
+24:31   1  2    3   6   1   0   2   3   0/0
+Brayden McNabb D
+22:28   0  0    0   2   3   0   1   2   0/0
+Alex Pietrangelo D
+24:56   0  0    2   0   3   0   0   1   0/0
+Shea Theodore D
+22:14   0  0    0   2   0   0   1   1   0/0
+Zach Whitecloud D
+13:17   0  0   -2   1   2   0   1   3   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       35  15   5  10  13 24/51
+                                        47.1%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  62:15   3  16/19  16/19   0/0   0/0     0
+              .842   .842
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Adin Hill G
+62:15   3  16/19  16/19   0/0   0/0     0
+              .842   .842
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

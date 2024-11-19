@@ -1,0 +1,307 @@
+< Oct. 31 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+St. Louis
+Blues5-6-0Final1 - 2Philadelphia
+Flyers4-6-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+STL   0  0  1    1  
+PHI   1  0  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:18 
+Jordan Kyrou (STL) hooking against Owen Tippett (2 minutes)
+   0-0
+P1  08:48 
+Garnet Hathaway (PHI) scores on wrist shot past Jordan Binnington, assisted by Ryan Poehling and Nick Seeler
+   0-1
+2nd Period: ShowHide
+P2  17:26 
+Erik Johnson (PHI) interference against Radek Faksa (2 minutes)
+   0-1
+P2  15:05 
+Oskar Sundqvist (STL) tripping against Travis Konecny (2 minutes)
+   0-1
+P2  12:07 
+Sean Couturier (PHI) tripping against Colton Parayko (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  14:40 
+Ryan Suter (STL) tripping against Tyson Foerster (2 minutes)
+   0-1
+P3  10:02 
+Nathan Walker (STL) scores on wrist shot past Samuel Ersson, assisted by Philip Broberg and Zack Bolduc
+   1-1
+P3  03:01 
+Bobby Brink (PHI) scores on tip-in past Jordan Binnington, assisted by Joel Farabee and Scott Laughton
+   1-2
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  11:58   0  1    0   0   1   0   0   1   0/0Pavel Buchnevich L  19:08   0  0   -1   0   2   0   0   1  3/10Radek Faksa C  11:57   0  0    0   1   2   0   0   0   3/7Dylan Holloway L  20:00   0  0    0   1   1   0   0   1   3/9Jordan Kyrou C  19:37   0  0   -1   2   0   2   0   2   0/0Jake Neighbours L  17:21   0  0   -1   2   0   0   0   0   1/1Brandon Saad L  16:49   0  0   -1   1   2   0   0   0   0/0Brayden Schenn C  15:45   0  0   -1   1   0   0   0   0  6/10Oskar Sundqvist C  09:52   0  0    1   0   0   2   0   0   3/5Alexandre Texier C  16:48   0  0   -1   0   0   0   1   0   0/0Alexey Toropchenko R  11:38   0  0    1   1   1   0   0   0   0/0Nathan Walker L  11:28   1  0    1   2   2   0   0   0   1/1Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  20:53   0  1    1   2   2   0   0   2   0/0Justin Faulk D  23:46   0  0    0   2   2   0   1   0   0/0Matthew Kessel D  12:04   0  0    0   2   1   0   0   0   0/0Colton Parayko D  24:20   0  0   -1   4   1   0   2   1   0/0Scott Perunovich D  10:11   0  0   -1   0   1   0   0   0   0/0Ryan Suter D  22:49   0  0   -1   0   0   2   0   0   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       21  18   6   4   8 20/43
+                                        46.5%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  57:36   2  19/21  15/17   3/3   1/1     0
+              .905   .882 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  12:16   1  0    0   2   1   0   0   0   0/0Noah Cates L  14:41   0  0    1   1   1   0   1   0   0/0Sean Couturier C  18:46   0  0   -1   1   1   2   0   0 12/19Joel Farabee L  12:31   0  1    1   0   0   0   0   1   0/0Tyson Foerster R  13:56   0  0    0   1   0   0   0   0   0/0Morgan Frost C  13:56   0  0    0   1   0   0   2   1   1/5Garnet Hathaway R  14:12   1  0    1   2   1   0   0   0   0/0Travis Konecny R  22:04   0  0   -1   1   2   0   1   0   0/0Scott Laughton C  14:52   0  1    1   1   0   0   0   1   5/9Matvei Michkov R  13:56   0  0    0   1   1   0   0   1   1/1Ryan Poehling C  12:22   0  1    1   0   0   0   0   0   4/9Owen Tippett R  17:33   0  0    0   2   2   0   1   0   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  17:03   0  0    1   0   1   0   0   2   0/0Jamie Drysdale D  18:25   0  0    0   2   0   0   0   1   0/0Erik Johnson D  13:11   0  0    0   0   2   2   0   0   0/0Rasmus Ristolainen D  23:42   0  0    1   1   4   0   3   1   0/0Travis Sanheim D  25:48   0  0    0   2   3   0   0   2   0/0Nick Seeler D  16:53   0  1    0   3   6   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       21  25   4   8  10 23/43
+                                        53.5%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:53   1  20/21  16/17   2/2   2/2     0
+              .952   .941 1.000 1.000
+St. Louis
+Blues5-6-0Final1 - 2Philadelphia
+Flyers4-6-1
+St. Louis
+Blues5-6-0
+Final1 - 2
+Philadelphia
+Flyers4-6-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+STL   0  0  1    1  
+PHI   1  0  1    2
+1st Period: ShowHide
+P1  15:18 
+Jordan Kyrou (STL) hooking against Owen Tippett (2 minutes)
+   0-0
+P1  08:48 
+Garnet Hathaway (PHI) scores on wrist shot past Jordan Binnington, assisted by Ryan Poehling and Nick Seeler
+   0-1
+2nd Period: ShowHide
+P2  17:26 
+Erik Johnson (PHI) interference against Radek Faksa (2 minutes)
+   0-1
+P2  15:05 
+Oskar Sundqvist (STL) tripping against Travis Konecny (2 minutes)
+   0-1
+P2  12:07 
+Sean Couturier (PHI) tripping against Colton Parayko (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  14:40 
+Ryan Suter (STL) tripping against Tyson Foerster (2 minutes)
+   0-1
+P3  10:02 
+Nathan Walker (STL) scores on wrist shot past Samuel Ersson, assisted by Philip Broberg and Zack Bolduc
+   1-1
+P3  03:01 
+Bobby Brink (PHI) scores on tip-in past Jordan Binnington, assisted by Joel Farabee and Scott Laughton
+   1-2
+1st Period: ShowHide
+P1  15:18 
+Jordan Kyrou (STL) hooking against Owen Tippett (2 minutes)
+   0-0
+P1  08:48 
+Garnet Hathaway (PHI) scores on wrist shot past Jordan Binnington, assisted by Ryan Poehling and Nick Seeler
+   0-1
+P1  15:18 
+Jordan Kyrou (STL) hooking against Owen Tippett (2 minutes)
+   0-0
+P1  08:48 
+Garnet Hathaway (PHI) scores on wrist shot past Jordan Binnington, assisted by Ryan Poehling and Nick Seeler
+   0-1
+P1  15:18
+Jordan Kyrou (STL) hooking against Owen Tippett (2 minutes)
+0-0
+P1  08:48
+Garnet Hathaway (PHI) scores on wrist shot past Jordan Binnington, assisted by Ryan Poehling and Nick Seeler
+0-1
+2nd Period: ShowHide
+P2  17:26 
+Erik Johnson (PHI) interference against Radek Faksa (2 minutes)
+   0-1
+P2  15:05 
+Oskar Sundqvist (STL) tripping against Travis Konecny (2 minutes)
+   0-1
+P2  12:07 
+Sean Couturier (PHI) tripping against Colton Parayko (2 minutes)
+   0-1
+P2  17:26 
+Erik Johnson (PHI) interference against Radek Faksa (2 minutes)
+   0-1
+P2  15:05 
+Oskar Sundqvist (STL) tripping against Travis Konecny (2 minutes)
+   0-1
+P2  12:07 
+Sean Couturier (PHI) tripping against Colton Parayko (2 minutes)
+   0-1
+P2  17:26
+Erik Johnson (PHI) interference against Radek Faksa (2 minutes)
+0-1
+P2  15:05
+Oskar Sundqvist (STL) tripping against Travis Konecny (2 minutes)
+0-1
+P2  12:07
+Sean Couturier (PHI) tripping against Colton Parayko (2 minutes)
+0-1
+3rd Period: ShowHide
+P3  14:40 
+Ryan Suter (STL) tripping against Tyson Foerster (2 minutes)
+   0-1
+P3  10:02 
+Nathan Walker (STL) scores on wrist shot past Samuel Ersson, assisted by Philip Broberg and Zack Bolduc
+   1-1
+P3  03:01 
+Bobby Brink (PHI) scores on tip-in past Jordan Binnington, assisted by Joel Farabee and Scott Laughton
+   1-2
+P3  14:40 
+Ryan Suter (STL) tripping against Tyson Foerster (2 minutes)
+   0-1
+P3  10:02 
+Nathan Walker (STL) scores on wrist shot past Samuel Ersson, assisted by Philip Broberg and Zack Bolduc
+   1-1
+P3  03:01 
+Bobby Brink (PHI) scores on tip-in past Jordan Binnington, assisted by Joel Farabee and Scott Laughton
+   1-2
+P3  14:40
+Ryan Suter (STL) tripping against Tyson Foerster (2 minutes)
+0-1
+P3  10:02
+Nathan Walker (STL) scores on wrist shot past Samuel Ersson, assisted by Philip Broberg and Zack Bolduc
+1-1
+P3  03:01
+Bobby Brink (PHI) scores on tip-in past Jordan Binnington, assisted by Joel Farabee and Scott Laughton
+1-2
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  11:58   0  1    0   0   1   0   0   1   0/0Pavel Buchnevich L  19:08   0  0   -1   0   2   0   0   1  3/10Radek Faksa C  11:57   0  0    0   1   2   0   0   0   3/7Dylan Holloway L  20:00   0  0    0   1   1   0   0   1   3/9Jordan Kyrou C  19:37   0  0   -1   2   0   2   0   2   0/0Jake Neighbours L  17:21   0  0   -1   2   0   0   0   0   1/1Brandon Saad L  16:49   0  0   -1   1   2   0   0   0   0/0Brayden Schenn C  15:45   0  0   -1   1   0   0   0   0  6/10Oskar Sundqvist C  09:52   0  0    1   0   0   2   0   0   3/5Alexandre Texier C  16:48   0  0   -1   0   0   0   1   0   0/0Alexey Toropchenko R  11:38   0  0    1   1   1   0   0   0   0/0Nathan Walker L  11:28   1  0    1   2   2   0   0   0   1/1Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  20:53   0  1    1   2   2   0   0   2   0/0Justin Faulk D  23:46   0  0    0   2   2   0   1   0   0/0Matthew Kessel D  12:04   0  0    0   2   1   0   0   0   0/0Colton Parayko D  24:20   0  0   -1   4   1   0   2   1   0/0Scott Perunovich D  10:11   0  0   -1   0   1   0   0   0   0/0Ryan Suter D  22:49   0  0   -1   0   0   2   0   0   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       21  18   6   4   8 20/43
+                                        46.5%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  57:36   2  19/21  15/17   3/3   1/1     0
+              .905   .882 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  12:16   1  0    0   2   1   0   0   0   0/0Noah Cates L  14:41   0  0    1   1   1   0   1   0   0/0Sean Couturier C  18:46   0  0   -1   1   1   2   0   0 12/19Joel Farabee L  12:31   0  1    1   0   0   0   0   1   0/0Tyson Foerster R  13:56   0  0    0   1   0   0   0   0   0/0Morgan Frost C  13:56   0  0    0   1   0   0   2   1   1/5Garnet Hathaway R  14:12   1  0    1   2   1   0   0   0   0/0Travis Konecny R  22:04   0  0   -1   1   2   0   1   0   0/0Scott Laughton C  14:52   0  1    1   1   0   0   0   1   5/9Matvei Michkov R  13:56   0  0    0   1   1   0   0   1   1/1Ryan Poehling C  12:22   0  1    1   0   0   0   0   0   4/9Owen Tippett R  17:33   0  0    0   2   2   0   1   0   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  17:03   0  0    1   0   1   0   0   2   0/0Jamie Drysdale D  18:25   0  0    0   2   0   0   0   1   0/0Erik Johnson D  13:11   0  0    0   0   2   2   0   0   0/0Rasmus Ristolainen D  23:42   0  0    1   1   4   0   3   1   0/0Travis Sanheim D  25:48   0  0    0   2   3   0   0   2   0/0Nick Seeler D  16:53   0  1    0   3   6   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       21  25   4   8  10 23/43
+                                        53.5%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:53   1  20/21  16/17   2/2   2/2     0
+              .952   .941 1.000 1.000
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  11:58   0  1    0   0   1   0   0   1   0/0Pavel Buchnevich L  19:08   0  0   -1   0   2   0   0   1  3/10Radek Faksa C  11:57   0  0    0   1   2   0   0   0   3/7Dylan Holloway L  20:00   0  0    0   1   1   0   0   1   3/9Jordan Kyrou C  19:37   0  0   -1   2   0   2   0   2   0/0Jake Neighbours L  17:21   0  0   -1   2   0   0   0   0   1/1Brandon Saad L  16:49   0  0   -1   1   2   0   0   0   0/0Brayden Schenn C  15:45   0  0   -1   1   0   0   0   0  6/10Oskar Sundqvist C  09:52   0  0    1   0   0   2   0   0   3/5Alexandre Texier C  16:48   0  0   -1   0   0   0   1   0   0/0Alexey Toropchenko R  11:38   0  0    1   1   1   0   0   0   0/0Nathan Walker L  11:28   1  0    1   2   2   0   0   0   1/1
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zack Bolduc C
+11:58   0  1    0   0   1   0   0   1   0/0
+Pavel Buchnevich L
+19:08   0  0   -1   0   2   0   0   1  3/10
+Radek Faksa C
+11:57   0  0    0   1   2   0   0   0   3/7
+Dylan Holloway L
+20:00   0  0    0   1   1   0   0   1   3/9
+Jordan Kyrou C
+19:37   0  0   -1   2   0   2   0   2   0/0
+Jake Neighbours L
+17:21   0  0   -1   2   0   0   0   0   1/1
+Brandon Saad L
+16:49   0  0   -1   1   2   0   0   0   0/0
+Brayden Schenn C
+15:45   0  0   -1   1   0   0   0   0  6/10
+Oskar Sundqvist C
+09:52   0  0    1   0   0   2   0   0   3/5
+Alexandre Texier C
+16:48   0  0   -1   0   0   0   1   0   0/0
+Alexey Toropchenko R
+11:38   0  0    1   1   1   0   0   0   0/0
+Nathan Walker L
+11:28   1  0    1   2   2   0   0   0   1/1
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  20:53   0  1    1   2   2   0   0   2   0/0Justin Faulk D  23:46   0  0    0   2   2   0   1   0   0/0Matthew Kessel D  12:04   0  0    0   2   1   0   0   0   0/0Colton Parayko D  24:20   0  0   -1   4   1   0   2   1   0/0Scott Perunovich D  10:11   0  0   -1   0   1   0   0   0   0/0Ryan Suter D  22:49   0  0   -1   0   0   2   0   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+20:53   0  1    1   2   2   0   0   2   0/0
+Justin Faulk D
+23:46   0  0    0   2   2   0   1   0   0/0
+Matthew Kessel D
+12:04   0  0    0   2   1   0   0   0   0/0
+Colton Parayko D
+24:20   0  0   -1   4   1   0   2   1   0/0
+Scott Perunovich D
+10:11   0  0   -1   0   1   0   0   0   0/0
+Ryan Suter D
+22:49   0  0   -1   0   0   2   0   0   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       21  18   6   4   8 20/43
+                                        46.5%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  57:36   2  19/21  15/17   3/3   1/1     0
+              .905   .882 1.000 1.000
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jordan Binnington G
+57:36   2  19/21  15/17   3/3   1/1     0
+              .905   .882 1.000 1.000
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  12:16   1  0    0   2   1   0   0   0   0/0Noah Cates L  14:41   0  0    1   1   1   0   1   0   0/0Sean Couturier C  18:46   0  0   -1   1   1   2   0   0 12/19Joel Farabee L  12:31   0  1    1   0   0   0   0   1   0/0Tyson Foerster R  13:56   0  0    0   1   0   0   0   0   0/0Morgan Frost C  13:56   0  0    0   1   0   0   2   1   1/5Garnet Hathaway R  14:12   1  0    1   2   1   0   0   0   0/0Travis Konecny R  22:04   0  0   -1   1   2   0   1   0   0/0Scott Laughton C  14:52   0  1    1   1   0   0   0   1   5/9Matvei Michkov R  13:56   0  0    0   1   1   0   0   1   1/1Ryan Poehling C  12:22   0  1    1   0   0   0   0   0   4/9Owen Tippett R  17:33   0  0    0   2   2   0   1   0   0/0
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bobby Brink R
+12:16   1  0    0   2   1   0   0   0   0/0
+Noah Cates L
+14:41   0  0    1   1   1   0   1   0   0/0
+Sean Couturier C
+18:46   0  0   -1   1   1   2   0   0 12/19
+Joel Farabee L
+12:31   0  1    1   0   0   0   0   1   0/0
+Tyson Foerster R
+13:56   0  0    0   1   0   0   0   0   0/0
+Morgan Frost C
+13:56   0  0    0   1   0   0   2   1   1/5
+Garnet Hathaway R
+14:12   1  0    1   2   1   0   0   0   0/0
+Travis Konecny R
+22:04   0  0   -1   1   2   0   1   0   0/0
+Scott Laughton C
+14:52   0  1    1   1   0   0   0   1   5/9
+Matvei Michkov R
+13:56   0  0    0   1   1   0   0   1   1/1
+Ryan Poehling C
+12:22   0  1    1   0   0   0   0   0   4/9
+Owen Tippett R
+17:33   0  0    0   2   2   0   1   0   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  17:03   0  0    1   0   1   0   0   2   0/0Jamie Drysdale D  18:25   0  0    0   2   0   0   0   1   0/0Erik Johnson D  13:11   0  0    0   0   2   2   0   0   0/0Rasmus Ristolainen D  23:42   0  0    1   1   4   0   3   1   0/0Travis Sanheim D  25:48   0  0    0   2   3   0   0   2   0/0Nick Seeler D  16:53   0  1    0   3   6   0   0   0   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Emil Andrae D
+17:03   0  0    1   0   1   0   0   2   0/0
+Jamie Drysdale D
+18:25   0  0    0   2   0   0   0   1   0/0
+Erik Johnson D
+13:11   0  0    0   0   2   2   0   0   0/0
+Rasmus Ristolainen D
+23:42   0  0    1   1   4   0   3   1   0/0
+Travis Sanheim D
+25:48   0  0    0   2   3   0   0   2   0/0
+Nick Seeler D
+16:53   0  1    0   3   6   0   0   0   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       21  25   4   8  10 23/43
+                                        53.5%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:53   1  20/21  16/17   2/2   2/2     0
+              .952   .941 1.000 1.000
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Samuel Ersson G
+59:53   1  20/21  16/17   2/2   2/2     0
+              .952   .941 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

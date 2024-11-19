@@ -1,0 +1,442 @@
+< Oct. 24 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+San Jose
+Sharks0-6-2Final2 - 3Los Angeles
+Kings4-2-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SJS   0  1  1    2  
+LAK   3  0  0    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:29 
+Jordan Spence (LAK) scores on snap shot past Mackenzie Blackwood, assisted by Trevor Moore and Phillip Danault
+   0-1
+P1  11:13 
+Warren Foegele (LAK) scores on backhand shot past Mackenzie Blackwood, assisted by Alex Laferriere
+   0-2
+P1  10:43 
+Andre Lee (LAK) fighting against Luke Kunin (5 minutes)
+   0-2
+P1  10:43 
+Luke Kunin (SJS) fighting against Andre Lee (5 minutes)
+   0-2
+P1  08:24 
+Warren Foegele (LAK) scores on tip-in past Mackenzie Blackwood, assisted by Alex Laferriere and Brandt Clarke
+   0-3
+P1  04:05 
+Trevor Lewis (LAK) high-sticking against Nico Sturm (2 minutes)
+   0-3
+P1  00:37 
+Adrian Kempe (LAK) high-sticking against Cody Ceci (2 minutes)
+   0-3
+2nd Period: ShowHide
+P2  19:07 
+Jake Walman (SJS) tripping against Trevor Moore (2 minutes)
+   0-3
+P2  11:23 
+Kyle Burroughs (LAK) hooking against William Eklund (2 minutes)
+   0-3
+P2  09:55 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   1-3
+P2  08:40 
+Danil Gushchin (SJS) hooking against Brandt Clarke (2 minutes)
+   1-3
+P2  05:45 
+Tyler Toffoli (SJS) slashing against Tanner Jeannot (2 minutes)
+   1-3
+P2  05:45 
+Tanner Jeannot (LAK) high-sticking against Tyler Toffoli (2 minutes)
+   1-3
+P2  00:56 
+Trevor Lewis (LAK) hooking against Cody Ceci (2 minutes)
+   1-3
+3rd Period: ShowHide
+P3  05:54 
+Jordan Spence (LAK) cross-checking against Danil Gushchin (2 minutes)
+   1-3
+P3  01:05 
+Kevin Fiala (LAK) tripping against Jake Walman (2 minutes)
+   1-3
+P3  01:00 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   2-3
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  15:13   0  0   -1   0   0   0   0   0  7/11William Eklund L  21:58   0  0   -3   2   0   0   0   1   0/0Barclay Goodrow C  15:12   0  0    0   0   0   0   2   1   3/7Mikael Granlund C  22:58   2  0   -2   6   1   0   0   1  5/10Carl Grundstrom R  12:24   0  0    0   0   0   0   0   1   0/0Danil Gushchin L  11:11   0  0    0   0   2   2   0   0   0/0Klim Kostin C  05:09   0  0    0   0   0   0   0   2   0/0Luke Kunin C  12:39   0  0    0   2   2   5   0   0   0/2Nico Sturm C  11:08   0  0    0   2   0   0   0   0   6/9Tyler Toffoli C  22:05   0  0   -3   5   0   2   2   0   0/1Alexander Wennberg C  21:23   0  2    0   2   0   0   0   0 10/18Fabian Zetterlund L  16:22   0  0    0   2   1   0   2   2   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  19:02   0  0   -1   1   0   0   1   2   0/0Mario Ferraro D  17:05   0  0    0   0   2   0   1   0   0/0Jan Rutta D  17:39   0  0    0   0   0   0   0   1   0/0Jack Thompson D  20:34   0  2   -2   1   3   0   0   2   0/0Henry Thrun D  14:32   0  0   -2   0   3   0   0   0   0/0Jake Walman D  19:42   0  0   -1   3   0   2   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  14  11   9  13 31/58
+                                        53.4%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  57:44   3  27/30  22/25   1/1   4/4     0
+              .900   .880 1.000 1.000 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:02   0  0    0   4   0   0   0   0   1/3Phillip Danault C  16:19   0  1    1   1   3   0   1   0  7/13Kevin Fiala L  15:04   0  0    1   2   1   2   0   1   0/0Warren Foegele L  15:16   2  0    2   4   1   0   0   1   0/0Tanner Jeannot L  09:03   0  0    0   2   0   2   0   0   0/1Adrian Kempe R  18:23   0  0    0   2   2   2   0   2   0/0Anze Kopitar C  19:12   0  0    0   1   2   0   0   4 13/24Alex Laferriere R  14:50   0  2    2   2   3   0   1   0   0/0Andre Lee L  08:20   0  0    0   0   2   5   1   2   0/0Trevor Lewis C  08:54   0  0    0   1   1   4   0   1   2/6Trevor Moore L  15:43   0  1    1   1   0   0   1   0   0/2Alex Turcotte C  13:24   0  0    2   2   1   0   2   1   4/9Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:44   0  0    2   2   0   0   1   2   0/0Kyle Burroughs D  13:13   0  0    0   1   2   2   0   2   0/0Brandt Clarke D  15:13   0  1    1   2   0   0   0   0   0/0Joel Edmundson D  24:04   0  0    0   1   2   0   0   2   0/0Vladislav Gavrikov D  25:21   0  0    1   0   2   0   1   1   0/0Jordan Spence D  17:22   1  0    2   2   3   2   0   2   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       30  25  19   8  21 27/58
+                                        46.6%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  60:00   2  24/26  20/20   4/6   0/0     0
+              .923  1.000  .667
+San Jose
+Sharks0-6-2Final2 - 3Los Angeles
+Kings4-2-2
+San Jose
+Sharks0-6-2
+Final2 - 3
+Los Angeles
+Kings4-2-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SJS   0  1  1    2  
+LAK   3  0  0    3
+1st Period: ShowHide
+P1  15:29 
+Jordan Spence (LAK) scores on snap shot past Mackenzie Blackwood, assisted by Trevor Moore and Phillip Danault
+   0-1
+P1  11:13 
+Warren Foegele (LAK) scores on backhand shot past Mackenzie Blackwood, assisted by Alex Laferriere
+   0-2
+P1  10:43 
+Andre Lee (LAK) fighting against Luke Kunin (5 minutes)
+   0-2
+P1  10:43 
+Luke Kunin (SJS) fighting against Andre Lee (5 minutes)
+   0-2
+P1  08:24 
+Warren Foegele (LAK) scores on tip-in past Mackenzie Blackwood, assisted by Alex Laferriere and Brandt Clarke
+   0-3
+P1  04:05 
+Trevor Lewis (LAK) high-sticking against Nico Sturm (2 minutes)
+   0-3
+P1  00:37 
+Adrian Kempe (LAK) high-sticking against Cody Ceci (2 minutes)
+   0-3
+2nd Period: ShowHide
+P2  19:07 
+Jake Walman (SJS) tripping against Trevor Moore (2 minutes)
+   0-3
+P2  11:23 
+Kyle Burroughs (LAK) hooking against William Eklund (2 minutes)
+   0-3
+P2  09:55 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   1-3
+P2  08:40 
+Danil Gushchin (SJS) hooking against Brandt Clarke (2 minutes)
+   1-3
+P2  05:45 
+Tyler Toffoli (SJS) slashing against Tanner Jeannot (2 minutes)
+   1-3
+P2  05:45 
+Tanner Jeannot (LAK) high-sticking against Tyler Toffoli (2 minutes)
+   1-3
+P2  00:56 
+Trevor Lewis (LAK) hooking against Cody Ceci (2 minutes)
+   1-3
+3rd Period: ShowHide
+P3  05:54 
+Jordan Spence (LAK) cross-checking against Danil Gushchin (2 minutes)
+   1-3
+P3  01:05 
+Kevin Fiala (LAK) tripping against Jake Walman (2 minutes)
+   1-3
+P3  01:00 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   2-3
+1st Period: ShowHide
+P1  15:29 
+Jordan Spence (LAK) scores on snap shot past Mackenzie Blackwood, assisted by Trevor Moore and Phillip Danault
+   0-1
+P1  11:13 
+Warren Foegele (LAK) scores on backhand shot past Mackenzie Blackwood, assisted by Alex Laferriere
+   0-2
+P1  10:43 
+Andre Lee (LAK) fighting against Luke Kunin (5 minutes)
+   0-2
+P1  10:43 
+Luke Kunin (SJS) fighting against Andre Lee (5 minutes)
+   0-2
+P1  08:24 
+Warren Foegele (LAK) scores on tip-in past Mackenzie Blackwood, assisted by Alex Laferriere and Brandt Clarke
+   0-3
+P1  04:05 
+Trevor Lewis (LAK) high-sticking against Nico Sturm (2 minutes)
+   0-3
+P1  00:37 
+Adrian Kempe (LAK) high-sticking against Cody Ceci (2 minutes)
+   0-3
+P1  15:29 
+Jordan Spence (LAK) scores on snap shot past Mackenzie Blackwood, assisted by Trevor Moore and Phillip Danault
+   0-1
+P1  11:13 
+Warren Foegele (LAK) scores on backhand shot past Mackenzie Blackwood, assisted by Alex Laferriere
+   0-2
+P1  10:43 
+Andre Lee (LAK) fighting against Luke Kunin (5 minutes)
+   0-2
+P1  10:43 
+Luke Kunin (SJS) fighting against Andre Lee (5 minutes)
+   0-2
+P1  08:24 
+Warren Foegele (LAK) scores on tip-in past Mackenzie Blackwood, assisted by Alex Laferriere and Brandt Clarke
+   0-3
+P1  04:05 
+Trevor Lewis (LAK) high-sticking against Nico Sturm (2 minutes)
+   0-3
+P1  00:37 
+Adrian Kempe (LAK) high-sticking against Cody Ceci (2 minutes)
+   0-3
+P1  15:29
+Jordan Spence (LAK) scores on snap shot past Mackenzie Blackwood, assisted by Trevor Moore and Phillip Danault
+0-1
+P1  11:13
+Warren Foegele (LAK) scores on backhand shot past Mackenzie Blackwood, assisted by Alex Laferriere
+0-2
+P1  10:43
+Andre Lee (LAK) fighting against Luke Kunin (5 minutes)
+0-2
+P1  10:43
+Luke Kunin (SJS) fighting against Andre Lee (5 minutes)
+0-2
+P1  08:24
+Warren Foegele (LAK) scores on tip-in past Mackenzie Blackwood, assisted by Alex Laferriere and Brandt Clarke
+0-3
+P1  04:05
+Trevor Lewis (LAK) high-sticking against Nico Sturm (2 minutes)
+0-3
+P1  00:37
+Adrian Kempe (LAK) high-sticking against Cody Ceci (2 minutes)
+0-3
+2nd Period: ShowHide
+P2  19:07 
+Jake Walman (SJS) tripping against Trevor Moore (2 minutes)
+   0-3
+P2  11:23 
+Kyle Burroughs (LAK) hooking against William Eklund (2 minutes)
+   0-3
+P2  09:55 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   1-3
+P2  08:40 
+Danil Gushchin (SJS) hooking against Brandt Clarke (2 minutes)
+   1-3
+P2  05:45 
+Tyler Toffoli (SJS) slashing against Tanner Jeannot (2 minutes)
+   1-3
+P2  05:45 
+Tanner Jeannot (LAK) high-sticking against Tyler Toffoli (2 minutes)
+   1-3
+P2  00:56 
+Trevor Lewis (LAK) hooking against Cody Ceci (2 minutes)
+   1-3
+P2  19:07 
+Jake Walman (SJS) tripping against Trevor Moore (2 minutes)
+   0-3
+P2  11:23 
+Kyle Burroughs (LAK) hooking against William Eklund (2 minutes)
+   0-3
+P2  09:55 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   1-3
+P2  08:40 
+Danil Gushchin (SJS) hooking against Brandt Clarke (2 minutes)
+   1-3
+P2  05:45 
+Tyler Toffoli (SJS) slashing against Tanner Jeannot (2 minutes)
+   1-3
+P2  05:45 
+Tanner Jeannot (LAK) high-sticking against Tyler Toffoli (2 minutes)
+   1-3
+P2  00:56 
+Trevor Lewis (LAK) hooking against Cody Ceci (2 minutes)
+   1-3
+P2  19:07
+Jake Walman (SJS) tripping against Trevor Moore (2 minutes)
+0-3
+P2  11:23
+Kyle Burroughs (LAK) hooking against William Eklund (2 minutes)
+0-3
+P2  09:55
+Mikael Granlund (SJS) scores power-play goal on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+1-3
+P2  08:40
+Danil Gushchin (SJS) hooking against Brandt Clarke (2 minutes)
+1-3
+P2  05:45
+Tyler Toffoli (SJS) slashing against Tanner Jeannot (2 minutes)
+1-3
+P2  05:45
+Tanner Jeannot (LAK) high-sticking against Tyler Toffoli (2 minutes)
+1-3
+P2  00:56
+Trevor Lewis (LAK) hooking against Cody Ceci (2 minutes)
+1-3
+3rd Period: ShowHide
+P3  05:54 
+Jordan Spence (LAK) cross-checking against Danil Gushchin (2 minutes)
+   1-3
+P3  01:05 
+Kevin Fiala (LAK) tripping against Jake Walman (2 minutes)
+   1-3
+P3  01:00 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   2-3
+P3  05:54 
+Jordan Spence (LAK) cross-checking against Danil Gushchin (2 minutes)
+   1-3
+P3  01:05 
+Kevin Fiala (LAK) tripping against Jake Walman (2 minutes)
+   1-3
+P3  01:00 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+   2-3
+P3  05:54
+Jordan Spence (LAK) cross-checking against Danil Gushchin (2 minutes)
+1-3
+P3  01:05
+Kevin Fiala (LAK) tripping against Jake Walman (2 minutes)
+1-3
+P3  01:00
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past David Rittich, assisted by Jack Thompson and Alexander Wennberg
+2-3
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  15:13   0  0   -1   0   0   0   0   0  7/11William Eklund L  21:58   0  0   -3   2   0   0   0   1   0/0Barclay Goodrow C  15:12   0  0    0   0   0   0   2   1   3/7Mikael Granlund C  22:58   2  0   -2   6   1   0   0   1  5/10Carl Grundstrom R  12:24   0  0    0   0   0   0   0   1   0/0Danil Gushchin L  11:11   0  0    0   0   2   2   0   0   0/0Klim Kostin C  05:09   0  0    0   0   0   0   0   2   0/0Luke Kunin C  12:39   0  0    0   2   2   5   0   0   0/2Nico Sturm C  11:08   0  0    0   2   0   0   0   0   6/9Tyler Toffoli C  22:05   0  0   -3   5   0   2   2   0   0/1Alexander Wennberg C  21:23   0  2    0   2   0   0   0   0 10/18Fabian Zetterlund L  16:22   0  0    0   2   1   0   2   2   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  19:02   0  0   -1   1   0   0   1   2   0/0Mario Ferraro D  17:05   0  0    0   0   2   0   1   0   0/0Jan Rutta D  17:39   0  0    0   0   0   0   0   1   0/0Jack Thompson D  20:34   0  2   -2   1   3   0   0   2   0/0Henry Thrun D  14:32   0  0   -2   0   3   0   0   0   0/0Jake Walman D  19:42   0  0   -1   3   0   2   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  14  11   9  13 31/58
+                                        53.4%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  57:44   3  27/30  22/25   1/1   4/4     0
+              .900   .880 1.000 1.000 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:02   0  0    0   4   0   0   0   0   1/3Phillip Danault C  16:19   0  1    1   1   3   0   1   0  7/13Kevin Fiala L  15:04   0  0    1   2   1   2   0   1   0/0Warren Foegele L  15:16   2  0    2   4   1   0   0   1   0/0Tanner Jeannot L  09:03   0  0    0   2   0   2   0   0   0/1Adrian Kempe R  18:23   0  0    0   2   2   2   0   2   0/0Anze Kopitar C  19:12   0  0    0   1   2   0   0   4 13/24Alex Laferriere R  14:50   0  2    2   2   3   0   1   0   0/0Andre Lee L  08:20   0  0    0   0   2   5   1   2   0/0Trevor Lewis C  08:54   0  0    0   1   1   4   0   1   2/6Trevor Moore L  15:43   0  1    1   1   0   0   1   0   0/2Alex Turcotte C  13:24   0  0    2   2   1   0   2   1   4/9Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:44   0  0    2   2   0   0   1   2   0/0Kyle Burroughs D  13:13   0  0    0   1   2   2   0   2   0/0Brandt Clarke D  15:13   0  1    1   2   0   0   0   0   0/0Joel Edmundson D  24:04   0  0    0   1   2   0   0   2   0/0Vladislav Gavrikov D  25:21   0  0    1   0   2   0   1   1   0/0Jordan Spence D  17:22   1  0    2   2   3   2   0   2   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       30  25  19   8  21 27/58
+                                        46.6%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  60:00   2  24/26  20/20   4/6   0/0     0
+              .923  1.000  .667
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  15:13   0  0   -1   0   0   0   0   0  7/11William Eklund L  21:58   0  0   -3   2   0   0   0   1   0/0Barclay Goodrow C  15:12   0  0    0   0   0   0   2   1   3/7Mikael Granlund C  22:58   2  0   -2   6   1   0   0   1  5/10Carl Grundstrom R  12:24   0  0    0   0   0   0   0   1   0/0Danil Gushchin L  11:11   0  0    0   0   2   2   0   0   0/0Klim Kostin C  05:09   0  0    0   0   0   0   0   2   0/0Luke Kunin C  12:39   0  0    0   2   2   5   0   0   0/2Nico Sturm C  11:08   0  0    0   2   0   0   0   0   6/9Tyler Toffoli C  22:05   0  0   -3   5   0   2   2   0   0/1Alexander Wennberg C  21:23   0  2    0   2   0   0   0   0 10/18Fabian Zetterlund L  16:22   0  0    0   2   1   0   2   2   0/0
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ty Dellandrea C
+15:13   0  0   -1   0   0   0   0   0  7/11
+William Eklund L
+21:58   0  0   -3   2   0   0   0   1   0/0
+Barclay Goodrow C
+15:12   0  0    0   0   0   0   2   1   3/7
+Mikael Granlund C
+22:58   2  0   -2   6   1   0   0   1  5/10
+Carl Grundstrom R
+12:24   0  0    0   0   0   0   0   1   0/0
+Danil Gushchin L
+11:11   0  0    0   0   2   2   0   0   0/0
+Klim Kostin C
+05:09   0  0    0   0   0   0   0   2   0/0
+Luke Kunin C
+12:39   0  0    0   2   2   5   0   0   0/2
+Nico Sturm C
+11:08   0  0    0   2   0   0   0   0   6/9
+Tyler Toffoli C
+22:05   0  0   -3   5   0   2   2   0   0/1
+Alexander Wennberg C
+21:23   0  2    0   2   0   0   0   0 10/18
+Fabian Zetterlund L
+16:22   0  0    0   2   1   0   2   2   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  19:02   0  0   -1   1   0   0   1   2   0/0Mario Ferraro D  17:05   0  0    0   0   2   0   1   0   0/0Jan Rutta D  17:39   0  0    0   0   0   0   0   1   0/0Jack Thompson D  20:34   0  2   -2   1   3   0   0   2   0/0Henry Thrun D  14:32   0  0   -2   0   3   0   0   0   0/0Jake Walman D  19:42   0  0   -1   3   0   2   1   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cody Ceci D
+19:02   0  0   -1   1   0   0   1   2   0/0
+Mario Ferraro D
+17:05   0  0    0   0   2   0   1   0   0/0
+Jan Rutta D
+17:39   0  0    0   0   0   0   0   1   0/0
+Jack Thompson D
+20:34   0  2   -2   1   3   0   0   2   0/0
+Henry Thrun D
+14:32   0  0   -2   0   3   0   0   0   0/0
+Jake Walman D
+19:42   0  0   -1   3   0   2   1   0   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  14  11   9  13 31/58
+                                        53.4%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  57:44   3  27/30  22/25   1/1   4/4     0
+              .900   .880 1.000 1.000
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Mackenzie Blackwood G
+57:44   3  27/30  22/25   1/1   4/4     0
+              .900   .880 1.000 1.000
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:02   0  0    0   4   0   0   0   0   1/3Phillip Danault C  16:19   0  1    1   1   3   0   1   0  7/13Kevin Fiala L  15:04   0  0    1   2   1   2   0   1   0/0Warren Foegele L  15:16   2  0    2   4   1   0   0   1   0/0Tanner Jeannot L  09:03   0  0    0   2   0   2   0   0   0/1Adrian Kempe R  18:23   0  0    0   2   2   2   0   2   0/0Anze Kopitar C  19:12   0  0    0   1   2   0   0   4 13/24Alex Laferriere R  14:50   0  2    2   2   3   0   1   0   0/0Andre Lee L  08:20   0  0    0   0   2   5   1   2   0/0Trevor Lewis C  08:54   0  0    0   1   1   4   0   1   2/6Trevor Moore L  15:43   0  1    1   1   0   0   1   0   0/2Alex Turcotte C  13:24   0  0    2   2   1   0   2   1   4/9
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Quinton Byfield R
+17:02   0  0    0   4   0   0   0   0   1/3
+Phillip Danault C
+16:19   0  1    1   1   3   0   1   0  7/13
+Kevin Fiala L
+15:04   0  0    1   2   1   2   0   1   0/0
+Warren Foegele L
+15:16   2  0    2   4   1   0   0   1   0/0
+Tanner Jeannot L
+09:03   0  0    0   2   0   2   0   0   0/1
+Adrian Kempe R
+18:23   0  0    0   2   2   2   0   2   0/0
+Anze Kopitar C
+19:12   0  0    0   1   2   0   0   4 13/24
+Alex Laferriere R
+14:50   0  2    2   2   3   0   1   0   0/0
+Andre Lee L
+08:20   0  0    0   0   2   5   1   2   0/0
+Trevor Lewis C
+08:54   0  0    0   1   1   4   0   1   2/6
+Trevor Moore L
+15:43   0  1    1   1   0   0   1   0   0/2
+Alex Turcotte C
+13:24   0  0    2   2   1   0   2   1   4/9
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:44   0  0    2   2   0   0   1   2   0/0Kyle Burroughs D  13:13   0  0    0   1   2   2   0   2   0/0Brandt Clarke D  15:13   0  1    1   2   0   0   0   0   0/0Joel Edmundson D  24:04   0  0    0   1   2   0   0   2   0/0Vladislav Gavrikov D  25:21   0  0    1   0   2   0   1   1   0/0Jordan Spence D  17:22   1  0    2   2   3   2   0   2   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikey Anderson D
+21:44   0  0    2   2   0   0   1   2   0/0
+Kyle Burroughs D
+13:13   0  0    0   1   2   2   0   2   0/0
+Brandt Clarke D
+15:13   0  1    1   2   0   0   0   0   0/0
+Joel Edmundson D
+24:04   0  0    0   1   2   0   0   2   0/0
+Vladislav Gavrikov D
+25:21   0  0    1   0   2   0   1   1   0/0
+Jordan Spence D
+17:22   1  0    2   2   3   2   0   2   0/0
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       30  25  19   8  21 27/58
+                                        46.6%
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  60:00   2  24/26  20/20   4/6   0/0     0
+              .923  1.000  .667
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+David Rittich G
+60:00   2  24/26  20/20   4/6   0/0     0
+              .923  1.000  .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

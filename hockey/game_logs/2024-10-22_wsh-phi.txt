@@ -1,0 +1,442 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Washington
+Capitals4-1-0Final4 - 1Philadelphia
+Flyers1-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+WSH   2  0  2    4  
+PHI   0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:44 
+Alex Ovechkin (WSH) interference against Garnet Hathaway (2 minutes)
+   0-0
+P1  16:11 
+Nic Dowd (WSH) scores short-handed goal on backhand shot past Samuel Ersson, assisted by Martin Fehervary
+   1-0
+P1  15:31 
+Nicolas Deslauriers (PHI) fighting against Dylan McIlrath (5 minutes)
+   1-0
+P1  15:31 
+Dylan McIlrath (WSH) fighting against Nicolas Deslauriers (5 minutes)
+   1-0
+P1  15:16 
+Travis Konecny (PHI) slashing against Dylan Strome (2 minutes)
+   1-0
+P1  10:13 
+Nick Seeler (PHI) high-sticking against Dylan Strome (2 minutes)
+   1-0
+P1  06:41 
+Pierre-Luc Dubois (WSH) slashing against Bobby Brink (2 minutes)
+   1-0
+P1  04:53 
+Andrew Mangiapane (WSH) scores short-handed goal on wrist shot past Samuel Ersson, assisted by Connor McMichael
+   2-0
+2nd Period: ShowHide
+P2  11:20 
+Ryan Poehling (PHI) holding against Dylan McIlrath (2 minutes)
+   2-0
+P2  05:28 
+Travis Konecny (PHI) holding against Taylor Raddysh (2 minutes)
+   2-0
+P2  00:00 
+Jakob Chychrun (WSH) roughing against Travis Konecny (2 minutes)
+   2-0
+P2  00:00 
+Travis Konecny (PHI) roughing against Jakob Chychrun (2 minutes)
+   2-0
+3rd Period: ShowHide
+P3  19:26 
+Travis Sanheim (PHI) scores on wrist shot past Charlie Lindgren, assisted by Cam York and Matvei Michkov
+   2-1
+P3  18:22 
+John Carlson (WSH) scores on wrist shot past Samuel Ersson, assisted by Connor McMichael and Dylan Strome
+   3-1
+P3  15:55 
+Bobby Brink (PHI) high-sticking against Pierre-Luc Dubois (2 minutes)
+   3-1
+P3  12:04 
+Jakob Chychrun (WSH) interference against Sean Couturier (2 minutes)
+   3-1
+P3  05:53 
+Jakob Chychrun (WSH) scores on wrist shot past Samuel Ersson, assisted by Brandon Duhaime and Jakub Vrana
+   4-1
+Box Score:
+ 
+Back to Top
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:48   1  0    2   2   1   0   1   0  6/13Pierre-Luc Dubois L  18:56   0  0   -1   3   0   2   0   1  8/10Brandon Duhaime R  13:56   0  1    2   2   2   0   1   0   0/0Hendrix Lapierre C  12:21   0  0    0   1   1   0   0   0   2/9Andrew Mangiapane L  13:03   1  0    1   3   1   0   0   0   0/0Connor McMichael C  14:33   0  2    2   0   0   0   3   2   3/3Alex Ovechkin L  19:57   0  0    0   3   0   2   0   0   0/0Aliaksei Protas C  13:09   0  0    0   2   0   0   0   2   0/1Taylor Raddysh R  12:20   0  0    0   0   2   0   0   0   0/0Dylan Strome C  16:47   0  1    1   2   1   0   1   1  8/15Jakub Vrana L  10:57   0  1    1   0   0   0   0   0   0/0Tom Wilson R  19:24   0  0   -1   2   1   0   2   0   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  25:52   1  0    3   5   2   0   1   1   0/0Jakob Chychrun D  19:28   1  0    1   4   0   4   0   2   0/0Martin Fehervary D  18:32   0  1    3   0   1   0   0   0   0/0Dylan McIlrath D  10:08   0  0    0   0   0   5   1   2   0/0Rasmus Sandin D  16:09   0  0   -1   0   1   0   1   1   0/0Trevor van Riemsdyk D  20:40   0  0    0   0   4   0   0   1   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       29  17  13  11  13 27/51
+                                        52.9%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  60:00   1  17/18  14/15   1/1   2/2     0
+              .944   .933 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  08:57   0  0   -2   2   0   2   0   1   0/0Noah Cates L  11:31   0  0    0   0   0   0   1   0   2/4Sean Couturier C  17:43   0  0   -2   0   2   0   2   0  8/16Nicolas Deslauriers L  06:01   0  0    0   1   0   5   0   0   0/0Joel Farabee L  12:36   0  0   -2   0   0   0   1   1   0/0Morgan Frost C  13:54   0  0   -1   1   2   0   0   1  6/15Garnet Hathaway R  12:19   0  0    0   0   1   0   0   0   0/1Travis Konecny R  18:35   0  0    0   2   0   6   0   1   0/0Scott Laughton C  17:33   0  0   -4   3   1   0   0   1   2/3Matvei Michkov R  19:56   0  1    0   0   0   0   1   2   0/1Ryan Poehling C  16:07   0  0    1   0   2   2   0   0  6/11Owen Tippett R  18:19   0  0   -1   2   0   0   0   1   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  17:55   0  0   -2   1   1   0   0   0   0/0Rasmus Ristolainen D  18:36   0  0    0   0   0   0   0   1   0/0Travis Sanheim D  21:07   1  0    1   2   1   0   1   1   0/0Nick Seeler D  15:30   0  0   -1   2   1   2   0   2   0/0Cam York D  21:29   0  1    1   1   2   0   2   1   0/0Egor Zamula D  19:52   0  0   -3   1   1   0   0   1   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       18  14  17   8  14 24/51
+                                        47.1%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  60:00   4  25/29  18/20   4/4   3/5     0
+              .862   .900 1.000  .600
+Washington
+Capitals4-1-0Final4 - 1Philadelphia
+Flyers1-4-1
+Washington
+Capitals4-1-0
+Final4 - 1
+Philadelphia
+Flyers1-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+WSH   2  0  2    4  
+PHI   0  0  1    1
+1st Period: ShowHide
+P1  17:44 
+Alex Ovechkin (WSH) interference against Garnet Hathaway (2 minutes)
+   0-0
+P1  16:11 
+Nic Dowd (WSH) scores short-handed goal on backhand shot past Samuel Ersson, assisted by Martin Fehervary
+   1-0
+P1  15:31 
+Nicolas Deslauriers (PHI) fighting against Dylan McIlrath (5 minutes)
+   1-0
+P1  15:31 
+Dylan McIlrath (WSH) fighting against Nicolas Deslauriers (5 minutes)
+   1-0
+P1  15:16 
+Travis Konecny (PHI) slashing against Dylan Strome (2 minutes)
+   1-0
+P1  10:13 
+Nick Seeler (PHI) high-sticking against Dylan Strome (2 minutes)
+   1-0
+P1  06:41 
+Pierre-Luc Dubois (WSH) slashing against Bobby Brink (2 minutes)
+   1-0
+P1  04:53 
+Andrew Mangiapane (WSH) scores short-handed goal on wrist shot past Samuel Ersson, assisted by Connor McMichael
+   2-0
+2nd Period: ShowHide
+P2  11:20 
+Ryan Poehling (PHI) holding against Dylan McIlrath (2 minutes)
+   2-0
+P2  05:28 
+Travis Konecny (PHI) holding against Taylor Raddysh (2 minutes)
+   2-0
+P2  00:00 
+Jakob Chychrun (WSH) roughing against Travis Konecny (2 minutes)
+   2-0
+P2  00:00 
+Travis Konecny (PHI) roughing against Jakob Chychrun (2 minutes)
+   2-0
+3rd Period: ShowHide
+P3  19:26 
+Travis Sanheim (PHI) scores on wrist shot past Charlie Lindgren, assisted by Cam York and Matvei Michkov
+   2-1
+P3  18:22 
+John Carlson (WSH) scores on wrist shot past Samuel Ersson, assisted by Connor McMichael and Dylan Strome
+   3-1
+P3  15:55 
+Bobby Brink (PHI) high-sticking against Pierre-Luc Dubois (2 minutes)
+   3-1
+P3  12:04 
+Jakob Chychrun (WSH) interference against Sean Couturier (2 minutes)
+   3-1
+P3  05:53 
+Jakob Chychrun (WSH) scores on wrist shot past Samuel Ersson, assisted by Brandon Duhaime and Jakub Vrana
+   4-1
+1st Period: ShowHide
+P1  17:44 
+Alex Ovechkin (WSH) interference against Garnet Hathaway (2 minutes)
+   0-0
+P1  16:11 
+Nic Dowd (WSH) scores short-handed goal on backhand shot past Samuel Ersson, assisted by Martin Fehervary
+   1-0
+P1  15:31 
+Nicolas Deslauriers (PHI) fighting against Dylan McIlrath (5 minutes)
+   1-0
+P1  15:31 
+Dylan McIlrath (WSH) fighting against Nicolas Deslauriers (5 minutes)
+   1-0
+P1  15:16 
+Travis Konecny (PHI) slashing against Dylan Strome (2 minutes)
+   1-0
+P1  10:13 
+Nick Seeler (PHI) high-sticking against Dylan Strome (2 minutes)
+   1-0
+P1  06:41 
+Pierre-Luc Dubois (WSH) slashing against Bobby Brink (2 minutes)
+   1-0
+P1  04:53 
+Andrew Mangiapane (WSH) scores short-handed goal on wrist shot past Samuel Ersson, assisted by Connor McMichael
+   2-0
+P1  17:44 
+Alex Ovechkin (WSH) interference against Garnet Hathaway (2 minutes)
+   0-0
+P1  16:11 
+Nic Dowd (WSH) scores short-handed goal on backhand shot past Samuel Ersson, assisted by Martin Fehervary
+   1-0
+P1  15:31 
+Nicolas Deslauriers (PHI) fighting against Dylan McIlrath (5 minutes)
+   1-0
+P1  15:31 
+Dylan McIlrath (WSH) fighting against Nicolas Deslauriers (5 minutes)
+   1-0
+P1  15:16 
+Travis Konecny (PHI) slashing against Dylan Strome (2 minutes)
+   1-0
+P1  10:13 
+Nick Seeler (PHI) high-sticking against Dylan Strome (2 minutes)
+   1-0
+P1  06:41 
+Pierre-Luc Dubois (WSH) slashing against Bobby Brink (2 minutes)
+   1-0
+P1  04:53 
+Andrew Mangiapane (WSH) scores short-handed goal on wrist shot past Samuel Ersson, assisted by Connor McMichael
+   2-0
+P1  17:44
+Alex Ovechkin (WSH) interference against Garnet Hathaway (2 minutes)
+0-0
+P1  16:11
+Nic Dowd (WSH) scores short-handed goal on backhand shot past Samuel Ersson, assisted by Martin Fehervary
+1-0
+P1  15:31
+Nicolas Deslauriers (PHI) fighting against Dylan McIlrath (5 minutes)
+1-0
+P1  15:31
+Dylan McIlrath (WSH) fighting against Nicolas Deslauriers (5 minutes)
+1-0
+P1  15:16
+Travis Konecny (PHI) slashing against Dylan Strome (2 minutes)
+1-0
+P1  10:13
+Nick Seeler (PHI) high-sticking against Dylan Strome (2 minutes)
+1-0
+P1  06:41
+Pierre-Luc Dubois (WSH) slashing against Bobby Brink (2 minutes)
+1-0
+P1  04:53
+Andrew Mangiapane (WSH) scores short-handed goal on wrist shot past Samuel Ersson, assisted by Connor McMichael
+2-0
+2nd Period: ShowHide
+P2  11:20 
+Ryan Poehling (PHI) holding against Dylan McIlrath (2 minutes)
+   2-0
+P2  05:28 
+Travis Konecny (PHI) holding against Taylor Raddysh (2 minutes)
+   2-0
+P2  00:00 
+Jakob Chychrun (WSH) roughing against Travis Konecny (2 minutes)
+   2-0
+P2  00:00 
+Travis Konecny (PHI) roughing against Jakob Chychrun (2 minutes)
+   2-0
+P2  11:20 
+Ryan Poehling (PHI) holding against Dylan McIlrath (2 minutes)
+   2-0
+P2  05:28 
+Travis Konecny (PHI) holding against Taylor Raddysh (2 minutes)
+   2-0
+P2  00:00 
+Jakob Chychrun (WSH) roughing against Travis Konecny (2 minutes)
+   2-0
+P2  00:00 
+Travis Konecny (PHI) roughing against Jakob Chychrun (2 minutes)
+   2-0
+P2  11:20
+Ryan Poehling (PHI) holding against Dylan McIlrath (2 minutes)
+2-0
+P2  05:28
+Travis Konecny (PHI) holding against Taylor Raddysh (2 minutes)
+2-0
+P2  00:00
+Jakob Chychrun (WSH) roughing against Travis Konecny (2 minutes)
+2-0
+P2  00:00
+Travis Konecny (PHI) roughing against Jakob Chychrun (2 minutes)
+2-0
+3rd Period: ShowHide
+P3  19:26 
+Travis Sanheim (PHI) scores on wrist shot past Charlie Lindgren, assisted by Cam York and Matvei Michkov
+   2-1
+P3  18:22 
+John Carlson (WSH) scores on wrist shot past Samuel Ersson, assisted by Connor McMichael and Dylan Strome
+   3-1
+P3  15:55 
+Bobby Brink (PHI) high-sticking against Pierre-Luc Dubois (2 minutes)
+   3-1
+P3  12:04 
+Jakob Chychrun (WSH) interference against Sean Couturier (2 minutes)
+   3-1
+P3  05:53 
+Jakob Chychrun (WSH) scores on wrist shot past Samuel Ersson, assisted by Brandon Duhaime and Jakub Vrana
+   4-1
+P3  19:26 
+Travis Sanheim (PHI) scores on wrist shot past Charlie Lindgren, assisted by Cam York and Matvei Michkov
+   2-1
+P3  18:22 
+John Carlson (WSH) scores on wrist shot past Samuel Ersson, assisted by Connor McMichael and Dylan Strome
+   3-1
+P3  15:55 
+Bobby Brink (PHI) high-sticking against Pierre-Luc Dubois (2 minutes)
+   3-1
+P3  12:04 
+Jakob Chychrun (WSH) interference against Sean Couturier (2 minutes)
+   3-1
+P3  05:53 
+Jakob Chychrun (WSH) scores on wrist shot past Samuel Ersson, assisted by Brandon Duhaime and Jakub Vrana
+   4-1
+P3  19:26
+Travis Sanheim (PHI) scores on wrist shot past Charlie Lindgren, assisted by Cam York and Matvei Michkov
+2-1
+P3  18:22
+John Carlson (WSH) scores on wrist shot past Samuel Ersson, assisted by Connor McMichael and Dylan Strome
+3-1
+P3  15:55
+Bobby Brink (PHI) high-sticking against Pierre-Luc Dubois (2 minutes)
+3-1
+P3  12:04
+Jakob Chychrun (WSH) interference against Sean Couturier (2 minutes)
+3-1
+P3  05:53
+Jakob Chychrun (WSH) scores on wrist shot past Samuel Ersson, assisted by Brandon Duhaime and Jakub Vrana
+4-1
+Box Score:
+ 
+Back to Top
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:48   1  0    2   2   1   0   1   0  6/13Pierre-Luc Dubois L  18:56   0  0   -1   3   0   2   0   1  8/10Brandon Duhaime R  13:56   0  1    2   2   2   0   1   0   0/0Hendrix Lapierre C  12:21   0  0    0   1   1   0   0   0   2/9Andrew Mangiapane L  13:03   1  0    1   3   1   0   0   0   0/0Connor McMichael C  14:33   0  2    2   0   0   0   3   2   3/3Alex Ovechkin L  19:57   0  0    0   3   0   2   0   0   0/0Aliaksei Protas C  13:09   0  0    0   2   0   0   0   2   0/1Taylor Raddysh R  12:20   0  0    0   0   2   0   0   0   0/0Dylan Strome C  16:47   0  1    1   2   1   0   1   1  8/15Jakub Vrana L  10:57   0  1    1   0   0   0   0   0   0/0Tom Wilson R  19:24   0  0   -1   2   1   0   2   0   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  25:52   1  0    3   5   2   0   1   1   0/0Jakob Chychrun D  19:28   1  0    1   4   0   4   0   2   0/0Martin Fehervary D  18:32   0  1    3   0   1   0   0   0   0/0Dylan McIlrath D  10:08   0  0    0   0   0   5   1   2   0/0Rasmus Sandin D  16:09   0  0   -1   0   1   0   1   1   0/0Trevor van Riemsdyk D  20:40   0  0    0   0   4   0   0   1   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       29  17  13  11  13 27/51
+                                        52.9%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  60:00   1  17/18  14/15   1/1   2/2     0
+              .944   .933 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  08:57   0  0   -2   2   0   2   0   1   0/0Noah Cates L  11:31   0  0    0   0   0   0   1   0   2/4Sean Couturier C  17:43   0  0   -2   0   2   0   2   0  8/16Nicolas Deslauriers L  06:01   0  0    0   1   0   5   0   0   0/0Joel Farabee L  12:36   0  0   -2   0   0   0   1   1   0/0Morgan Frost C  13:54   0  0   -1   1   2   0   0   1  6/15Garnet Hathaway R  12:19   0  0    0   0   1   0   0   0   0/1Travis Konecny R  18:35   0  0    0   2   0   6   0   1   0/0Scott Laughton C  17:33   0  0   -4   3   1   0   0   1   2/3Matvei Michkov R  19:56   0  1    0   0   0   0   1   2   0/1Ryan Poehling C  16:07   0  0    1   0   2   2   0   0  6/11Owen Tippett R  18:19   0  0   -1   2   0   0   0   1   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  17:55   0  0   -2   1   1   0   0   0   0/0Rasmus Ristolainen D  18:36   0  0    0   0   0   0   0   1   0/0Travis Sanheim D  21:07   1  0    1   2   1   0   1   1   0/0Nick Seeler D  15:30   0  0   -1   2   1   2   0   2   0/0Cam York D  21:29   0  1    1   1   2   0   2   1   0/0Egor Zamula D  19:52   0  0   -3   1   1   0   0   1   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       18  14  17   8  14 24/51
+                                        47.1%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  60:00   4  25/29  18/20   4/4   3/5     0
+              .862   .900 1.000  .600
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:48   1  0    2   2   1   0   1   0  6/13Pierre-Luc Dubois L  18:56   0  0   -1   3   0   2   0   1  8/10Brandon Duhaime R  13:56   0  1    2   2   2   0   1   0   0/0Hendrix Lapierre C  12:21   0  0    0   1   1   0   0   0   2/9Andrew Mangiapane L  13:03   1  0    1   3   1   0   0   0   0/0Connor McMichael C  14:33   0  2    2   0   0   0   3   2   3/3Alex Ovechkin L  19:57   0  0    0   3   0   2   0   0   0/0Aliaksei Protas C  13:09   0  0    0   2   0   0   0   2   0/1Taylor Raddysh R  12:20   0  0    0   0   2   0   0   0   0/0Dylan Strome C  16:47   0  1    1   2   1   0   1   1  8/15Jakub Vrana L  10:57   0  1    1   0   0   0   0   0   0/0Tom Wilson R  19:24   0  0   -1   2   1   0   2   0   0/0
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nic Dowd C
+15:48   1  0    2   2   1   0   1   0  6/13
+Pierre-Luc Dubois L
+18:56   0  0   -1   3   0   2   0   1  8/10
+Brandon Duhaime R
+13:56   0  1    2   2   2   0   1   0   0/0
+Hendrix Lapierre C
+12:21   0  0    0   1   1   0   0   0   2/9
+Andrew Mangiapane L
+13:03   1  0    1   3   1   0   0   0   0/0
+Connor McMichael C
+14:33   0  2    2   0   0   0   3   2   3/3
+Alex Ovechkin L
+19:57   0  0    0   3   0   2   0   0   0/0
+Aliaksei Protas C
+13:09   0  0    0   2   0   0   0   2   0/1
+Taylor Raddysh R
+12:20   0  0    0   0   2   0   0   0   0/0
+Dylan Strome C
+16:47   0  1    1   2   1   0   1   1  8/15
+Jakub Vrana L
+10:57   0  1    1   0   0   0   0   0   0/0
+Tom Wilson R
+19:24   0  0   -1   2   1   0   2   0   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  25:52   1  0    3   5   2   0   1   1   0/0Jakob Chychrun D  19:28   1  0    1   4   0   4   0   2   0/0Martin Fehervary D  18:32   0  1    3   0   1   0   0   0   0/0Dylan McIlrath D  10:08   0  0    0   0   0   5   1   2   0/0Rasmus Sandin D  16:09   0  0   -1   0   1   0   1   1   0/0Trevor van Riemsdyk D  20:40   0  0    0   0   4   0   0   1   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Carlson D
+25:52   1  0    3   5   2   0   1   1   0/0
+Jakob Chychrun D
+19:28   1  0    1   4   0   4   0   2   0/0
+Martin Fehervary D
+18:32   0  1    3   0   1   0   0   0   0/0
+Dylan McIlrath D
+10:08   0  0    0   0   0   5   1   2   0/0
+Rasmus Sandin D
+16:09   0  0   -1   0   1   0   1   1   0/0
+Trevor van Riemsdyk D
+20:40   0  0    0   0   4   0   0   1   0/0
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       29  17  13  11  13 27/51
+                                        52.9%
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  60:00   1  17/18  14/15   1/1   2/2     0
+              .944   .933 1.000 1.000
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Charlie Lindgren G
+60:00   1  17/18  14/15   1/1   2/2     0
+              .944   .933 1.000 1.000
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  08:57   0  0   -2   2   0   2   0   1   0/0Noah Cates L  11:31   0  0    0   0   0   0   1   0   2/4Sean Couturier C  17:43   0  0   -2   0   2   0   2   0  8/16Nicolas Deslauriers L  06:01   0  0    0   1   0   5   0   0   0/0Joel Farabee L  12:36   0  0   -2   0   0   0   1   1   0/0Morgan Frost C  13:54   0  0   -1   1   2   0   0   1  6/15Garnet Hathaway R  12:19   0  0    0   0   1   0   0   0   0/1Travis Konecny R  18:35   0  0    0   2   0   6   0   1   0/0Scott Laughton C  17:33   0  0   -4   3   1   0   0   1   2/3Matvei Michkov R  19:56   0  1    0   0   0   0   1   2   0/1Ryan Poehling C  16:07   0  0    1   0   2   2   0   0  6/11Owen Tippett R  18:19   0  0   -1   2   0   0   0   1   0/0
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bobby Brink R
+08:57   0  0   -2   2   0   2   0   1   0/0
+Noah Cates L
+11:31   0  0    0   0   0   0   1   0   2/4
+Sean Couturier C
+17:43   0  0   -2   0   2   0   2   0  8/16
+Nicolas Deslauriers L
+06:01   0  0    0   1   0   5   0   0   0/0
+Joel Farabee L
+12:36   0  0   -2   0   0   0   1   1   0/0
+Morgan Frost C
+13:54   0  0   -1   1   2   0   0   1  6/15
+Garnet Hathaway R
+12:19   0  0    0   0   1   0   0   0   0/1
+Travis Konecny R
+18:35   0  0    0   2   0   6   0   1   0/0
+Scott Laughton C
+17:33   0  0   -4   3   1   0   0   1   2/3
+Matvei Michkov R
+19:56   0  1    0   0   0   0   1   2   0/1
+Ryan Poehling C
+16:07   0  0    1   0   2   2   0   0  6/11
+Owen Tippett R
+18:19   0  0   -1   2   0   0   0   1   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  17:55   0  0   -2   1   1   0   0   0   0/0Rasmus Ristolainen D  18:36   0  0    0   0   0   0   0   1   0/0Travis Sanheim D  21:07   1  0    1   2   1   0   1   1   0/0Nick Seeler D  15:30   0  0   -1   2   1   2   0   2   0/0Cam York D  21:29   0  1    1   1   2   0   2   1   0/0Egor Zamula D  19:52   0  0   -3   1   1   0   0   1   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Drysdale D
+17:55   0  0   -2   1   1   0   0   0   0/0
+Rasmus Ristolainen D
+18:36   0  0    0   0   0   0   0   1   0/0
+Travis Sanheim D
+21:07   1  0    1   2   1   0   1   1   0/0
+Nick Seeler D
+15:30   0  0   -1   2   1   2   0   2   0/0
+Cam York D
+21:29   0  1    1   1   2   0   2   1   0/0
+Egor Zamula D
+19:52   0  0   -3   1   1   0   0   1   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       18  14  17   8  14 24/51
+                                        47.1%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  60:00   4  25/29  18/20   4/4   3/5     0
+              .862   .900 1.000  .600
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Samuel Ersson G
+60:00   4  25/29  18/20   4/4   3/5     0
+              .862   .900 1.000  .600
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

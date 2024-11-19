@@ -1,0 +1,532 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Rangers5-0-1Final7 - 2Montreal
+Canadiens2-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NYR   4  1  2    7  
+MTL   1  1  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:06 
+Mika Zibanejad (NYR) scores on snap shot past Sam Montembeault, assisted by Adam Fox and Artemi Panarin
+   1-0
+P1  17:55 
+Jonny Brodzinski (NYR) scores on wrist shot past Sam Montembeault, assisted by Adam Edstrom and Braden Schneider
+   2-0
+P1  13:20 
+Reilly Smith (NYR) scores on snap shot past Sam Montembeault
+   3-0
+P1  10:32 
+Josh Anderson (MTL) cross-checking against Vincent Trocheck (2 minutes)
+   3-0
+P1  08:55 
+Filip Chytil (NYR) scores power-play goal on tip-in past Sam Montembeault, assisted by Reilly Smith and Kaapo Kakko
+   4-0
+P1  07:08 
+Nick Suzuki (MTL) scores on tip-in past Igor Shesterkin, assisted by Josh Anderson and David Savard
+   4-1
+P1  05:51 
+Jake Evans (MTL) roughing against Kaapo Kakko (2 minutes)
+   4-1
+P1  05:51 
+Kaapo Kakko (NYR) roughing against Jake Evans (2 minutes)
+   4-1
+2nd Period: ShowHide
+P2  14:58 
+Adam Fox (NYR) hooking against Brendan Gallagher (2 minutes)
+   4-1
+P2  14:25 
+Nick Suzuki (MTL) scores power-play goal on backhand shot past Igor Shesterkin, assisted by Mike Matheson and Kirby Dach
+   4-2
+P2  11:03 
+Braden Schneider (NYR) scores on wrist shot past Cayden Primeau, assisted by Filip Chytil and Kaapo Kakko
+   5-2
+P2  03:00 
+Mike Matheson (MTL) roughing against Alexis Lafrenière (2 minutes)
+   5-2
+3rd Period: ShowHide
+P3  16:07 
+K'Andre Miller (NYR) hooking against Jake Evans (2 minutes)
+   5-2
+P3  14:05 
+Brendan Gallagher (MTL) roughing against Jacob Trouba (2 minutes)
+   5-2
+P3  14:05 
+Chris Kreider (NYR) roughing against Brendan Gallagher (2 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator against Jacob Trouba (2 minutes), served by Michael Pezzetta
+   5-2
+P3  12:49 
+Jacob Trouba (NYR) fighting against Mike Matheson (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) fighting against Jacob Trouba (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator misconduct (10 minutes)
+   5-2
+P3  06:39 
+Will Cuylle (NYR) slashing against Cole Caufield (2 minutes)
+   5-2
+P3  04:19 
+Filip Chytil (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Sam Carrick
+   6-2
+P3  03:41 
+Kaapo Kakko (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Victor Mancini
+   7-2
+Box Score:
+ 
+Back to Top
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  09:37   1  0    1   1   1   0   1   0   1/1Sam Carrick C  11:28   0  1    2   2   0   0   0   1  9/14Filip Chytil C  15:03   2  1    3   4   1   0   1   1  2/10Will Cuylle L  11:33   0  2    3   3   0   2   0   2   0/0Adam Edstrom C  09:49   0  1    1   1   1   0   0   0   0/0Kaapo Kakko R  13:53   1  2    2   3   1   2   0   0   0/1Chris Kreider L  15:57   0  0    1   1   0   2   0   0   0/0Alexis Lafrenière L  17:53   0  0    0   4   0   0   1   1   0/0Artemi Panarin L  19:15   0  1    0   5   0   0   0   0   0/0Reilly Smith R  13:29   1  1    1   3   2   0   1   0   0/0Vincent Trocheck C  20:37   0  0   -1   2   4   0   0   2  9/14Mika Zibanejad C  18:11   1  0    2   5   1   0   0   1  3/11Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  24:06   0  1    1   2   0   2   1   1   0/0Ryan Lindgren D  17:20   0  0    0   0   0   0   0   0   0/0Victor Mancini D  16:39   0  1    0   1   0   0   0   1   0/0K'Andre Miller D  20:48   0  0    0   1   1   2   1   2   0/0Braden Schneider D  17:31   1  1    4   3   0   0   0   2   0/0Jacob Trouba D  18:18   0  0    5   4   3   5   0   1   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          7 12       45  15  15   6  15 24/51
+                                        47.1%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   2  21/23  21/22   0/1   0/0     0
+              .913   .955  .000 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  16:22   0  1    0   1   0   2   0   1   0/1Joel Armia R  12:10   0  0   -1   1   0   0   0   0   0/0Cole Caufield R  16:17   0  0   -1   1   1   0   0   0   0/0Kirby Dach C  18:32   0  1   -2   4   1   0   1   1   1/1Christian Dvorak C  11:32   0  0   -3   0   2   0   0   1   3/9Jake Evans C  16:26   0  0   -1   2   2   2   0   0  8/14Brendan Gallagher R  15:53   0  0    0   2   0   2   1   4   0/0Emil Heineman L  09:48   0  0   -3   1   0   0   0   1   0/0Oliver Kapanen C  13:04   0  0   -1   1   2   0   0   0   3/3Alex Newhook C  16:58   0  0    0   0   1   0   0   1   5/9Michael Pezzetta L  07:58   0  0   -3   0   1   0   1   1   0/2Nick Suzuki C  19:00   2  0    0   2   0   0   1   1  7/12Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  15:01   0  0    0   0   0   0   0   1   0/0Lane Hutson D  24:10   0  0   -4   1   1   0   0   2   0/0Logan Mailloux D  19:29   0  0   -3   4   2   0   0   2   0/0Mike Matheson D  16:47   0  1    0   1   1  19   0   1   0/0David Savard D  20:39   0  1   -1   1   3   0   0   1   0/0Jayden Struble D  20:17   0  0   -2   1   0   0   0   5   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       23  17  25   4  23 27/51
+                                        52.9%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  11:05   4   6/10    5/8   1/2   0/0     0
+              .600   .625  .500 Cayden Primeau G  48:55   3  32/35  25/28   4/4   3/3     0
+              .914   .893 1.000 1.000 Canadiens Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          7  38/45  30/36   5/6   3/3     0
+              .844   .833  .833 1.000
+New York
+Rangers5-0-1Final7 - 2Montreal
+Canadiens2-4-1
+New York
+Rangers5-0-1
+Final7 - 2
+Montreal
+Canadiens2-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NYR   4  1  2    7  
+MTL   1  1  0    2
+1st Period: ShowHide
+P1  19:06 
+Mika Zibanejad (NYR) scores on snap shot past Sam Montembeault, assisted by Adam Fox and Artemi Panarin
+   1-0
+P1  17:55 
+Jonny Brodzinski (NYR) scores on wrist shot past Sam Montembeault, assisted by Adam Edstrom and Braden Schneider
+   2-0
+P1  13:20 
+Reilly Smith (NYR) scores on snap shot past Sam Montembeault
+   3-0
+P1  10:32 
+Josh Anderson (MTL) cross-checking against Vincent Trocheck (2 minutes)
+   3-0
+P1  08:55 
+Filip Chytil (NYR) scores power-play goal on tip-in past Sam Montembeault, assisted by Reilly Smith and Kaapo Kakko
+   4-0
+P1  07:08 
+Nick Suzuki (MTL) scores on tip-in past Igor Shesterkin, assisted by Josh Anderson and David Savard
+   4-1
+P1  05:51 
+Jake Evans (MTL) roughing against Kaapo Kakko (2 minutes)
+   4-1
+P1  05:51 
+Kaapo Kakko (NYR) roughing against Jake Evans (2 minutes)
+   4-1
+2nd Period: ShowHide
+P2  14:58 
+Adam Fox (NYR) hooking against Brendan Gallagher (2 minutes)
+   4-1
+P2  14:25 
+Nick Suzuki (MTL) scores power-play goal on backhand shot past Igor Shesterkin, assisted by Mike Matheson and Kirby Dach
+   4-2
+P2  11:03 
+Braden Schneider (NYR) scores on wrist shot past Cayden Primeau, assisted by Filip Chytil and Kaapo Kakko
+   5-2
+P2  03:00 
+Mike Matheson (MTL) roughing against Alexis Lafrenière (2 minutes)
+   5-2
+3rd Period: ShowHide
+P3  16:07 
+K'Andre Miller (NYR) hooking against Jake Evans (2 minutes)
+   5-2
+P3  14:05 
+Brendan Gallagher (MTL) roughing against Jacob Trouba (2 minutes)
+   5-2
+P3  14:05 
+Chris Kreider (NYR) roughing against Brendan Gallagher (2 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator against Jacob Trouba (2 minutes), served by Michael Pezzetta
+   5-2
+P3  12:49 
+Jacob Trouba (NYR) fighting against Mike Matheson (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) fighting against Jacob Trouba (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator misconduct (10 minutes)
+   5-2
+P3  06:39 
+Will Cuylle (NYR) slashing against Cole Caufield (2 minutes)
+   5-2
+P3  04:19 
+Filip Chytil (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Sam Carrick
+   6-2
+P3  03:41 
+Kaapo Kakko (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Victor Mancini
+   7-2
+1st Period: ShowHide
+P1  19:06 
+Mika Zibanejad (NYR) scores on snap shot past Sam Montembeault, assisted by Adam Fox and Artemi Panarin
+   1-0
+P1  17:55 
+Jonny Brodzinski (NYR) scores on wrist shot past Sam Montembeault, assisted by Adam Edstrom and Braden Schneider
+   2-0
+P1  13:20 
+Reilly Smith (NYR) scores on snap shot past Sam Montembeault
+   3-0
+P1  10:32 
+Josh Anderson (MTL) cross-checking against Vincent Trocheck (2 minutes)
+   3-0
+P1  08:55 
+Filip Chytil (NYR) scores power-play goal on tip-in past Sam Montembeault, assisted by Reilly Smith and Kaapo Kakko
+   4-0
+P1  07:08 
+Nick Suzuki (MTL) scores on tip-in past Igor Shesterkin, assisted by Josh Anderson and David Savard
+   4-1
+P1  05:51 
+Jake Evans (MTL) roughing against Kaapo Kakko (2 minutes)
+   4-1
+P1  05:51 
+Kaapo Kakko (NYR) roughing against Jake Evans (2 minutes)
+   4-1
+P1  19:06 
+Mika Zibanejad (NYR) scores on snap shot past Sam Montembeault, assisted by Adam Fox and Artemi Panarin
+   1-0
+P1  17:55 
+Jonny Brodzinski (NYR) scores on wrist shot past Sam Montembeault, assisted by Adam Edstrom and Braden Schneider
+   2-0
+P1  13:20 
+Reilly Smith (NYR) scores on snap shot past Sam Montembeault
+   3-0
+P1  10:32 
+Josh Anderson (MTL) cross-checking against Vincent Trocheck (2 minutes)
+   3-0
+P1  08:55 
+Filip Chytil (NYR) scores power-play goal on tip-in past Sam Montembeault, assisted by Reilly Smith and Kaapo Kakko
+   4-0
+P1  07:08 
+Nick Suzuki (MTL) scores on tip-in past Igor Shesterkin, assisted by Josh Anderson and David Savard
+   4-1
+P1  05:51 
+Jake Evans (MTL) roughing against Kaapo Kakko (2 minutes)
+   4-1
+P1  05:51 
+Kaapo Kakko (NYR) roughing against Jake Evans (2 minutes)
+   4-1
+P1  19:06
+Mika Zibanejad (NYR) scores on snap shot past Sam Montembeault, assisted by Adam Fox and Artemi Panarin
+1-0
+P1  17:55
+Jonny Brodzinski (NYR) scores on wrist shot past Sam Montembeault, assisted by Adam Edstrom and Braden Schneider
+2-0
+P1  13:20
+Reilly Smith (NYR) scores on snap shot past Sam Montembeault
+3-0
+P1  10:32
+Josh Anderson (MTL) cross-checking against Vincent Trocheck (2 minutes)
+3-0
+P1  08:55
+Filip Chytil (NYR) scores power-play goal on tip-in past Sam Montembeault, assisted by Reilly Smith and Kaapo Kakko
+4-0
+P1  07:08
+Nick Suzuki (MTL) scores on tip-in past Igor Shesterkin, assisted by Josh Anderson and David Savard
+4-1
+P1  05:51
+Jake Evans (MTL) roughing against Kaapo Kakko (2 minutes)
+4-1
+P1  05:51
+Kaapo Kakko (NYR) roughing against Jake Evans (2 minutes)
+4-1
+2nd Period: ShowHide
+P2  14:58 
+Adam Fox (NYR) hooking against Brendan Gallagher (2 minutes)
+   4-1
+P2  14:25 
+Nick Suzuki (MTL) scores power-play goal on backhand shot past Igor Shesterkin, assisted by Mike Matheson and Kirby Dach
+   4-2
+P2  11:03 
+Braden Schneider (NYR) scores on wrist shot past Cayden Primeau, assisted by Filip Chytil and Kaapo Kakko
+   5-2
+P2  03:00 
+Mike Matheson (MTL) roughing against Alexis Lafrenière (2 minutes)
+   5-2
+P2  14:58 
+Adam Fox (NYR) hooking against Brendan Gallagher (2 minutes)
+   4-1
+P2  14:25 
+Nick Suzuki (MTL) scores power-play goal on backhand shot past Igor Shesterkin, assisted by Mike Matheson and Kirby Dach
+   4-2
+P2  11:03 
+Braden Schneider (NYR) scores on wrist shot past Cayden Primeau, assisted by Filip Chytil and Kaapo Kakko
+   5-2
+P2  03:00 
+Mike Matheson (MTL) roughing against Alexis Lafrenière (2 minutes)
+   5-2
+P2  14:58
+Adam Fox (NYR) hooking against Brendan Gallagher (2 minutes)
+4-1
+P2  14:25
+Nick Suzuki (MTL) scores power-play goal on backhand shot past Igor Shesterkin, assisted by Mike Matheson and Kirby Dach
+4-2
+P2  11:03
+Braden Schneider (NYR) scores on wrist shot past Cayden Primeau, assisted by Filip Chytil and Kaapo Kakko
+5-2
+P2  03:00
+Mike Matheson (MTL) roughing against Alexis Lafrenière (2 minutes)
+5-2
+3rd Period: ShowHide
+P3  16:07 
+K'Andre Miller (NYR) hooking against Jake Evans (2 minutes)
+   5-2
+P3  14:05 
+Brendan Gallagher (MTL) roughing against Jacob Trouba (2 minutes)
+   5-2
+P3  14:05 
+Chris Kreider (NYR) roughing against Brendan Gallagher (2 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator against Jacob Trouba (2 minutes), served by Michael Pezzetta
+   5-2
+P3  12:49 
+Jacob Trouba (NYR) fighting against Mike Matheson (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) fighting against Jacob Trouba (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator misconduct (10 minutes)
+   5-2
+P3  06:39 
+Will Cuylle (NYR) slashing against Cole Caufield (2 minutes)
+   5-2
+P3  04:19 
+Filip Chytil (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Sam Carrick
+   6-2
+P3  03:41 
+Kaapo Kakko (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Victor Mancini
+   7-2
+P3  16:07 
+K'Andre Miller (NYR) hooking against Jake Evans (2 minutes)
+   5-2
+P3  14:05 
+Brendan Gallagher (MTL) roughing against Jacob Trouba (2 minutes)
+   5-2
+P3  14:05 
+Chris Kreider (NYR) roughing against Brendan Gallagher (2 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator against Jacob Trouba (2 minutes), served by Michael Pezzetta
+   5-2
+P3  12:49 
+Jacob Trouba (NYR) fighting against Mike Matheson (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) fighting against Jacob Trouba (5 minutes)
+   5-2
+P3  12:49 
+Mike Matheson (MTL) instigator misconduct (10 minutes)
+   5-2
+P3  06:39 
+Will Cuylle (NYR) slashing against Cole Caufield (2 minutes)
+   5-2
+P3  04:19 
+Filip Chytil (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Sam Carrick
+   6-2
+P3  03:41 
+Kaapo Kakko (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Victor Mancini
+   7-2
+P3  16:07
+K'Andre Miller (NYR) hooking against Jake Evans (2 minutes)
+5-2
+P3  14:05
+Brendan Gallagher (MTL) roughing against Jacob Trouba (2 minutes)
+5-2
+P3  14:05
+Chris Kreider (NYR) roughing against Brendan Gallagher (2 minutes)
+5-2
+P3  12:49
+Mike Matheson (MTL) instigator against Jacob Trouba (2 minutes), served by Michael Pezzetta
+5-2
+P3  12:49
+Jacob Trouba (NYR) fighting against Mike Matheson (5 minutes)
+5-2
+P3  12:49
+Mike Matheson (MTL) fighting against Jacob Trouba (5 minutes)
+5-2
+P3  12:49
+Mike Matheson (MTL) instigator misconduct (10 minutes)
+5-2
+P3  06:39
+Will Cuylle (NYR) slashing against Cole Caufield (2 minutes)
+5-2
+P3  04:19
+Filip Chytil (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Sam Carrick
+6-2
+P3  03:41
+Kaapo Kakko (NYR) scores on snap shot past Cayden Primeau, assisted by Will Cuylle and Victor Mancini
+7-2
+Box Score:
+ 
+Back to Top
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  09:37   1  0    1   1   1   0   1   0   1/1Sam Carrick C  11:28   0  1    2   2   0   0   0   1  9/14Filip Chytil C  15:03   2  1    3   4   1   0   1   1  2/10Will Cuylle L  11:33   0  2    3   3   0   2   0   2   0/0Adam Edstrom C  09:49   0  1    1   1   1   0   0   0   0/0Kaapo Kakko R  13:53   1  2    2   3   1   2   0   0   0/1Chris Kreider L  15:57   0  0    1   1   0   2   0   0   0/0Alexis Lafrenière L  17:53   0  0    0   4   0   0   1   1   0/0Artemi Panarin L  19:15   0  1    0   5   0   0   0   0   0/0Reilly Smith R  13:29   1  1    1   3   2   0   1   0   0/0Vincent Trocheck C  20:37   0  0   -1   2   4   0   0   2  9/14Mika Zibanejad C  18:11   1  0    2   5   1   0   0   1  3/11Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  24:06   0  1    1   2   0   2   1   1   0/0Ryan Lindgren D  17:20   0  0    0   0   0   0   0   0   0/0Victor Mancini D  16:39   0  1    0   1   0   0   0   1   0/0K'Andre Miller D  20:48   0  0    0   1   1   2   1   2   0/0Braden Schneider D  17:31   1  1    4   3   0   0   0   2   0/0Jacob Trouba D  18:18   0  0    5   4   3   5   0   1   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          7 12       45  15  15   6  15 24/51
+                                        47.1%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   2  21/23  21/22   0/1   0/0     0
+              .913   .955  .000 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  16:22   0  1    0   1   0   2   0   1   0/1Joel Armia R  12:10   0  0   -1   1   0   0   0   0   0/0Cole Caufield R  16:17   0  0   -1   1   1   0   0   0   0/0Kirby Dach C  18:32   0  1   -2   4   1   0   1   1   1/1Christian Dvorak C  11:32   0  0   -3   0   2   0   0   1   3/9Jake Evans C  16:26   0  0   -1   2   2   2   0   0  8/14Brendan Gallagher R  15:53   0  0    0   2   0   2   1   4   0/0Emil Heineman L  09:48   0  0   -3   1   0   0   0   1   0/0Oliver Kapanen C  13:04   0  0   -1   1   2   0   0   0   3/3Alex Newhook C  16:58   0  0    0   0   1   0   0   1   5/9Michael Pezzetta L  07:58   0  0   -3   0   1   0   1   1   0/2Nick Suzuki C  19:00   2  0    0   2   0   0   1   1  7/12Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  15:01   0  0    0   0   0   0   0   1   0/0Lane Hutson D  24:10   0  0   -4   1   1   0   0   2   0/0Logan Mailloux D  19:29   0  0   -3   4   2   0   0   2   0/0Mike Matheson D  16:47   0  1    0   1   1  19   0   1   0/0David Savard D  20:39   0  1   -1   1   3   0   0   1   0/0Jayden Struble D  20:17   0  0   -2   1   0   0   0   5   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       23  17  25   4  23 27/51
+                                        52.9%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  11:05   4   6/10    5/8   1/2   0/0     0
+              .600   .625  .500 Cayden Primeau G  48:55   3  32/35  25/28   4/4   3/3     0
+              .914   .893 1.000 1.000 Canadiens Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          7  38/45  30/36   5/6   3/3     0
+              .844   .833  .833 1.000
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  09:37   1  0    1   1   1   0   1   0   1/1Sam Carrick C  11:28   0  1    2   2   0   0   0   1  9/14Filip Chytil C  15:03   2  1    3   4   1   0   1   1  2/10Will Cuylle L  11:33   0  2    3   3   0   2   0   2   0/0Adam Edstrom C  09:49   0  1    1   1   1   0   0   0   0/0Kaapo Kakko R  13:53   1  2    2   3   1   2   0   0   0/1Chris Kreider L  15:57   0  0    1   1   0   2   0   0   0/0Alexis Lafrenière L  17:53   0  0    0   4   0   0   1   1   0/0Artemi Panarin L  19:15   0  1    0   5   0   0   0   0   0/0Reilly Smith R  13:29   1  1    1   3   2   0   1   0   0/0Vincent Trocheck C  20:37   0  0   -1   2   4   0   0   2  9/14Mika Zibanejad C  18:11   1  0    2   5   1   0   0   1  3/11
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonny Brodzinski C
+09:37   1  0    1   1   1   0   1   0   1/1
+Sam Carrick C
+11:28   0  1    2   2   0   0   0   1  9/14
+Filip Chytil C
+15:03   2  1    3   4   1   0   1   1  2/10
+Will Cuylle L
+11:33   0  2    3   3   0   2   0   2   0/0
+Adam Edstrom C
+09:49   0  1    1   1   1   0   0   0   0/0
+Kaapo Kakko R
+13:53   1  2    2   3   1   2   0   0   0/1
+Chris Kreider L
+15:57   0  0    1   1   0   2   0   0   0/0
+Alexis Lafrenière L
+17:53   0  0    0   4   0   0   1   1   0/0
+Artemi Panarin L
+19:15   0  1    0   5   0   0   0   0   0/0
+Reilly Smith R
+13:29   1  1    1   3   2   0   1   0   0/0
+Vincent Trocheck C
+20:37   0  0   -1   2   4   0   0   2  9/14
+Mika Zibanejad C
+18:11   1  0    2   5   1   0   0   1  3/11
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  24:06   0  1    1   2   0   2   1   1   0/0Ryan Lindgren D  17:20   0  0    0   0   0   0   0   0   0/0Victor Mancini D  16:39   0  1    0   1   0   0   0   1   0/0K'Andre Miller D  20:48   0  0    0   1   1   2   1   2   0/0Braden Schneider D  17:31   1  1    4   3   0   0   0   2   0/0Jacob Trouba D  18:18   0  0    5   4   3   5   0   1   0/0
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Adam Fox D
+24:06   0  1    1   2   0   2   1   1   0/0
+Ryan Lindgren D
+17:20   0  0    0   0   0   0   0   0   0/0
+Victor Mancini D
+16:39   0  1    0   1   0   0   0   1   0/0
+K'Andre Miller D
+20:48   0  0    0   1   1   2   1   2   0/0
+Braden Schneider D
+17:31   1  1    4   3   0   0   0   2   0/0
+Jacob Trouba D
+18:18   0  0    5   4   3   5   0   1   0/0
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          7 12       45  15  15   6  15 24/51
+                                        47.1%
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   2  21/23  21/22   0/1   0/0     0
+              .913   .955  .000
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Igor Shesterkin G
+60:00   2  21/23  21/22   0/1   0/0     0
+              .913   .955  .000
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  16:22   0  1    0   1   0   2   0   1   0/1Joel Armia R  12:10   0  0   -1   1   0   0   0   0   0/0Cole Caufield R  16:17   0  0   -1   1   1   0   0   0   0/0Kirby Dach C  18:32   0  1   -2   4   1   0   1   1   1/1Christian Dvorak C  11:32   0  0   -3   0   2   0   0   1   3/9Jake Evans C  16:26   0  0   -1   2   2   2   0   0  8/14Brendan Gallagher R  15:53   0  0    0   2   0   2   1   4   0/0Emil Heineman L  09:48   0  0   -3   1   0   0   0   1   0/0Oliver Kapanen C  13:04   0  0   -1   1   2   0   0   0   3/3Alex Newhook C  16:58   0  0    0   0   1   0   0   1   5/9Michael Pezzetta L  07:58   0  0   -3   0   1   0   1   1   0/2Nick Suzuki C  19:00   2  0    0   2   0   0   1   1  7/12
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+16:22   0  1    0   1   0   2   0   1   0/1
+Joel Armia R
+12:10   0  0   -1   1   0   0   0   0   0/0
+Cole Caufield R
+16:17   0  0   -1   1   1   0   0   0   0/0
+Kirby Dach C
+18:32   0  1   -2   4   1   0   1   1   1/1
+Christian Dvorak C
+11:32   0  0   -3   0   2   0   0   1   3/9
+Jake Evans C
+16:26   0  0   -1   2   2   2   0   0  8/14
+Brendan Gallagher R
+15:53   0  0    0   2   0   2   1   4   0/0
+Emil Heineman L
+09:48   0  0   -3   1   0   0   0   1   0/0
+Oliver Kapanen C
+13:04   0  0   -1   1   2   0   0   0   3/3
+Alex Newhook C
+16:58   0  0    0   0   1   0   0   1   5/9
+Michael Pezzetta L
+07:58   0  0   -3   0   1   0   1   1   0/2
+Nick Suzuki C
+19:00   2  0    0   2   0   0   1   1  7/12
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  15:01   0  0    0   0   0   0   0   1   0/0Lane Hutson D  24:10   0  0   -4   1   1   0   0   2   0/0Logan Mailloux D  19:29   0  0   -3   4   2   0   0   2   0/0Mike Matheson D  16:47   0  1    0   1   1  19   0   1   0/0David Savard D  20:39   0  1   -1   1   3   0   0   1   0/0Jayden Struble D  20:17   0  0   -2   1   0   0   0   5   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Justin Barron D
+15:01   0  0    0   0   0   0   0   1   0/0
+Lane Hutson D
+24:10   0  0   -4   1   1   0   0   2   0/0
+Logan Mailloux D
+19:29   0  0   -3   4   2   0   0   2   0/0
+Mike Matheson D
+16:47   0  1    0   1   1  19   0   1   0/0
+David Savard D
+20:39   0  1   -1   1   3   0   0   1   0/0
+Jayden Struble D
+20:17   0  0   -2   1   0   0   0   5   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       23  17  25   4  23 27/51
+                                        52.9%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  11:05   4   6/10    5/8   1/2   0/0     0
+              .600   .625  .500 Cayden Primeau G  48:55   3  32/35  25/28   4/4   3/3     0
+              .914   .893 1.000 1.000
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sam Montembeault G
+11:05   4   6/10    5/8   1/2   0/0     0
+              .600   .625  .500
+Cayden Primeau G
+48:55   3  32/35  25/28   4/4   3/3     0
+              .914   .893 1.000 1.000
+Canadiens Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          7  38/45  30/36   5/6   3/3     0
+              .844   .833  .833 1.000
+Canadiens Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

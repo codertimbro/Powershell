@@ -1,0 +1,322 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Minnesota
+Wild4-0-2Final5 - 1Florida
+Panthers4-3-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+MIN   2  3  0    5  
+FLA   0  1  0    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:20 
+Marco Rossi (MIN) scores on tip-in past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   1-0
+P1  07:58 
+Marcus Johansson (MIN) scores on slap shot past Sergei Bobrovsky, assisted by Matt Boldy and Jonas Brodin
+   2-0
+2nd Period: ShowHide
+P2  19:03 
+Sam Bennett (FLA) interference against Joel Eriksson Ek (2 minutes)
+   2-0
+P2  17:20 
+Matt Boldy (MIN) scores power-play goal on tip-in past Sergei Bobrovsky, assisted by Mats Zuccarello and Joel Eriksson Ek
+   3-0
+P2  08:41 
+Sam Bennett (FLA) scores on deflection past Filip Gustavsson, assisted by Carter Verhaeghe and Matthew Tkachuk
+   3-1
+P2  06:02 
+Mats Zuccarello (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   4-1
+P2  03:55 
+Joel Eriksson Ek (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Jake Middleton
+   5-1
+3rd Period: ShowHide
+P3  01:59 
+Sam Bennett (FLA) slashing against Yakov Trenin (2 minutes)
+   5-1
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  16:32   1  1    2   1   0   0   1   0   1/2Joel Eriksson Ek C  16:38   1  1    2   1   1   0   0   0  9/13Marcus Foligno L  13:51   0  0    0   1   1   0   0   0   0/0Frederick Gaudreau C  14:42   0  0    0   3   0   0   0   1  8/15Marcus Johansson L  14:00   1  0    2   4   0   0   0   0   0/0Kirill Kaprizov L  21:00   0  2    2   0   1   0   0   2   0/0Marat Khusnutdinov C  13:11   0  0    0   0   1   0   0   0   2/6Jakub Lauko C  12:48   0  0   -1   1   2   0   0   0   0/0Liam Ohgren L  11:03   0  0   -1   0   1   0   1   1   0/0Marco Rossi C  16:42   1  0    1   1   0   0   1   0  6/10Yakov Trenin C  15:30   0  0    0   1   2   0   0   0   0/2Mats Zuccarello R  16:42   1  1    2   3   1   0   1   1   2/2Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  21:02   0  0    1   2   2   0   0   1   0/0Jonas Brodin D  21:32   0  1    1   3   2   0   0   0   0/0Declan Chisholm D  15:19   0  0    0   1   0   0   0   2   0/0Brock Faber D  22:57   0  0    2   0   1   0   0   0   0/0Jon Merrill D  15:37   0  0   -1   0   2   0   0   0   0/0Jake Middleton D  20:54   0  3    3   0   3   0   0   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       22  20   0   4   8 28/50
+                                        56.0%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   1  24/25  24/25   0/0   0/0     0
+              .960   .960 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  15:29   1  0   -1   4   1   4   0   0  4/14Jesper Boqvist C  17:08   0  0   -1   3   2   0   0   2   2/6Patrick Giles R  09:29   0  0    0   0   1   0   0   0   2/3A.J. Greer L  10:45   0  0    0   1   0   0   0   0   0/0Anton Lundell C  17:46   0  0   -1   0   0   0   0   0  6/13Eetu Luostarinen C  18:21   0  0   -1   0   1   0   0   0   1/1Sam Reinhart C  17:20   0  0   -1   2   1   0   1   2   2/4Evan Rodrigues C  14:33   0  0   -1   0   0   0   0   1   4/8Mackie Samoskevich R  14:12   0  0   -1   0   0   0   1   0   0/0Matthew Tkachuk L  16:49   0  1   -1   2   0   0   0   1   0/0Carter Verhaeghe C  15:56   0  1   -1   5   0   0   2   1   1/1Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  11:41   0  0    0   1   1   0   0   0   0/0Adam Boqvist D  11:52   0  0    1   2   2   0   1   0   0/0Aaron Ekblad D  21:48   0  0   -3   0   2   0   1   0   0/0Gustav Forsling D  22:04   0  0   -2   2   0   0   1   0   0/0Dmitry Kulikov D  22:31   0  0   -1   1   0   0   1   0   0/0Niko Mikkola D  22:20   0  0   -2   1   1   0   0   0   0/0Nate Schmidt D  16:14   0  0    1   1   2   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  14   4   8   8 22/50
+                                        44.0%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  40:00   5  11/16  11/15   0/1   0/0     0
+              .688   .733  .000 Spencer Knight G  20:00   0    6/6    6/6   0/0   0/0     0
+             1.000  1.000 Panthers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  17/22  17/21   0/1   0/0     0
+              .773   .810  .000
+Minnesota
+Wild4-0-2Final5 - 1Florida
+Panthers4-3-1
+Minnesota
+Wild4-0-2
+Final5 - 1
+Florida
+Panthers4-3-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+MIN   2  3  0    5  
+FLA   0  1  0    1
+1st Period: ShowHide
+P1  08:20 
+Marco Rossi (MIN) scores on tip-in past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   1-0
+P1  07:58 
+Marcus Johansson (MIN) scores on slap shot past Sergei Bobrovsky, assisted by Matt Boldy and Jonas Brodin
+   2-0
+2nd Period: ShowHide
+P2  19:03 
+Sam Bennett (FLA) interference against Joel Eriksson Ek (2 minutes)
+   2-0
+P2  17:20 
+Matt Boldy (MIN) scores power-play goal on tip-in past Sergei Bobrovsky, assisted by Mats Zuccarello and Joel Eriksson Ek
+   3-0
+P2  08:41 
+Sam Bennett (FLA) scores on deflection past Filip Gustavsson, assisted by Carter Verhaeghe and Matthew Tkachuk
+   3-1
+P2  06:02 
+Mats Zuccarello (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   4-1
+P2  03:55 
+Joel Eriksson Ek (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Jake Middleton
+   5-1
+3rd Period: ShowHide
+P3  01:59 
+Sam Bennett (FLA) slashing against Yakov Trenin (2 minutes)
+   5-1
+1st Period: ShowHide
+P1  08:20 
+Marco Rossi (MIN) scores on tip-in past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   1-0
+P1  07:58 
+Marcus Johansson (MIN) scores on slap shot past Sergei Bobrovsky, assisted by Matt Boldy and Jonas Brodin
+   2-0
+P1  08:20 
+Marco Rossi (MIN) scores on tip-in past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   1-0
+P1  07:58 
+Marcus Johansson (MIN) scores on slap shot past Sergei Bobrovsky, assisted by Matt Boldy and Jonas Brodin
+   2-0
+P1  08:20
+Marco Rossi (MIN) scores on tip-in past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+1-0
+P1  07:58
+Marcus Johansson (MIN) scores on slap shot past Sergei Bobrovsky, assisted by Matt Boldy and Jonas Brodin
+2-0
+2nd Period: ShowHide
+P2  19:03 
+Sam Bennett (FLA) interference against Joel Eriksson Ek (2 minutes)
+   2-0
+P2  17:20 
+Matt Boldy (MIN) scores power-play goal on tip-in past Sergei Bobrovsky, assisted by Mats Zuccarello and Joel Eriksson Ek
+   3-0
+P2  08:41 
+Sam Bennett (FLA) scores on deflection past Filip Gustavsson, assisted by Carter Verhaeghe and Matthew Tkachuk
+   3-1
+P2  06:02 
+Mats Zuccarello (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   4-1
+P2  03:55 
+Joel Eriksson Ek (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Jake Middleton
+   5-1
+P2  19:03 
+Sam Bennett (FLA) interference against Joel Eriksson Ek (2 minutes)
+   2-0
+P2  17:20 
+Matt Boldy (MIN) scores power-play goal on tip-in past Sergei Bobrovsky, assisted by Mats Zuccarello and Joel Eriksson Ek
+   3-0
+P2  08:41 
+Sam Bennett (FLA) scores on deflection past Filip Gustavsson, assisted by Carter Verhaeghe and Matthew Tkachuk
+   3-1
+P2  06:02 
+Mats Zuccarello (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+   4-1
+P2  03:55 
+Joel Eriksson Ek (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Jake Middleton
+   5-1
+P2  19:03
+Sam Bennett (FLA) interference against Joel Eriksson Ek (2 minutes)
+2-0
+P2  17:20
+Matt Boldy (MIN) scores power-play goal on tip-in past Sergei Bobrovsky, assisted by Mats Zuccarello and Joel Eriksson Ek
+3-0
+P2  08:41
+Sam Bennett (FLA) scores on deflection past Filip Gustavsson, assisted by Carter Verhaeghe and Matthew Tkachuk
+3-1
+P2  06:02
+Mats Zuccarello (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Kirill Kaprizov and Jake Middleton
+4-1
+P2  03:55
+Joel Eriksson Ek (MIN) scores on snap shot past Sergei Bobrovsky, assisted by Jake Middleton
+5-1
+3rd Period: ShowHide
+P3  01:59 
+Sam Bennett (FLA) slashing against Yakov Trenin (2 minutes)
+   5-1
+P3  01:59 
+Sam Bennett (FLA) slashing against Yakov Trenin (2 minutes)
+   5-1
+P3  01:59
+Sam Bennett (FLA) slashing against Yakov Trenin (2 minutes)
+5-1
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  16:32   1  1    2   1   0   0   1   0   1/2Joel Eriksson Ek C  16:38   1  1    2   1   1   0   0   0  9/13Marcus Foligno L  13:51   0  0    0   1   1   0   0   0   0/0Frederick Gaudreau C  14:42   0  0    0   3   0   0   0   1  8/15Marcus Johansson L  14:00   1  0    2   4   0   0   0   0   0/0Kirill Kaprizov L  21:00   0  2    2   0   1   0   0   2   0/0Marat Khusnutdinov C  13:11   0  0    0   0   1   0   0   0   2/6Jakub Lauko C  12:48   0  0   -1   1   2   0   0   0   0/0Liam Ohgren L  11:03   0  0   -1   0   1   0   1   1   0/0Marco Rossi C  16:42   1  0    1   1   0   0   1   0  6/10Yakov Trenin C  15:30   0  0    0   1   2   0   0   0   0/2Mats Zuccarello R  16:42   1  1    2   3   1   0   1   1   2/2Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  21:02   0  0    1   2   2   0   0   1   0/0Jonas Brodin D  21:32   0  1    1   3   2   0   0   0   0/0Declan Chisholm D  15:19   0  0    0   1   0   0   0   2   0/0Brock Faber D  22:57   0  0    2   0   1   0   0   0   0/0Jon Merrill D  15:37   0  0   -1   0   2   0   0   0   0/0Jake Middleton D  20:54   0  3    3   0   3   0   0   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       22  20   0   4   8 28/50
+                                        56.0%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   1  24/25  24/25   0/0   0/0     0
+              .960   .960 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  15:29   1  0   -1   4   1   4   0   0  4/14Jesper Boqvist C  17:08   0  0   -1   3   2   0   0   2   2/6Patrick Giles R  09:29   0  0    0   0   1   0   0   0   2/3A.J. Greer L  10:45   0  0    0   1   0   0   0   0   0/0Anton Lundell C  17:46   0  0   -1   0   0   0   0   0  6/13Eetu Luostarinen C  18:21   0  0   -1   0   1   0   0   0   1/1Sam Reinhart C  17:20   0  0   -1   2   1   0   1   2   2/4Evan Rodrigues C  14:33   0  0   -1   0   0   0   0   1   4/8Mackie Samoskevich R  14:12   0  0   -1   0   0   0   1   0   0/0Matthew Tkachuk L  16:49   0  1   -1   2   0   0   0   1   0/0Carter Verhaeghe C  15:56   0  1   -1   5   0   0   2   1   1/1Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  11:41   0  0    0   1   1   0   0   0   0/0Adam Boqvist D  11:52   0  0    1   2   2   0   1   0   0/0Aaron Ekblad D  21:48   0  0   -3   0   2   0   1   0   0/0Gustav Forsling D  22:04   0  0   -2   2   0   0   1   0   0/0Dmitry Kulikov D  22:31   0  0   -1   1   0   0   1   0   0/0Niko Mikkola D  22:20   0  0   -2   1   1   0   0   0   0/0Nate Schmidt D  16:14   0  0    1   1   2   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  14   4   8   8 22/50
+                                        44.0%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  40:00   5  11/16  11/15   0/1   0/0     0
+              .688   .733  .000 Spencer Knight G  20:00   0    6/6    6/6   0/0   0/0     0
+             1.000  1.000 Panthers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  17/22  17/21   0/1   0/0     0
+              .773   .810  .000
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  16:32   1  1    2   1   0   0   1   0   1/2Joel Eriksson Ek C  16:38   1  1    2   1   1   0   0   0  9/13Marcus Foligno L  13:51   0  0    0   1   1   0   0   0   0/0Frederick Gaudreau C  14:42   0  0    0   3   0   0   0   1  8/15Marcus Johansson L  14:00   1  0    2   4   0   0   0   0   0/0Kirill Kaprizov L  21:00   0  2    2   0   1   0   0   2   0/0Marat Khusnutdinov C  13:11   0  0    0   0   1   0   0   0   2/6Jakub Lauko C  12:48   0  0   -1   1   2   0   0   0   0/0Liam Ohgren L  11:03   0  0   -1   0   1   0   1   1   0/0Marco Rossi C  16:42   1  0    1   1   0   0   1   0  6/10Yakov Trenin C  15:30   0  0    0   1   2   0   0   0   0/2Mats Zuccarello R  16:42   1  1    2   3   1   0   1   1   2/2
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Boldy L
+16:32   1  1    2   1   0   0   1   0   1/2
+Joel Eriksson Ek C
+16:38   1  1    2   1   1   0   0   0  9/13
+Marcus Foligno L
+13:51   0  0    0   1   1   0   0   0   0/0
+Frederick Gaudreau C
+14:42   0  0    0   3   0   0   0   1  8/15
+Marcus Johansson L
+14:00   1  0    2   4   0   0   0   0   0/0
+Kirill Kaprizov L
+21:00   0  2    2   0   1   0   0   2   0/0
+Marat Khusnutdinov C
+13:11   0  0    0   0   1   0   0   0   2/6
+Jakub Lauko C
+12:48   0  0   -1   1   2   0   0   0   0/0
+Liam Ohgren L
+11:03   0  0   -1   0   1   0   1   1   0/0
+Marco Rossi C
+16:42   1  0    1   1   0   0   1   0  6/10
+Yakov Trenin C
+15:30   0  0    0   1   2   0   0   0   0/2
+Mats Zuccarello R
+16:42   1  1    2   3   1   0   1   1   2/2
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  21:02   0  0    1   2   2   0   0   1   0/0Jonas Brodin D  21:32   0  1    1   3   2   0   0   0   0/0Declan Chisholm D  15:19   0  0    0   1   0   0   0   2   0/0Brock Faber D  22:57   0  0    2   0   1   0   0   0   0/0Jon Merrill D  15:37   0  0   -1   0   2   0   0   0   0/0Jake Middleton D  20:54   0  3    3   0   3   0   0   0   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Bogosian D
+21:02   0  0    1   2   2   0   0   1   0/0
+Jonas Brodin D
+21:32   0  1    1   3   2   0   0   0   0/0
+Declan Chisholm D
+15:19   0  0    0   1   0   0   0   2   0/0
+Brock Faber D
+22:57   0  0    2   0   1   0   0   0   0/0
+Jon Merrill D
+15:37   0  0   -1   0   2   0   0   0   0/0
+Jake Middleton D
+20:54   0  3    3   0   3   0   0   0   0/0
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       22  20   0   4   8 28/50
+                                        56.0%
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   1  24/25  24/25   0/0   0/0     0
+              .960   .960
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Filip Gustavsson G
+60:00   1  24/25  24/25   0/0   0/0     0
+              .960   .960
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  15:29   1  0   -1   4   1   4   0   0  4/14Jesper Boqvist C  17:08   0  0   -1   3   2   0   0   2   2/6Patrick Giles R  09:29   0  0    0   0   1   0   0   0   2/3A.J. Greer L  10:45   0  0    0   1   0   0   0   0   0/0Anton Lundell C  17:46   0  0   -1   0   0   0   0   0  6/13Eetu Luostarinen C  18:21   0  0   -1   0   1   0   0   0   1/1Sam Reinhart C  17:20   0  0   -1   2   1   0   1   2   2/4Evan Rodrigues C  14:33   0  0   -1   0   0   0   0   1   4/8Mackie Samoskevich R  14:12   0  0   -1   0   0   0   1   0   0/0Matthew Tkachuk L  16:49   0  1   -1   2   0   0   0   1   0/0Carter Verhaeghe C  15:56   0  1   -1   5   0   0   2   1   1/1
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Bennett C
+15:29   1  0   -1   4   1   4   0   0  4/14
+Jesper Boqvist C
+17:08   0  0   -1   3   2   0   0   2   2/6
+Patrick Giles R
+09:29   0  0    0   0   1   0   0   0   2/3
+A.J. Greer L
+10:45   0  0    0   1   0   0   0   0   0/0
+Anton Lundell C
+17:46   0  0   -1   0   0   0   0   0  6/13
+Eetu Luostarinen C
+18:21   0  0   -1   0   1   0   0   0   1/1
+Sam Reinhart C
+17:20   0  0   -1   2   1   0   1   2   2/4
+Evan Rodrigues C
+14:33   0  0   -1   0   0   0   0   1   4/8
+Mackie Samoskevich R
+14:12   0  0   -1   0   0   0   1   0   0/0
+Matthew Tkachuk L
+16:49   0  1   -1   2   0   0   0   1   0/0
+Carter Verhaeghe C
+15:56   0  1   -1   5   0   0   2   1   1/1
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  11:41   0  0    0   1   1   0   0   0   0/0Adam Boqvist D  11:52   0  0    1   2   2   0   1   0   0/0Aaron Ekblad D  21:48   0  0   -3   0   2   0   1   0   0/0Gustav Forsling D  22:04   0  0   -2   2   0   0   1   0   0/0Dmitry Kulikov D  22:31   0  0   -1   1   0   0   1   0   0/0Niko Mikkola D  22:20   0  0   -2   1   1   0   0   0   0/0Nate Schmidt D  16:14   0  0    1   1   2   0   0   1   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+11:41   0  0    0   1   1   0   0   0   0/0
+Adam Boqvist D
+11:52   0  0    1   2   2   0   1   0   0/0
+Aaron Ekblad D
+21:48   0  0   -3   0   2   0   1   0   0/0
+Gustav Forsling D
+22:04   0  0   -2   2   0   0   1   0   0/0
+Dmitry Kulikov D
+22:31   0  0   -1   1   0   0   1   0   0/0
+Niko Mikkola D
+22:20   0  0   -2   1   1   0   0   0   0/0
+Nate Schmidt D
+16:14   0  0    1   1   2   0   0   1   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  14   4   8   8 22/50
+                                        44.0%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  40:00   5  11/16  11/15   0/1   0/0     0
+              .688   .733  .000 Spencer Knight G  20:00   0    6/6    6/6   0/0   0/0     0
+             1.000  1.000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sergei Bobrovsky G
+40:00   5  11/16  11/15   0/1   0/0     0
+              .688   .733  .000
+Spencer Knight G
+20:00   0    6/6    6/6   0/0   0/0     0
+             1.000  1.000
+Panthers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  17/22  17/21   0/1   0/0     0
+              .773   .810  .000
+Panthers Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

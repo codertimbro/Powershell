@@ -1,0 +1,442 @@
+< Oct. 29 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Rangers6-2-1Final3 - 5Washington
+Capitals6-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NYR   1  2  0    3  
+WSH   3  1  1    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:23 
+Matt Rempe (NYR) fighting against Dylan McIlrath (5 minutes)
+   0-0
+P1  17:23 
+Dylan McIlrath (WSH) fighting against Matt Rempe (5 minutes)
+   0-0
+P1  16:37 
+Alex Ovechkin (WSH) scores on wrist shot past Igor Shesterkin, assisted by Dylan Strome and Aliaksei Protas
+   0-1
+P1  15:39 
+Will Cuylle (NYR) scores on wrist shot past Logan Thompson, assisted by Kaapo Kakko
+   1-1
+P1  14:50 
+Alex Ovechkin (WSH) scores on snap shot past Igor Shesterkin, assisted by Aliaksei Protas and Dylan Strome
+   1-2
+P1  13:17 
+Sam Carrick (NYR) tripping against Michael Sgarbossa (2 minutes)
+   1-2
+P1  11:02 
+Connor McMichael (WSH) scores on tip-in past Igor Shesterkin, assisted by Taylor Raddysh and Rasmus Sandin
+   1-3
+P1  00:00 
+Dylan Strome (WSH) hooking against Sam Carrick (2 minutes)
+   1-3
+2nd Period: ShowHide
+P2  19:30 
+Chris Kreider (NYR) scores power-play goal on deflection past Logan Thompson, assisted by Mika Zibanejad and Vincent Trocheck
+   2-3
+P2  16:17 
+Ryan Lindgren (NYR) hooking against Andrew Mangiapane (2 minutes)
+   2-3
+P2  15:43 
+Alex Ovechkin (WSH) interference against Vincent Trocheck (2 minutes)
+   2-3
+P2  15:30 
+Aliaksei Protas (WSH) scores on tip-in past Igor Shesterkin, assisted by Rasmus Sandin and Trevor van Riemsdyk
+   2-4
+P2  15:16 
+Filip Chytil (NYR) scores on tip-in past Logan Thompson, assisted by Victor Mancini and Braden Schneider
+   3-4
+P2  14:04 
+Trevor van Riemsdyk (WSH) interference against Adam Fox (2 minutes)
+   3-4
+P2  10:36 
+Victor Mancini (NYR) delaying game - puck over glass (2 minutes)
+   3-4
+3rd Period: ShowHide
+P3  17:01 
+Mika Zibanejad (NYR) interference against Michael Sgarbossa (2 minutes)
+   3-4
+P3  00:36 
+Nic Dowd (WSH) scores on empty net, assisted by John Carlson
+   3-5
+Box Score:
+ 
+Back to Top
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  08:23   0  0   -1   0   0   2   0   0   3/7Filip Chytil C  15:55   1  0    2   4   0   0   1   1  6/17Will Cuylle L  15:16   1  0    0   2   0   0   0   0   0/1Adam Edstrom C  06:56   0  0   -1   1   2   0   0   1   0/0Kaapo Kakko R  14:05   0  1    1   1   0   0   0   2   0/1Chris Kreider L  16:48   1  0   -3   2   0   0   0   0   0/3Alexis Lafrenière L  18:06   0  0   -2   0   1   0   0   1   0/0Artemi Panarin L  21:21   0  0   -2   2   0   0   0   2   0/0Matt Rempe C  05:01   0  0    0   0   0   5   0   0   0/0Reilly Smith R  14:26   0  0    0   1   1   0   0   0   0/0Vincent Trocheck C  24:14   0  1   -2   1   0   0   1   3  5/13Mika Zibanejad C  16:36   0  1   -3   1   0   2   1   1  7/13Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  24:14   0  0   -3   2   1   0   1   1   0/0Ryan Lindgren D  18:35   0  0   -1   0   2   2   0   4   0/0Victor Mancini D  16:25   0  1    1   1   0   2   0   1   0/0K'Andre Miller D  21:03   0  0   -2   0   0   0   0   1   0/0Braden Schneider D  15:34   0  1    1   0   1   0   0   0   0/0Jacob Trouba D  20:08   0  0   -1   1   5   0   0   0   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       19  13  13   4  18 21/55
+                                        38.2%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  58:54   4  41/45  34/38   6/6   1/1     0
+              .911   .895 1.000 1.000 
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:43   1  0   -1   1   0   0   0   0  8/13Pierre-Luc Dubois L  17:37   0  0    1   3   1   0   0   1  8/14Brandon Duhaime R  12:48   0  0   -1   2   0   0   0   0   1/1Andrew Mangiapane L  15:29   0  0   -1   4   1   0   1   0   0/0Connor McMichael C  18:06   1  0    2  10   0   0   0   0   0/0Alex Ovechkin L  17:47   2  0    2   5   0   2   0   0   0/0Aliaksei Protas C  15:30   1  2    3   3   0   0   0   0   0/0Taylor Raddysh R  14:15   0  1    0   3   1   0   0   0   0/0Michael Sgarbossa C  08:33   0  0    0   0   0   0   0   0   4/7Dylan Strome C  17:14   0  2    3   1   0   2   0   0 13/19Jakub Vrana L  10:49   0  0    0   2   0   0   0   0   0/1Tom Wilson R  17:25   0  0    1   3   0   0   0   2   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  26:06   0  1    2   3   1   0   0   0   0/0Jakob Chychrun D  01:50   0  0    1   0   0   0   1   2   0/0Martin Fehervary D  26:54   0  0    0   1   2   0   0   2   0/0Dylan McIlrath D  11:39   0  0    0   2   2   5   0   1   0/0Rasmus Sandin D  24:45   0  2    2   1   2   0   0   0   0/0Trevor van Riemsdyk D  23:00   0  1    1   2   1   2   1   2   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       46  11  11   3  10 34/55
+                                        61.8%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLogan Thompson G  60:00   3  16/19  14/16   1/2   1/1     0
+              .842   .875  .500 1.000
+New York
+Rangers6-2-1Final3 - 5Washington
+Capitals6-2-0
+New York
+Rangers6-2-1
+Final3 - 5
+Washington
+Capitals6-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NYR   1  2  0    3  
+WSH   3  1  1    5
+1st Period: ShowHide
+P1  17:23 
+Matt Rempe (NYR) fighting against Dylan McIlrath (5 minutes)
+   0-0
+P1  17:23 
+Dylan McIlrath (WSH) fighting against Matt Rempe (5 minutes)
+   0-0
+P1  16:37 
+Alex Ovechkin (WSH) scores on wrist shot past Igor Shesterkin, assisted by Dylan Strome and Aliaksei Protas
+   0-1
+P1  15:39 
+Will Cuylle (NYR) scores on wrist shot past Logan Thompson, assisted by Kaapo Kakko
+   1-1
+P1  14:50 
+Alex Ovechkin (WSH) scores on snap shot past Igor Shesterkin, assisted by Aliaksei Protas and Dylan Strome
+   1-2
+P1  13:17 
+Sam Carrick (NYR) tripping against Michael Sgarbossa (2 minutes)
+   1-2
+P1  11:02 
+Connor McMichael (WSH) scores on tip-in past Igor Shesterkin, assisted by Taylor Raddysh and Rasmus Sandin
+   1-3
+P1  00:00 
+Dylan Strome (WSH) hooking against Sam Carrick (2 minutes)
+   1-3
+2nd Period: ShowHide
+P2  19:30 
+Chris Kreider (NYR) scores power-play goal on deflection past Logan Thompson, assisted by Mika Zibanejad and Vincent Trocheck
+   2-3
+P2  16:17 
+Ryan Lindgren (NYR) hooking against Andrew Mangiapane (2 minutes)
+   2-3
+P2  15:43 
+Alex Ovechkin (WSH) interference against Vincent Trocheck (2 minutes)
+   2-3
+P2  15:30 
+Aliaksei Protas (WSH) scores on tip-in past Igor Shesterkin, assisted by Rasmus Sandin and Trevor van Riemsdyk
+   2-4
+P2  15:16 
+Filip Chytil (NYR) scores on tip-in past Logan Thompson, assisted by Victor Mancini and Braden Schneider
+   3-4
+P2  14:04 
+Trevor van Riemsdyk (WSH) interference against Adam Fox (2 minutes)
+   3-4
+P2  10:36 
+Victor Mancini (NYR) delaying game - puck over glass (2 minutes)
+   3-4
+3rd Period: ShowHide
+P3  17:01 
+Mika Zibanejad (NYR) interference against Michael Sgarbossa (2 minutes)
+   3-4
+P3  00:36 
+Nic Dowd (WSH) scores on empty net, assisted by John Carlson
+   3-5
+1st Period: ShowHide
+P1  17:23 
+Matt Rempe (NYR) fighting against Dylan McIlrath (5 minutes)
+   0-0
+P1  17:23 
+Dylan McIlrath (WSH) fighting against Matt Rempe (5 minutes)
+   0-0
+P1  16:37 
+Alex Ovechkin (WSH) scores on wrist shot past Igor Shesterkin, assisted by Dylan Strome and Aliaksei Protas
+   0-1
+P1  15:39 
+Will Cuylle (NYR) scores on wrist shot past Logan Thompson, assisted by Kaapo Kakko
+   1-1
+P1  14:50 
+Alex Ovechkin (WSH) scores on snap shot past Igor Shesterkin, assisted by Aliaksei Protas and Dylan Strome
+   1-2
+P1  13:17 
+Sam Carrick (NYR) tripping against Michael Sgarbossa (2 minutes)
+   1-2
+P1  11:02 
+Connor McMichael (WSH) scores on tip-in past Igor Shesterkin, assisted by Taylor Raddysh and Rasmus Sandin
+   1-3
+P1  00:00 
+Dylan Strome (WSH) hooking against Sam Carrick (2 minutes)
+   1-3
+P1  17:23 
+Matt Rempe (NYR) fighting against Dylan McIlrath (5 minutes)
+   0-0
+P1  17:23 
+Dylan McIlrath (WSH) fighting against Matt Rempe (5 minutes)
+   0-0
+P1  16:37 
+Alex Ovechkin (WSH) scores on wrist shot past Igor Shesterkin, assisted by Dylan Strome and Aliaksei Protas
+   0-1
+P1  15:39 
+Will Cuylle (NYR) scores on wrist shot past Logan Thompson, assisted by Kaapo Kakko
+   1-1
+P1  14:50 
+Alex Ovechkin (WSH) scores on snap shot past Igor Shesterkin, assisted by Aliaksei Protas and Dylan Strome
+   1-2
+P1  13:17 
+Sam Carrick (NYR) tripping against Michael Sgarbossa (2 minutes)
+   1-2
+P1  11:02 
+Connor McMichael (WSH) scores on tip-in past Igor Shesterkin, assisted by Taylor Raddysh and Rasmus Sandin
+   1-3
+P1  00:00 
+Dylan Strome (WSH) hooking against Sam Carrick (2 minutes)
+   1-3
+P1  17:23
+Matt Rempe (NYR) fighting against Dylan McIlrath (5 minutes)
+0-0
+P1  17:23
+Dylan McIlrath (WSH) fighting against Matt Rempe (5 minutes)
+0-0
+P1  16:37
+Alex Ovechkin (WSH) scores on wrist shot past Igor Shesterkin, assisted by Dylan Strome and Aliaksei Protas
+0-1
+P1  15:39
+Will Cuylle (NYR) scores on wrist shot past Logan Thompson, assisted by Kaapo Kakko
+1-1
+P1  14:50
+Alex Ovechkin (WSH) scores on snap shot past Igor Shesterkin, assisted by Aliaksei Protas and Dylan Strome
+1-2
+P1  13:17
+Sam Carrick (NYR) tripping against Michael Sgarbossa (2 minutes)
+1-2
+P1  11:02
+Connor McMichael (WSH) scores on tip-in past Igor Shesterkin, assisted by Taylor Raddysh and Rasmus Sandin
+1-3
+P1  00:00
+Dylan Strome (WSH) hooking against Sam Carrick (2 minutes)
+1-3
+2nd Period: ShowHide
+P2  19:30 
+Chris Kreider (NYR) scores power-play goal on deflection past Logan Thompson, assisted by Mika Zibanejad and Vincent Trocheck
+   2-3
+P2  16:17 
+Ryan Lindgren (NYR) hooking against Andrew Mangiapane (2 minutes)
+   2-3
+P2  15:43 
+Alex Ovechkin (WSH) interference against Vincent Trocheck (2 minutes)
+   2-3
+P2  15:30 
+Aliaksei Protas (WSH) scores on tip-in past Igor Shesterkin, assisted by Rasmus Sandin and Trevor van Riemsdyk
+   2-4
+P2  15:16 
+Filip Chytil (NYR) scores on tip-in past Logan Thompson, assisted by Victor Mancini and Braden Schneider
+   3-4
+P2  14:04 
+Trevor van Riemsdyk (WSH) interference against Adam Fox (2 minutes)
+   3-4
+P2  10:36 
+Victor Mancini (NYR) delaying game - puck over glass (2 minutes)
+   3-4
+P2  19:30 
+Chris Kreider (NYR) scores power-play goal on deflection past Logan Thompson, assisted by Mika Zibanejad and Vincent Trocheck
+   2-3
+P2  16:17 
+Ryan Lindgren (NYR) hooking against Andrew Mangiapane (2 minutes)
+   2-3
+P2  15:43 
+Alex Ovechkin (WSH) interference against Vincent Trocheck (2 minutes)
+   2-3
+P2  15:30 
+Aliaksei Protas (WSH) scores on tip-in past Igor Shesterkin, assisted by Rasmus Sandin and Trevor van Riemsdyk
+   2-4
+P2  15:16 
+Filip Chytil (NYR) scores on tip-in past Logan Thompson, assisted by Victor Mancini and Braden Schneider
+   3-4
+P2  14:04 
+Trevor van Riemsdyk (WSH) interference against Adam Fox (2 minutes)
+   3-4
+P2  10:36 
+Victor Mancini (NYR) delaying game - puck over glass (2 minutes)
+   3-4
+P2  19:30
+Chris Kreider (NYR) scores power-play goal on deflection past Logan Thompson, assisted by Mika Zibanejad and Vincent Trocheck
+2-3
+P2  16:17
+Ryan Lindgren (NYR) hooking against Andrew Mangiapane (2 minutes)
+2-3
+P2  15:43
+Alex Ovechkin (WSH) interference against Vincent Trocheck (2 minutes)
+2-3
+P2  15:30
+Aliaksei Protas (WSH) scores on tip-in past Igor Shesterkin, assisted by Rasmus Sandin and Trevor van Riemsdyk
+2-4
+P2  15:16
+Filip Chytil (NYR) scores on tip-in past Logan Thompson, assisted by Victor Mancini and Braden Schneider
+3-4
+P2  14:04
+Trevor van Riemsdyk (WSH) interference against Adam Fox (2 minutes)
+3-4
+P2  10:36
+Victor Mancini (NYR) delaying game - puck over glass (2 minutes)
+3-4
+3rd Period: ShowHide
+P3  17:01 
+Mika Zibanejad (NYR) interference against Michael Sgarbossa (2 minutes)
+   3-4
+P3  00:36 
+Nic Dowd (WSH) scores on empty net, assisted by John Carlson
+   3-5
+P3  17:01 
+Mika Zibanejad (NYR) interference against Michael Sgarbossa (2 minutes)
+   3-4
+P3  00:36 
+Nic Dowd (WSH) scores on empty net, assisted by John Carlson
+   3-5
+P3  17:01
+Mika Zibanejad (NYR) interference against Michael Sgarbossa (2 minutes)
+3-4
+P3  00:36
+Nic Dowd (WSH) scores on empty net, assisted by John Carlson
+3-5
+Box Score:
+ 
+Back to Top
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  08:23   0  0   -1   0   0   2   0   0   3/7Filip Chytil C  15:55   1  0    2   4   0   0   1   1  6/17Will Cuylle L  15:16   1  0    0   2   0   0   0   0   0/1Adam Edstrom C  06:56   0  0   -1   1   2   0   0   1   0/0Kaapo Kakko R  14:05   0  1    1   1   0   0   0   2   0/1Chris Kreider L  16:48   1  0   -3   2   0   0   0   0   0/3Alexis Lafrenière L  18:06   0  0   -2   0   1   0   0   1   0/0Artemi Panarin L  21:21   0  0   -2   2   0   0   0   2   0/0Matt Rempe C  05:01   0  0    0   0   0   5   0   0   0/0Reilly Smith R  14:26   0  0    0   1   1   0   0   0   0/0Vincent Trocheck C  24:14   0  1   -2   1   0   0   1   3  5/13Mika Zibanejad C  16:36   0  1   -3   1   0   2   1   1  7/13Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  24:14   0  0   -3   2   1   0   1   1   0/0Ryan Lindgren D  18:35   0  0   -1   0   2   2   0   4   0/0Victor Mancini D  16:25   0  1    1   1   0   2   0   1   0/0K'Andre Miller D  21:03   0  0   -2   0   0   0   0   1   0/0Braden Schneider D  15:34   0  1    1   0   1   0   0   0   0/0Jacob Trouba D  20:08   0  0   -1   1   5   0   0   0   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       19  13  13   4  18 21/55
+                                        38.2%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  58:54   4  41/45  34/38   6/6   1/1     0
+              .911   .895 1.000 1.000 
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:43   1  0   -1   1   0   0   0   0  8/13Pierre-Luc Dubois L  17:37   0  0    1   3   1   0   0   1  8/14Brandon Duhaime R  12:48   0  0   -1   2   0   0   0   0   1/1Andrew Mangiapane L  15:29   0  0   -1   4   1   0   1   0   0/0Connor McMichael C  18:06   1  0    2  10   0   0   0   0   0/0Alex Ovechkin L  17:47   2  0    2   5   0   2   0   0   0/0Aliaksei Protas C  15:30   1  2    3   3   0   0   0   0   0/0Taylor Raddysh R  14:15   0  1    0   3   1   0   0   0   0/0Michael Sgarbossa C  08:33   0  0    0   0   0   0   0   0   4/7Dylan Strome C  17:14   0  2    3   1   0   2   0   0 13/19Jakub Vrana L  10:49   0  0    0   2   0   0   0   0   0/1Tom Wilson R  17:25   0  0    1   3   0   0   0   2   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  26:06   0  1    2   3   1   0   0   0   0/0Jakob Chychrun D  01:50   0  0    1   0   0   0   1   2   0/0Martin Fehervary D  26:54   0  0    0   1   2   0   0   2   0/0Dylan McIlrath D  11:39   0  0    0   2   2   5   0   1   0/0Rasmus Sandin D  24:45   0  2    2   1   2   0   0   0   0/0Trevor van Riemsdyk D  23:00   0  1    1   2   1   2   1   2   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       46  11  11   3  10 34/55
+                                        61.8%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLogan Thompson G  60:00   3  16/19  14/16   1/2   1/1     0
+              .842   .875  .500 1.000
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  08:23   0  0   -1   0   0   2   0   0   3/7Filip Chytil C  15:55   1  0    2   4   0   0   1   1  6/17Will Cuylle L  15:16   1  0    0   2   0   0   0   0   0/1Adam Edstrom C  06:56   0  0   -1   1   2   0   0   1   0/0Kaapo Kakko R  14:05   0  1    1   1   0   0   0   2   0/1Chris Kreider L  16:48   1  0   -3   2   0   0   0   0   0/3Alexis Lafrenière L  18:06   0  0   -2   0   1   0   0   1   0/0Artemi Panarin L  21:21   0  0   -2   2   0   0   0   2   0/0Matt Rempe C  05:01   0  0    0   0   0   5   0   0   0/0Reilly Smith R  14:26   0  0    0   1   1   0   0   0   0/0Vincent Trocheck C  24:14   0  1   -2   1   0   0   1   3  5/13Mika Zibanejad C  16:36   0  1   -3   1   0   2   1   1  7/13
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Carrick C
+08:23   0  0   -1   0   0   2   0   0   3/7
+Filip Chytil C
+15:55   1  0    2   4   0   0   1   1  6/17
+Will Cuylle L
+15:16   1  0    0   2   0   0   0   0   0/1
+Adam Edstrom C
+06:56   0  0   -1   1   2   0   0   1   0/0
+Kaapo Kakko R
+14:05   0  1    1   1   0   0   0   2   0/1
+Chris Kreider L
+16:48   1  0   -3   2   0   0   0   0   0/3
+Alexis Lafrenière L
+18:06   0  0   -2   0   1   0   0   1   0/0
+Artemi Panarin L
+21:21   0  0   -2   2   0   0   0   2   0/0
+Matt Rempe C
+05:01   0  0    0   0   0   5   0   0   0/0
+Reilly Smith R
+14:26   0  0    0   1   1   0   0   0   0/0
+Vincent Trocheck C
+24:14   0  1   -2   1   0   0   1   3  5/13
+Mika Zibanejad C
+16:36   0  1   -3   1   0   2   1   1  7/13
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  24:14   0  0   -3   2   1   0   1   1   0/0Ryan Lindgren D  18:35   0  0   -1   0   2   2   0   4   0/0Victor Mancini D  16:25   0  1    1   1   0   2   0   1   0/0K'Andre Miller D  21:03   0  0   -2   0   0   0   0   1   0/0Braden Schneider D  15:34   0  1    1   0   1   0   0   0   0/0Jacob Trouba D  20:08   0  0   -1   1   5   0   0   0   0/0
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Adam Fox D
+24:14   0  0   -3   2   1   0   1   1   0/0
+Ryan Lindgren D
+18:35   0  0   -1   0   2   2   0   4   0/0
+Victor Mancini D
+16:25   0  1    1   1   0   2   0   1   0/0
+K'Andre Miller D
+21:03   0  0   -2   0   0   0   0   1   0/0
+Braden Schneider D
+15:34   0  1    1   0   1   0   0   0   0/0
+Jacob Trouba D
+20:08   0  0   -1   1   5   0   0   0   0/0
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       19  13  13   4  18 21/55
+                                        38.2%
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  58:54   4  41/45  34/38   6/6   1/1     0
+              .911   .895 1.000 1.000
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Igor Shesterkin G
+58:54   4  41/45  34/38   6/6   1/1     0
+              .911   .895 1.000 1.000
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:43   1  0   -1   1   0   0   0   0  8/13Pierre-Luc Dubois L  17:37   0  0    1   3   1   0   0   1  8/14Brandon Duhaime R  12:48   0  0   -1   2   0   0   0   0   1/1Andrew Mangiapane L  15:29   0  0   -1   4   1   0   1   0   0/0Connor McMichael C  18:06   1  0    2  10   0   0   0   0   0/0Alex Ovechkin L  17:47   2  0    2   5   0   2   0   0   0/0Aliaksei Protas C  15:30   1  2    3   3   0   0   0   0   0/0Taylor Raddysh R  14:15   0  1    0   3   1   0   0   0   0/0Michael Sgarbossa C  08:33   0  0    0   0   0   0   0   0   4/7Dylan Strome C  17:14   0  2    3   1   0   2   0   0 13/19Jakub Vrana L  10:49   0  0    0   2   0   0   0   0   0/1Tom Wilson R  17:25   0  0    1   3   0   0   0   2   0/0
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nic Dowd C
+15:43   1  0   -1   1   0   0   0   0  8/13
+Pierre-Luc Dubois L
+17:37   0  0    1   3   1   0   0   1  8/14
+Brandon Duhaime R
+12:48   0  0   -1   2   0   0   0   0   1/1
+Andrew Mangiapane L
+15:29   0  0   -1   4   1   0   1   0   0/0
+Connor McMichael C
+18:06   1  0    2  10   0   0   0   0   0/0
+Alex Ovechkin L
+17:47   2  0    2   5   0   2   0   0   0/0
+Aliaksei Protas C
+15:30   1  2    3   3   0   0   0   0   0/0
+Taylor Raddysh R
+14:15   0  1    0   3   1   0   0   0   0/0
+Michael Sgarbossa C
+08:33   0  0    0   0   0   0   0   0   4/7
+Dylan Strome C
+17:14   0  2    3   1   0   2   0   0 13/19
+Jakub Vrana L
+10:49   0  0    0   2   0   0   0   0   0/1
+Tom Wilson R
+17:25   0  0    1   3   0   0   0   2   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  26:06   0  1    2   3   1   0   0   0   0/0Jakob Chychrun D  01:50   0  0    1   0   0   0   1   2   0/0Martin Fehervary D  26:54   0  0    0   1   2   0   0   2   0/0Dylan McIlrath D  11:39   0  0    0   2   2   5   0   1   0/0Rasmus Sandin D  24:45   0  2    2   1   2   0   0   0   0/0Trevor van Riemsdyk D  23:00   0  1    1   2   1   2   1   2   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Carlson D
+26:06   0  1    2   3   1   0   0   0   0/0
+Jakob Chychrun D
+01:50   0  0    1   0   0   0   1   2   0/0
+Martin Fehervary D
+26:54   0  0    0   1   2   0   0   2   0/0
+Dylan McIlrath D
+11:39   0  0    0   2   2   5   0   1   0/0
+Rasmus Sandin D
+24:45   0  2    2   1   2   0   0   0   0/0
+Trevor van Riemsdyk D
+23:00   0  1    1   2   1   2   1   2   0/0
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       46  11  11   3  10 34/55
+                                        61.8%
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLogan Thompson G  60:00   3  16/19  14/16   1/2   1/1     0
+              .842   .875  .500 1.000
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Logan Thompson G
+60:00   3  16/19  14/16   1/2   1/1     0
+              .842   .875  .500 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

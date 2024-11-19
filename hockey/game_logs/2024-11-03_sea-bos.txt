@@ -1,0 +1,367 @@
+< Nov. 3 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Seattle
+Kraken5-7-1Final0 - 2Boston
+Bruins6-6-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SEA   0  0  0    0  
+BOS   2  0  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:37 
+Justin Brazeau (BOS) scores on tip-in past Joey Daccord, assisted by Nikita Zadorov and Charlie McAvoy
+   0-1
+P1  11:40 
+Brandon Montour (SEA) cross-checking against David Pastrnak (2 minutes)
+   0-1
+P1  10:03 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Joey Daccord, assisted by Brad Marchand and Elias Lindholm
+   0-2
+P1  08:42 
+Jordan Eberle (SEA) hooking against Justin Brazeau (2 minutes)
+   0-2
+P1  05:08 
+Ryker Evans (SEA) holding against Cole Koepke (2 minutes)
+   0-2
+P1  01:47 
+Andrew Peeke (BOS) tripping against Matty Beniers (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  08:11 
+Adam Larsson (SEA) interference against Parker Wotherspoon (2 minutes)
+   0-2
+P2  04:32 
+Mark Kastelic (BOS) high-sticking against Brandon Montour (2 minutes)
+   0-2
+P2  01:46 
+Oliver Bjorkstrand (SEA) high-sticking against Matthew Poitras (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  16:54 
+Trent Frederic (BOS) unsportsmanlike conduct against Adam Larsson (2 minutes), served by Morgan Geekie
+   0-2
+P3  16:54 
+Adam Larsson (SEA) fighting against Trent Frederic (5 minutes)
+   0-2
+P3  16:54 
+Trent Frederic (BOS) fighting against Adam Larsson (5 minutes)
+   0-2
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  15:57   0  0    0   1   1   0   0   1  9/18Oliver Bjorkstrand R  14:54   0  0    0   2   0   2   0   1   0/0Andre Burakovsky L  15:11   0  0    0   1   1   0   1   1   0/0Jordan Eberle R  15:22   0  0    0   0   0   2   1   0   0/1Yanni Gourde C  18:05   0  0    0   4   2   0   1   1   1/6Tye Kartye L  07:35   0  0   -1   2   0   0   0   0   0/0Jared McCann L  18:28   0  0    0   1   0   0   0   2   0/1Jaden Schwartz C  17:44   0  0    0   1   1   0   0   0   0/2Chandler Stephenson C  21:20   0  0    0   0   2   0   0   3 10/22Brandon Tanev L  12:16   0  0   -1   1   1   0   0   1   0/0Eeli Tolvanen R  14:55   0  0    0   1   0   0   0   0   0/1Shane Wright C  11:55   0  0   -1   0   0   0   0   1   2/9Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  13:56   0  0    0   1   2   0   0   1   0/0Ryker Evans D  25:29   0  0    0   1   1   2   0   1   0/0Adam Larsson D  17:09   0  0    0   1   2   7   0   0   0/0Joshua Mahura D  08:37   0  0    0   1   0   0   0   0   0/0Brandon Montour D  24:30   0  0   -1   5   1   2   1   4   0/0Jamie Oleksiak D  20:29   0  0   -1   0   3   0   0   2   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       23  17  15   4  19 22/60
+                                        36.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  56:31   2  31/33  23/24   8/9   0/0     0
+              .939   .958  .889 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:22   0  0    0   0   2   0   0   0   7/7Justin Brazeau R  14:20   1  0    1   2   1   0   0   0   0/1Charlie Coyle C  20:59   1  0    1   4   2   0   0   0 12/14Trent Frederic C  13:17   0  0    0   1   1   7   0   1   1/1Morgan Geekie C  13:53   0  0    0   2   1   0   0   0   1/1Mark Kastelic C  11:57   0  0    0   0   0   2   0   0   3/5Cole Koepke L  10:44   0  0    0   2   1   0   0   1   0/0Elias Lindholm C  21:12   0  1    0   1   4   0   0   0  9/21Brad Marchand L  22:17   0  1    0   1   1   0   0   1   0/0David Pastrnak R  14:21   0  0    0   7   1   0   1   2   0/0Matthew Poitras C  11:02   0  0    0   1   0   0   0   1   2/3Pavel Zacha C  17:46   0  0    1   3   2   0   0   1   3/7Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:35   0  0    0   0   3   0   1   0   0/0Hampus Lindholm D  22:31   0  0    0   1   3   0   1   2   0/0Charlie McAvoy D  23:58   0  1    1   7   3   0   2   2   0/0Andrew Peeke D  13:23   0  0    0   0   3   2   0   1   0/0Parker Wotherspoon D  13:15   0  0    0   0   0   0   0   1   0/0Nikita Zadorov D  17:31   0  1    1   1   0   0   0   3   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       33  28  11   5  16 38/60
+                                        63.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:37   0  23/23  18/18   2/2   3/3     0
+             1.000  1.000 1.000 1.000
+Seattle
+Kraken5-7-1Final0 - 2Boston
+Bruins6-6-1
+Seattle
+Kraken5-7-1
+Final0 - 2
+Boston
+Bruins6-6-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SEA   0  0  0    0  
+BOS   2  0  0    2
+1st Period: ShowHide
+P1  16:37 
+Justin Brazeau (BOS) scores on tip-in past Joey Daccord, assisted by Nikita Zadorov and Charlie McAvoy
+   0-1
+P1  11:40 
+Brandon Montour (SEA) cross-checking against David Pastrnak (2 minutes)
+   0-1
+P1  10:03 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Joey Daccord, assisted by Brad Marchand and Elias Lindholm
+   0-2
+P1  08:42 
+Jordan Eberle (SEA) hooking against Justin Brazeau (2 minutes)
+   0-2
+P1  05:08 
+Ryker Evans (SEA) holding against Cole Koepke (2 minutes)
+   0-2
+P1  01:47 
+Andrew Peeke (BOS) tripping against Matty Beniers (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  08:11 
+Adam Larsson (SEA) interference against Parker Wotherspoon (2 minutes)
+   0-2
+P2  04:32 
+Mark Kastelic (BOS) high-sticking against Brandon Montour (2 minutes)
+   0-2
+P2  01:46 
+Oliver Bjorkstrand (SEA) high-sticking against Matthew Poitras (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  16:54 
+Trent Frederic (BOS) unsportsmanlike conduct against Adam Larsson (2 minutes), served by Morgan Geekie
+   0-2
+P3  16:54 
+Adam Larsson (SEA) fighting against Trent Frederic (5 minutes)
+   0-2
+P3  16:54 
+Trent Frederic (BOS) fighting against Adam Larsson (5 minutes)
+   0-2
+1st Period: ShowHide
+P1  16:37 
+Justin Brazeau (BOS) scores on tip-in past Joey Daccord, assisted by Nikita Zadorov and Charlie McAvoy
+   0-1
+P1  11:40 
+Brandon Montour (SEA) cross-checking against David Pastrnak (2 minutes)
+   0-1
+P1  10:03 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Joey Daccord, assisted by Brad Marchand and Elias Lindholm
+   0-2
+P1  08:42 
+Jordan Eberle (SEA) hooking against Justin Brazeau (2 minutes)
+   0-2
+P1  05:08 
+Ryker Evans (SEA) holding against Cole Koepke (2 minutes)
+   0-2
+P1  01:47 
+Andrew Peeke (BOS) tripping against Matty Beniers (2 minutes)
+   0-2
+P1  16:37 
+Justin Brazeau (BOS) scores on tip-in past Joey Daccord, assisted by Nikita Zadorov and Charlie McAvoy
+   0-1
+P1  11:40 
+Brandon Montour (SEA) cross-checking against David Pastrnak (2 minutes)
+   0-1
+P1  10:03 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Joey Daccord, assisted by Brad Marchand and Elias Lindholm
+   0-2
+P1  08:42 
+Jordan Eberle (SEA) hooking against Justin Brazeau (2 minutes)
+   0-2
+P1  05:08 
+Ryker Evans (SEA) holding against Cole Koepke (2 minutes)
+   0-2
+P1  01:47 
+Andrew Peeke (BOS) tripping against Matty Beniers (2 minutes)
+   0-2
+P1  16:37
+Justin Brazeau (BOS) scores on tip-in past Joey Daccord, assisted by Nikita Zadorov and Charlie McAvoy
+0-1
+P1  11:40
+Brandon Montour (SEA) cross-checking against David Pastrnak (2 minutes)
+0-1
+P1  10:03
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Joey Daccord, assisted by Brad Marchand and Elias Lindholm
+0-2
+P1  08:42
+Jordan Eberle (SEA) hooking against Justin Brazeau (2 minutes)
+0-2
+P1  05:08
+Ryker Evans (SEA) holding against Cole Koepke (2 minutes)
+0-2
+P1  01:47
+Andrew Peeke (BOS) tripping against Matty Beniers (2 minutes)
+0-2
+2nd Period: ShowHide
+P2  08:11 
+Adam Larsson (SEA) interference against Parker Wotherspoon (2 minutes)
+   0-2
+P2  04:32 
+Mark Kastelic (BOS) high-sticking against Brandon Montour (2 minutes)
+   0-2
+P2  01:46 
+Oliver Bjorkstrand (SEA) high-sticking against Matthew Poitras (2 minutes)
+   0-2
+P2  08:11 
+Adam Larsson (SEA) interference against Parker Wotherspoon (2 minutes)
+   0-2
+P2  04:32 
+Mark Kastelic (BOS) high-sticking against Brandon Montour (2 minutes)
+   0-2
+P2  01:46 
+Oliver Bjorkstrand (SEA) high-sticking against Matthew Poitras (2 minutes)
+   0-2
+P2  08:11
+Adam Larsson (SEA) interference against Parker Wotherspoon (2 minutes)
+0-2
+P2  04:32
+Mark Kastelic (BOS) high-sticking against Brandon Montour (2 minutes)
+0-2
+P2  01:46
+Oliver Bjorkstrand (SEA) high-sticking against Matthew Poitras (2 minutes)
+0-2
+3rd Period: ShowHide
+P3  16:54 
+Trent Frederic (BOS) unsportsmanlike conduct against Adam Larsson (2 minutes), served by Morgan Geekie
+   0-2
+P3  16:54 
+Adam Larsson (SEA) fighting against Trent Frederic (5 minutes)
+   0-2
+P3  16:54 
+Trent Frederic (BOS) fighting against Adam Larsson (5 minutes)
+   0-2
+P3  16:54 
+Trent Frederic (BOS) unsportsmanlike conduct against Adam Larsson (2 minutes), served by Morgan Geekie
+   0-2
+P3  16:54 
+Adam Larsson (SEA) fighting against Trent Frederic (5 minutes)
+   0-2
+P3  16:54 
+Trent Frederic (BOS) fighting against Adam Larsson (5 minutes)
+   0-2
+P3  16:54
+Trent Frederic (BOS) unsportsmanlike conduct against Adam Larsson (2 minutes), served by Morgan Geekie
+0-2
+P3  16:54
+Adam Larsson (SEA) fighting against Trent Frederic (5 minutes)
+0-2
+P3  16:54
+Trent Frederic (BOS) fighting against Adam Larsson (5 minutes)
+0-2
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  15:57   0  0    0   1   1   0   0   1  9/18Oliver Bjorkstrand R  14:54   0  0    0   2   0   2   0   1   0/0Andre Burakovsky L  15:11   0  0    0   1   1   0   1   1   0/0Jordan Eberle R  15:22   0  0    0   0   0   2   1   0   0/1Yanni Gourde C  18:05   0  0    0   4   2   0   1   1   1/6Tye Kartye L  07:35   0  0   -1   2   0   0   0   0   0/0Jared McCann L  18:28   0  0    0   1   0   0   0   2   0/1Jaden Schwartz C  17:44   0  0    0   1   1   0   0   0   0/2Chandler Stephenson C  21:20   0  0    0   0   2   0   0   3 10/22Brandon Tanev L  12:16   0  0   -1   1   1   0   0   1   0/0Eeli Tolvanen R  14:55   0  0    0   1   0   0   0   0   0/1Shane Wright C  11:55   0  0   -1   0   0   0   0   1   2/9Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  13:56   0  0    0   1   2   0   0   1   0/0Ryker Evans D  25:29   0  0    0   1   1   2   0   1   0/0Adam Larsson D  17:09   0  0    0   1   2   7   0   0   0/0Joshua Mahura D  08:37   0  0    0   1   0   0   0   0   0/0Brandon Montour D  24:30   0  0   -1   5   1   2   1   4   0/0Jamie Oleksiak D  20:29   0  0   -1   0   3   0   0   2   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       23  17  15   4  19 22/60
+                                        36.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  56:31   2  31/33  23/24   8/9   0/0     0
+              .939   .958  .889 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:22   0  0    0   0   2   0   0   0   7/7Justin Brazeau R  14:20   1  0    1   2   1   0   0   0   0/1Charlie Coyle C  20:59   1  0    1   4   2   0   0   0 12/14Trent Frederic C  13:17   0  0    0   1   1   7   0   1   1/1Morgan Geekie C  13:53   0  0    0   2   1   0   0   0   1/1Mark Kastelic C  11:57   0  0    0   0   0   2   0   0   3/5Cole Koepke L  10:44   0  0    0   2   1   0   0   1   0/0Elias Lindholm C  21:12   0  1    0   1   4   0   0   0  9/21Brad Marchand L  22:17   0  1    0   1   1   0   0   1   0/0David Pastrnak R  14:21   0  0    0   7   1   0   1   2   0/0Matthew Poitras C  11:02   0  0    0   1   0   0   0   1   2/3Pavel Zacha C  17:46   0  0    1   3   2   0   0   1   3/7Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:35   0  0    0   0   3   0   1   0   0/0Hampus Lindholm D  22:31   0  0    0   1   3   0   1   2   0/0Charlie McAvoy D  23:58   0  1    1   7   3   0   2   2   0/0Andrew Peeke D  13:23   0  0    0   0   3   2   0   1   0/0Parker Wotherspoon D  13:15   0  0    0   0   0   0   0   1   0/0Nikita Zadorov D  17:31   0  1    1   1   0   0   0   3   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       33  28  11   5  16 38/60
+                                        63.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:37   0  23/23  18/18   2/2   3/3     0
+             1.000  1.000 1.000 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  15:57   0  0    0   1   1   0   0   1  9/18Oliver Bjorkstrand R  14:54   0  0    0   2   0   2   0   1   0/0Andre Burakovsky L  15:11   0  0    0   1   1   0   1   1   0/0Jordan Eberle R  15:22   0  0    0   0   0   2   1   0   0/1Yanni Gourde C  18:05   0  0    0   4   2   0   1   1   1/6Tye Kartye L  07:35   0  0   -1   2   0   0   0   0   0/0Jared McCann L  18:28   0  0    0   1   0   0   0   2   0/1Jaden Schwartz C  17:44   0  0    0   1   1   0   0   0   0/2Chandler Stephenson C  21:20   0  0    0   0   2   0   0   3 10/22Brandon Tanev L  12:16   0  0   -1   1   1   0   0   1   0/0Eeli Tolvanen R  14:55   0  0    0   1   0   0   0   0   0/1Shane Wright C  11:55   0  0   -1   0   0   0   0   1   2/9
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+15:57   0  0    0   1   1   0   0   1  9/18
+Oliver Bjorkstrand R
+14:54   0  0    0   2   0   2   0   1   0/0
+Andre Burakovsky L
+15:11   0  0    0   1   1   0   1   1   0/0
+Jordan Eberle R
+15:22   0  0    0   0   0   2   1   0   0/1
+Yanni Gourde C
+18:05   0  0    0   4   2   0   1   1   1/6
+Tye Kartye L
+07:35   0  0   -1   2   0   0   0   0   0/0
+Jared McCann L
+18:28   0  0    0   1   0   0   0   2   0/1
+Jaden Schwartz C
+17:44   0  0    0   1   1   0   0   0   0/2
+Chandler Stephenson C
+21:20   0  0    0   0   2   0   0   3 10/22
+Brandon Tanev L
+12:16   0  0   -1   1   1   0   0   1   0/0
+Eeli Tolvanen R
+14:55   0  0    0   1   0   0   0   0   0/1
+Shane Wright C
+11:55   0  0   -1   0   0   0   0   1   2/9
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  13:56   0  0    0   1   2   0   0   1   0/0Ryker Evans D  25:29   0  0    0   1   1   2   0   1   0/0Adam Larsson D  17:09   0  0    0   1   2   7   0   0   0/0Joshua Mahura D  08:37   0  0    0   1   0   0   0   0   0/0Brandon Montour D  24:30   0  0   -1   5   1   2   1   4   0/0Jamie Oleksiak D  20:29   0  0   -1   0   3   0   0   2   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+13:56   0  0    0   1   2   0   0   1   0/0
+Ryker Evans D
+25:29   0  0    0   1   1   2   0   1   0/0
+Adam Larsson D
+17:09   0  0    0   1   2   7   0   0   0/0
+Joshua Mahura D
+08:37   0  0    0   1   0   0   0   0   0/0
+Brandon Montour D
+24:30   0  0   -1   5   1   2   1   4   0/0
+Jamie Oleksiak D
+20:29   0  0   -1   0   3   0   0   2   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       23  17  15   4  19 22/60
+                                        36.7%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  56:31   2  31/33  23/24   8/9   0/0     0
+              .939   .958  .889
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joey Daccord G
+56:31   2  31/33  23/24   8/9   0/0     0
+              .939   .958  .889
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:22   0  0    0   0   2   0   0   0   7/7Justin Brazeau R  14:20   1  0    1   2   1   0   0   0   0/1Charlie Coyle C  20:59   1  0    1   4   2   0   0   0 12/14Trent Frederic C  13:17   0  0    0   1   1   7   0   1   1/1Morgan Geekie C  13:53   0  0    0   2   1   0   0   0   1/1Mark Kastelic C  11:57   0  0    0   0   0   2   0   0   3/5Cole Koepke L  10:44   0  0    0   2   1   0   0   1   0/0Elias Lindholm C  21:12   0  1    0   1   4   0   0   0  9/21Brad Marchand L  22:17   0  1    0   1   1   0   0   1   0/0David Pastrnak R  14:21   0  0    0   7   1   0   1   2   0/0Matthew Poitras C  11:02   0  0    0   1   0   0   0   1   2/3Pavel Zacha C  17:46   0  0    1   3   2   0   0   1   3/7
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+11:22   0  0    0   0   2   0   0   0   7/7
+Justin Brazeau R
+14:20   1  0    1   2   1   0   0   0   0/1
+Charlie Coyle C
+20:59   1  0    1   4   2   0   0   0 12/14
+Trent Frederic C
+13:17   0  0    0   1   1   7   0   1   1/1
+Morgan Geekie C
+13:53   0  0    0   2   1   0   0   0   1/1
+Mark Kastelic C
+11:57   0  0    0   0   0   2   0   0   3/5
+Cole Koepke L
+10:44   0  0    0   2   1   0   0   1   0/0
+Elias Lindholm C
+21:12   0  1    0   1   4   0   0   0  9/21
+Brad Marchand L
+22:17   0  1    0   1   1   0   0   1   0/0
+David Pastrnak R
+14:21   0  0    0   7   1   0   1   2   0/0
+Matthew Poitras C
+11:02   0  0    0   1   0   0   0   1   2/3
+Pavel Zacha C
+17:46   0  0    1   3   2   0   0   1   3/7
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:35   0  0    0   0   3   0   1   0   0/0Hampus Lindholm D  22:31   0  0    0   1   3   0   1   2   0/0Charlie McAvoy D  23:58   0  1    1   7   3   0   2   2   0/0Andrew Peeke D  13:23   0  0    0   0   3   2   0   1   0/0Parker Wotherspoon D  13:15   0  0    0   0   0   0   0   1   0/0Nikita Zadorov D  17:31   0  1    1   1   0   0   0   3   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+20:35   0  0    0   0   3   0   1   0   0/0
+Hampus Lindholm D
+22:31   0  0    0   1   3   0   1   2   0/0
+Charlie McAvoy D
+23:58   0  1    1   7   3   0   2   2   0/0
+Andrew Peeke D
+13:23   0  0    0   0   3   2   0   1   0/0
+Parker Wotherspoon D
+13:15   0  0    0   0   0   0   0   1   0/0
+Nikita Zadorov D
+17:31   0  1    1   1   0   0   0   3   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       33  28  11   5  16 38/60
+                                        63.3%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:37   0  23/23  18/18   2/2   3/3     0
+             1.000  1.000 1.000 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+59:37   0  23/23  18/18   2/2   3/3     0
+             1.000  1.000 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

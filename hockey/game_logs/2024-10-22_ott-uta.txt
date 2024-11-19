@@ -1,0 +1,367 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Ottawa
+Senators4-2-0Final4 - 0Utah
+Hockey Club4-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+OTT   4  0  0    4  
+UTA   0  0  0    0
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:38 
+Noah Gregor (OTT) roughing against Jack McBain (2 minutes)
+   0-0
+P1  08:38 
+Jack McBain (UTA) roughing against Noah Gregor (2 minutes)
+   0-0
+P1  08:17 
+Drake Batherson (OTT) scores on slap shot past Connor Ingram, assisted by Josh Norris and Nick Jensen
+   1-0
+P1  06:54 
+Claude Giroux (OTT) scores on snap shot past Connor Ingram, assisted by Nick Jensen
+   2-0
+P1  02:10 
+Robert Bortuzzo (UTA) holding against Tim Stützle (2 minutes)
+   2-0
+P1  01:55 
+Ridly Greig (OTT) scores power-play goal on snap shot past Connor Ingram
+   3-0
+P1  00:08 
+Brady Tkachuk (OTT) scores on snap shot past Connor Ingram, assisted by Thomas Chabot and Tim Stützle
+   4-0
+2nd Period: ShowHide
+P2  10:33 
+Ridly Greig (OTT) interference against Alexander Kerfoot (2 minutes)
+   4-0
+P2  05:27 
+Shane Pinto (OTT) cross-checking against Jack McBain (2 minutes)
+   4-0
+P2  05:27 
+Dylan Guenther (UTA) cross-checking against Shane Pinto (2 minutes)
+   4-0
+3rd Period: ShowHide
+P3  13:18 
+Thomas Chabot (OTT) cross-checking against Kailer Yamamoto (2 minutes)
+   4-0
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:01   0  0    0   2   0   0   0   1   2/5Drake Batherson R  15:04   1  0    1   2   0   0   1   0   1/1Nick Cousins C  10:46   0  0    0   4   1   0   0   1   0/0Adam Gaudette R  10:02   0  0    0   0   0   0   0   1   2/6Claude Giroux R  16:54   1  0    1   2   0   0   0   2  6/11Noah Gregor L  15:32   0  0    0   1   0   2   0   1   0/0Ridly Greig C  14:52   1  0    0   2   0   2   0   0   1/3Zack MacEwen R  09:05   0  0    0   1   0   0   0   0   1/2Josh Norris C  15:27   0  1    1   1   2   0   0   0   3/9Shane Pinto C  17:22   0  0    2   0   1   2   1   0  4/13Tim Stützle C  16:55   0  1    1   1   0   0   1   2   0/2Brady Tkachuk L  15:11   1  0    1   2   1   0   1   1   4/7Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  15:36   0  0    0   0   1   0   0   1   0/0Thomas Chabot D  22:07   0  1    3   2   1   2   1   1   0/0Travis Hamonic D  22:01   0  0    0   1   3   0   0   2   0/0Nick Jensen D  20:28   0  2    3   0   1   0   0   1   0/0Tyler Kleven D  15:53   0  0    0   1   3   0   2   0   0/0Jake Sanderson D  23:44   0  0    0   1   2   0   2   1   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       23  16   8   9  15 24/59
+                                        40.7%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  60:00   0  31/31  27/27   4/4   0/0     0
+             1.000  1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  14:03   0  0   -1   0   0   0   0   0   3/7Lawson Crouse L  17:02   0  0    0   3   1   0   0   0   0/0Josh Doan R  16:36   0  0    0   3   1   0   0   0   1/1Dylan Guenther R  13:56   0  0   -1   4   0   2   0   0   0/0Barrett Hayton C  15:39   0  0    0   3   0   0   0   1  9/14Clayton Keller R  19:07   0  0   -2   3   2   0   0   1   0/0Alexander Kerfoot C  16:22   0  0    0   0   2   0   0   1 12/17Matias Maccelli L  13:15   0  0    0   4   0   0   0   0   1/2Jack McBain C  12:29   0  0    0   1   0   2   0   0   1/2Nick Schmaltz C  19:04   0  0   -2   1   0   0   0   1   2/4Kevin Stenlund C  11:38   0  0   -1   2   0   0   0   0  6/12Kailer Yamamoto R  10:16   0  0    0   1   0   0   0   0   0/0Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  15:05   0  0    0   0   3   2   0   2   0/0Ian Cole D  19:48   0  0   -2   0   1   0   0   1   0/0Michael Kesselring D  20:36   0  0   -1   1   1   0   0   1   0/0Vladislav Kolyachonok D  18:30   0  0    0   0   0   0   0   0   0/0Mikhail Sergachev D  22:36   0  0   -1   3   3   0   0   5   0/0Juuso Valimaki D  19:45   0  0   -2   2   0   0   1   4   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       31  14   6   1  17 35/59
+                                        59.3%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  20:00   4    5/9    5/8   0/1   0/0     0
+              .556   .625  .000 Karel Vejmelka G  39:58   0  14/14  13/13   0/0   1/1     0
+             1.000  1.000  1.000 Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          4  19/23  18/21   0/1   1/1     0
+              .826   .857  .000 1.000
+Ottawa
+Senators4-2-0Final4 - 0Utah
+Hockey Club4-2-1
+Ottawa
+Senators4-2-0
+Final4 - 0
+Utah
+Hockey Club4-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+OTT   4  0  0    4  
+UTA   0  0  0    0
+1st Period: ShowHide
+P1  08:38 
+Noah Gregor (OTT) roughing against Jack McBain (2 minutes)
+   0-0
+P1  08:38 
+Jack McBain (UTA) roughing against Noah Gregor (2 minutes)
+   0-0
+P1  08:17 
+Drake Batherson (OTT) scores on slap shot past Connor Ingram, assisted by Josh Norris and Nick Jensen
+   1-0
+P1  06:54 
+Claude Giroux (OTT) scores on snap shot past Connor Ingram, assisted by Nick Jensen
+   2-0
+P1  02:10 
+Robert Bortuzzo (UTA) holding against Tim Stützle (2 minutes)
+   2-0
+P1  01:55 
+Ridly Greig (OTT) scores power-play goal on snap shot past Connor Ingram
+   3-0
+P1  00:08 
+Brady Tkachuk (OTT) scores on snap shot past Connor Ingram, assisted by Thomas Chabot and Tim Stützle
+   4-0
+2nd Period: ShowHide
+P2  10:33 
+Ridly Greig (OTT) interference against Alexander Kerfoot (2 minutes)
+   4-0
+P2  05:27 
+Shane Pinto (OTT) cross-checking against Jack McBain (2 minutes)
+   4-0
+P2  05:27 
+Dylan Guenther (UTA) cross-checking against Shane Pinto (2 minutes)
+   4-0
+3rd Period: ShowHide
+P3  13:18 
+Thomas Chabot (OTT) cross-checking against Kailer Yamamoto (2 minutes)
+   4-0
+1st Period: ShowHide
+P1  08:38 
+Noah Gregor (OTT) roughing against Jack McBain (2 minutes)
+   0-0
+P1  08:38 
+Jack McBain (UTA) roughing against Noah Gregor (2 minutes)
+   0-0
+P1  08:17 
+Drake Batherson (OTT) scores on slap shot past Connor Ingram, assisted by Josh Norris and Nick Jensen
+   1-0
+P1  06:54 
+Claude Giroux (OTT) scores on snap shot past Connor Ingram, assisted by Nick Jensen
+   2-0
+P1  02:10 
+Robert Bortuzzo (UTA) holding against Tim Stützle (2 minutes)
+   2-0
+P1  01:55 
+Ridly Greig (OTT) scores power-play goal on snap shot past Connor Ingram
+   3-0
+P1  00:08 
+Brady Tkachuk (OTT) scores on snap shot past Connor Ingram, assisted by Thomas Chabot and Tim Stützle
+   4-0
+P1  08:38 
+Noah Gregor (OTT) roughing against Jack McBain (2 minutes)
+   0-0
+P1  08:38 
+Jack McBain (UTA) roughing against Noah Gregor (2 minutes)
+   0-0
+P1  08:17 
+Drake Batherson (OTT) scores on slap shot past Connor Ingram, assisted by Josh Norris and Nick Jensen
+   1-0
+P1  06:54 
+Claude Giroux (OTT) scores on snap shot past Connor Ingram, assisted by Nick Jensen
+   2-0
+P1  02:10 
+Robert Bortuzzo (UTA) holding against Tim Stützle (2 minutes)
+   2-0
+P1  01:55 
+Ridly Greig (OTT) scores power-play goal on snap shot past Connor Ingram
+   3-0
+P1  00:08 
+Brady Tkachuk (OTT) scores on snap shot past Connor Ingram, assisted by Thomas Chabot and Tim Stützle
+   4-0
+P1  08:38
+Noah Gregor (OTT) roughing against Jack McBain (2 minutes)
+0-0
+P1  08:38
+Jack McBain (UTA) roughing against Noah Gregor (2 minutes)
+0-0
+P1  08:17
+Drake Batherson (OTT) scores on slap shot past Connor Ingram, assisted by Josh Norris and Nick Jensen
+1-0
+P1  06:54
+Claude Giroux (OTT) scores on snap shot past Connor Ingram, assisted by Nick Jensen
+2-0
+P1  02:10
+Robert Bortuzzo (UTA) holding against Tim Stützle (2 minutes)
+2-0
+P1  01:55
+Ridly Greig (OTT) scores power-play goal on snap shot past Connor Ingram
+3-0
+P1  00:08
+Brady Tkachuk (OTT) scores on snap shot past Connor Ingram, assisted by Thomas Chabot and Tim Stützle
+4-0
+2nd Period: ShowHide
+P2  10:33 
+Ridly Greig (OTT) interference against Alexander Kerfoot (2 minutes)
+   4-0
+P2  05:27 
+Shane Pinto (OTT) cross-checking against Jack McBain (2 minutes)
+   4-0
+P2  05:27 
+Dylan Guenther (UTA) cross-checking against Shane Pinto (2 minutes)
+   4-0
+P2  10:33 
+Ridly Greig (OTT) interference against Alexander Kerfoot (2 minutes)
+   4-0
+P2  05:27 
+Shane Pinto (OTT) cross-checking against Jack McBain (2 minutes)
+   4-0
+P2  05:27 
+Dylan Guenther (UTA) cross-checking against Shane Pinto (2 minutes)
+   4-0
+P2  10:33
+Ridly Greig (OTT) interference against Alexander Kerfoot (2 minutes)
+4-0
+P2  05:27
+Shane Pinto (OTT) cross-checking against Jack McBain (2 minutes)
+4-0
+P2  05:27
+Dylan Guenther (UTA) cross-checking against Shane Pinto (2 minutes)
+4-0
+3rd Period: ShowHide
+P3  13:18 
+Thomas Chabot (OTT) cross-checking against Kailer Yamamoto (2 minutes)
+   4-0
+P3  13:18 
+Thomas Chabot (OTT) cross-checking against Kailer Yamamoto (2 minutes)
+   4-0
+P3  13:18
+Thomas Chabot (OTT) cross-checking against Kailer Yamamoto (2 minutes)
+4-0
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:01   0  0    0   2   0   0   0   1   2/5Drake Batherson R  15:04   1  0    1   2   0   0   1   0   1/1Nick Cousins C  10:46   0  0    0   4   1   0   0   1   0/0Adam Gaudette R  10:02   0  0    0   0   0   0   0   1   2/6Claude Giroux R  16:54   1  0    1   2   0   0   0   2  6/11Noah Gregor L  15:32   0  0    0   1   0   2   0   1   0/0Ridly Greig C  14:52   1  0    0   2   0   2   0   0   1/3Zack MacEwen R  09:05   0  0    0   1   0   0   0   0   1/2Josh Norris C  15:27   0  1    1   1   2   0   0   0   3/9Shane Pinto C  17:22   0  0    2   0   1   2   1   0  4/13Tim Stützle C  16:55   0  1    1   1   0   0   1   2   0/2Brady Tkachuk L  15:11   1  0    1   2   1   0   1   1   4/7Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  15:36   0  0    0   0   1   0   0   1   0/0Thomas Chabot D  22:07   0  1    3   2   1   2   1   1   0/0Travis Hamonic D  22:01   0  0    0   1   3   0   0   2   0/0Nick Jensen D  20:28   0  2    3   0   1   0   0   1   0/0Tyler Kleven D  15:53   0  0    0   1   3   0   2   0   0/0Jake Sanderson D  23:44   0  0    0   1   2   0   2   1   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       23  16   8   9  15 24/59
+                                        40.7%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  60:00   0  31/31  27/27   4/4   0/0     0
+             1.000  1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  14:03   0  0   -1   0   0   0   0   0   3/7Lawson Crouse L  17:02   0  0    0   3   1   0   0   0   0/0Josh Doan R  16:36   0  0    0   3   1   0   0   0   1/1Dylan Guenther R  13:56   0  0   -1   4   0   2   0   0   0/0Barrett Hayton C  15:39   0  0    0   3   0   0   0   1  9/14Clayton Keller R  19:07   0  0   -2   3   2   0   0   1   0/0Alexander Kerfoot C  16:22   0  0    0   0   2   0   0   1 12/17Matias Maccelli L  13:15   0  0    0   4   0   0   0   0   1/2Jack McBain C  12:29   0  0    0   1   0   2   0   0   1/2Nick Schmaltz C  19:04   0  0   -2   1   0   0   0   1   2/4Kevin Stenlund C  11:38   0  0   -1   2   0   0   0   0  6/12Kailer Yamamoto R  10:16   0  0    0   1   0   0   0   0   0/0Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  15:05   0  0    0   0   3   2   0   2   0/0Ian Cole D  19:48   0  0   -2   0   1   0   0   1   0/0Michael Kesselring D  20:36   0  0   -1   1   1   0   0   1   0/0Vladislav Kolyachonok D  18:30   0  0    0   0   0   0   0   0   0/0Mikhail Sergachev D  22:36   0  0   -1   3   3   0   0   5   0/0Juuso Valimaki D  19:45   0  0   -2   2   0   0   1   4   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       31  14   6   1  17 35/59
+                                        59.3%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  20:00   4    5/9    5/8   0/1   0/0     0
+              .556   .625  .000 Karel Vejmelka G  39:58   0  14/14  13/13   0/0   1/1     0
+             1.000  1.000  1.000 Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          4  19/23  18/21   0/1   1/1     0
+              .826   .857  .000 1.000
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:01   0  0    0   2   0   0   0   1   2/5Drake Batherson R  15:04   1  0    1   2   0   0   1   0   1/1Nick Cousins C  10:46   0  0    0   4   1   0   0   1   0/0Adam Gaudette R  10:02   0  0    0   0   0   0   0   1   2/6Claude Giroux R  16:54   1  0    1   2   0   0   0   2  6/11Noah Gregor L  15:32   0  0    0   1   0   2   0   1   0/0Ridly Greig C  14:52   1  0    0   2   0   2   0   0   1/3Zack MacEwen R  09:05   0  0    0   1   0   0   0   0   1/2Josh Norris C  15:27   0  1    1   1   2   0   0   0   3/9Shane Pinto C  17:22   0  0    2   0   1   2   1   0  4/13Tim Stützle C  16:55   0  1    1   1   0   0   1   2   0/2Brady Tkachuk L  15:11   1  0    1   2   1   0   1   1   4/7
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+15:01   0  0    0   2   0   0   0   1   2/5
+Drake Batherson R
+15:04   1  0    1   2   0   0   1   0   1/1
+Nick Cousins C
+10:46   0  0    0   4   1   0   0   1   0/0
+Adam Gaudette R
+10:02   0  0    0   0   0   0   0   1   2/6
+Claude Giroux R
+16:54   1  0    1   2   0   0   0   2  6/11
+Noah Gregor L
+15:32   0  0    0   1   0   2   0   1   0/0
+Ridly Greig C
+14:52   1  0    0   2   0   2   0   0   1/3
+Zack MacEwen R
+09:05   0  0    0   1   0   0   0   0   1/2
+Josh Norris C
+15:27   0  1    1   1   2   0   0   0   3/9
+Shane Pinto C
+17:22   0  0    2   0   1   2   1   0  4/13
+Tim Stützle C
+16:55   0  1    1   1   0   0   1   2   0/2
+Brady Tkachuk L
+15:11   1  0    1   2   1   0   1   1   4/7
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  15:36   0  0    0   0   1   0   0   1   0/0Thomas Chabot D  22:07   0  1    3   2   1   2   1   1   0/0Travis Hamonic D  22:01   0  0    0   1   3   0   0   2   0/0Nick Jensen D  20:28   0  2    3   0   1   0   0   1   0/0Tyler Kleven D  15:53   0  0    0   1   3   0   2   0   0/0Jake Sanderson D  23:44   0  0    0   1   2   0   2   1   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jacob Bernard-Docker D
+15:36   0  0    0   0   1   0   0   1   0/0
+Thomas Chabot D
+22:07   0  1    3   2   1   2   1   1   0/0
+Travis Hamonic D
+22:01   0  0    0   1   3   0   0   2   0/0
+Nick Jensen D
+20:28   0  2    3   0   1   0   0   1   0/0
+Tyler Kleven D
+15:53   0  0    0   1   3   0   2   0   0/0
+Jake Sanderson D
+23:44   0  0    0   1   2   0   2   1   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       23  16   8   9  15 24/59
+                                        40.7%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  60:00   0  31/31  27/27   4/4   0/0     0
+             1.000  1.000 1.000
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Anton Forsberg G
+60:00   0  31/31  27/27   4/4   0/0     0
+             1.000  1.000 1.000
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  14:03   0  0   -1   0   0   0   0   0   3/7Lawson Crouse L  17:02   0  0    0   3   1   0   0   0   0/0Josh Doan R  16:36   0  0    0   3   1   0   0   0   1/1Dylan Guenther R  13:56   0  0   -1   4   0   2   0   0   0/0Barrett Hayton C  15:39   0  0    0   3   0   0   0   1  9/14Clayton Keller R  19:07   0  0   -2   3   2   0   0   1   0/0Alexander Kerfoot C  16:22   0  0    0   0   2   0   0   1 12/17Matias Maccelli L  13:15   0  0    0   4   0   0   0   0   1/2Jack McBain C  12:29   0  0    0   1   0   2   0   0   1/2Nick Schmaltz C  19:04   0  0   -2   1   0   0   0   1   2/4Kevin Stenlund C  11:38   0  0   -1   2   0   0   0   0  6/12Kailer Yamamoto R  10:16   0  0    0   1   0   0   0   0   0/0
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Logan Cooley C
+14:03   0  0   -1   0   0   0   0   0   3/7
+Lawson Crouse L
+17:02   0  0    0   3   1   0   0   0   0/0
+Josh Doan R
+16:36   0  0    0   3   1   0   0   0   1/1
+Dylan Guenther R
+13:56   0  0   -1   4   0   2   0   0   0/0
+Barrett Hayton C
+15:39   0  0    0   3   0   0   0   1  9/14
+Clayton Keller R
+19:07   0  0   -2   3   2   0   0   1   0/0
+Alexander Kerfoot C
+16:22   0  0    0   0   2   0   0   1 12/17
+Matias Maccelli L
+13:15   0  0    0   4   0   0   0   0   1/2
+Jack McBain C
+12:29   0  0    0   1   0   2   0   0   1/2
+Nick Schmaltz C
+19:04   0  0   -2   1   0   0   0   1   2/4
+Kevin Stenlund C
+11:38   0  0   -1   2   0   0   0   0  6/12
+Kailer Yamamoto R
+10:16   0  0    0   1   0   0   0   0   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  15:05   0  0    0   0   3   2   0   2   0/0Ian Cole D  19:48   0  0   -2   0   1   0   0   1   0/0Michael Kesselring D  20:36   0  0   -1   1   1   0   0   1   0/0Vladislav Kolyachonok D  18:30   0  0    0   0   0   0   0   0   0/0Mikhail Sergachev D  22:36   0  0   -1   3   3   0   0   5   0/0Juuso Valimaki D  19:45   0  0   -2   2   0   0   1   4   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Robert Bortuzzo D
+15:05   0  0    0   0   3   2   0   2   0/0
+Ian Cole D
+19:48   0  0   -2   0   1   0   0   1   0/0
+Michael Kesselring D
+20:36   0  0   -1   1   1   0   0   1   0/0
+Vladislav Kolyachonok D
+18:30   0  0    0   0   0   0   0   0   0/0
+Mikhail Sergachev D
+22:36   0  0   -1   3   3   0   0   5   0/0
+Juuso Valimaki D
+19:45   0  0   -2   2   0   0   1   4   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       31  14   6   1  17 35/59
+                                        59.3%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  20:00   4    5/9    5/8   0/1   0/0     0
+              .556   .625  .000 Karel Vejmelka G  39:58   0  14/14  13/13   0/0   1/1     0
+             1.000  1.000  1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+20:00   4    5/9    5/8   0/1   0/0     0
+              .556   .625  .000
+Karel Vejmelka G
+39:58   0  14/14  13/13   0/0   1/1     0
+             1.000  1.000  1.000
+Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          4  19/23  18/21   0/1   1/1     0
+              .826   .857  .000 1.000
+Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

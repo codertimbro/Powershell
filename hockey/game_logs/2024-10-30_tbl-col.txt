@@ -1,0 +1,487 @@
+< Oct. 30 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Tampa Bay
+Lightning7-3-0Final5 - 2Colorado
+Avalanche5-6-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+TBL   3  1  1    5  
+COL   1  0  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:59 
+Nikita Kucherov (TBL) scores on slap shot past Kaapo Kahkonen, assisted by Brayden Point and Victor Hedman
+   1-0
+P1  16:24 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Nikita Kucherov and Ryan McDonagh
+   2-0
+P1  14:28 
+Conor Geekie (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Anthony Cirelli and Brandon Hagel
+   3-0
+P1  07:41 
+Mikko Rantanen (COL) tripping against J.J. Moser (2 minutes)
+   3-0
+P1  05:50 
+Andrei Vasilevskiy (TBL) tripping against Cale Makar (2 minutes), served by Nikita Kucherov
+   3-0
+P1  05:04 
+Ivan Ivan (COL) scores power-play goal on tip-in past Andrei Vasilevskiy, assisted by Cale Makar and Nathan MacKinnon
+   3-1
+2nd Period: ShowHide
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes), served by Michael Eyssimont
+   3-1
+P2  16:27 
+Matt Stienburg (COL) roughing against Zemgus Girgensons (2 minutes)
+   3-1
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes)
+   3-1
+P2  13:32 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Brayden Point and Nikita Kucherov
+   4-1
+P2  09:02 
+Cam Atkinson (TBL) interference against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  06:16 
+Erik Cernak (TBL) tripping against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  02:42 
+Anthony Cirelli (TBL) roughing against Matt Stienburg (2 minutes)
+   4-1
+P2  02:42 
+Matt Stienburg (COL) charging against Erik Cernak (5 minutes), served by Oliver Kylington
+   4-1
+P2  02:42 
+Matt Stienburg (COL) game misconduct (10 minutes)
+   4-1
+3rd Period: ShowHide
+P3  10:38 
+Chris Wagner (COL) fighting against Michael Eyssimont (5 minutes)
+   4-1
+P3  10:38 
+Michael Eyssimont (TBL) fighting against Chris Wagner (5 minutes)
+   4-1
+P3  09:03 
+Cale Makar (COL) scores on wrist shot past Andrei Vasilevskiy, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+P3  08:10 
+COL penalty, too many men on the ice (2 minutes), served by T.J. Tynan
+   4-2
+P3  01:20 
+Anthony Cirelli (TBL) scores on empty net, assisted by Brandon Hagel
+   5-2
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  10:53   0  0    0   0   0   2   0   0   0/0Mitchell Chaffee R  15:26   0  0    0   0   0   0   0   0   0/0Anthony Cirelli C  19:15   1  1    1   2   0   2   0   2   5/9Michael Eyssimont C  11:24   0  0    0   1   1   5   0   1   0/0Conor Geekie C  10:54   1  0    1   2   0   0   0   2   0/0Zemgus Girgensons C  07:57   0  0    0   0   0   0   1   2   1/1Luke Glendening C  09:28   0  0    0   0   1   0   0   0   4/6Jake Guentzel C  18:34   2  0    3   3   3   0   0   1   3/6Brandon Hagel L  21:25   0  2    1   3   0   0   0   1   1/2Nikita Kucherov R  16:36   1  2    2   2   1   0   0   2   0/0Nick Paul L  17:34   0  0    1   1   0   0   0   0  4/11Brayden Point C  18:10   0  2    3   0   0   0   0   0 10/12Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  12:06   0  0    1   2   1   2   0   0   0/0Victor Hedman D  25:22   0  1    2   2   3   0   1   1   0/0Emil Lilleberg D  13:05   0  0   -1   0   0   4   0   1   0/0Ryan McDonagh D  19:28   0  1    2   1   2   0   0   2   0/0J.J. Moser D  24:52   0  0    3   2   3   0   0   0   0/0Darren Raddysh D  18:45   0  0    1   0   3   0   0   3   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       21  18  15   2  18 28/47
+                                        59.6%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   2  33/35  26/27   6/7   1/1     2
+              .943   .963  .857 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Ivan C  18:11   1  0   -2   6   0   0   0   0   0/0Parker Kelly C  15:00   0  0   -3   2   1   0   0   0  4/11Joel Kiviranta L  15:22   0  0    1   3   2   0   0   1   0/0Nikolai Kovalenko R  12:06   0  0   -2   0   0   0   1   0   0/2Nathan MacKinnon C  24:58   0  2    0   2   3   0   0   2  5/15Casey Mittelstadt C  21:39   0  0   -1   3   1   0   0   1   3/8Logan O'Connor R  17:34   0  0    0   0   1   0   0   1   1/1Mikko Rantanen R  24:37   0  1    0   2   0   2   0   0   1/1Matt Stienburg C  04:06   0  0   -1   1   1  17   0   0   0/0T.J. Tynan C  08:36   0  0   -1   1   0   0   0   0   1/3Chris Wagner R  11:39   0  0   -2   2   2   5   0   0   4/6Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:58   0  0    0   0   1   0   0   0   0/0Oliver Kylington D  05:31   0  0   -2   0   0   0   0   0   0/0Cale Makar D  25:30   1  1    0   6   0   0   0   0   0/0Sam Malinski D  13:47   0  0   -2   1   1   0   0   1   0/0Josh Manson D  15:44   0  0   -2   1   2   0   0   1   0/0Devon Toews D  23:36   0  0   -2   3   0   0   0   1   0/0Calvin de Haan D  14:50   0  0   -2   2   0   0   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       35  15  24   1   9 19/47
+                                        40.4%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKaapo Kahkonen G  58:16   4  16/20  13/17   2/2   1/1     0
+              .800   .765 1.000 1.000
+Tampa Bay
+Lightning7-3-0Final5 - 2Colorado
+Avalanche5-6-0
+Tampa Bay
+Lightning7-3-0
+Final5 - 2
+Colorado
+Avalanche5-6-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+TBL   3  1  1    5  
+COL   1  0  1    2
+1st Period: ShowHide
+P1  18:59 
+Nikita Kucherov (TBL) scores on slap shot past Kaapo Kahkonen, assisted by Brayden Point and Victor Hedman
+   1-0
+P1  16:24 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Nikita Kucherov and Ryan McDonagh
+   2-0
+P1  14:28 
+Conor Geekie (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Anthony Cirelli and Brandon Hagel
+   3-0
+P1  07:41 
+Mikko Rantanen (COL) tripping against J.J. Moser (2 minutes)
+   3-0
+P1  05:50 
+Andrei Vasilevskiy (TBL) tripping against Cale Makar (2 minutes), served by Nikita Kucherov
+   3-0
+P1  05:04 
+Ivan Ivan (COL) scores power-play goal on tip-in past Andrei Vasilevskiy, assisted by Cale Makar and Nathan MacKinnon
+   3-1
+2nd Period: ShowHide
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes), served by Michael Eyssimont
+   3-1
+P2  16:27 
+Matt Stienburg (COL) roughing against Zemgus Girgensons (2 minutes)
+   3-1
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes)
+   3-1
+P2  13:32 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Brayden Point and Nikita Kucherov
+   4-1
+P2  09:02 
+Cam Atkinson (TBL) interference against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  06:16 
+Erik Cernak (TBL) tripping against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  02:42 
+Anthony Cirelli (TBL) roughing against Matt Stienburg (2 minutes)
+   4-1
+P2  02:42 
+Matt Stienburg (COL) charging against Erik Cernak (5 minutes), served by Oliver Kylington
+   4-1
+P2  02:42 
+Matt Stienburg (COL) game misconduct (10 minutes)
+   4-1
+3rd Period: ShowHide
+P3  10:38 
+Chris Wagner (COL) fighting against Michael Eyssimont (5 minutes)
+   4-1
+P3  10:38 
+Michael Eyssimont (TBL) fighting against Chris Wagner (5 minutes)
+   4-1
+P3  09:03 
+Cale Makar (COL) scores on wrist shot past Andrei Vasilevskiy, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+P3  08:10 
+COL penalty, too many men on the ice (2 minutes), served by T.J. Tynan
+   4-2
+P3  01:20 
+Anthony Cirelli (TBL) scores on empty net, assisted by Brandon Hagel
+   5-2
+1st Period: ShowHide
+P1  18:59 
+Nikita Kucherov (TBL) scores on slap shot past Kaapo Kahkonen, assisted by Brayden Point and Victor Hedman
+   1-0
+P1  16:24 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Nikita Kucherov and Ryan McDonagh
+   2-0
+P1  14:28 
+Conor Geekie (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Anthony Cirelli and Brandon Hagel
+   3-0
+P1  07:41 
+Mikko Rantanen (COL) tripping against J.J. Moser (2 minutes)
+   3-0
+P1  05:50 
+Andrei Vasilevskiy (TBL) tripping against Cale Makar (2 minutes), served by Nikita Kucherov
+   3-0
+P1  05:04 
+Ivan Ivan (COL) scores power-play goal on tip-in past Andrei Vasilevskiy, assisted by Cale Makar and Nathan MacKinnon
+   3-1
+P1  18:59 
+Nikita Kucherov (TBL) scores on slap shot past Kaapo Kahkonen, assisted by Brayden Point and Victor Hedman
+   1-0
+P1  16:24 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Nikita Kucherov and Ryan McDonagh
+   2-0
+P1  14:28 
+Conor Geekie (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Anthony Cirelli and Brandon Hagel
+   3-0
+P1  07:41 
+Mikko Rantanen (COL) tripping against J.J. Moser (2 minutes)
+   3-0
+P1  05:50 
+Andrei Vasilevskiy (TBL) tripping against Cale Makar (2 minutes), served by Nikita Kucherov
+   3-0
+P1  05:04 
+Ivan Ivan (COL) scores power-play goal on tip-in past Andrei Vasilevskiy, assisted by Cale Makar and Nathan MacKinnon
+   3-1
+P1  18:59
+Nikita Kucherov (TBL) scores on slap shot past Kaapo Kahkonen, assisted by Brayden Point and Victor Hedman
+1-0
+P1  16:24
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Nikita Kucherov and Ryan McDonagh
+2-0
+P1  14:28
+Conor Geekie (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Anthony Cirelli and Brandon Hagel
+3-0
+P1  07:41
+Mikko Rantanen (COL) tripping against J.J. Moser (2 minutes)
+3-0
+P1  05:50
+Andrei Vasilevskiy (TBL) tripping against Cale Makar (2 minutes), served by Nikita Kucherov
+3-0
+P1  05:04
+Ivan Ivan (COL) scores power-play goal on tip-in past Andrei Vasilevskiy, assisted by Cale Makar and Nathan MacKinnon
+3-1
+2nd Period: ShowHide
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes), served by Michael Eyssimont
+   3-1
+P2  16:27 
+Matt Stienburg (COL) roughing against Zemgus Girgensons (2 minutes)
+   3-1
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes)
+   3-1
+P2  13:32 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Brayden Point and Nikita Kucherov
+   4-1
+P2  09:02 
+Cam Atkinson (TBL) interference against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  06:16 
+Erik Cernak (TBL) tripping against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  02:42 
+Anthony Cirelli (TBL) roughing against Matt Stienburg (2 minutes)
+   4-1
+P2  02:42 
+Matt Stienburg (COL) charging against Erik Cernak (5 minutes), served by Oliver Kylington
+   4-1
+P2  02:42 
+Matt Stienburg (COL) game misconduct (10 minutes)
+   4-1
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes), served by Michael Eyssimont
+   3-1
+P2  16:27 
+Matt Stienburg (COL) roughing against Zemgus Girgensons (2 minutes)
+   3-1
+P2  16:27 
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes)
+   3-1
+P2  13:32 
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Brayden Point and Nikita Kucherov
+   4-1
+P2  09:02 
+Cam Atkinson (TBL) interference against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  06:16 
+Erik Cernak (TBL) tripping against Nikolai Kovalenko (2 minutes)
+   4-1
+P2  02:42 
+Anthony Cirelli (TBL) roughing against Matt Stienburg (2 minutes)
+   4-1
+P2  02:42 
+Matt Stienburg (COL) charging against Erik Cernak (5 minutes), served by Oliver Kylington
+   4-1
+P2  02:42 
+Matt Stienburg (COL) game misconduct (10 minutes)
+   4-1
+P2  16:27
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes), served by Michael Eyssimont
+3-1
+P2  16:27
+Matt Stienburg (COL) roughing against Zemgus Girgensons (2 minutes)
+3-1
+P2  16:27
+Emil Lilleberg (TBL) roughing against Matt Stienburg (2 minutes)
+3-1
+P2  13:32
+Jake Guentzel (TBL) scores on snap shot past Kaapo Kahkonen, assisted by Brayden Point and Nikita Kucherov
+4-1
+P2  09:02
+Cam Atkinson (TBL) interference against Nikolai Kovalenko (2 minutes)
+4-1
+P2  06:16
+Erik Cernak (TBL) tripping against Nikolai Kovalenko (2 minutes)
+4-1
+P2  02:42
+Anthony Cirelli (TBL) roughing against Matt Stienburg (2 minutes)
+4-1
+P2  02:42
+Matt Stienburg (COL) charging against Erik Cernak (5 minutes), served by Oliver Kylington
+4-1
+P2  02:42
+Matt Stienburg (COL) game misconduct (10 minutes)
+4-1
+3rd Period: ShowHide
+P3  10:38 
+Chris Wagner (COL) fighting against Michael Eyssimont (5 minutes)
+   4-1
+P3  10:38 
+Michael Eyssimont (TBL) fighting against Chris Wagner (5 minutes)
+   4-1
+P3  09:03 
+Cale Makar (COL) scores on wrist shot past Andrei Vasilevskiy, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+P3  08:10 
+COL penalty, too many men on the ice (2 minutes), served by T.J. Tynan
+   4-2
+P3  01:20 
+Anthony Cirelli (TBL) scores on empty net, assisted by Brandon Hagel
+   5-2
+P3  10:38 
+Chris Wagner (COL) fighting against Michael Eyssimont (5 minutes)
+   4-1
+P3  10:38 
+Michael Eyssimont (TBL) fighting against Chris Wagner (5 minutes)
+   4-1
+P3  09:03 
+Cale Makar (COL) scores on wrist shot past Andrei Vasilevskiy, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+P3  08:10 
+COL penalty, too many men on the ice (2 minutes), served by T.J. Tynan
+   4-2
+P3  01:20 
+Anthony Cirelli (TBL) scores on empty net, assisted by Brandon Hagel
+   5-2
+P3  10:38
+Chris Wagner (COL) fighting against Michael Eyssimont (5 minutes)
+4-1
+P3  10:38
+Michael Eyssimont (TBL) fighting against Chris Wagner (5 minutes)
+4-1
+P3  09:03
+Cale Makar (COL) scores on wrist shot past Andrei Vasilevskiy, assisted by Mikko Rantanen and Nathan MacKinnon
+4-2
+P3  08:10
+COL penalty, too many men on the ice (2 minutes), served by T.J. Tynan
+4-2
+P3  01:20
+Anthony Cirelli (TBL) scores on empty net, assisted by Brandon Hagel
+5-2
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  10:53   0  0    0   0   0   2   0   0   0/0Mitchell Chaffee R  15:26   0  0    0   0   0   0   0   0   0/0Anthony Cirelli C  19:15   1  1    1   2   0   2   0   2   5/9Michael Eyssimont C  11:24   0  0    0   1   1   5   0   1   0/0Conor Geekie C  10:54   1  0    1   2   0   0   0   2   0/0Zemgus Girgensons C  07:57   0  0    0   0   0   0   1   2   1/1Luke Glendening C  09:28   0  0    0   0   1   0   0   0   4/6Jake Guentzel C  18:34   2  0    3   3   3   0   0   1   3/6Brandon Hagel L  21:25   0  2    1   3   0   0   0   1   1/2Nikita Kucherov R  16:36   1  2    2   2   1   0   0   2   0/0Nick Paul L  17:34   0  0    1   1   0   0   0   0  4/11Brayden Point C  18:10   0  2    3   0   0   0   0   0 10/12Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  12:06   0  0    1   2   1   2   0   0   0/0Victor Hedman D  25:22   0  1    2   2   3   0   1   1   0/0Emil Lilleberg D  13:05   0  0   -1   0   0   4   0   1   0/0Ryan McDonagh D  19:28   0  1    2   1   2   0   0   2   0/0J.J. Moser D  24:52   0  0    3   2   3   0   0   0   0/0Darren Raddysh D  18:45   0  0    1   0   3   0   0   3   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       21  18  15   2  18 28/47
+                                        59.6%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   2  33/35  26/27   6/7   1/1     2
+              .943   .963  .857 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Ivan C  18:11   1  0   -2   6   0   0   0   0   0/0Parker Kelly C  15:00   0  0   -3   2   1   0   0   0  4/11Joel Kiviranta L  15:22   0  0    1   3   2   0   0   1   0/0Nikolai Kovalenko R  12:06   0  0   -2   0   0   0   1   0   0/2Nathan MacKinnon C  24:58   0  2    0   2   3   0   0   2  5/15Casey Mittelstadt C  21:39   0  0   -1   3   1   0   0   1   3/8Logan O'Connor R  17:34   0  0    0   0   1   0   0   1   1/1Mikko Rantanen R  24:37   0  1    0   2   0   2   0   0   1/1Matt Stienburg C  04:06   0  0   -1   1   1  17   0   0   0/0T.J. Tynan C  08:36   0  0   -1   1   0   0   0   0   1/3Chris Wagner R  11:39   0  0   -2   2   2   5   0   0   4/6Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:58   0  0    0   0   1   0   0   0   0/0Oliver Kylington D  05:31   0  0   -2   0   0   0   0   0   0/0Cale Makar D  25:30   1  1    0   6   0   0   0   0   0/0Sam Malinski D  13:47   0  0   -2   1   1   0   0   1   0/0Josh Manson D  15:44   0  0   -2   1   2   0   0   1   0/0Devon Toews D  23:36   0  0   -2   3   0   0   0   1   0/0Calvin de Haan D  14:50   0  0   -2   2   0   0   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       35  15  24   1   9 19/47
+                                        40.4%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKaapo Kahkonen G  58:16   4  16/20  13/17   2/2   1/1     0
+              .800   .765 1.000 1.000
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  10:53   0  0    0   0   0   2   0   0   0/0Mitchell Chaffee R  15:26   0  0    0   0   0   0   0   0   0/0Anthony Cirelli C  19:15   1  1    1   2   0   2   0   2   5/9Michael Eyssimont C  11:24   0  0    0   1   1   5   0   1   0/0Conor Geekie C  10:54   1  0    1   2   0   0   0   2   0/0Zemgus Girgensons C  07:57   0  0    0   0   0   0   1   2   1/1Luke Glendening C  09:28   0  0    0   0   1   0   0   0   4/6Jake Guentzel C  18:34   2  0    3   3   3   0   0   1   3/6Brandon Hagel L  21:25   0  2    1   3   0   0   0   1   1/2Nikita Kucherov R  16:36   1  2    2   2   1   0   0   2   0/0Nick Paul L  17:34   0  0    1   1   0   0   0   0  4/11Brayden Point C  18:10   0  2    3   0   0   0   0   0 10/12
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cam Atkinson R
+10:53   0  0    0   0   0   2   0   0   0/0
+Mitchell Chaffee R
+15:26   0  0    0   0   0   0   0   0   0/0
+Anthony Cirelli C
+19:15   1  1    1   2   0   2   0   2   5/9
+Michael Eyssimont C
+11:24   0  0    0   1   1   5   0   1   0/0
+Conor Geekie C
+10:54   1  0    1   2   0   0   0   2   0/0
+Zemgus Girgensons C
+07:57   0  0    0   0   0   0   1   2   1/1
+Luke Glendening C
+09:28   0  0    0   0   1   0   0   0   4/6
+Jake Guentzel C
+18:34   2  0    3   3   3   0   0   1   3/6
+Brandon Hagel L
+21:25   0  2    1   3   0   0   0   1   1/2
+Nikita Kucherov R
+16:36   1  2    2   2   1   0   0   2   0/0
+Nick Paul L
+17:34   0  0    1   1   0   0   0   0  4/11
+Brayden Point C
+18:10   0  2    3   0   0   0   0   0 10/12
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  12:06   0  0    1   2   1   2   0   0   0/0Victor Hedman D  25:22   0  1    2   2   3   0   1   1   0/0Emil Lilleberg D  13:05   0  0   -1   0   0   4   0   1   0/0Ryan McDonagh D  19:28   0  1    2   1   2   0   0   2   0/0J.J. Moser D  24:52   0  0    3   2   3   0   0   0   0/0Darren Raddysh D  18:45   0  0    1   0   3   0   0   3   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+12:06   0  0    1   2   1   2   0   0   0/0
+Victor Hedman D
+25:22   0  1    2   2   3   0   1   1   0/0
+Emil Lilleberg D
+13:05   0  0   -1   0   0   4   0   1   0/0
+Ryan McDonagh D
+19:28   0  1    2   1   2   0   0   2   0/0
+J.J. Moser D
+24:52   0  0    3   2   3   0   0   0   0/0
+Darren Raddysh D
+18:45   0  0    1   0   3   0   0   3   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       21  18  15   2  18 28/47
+                                        59.6%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   2  33/35  26/27   6/7   1/1     2
+              .943   .963  .857 1.000
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Andrei Vasilevskiy G
+60:00   2  33/35  26/27   6/7   1/1     2
+              .943   .963  .857 1.000
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Ivan C  18:11   1  0   -2   6   0   0   0   0   0/0Parker Kelly C  15:00   0  0   -3   2   1   0   0   0  4/11Joel Kiviranta L  15:22   0  0    1   3   2   0   0   1   0/0Nikolai Kovalenko R  12:06   0  0   -2   0   0   0   1   0   0/2Nathan MacKinnon C  24:58   0  2    0   2   3   0   0   2  5/15Casey Mittelstadt C  21:39   0  0   -1   3   1   0   0   1   3/8Logan O'Connor R  17:34   0  0    0   0   1   0   0   1   1/1Mikko Rantanen R  24:37   0  1    0   2   0   2   0   0   1/1Matt Stienburg C  04:06   0  0   -1   1   1  17   0   0   0/0T.J. Tynan C  08:36   0  0   -1   1   0   0   0   0   1/3Chris Wagner R  11:39   0  0   -2   2   2   5   0   0   4/6
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Ivan C
+18:11   1  0   -2   6   0   0   0   0   0/0
+Parker Kelly C
+15:00   0  0   -3   2   1   0   0   0  4/11
+Joel Kiviranta L
+15:22   0  0    1   3   2   0   0   1   0/0
+Nikolai Kovalenko R
+12:06   0  0   -2   0   0   0   1   0   0/2
+Nathan MacKinnon C
+24:58   0  2    0   2   3   0   0   2  5/15
+Casey Mittelstadt C
+21:39   0  0   -1   3   1   0   0   1   3/8
+Logan O'Connor R
+17:34   0  0    0   0   1   0   0   1   1/1
+Mikko Rantanen R
+24:37   0  1    0   2   0   2   0   0   1/1
+Matt Stienburg C
+04:06   0  0   -1   1   1  17   0   0   0/0
+T.J. Tynan C
+08:36   0  0   -1   1   0   0   0   0   1/3
+Chris Wagner R
+11:39   0  0   -2   2   2   5   0   0   4/6
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:58   0  0    0   0   1   0   0   0   0/0Oliver Kylington D  05:31   0  0   -2   0   0   0   0   0   0/0Cale Makar D  25:30   1  1    0   6   0   0   0   0   0/0Sam Malinski D  13:47   0  0   -2   1   1   0   0   1   0/0Josh Manson D  15:44   0  0   -2   1   2   0   0   1   0/0Devon Toews D  23:36   0  0   -2   3   0   0   0   1   0/0Calvin de Haan D  14:50   0  0   -2   2   0   0   0   1   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+19:58   0  0    0   0   1   0   0   0   0/0
+Oliver Kylington D
+05:31   0  0   -2   0   0   0   0   0   0/0
+Cale Makar D
+25:30   1  1    0   6   0   0   0   0   0/0
+Sam Malinski D
+13:47   0  0   -2   1   1   0   0   1   0/0
+Josh Manson D
+15:44   0  0   -2   1   2   0   0   1   0/0
+Devon Toews D
+23:36   0  0   -2   3   0   0   0   1   0/0
+Calvin de Haan D
+14:50   0  0   -2   2   0   0   0   1   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       35  15  24   1   9 19/47
+                                        40.4%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKaapo Kahkonen G  58:16   4  16/20  13/17   2/2   1/1     0
+              .800   .765 1.000 1.000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Kaapo Kahkonen G
+58:16   4  16/20  13/17   2/2   1/1     0
+              .800   .765 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

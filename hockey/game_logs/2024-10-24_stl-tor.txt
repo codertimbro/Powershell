@@ -1,0 +1,397 @@
+< Oct. 24 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+St. Louis
+Blues5-3-0Final5 - 1Toronto
+Maple Leafs4-4-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+STL   2  1  2    5  
+TOR   0  1  0    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:53 
+Philip Broberg (STL) scores on slap shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   1-0
+P1  15:18 
+Ryan Suter (STL) interference against Mitch Marner (2 minutes)
+   1-0
+P1  10:59 
+Jake McCabe (TOR) high-sticking against Kasperi Kapanen (2 minutes)
+   1-0
+P1  09:29 
+Dylan Holloway (STL) scores power-play goal on wrist shot past Joseph Woll, assisted by Brandon Saad
+   2-0
+P1  08:29 
+Jake Neighbours (STL) holding against Oliver Ekman-Larsson (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  13:40 
+Oliver Ekman-Larsson (TOR) scores on slap shot past Jordan Binnington, assisted by Morgan Rielly and John Tavares
+   2-1
+P2  12:02 
+Alexandre Texier (STL) scores on wrist shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   3-1
+P2  03:09 
+Justin Faulk (STL) holding against Steven Lorentz (2 minutes)
+   3-1
+3rd Period: ShowHide
+P3  16:15 
+Jake Neighbours (STL) scores on wrist shot past Joseph Woll, assisted by Brayden Schenn
+   4-1
+P3  15:50 
+Jake Neighbours (STL) roughing against Matthew Knies (2 minutes)
+   4-1
+P3  15:50 
+Matthew Knies (TOR) roughing against Jake Neighbours (2 minutes)
+   4-1
+P3  07:49 
+Scott Perunovich (STL) tripping against Ryan Reaves (2 minutes)
+   4-1
+P3  03:18 
+Dylan Holloway (STL) scores on empty net, assisted by Justin Faulk
+   5-1
+P3  00:32 
+Max Domi (TOR) cross-checking against Scott Perunovich (2 minutes)
+   5-1
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPavel Buchnevich L  15:18   0  2    3   1   0   0   1   0  4/15Radek Faksa C  13:17   0  0    0   1   1   0   0   2   3/5Dylan Holloway L  17:20   2  0    0   4   1   0   1   2  3/11Mathieu Joseph R  14:03   0  0   -1   1   1   0   1   0   1/2Kasperi Kapanen R  08:57   0  0   -1   0   1   0   0   0   0/1Jordan Kyrou C  15:51   0  2    2   1   1   0   0   0   1/2Jake Neighbours L  15:29   1  0    2   3   2   4   0   2   0/1Brandon Saad L  13:53   0  1    1   2   0   0   0   0   0/0Brayden Schenn C  15:52   0  1    1   3   0   0   1   1  5/17Oskar Sundqvist C  11:49   0  0    0   0   0   0   0   0   2/6Alexandre Texier C  15:55   1  0    2   4   0   0   0   0   0/0Alexey Toropchenko R  13:44   0  0    0   1   2   0   0   1   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  21:17   1  0    2   1   2   0   0   2   0/0Justin Faulk D  22:06   0  1    3   1   5   2   0   0   0/0Pierre-Olivier Joseph D  11:31   0  0   -1   1   0   0   0   2   0/0Colton Parayko D  26:58   0  0    1   2   7   0   0   0   0/0Scott Perunovich D  11:00   0  0   -1   0   0   2   0   0   0/0Ryan Suter D  25:40   0  0    2   1   0   2   0   3   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       27  23  10   4  15 19/60
+                                        31.7%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  60:00   1  40/41  29/30 11/11   0/0     0
+              .976   .967 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  17:16   0  0    0   3   0   2   0   0   4/5Pontus Holmberg R  11:38   0  0    0   1   0   0   1   0   2/2David Kampf C  11:41   0  0   -1   2   0   0   0   2   2/3Matthew Knies L  14:22   0  0   -3   0   0   2   0   0   0/0Steven Lorentz C  12:13   0  0    1   0   1   0   0   0   0/1Mitch Marner R  19:46   0  0   -3   2   0   0   2   2   0/0Auston Matthews C  20:20   0  0   -3   3   0   0   0   1 16/23Bobby McMann C  15:04   0  0    0   3   0   0   0   0   0/0William Nylander R  18:55   0  0   -2   4   0   0   0   1   3/8Ryan Reaves R  09:46   0  0    0   1   0   0   0   0   0/0Nicholas Robertson L  17:07   0  0    1   5   0   0   0   0   1/1John Tavares C  16:37   0  1    0   7   1   0   0   0 13/17Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  15:27   0  0    0   1   2   0   0   2   0/0Oliver Ekman-Larsson D  22:41   1  0    0   3   0   0   0   1   0/0Jake McCabe D  18:43   0  0   -2   2   0   2   0   1   0/0Morgan Rielly D  21:57   0  1   -1   3   2   0   1   2   0/0Chris Tanev D  18:23   0  0   -3   0   3   0   0   1   0/0Conor Timmins D  15:14   0  0    0   1   0   0   0   1   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41   9   6   4  14 41/60
+                                        68.3%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoseph Woll G  58:48   4  22/26  21/24   1/2   0/0     0
+              .846   .875  .500
+St. Louis
+Blues5-3-0Final5 - 1Toronto
+Maple Leafs4-4-0
+St. Louis
+Blues5-3-0
+Final5 - 1
+Toronto
+Maple Leafs4-4-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+STL   2  1  2    5  
+TOR   0  1  0    1
+1st Period: ShowHide
+P1  15:53 
+Philip Broberg (STL) scores on slap shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   1-0
+P1  15:18 
+Ryan Suter (STL) interference against Mitch Marner (2 minutes)
+   1-0
+P1  10:59 
+Jake McCabe (TOR) high-sticking against Kasperi Kapanen (2 minutes)
+   1-0
+P1  09:29 
+Dylan Holloway (STL) scores power-play goal on wrist shot past Joseph Woll, assisted by Brandon Saad
+   2-0
+P1  08:29 
+Jake Neighbours (STL) holding against Oliver Ekman-Larsson (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  13:40 
+Oliver Ekman-Larsson (TOR) scores on slap shot past Jordan Binnington, assisted by Morgan Rielly and John Tavares
+   2-1
+P2  12:02 
+Alexandre Texier (STL) scores on wrist shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   3-1
+P2  03:09 
+Justin Faulk (STL) holding against Steven Lorentz (2 minutes)
+   3-1
+3rd Period: ShowHide
+P3  16:15 
+Jake Neighbours (STL) scores on wrist shot past Joseph Woll, assisted by Brayden Schenn
+   4-1
+P3  15:50 
+Jake Neighbours (STL) roughing against Matthew Knies (2 minutes)
+   4-1
+P3  15:50 
+Matthew Knies (TOR) roughing against Jake Neighbours (2 minutes)
+   4-1
+P3  07:49 
+Scott Perunovich (STL) tripping against Ryan Reaves (2 minutes)
+   4-1
+P3  03:18 
+Dylan Holloway (STL) scores on empty net, assisted by Justin Faulk
+   5-1
+P3  00:32 
+Max Domi (TOR) cross-checking against Scott Perunovich (2 minutes)
+   5-1
+1st Period: ShowHide
+P1  15:53 
+Philip Broberg (STL) scores on slap shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   1-0
+P1  15:18 
+Ryan Suter (STL) interference against Mitch Marner (2 minutes)
+   1-0
+P1  10:59 
+Jake McCabe (TOR) high-sticking against Kasperi Kapanen (2 minutes)
+   1-0
+P1  09:29 
+Dylan Holloway (STL) scores power-play goal on wrist shot past Joseph Woll, assisted by Brandon Saad
+   2-0
+P1  08:29 
+Jake Neighbours (STL) holding against Oliver Ekman-Larsson (2 minutes)
+   2-0
+P1  15:53 
+Philip Broberg (STL) scores on slap shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   1-0
+P1  15:18 
+Ryan Suter (STL) interference against Mitch Marner (2 minutes)
+   1-0
+P1  10:59 
+Jake McCabe (TOR) high-sticking against Kasperi Kapanen (2 minutes)
+   1-0
+P1  09:29 
+Dylan Holloway (STL) scores power-play goal on wrist shot past Joseph Woll, assisted by Brandon Saad
+   2-0
+P1  08:29 
+Jake Neighbours (STL) holding against Oliver Ekman-Larsson (2 minutes)
+   2-0
+P1  15:53
+Philip Broberg (STL) scores on slap shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+1-0
+P1  15:18
+Ryan Suter (STL) interference against Mitch Marner (2 minutes)
+1-0
+P1  10:59
+Jake McCabe (TOR) high-sticking against Kasperi Kapanen (2 minutes)
+1-0
+P1  09:29
+Dylan Holloway (STL) scores power-play goal on wrist shot past Joseph Woll, assisted by Brandon Saad
+2-0
+P1  08:29
+Jake Neighbours (STL) holding against Oliver Ekman-Larsson (2 minutes)
+2-0
+2nd Period: ShowHide
+P2  13:40 
+Oliver Ekman-Larsson (TOR) scores on slap shot past Jordan Binnington, assisted by Morgan Rielly and John Tavares
+   2-1
+P2  12:02 
+Alexandre Texier (STL) scores on wrist shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   3-1
+P2  03:09 
+Justin Faulk (STL) holding against Steven Lorentz (2 minutes)
+   3-1
+P2  13:40 
+Oliver Ekman-Larsson (TOR) scores on slap shot past Jordan Binnington, assisted by Morgan Rielly and John Tavares
+   2-1
+P2  12:02 
+Alexandre Texier (STL) scores on wrist shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+   3-1
+P2  03:09 
+Justin Faulk (STL) holding against Steven Lorentz (2 minutes)
+   3-1
+P2  13:40
+Oliver Ekman-Larsson (TOR) scores on slap shot past Jordan Binnington, assisted by Morgan Rielly and John Tavares
+2-1
+P2  12:02
+Alexandre Texier (STL) scores on wrist shot past Joseph Woll, assisted by Jordan Kyrou and Pavel Buchnevich
+3-1
+P2  03:09
+Justin Faulk (STL) holding against Steven Lorentz (2 minutes)
+3-1
+3rd Period: ShowHide
+P3  16:15 
+Jake Neighbours (STL) scores on wrist shot past Joseph Woll, assisted by Brayden Schenn
+   4-1
+P3  15:50 
+Jake Neighbours (STL) roughing against Matthew Knies (2 minutes)
+   4-1
+P3  15:50 
+Matthew Knies (TOR) roughing against Jake Neighbours (2 minutes)
+   4-1
+P3  07:49 
+Scott Perunovich (STL) tripping against Ryan Reaves (2 minutes)
+   4-1
+P3  03:18 
+Dylan Holloway (STL) scores on empty net, assisted by Justin Faulk
+   5-1
+P3  00:32 
+Max Domi (TOR) cross-checking against Scott Perunovich (2 minutes)
+   5-1
+P3  16:15 
+Jake Neighbours (STL) scores on wrist shot past Joseph Woll, assisted by Brayden Schenn
+   4-1
+P3  15:50 
+Jake Neighbours (STL) roughing against Matthew Knies (2 minutes)
+   4-1
+P3  15:50 
+Matthew Knies (TOR) roughing against Jake Neighbours (2 minutes)
+   4-1
+P3  07:49 
+Scott Perunovich (STL) tripping against Ryan Reaves (2 minutes)
+   4-1
+P3  03:18 
+Dylan Holloway (STL) scores on empty net, assisted by Justin Faulk
+   5-1
+P3  00:32 
+Max Domi (TOR) cross-checking against Scott Perunovich (2 minutes)
+   5-1
+P3  16:15
+Jake Neighbours (STL) scores on wrist shot past Joseph Woll, assisted by Brayden Schenn
+4-1
+P3  15:50
+Jake Neighbours (STL) roughing against Matthew Knies (2 minutes)
+4-1
+P3  15:50
+Matthew Knies (TOR) roughing against Jake Neighbours (2 minutes)
+4-1
+P3  07:49
+Scott Perunovich (STL) tripping against Ryan Reaves (2 minutes)
+4-1
+P3  03:18
+Dylan Holloway (STL) scores on empty net, assisted by Justin Faulk
+5-1
+P3  00:32
+Max Domi (TOR) cross-checking against Scott Perunovich (2 minutes)
+5-1
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPavel Buchnevich L  15:18   0  2    3   1   0   0   1   0  4/15Radek Faksa C  13:17   0  0    0   1   1   0   0   2   3/5Dylan Holloway L  17:20   2  0    0   4   1   0   1   2  3/11Mathieu Joseph R  14:03   0  0   -1   1   1   0   1   0   1/2Kasperi Kapanen R  08:57   0  0   -1   0   1   0   0   0   0/1Jordan Kyrou C  15:51   0  2    2   1   1   0   0   0   1/2Jake Neighbours L  15:29   1  0    2   3   2   4   0   2   0/1Brandon Saad L  13:53   0  1    1   2   0   0   0   0   0/0Brayden Schenn C  15:52   0  1    1   3   0   0   1   1  5/17Oskar Sundqvist C  11:49   0  0    0   0   0   0   0   0   2/6Alexandre Texier C  15:55   1  0    2   4   0   0   0   0   0/0Alexey Toropchenko R  13:44   0  0    0   1   2   0   0   1   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  21:17   1  0    2   1   2   0   0   2   0/0Justin Faulk D  22:06   0  1    3   1   5   2   0   0   0/0Pierre-Olivier Joseph D  11:31   0  0   -1   1   0   0   0   2   0/0Colton Parayko D  26:58   0  0    1   2   7   0   0   0   0/0Scott Perunovich D  11:00   0  0   -1   0   0   2   0   0   0/0Ryan Suter D  25:40   0  0    2   1   0   2   0   3   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       27  23  10   4  15 19/60
+                                        31.7%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  60:00   1  40/41  29/30 11/11   0/0     0
+              .976   .967 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  17:16   0  0    0   3   0   2   0   0   4/5Pontus Holmberg R  11:38   0  0    0   1   0   0   1   0   2/2David Kampf C  11:41   0  0   -1   2   0   0   0   2   2/3Matthew Knies L  14:22   0  0   -3   0   0   2   0   0   0/0Steven Lorentz C  12:13   0  0    1   0   1   0   0   0   0/1Mitch Marner R  19:46   0  0   -3   2   0   0   2   2   0/0Auston Matthews C  20:20   0  0   -3   3   0   0   0   1 16/23Bobby McMann C  15:04   0  0    0   3   0   0   0   0   0/0William Nylander R  18:55   0  0   -2   4   0   0   0   1   3/8Ryan Reaves R  09:46   0  0    0   1   0   0   0   0   0/0Nicholas Robertson L  17:07   0  0    1   5   0   0   0   0   1/1John Tavares C  16:37   0  1    0   7   1   0   0   0 13/17Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  15:27   0  0    0   1   2   0   0   2   0/0Oliver Ekman-Larsson D  22:41   1  0    0   3   0   0   0   1   0/0Jake McCabe D  18:43   0  0   -2   2   0   2   0   1   0/0Morgan Rielly D  21:57   0  1   -1   3   2   0   1   2   0/0Chris Tanev D  18:23   0  0   -3   0   3   0   0   1   0/0Conor Timmins D  15:14   0  0    0   1   0   0   0   1   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41   9   6   4  14 41/60
+                                        68.3%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoseph Woll G  58:48   4  22/26  21/24   1/2   0/0     0
+              .846   .875  .500
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPavel Buchnevich L  15:18   0  2    3   1   0   0   1   0  4/15Radek Faksa C  13:17   0  0    0   1   1   0   0   2   3/5Dylan Holloway L  17:20   2  0    0   4   1   0   1   2  3/11Mathieu Joseph R  14:03   0  0   -1   1   1   0   1   0   1/2Kasperi Kapanen R  08:57   0  0   -1   0   1   0   0   0   0/1Jordan Kyrou C  15:51   0  2    2   1   1   0   0   0   1/2Jake Neighbours L  15:29   1  0    2   3   2   4   0   2   0/1Brandon Saad L  13:53   0  1    1   2   0   0   0   0   0/0Brayden Schenn C  15:52   0  1    1   3   0   0   1   1  5/17Oskar Sundqvist C  11:49   0  0    0   0   0   0   0   0   2/6Alexandre Texier C  15:55   1  0    2   4   0   0   0   0   0/0Alexey Toropchenko R  13:44   0  0    0   1   2   0   0   1   0/0
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Pavel Buchnevich L
+15:18   0  2    3   1   0   0   1   0  4/15
+Radek Faksa C
+13:17   0  0    0   1   1   0   0   2   3/5
+Dylan Holloway L
+17:20   2  0    0   4   1   0   1   2  3/11
+Mathieu Joseph R
+14:03   0  0   -1   1   1   0   1   0   1/2
+Kasperi Kapanen R
+08:57   0  0   -1   0   1   0   0   0   0/1
+Jordan Kyrou C
+15:51   0  2    2   1   1   0   0   0   1/2
+Jake Neighbours L
+15:29   1  0    2   3   2   4   0   2   0/1
+Brandon Saad L
+13:53   0  1    1   2   0   0   0   0   0/0
+Brayden Schenn C
+15:52   0  1    1   3   0   0   1   1  5/17
+Oskar Sundqvist C
+11:49   0  0    0   0   0   0   0   0   2/6
+Alexandre Texier C
+15:55   1  0    2   4   0   0   0   0   0/0
+Alexey Toropchenko R
+13:44   0  0    0   1   2   0   0   1   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  21:17   1  0    2   1   2   0   0   2   0/0Justin Faulk D  22:06   0  1    3   1   5   2   0   0   0/0Pierre-Olivier Joseph D  11:31   0  0   -1   1   0   0   0   2   0/0Colton Parayko D  26:58   0  0    1   2   7   0   0   0   0/0Scott Perunovich D  11:00   0  0   -1   0   0   2   0   0   0/0Ryan Suter D  25:40   0  0    2   1   0   2   0   3   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+21:17   1  0    2   1   2   0   0   2   0/0
+Justin Faulk D
+22:06   0  1    3   1   5   2   0   0   0/0
+Pierre-Olivier Joseph D
+11:31   0  0   -1   1   0   0   0   2   0/0
+Colton Parayko D
+26:58   0  0    1   2   7   0   0   0   0/0
+Scott Perunovich D
+11:00   0  0   -1   0   0   2   0   0   0/0
+Ryan Suter D
+25:40   0  0    2   1   0   2   0   3   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       27  23  10   4  15 19/60
+                                        31.7%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  60:00   1  40/41  29/30 11/11   0/0     0
+              .976   .967 1.000
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jordan Binnington G
+60:00   1  40/41  29/30 11/11   0/0     0
+              .976   .967 1.000
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  17:16   0  0    0   3   0   2   0   0   4/5Pontus Holmberg R  11:38   0  0    0   1   0   0   1   0   2/2David Kampf C  11:41   0  0   -1   2   0   0   0   2   2/3Matthew Knies L  14:22   0  0   -3   0   0   2   0   0   0/0Steven Lorentz C  12:13   0  0    1   0   1   0   0   0   0/1Mitch Marner R  19:46   0  0   -3   2   0   0   2   2   0/0Auston Matthews C  20:20   0  0   -3   3   0   0   0   1 16/23Bobby McMann C  15:04   0  0    0   3   0   0   0   0   0/0William Nylander R  18:55   0  0   -2   4   0   0   0   1   3/8Ryan Reaves R  09:46   0  0    0   1   0   0   0   0   0/0Nicholas Robertson L  17:07   0  0    1   5   0   0   0   0   1/1John Tavares C  16:37   0  1    0   7   1   0   0   0 13/17
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Max Domi C
+17:16   0  0    0   3   0   2   0   0   4/5
+Pontus Holmberg R
+11:38   0  0    0   1   0   0   1   0   2/2
+David Kampf C
+11:41   0  0   -1   2   0   0   0   2   2/3
+Matthew Knies L
+14:22   0  0   -3   0   0   2   0   0   0/0
+Steven Lorentz C
+12:13   0  0    1   0   1   0   0   0   0/1
+Mitch Marner R
+19:46   0  0   -3   2   0   0   2   2   0/0
+Auston Matthews C
+20:20   0  0   -3   3   0   0   0   1 16/23
+Bobby McMann C
+15:04   0  0    0   3   0   0   0   0   0/0
+William Nylander R
+18:55   0  0   -2   4   0   0   0   1   3/8
+Ryan Reaves R
+09:46   0  0    0   1   0   0   0   0   0/0
+Nicholas Robertson L
+17:07   0  0    1   5   0   0   0   0   1/1
+John Tavares C
+16:37   0  1    0   7   1   0   0   0 13/17
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  15:27   0  0    0   1   2   0   0   2   0/0Oliver Ekman-Larsson D  22:41   1  0    0   3   0   0   0   1   0/0Jake McCabe D  18:43   0  0   -2   2   0   2   0   1   0/0Morgan Rielly D  21:57   0  1   -1   3   2   0   1   2   0/0Chris Tanev D  18:23   0  0   -3   0   3   0   0   1   0/0Conor Timmins D  15:14   0  0    0   1   0   0   0   1   0/0
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Simon Benoit D
+15:27   0  0    0   1   2   0   0   2   0/0
+Oliver Ekman-Larsson D
+22:41   1  0    0   3   0   0   0   1   0/0
+Jake McCabe D
+18:43   0  0   -2   2   0   2   0   1   0/0
+Morgan Rielly D
+21:57   0  1   -1   3   2   0   1   2   0/0
+Chris Tanev D
+18:23   0  0   -3   0   3   0   0   1   0/0
+Conor Timmins D
+15:14   0  0    0   1   0   0   0   1   0/0
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41   9   6   4  14 41/60
+                                        68.3%
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoseph Woll G  58:48   4  22/26  21/24   1/2   0/0     0
+              .846   .875  .500
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joseph Woll G
+58:48   4  22/26  21/24   1/2   0/0     0
+              .846   .875  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

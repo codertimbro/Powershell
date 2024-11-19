@@ -1,0 +1,367 @@
+< Oct. 27 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Ottawa
+Senators4-4-0Final4 - 5Colorado
+Avalanche5-4-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+OTT   0  0  4    4  
+COL   1  1  3    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:43 
+Michael Amadio (OTT) tripping against Nikolai Kovalenko (2 minutes)
+   0-0
+P1  08:23 
+Mikko Rantanen (COL) holding the stick against Jake Sanderson (2 minutes)
+   0-0
+P1  00:08 
+Nikolai Kovalenko (COL) scores goal with extra attacker on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Nathan MacKinnon
+   0-1
+2nd Period: ShowHide
+P2  00:18 
+Josh Manson (COL) scores on backhand shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   0-2
+3rd Period: ShowHide
+P3  10:45 
+Brady Tkachuk (OTT) scores on wrist shot past Justus Annunen, assisted by Tyler Kleven and Nick Cousins
+   1-2
+P3  08:37 
+Nick Cousins (OTT) scores on backhand shot past Justus Annunen, assisted by Brady Tkachuk and Tim Stützle
+   2-2
+P3  06:31 
+Logan O'Connor (COL) scores on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   2-3
+P3  04:59 
+Ross Colton (COL) scores on wrist shot past Anton Forsberg, assisted by Cale Makar
+   2-4
+P3  03:12 
+Claude Giroux (OTT) scores on snap shot past Justus Annunen, assisted by Drake Batherson and Thomas Chabot
+   3-4
+P3  01:15 
+Nathan MacKinnon (COL) scores on empty net, assisted by Mikko Rantanen
+   3-5
+P3  00:10 
+Claude Giroux (OTT) scores goal with extra attacker on slap shot past Justus Annunen, assisted by Josh Norris and Jake Sanderson
+   4-5
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:24   0  0   -1   2   2   2   0   0   1/2Drake Batherson R  20:25   0  1   -1   1   0   0   0   0   0/0Nick Cousins C  11:51   1  1    1   1   1   0   0   0   0/1Adam Gaudette R  10:23   0  0    0   1   1   0   0   2   4/9Claude Giroux R  20:37   2  0   -1   7   1   0   0   0 10/15Noah Gregor L  13:23   0  0    0   2   0   0   0   0   1/1Ridly Greig C  16:04   0  0   -1   0   1   0   0   3  7/10Zack MacEwen R  07:30   0  0    0   0   0   0   0   0   0/0Josh Norris C  20:58   0  1    0   3   1   0   0   0  5/10Cole Reinhardt L  07:15   0  0    0   0   2   0   0   0   0/0Tim Stützle C  19:53   0  1    0   1   1   0   0   1   1/3Brady Tkachuk L  18:37   1  1    1   4   0   0   0   0   0/3Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:40   0  0    0   0   3   0   0   1   0/0Thomas Chabot D  22:43   0  1   -1   3   3   0   1   0   0/0Travis Hamonic D  19:54   0  0   -1   3   3   0   0   2   0/0Nick Jensen D  20:38   0  0    0   0   5   0   0   4   0/0Tyler Kleven D  15:20   0  1    0   1   1   0   0   1   0/0Jake Sanderson D  24:31   0  1   -1   1   0   0   3   1   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  25   2   4  15 29/54
+                                        53.7%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  53:08   4  25/29  23/27   2/2   0/0     0
+              .862   .852 1.000 Linus Ullmark G  04:46   0    2/2    2/2   0/0   0/0     0
+             1.000  1.000 Senators Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          4  27/31  25/29   2/2   0/0     0
+              .871   .862 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  22:24   1  0    1   6   2   0   1   3   0/0Ivan Ivan C  08:34   0  0    0   2   0   0   0   1   0/2Parker Kelly C  11:10   0  0    0   1   1   0   0   2   3/7Joel Kiviranta L  10:42   0  0   -1   0   0   0   0   0   0/0Nikolai Kovalenko R  14:10   1  0    1   1   0   0   0   1   0/0Nathan MacKinnon C  23:14   1  1    1   5   0   0   1   0 12/20Casey Mittelstadt C  19:11   0  3    1   3   0   0   0   1  6/16Logan O'Connor R  18:28   1  0    0   2   0   0   0   0   0/0Mikko Rantanen R  23:13   0  1    1   5   2   2   0   1   2/5Matt Stienburg C  07:36   0  0    0   0   0   0   0   0   0/0Chris Wagner R  08:06   0  0    0   2   1   0   0   0   2/4Miles Wood L  13:18   0  0    0   2   0   0   0   1   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  18:56   0  2    2   0   0   0   0   2   0/0Cale Makar D  21:46   0  1   -1   1   2   0   0   1   0/0Sam Malinski D  15:39   0  0    0   0   1   0   1   0   0/0Josh Manson D  20:22   1  0    1   1   0   0   1   1   0/0Devon Toews D  22:34   0  0    0   1   0   0   0   0   0/0Calvin de Haan D  19:03   0  0    0   0   1   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       32  10   2   4  14 25/54
+                                        46.3%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  59:34   4  26/30  25/29   0/0   1/1     0
+              .867   .862  1.000
+Ottawa
+Senators4-4-0Final4 - 5Colorado
+Avalanche5-4-0
+Ottawa
+Senators4-4-0
+Final4 - 5
+Colorado
+Avalanche5-4-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+OTT   0  0  4    4  
+COL   1  1  3    5
+1st Period: ShowHide
+P1  16:43 
+Michael Amadio (OTT) tripping against Nikolai Kovalenko (2 minutes)
+   0-0
+P1  08:23 
+Mikko Rantanen (COL) holding the stick against Jake Sanderson (2 minutes)
+   0-0
+P1  00:08 
+Nikolai Kovalenko (COL) scores goal with extra attacker on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Nathan MacKinnon
+   0-1
+2nd Period: ShowHide
+P2  00:18 
+Josh Manson (COL) scores on backhand shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   0-2
+3rd Period: ShowHide
+P3  10:45 
+Brady Tkachuk (OTT) scores on wrist shot past Justus Annunen, assisted by Tyler Kleven and Nick Cousins
+   1-2
+P3  08:37 
+Nick Cousins (OTT) scores on backhand shot past Justus Annunen, assisted by Brady Tkachuk and Tim Stützle
+   2-2
+P3  06:31 
+Logan O'Connor (COL) scores on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   2-3
+P3  04:59 
+Ross Colton (COL) scores on wrist shot past Anton Forsberg, assisted by Cale Makar
+   2-4
+P3  03:12 
+Claude Giroux (OTT) scores on snap shot past Justus Annunen, assisted by Drake Batherson and Thomas Chabot
+   3-4
+P3  01:15 
+Nathan MacKinnon (COL) scores on empty net, assisted by Mikko Rantanen
+   3-5
+P3  00:10 
+Claude Giroux (OTT) scores goal with extra attacker on slap shot past Justus Annunen, assisted by Josh Norris and Jake Sanderson
+   4-5
+1st Period: ShowHide
+P1  16:43 
+Michael Amadio (OTT) tripping against Nikolai Kovalenko (2 minutes)
+   0-0
+P1  08:23 
+Mikko Rantanen (COL) holding the stick against Jake Sanderson (2 minutes)
+   0-0
+P1  00:08 
+Nikolai Kovalenko (COL) scores goal with extra attacker on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Nathan MacKinnon
+   0-1
+P1  16:43 
+Michael Amadio (OTT) tripping against Nikolai Kovalenko (2 minutes)
+   0-0
+P1  08:23 
+Mikko Rantanen (COL) holding the stick against Jake Sanderson (2 minutes)
+   0-0
+P1  00:08 
+Nikolai Kovalenko (COL) scores goal with extra attacker on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Nathan MacKinnon
+   0-1
+P1  16:43
+Michael Amadio (OTT) tripping against Nikolai Kovalenko (2 minutes)
+0-0
+P1  08:23
+Mikko Rantanen (COL) holding the stick against Jake Sanderson (2 minutes)
+0-0
+P1  00:08
+Nikolai Kovalenko (COL) scores goal with extra attacker on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Nathan MacKinnon
+0-1
+2nd Period: ShowHide
+P2  00:18 
+Josh Manson (COL) scores on backhand shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   0-2
+P2  00:18 
+Josh Manson (COL) scores on backhand shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   0-2
+P2  00:18
+Josh Manson (COL) scores on backhand shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+0-2
+3rd Period: ShowHide
+P3  10:45 
+Brady Tkachuk (OTT) scores on wrist shot past Justus Annunen, assisted by Tyler Kleven and Nick Cousins
+   1-2
+P3  08:37 
+Nick Cousins (OTT) scores on backhand shot past Justus Annunen, assisted by Brady Tkachuk and Tim Stützle
+   2-2
+P3  06:31 
+Logan O'Connor (COL) scores on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   2-3
+P3  04:59 
+Ross Colton (COL) scores on wrist shot past Anton Forsberg, assisted by Cale Makar
+   2-4
+P3  03:12 
+Claude Giroux (OTT) scores on snap shot past Justus Annunen, assisted by Drake Batherson and Thomas Chabot
+   3-4
+P3  01:15 
+Nathan MacKinnon (COL) scores on empty net, assisted by Mikko Rantanen
+   3-5
+P3  00:10 
+Claude Giroux (OTT) scores goal with extra attacker on slap shot past Justus Annunen, assisted by Josh Norris and Jake Sanderson
+   4-5
+P3  10:45 
+Brady Tkachuk (OTT) scores on wrist shot past Justus Annunen, assisted by Tyler Kleven and Nick Cousins
+   1-2
+P3  08:37 
+Nick Cousins (OTT) scores on backhand shot past Justus Annunen, assisted by Brady Tkachuk and Tim Stützle
+   2-2
+P3  06:31 
+Logan O'Connor (COL) scores on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+   2-3
+P3  04:59 
+Ross Colton (COL) scores on wrist shot past Anton Forsberg, assisted by Cale Makar
+   2-4
+P3  03:12 
+Claude Giroux (OTT) scores on snap shot past Justus Annunen, assisted by Drake Batherson and Thomas Chabot
+   3-4
+P3  01:15 
+Nathan MacKinnon (COL) scores on empty net, assisted by Mikko Rantanen
+   3-5
+P3  00:10 
+Claude Giroux (OTT) scores goal with extra attacker on slap shot past Justus Annunen, assisted by Josh Norris and Jake Sanderson
+   4-5
+P3  10:45
+Brady Tkachuk (OTT) scores on wrist shot past Justus Annunen, assisted by Tyler Kleven and Nick Cousins
+1-2
+P3  08:37
+Nick Cousins (OTT) scores on backhand shot past Justus Annunen, assisted by Brady Tkachuk and Tim Stützle
+2-2
+P3  06:31
+Logan O'Connor (COL) scores on snap shot past Anton Forsberg, assisted by Casey Mittelstadt and Samuel Girard
+2-3
+P3  04:59
+Ross Colton (COL) scores on wrist shot past Anton Forsberg, assisted by Cale Makar
+2-4
+P3  03:12
+Claude Giroux (OTT) scores on snap shot past Justus Annunen, assisted by Drake Batherson and Thomas Chabot
+3-4
+P3  01:15
+Nathan MacKinnon (COL) scores on empty net, assisted by Mikko Rantanen
+3-5
+P3  00:10
+Claude Giroux (OTT) scores goal with extra attacker on slap shot past Justus Annunen, assisted by Josh Norris and Jake Sanderson
+4-5
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:24   0  0   -1   2   2   2   0   0   1/2Drake Batherson R  20:25   0  1   -1   1   0   0   0   0   0/0Nick Cousins C  11:51   1  1    1   1   1   0   0   0   0/1Adam Gaudette R  10:23   0  0    0   1   1   0   0   2   4/9Claude Giroux R  20:37   2  0   -1   7   1   0   0   0 10/15Noah Gregor L  13:23   0  0    0   2   0   0   0   0   1/1Ridly Greig C  16:04   0  0   -1   0   1   0   0   3  7/10Zack MacEwen R  07:30   0  0    0   0   0   0   0   0   0/0Josh Norris C  20:58   0  1    0   3   1   0   0   0  5/10Cole Reinhardt L  07:15   0  0    0   0   2   0   0   0   0/0Tim Stützle C  19:53   0  1    0   1   1   0   0   1   1/3Brady Tkachuk L  18:37   1  1    1   4   0   0   0   0   0/3Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:40   0  0    0   0   3   0   0   1   0/0Thomas Chabot D  22:43   0  1   -1   3   3   0   1   0   0/0Travis Hamonic D  19:54   0  0   -1   3   3   0   0   2   0/0Nick Jensen D  20:38   0  0    0   0   5   0   0   4   0/0Tyler Kleven D  15:20   0  1    0   1   1   0   0   1   0/0Jake Sanderson D  24:31   0  1   -1   1   0   0   3   1   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  25   2   4  15 29/54
+                                        53.7%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  53:08   4  25/29  23/27   2/2   0/0     0
+              .862   .852 1.000 Linus Ullmark G  04:46   0    2/2    2/2   0/0   0/0     0
+             1.000  1.000 Senators Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          4  27/31  25/29   2/2   0/0     0
+              .871   .862 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  22:24   1  0    1   6   2   0   1   3   0/0Ivan Ivan C  08:34   0  0    0   2   0   0   0   1   0/2Parker Kelly C  11:10   0  0    0   1   1   0   0   2   3/7Joel Kiviranta L  10:42   0  0   -1   0   0   0   0   0   0/0Nikolai Kovalenko R  14:10   1  0    1   1   0   0   0   1   0/0Nathan MacKinnon C  23:14   1  1    1   5   0   0   1   0 12/20Casey Mittelstadt C  19:11   0  3    1   3   0   0   0   1  6/16Logan O'Connor R  18:28   1  0    0   2   0   0   0   0   0/0Mikko Rantanen R  23:13   0  1    1   5   2   2   0   1   2/5Matt Stienburg C  07:36   0  0    0   0   0   0   0   0   0/0Chris Wagner R  08:06   0  0    0   2   1   0   0   0   2/4Miles Wood L  13:18   0  0    0   2   0   0   0   1   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  18:56   0  2    2   0   0   0   0   2   0/0Cale Makar D  21:46   0  1   -1   1   2   0   0   1   0/0Sam Malinski D  15:39   0  0    0   0   1   0   1   0   0/0Josh Manson D  20:22   1  0    1   1   0   0   1   1   0/0Devon Toews D  22:34   0  0    0   1   0   0   0   0   0/0Calvin de Haan D  19:03   0  0    0   0   1   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       32  10   2   4  14 25/54
+                                        46.3%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  59:34   4  26/30  25/29   0/0   1/1     0
+              .867   .862  1.000
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:24   0  0   -1   2   2   2   0   0   1/2Drake Batherson R  20:25   0  1   -1   1   0   0   0   0   0/0Nick Cousins C  11:51   1  1    1   1   1   0   0   0   0/1Adam Gaudette R  10:23   0  0    0   1   1   0   0   2   4/9Claude Giroux R  20:37   2  0   -1   7   1   0   0   0 10/15Noah Gregor L  13:23   0  0    0   2   0   0   0   0   1/1Ridly Greig C  16:04   0  0   -1   0   1   0   0   3  7/10Zack MacEwen R  07:30   0  0    0   0   0   0   0   0   0/0Josh Norris C  20:58   0  1    0   3   1   0   0   0  5/10Cole Reinhardt L  07:15   0  0    0   0   2   0   0   0   0/0Tim Stützle C  19:53   0  1    0   1   1   0   0   1   1/3Brady Tkachuk L  18:37   1  1    1   4   0   0   0   0   0/3
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+15:24   0  0   -1   2   2   2   0   0   1/2
+Drake Batherson R
+20:25   0  1   -1   1   0   0   0   0   0/0
+Nick Cousins C
+11:51   1  1    1   1   1   0   0   0   0/1
+Adam Gaudette R
+10:23   0  0    0   1   1   0   0   2   4/9
+Claude Giroux R
+20:37   2  0   -1   7   1   0   0   0 10/15
+Noah Gregor L
+13:23   0  0    0   2   0   0   0   0   1/1
+Ridly Greig C
+16:04   0  0   -1   0   1   0   0   3  7/10
+Zack MacEwen R
+07:30   0  0    0   0   0   0   0   0   0/0
+Josh Norris C
+20:58   0  1    0   3   1   0   0   0  5/10
+Cole Reinhardt L
+07:15   0  0    0   0   2   0   0   0   0/0
+Tim Stützle C
+19:53   0  1    0   1   1   0   0   1   1/3
+Brady Tkachuk L
+18:37   1  1    1   4   0   0   0   0   0/3
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:40   0  0    0   0   3   0   0   1   0/0Thomas Chabot D  22:43   0  1   -1   3   3   0   1   0   0/0Travis Hamonic D  19:54   0  0   -1   3   3   0   0   2   0/0Nick Jensen D  20:38   0  0    0   0   5   0   0   4   0/0Tyler Kleven D  15:20   0  1    0   1   1   0   0   1   0/0Jake Sanderson D  24:31   0  1   -1   1   0   0   3   1   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jacob Bernard-Docker D
+14:40   0  0    0   0   3   0   0   1   0/0
+Thomas Chabot D
+22:43   0  1   -1   3   3   0   1   0   0/0
+Travis Hamonic D
+19:54   0  0   -1   3   3   0   0   2   0/0
+Nick Jensen D
+20:38   0  0    0   0   5   0   0   4   0/0
+Tyler Kleven D
+15:20   0  1    0   1   1   0   0   1   0/0
+Jake Sanderson D
+24:31   0  1   -1   1   0   0   3   1   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  25   2   4  15 29/54
+                                        53.7%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  53:08   4  25/29  23/27   2/2   0/0     0
+              .862   .852 1.000 Linus Ullmark G  04:46   0    2/2    2/2   0/0   0/0     0
+             1.000  1.000
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Anton Forsberg G
+53:08   4  25/29  23/27   2/2   0/0     0
+              .862   .852 1.000
+Linus Ullmark G
+04:46   0    2/2    2/2   0/0   0/0     0
+             1.000  1.000
+Senators Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          4  27/31  25/29   2/2   0/0     0
+              .871   .862 1.000
+Senators Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  22:24   1  0    1   6   2   0   1   3   0/0Ivan Ivan C  08:34   0  0    0   2   0   0   0   1   0/2Parker Kelly C  11:10   0  0    0   1   1   0   0   2   3/7Joel Kiviranta L  10:42   0  0   -1   0   0   0   0   0   0/0Nikolai Kovalenko R  14:10   1  0    1   1   0   0   0   1   0/0Nathan MacKinnon C  23:14   1  1    1   5   0   0   1   0 12/20Casey Mittelstadt C  19:11   0  3    1   3   0   0   0   1  6/16Logan O'Connor R  18:28   1  0    0   2   0   0   0   0   0/0Mikko Rantanen R  23:13   0  1    1   5   2   2   0   1   2/5Matt Stienburg C  07:36   0  0    0   0   0   0   0   0   0/0Chris Wagner R  08:06   0  0    0   2   1   0   0   0   2/4Miles Wood L  13:18   0  0    0   2   0   0   0   1   0/0
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+22:24   1  0    1   6   2   0   1   3   0/0
+Ivan Ivan C
+08:34   0  0    0   2   0   0   0   1   0/2
+Parker Kelly C
+11:10   0  0    0   1   1   0   0   2   3/7
+Joel Kiviranta L
+10:42   0  0   -1   0   0   0   0   0   0/0
+Nikolai Kovalenko R
+14:10   1  0    1   1   0   0   0   1   0/0
+Nathan MacKinnon C
+23:14   1  1    1   5   0   0   1   0 12/20
+Casey Mittelstadt C
+19:11   0  3    1   3   0   0   0   1  6/16
+Logan O'Connor R
+18:28   1  0    0   2   0   0   0   0   0/0
+Mikko Rantanen R
+23:13   0  1    1   5   2   2   0   1   2/5
+Matt Stienburg C
+07:36   0  0    0   0   0   0   0   0   0/0
+Chris Wagner R
+08:06   0  0    0   2   1   0   0   0   2/4
+Miles Wood L
+13:18   0  0    0   2   0   0   0   1   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  18:56   0  2    2   0   0   0   0   2   0/0Cale Makar D  21:46   0  1   -1   1   2   0   0   1   0/0Sam Malinski D  15:39   0  0    0   0   1   0   1   0   0/0Josh Manson D  20:22   1  0    1   1   0   0   1   1   0/0Devon Toews D  22:34   0  0    0   1   0   0   0   0   0/0Calvin de Haan D  19:03   0  0    0   0   1   0   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+18:56   0  2    2   0   0   0   0   2   0/0
+Cale Makar D
+21:46   0  1   -1   1   2   0   0   1   0/0
+Sam Malinski D
+15:39   0  0    0   0   1   0   1   0   0/0
+Josh Manson D
+20:22   1  0    1   1   0   0   1   1   0/0
+Devon Toews D
+22:34   0  0    0   1   0   0   0   0   0/0
+Calvin de Haan D
+19:03   0  0    0   0   1   0   0   0   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       32  10   2   4  14 25/54
+                                        46.3%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  59:34   4  26/30  25/29   0/0   1/1     0
+              .867   .862  1.000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Justus Annunen G
+59:34   4  26/30  25/29   0/0   1/1     0
+              .867   .862  1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

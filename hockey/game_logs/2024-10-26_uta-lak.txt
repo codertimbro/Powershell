@@ -1,0 +1,352 @@
+< Oct. 26 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Utah
+Hockey Club4-4-1Final2 - 3Los Angeles
+Kings5-2-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+UTA   0  1  1    2  
+LAK   0  2  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:51 
+Ian Cole (UTA) interference against Tanner Jeannot (2 minutes)
+   0-0
+P1  08:05 
+Maveric Lamoureux (UTA) slashing against Warren Foegele (2 minutes)
+   0-0
+P1  07:57 
+Kevin Fiala (LAK) interference against Kevin Stenlund (2 minutes)
+   0-0
+P1  03:36 
+Tanner Jeannot (LAK) hooking against Clayton Keller (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  13:22 
+Michael Kesselring (UTA) holding against Trevor Moore (2 minutes)
+   0-0
+P2  12:09 
+Brandt Clarke (LAK) scores power-play goal on snap shot past Connor Ingram, assisted by Adrian Kempe and Kevin Fiala
+   0-1
+P2  06:50 
+Joel Edmundson (LAK) scores on wrist shot past Connor Ingram, assisted by Anze Kopitar and Quinton Byfield
+   0-2
+P2  06:06 
+Kevin Fiala (LAK) cross-checking against Barrett Hayton (2 minutes)
+   0-2
+P2  04:05 
+Clayton Keller (UTA) scores on slap shot past Darcy Kuemper, assisted by Mikhail Sergachev and Nick Schmaltz
+   1-2
+3rd Period: ShowHide
+P3  18:51 
+Joel Edmundson (LAK) scores on slap shot past Connor Ingram, assisted by Adrian Kempe and Brandt Clarke
+   1-3
+P3  10:13 
+Logan Cooley (UTA) scores on tip-in past Darcy Kuemper, assisted by Michael Kesselring and Dylan Guenther
+   2-3
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  12:49   0  0   -1   0   0   0   0   1  6/10Logan Cooley C  15:05   1  0    1   3   0   0   0   0   1/4Lawson Crouse L  14:31   0  0   -1   3   0   0   0   2   0/0Josh Doan R  08:44   0  0    0   0   0   0   1   0   1/2Dylan Guenther R  15:33   0  1    2   0   0   0   0   0   0/0Barrett Hayton C  18:25   0  0    1   3   2   0   0   2 11/17Clayton Keller R  21:46   1  0    1   3   1   0   1   1   1/2Alexander Kerfoot C  15:26   0  0   -1   1   3   0   0   1   5/5Matias Maccelli L  14:02   0  0   -1   0   1   0   0   0   0/1Jack McBain C  12:04   0  0    0   0   1   0   0   0   0/2Nick Schmaltz C  17:13   0  1    1   1   1   0   0   1   0/2Kevin Stenlund C  16:32   0  0   -1   2   1   0   1   1 11/15Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  12:09   0  0   -1   2   2   0   0   1   0/0Ian Cole D  18:06   0  0    0   3   0   2   2   0   0/0Michael Kesselring D  23:47   0  1    0   2   0   2   0   0   0/0Vladislav Kolyachonok D  13:31   0  0    1   0   1   0   0   0   0/0Maveric Lamoureux D  20:40   0  0   -1   1   0   2   1   4   0/0Mikhail Sergachev D  26:18   0  1    0   1   1   0   1   2   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  14   6   7  16 36/60
+                                        60.0%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  58:06   3  20/23  19/21   1/2   0/0     0
+              .870   .905  .500 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  19:26   0  1    1   0   0   0   0   2   1/4Phillip Danault C  18:41   0  0   -1   2   2   0   1   1 11/20Kevin Fiala L  10:12   0  1   -1   1   0   4   0   1   0/0Warren Foegele L  14:39   0  0    0   1   0   0   0   1   0/0Tanner Jeannot L  12:04   0  0    0   1   0   2   0   2   0/0Adrian Kempe R  17:51   0  2    1   2   0   0   0   1   0/1Anze Kopitar C  18:06   0  1    1   0   0   0   0   0  8/16Alex Laferriere R  14:21   0  0    0   0   0   0   0   0   0/1Andre Lee L  10:28   0  0    0   0   1   0   0   1   0/0Trevor Lewis C  11:25   0  0    0   1   0   0   0   0   2/8Trevor Moore L  17:38   0  0   -1   1   1   0   0   0   0/0Alex Turcotte C  12:25   0  0    0   3   0   0   0   1  2/10Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  22:58   0  0   -1   0   2   0   1   0   0/0Brandt Clarke D  18:24   1  1    1   1   4   0   0   1   0/0Joel Edmundson D  21:19   2  0    0   3   3   0   1   0   0/0Vladislav Gavrikov D  21:45   0  0    0   1   0   0   0   2   0/0Caleb Jones D  14:17   0  0    0   1   1   0   0   0   0/0Jordan Spence D  18:01   0  0    0   5   1   0   0   1   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       23  15   6   3  14 24/60
+                                        40.0%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  60:00   2  23/25  23/25   0/0   0/0     0
+              .920   .920
+Utah
+Hockey Club4-4-1Final2 - 3Los Angeles
+Kings5-2-2
+Utah
+Hockey Club4-4-1
+Final2 - 3
+Los Angeles
+Kings5-2-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+UTA   0  1  1    2  
+LAK   0  2  1    3
+1st Period: ShowHide
+P1  17:51 
+Ian Cole (UTA) interference against Tanner Jeannot (2 minutes)
+   0-0
+P1  08:05 
+Maveric Lamoureux (UTA) slashing against Warren Foegele (2 minutes)
+   0-0
+P1  07:57 
+Kevin Fiala (LAK) interference against Kevin Stenlund (2 minutes)
+   0-0
+P1  03:36 
+Tanner Jeannot (LAK) hooking against Clayton Keller (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  13:22 
+Michael Kesselring (UTA) holding against Trevor Moore (2 minutes)
+   0-0
+P2  12:09 
+Brandt Clarke (LAK) scores power-play goal on snap shot past Connor Ingram, assisted by Adrian Kempe and Kevin Fiala
+   0-1
+P2  06:50 
+Joel Edmundson (LAK) scores on wrist shot past Connor Ingram, assisted by Anze Kopitar and Quinton Byfield
+   0-2
+P2  06:06 
+Kevin Fiala (LAK) cross-checking against Barrett Hayton (2 minutes)
+   0-2
+P2  04:05 
+Clayton Keller (UTA) scores on slap shot past Darcy Kuemper, assisted by Mikhail Sergachev and Nick Schmaltz
+   1-2
+3rd Period: ShowHide
+P3  18:51 
+Joel Edmundson (LAK) scores on slap shot past Connor Ingram, assisted by Adrian Kempe and Brandt Clarke
+   1-3
+P3  10:13 
+Logan Cooley (UTA) scores on tip-in past Darcy Kuemper, assisted by Michael Kesselring and Dylan Guenther
+   2-3
+1st Period: ShowHide
+P1  17:51 
+Ian Cole (UTA) interference against Tanner Jeannot (2 minutes)
+   0-0
+P1  08:05 
+Maveric Lamoureux (UTA) slashing against Warren Foegele (2 minutes)
+   0-0
+P1  07:57 
+Kevin Fiala (LAK) interference against Kevin Stenlund (2 minutes)
+   0-0
+P1  03:36 
+Tanner Jeannot (LAK) hooking against Clayton Keller (2 minutes)
+   0-0
+P1  17:51 
+Ian Cole (UTA) interference against Tanner Jeannot (2 minutes)
+   0-0
+P1  08:05 
+Maveric Lamoureux (UTA) slashing against Warren Foegele (2 minutes)
+   0-0
+P1  07:57 
+Kevin Fiala (LAK) interference against Kevin Stenlund (2 minutes)
+   0-0
+P1  03:36 
+Tanner Jeannot (LAK) hooking against Clayton Keller (2 minutes)
+   0-0
+P1  17:51
+Ian Cole (UTA) interference against Tanner Jeannot (2 minutes)
+0-0
+P1  08:05
+Maveric Lamoureux (UTA) slashing against Warren Foegele (2 minutes)
+0-0
+P1  07:57
+Kevin Fiala (LAK) interference against Kevin Stenlund (2 minutes)
+0-0
+P1  03:36
+Tanner Jeannot (LAK) hooking against Clayton Keller (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  13:22 
+Michael Kesselring (UTA) holding against Trevor Moore (2 minutes)
+   0-0
+P2  12:09 
+Brandt Clarke (LAK) scores power-play goal on snap shot past Connor Ingram, assisted by Adrian Kempe and Kevin Fiala
+   0-1
+P2  06:50 
+Joel Edmundson (LAK) scores on wrist shot past Connor Ingram, assisted by Anze Kopitar and Quinton Byfield
+   0-2
+P2  06:06 
+Kevin Fiala (LAK) cross-checking against Barrett Hayton (2 minutes)
+   0-2
+P2  04:05 
+Clayton Keller (UTA) scores on slap shot past Darcy Kuemper, assisted by Mikhail Sergachev and Nick Schmaltz
+   1-2
+P2  13:22 
+Michael Kesselring (UTA) holding against Trevor Moore (2 minutes)
+   0-0
+P2  12:09 
+Brandt Clarke (LAK) scores power-play goal on snap shot past Connor Ingram, assisted by Adrian Kempe and Kevin Fiala
+   0-1
+P2  06:50 
+Joel Edmundson (LAK) scores on wrist shot past Connor Ingram, assisted by Anze Kopitar and Quinton Byfield
+   0-2
+P2  06:06 
+Kevin Fiala (LAK) cross-checking against Barrett Hayton (2 minutes)
+   0-2
+P2  04:05 
+Clayton Keller (UTA) scores on slap shot past Darcy Kuemper, assisted by Mikhail Sergachev and Nick Schmaltz
+   1-2
+P2  13:22
+Michael Kesselring (UTA) holding against Trevor Moore (2 minutes)
+0-0
+P2  12:09
+Brandt Clarke (LAK) scores power-play goal on snap shot past Connor Ingram, assisted by Adrian Kempe and Kevin Fiala
+0-1
+P2  06:50
+Joel Edmundson (LAK) scores on wrist shot past Connor Ingram, assisted by Anze Kopitar and Quinton Byfield
+0-2
+P2  06:06
+Kevin Fiala (LAK) cross-checking against Barrett Hayton (2 minutes)
+0-2
+P2  04:05
+Clayton Keller (UTA) scores on slap shot past Darcy Kuemper, assisted by Mikhail Sergachev and Nick Schmaltz
+1-2
+3rd Period: ShowHide
+P3  18:51 
+Joel Edmundson (LAK) scores on slap shot past Connor Ingram, assisted by Adrian Kempe and Brandt Clarke
+   1-3
+P3  10:13 
+Logan Cooley (UTA) scores on tip-in past Darcy Kuemper, assisted by Michael Kesselring and Dylan Guenther
+   2-3
+P3  18:51 
+Joel Edmundson (LAK) scores on slap shot past Connor Ingram, assisted by Adrian Kempe and Brandt Clarke
+   1-3
+P3  10:13 
+Logan Cooley (UTA) scores on tip-in past Darcy Kuemper, assisted by Michael Kesselring and Dylan Guenther
+   2-3
+P3  18:51
+Joel Edmundson (LAK) scores on slap shot past Connor Ingram, assisted by Adrian Kempe and Brandt Clarke
+1-3
+P3  10:13
+Logan Cooley (UTA) scores on tip-in past Darcy Kuemper, assisted by Michael Kesselring and Dylan Guenther
+2-3
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  12:49   0  0   -1   0   0   0   0   1  6/10Logan Cooley C  15:05   1  0    1   3   0   0   0   0   1/4Lawson Crouse L  14:31   0  0   -1   3   0   0   0   2   0/0Josh Doan R  08:44   0  0    0   0   0   0   1   0   1/2Dylan Guenther R  15:33   0  1    2   0   0   0   0   0   0/0Barrett Hayton C  18:25   0  0    1   3   2   0   0   2 11/17Clayton Keller R  21:46   1  0    1   3   1   0   1   1   1/2Alexander Kerfoot C  15:26   0  0   -1   1   3   0   0   1   5/5Matias Maccelli L  14:02   0  0   -1   0   1   0   0   0   0/1Jack McBain C  12:04   0  0    0   0   1   0   0   0   0/2Nick Schmaltz C  17:13   0  1    1   1   1   0   0   1   0/2Kevin Stenlund C  16:32   0  0   -1   2   1   0   1   1 11/15Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  12:09   0  0   -1   2   2   0   0   1   0/0Ian Cole D  18:06   0  0    0   3   0   2   2   0   0/0Michael Kesselring D  23:47   0  1    0   2   0   2   0   0   0/0Vladislav Kolyachonok D  13:31   0  0    1   0   1   0   0   0   0/0Maveric Lamoureux D  20:40   0  0   -1   1   0   2   1   4   0/0Mikhail Sergachev D  26:18   0  1    0   1   1   0   1   2   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  14   6   7  16 36/60
+                                        60.0%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  58:06   3  20/23  19/21   1/2   0/0     0
+              .870   .905  .500 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  19:26   0  1    1   0   0   0   0   2   1/4Phillip Danault C  18:41   0  0   -1   2   2   0   1   1 11/20Kevin Fiala L  10:12   0  1   -1   1   0   4   0   1   0/0Warren Foegele L  14:39   0  0    0   1   0   0   0   1   0/0Tanner Jeannot L  12:04   0  0    0   1   0   2   0   2   0/0Adrian Kempe R  17:51   0  2    1   2   0   0   0   1   0/1Anze Kopitar C  18:06   0  1    1   0   0   0   0   0  8/16Alex Laferriere R  14:21   0  0    0   0   0   0   0   0   0/1Andre Lee L  10:28   0  0    0   0   1   0   0   1   0/0Trevor Lewis C  11:25   0  0    0   1   0   0   0   0   2/8Trevor Moore L  17:38   0  0   -1   1   1   0   0   0   0/0Alex Turcotte C  12:25   0  0    0   3   0   0   0   1  2/10Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  22:58   0  0   -1   0   2   0   1   0   0/0Brandt Clarke D  18:24   1  1    1   1   4   0   0   1   0/0Joel Edmundson D  21:19   2  0    0   3   3   0   1   0   0/0Vladislav Gavrikov D  21:45   0  0    0   1   0   0   0   2   0/0Caleb Jones D  14:17   0  0    0   1   1   0   0   0   0/0Jordan Spence D  18:01   0  0    0   5   1   0   0   1   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       23  15   6   3  14 24/60
+                                        40.0%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  60:00   2  23/25  23/25   0/0   0/0     0
+              .920   .920
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  12:49   0  0   -1   0   0   0   0   1  6/10Logan Cooley C  15:05   1  0    1   3   0   0   0   0   1/4Lawson Crouse L  14:31   0  0   -1   3   0   0   0   2   0/0Josh Doan R  08:44   0  0    0   0   0   0   1   0   1/2Dylan Guenther R  15:33   0  1    2   0   0   0   0   0   0/0Barrett Hayton C  18:25   0  0    1   3   2   0   0   2 11/17Clayton Keller R  21:46   1  0    1   3   1   0   1   1   1/2Alexander Kerfoot C  15:26   0  0   -1   1   3   0   0   1   5/5Matias Maccelli L  14:02   0  0   -1   0   1   0   0   0   0/1Jack McBain C  12:04   0  0    0   0   1   0   0   0   0/2Nick Schmaltz C  17:13   0  1    1   1   1   0   0   1   0/2Kevin Stenlund C  16:32   0  0   -1   2   1   0   1   1 11/15
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nick Bjugstad C
+12:49   0  0   -1   0   0   0   0   1  6/10
+Logan Cooley C
+15:05   1  0    1   3   0   0   0   0   1/4
+Lawson Crouse L
+14:31   0  0   -1   3   0   0   0   2   0/0
+Josh Doan R
+08:44   0  0    0   0   0   0   1   0   1/2
+Dylan Guenther R
+15:33   0  1    2   0   0   0   0   0   0/0
+Barrett Hayton C
+18:25   0  0    1   3   2   0   0   2 11/17
+Clayton Keller R
+21:46   1  0    1   3   1   0   1   1   1/2
+Alexander Kerfoot C
+15:26   0  0   -1   1   3   0   0   1   5/5
+Matias Maccelli L
+14:02   0  0   -1   0   1   0   0   0   0/1
+Jack McBain C
+12:04   0  0    0   0   1   0   0   0   0/2
+Nick Schmaltz C
+17:13   0  1    1   1   1   0   0   1   0/2
+Kevin Stenlund C
+16:32   0  0   -1   2   1   0   1   1 11/15
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  12:09   0  0   -1   2   2   0   0   1   0/0Ian Cole D  18:06   0  0    0   3   0   2   2   0   0/0Michael Kesselring D  23:47   0  1    0   2   0   2   0   0   0/0Vladislav Kolyachonok D  13:31   0  0    1   0   1   0   0   0   0/0Maveric Lamoureux D  20:40   0  0   -1   1   0   2   1   4   0/0Mikhail Sergachev D  26:18   0  1    0   1   1   0   1   2   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Robert Bortuzzo D
+12:09   0  0   -1   2   2   0   0   1   0/0
+Ian Cole D
+18:06   0  0    0   3   0   2   2   0   0/0
+Michael Kesselring D
+23:47   0  1    0   2   0   2   0   0   0/0
+Vladislav Kolyachonok D
+13:31   0  0    1   0   1   0   0   0   0/0
+Maveric Lamoureux D
+20:40   0  0   -1   1   0   2   1   4   0/0
+Mikhail Sergachev D
+26:18   0  1    0   1   1   0   1   2   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  14   6   7  16 36/60
+                                        60.0%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  58:06   3  20/23  19/21   1/2   0/0     0
+              .870   .905  .500
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+58:06   3  20/23  19/21   1/2   0/0     0
+              .870   .905  .500
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  19:26   0  1    1   0   0   0   0   2   1/4Phillip Danault C  18:41   0  0   -1   2   2   0   1   1 11/20Kevin Fiala L  10:12   0  1   -1   1   0   4   0   1   0/0Warren Foegele L  14:39   0  0    0   1   0   0   0   1   0/0Tanner Jeannot L  12:04   0  0    0   1   0   2   0   2   0/0Adrian Kempe R  17:51   0  2    1   2   0   0   0   1   0/1Anze Kopitar C  18:06   0  1    1   0   0   0   0   0  8/16Alex Laferriere R  14:21   0  0    0   0   0   0   0   0   0/1Andre Lee L  10:28   0  0    0   0   1   0   0   1   0/0Trevor Lewis C  11:25   0  0    0   1   0   0   0   0   2/8Trevor Moore L  17:38   0  0   -1   1   1   0   0   0   0/0Alex Turcotte C  12:25   0  0    0   3   0   0   0   1  2/10
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Quinton Byfield R
+19:26   0  1    1   0   0   0   0   2   1/4
+Phillip Danault C
+18:41   0  0   -1   2   2   0   1   1 11/20
+Kevin Fiala L
+10:12   0  1   -1   1   0   4   0   1   0/0
+Warren Foegele L
+14:39   0  0    0   1   0   0   0   1   0/0
+Tanner Jeannot L
+12:04   0  0    0   1   0   2   0   2   0/0
+Adrian Kempe R
+17:51   0  2    1   2   0   0   0   1   0/1
+Anze Kopitar C
+18:06   0  1    1   0   0   0   0   0  8/16
+Alex Laferriere R
+14:21   0  0    0   0   0   0   0   0   0/1
+Andre Lee L
+10:28   0  0    0   0   1   0   0   1   0/0
+Trevor Lewis C
+11:25   0  0    0   1   0   0   0   0   2/8
+Trevor Moore L
+17:38   0  0   -1   1   1   0   0   0   0/0
+Alex Turcotte C
+12:25   0  0    0   3   0   0   0   1  2/10
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  22:58   0  0   -1   0   2   0   1   0   0/0Brandt Clarke D  18:24   1  1    1   1   4   0   0   1   0/0Joel Edmundson D  21:19   2  0    0   3   3   0   1   0   0/0Vladislav Gavrikov D  21:45   0  0    0   1   0   0   0   2   0/0Caleb Jones D  14:17   0  0    0   1   1   0   0   0   0/0Jordan Spence D  18:01   0  0    0   5   1   0   0   1   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikey Anderson D
+22:58   0  0   -1   0   2   0   1   0   0/0
+Brandt Clarke D
+18:24   1  1    1   1   4   0   0   1   0/0
+Joel Edmundson D
+21:19   2  0    0   3   3   0   1   0   0/0
+Vladislav Gavrikov D
+21:45   0  0    0   1   0   0   0   2   0/0
+Caleb Jones D
+14:17   0  0    0   1   1   0   0   0   0/0
+Jordan Spence D
+18:01   0  0    0   5   1   0   0   1   0/0
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       23  15   6   3  14 24/60
+                                        40.0%
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  60:00   2  23/25  23/25   0/0   0/0     0
+              .920   .920
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Darcy Kuemper G
+60:00   2  23/25  23/25   0/0   0/0     0
+              .920   .920
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

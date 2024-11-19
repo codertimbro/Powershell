@@ -1,0 +1,412 @@
+< Oct. 30 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New Jersey
+Devils7-4-2Final6 - 0Vancouver
+Canucks4-2-3
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NJD   1  3  2    6  
+VAN   0  0  0    0
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:07 
+Nico Hischier (NJD) scores on wrist shot past Arturs Silovs, assisted by Dawson Mercer
+   1-0
+P1  16:00 
+Jesper Bratt (NJD) high-sticking against Quinn Hughes (4 minutes)
+   1-0
+P1  08:58 
+Danton Heinen (VAN) hooking against Ondrej Palat (2 minutes)
+   1-0
+P1  04:17 
+Erik Haula (NJD) holding against Conor Garland (2 minutes)
+   1-0
+P1  04:17 
+Conor Garland (VAN) holding the stick against Erik Haula (2 minutes)
+   1-0
+P1  00:05 
+Jonas Siegenthaler (NJD) tripping against Conor Garland (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:25 
+Dawson Mercer (NJD) scores short-handed goal on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   2-0
+P2  16:53 
+Timo Meier (NJD) scores on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   3-0
+P2  10:15 
+Erik Haula (NJD) fighting against Conor Garland (5 minutes)
+   3-0
+P2  10:15 
+Conor Garland (VAN) fighting against Erik Haula (5 minutes)
+   3-0
+P2  05:56 
+Ondrej Palat (NJD) scores on wrist shot past Arturs Silovs, assisted by Dougie Hamilton and Jack Hughes
+   4-0
+P2  03:48 
+Paul Cotter (NJD) roughing against Teddy Blueger (2 minutes)
+   4-0
+3rd Period: ShowHide
+P3  11:26 
+Teddy Blueger (VAN) interference against Tomas Tatar (2 minutes)
+   4-0
+P3  10:38 
+Jack Hughes (NJD) scores power-play goal on wrist shot past Arturs Silovs, assisted by Stefan Noesen and Jesper Bratt
+   5-0
+P3  05:54 
+Tomas Tatar (NJD) scores on wrist shot past Arturs Silovs, assisted by Nathan Bastian and Justin Dowling
+   6-0
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  13:06   0  1    1   0   0   0   0   0   1/1Jesper Bratt L  14:50   0  1    1   1   0   4   0   0   0/0Paul Cotter C  13:37   0  0    0   0   0   2   1   0   0/0Justin Dowling C  11:46   0  1    1   0   1   0   1   1  3/10Erik Haula L  12:50   0  0    0   2   0   7   0   0  7/10Nico Hischier C  20:29   1  2    3   2   3   0   1   1  9/20Jack Hughes C  15:56   1  1    1   2   0   0   1   3  7/13Timo Meier R  15:17   1  0    2   3   0   0   0   1   0/0Dawson Mercer C  17:21   1  1    3   3   2   0   0   0   0/1Stefan Noesen R  13:46   0  1    0   0   1   0   0   1   1/2Ondrej Palat L  11:24   1  0    1   5   1   0   1   0   0/0Tomas Tatar L  12:27   1  0    1   1   1   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  17:29   0  0    4   0   1   0   0   1   0/0Dougie Hamilton D  16:55   0  1    3   0   1   0   0   4   0/0Luke Hughes D  19:08   0  0    0   1   0   0   1   0   0/0Johnathan Kovacevic D  21:17   0  0    2   1   1   0   2   2   0/0Brett Pesce D  22:30   0  0    0   1   3   0   0   0   0/0Jonas Siegenthaler D  20:17   0  0    1   0   2   2   0   0   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       22  17  15   8  14 28/57
+                                        49.1%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:35   0  20/20  17/17   3/3   0/0     0
+             1.000  1.000 1.000 
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  11:39   0  0   -2   0   2   0   0   0   0/0Teddy Blueger C  13:31   0  0   -1   1   1   2   0   0  7/12Brock Boeser R  18:41   0  0   -1   0   2   0   0   0   0/0Jake DeBrusk L  14:29   0  0    0   0   1   0   0   0   0/0Conor Garland R  15:05   0  0   -1   2   1   7   0   0   0/0Danton Heinen L  14:41   0  0   -1   0   0   2   1   0   0/0Nils Hoglander L  12:59   0  0   -2   1   0   0   2   1   0/0J.T. Miller C  17:51   0  0   -1   1   0   0   0   0 12/21Elias Pettersson C  19:37   0  0   -2   2   0   0   1   0  6/14Kiefer Sherwood L  13:00   0  0   -1   2   0   0   0   1   0/0Daniel Sprong R  15:19   0  0   -2   1   0   0   0   0   0/0Pius Suter C  15:36   0  0   -2   2   0   0   0   0  4/10Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  16:07   0  0   -2   1   3   0   0   0   0/0Filip Hronek D  22:23   0  0    0   1   0   0   0   2   0/0Quinn Hughes D  26:23   0  0   -1   3   0   0   1   0   0/0Noah Juulsen D  13:46   0  0   -1   1   0   0   0   1   0/0Tyler Myers D  16:43   0  0   -3   1   1   0   0   1   0/0Carson Soucy D  17:24   0  0   -2   1   4   0   0   1   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  15  11   5   7 29/57
+                                        50.9%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArturs Silovs G  59:58   6  16/22  14/18   1/2   1/2     0
+              .727   .778  .500  .500
+New Jersey
+Devils7-4-2Final6 - 0Vancouver
+Canucks4-2-3
+New Jersey
+Devils7-4-2
+Final6 - 0
+Vancouver
+Canucks4-2-3
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NJD   1  3  2    6  
+VAN   0  0  0    0
+1st Period: ShowHide
+P1  19:07 
+Nico Hischier (NJD) scores on wrist shot past Arturs Silovs, assisted by Dawson Mercer
+   1-0
+P1  16:00 
+Jesper Bratt (NJD) high-sticking against Quinn Hughes (4 minutes)
+   1-0
+P1  08:58 
+Danton Heinen (VAN) hooking against Ondrej Palat (2 minutes)
+   1-0
+P1  04:17 
+Erik Haula (NJD) holding against Conor Garland (2 minutes)
+   1-0
+P1  04:17 
+Conor Garland (VAN) holding the stick against Erik Haula (2 minutes)
+   1-0
+P1  00:05 
+Jonas Siegenthaler (NJD) tripping against Conor Garland (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:25 
+Dawson Mercer (NJD) scores short-handed goal on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   2-0
+P2  16:53 
+Timo Meier (NJD) scores on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   3-0
+P2  10:15 
+Erik Haula (NJD) fighting against Conor Garland (5 minutes)
+   3-0
+P2  10:15 
+Conor Garland (VAN) fighting against Erik Haula (5 minutes)
+   3-0
+P2  05:56 
+Ondrej Palat (NJD) scores on wrist shot past Arturs Silovs, assisted by Dougie Hamilton and Jack Hughes
+   4-0
+P2  03:48 
+Paul Cotter (NJD) roughing against Teddy Blueger (2 minutes)
+   4-0
+3rd Period: ShowHide
+P3  11:26 
+Teddy Blueger (VAN) interference against Tomas Tatar (2 minutes)
+   4-0
+P3  10:38 
+Jack Hughes (NJD) scores power-play goal on wrist shot past Arturs Silovs, assisted by Stefan Noesen and Jesper Bratt
+   5-0
+P3  05:54 
+Tomas Tatar (NJD) scores on wrist shot past Arturs Silovs, assisted by Nathan Bastian and Justin Dowling
+   6-0
+1st Period: ShowHide
+P1  19:07 
+Nico Hischier (NJD) scores on wrist shot past Arturs Silovs, assisted by Dawson Mercer
+   1-0
+P1  16:00 
+Jesper Bratt (NJD) high-sticking against Quinn Hughes (4 minutes)
+   1-0
+P1  08:58 
+Danton Heinen (VAN) hooking against Ondrej Palat (2 minutes)
+   1-0
+P1  04:17 
+Erik Haula (NJD) holding against Conor Garland (2 minutes)
+   1-0
+P1  04:17 
+Conor Garland (VAN) holding the stick against Erik Haula (2 minutes)
+   1-0
+P1  00:05 
+Jonas Siegenthaler (NJD) tripping against Conor Garland (2 minutes)
+   1-0
+P1  19:07 
+Nico Hischier (NJD) scores on wrist shot past Arturs Silovs, assisted by Dawson Mercer
+   1-0
+P1  16:00 
+Jesper Bratt (NJD) high-sticking against Quinn Hughes (4 minutes)
+   1-0
+P1  08:58 
+Danton Heinen (VAN) hooking against Ondrej Palat (2 minutes)
+   1-0
+P1  04:17 
+Erik Haula (NJD) holding against Conor Garland (2 minutes)
+   1-0
+P1  04:17 
+Conor Garland (VAN) holding the stick against Erik Haula (2 minutes)
+   1-0
+P1  00:05 
+Jonas Siegenthaler (NJD) tripping against Conor Garland (2 minutes)
+   1-0
+P1  19:07
+Nico Hischier (NJD) scores on wrist shot past Arturs Silovs, assisted by Dawson Mercer
+1-0
+P1  16:00
+Jesper Bratt (NJD) high-sticking against Quinn Hughes (4 minutes)
+1-0
+P1  08:58
+Danton Heinen (VAN) hooking against Ondrej Palat (2 minutes)
+1-0
+P1  04:17
+Erik Haula (NJD) holding against Conor Garland (2 minutes)
+1-0
+P1  04:17
+Conor Garland (VAN) holding the stick against Erik Haula (2 minutes)
+1-0
+P1  00:05
+Jonas Siegenthaler (NJD) tripping against Conor Garland (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  18:25 
+Dawson Mercer (NJD) scores short-handed goal on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   2-0
+P2  16:53 
+Timo Meier (NJD) scores on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   3-0
+P2  10:15 
+Erik Haula (NJD) fighting against Conor Garland (5 minutes)
+   3-0
+P2  10:15 
+Conor Garland (VAN) fighting against Erik Haula (5 minutes)
+   3-0
+P2  05:56 
+Ondrej Palat (NJD) scores on wrist shot past Arturs Silovs, assisted by Dougie Hamilton and Jack Hughes
+   4-0
+P2  03:48 
+Paul Cotter (NJD) roughing against Teddy Blueger (2 minutes)
+   4-0
+P2  18:25 
+Dawson Mercer (NJD) scores short-handed goal on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   2-0
+P2  16:53 
+Timo Meier (NJD) scores on wrist shot past Arturs Silovs, assisted by Nico Hischier
+   3-0
+P2  10:15 
+Erik Haula (NJD) fighting against Conor Garland (5 minutes)
+   3-0
+P2  10:15 
+Conor Garland (VAN) fighting against Erik Haula (5 minutes)
+   3-0
+P2  05:56 
+Ondrej Palat (NJD) scores on wrist shot past Arturs Silovs, assisted by Dougie Hamilton and Jack Hughes
+   4-0
+P2  03:48 
+Paul Cotter (NJD) roughing against Teddy Blueger (2 minutes)
+   4-0
+P2  18:25
+Dawson Mercer (NJD) scores short-handed goal on wrist shot past Arturs Silovs, assisted by Nico Hischier
+2-0
+P2  16:53
+Timo Meier (NJD) scores on wrist shot past Arturs Silovs, assisted by Nico Hischier
+3-0
+P2  10:15
+Erik Haula (NJD) fighting against Conor Garland (5 minutes)
+3-0
+P2  10:15
+Conor Garland (VAN) fighting against Erik Haula (5 minutes)
+3-0
+P2  05:56
+Ondrej Palat (NJD) scores on wrist shot past Arturs Silovs, assisted by Dougie Hamilton and Jack Hughes
+4-0
+P2  03:48
+Paul Cotter (NJD) roughing against Teddy Blueger (2 minutes)
+4-0
+3rd Period: ShowHide
+P3  11:26 
+Teddy Blueger (VAN) interference against Tomas Tatar (2 minutes)
+   4-0
+P3  10:38 
+Jack Hughes (NJD) scores power-play goal on wrist shot past Arturs Silovs, assisted by Stefan Noesen and Jesper Bratt
+   5-0
+P3  05:54 
+Tomas Tatar (NJD) scores on wrist shot past Arturs Silovs, assisted by Nathan Bastian and Justin Dowling
+   6-0
+P3  11:26 
+Teddy Blueger (VAN) interference against Tomas Tatar (2 minutes)
+   4-0
+P3  10:38 
+Jack Hughes (NJD) scores power-play goal on wrist shot past Arturs Silovs, assisted by Stefan Noesen and Jesper Bratt
+   5-0
+P3  05:54 
+Tomas Tatar (NJD) scores on wrist shot past Arturs Silovs, assisted by Nathan Bastian and Justin Dowling
+   6-0
+P3  11:26
+Teddy Blueger (VAN) interference against Tomas Tatar (2 minutes)
+4-0
+P3  10:38
+Jack Hughes (NJD) scores power-play goal on wrist shot past Arturs Silovs, assisted by Stefan Noesen and Jesper Bratt
+5-0
+P3  05:54
+Tomas Tatar (NJD) scores on wrist shot past Arturs Silovs, assisted by Nathan Bastian and Justin Dowling
+6-0
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  13:06   0  1    1   0   0   0   0   0   1/1Jesper Bratt L  14:50   0  1    1   1   0   4   0   0   0/0Paul Cotter C  13:37   0  0    0   0   0   2   1   0   0/0Justin Dowling C  11:46   0  1    1   0   1   0   1   1  3/10Erik Haula L  12:50   0  0    0   2   0   7   0   0  7/10Nico Hischier C  20:29   1  2    3   2   3   0   1   1  9/20Jack Hughes C  15:56   1  1    1   2   0   0   1   3  7/13Timo Meier R  15:17   1  0    2   3   0   0   0   1   0/0Dawson Mercer C  17:21   1  1    3   3   2   0   0   0   0/1Stefan Noesen R  13:46   0  1    0   0   1   0   0   1   1/2Ondrej Palat L  11:24   1  0    1   5   1   0   1   0   0/0Tomas Tatar L  12:27   1  0    1   1   1   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  17:29   0  0    4   0   1   0   0   1   0/0Dougie Hamilton D  16:55   0  1    3   0   1   0   0   4   0/0Luke Hughes D  19:08   0  0    0   1   0   0   1   0   0/0Johnathan Kovacevic D  21:17   0  0    2   1   1   0   2   2   0/0Brett Pesce D  22:30   0  0    0   1   3   0   0   0   0/0Jonas Siegenthaler D  20:17   0  0    1   0   2   2   0   0   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       22  17  15   8  14 28/57
+                                        49.1%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:35   0  20/20  17/17   3/3   0/0     0
+             1.000  1.000 1.000 
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  11:39   0  0   -2   0   2   0   0   0   0/0Teddy Blueger C  13:31   0  0   -1   1   1   2   0   0  7/12Brock Boeser R  18:41   0  0   -1   0   2   0   0   0   0/0Jake DeBrusk L  14:29   0  0    0   0   1   0   0   0   0/0Conor Garland R  15:05   0  0   -1   2   1   7   0   0   0/0Danton Heinen L  14:41   0  0   -1   0   0   2   1   0   0/0Nils Hoglander L  12:59   0  0   -2   1   0   0   2   1   0/0J.T. Miller C  17:51   0  0   -1   1   0   0   0   0 12/21Elias Pettersson C  19:37   0  0   -2   2   0   0   1   0  6/14Kiefer Sherwood L  13:00   0  0   -1   2   0   0   0   1   0/0Daniel Sprong R  15:19   0  0   -2   1   0   0   0   0   0/0Pius Suter C  15:36   0  0   -2   2   0   0   0   0  4/10Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  16:07   0  0   -2   1   3   0   0   0   0/0Filip Hronek D  22:23   0  0    0   1   0   0   0   2   0/0Quinn Hughes D  26:23   0  0   -1   3   0   0   1   0   0/0Noah Juulsen D  13:46   0  0   -1   1   0   0   0   1   0/0Tyler Myers D  16:43   0  0   -3   1   1   0   0   1   0/0Carson Soucy D  17:24   0  0   -2   1   4   0   0   1   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  15  11   5   7 29/57
+                                        50.9%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArturs Silovs G  59:58   6  16/22  14/18   1/2   1/2     0
+              .727   .778  .500  .500
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  13:06   0  1    1   0   0   0   0   0   1/1Jesper Bratt L  14:50   0  1    1   1   0   4   0   0   0/0Paul Cotter C  13:37   0  0    0   0   0   2   1   0   0/0Justin Dowling C  11:46   0  1    1   0   1   0   1   1  3/10Erik Haula L  12:50   0  0    0   2   0   7   0   0  7/10Nico Hischier C  20:29   1  2    3   2   3   0   1   1  9/20Jack Hughes C  15:56   1  1    1   2   0   0   1   3  7/13Timo Meier R  15:17   1  0    2   3   0   0   0   1   0/0Dawson Mercer C  17:21   1  1    3   3   2   0   0   0   0/1Stefan Noesen R  13:46   0  1    0   0   1   0   0   1   1/2Ondrej Palat L  11:24   1  0    1   5   1   0   1   0   0/0Tomas Tatar L  12:27   1  0    1   1   1   0   0   0   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+13:06   0  1    1   0   0   0   0   0   1/1
+Jesper Bratt L
+14:50   0  1    1   1   0   4   0   0   0/0
+Paul Cotter C
+13:37   0  0    0   0   0   2   1   0   0/0
+Justin Dowling C
+11:46   0  1    1   0   1   0   1   1  3/10
+Erik Haula L
+12:50   0  0    0   2   0   7   0   0  7/10
+Nico Hischier C
+20:29   1  2    3   2   3   0   1   1  9/20
+Jack Hughes C
+15:56   1  1    1   2   0   0   1   3  7/13
+Timo Meier R
+15:17   1  0    2   3   0   0   0   1   0/0
+Dawson Mercer C
+17:21   1  1    3   3   2   0   0   0   0/1
+Stefan Noesen R
+13:46   0  1    0   0   1   0   0   1   1/2
+Ondrej Palat L
+11:24   1  0    1   5   1   0   1   0   0/0
+Tomas Tatar L
+12:27   1  0    1   1   1   0   0   0   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  17:29   0  0    4   0   1   0   0   1   0/0Dougie Hamilton D  16:55   0  1    3   0   1   0   0   4   0/0Luke Hughes D  19:08   0  0    0   1   0   0   1   0   0/0Johnathan Kovacevic D  21:17   0  0    2   1   1   0   2   2   0/0Brett Pesce D  22:30   0  0    0   1   3   0   0   0   0/0Jonas Siegenthaler D  20:17   0  0    1   0   2   2   0   0   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brenden Dillon D
+17:29   0  0    4   0   1   0   0   1   0/0
+Dougie Hamilton D
+16:55   0  1    3   0   1   0   0   4   0/0
+Luke Hughes D
+19:08   0  0    0   1   0   0   1   0   0/0
+Johnathan Kovacevic D
+21:17   0  0    2   1   1   0   2   2   0/0
+Brett Pesce D
+22:30   0  0    0   1   3   0   0   0   0/0
+Jonas Siegenthaler D
+20:17   0  0    1   0   2   2   0   0   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       22  17  15   8  14 28/57
+                                        49.1%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:35   0  20/20  17/17   3/3   0/0     0
+             1.000  1.000 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+59:35   0  20/20  17/17   3/3   0/0     0
+             1.000  1.000 1.000
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  11:39   0  0   -2   0   2   0   0   0   0/0Teddy Blueger C  13:31   0  0   -1   1   1   2   0   0  7/12Brock Boeser R  18:41   0  0   -1   0   2   0   0   0   0/0Jake DeBrusk L  14:29   0  0    0   0   1   0   0   0   0/0Conor Garland R  15:05   0  0   -1   2   1   7   0   0   0/0Danton Heinen L  14:41   0  0   -1   0   0   2   1   0   0/0Nils Hoglander L  12:59   0  0   -2   1   0   0   2   1   0/0J.T. Miller C  17:51   0  0   -1   1   0   0   0   0 12/21Elias Pettersson C  19:37   0  0   -2   2   0   0   1   0  6/14Kiefer Sherwood L  13:00   0  0   -1   2   0   0   0   1   0/0Daniel Sprong R  15:19   0  0   -2   1   0   0   0   0   0/0Pius Suter C  15:36   0  0   -2   2   0   0   0   0  4/10
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Arshdeep Bains L
+11:39   0  0   -2   0   2   0   0   0   0/0
+Teddy Blueger C
+13:31   0  0   -1   1   1   2   0   0  7/12
+Brock Boeser R
+18:41   0  0   -1   0   2   0   0   0   0/0
+Jake DeBrusk L
+14:29   0  0    0   0   1   0   0   0   0/0
+Conor Garland R
+15:05   0  0   -1   2   1   7   0   0   0/0
+Danton Heinen L
+14:41   0  0   -1   0   0   2   1   0   0/0
+Nils Hoglander L
+12:59   0  0   -2   1   0   0   2   1   0/0
+J.T. Miller C
+17:51   0  0   -1   1   0   0   0   0 12/21
+Elias Pettersson C
+19:37   0  0   -2   2   0   0   1   0  6/14
+Kiefer Sherwood L
+13:00   0  0   -1   2   0   0   0   1   0/0
+Daniel Sprong R
+15:19   0  0   -2   1   0   0   0   0   0/0
+Pius Suter C
+15:36   0  0   -2   2   0   0   0   0  4/10
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  16:07   0  0   -2   1   3   0   0   0   0/0Filip Hronek D  22:23   0  0    0   1   0   0   0   2   0/0Quinn Hughes D  26:23   0  0   -1   3   0   0   1   0   0/0Noah Juulsen D  13:46   0  0   -1   1   0   0   0   1   0/0Tyler Myers D  16:43   0  0   -3   1   1   0   0   1   0/0Carson Soucy D  17:24   0  0   -2   1   4   0   0   1   0/0
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Brannstrom D
+16:07   0  0   -2   1   3   0   0   0   0/0
+Filip Hronek D
+22:23   0  0    0   1   0   0   0   2   0/0
+Quinn Hughes D
+26:23   0  0   -1   3   0   0   1   0   0/0
+Noah Juulsen D
+13:46   0  0   -1   1   0   0   0   1   0/0
+Tyler Myers D
+16:43   0  0   -3   1   1   0   0   1   0/0
+Carson Soucy D
+17:24   0  0   -2   1   4   0   0   1   0/0
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  15  11   5   7 29/57
+                                        50.9%
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArturs Silovs G  59:58   6  16/22  14/18   1/2   1/2     0
+              .727   .778  .500  .500
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Arturs Silovs G
+59:58   6  16/22  14/18   1/2   1/2     0
+              .727   .778  .500  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

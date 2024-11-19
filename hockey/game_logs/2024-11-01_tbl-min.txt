@@ -1,0 +1,427 @@
+< Nov. 1 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Tampa Bay
+Lightning7-4-0Final3 - 5Minnesota
+Wild7-1-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+TBL   1  0  2    3  
+MIN   0  1  4    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:23 
+Jakub Lauko (MIN) fighting against Michael Eyssimont (5 minutes)
+   0-0
+P1  16:23 
+Michael Eyssimont (TBL) fighting against Jakub Lauko (5 minutes)
+   0-0
+P1  10:49 
+Mats Zuccarello (MIN) interference against Brandon Hagel (2 minutes)
+   0-0
+P1  01:39 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   0-0
+P1  00:45 
+Brayden Point (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Brandon Hagel
+   1-0
+2nd Period: ShowHide
+P2  19:13 
+Joel Eriksson Ek (MIN) scores on snap shot past Andrei Vasilevskiy, assisted by Kirill Kaprizov and Mats Zuccarello
+   1-1
+P2  15:34 
+TBL penalty, too many men on the ice (2 minutes), served by Michael Eyssimont
+   1-1
+P2  10:47 
+Conor Geekie (TBL) hooking against Kirill Kaprizov (2 minutes)
+   1-1
+P2  07:11 
+Kirill Kaprizov (MIN) holding against Erik Cernak (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  17:19 
+Brock Faber (MIN) scores on wrist shot past Andrei Vasilevskiy, assisted by Jake Middleton and Jakub Lauko
+   1-2
+P3  15:29 
+Jared Spurgeon (MIN) slashing against Nikita Kucherov (2 minutes)
+   1-2
+P3  13:37 
+Jake Guentzel (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Nikita Kucherov
+   2-2
+P3  05:23 
+Kirill Kaprizov (MIN) scores on deflection past Andrei Vasilevskiy, assisted by Marco Rossi and Mats Zuccarello
+   2-3
+P3  03:03 
+Matt Boldy (MIN) scores on empty net
+   2-4
+P3  02:26 
+Nick Paul (TBL) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Ryan McDonagh and Erik Cernak
+   3-4
+P3  00:29 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau
+   3-5
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  10:32   0  0    0   0   1   0   0   0   0/0Mitchell Chaffee R  09:17   0  0    0   0   0   0   0   0   0/0Anthony Cirelli C  19:47   0  0   -2   0   0   0   0   0  9/16Michael Eyssimont C  08:41   0  0   -1   1   0   5   0   0   0/0Conor Geekie C  13:22   0  0    0   2   1   2   0   1   1/1Zemgus Girgensons C  09:18   0  0    0   1   1   0   0   0   0/0Luke Glendening C  10:27   0  0    0   0   1   0   0   0   5/7Jake Guentzel C  22:39   1  0   -2   2   0   0   0   0   6/8Brandon Hagel L  22:25   0  1   -3   4   0   0   0   2   0/0Nikita Kucherov R  22:41   0  1   -3   8   1   0   1   1   0/0Nick Paul L  13:07   1  0   -2   1   0   0   0   0   4/9Brayden Point C  23:10   1  0   -1   3   1   0   0   0  4/13Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  20:57   0  1   -1   3   0   0   1   1   0/0Victor Hedman D  24:58   0  2   -2   3   2   0   0   1   0/0Emil Lilleberg D  13:01   0  0   -1   1   0   0   0   1   0/0Ryan McDonagh D  19:09   0  1   -1   0   1   0   0   0   0/0J.J. Moser D  21:54   0  0   -1   1   2   0   0   0   0/0Nick Perbix D  13:32   0  0   -1   0   2   0   1   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       30  13   7   3   7 29/54
+                                        53.7%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  57:03   3  17/20  13/16   2/2   2/2     0
+              .850   .812 1.000 1.000 
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  16:58   1  0    1   3   1   0   0   0   0/0Joel Eriksson Ek C  18:14   1  0    2   1   1   0   1   1 10/21Marcus Foligno L  12:44   0  0   -1   0   1   0   0   1   0/1Frederick Gaudreau C  15:50   0  1    0   1   2   0   0   0  4/11Ryan Hartman R  10:46   0  0   -1   1   0   0   1   2   0/0Marcus Johansson L  13:26   0  0    0   1   2   0   0   1   0/0Kirill Kaprizov L  23:01   2  1    4   2   0   2   0   3   0/0Marat Khusnutdinov C  11:44   0  0    1   0   1   0   0   0   2/7Jakub Lauko C  09:29   0  1    2   0   0   5   0   0   0/0Marco Rossi C  16:34   0  1    1   2   0   0   0   0  9/13Yakov Trenin C  11:28   0  0    1   3   1   0   0   1   0/0Mats Zuccarello R  16:34   0  2    2   1   1   2   0   0   0/1Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  12:01   0  0    1   1   0   0   2   2   0/0Jonas Brodin D  24:15   0  0    1   1   5   0   0   1   0/0Declan Chisholm D  12:52   0  0    1   1   1   0   0   1   0/0Brock Faber D  25:07   1  0    3   1   0   0   0   1   0/0Jake Middleton D  23:21   0  1    1   2   4   0   1   0   0/0Jared Spurgeon D  18:50   0  0    1   1   0   2   0   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       22  20  11   5  14 25/54
+                                        46.3%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   3  27/30  20/21   7/9   0/0     0
+              .900   .952  .778
+Tampa Bay
+Lightning7-4-0Final3 - 5Minnesota
+Wild7-1-2
+Tampa Bay
+Lightning7-4-0
+Final3 - 5
+Minnesota
+Wild7-1-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+TBL   1  0  2    3  
+MIN   0  1  4    5
+1st Period: ShowHide
+P1  16:23 
+Jakub Lauko (MIN) fighting against Michael Eyssimont (5 minutes)
+   0-0
+P1  16:23 
+Michael Eyssimont (TBL) fighting against Jakub Lauko (5 minutes)
+   0-0
+P1  10:49 
+Mats Zuccarello (MIN) interference against Brandon Hagel (2 minutes)
+   0-0
+P1  01:39 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   0-0
+P1  00:45 
+Brayden Point (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Brandon Hagel
+   1-0
+2nd Period: ShowHide
+P2  19:13 
+Joel Eriksson Ek (MIN) scores on snap shot past Andrei Vasilevskiy, assisted by Kirill Kaprizov and Mats Zuccarello
+   1-1
+P2  15:34 
+TBL penalty, too many men on the ice (2 minutes), served by Michael Eyssimont
+   1-1
+P2  10:47 
+Conor Geekie (TBL) hooking against Kirill Kaprizov (2 minutes)
+   1-1
+P2  07:11 
+Kirill Kaprizov (MIN) holding against Erik Cernak (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  17:19 
+Brock Faber (MIN) scores on wrist shot past Andrei Vasilevskiy, assisted by Jake Middleton and Jakub Lauko
+   1-2
+P3  15:29 
+Jared Spurgeon (MIN) slashing against Nikita Kucherov (2 minutes)
+   1-2
+P3  13:37 
+Jake Guentzel (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Nikita Kucherov
+   2-2
+P3  05:23 
+Kirill Kaprizov (MIN) scores on deflection past Andrei Vasilevskiy, assisted by Marco Rossi and Mats Zuccarello
+   2-3
+P3  03:03 
+Matt Boldy (MIN) scores on empty net
+   2-4
+P3  02:26 
+Nick Paul (TBL) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Ryan McDonagh and Erik Cernak
+   3-4
+P3  00:29 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau
+   3-5
+1st Period: ShowHide
+P1  16:23 
+Jakub Lauko (MIN) fighting against Michael Eyssimont (5 minutes)
+   0-0
+P1  16:23 
+Michael Eyssimont (TBL) fighting against Jakub Lauko (5 minutes)
+   0-0
+P1  10:49 
+Mats Zuccarello (MIN) interference against Brandon Hagel (2 minutes)
+   0-0
+P1  01:39 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   0-0
+P1  00:45 
+Brayden Point (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Brandon Hagel
+   1-0
+P1  16:23 
+Jakub Lauko (MIN) fighting against Michael Eyssimont (5 minutes)
+   0-0
+P1  16:23 
+Michael Eyssimont (TBL) fighting against Jakub Lauko (5 minutes)
+   0-0
+P1  10:49 
+Mats Zuccarello (MIN) interference against Brandon Hagel (2 minutes)
+   0-0
+P1  01:39 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   0-0
+P1  00:45 
+Brayden Point (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Brandon Hagel
+   1-0
+P1  16:23
+Jakub Lauko (MIN) fighting against Michael Eyssimont (5 minutes)
+0-0
+P1  16:23
+Michael Eyssimont (TBL) fighting against Jakub Lauko (5 minutes)
+0-0
+P1  10:49
+Mats Zuccarello (MIN) interference against Brandon Hagel (2 minutes)
+0-0
+P1  01:39
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+0-0
+P1  00:45
+Brayden Point (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Brandon Hagel
+1-0
+2nd Period: ShowHide
+P2  19:13 
+Joel Eriksson Ek (MIN) scores on snap shot past Andrei Vasilevskiy, assisted by Kirill Kaprizov and Mats Zuccarello
+   1-1
+P2  15:34 
+TBL penalty, too many men on the ice (2 minutes), served by Michael Eyssimont
+   1-1
+P2  10:47 
+Conor Geekie (TBL) hooking against Kirill Kaprizov (2 minutes)
+   1-1
+P2  07:11 
+Kirill Kaprizov (MIN) holding against Erik Cernak (2 minutes)
+   1-1
+P2  19:13 
+Joel Eriksson Ek (MIN) scores on snap shot past Andrei Vasilevskiy, assisted by Kirill Kaprizov and Mats Zuccarello
+   1-1
+P2  15:34 
+TBL penalty, too many men on the ice (2 minutes), served by Michael Eyssimont
+   1-1
+P2  10:47 
+Conor Geekie (TBL) hooking against Kirill Kaprizov (2 minutes)
+   1-1
+P2  07:11 
+Kirill Kaprizov (MIN) holding against Erik Cernak (2 minutes)
+   1-1
+P2  19:13
+Joel Eriksson Ek (MIN) scores on snap shot past Andrei Vasilevskiy, assisted by Kirill Kaprizov and Mats Zuccarello
+1-1
+P2  15:34
+TBL penalty, too many men on the ice (2 minutes), served by Michael Eyssimont
+1-1
+P2  10:47
+Conor Geekie (TBL) hooking against Kirill Kaprizov (2 minutes)
+1-1
+P2  07:11
+Kirill Kaprizov (MIN) holding against Erik Cernak (2 minutes)
+1-1
+3rd Period: ShowHide
+P3  17:19 
+Brock Faber (MIN) scores on wrist shot past Andrei Vasilevskiy, assisted by Jake Middleton and Jakub Lauko
+   1-2
+P3  15:29 
+Jared Spurgeon (MIN) slashing against Nikita Kucherov (2 minutes)
+   1-2
+P3  13:37 
+Jake Guentzel (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Nikita Kucherov
+   2-2
+P3  05:23 
+Kirill Kaprizov (MIN) scores on deflection past Andrei Vasilevskiy, assisted by Marco Rossi and Mats Zuccarello
+   2-3
+P3  03:03 
+Matt Boldy (MIN) scores on empty net
+   2-4
+P3  02:26 
+Nick Paul (TBL) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Ryan McDonagh and Erik Cernak
+   3-4
+P3  00:29 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau
+   3-5
+P3  17:19 
+Brock Faber (MIN) scores on wrist shot past Andrei Vasilevskiy, assisted by Jake Middleton and Jakub Lauko
+   1-2
+P3  15:29 
+Jared Spurgeon (MIN) slashing against Nikita Kucherov (2 minutes)
+   1-2
+P3  13:37 
+Jake Guentzel (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Nikita Kucherov
+   2-2
+P3  05:23 
+Kirill Kaprizov (MIN) scores on deflection past Andrei Vasilevskiy, assisted by Marco Rossi and Mats Zuccarello
+   2-3
+P3  03:03 
+Matt Boldy (MIN) scores on empty net
+   2-4
+P3  02:26 
+Nick Paul (TBL) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Ryan McDonagh and Erik Cernak
+   3-4
+P3  00:29 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau
+   3-5
+P3  17:19
+Brock Faber (MIN) scores on wrist shot past Andrei Vasilevskiy, assisted by Jake Middleton and Jakub Lauko
+1-2
+P3  15:29
+Jared Spurgeon (MIN) slashing against Nikita Kucherov (2 minutes)
+1-2
+P3  13:37
+Jake Guentzel (TBL) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Victor Hedman and Nikita Kucherov
+2-2
+P3  05:23
+Kirill Kaprizov (MIN) scores on deflection past Andrei Vasilevskiy, assisted by Marco Rossi and Mats Zuccarello
+2-3
+P3  03:03
+Matt Boldy (MIN) scores on empty net
+2-4
+P3  02:26
+Nick Paul (TBL) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Ryan McDonagh and Erik Cernak
+3-4
+P3  00:29
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau
+3-5
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  10:32   0  0    0   0   1   0   0   0   0/0Mitchell Chaffee R  09:17   0  0    0   0   0   0   0   0   0/0Anthony Cirelli C  19:47   0  0   -2   0   0   0   0   0  9/16Michael Eyssimont C  08:41   0  0   -1   1   0   5   0   0   0/0Conor Geekie C  13:22   0  0    0   2   1   2   0   1   1/1Zemgus Girgensons C  09:18   0  0    0   1   1   0   0   0   0/0Luke Glendening C  10:27   0  0    0   0   1   0   0   0   5/7Jake Guentzel C  22:39   1  0   -2   2   0   0   0   0   6/8Brandon Hagel L  22:25   0  1   -3   4   0   0   0   2   0/0Nikita Kucherov R  22:41   0  1   -3   8   1   0   1   1   0/0Nick Paul L  13:07   1  0   -2   1   0   0   0   0   4/9Brayden Point C  23:10   1  0   -1   3   1   0   0   0  4/13Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  20:57   0  1   -1   3   0   0   1   1   0/0Victor Hedman D  24:58   0  2   -2   3   2   0   0   1   0/0Emil Lilleberg D  13:01   0  0   -1   1   0   0   0   1   0/0Ryan McDonagh D  19:09   0  1   -1   0   1   0   0   0   0/0J.J. Moser D  21:54   0  0   -1   1   2   0   0   0   0/0Nick Perbix D  13:32   0  0   -1   0   2   0   1   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       30  13   7   3   7 29/54
+                                        53.7%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  57:03   3  17/20  13/16   2/2   2/2     0
+              .850   .812 1.000 1.000 
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  16:58   1  0    1   3   1   0   0   0   0/0Joel Eriksson Ek C  18:14   1  0    2   1   1   0   1   1 10/21Marcus Foligno L  12:44   0  0   -1   0   1   0   0   1   0/1Frederick Gaudreau C  15:50   0  1    0   1   2   0   0   0  4/11Ryan Hartman R  10:46   0  0   -1   1   0   0   1   2   0/0Marcus Johansson L  13:26   0  0    0   1   2   0   0   1   0/0Kirill Kaprizov L  23:01   2  1    4   2   0   2   0   3   0/0Marat Khusnutdinov C  11:44   0  0    1   0   1   0   0   0   2/7Jakub Lauko C  09:29   0  1    2   0   0   5   0   0   0/0Marco Rossi C  16:34   0  1    1   2   0   0   0   0  9/13Yakov Trenin C  11:28   0  0    1   3   1   0   0   1   0/0Mats Zuccarello R  16:34   0  2    2   1   1   2   0   0   0/1Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  12:01   0  0    1   1   0   0   2   2   0/0Jonas Brodin D  24:15   0  0    1   1   5   0   0   1   0/0Declan Chisholm D  12:52   0  0    1   1   1   0   0   1   0/0Brock Faber D  25:07   1  0    3   1   0   0   0   1   0/0Jake Middleton D  23:21   0  1    1   2   4   0   1   0   0/0Jared Spurgeon D  18:50   0  0    1   1   0   2   0   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       22  20  11   5  14 25/54
+                                        46.3%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   3  27/30  20/21   7/9   0/0     0
+              .900   .952  .778
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  10:32   0  0    0   0   1   0   0   0   0/0Mitchell Chaffee R  09:17   0  0    0   0   0   0   0   0   0/0Anthony Cirelli C  19:47   0  0   -2   0   0   0   0   0  9/16Michael Eyssimont C  08:41   0  0   -1   1   0   5   0   0   0/0Conor Geekie C  13:22   0  0    0   2   1   2   0   1   1/1Zemgus Girgensons C  09:18   0  0    0   1   1   0   0   0   0/0Luke Glendening C  10:27   0  0    0   0   1   0   0   0   5/7Jake Guentzel C  22:39   1  0   -2   2   0   0   0   0   6/8Brandon Hagel L  22:25   0  1   -3   4   0   0   0   2   0/0Nikita Kucherov R  22:41   0  1   -3   8   1   0   1   1   0/0Nick Paul L  13:07   1  0   -2   1   0   0   0   0   4/9Brayden Point C  23:10   1  0   -1   3   1   0   0   0  4/13
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cam Atkinson R
+10:32   0  0    0   0   1   0   0   0   0/0
+Mitchell Chaffee R
+09:17   0  0    0   0   0   0   0   0   0/0
+Anthony Cirelli C
+19:47   0  0   -2   0   0   0   0   0  9/16
+Michael Eyssimont C
+08:41   0  0   -1   1   0   5   0   0   0/0
+Conor Geekie C
+13:22   0  0    0   2   1   2   0   1   1/1
+Zemgus Girgensons C
+09:18   0  0    0   1   1   0   0   0   0/0
+Luke Glendening C
+10:27   0  0    0   0   1   0   0   0   5/7
+Jake Guentzel C
+22:39   1  0   -2   2   0   0   0   0   6/8
+Brandon Hagel L
+22:25   0  1   -3   4   0   0   0   2   0/0
+Nikita Kucherov R
+22:41   0  1   -3   8   1   0   1   1   0/0
+Nick Paul L
+13:07   1  0   -2   1   0   0   0   0   4/9
+Brayden Point C
+23:10   1  0   -1   3   1   0   0   0  4/13
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  20:57   0  1   -1   3   0   0   1   1   0/0Victor Hedman D  24:58   0  2   -2   3   2   0   0   1   0/0Emil Lilleberg D  13:01   0  0   -1   1   0   0   0   1   0/0Ryan McDonagh D  19:09   0  1   -1   0   1   0   0   0   0/0J.J. Moser D  21:54   0  0   -1   1   2   0   0   0   0/0Nick Perbix D  13:32   0  0   -1   0   2   0   1   0   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+20:57   0  1   -1   3   0   0   1   1   0/0
+Victor Hedman D
+24:58   0  2   -2   3   2   0   0   1   0/0
+Emil Lilleberg D
+13:01   0  0   -1   1   0   0   0   1   0/0
+Ryan McDonagh D
+19:09   0  1   -1   0   1   0   0   0   0/0
+J.J. Moser D
+21:54   0  0   -1   1   2   0   0   0   0/0
+Nick Perbix D
+13:32   0  0   -1   0   2   0   1   0   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       30  13   7   3   7 29/54
+                                        53.7%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  57:03   3  17/20  13/16   2/2   2/2     0
+              .850   .812 1.000 1.000
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Andrei Vasilevskiy G
+57:03   3  17/20  13/16   2/2   2/2     0
+              .850   .812 1.000 1.000
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  16:58   1  0    1   3   1   0   0   0   0/0Joel Eriksson Ek C  18:14   1  0    2   1   1   0   1   1 10/21Marcus Foligno L  12:44   0  0   -1   0   1   0   0   1   0/1Frederick Gaudreau C  15:50   0  1    0   1   2   0   0   0  4/11Ryan Hartman R  10:46   0  0   -1   1   0   0   1   2   0/0Marcus Johansson L  13:26   0  0    0   1   2   0   0   1   0/0Kirill Kaprizov L  23:01   2  1    4   2   0   2   0   3   0/0Marat Khusnutdinov C  11:44   0  0    1   0   1   0   0   0   2/7Jakub Lauko C  09:29   0  1    2   0   0   5   0   0   0/0Marco Rossi C  16:34   0  1    1   2   0   0   0   0  9/13Yakov Trenin C  11:28   0  0    1   3   1   0   0   1   0/0Mats Zuccarello R  16:34   0  2    2   1   1   2   0   0   0/1
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Boldy L
+16:58   1  0    1   3   1   0   0   0   0/0
+Joel Eriksson Ek C
+18:14   1  0    2   1   1   0   1   1 10/21
+Marcus Foligno L
+12:44   0  0   -1   0   1   0   0   1   0/1
+Frederick Gaudreau C
+15:50   0  1    0   1   2   0   0   0  4/11
+Ryan Hartman R
+10:46   0  0   -1   1   0   0   1   2   0/0
+Marcus Johansson L
+13:26   0  0    0   1   2   0   0   1   0/0
+Kirill Kaprizov L
+23:01   2  1    4   2   0   2   0   3   0/0
+Marat Khusnutdinov C
+11:44   0  0    1   0   1   0   0   0   2/7
+Jakub Lauko C
+09:29   0  1    2   0   0   5   0   0   0/0
+Marco Rossi C
+16:34   0  1    1   2   0   0   0   0  9/13
+Yakov Trenin C
+11:28   0  0    1   3   1   0   0   1   0/0
+Mats Zuccarello R
+16:34   0  2    2   1   1   2   0   0   0/1
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  12:01   0  0    1   1   0   0   2   2   0/0Jonas Brodin D  24:15   0  0    1   1   5   0   0   1   0/0Declan Chisholm D  12:52   0  0    1   1   1   0   0   1   0/0Brock Faber D  25:07   1  0    3   1   0   0   0   1   0/0Jake Middleton D  23:21   0  1    1   2   4   0   1   0   0/0Jared Spurgeon D  18:50   0  0    1   1   0   2   0   0   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Bogosian D
+12:01   0  0    1   1   0   0   2   2   0/0
+Jonas Brodin D
+24:15   0  0    1   1   5   0   0   1   0/0
+Declan Chisholm D
+12:52   0  0    1   1   1   0   0   1   0/0
+Brock Faber D
+25:07   1  0    3   1   0   0   0   1   0/0
+Jake Middleton D
+23:21   0  1    1   2   4   0   1   0   0/0
+Jared Spurgeon D
+18:50   0  0    1   1   0   2   0   0   0/0
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       22  20  11   5  14 25/54
+                                        46.3%
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   3  27/30  20/21   7/9   0/0     0
+              .900   .952  .778
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Filip Gustavsson G
+60:00   3  27/30  20/21   7/9   0/0     0
+              .900   .952  .778
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

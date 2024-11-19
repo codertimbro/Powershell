@@ -1,0 +1,337 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Seattle
+Kraken5-6-1Final0 - 3Ottawa
+Senators6-5-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SEA   0  0  0    0  
+OTT   1  1  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:32 
+Adam Gaudette (OTT) scores on backhand shot past Philipp Grubauer, assisted by Nick Cousins and Zack MacEwen
+   0-1
+P1  09:04 
+Drake Batherson (OTT) holding against Eeli Tolvanen (2 minutes)
+   0-1
+P1  06:10 
+Yanni Gourde (SEA) high-sticking against Josh Norris (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  15:43 
+Michael Amadio (OTT) hooking against Brandon Montour (2 minutes)
+   0-1
+P2  11:24 
+Adam Gaudette (OTT) holding against Ryker Evans (2 minutes)
+   0-1
+P2  08:49 
+Brady Tkachuk (OTT) scores on deflection past Philipp Grubauer, assisted by Jacob Bernard-Docker and Tim Stützle
+   0-2
+P2  04:06 
+Tye Kartye (SEA) interference against Travis Hamonic (2 minutes)
+   0-2
+P2  02:33 
+Claude Giroux (OTT) tripping against Jared McCann (2 minutes)
+   0-2
+P2  01:53 
+SEA penalty, too many men on the ice (2 minutes), served by Andre Burakovsky
+   0-2
+3rd Period: ShowHide
+P3  02:14 
+Tim Stützle (OTT) scores on empty net, assisted by Michael Amadio
+   0-3
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:51   0  0   -2   2   1   0   0   0  6/12Oliver Bjorkstrand R  13:40   0  0    0   2   0   0   0   1   0/0Andre Burakovsky L  14:03   0  0   -1   1   1   0   1   1   0/0Jordan Eberle R  17:17   0  0   -2   1   0   0   0   1   0/1Yanni Gourde C  15:23   0  0   -1   2   0   2   1   2  5/10Tye Kartye L  11:27   0  0    0   1   1   2   0   0   0/0Jared McCann L  18:28   0  0   -1   3   0   0   0   1   0/1Jaden Schwartz C  16:13   0  0   -1   0   0   0   0   1   0/1Chandler Stephenson C  19:50   0  0    0   1   0   0   0   0  9/17Brandon Tanev L  14:09   0  0   -1   1   2   0   0   0   0/0Eeli Tolvanen R  12:26   0  0   -1   0   0   0   0   0   0/0Shane Wright C  11:26   0  0   -1   0   1   0   0   1   1/5Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  16:29   0  0   -1   0   0   0   0   0   0/0Ryker Evans D  22:53   0  0   -1   0   2   0   1   2   0/0Adam Larsson D  18:34   0  0   -1   3   5   0   2   1   0/0Joshua Mahura D  13:31   0  0   -1   0   0   0   0   2   0/0Brandon Montour D  22:39   0  0    0   4   2   0   0   1   0/0Jamie Oleksiak D  18:43   0  0   -1   1   2   0   0   2   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       22  17   4   5  16 21/47
+                                        44.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  58:06   2  20/22  13/15   6/6   1/1     0
+              .909   .867 1.000 1.000 
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  16:22   0  1    1   1   0   2   0   1   0/2Drake Batherson R  18:16   0  0    0   3   1   2   0   1   0/0Nick Cousins C  08:30   0  1    1   1   1   0   0   0   0/0Adam Gaudette R  11:40   1  0    1   2   0   2   0   0   2/8Claude Giroux R  20:05   0  0    0   2   0   2   0   0 10/14Noah Gregor L  13:55   0  0    0   0   1   0   1   2   0/0Ridly Greig C  12:47   0  0    1   2   0   0   0   0   3/5Zack MacEwen R  09:29   0  1    1   1   0   0   0   0   1/1Josh Norris C  19:41   0  0    0   1   0   0   0   1   4/6Zack Ostapchuk C  10:07   0  0    0   0   3   0   0   1   2/3Tim Stützle C  18:29   1  1    2   2   0   0   0   0   2/5Brady Tkachuk L  16:27   1  0    2   2   0   0   0   0   2/3Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:45   0  1    1   1   2   0   0   0   0/0Thomas Chabot D  22:20   0  0    1   1   2   0   0   0   0/0Travis Hamonic D  18:36   0  0    1   1   2   0   0   1   0/0Nick Jensen D  21:32   0  0    1   0   1   0   0   0   0/0Tyler Kleven D  15:32   0  0    1   0   2   0   0   2   0/0Jake Sanderson D  23:59   0  0    1   3   1   0   1   2   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       23  16   8   2  11 26/47
+                                        55.3%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  59:28   0  22/22  17/17   5/5   0/0     0
+             1.000  1.000 1.000
+Seattle
+Kraken5-6-1Final0 - 3Ottawa
+Senators6-5-0
+Seattle
+Kraken5-6-1
+Final0 - 3
+Ottawa
+Senators6-5-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SEA   0  0  0    0  
+OTT   1  1  1    3
+1st Period: ShowHide
+P1  14:32 
+Adam Gaudette (OTT) scores on backhand shot past Philipp Grubauer, assisted by Nick Cousins and Zack MacEwen
+   0-1
+P1  09:04 
+Drake Batherson (OTT) holding against Eeli Tolvanen (2 minutes)
+   0-1
+P1  06:10 
+Yanni Gourde (SEA) high-sticking against Josh Norris (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  15:43 
+Michael Amadio (OTT) hooking against Brandon Montour (2 minutes)
+   0-1
+P2  11:24 
+Adam Gaudette (OTT) holding against Ryker Evans (2 minutes)
+   0-1
+P2  08:49 
+Brady Tkachuk (OTT) scores on deflection past Philipp Grubauer, assisted by Jacob Bernard-Docker and Tim Stützle
+   0-2
+P2  04:06 
+Tye Kartye (SEA) interference against Travis Hamonic (2 minutes)
+   0-2
+P2  02:33 
+Claude Giroux (OTT) tripping against Jared McCann (2 minutes)
+   0-2
+P2  01:53 
+SEA penalty, too many men on the ice (2 minutes), served by Andre Burakovsky
+   0-2
+3rd Period: ShowHide
+P3  02:14 
+Tim Stützle (OTT) scores on empty net, assisted by Michael Amadio
+   0-3
+1st Period: ShowHide
+P1  14:32 
+Adam Gaudette (OTT) scores on backhand shot past Philipp Grubauer, assisted by Nick Cousins and Zack MacEwen
+   0-1
+P1  09:04 
+Drake Batherson (OTT) holding against Eeli Tolvanen (2 minutes)
+   0-1
+P1  06:10 
+Yanni Gourde (SEA) high-sticking against Josh Norris (2 minutes)
+   0-1
+P1  14:32 
+Adam Gaudette (OTT) scores on backhand shot past Philipp Grubauer, assisted by Nick Cousins and Zack MacEwen
+   0-1
+P1  09:04 
+Drake Batherson (OTT) holding against Eeli Tolvanen (2 minutes)
+   0-1
+P1  06:10 
+Yanni Gourde (SEA) high-sticking against Josh Norris (2 minutes)
+   0-1
+P1  14:32
+Adam Gaudette (OTT) scores on backhand shot past Philipp Grubauer, assisted by Nick Cousins and Zack MacEwen
+0-1
+P1  09:04
+Drake Batherson (OTT) holding against Eeli Tolvanen (2 minutes)
+0-1
+P1  06:10
+Yanni Gourde (SEA) high-sticking against Josh Norris (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  15:43 
+Michael Amadio (OTT) hooking against Brandon Montour (2 minutes)
+   0-1
+P2  11:24 
+Adam Gaudette (OTT) holding against Ryker Evans (2 minutes)
+   0-1
+P2  08:49 
+Brady Tkachuk (OTT) scores on deflection past Philipp Grubauer, assisted by Jacob Bernard-Docker and Tim Stützle
+   0-2
+P2  04:06 
+Tye Kartye (SEA) interference against Travis Hamonic (2 minutes)
+   0-2
+P2  02:33 
+Claude Giroux (OTT) tripping against Jared McCann (2 minutes)
+   0-2
+P2  01:53 
+SEA penalty, too many men on the ice (2 minutes), served by Andre Burakovsky
+   0-2
+P2  15:43 
+Michael Amadio (OTT) hooking against Brandon Montour (2 minutes)
+   0-1
+P2  11:24 
+Adam Gaudette (OTT) holding against Ryker Evans (2 minutes)
+   0-1
+P2  08:49 
+Brady Tkachuk (OTT) scores on deflection past Philipp Grubauer, assisted by Jacob Bernard-Docker and Tim Stützle
+   0-2
+P2  04:06 
+Tye Kartye (SEA) interference against Travis Hamonic (2 minutes)
+   0-2
+P2  02:33 
+Claude Giroux (OTT) tripping against Jared McCann (2 minutes)
+   0-2
+P2  01:53 
+SEA penalty, too many men on the ice (2 minutes), served by Andre Burakovsky
+   0-2
+P2  15:43
+Michael Amadio (OTT) hooking against Brandon Montour (2 minutes)
+0-1
+P2  11:24
+Adam Gaudette (OTT) holding against Ryker Evans (2 minutes)
+0-1
+P2  08:49
+Brady Tkachuk (OTT) scores on deflection past Philipp Grubauer, assisted by Jacob Bernard-Docker and Tim Stützle
+0-2
+P2  04:06
+Tye Kartye (SEA) interference against Travis Hamonic (2 minutes)
+0-2
+P2  02:33
+Claude Giroux (OTT) tripping against Jared McCann (2 minutes)
+0-2
+P2  01:53
+SEA penalty, too many men on the ice (2 minutes), served by Andre Burakovsky
+0-2
+3rd Period: ShowHide
+P3  02:14 
+Tim Stützle (OTT) scores on empty net, assisted by Michael Amadio
+   0-3
+P3  02:14 
+Tim Stützle (OTT) scores on empty net, assisted by Michael Amadio
+   0-3
+P3  02:14
+Tim Stützle (OTT) scores on empty net, assisted by Michael Amadio
+0-3
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:51   0  0   -2   2   1   0   0   0  6/12Oliver Bjorkstrand R  13:40   0  0    0   2   0   0   0   1   0/0Andre Burakovsky L  14:03   0  0   -1   1   1   0   1   1   0/0Jordan Eberle R  17:17   0  0   -2   1   0   0   0   1   0/1Yanni Gourde C  15:23   0  0   -1   2   0   2   1   2  5/10Tye Kartye L  11:27   0  0    0   1   1   2   0   0   0/0Jared McCann L  18:28   0  0   -1   3   0   0   0   1   0/1Jaden Schwartz C  16:13   0  0   -1   0   0   0   0   1   0/1Chandler Stephenson C  19:50   0  0    0   1   0   0   0   0  9/17Brandon Tanev L  14:09   0  0   -1   1   2   0   0   0   0/0Eeli Tolvanen R  12:26   0  0   -1   0   0   0   0   0   0/0Shane Wright C  11:26   0  0   -1   0   1   0   0   1   1/5Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  16:29   0  0   -1   0   0   0   0   0   0/0Ryker Evans D  22:53   0  0   -1   0   2   0   1   2   0/0Adam Larsson D  18:34   0  0   -1   3   5   0   2   1   0/0Joshua Mahura D  13:31   0  0   -1   0   0   0   0   2   0/0Brandon Montour D  22:39   0  0    0   4   2   0   0   1   0/0Jamie Oleksiak D  18:43   0  0   -1   1   2   0   0   2   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       22  17   4   5  16 21/47
+                                        44.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  58:06   2  20/22  13/15   6/6   1/1     0
+              .909   .867 1.000 1.000 
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  16:22   0  1    1   1   0   2   0   1   0/2Drake Batherson R  18:16   0  0    0   3   1   2   0   1   0/0Nick Cousins C  08:30   0  1    1   1   1   0   0   0   0/0Adam Gaudette R  11:40   1  0    1   2   0   2   0   0   2/8Claude Giroux R  20:05   0  0    0   2   0   2   0   0 10/14Noah Gregor L  13:55   0  0    0   0   1   0   1   2   0/0Ridly Greig C  12:47   0  0    1   2   0   0   0   0   3/5Zack MacEwen R  09:29   0  1    1   1   0   0   0   0   1/1Josh Norris C  19:41   0  0    0   1   0   0   0   1   4/6Zack Ostapchuk C  10:07   0  0    0   0   3   0   0   1   2/3Tim Stützle C  18:29   1  1    2   2   0   0   0   0   2/5Brady Tkachuk L  16:27   1  0    2   2   0   0   0   0   2/3Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:45   0  1    1   1   2   0   0   0   0/0Thomas Chabot D  22:20   0  0    1   1   2   0   0   0   0/0Travis Hamonic D  18:36   0  0    1   1   2   0   0   1   0/0Nick Jensen D  21:32   0  0    1   0   1   0   0   0   0/0Tyler Kleven D  15:32   0  0    1   0   2   0   0   2   0/0Jake Sanderson D  23:59   0  0    1   3   1   0   1   2   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       23  16   8   2  11 26/47
+                                        55.3%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  59:28   0  22/22  17/17   5/5   0/0     0
+             1.000  1.000 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:51   0  0   -2   2   1   0   0   0  6/12Oliver Bjorkstrand R  13:40   0  0    0   2   0   0   0   1   0/0Andre Burakovsky L  14:03   0  0   -1   1   1   0   1   1   0/0Jordan Eberle R  17:17   0  0   -2   1   0   0   0   1   0/1Yanni Gourde C  15:23   0  0   -1   2   0   2   1   2  5/10Tye Kartye L  11:27   0  0    0   1   1   2   0   0   0/0Jared McCann L  18:28   0  0   -1   3   0   0   0   1   0/1Jaden Schwartz C  16:13   0  0   -1   0   0   0   0   1   0/1Chandler Stephenson C  19:50   0  0    0   1   0   0   0   0  9/17Brandon Tanev L  14:09   0  0   -1   1   2   0   0   0   0/0Eeli Tolvanen R  12:26   0  0   -1   0   0   0   0   0   0/0Shane Wright C  11:26   0  0   -1   0   1   0   0   1   1/5
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+18:51   0  0   -2   2   1   0   0   0  6/12
+Oliver Bjorkstrand R
+13:40   0  0    0   2   0   0   0   1   0/0
+Andre Burakovsky L
+14:03   0  0   -1   1   1   0   1   1   0/0
+Jordan Eberle R
+17:17   0  0   -2   1   0   0   0   1   0/1
+Yanni Gourde C
+15:23   0  0   -1   2   0   2   1   2  5/10
+Tye Kartye L
+11:27   0  0    0   1   1   2   0   0   0/0
+Jared McCann L
+18:28   0  0   -1   3   0   0   0   1   0/1
+Jaden Schwartz C
+16:13   0  0   -1   0   0   0   0   1   0/1
+Chandler Stephenson C
+19:50   0  0    0   1   0   0   0   0  9/17
+Brandon Tanev L
+14:09   0  0   -1   1   2   0   0   0   0/0
+Eeli Tolvanen R
+12:26   0  0   -1   0   0   0   0   0   0/0
+Shane Wright C
+11:26   0  0   -1   0   1   0   0   1   1/5
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  16:29   0  0   -1   0   0   0   0   0   0/0Ryker Evans D  22:53   0  0   -1   0   2   0   1   2   0/0Adam Larsson D  18:34   0  0   -1   3   5   0   2   1   0/0Joshua Mahura D  13:31   0  0   -1   0   0   0   0   2   0/0Brandon Montour D  22:39   0  0    0   4   2   0   0   1   0/0Jamie Oleksiak D  18:43   0  0   -1   1   2   0   0   2   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+16:29   0  0   -1   0   0   0   0   0   0/0
+Ryker Evans D
+22:53   0  0   -1   0   2   0   1   2   0/0
+Adam Larsson D
+18:34   0  0   -1   3   5   0   2   1   0/0
+Joshua Mahura D
+13:31   0  0   -1   0   0   0   0   2   0/0
+Brandon Montour D
+22:39   0  0    0   4   2   0   0   1   0/0
+Jamie Oleksiak D
+18:43   0  0   -1   1   2   0   0   2   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       22  17   4   5  16 21/47
+                                        44.7%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  58:06   2  20/22  13/15   6/6   1/1     0
+              .909   .867 1.000 1.000
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Philipp Grubauer G
+58:06   2  20/22  13/15   6/6   1/1     0
+              .909   .867 1.000 1.000
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  16:22   0  1    1   1   0   2   0   1   0/2Drake Batherson R  18:16   0  0    0   3   1   2   0   1   0/0Nick Cousins C  08:30   0  1    1   1   1   0   0   0   0/0Adam Gaudette R  11:40   1  0    1   2   0   2   0   0   2/8Claude Giroux R  20:05   0  0    0   2   0   2   0   0 10/14Noah Gregor L  13:55   0  0    0   0   1   0   1   2   0/0Ridly Greig C  12:47   0  0    1   2   0   0   0   0   3/5Zack MacEwen R  09:29   0  1    1   1   0   0   0   0   1/1Josh Norris C  19:41   0  0    0   1   0   0   0   1   4/6Zack Ostapchuk C  10:07   0  0    0   0   3   0   0   1   2/3Tim Stützle C  18:29   1  1    2   2   0   0   0   0   2/5Brady Tkachuk L  16:27   1  0    2   2   0   0   0   0   2/3
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+16:22   0  1    1   1   0   2   0   1   0/2
+Drake Batherson R
+18:16   0  0    0   3   1   2   0   1   0/0
+Nick Cousins C
+08:30   0  1    1   1   1   0   0   0   0/0
+Adam Gaudette R
+11:40   1  0    1   2   0   2   0   0   2/8
+Claude Giroux R
+20:05   0  0    0   2   0   2   0   0 10/14
+Noah Gregor L
+13:55   0  0    0   0   1   0   1   2   0/0
+Ridly Greig C
+12:47   0  0    1   2   0   0   0   0   3/5
+Zack MacEwen R
+09:29   0  1    1   1   0   0   0   0   1/1
+Josh Norris C
+19:41   0  0    0   1   0   0   0   1   4/6
+Zack Ostapchuk C
+10:07   0  0    0   0   3   0   0   1   2/3
+Tim Stützle C
+18:29   1  1    2   2   0   0   0   0   2/5
+Brady Tkachuk L
+16:27   1  0    2   2   0   0   0   0   2/3
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:45   0  1    1   1   2   0   0   0   0/0Thomas Chabot D  22:20   0  0    1   1   2   0   0   0   0/0Travis Hamonic D  18:36   0  0    1   1   2   0   0   1   0/0Nick Jensen D  21:32   0  0    1   0   1   0   0   0   0/0Tyler Kleven D  15:32   0  0    1   0   2   0   0   2   0/0Jake Sanderson D  23:59   0  0    1   3   1   0   1   2   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jacob Bernard-Docker D
+14:45   0  1    1   1   2   0   0   0   0/0
+Thomas Chabot D
+22:20   0  0    1   1   2   0   0   0   0/0
+Travis Hamonic D
+18:36   0  0    1   1   2   0   0   1   0/0
+Nick Jensen D
+21:32   0  0    1   0   1   0   0   0   0/0
+Tyler Kleven D
+15:32   0  0    1   0   2   0   0   2   0/0
+Jake Sanderson D
+23:59   0  0    1   3   1   0   1   2   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       23  16   8   2  11 26/47
+                                        55.3%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  59:28   0  22/22  17/17   5/5   0/0     0
+             1.000  1.000 1.000
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Anton Forsberg G
+59:28   0  22/22  17/17   5/5   0/0     0
+             1.000  1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,496 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Pittsburgh
+Penguins3-4-1Final/SO3 - 4Calgary
+Flames5-0-1
+Shootout Goals & Penalties Box Score
+      1  2  3   SO    T  
+-----------------------  
+PIT   0  1  2    0    3  
+CGY   1  0  2    1    4
+Shootout:
+
+  0-0  
+Andrei Kuzmenko misses backhand shot wide left
+Rickard Rakell scores on wrist shot
+  1-0  
+
+
+  1-1  
+Anthony Mantha scores on backhand shot
+Sidney Crosby wrist shot hits right post
+  1-1  
+
+
+  1-2  
+Rasmus Andersson scores on wrist shot
+Bryan Rust scores on wrist shot
+  2-2  
+
+
+  2-2  
+Connor Zary wrist shot saved by Alex Nedeljkovic
+Kris Letang backhand shot saved by Dustin Wolf
+  2-2  
+
+
+  2-2  
+Nazem Kadri wrist shot saved by Alex Nedeljkovic
+Lars Eller wrist shot saved by Dustin Wolf
+  2-2  
+
+
+  2-3  
+Justin Kirkland scores on wrist shot
+Evgeni Malkin wrist shot saved by Dustin Wolf
+  2-3  
+
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:14 
+Kris Letang (PIT) slashing against Daniil Miromanov (2 minutes)
+   0-0
+P1  08:12 
+Rasmus Andersson (CGY) scores on snap shot past Alex Nedeljkovic, assisted by Justin Kirkland and Ryan Lomberg
+   0-1
+P1  06:53 
+Martin Pospisil (CGY) tripping against Kevin Hayes (2 minutes)
+   0-1
+P1  01:12 
+Matt Grzelcyk (PIT) tripping against Andrei Kuzmenko (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  17:26 
+Evgeni Malkin (PIT) high-sticking against Justin Kirkland (2 minutes)
+   0-1
+P2  14:01 
+Martin Pospisil (CGY) holding against Ryan Graves (2 minutes)
+   0-1
+P2  13:29 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Dustin Wolf, assisted by Sidney Crosby and Erik Karlsson
+   1-1
+P2  06:39 
+Jesse Puljujarvi (PIT) tripping against Nazem Kadri (2 minutes)
+   1-1
+P2  04:06 
+Andrei Kuzmenko (CGY) holding against Erik Karlsson (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  19:31 
+Mikael Backlund (CGY) kneeing against Drew O'Connor (2 minutes)
+   1-1
+P3  17:28 
+Rickard Rakell (PIT) scores on wrist shot past Dustin Wolf, assisted by Kevin Hayes and Matt Grzelcyk
+   2-1
+P3  12:14 
+MacKenzie Weegar (CGY) scores on slap shot past Alex Nedeljkovic, assisted by Daniil Miromanov and Blake Coleman
+   2-2
+P3  06:20 
+Noel Acciari (PIT) scores on wrap-around shot past Dustin Wolf, assisted by Cody Glass and Marcus Pettersson
+   3-2
+P3  00:43 
+Nazem Kadri (CGY) scores goal with extra attacker on wrist shot past Alex Nedeljkovic, assisted by Blake Coleman and Rasmus Andersson
+   3-3
+Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  14:39   1  0   -1   2   7   0   0   0   7/9Anthony Beauvillier L  10:52   0  0    0   4   0   0   0   0   0/1Michael Bunting L  12:56   0  0    0   3   1   0   0   0   0/0Sidney Crosby C  21:23   0  1   -1   5   0   0   0   2 20/30Lars Eller C  15:51   0  0   -1   0   1   0   0   0  9/17Cody Glass C  15:49   0  1   -1   3   0   0   0   4   1/1Kevin Hayes R  09:03   0  1    1   0   0   0   1   1   5/7Evgeni Malkin C  20:07   0  0    0   1   1   2   0   2  5/10Drew O'Connor L  16:49   0  0   -1   0   1   0   0   0   1/1Jesse Puljujarvi R  09:53   0  0    1   0   0   2   1   0   0/0Rickard Rakell R  13:32   1  0    1   5   1   0   0   0   0/0Bryan Rust R  23:12   1  0   -1   3   3   0   1   1   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:27   0  0   -2   2   1   0   1   1   0/0Matt Grzelcyk D  19:06   0  1    0   2   3   2   1   0   0/0Erik Karlsson D  24:33   0  1   -1   2   1   0   0   3   0/0Kris Letang D  25:59   0  0    0   4   1   2   2   2   0/0Marcus Pettersson D  21:54   0  1    1   1   2   0   0   0   0/0Jack St. Ivany D  14:55   0  0    0   1   0   0   0   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       38  23   8   7  16 48/76
+                                        63.2%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  65:00   3  22/25  12/15   8/8   2/2     0
+              .880   .800 1.000 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  22:11   0  0    0   1   0   2   0   1 10/25Blake Coleman C  21:54   0  2    2   2   0   0   1   1   0/0Matt Coronato R  13:11   0  0   -1   1   0   0   0   2   0/1Jonathan Huberdeau C  19:32   0  0    1   1   1   0   0   3   0/0Nazem Kadri C  22:33   1  0   -1   2   0   0   0   2  9/27Justin Kirkland C  14:28   0  1    1   0   2   0   0   0  5/12Adam Klapka R  06:55   0  0    1   1   0   0   0   1   0/0Andrei Kuzmenko L  16:58   0  0    0   2   1   2   0   0   0/0Ryan Lomberg L  08:11   0  1    1   0   0   0   0   0   1/2Anthony Mantha R  16:44   0  0    0   0   0   0   0   0   0/1Martin Pospisil C  10:22   0  0    0   2   0   4   0   0   3/7Connor Zary C  19:28   0  0    0   4   1   0   0   0   0/1Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:20   1  1    1   3   4   0   1   1   0/0Kevin Bahl D  18:20   0  0   -1   1   0   0   0   2   0/0Jake Bean D  16:03   0  0    1   1   0   0   0   1   0/0Daniil Miromanov D  15:45   0  1    0   2   0   0   1   1   0/0Brayden Pachal D  15:29   0  0    0   0   1   0   0   1   0/0MacKenzie Weegar D  26:09   1  0    1   2   2   0   0   1   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       25  12   8   3  17 28/76
+                                        36.8%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  63:55   3  35/38  31/33   3/4   1/1     0
+              .921   .939  .750 1.000
+Pittsburgh
+Penguins3-4-1Final/SO3 - 4Calgary
+Flames5-0-1
+Pittsburgh
+Penguins3-4-1
+Final/SO3 - 4
+Calgary
+Flames5-0-1
+Shootout Goals & Penalties Box Score
+1  2  3   SO    T  
+-----------------------  
+PIT   0  1  2    0    3  
+CGY   1  0  2    1    4
+Shootout:
+0-0  
+Andrei Kuzmenko misses backhand shot wide left
+Rickard Rakell scores on wrist shot
+  1-0  
+
+
+  1-1  
+Anthony Mantha scores on backhand shot
+Sidney Crosby wrist shot hits right post
+  1-1  
+
+
+  1-2  
+Rasmus Andersson scores on wrist shot
+Bryan Rust scores on wrist shot
+  2-2  
+
+
+  2-2  
+Connor Zary wrist shot saved by Alex Nedeljkovic
+Kris Letang backhand shot saved by Dustin Wolf
+  2-2  
+
+
+  2-2  
+Nazem Kadri wrist shot saved by Alex Nedeljkovic
+Lars Eller wrist shot saved by Dustin Wolf
+  2-2  
+
+
+  2-3  
+Justin Kirkland scores on wrist shot
+Evgeni Malkin wrist shot saved by Dustin Wolf
+  2-3
+0-0
+Andrei Kuzmenko misses backhand shot wide left
+Rickard Rakell scores on wrist shot
+1-0
+1-1
+Anthony Mantha scores on backhand shot
+Sidney Crosby wrist shot hits right post
+1-1
+1-2
+Rasmus Andersson scores on wrist shot
+Bryan Rust scores on wrist shot
+2-2
+2-2
+Connor Zary wrist shot saved by Alex Nedeljkovic
+Kris Letang backhand shot saved by Dustin Wolf
+2-2
+2-2
+Nazem Kadri wrist shot saved by Alex Nedeljkovic
+Lars Eller wrist shot saved by Dustin Wolf
+2-2
+2-3
+Justin Kirkland scores on wrist shot
+Evgeni Malkin wrist shot saved by Dustin Wolf
+2-3
+1st Period: ShowHide
+P1  19:14 
+Kris Letang (PIT) slashing against Daniil Miromanov (2 minutes)
+   0-0
+P1  08:12 
+Rasmus Andersson (CGY) scores on snap shot past Alex Nedeljkovic, assisted by Justin Kirkland and Ryan Lomberg
+   0-1
+P1  06:53 
+Martin Pospisil (CGY) tripping against Kevin Hayes (2 minutes)
+   0-1
+P1  01:12 
+Matt Grzelcyk (PIT) tripping against Andrei Kuzmenko (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  17:26 
+Evgeni Malkin (PIT) high-sticking against Justin Kirkland (2 minutes)
+   0-1
+P2  14:01 
+Martin Pospisil (CGY) holding against Ryan Graves (2 minutes)
+   0-1
+P2  13:29 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Dustin Wolf, assisted by Sidney Crosby and Erik Karlsson
+   1-1
+P2  06:39 
+Jesse Puljujarvi (PIT) tripping against Nazem Kadri (2 minutes)
+   1-1
+P2  04:06 
+Andrei Kuzmenko (CGY) holding against Erik Karlsson (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  19:31 
+Mikael Backlund (CGY) kneeing against Drew O'Connor (2 minutes)
+   1-1
+P3  17:28 
+Rickard Rakell (PIT) scores on wrist shot past Dustin Wolf, assisted by Kevin Hayes and Matt Grzelcyk
+   2-1
+P3  12:14 
+MacKenzie Weegar (CGY) scores on slap shot past Alex Nedeljkovic, assisted by Daniil Miromanov and Blake Coleman
+   2-2
+P3  06:20 
+Noel Acciari (PIT) scores on wrap-around shot past Dustin Wolf, assisted by Cody Glass and Marcus Pettersson
+   3-2
+P3  00:43 
+Nazem Kadri (CGY) scores goal with extra attacker on wrist shot past Alex Nedeljkovic, assisted by Blake Coleman and Rasmus Andersson
+   3-3
+Overtime: No goals or penalties.
+1st Period: ShowHide
+P1  19:14 
+Kris Letang (PIT) slashing against Daniil Miromanov (2 minutes)
+   0-0
+P1  08:12 
+Rasmus Andersson (CGY) scores on snap shot past Alex Nedeljkovic, assisted by Justin Kirkland and Ryan Lomberg
+   0-1
+P1  06:53 
+Martin Pospisil (CGY) tripping against Kevin Hayes (2 minutes)
+   0-1
+P1  01:12 
+Matt Grzelcyk (PIT) tripping against Andrei Kuzmenko (2 minutes)
+   0-1
+P1  19:14 
+Kris Letang (PIT) slashing against Daniil Miromanov (2 minutes)
+   0-0
+P1  08:12 
+Rasmus Andersson (CGY) scores on snap shot past Alex Nedeljkovic, assisted by Justin Kirkland and Ryan Lomberg
+   0-1
+P1  06:53 
+Martin Pospisil (CGY) tripping against Kevin Hayes (2 minutes)
+   0-1
+P1  01:12 
+Matt Grzelcyk (PIT) tripping against Andrei Kuzmenko (2 minutes)
+   0-1
+P1  19:14
+Kris Letang (PIT) slashing against Daniil Miromanov (2 minutes)
+0-0
+P1  08:12
+Rasmus Andersson (CGY) scores on snap shot past Alex Nedeljkovic, assisted by Justin Kirkland and Ryan Lomberg
+0-1
+P1  06:53
+Martin Pospisil (CGY) tripping against Kevin Hayes (2 minutes)
+0-1
+P1  01:12
+Matt Grzelcyk (PIT) tripping against Andrei Kuzmenko (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  17:26 
+Evgeni Malkin (PIT) high-sticking against Justin Kirkland (2 minutes)
+   0-1
+P2  14:01 
+Martin Pospisil (CGY) holding against Ryan Graves (2 minutes)
+   0-1
+P2  13:29 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Dustin Wolf, assisted by Sidney Crosby and Erik Karlsson
+   1-1
+P2  06:39 
+Jesse Puljujarvi (PIT) tripping against Nazem Kadri (2 minutes)
+   1-1
+P2  04:06 
+Andrei Kuzmenko (CGY) holding against Erik Karlsson (2 minutes)
+   1-1
+P2  17:26 
+Evgeni Malkin (PIT) high-sticking against Justin Kirkland (2 minutes)
+   0-1
+P2  14:01 
+Martin Pospisil (CGY) holding against Ryan Graves (2 minutes)
+   0-1
+P2  13:29 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Dustin Wolf, assisted by Sidney Crosby and Erik Karlsson
+   1-1
+P2  06:39 
+Jesse Puljujarvi (PIT) tripping against Nazem Kadri (2 minutes)
+   1-1
+P2  04:06 
+Andrei Kuzmenko (CGY) holding against Erik Karlsson (2 minutes)
+   1-1
+P2  17:26
+Evgeni Malkin (PIT) high-sticking against Justin Kirkland (2 minutes)
+0-1
+P2  14:01
+Martin Pospisil (CGY) holding against Ryan Graves (2 minutes)
+0-1
+P2  13:29
+Bryan Rust (PIT) scores power-play goal on wrist shot past Dustin Wolf, assisted by Sidney Crosby and Erik Karlsson
+1-1
+P2  06:39
+Jesse Puljujarvi (PIT) tripping against Nazem Kadri (2 minutes)
+1-1
+P2  04:06
+Andrei Kuzmenko (CGY) holding against Erik Karlsson (2 minutes)
+1-1
+3rd Period: ShowHide
+P3  19:31 
+Mikael Backlund (CGY) kneeing against Drew O'Connor (2 minutes)
+   1-1
+P3  17:28 
+Rickard Rakell (PIT) scores on wrist shot past Dustin Wolf, assisted by Kevin Hayes and Matt Grzelcyk
+   2-1
+P3  12:14 
+MacKenzie Weegar (CGY) scores on slap shot past Alex Nedeljkovic, assisted by Daniil Miromanov and Blake Coleman
+   2-2
+P3  06:20 
+Noel Acciari (PIT) scores on wrap-around shot past Dustin Wolf, assisted by Cody Glass and Marcus Pettersson
+   3-2
+P3  00:43 
+Nazem Kadri (CGY) scores goal with extra attacker on wrist shot past Alex Nedeljkovic, assisted by Blake Coleman and Rasmus Andersson
+   3-3
+P3  19:31 
+Mikael Backlund (CGY) kneeing against Drew O'Connor (2 minutes)
+   1-1
+P3  17:28 
+Rickard Rakell (PIT) scores on wrist shot past Dustin Wolf, assisted by Kevin Hayes and Matt Grzelcyk
+   2-1
+P3  12:14 
+MacKenzie Weegar (CGY) scores on slap shot past Alex Nedeljkovic, assisted by Daniil Miromanov and Blake Coleman
+   2-2
+P3  06:20 
+Noel Acciari (PIT) scores on wrap-around shot past Dustin Wolf, assisted by Cody Glass and Marcus Pettersson
+   3-2
+P3  00:43 
+Nazem Kadri (CGY) scores goal with extra attacker on wrist shot past Alex Nedeljkovic, assisted by Blake Coleman and Rasmus Andersson
+   3-3
+P3  19:31
+Mikael Backlund (CGY) kneeing against Drew O'Connor (2 minutes)
+1-1
+P3  17:28
+Rickard Rakell (PIT) scores on wrist shot past Dustin Wolf, assisted by Kevin Hayes and Matt Grzelcyk
+2-1
+P3  12:14
+MacKenzie Weegar (CGY) scores on slap shot past Alex Nedeljkovic, assisted by Daniil Miromanov and Blake Coleman
+2-2
+P3  06:20
+Noel Acciari (PIT) scores on wrap-around shot past Dustin Wolf, assisted by Cody Glass and Marcus Pettersson
+3-2
+P3  00:43
+Nazem Kadri (CGY) scores goal with extra attacker on wrist shot past Alex Nedeljkovic, assisted by Blake Coleman and Rasmus Andersson
+3-3
+Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  14:39   1  0   -1   2   7   0   0   0   7/9Anthony Beauvillier L  10:52   0  0    0   4   0   0   0   0   0/1Michael Bunting L  12:56   0  0    0   3   1   0   0   0   0/0Sidney Crosby C  21:23   0  1   -1   5   0   0   0   2 20/30Lars Eller C  15:51   0  0   -1   0   1   0   0   0  9/17Cody Glass C  15:49   0  1   -1   3   0   0   0   4   1/1Kevin Hayes R  09:03   0  1    1   0   0   0   1   1   5/7Evgeni Malkin C  20:07   0  0    0   1   1   2   0   2  5/10Drew O'Connor L  16:49   0  0   -1   0   1   0   0   0   1/1Jesse Puljujarvi R  09:53   0  0    1   0   0   2   1   0   0/0Rickard Rakell R  13:32   1  0    1   5   1   0   0   0   0/0Bryan Rust R  23:12   1  0   -1   3   3   0   1   1   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:27   0  0   -2   2   1   0   1   1   0/0Matt Grzelcyk D  19:06   0  1    0   2   3   2   1   0   0/0Erik Karlsson D  24:33   0  1   -1   2   1   0   0   3   0/0Kris Letang D  25:59   0  0    0   4   1   2   2   2   0/0Marcus Pettersson D  21:54   0  1    1   1   2   0   0   0   0/0Jack St. Ivany D  14:55   0  0    0   1   0   0   0   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       38  23   8   7  16 48/76
+                                        63.2%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  65:00   3  22/25  12/15   8/8   2/2     0
+              .880   .800 1.000 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  22:11   0  0    0   1   0   2   0   1 10/25Blake Coleman C  21:54   0  2    2   2   0   0   1   1   0/0Matt Coronato R  13:11   0  0   -1   1   0   0   0   2   0/1Jonathan Huberdeau C  19:32   0  0    1   1   1   0   0   3   0/0Nazem Kadri C  22:33   1  0   -1   2   0   0   0   2  9/27Justin Kirkland C  14:28   0  1    1   0   2   0   0   0  5/12Adam Klapka R  06:55   0  0    1   1   0   0   0   1   0/0Andrei Kuzmenko L  16:58   0  0    0   2   1   2   0   0   0/0Ryan Lomberg L  08:11   0  1    1   0   0   0   0   0   1/2Anthony Mantha R  16:44   0  0    0   0   0   0   0   0   0/1Martin Pospisil C  10:22   0  0    0   2   0   4   0   0   3/7Connor Zary C  19:28   0  0    0   4   1   0   0   0   0/1Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:20   1  1    1   3   4   0   1   1   0/0Kevin Bahl D  18:20   0  0   -1   1   0   0   0   2   0/0Jake Bean D  16:03   0  0    1   1   0   0   0   1   0/0Daniil Miromanov D  15:45   0  1    0   2   0   0   1   1   0/0Brayden Pachal D  15:29   0  0    0   0   1   0   0   1   0/0MacKenzie Weegar D  26:09   1  0    1   2   2   0   0   1   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       25  12   8   3  17 28/76
+                                        36.8%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  63:55   3  35/38  31/33   3/4   1/1     0
+              .921   .939  .750 1.000
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  14:39   1  0   -1   2   7   0   0   0   7/9Anthony Beauvillier L  10:52   0  0    0   4   0   0   0   0   0/1Michael Bunting L  12:56   0  0    0   3   1   0   0   0   0/0Sidney Crosby C  21:23   0  1   -1   5   0   0   0   2 20/30Lars Eller C  15:51   0  0   -1   0   1   0   0   0  9/17Cody Glass C  15:49   0  1   -1   3   0   0   0   4   1/1Kevin Hayes R  09:03   0  1    1   0   0   0   1   1   5/7Evgeni Malkin C  20:07   0  0    0   1   1   2   0   2  5/10Drew O'Connor L  16:49   0  0   -1   0   1   0   0   0   1/1Jesse Puljujarvi R  09:53   0  0    1   0   0   2   1   0   0/0Rickard Rakell R  13:32   1  0    1   5   1   0   0   0   0/0Bryan Rust R  23:12   1  0   -1   3   3   0   1   1   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+14:39   1  0   -1   2   7   0   0   0   7/9
+Anthony Beauvillier L
+10:52   0  0    0   4   0   0   0   0   0/1
+Michael Bunting L
+12:56   0  0    0   3   1   0   0   0   0/0
+Sidney Crosby C
+21:23   0  1   -1   5   0   0   0   2 20/30
+Lars Eller C
+15:51   0  0   -1   0   1   0   0   0  9/17
+Cody Glass C
+15:49   0  1   -1   3   0   0   0   4   1/1
+Kevin Hayes R
+09:03   0  1    1   0   0   0   1   1   5/7
+Evgeni Malkin C
+20:07   0  0    0   1   1   2   0   2  5/10
+Drew O'Connor L
+16:49   0  0   -1   0   1   0   0   0   1/1
+Jesse Puljujarvi R
+09:53   0  0    1   0   0   2   1   0   0/0
+Rickard Rakell R
+13:32   1  0    1   5   1   0   0   0   0/0
+Bryan Rust R
+23:12   1  0   -1   3   3   0   1   1   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:27   0  0   -2   2   1   0   1   1   0/0Matt Grzelcyk D  19:06   0  1    0   2   3   2   1   0   0/0Erik Karlsson D  24:33   0  1   -1   2   1   0   0   3   0/0Kris Letang D  25:59   0  0    0   4   1   2   2   2   0/0Marcus Pettersson D  21:54   0  1    1   1   2   0   0   0   0/0Jack St. Ivany D  14:55   0  0    0   1   0   0   0   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+16:27   0  0   -2   2   1   0   1   1   0/0
+Matt Grzelcyk D
+19:06   0  1    0   2   3   2   1   0   0/0
+Erik Karlsson D
+24:33   0  1   -1   2   1   0   0   3   0/0
+Kris Letang D
+25:59   0  0    0   4   1   2   2   2   0/0
+Marcus Pettersson D
+21:54   0  1    1   1   2   0   0   0   0/0
+Jack St. Ivany D
+14:55   0  0    0   1   0   0   0   0   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       38  23   8   7  16 48/76
+                                        63.2%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  65:00   3  22/25  12/15   8/8   2/2     0
+              .880   .800 1.000 1.000
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Nedeljkovic G
+65:00   3  22/25  12/15   8/8   2/2     0
+              .880   .800 1.000 1.000
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  22:11   0  0    0   1   0   2   0   1 10/25Blake Coleman C  21:54   0  2    2   2   0   0   1   1   0/0Matt Coronato R  13:11   0  0   -1   1   0   0   0   2   0/1Jonathan Huberdeau C  19:32   0  0    1   1   1   0   0   3   0/0Nazem Kadri C  22:33   1  0   -1   2   0   0   0   2  9/27Justin Kirkland C  14:28   0  1    1   0   2   0   0   0  5/12Adam Klapka R  06:55   0  0    1   1   0   0   0   1   0/0Andrei Kuzmenko L  16:58   0  0    0   2   1   2   0   0   0/0Ryan Lomberg L  08:11   0  1    1   0   0   0   0   0   1/2Anthony Mantha R  16:44   0  0    0   0   0   0   0   0   0/1Martin Pospisil C  10:22   0  0    0   2   0   4   0   0   3/7Connor Zary C  19:28   0  0    0   4   1   0   0   0   0/1
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+22:11   0  0    0   1   0   2   0   1 10/25
+Blake Coleman C
+21:54   0  2    2   2   0   0   1   1   0/0
+Matt Coronato R
+13:11   0  0   -1   1   0   0   0   2   0/1
+Jonathan Huberdeau C
+19:32   0  0    1   1   1   0   0   3   0/0
+Nazem Kadri C
+22:33   1  0   -1   2   0   0   0   2  9/27
+Justin Kirkland C
+14:28   0  1    1   0   2   0   0   0  5/12
+Adam Klapka R
+06:55   0  0    1   1   0   0   0   1   0/0
+Andrei Kuzmenko L
+16:58   0  0    0   2   1   2   0   0   0/0
+Ryan Lomberg L
+08:11   0  1    1   0   0   0   0   0   1/2
+Anthony Mantha R
+16:44   0  0    0   0   0   0   0   0   0/1
+Martin Pospisil C
+10:22   0  0    0   2   0   4   0   0   3/7
+Connor Zary C
+19:28   0  0    0   4   1   0   0   0   0/1
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:20   1  1    1   3   4   0   1   1   0/0Kevin Bahl D  18:20   0  0   -1   1   0   0   0   2   0/0Jake Bean D  16:03   0  0    1   1   0   0   0   1   0/0Daniil Miromanov D  15:45   0  1    0   2   0   0   1   1   0/0Brayden Pachal D  15:29   0  0    0   0   1   0   0   1   0/0MacKenzie Weegar D  26:09   1  0    1   2   2   0   0   1   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+25:20   1  1    1   3   4   0   1   1   0/0
+Kevin Bahl D
+18:20   0  0   -1   1   0   0   0   2   0/0
+Jake Bean D
+16:03   0  0    1   1   0   0   0   1   0/0
+Daniil Miromanov D
+15:45   0  1    0   2   0   0   1   1   0/0
+Brayden Pachal D
+15:29   0  0    0   0   1   0   0   1   0/0
+MacKenzie Weegar D
+26:09   1  0    1   2   2   0   0   1   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       25  12   8   3  17 28/76
+                                        36.8%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  63:55   3  35/38  31/33   3/4   1/1     0
+              .921   .939  .750 1.000
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dustin Wolf G
+63:55   3  35/38  31/33   3/4   1/1     0
+              .921   .939  .750 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

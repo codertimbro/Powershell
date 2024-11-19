@@ -1,0 +1,397 @@
+< Oct. 24 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Carolina
+Hurricanes4-2-0Final4 - 2Calgary
+Flames5-1-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CAR   1  2  1    4  
+CGY   0  1  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  07:43 
+Ryan Lomberg (CGY) interference against Jackson Blake (2 minutes)
+   0-0
+P1  07:31 
+Seth Jarvis (CAR) scores power-play goal on wrist shot past Dan Vladar, assisted by Sebastian Aho and Martin Necas
+   1-0
+P1  06:05 
+Brayden Pachal (CGY) roughing against Jesperi Kotkaniemi (2 minutes)
+   1-0
+P1  06:05 
+Jesperi Kotkaniemi (CAR) roughing against Brayden Pachal (2 minutes)
+   1-0
+P1  05:50 
+Blake Coleman (CGY) tripping against Andrei Svechnikov (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  19:19 
+Jack Roslovic (CAR) scores on wrist shot past Dan Vladar, assisted by Brent Burns and Andrei Svechnikov
+   2-0
+P2  18:01 
+Martin Necas (CAR) scores on wrist shot past Dan Vladar, assisted by Shayne Gostisbehere and Jesperi Kotkaniemi
+   3-0
+P2  06:59 
+Jake Bean (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Connor Zary and Mikael Backlund
+   3-1
+P2  01:42 
+MacKenzie Weegar (CGY) unsportsmanlike conduct (2 minutes)
+   3-1
+3rd Period: ShowHide
+P3  16:46 
+Kevin Rooney (CGY) hooking against Jack Drury (2 minutes)
+   3-1
+P3  16:46 
+Sean Walker (CAR) high-sticking against Kevin Rooney (4 minutes), served by Martin Necas
+   3-1
+P3  11:22 
+Jalen Chatfield (CAR) delaying game - puck over glass (2 minutes)
+   3-1
+P3  06:55 
+Jonathan Huberdeau (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Justin Kirkland and Rasmus Andersson
+   3-2
+P3  01:17 
+Eric Robinson (CAR) scores on empty net, assisted by Pyotr Kochetkov
+   4-2
+Box Score:
+ 
+Back to Top
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:40   0  1    0   3   2   0   0   0 14/23Jackson Blake R  08:33   0  0   -2   1   0   0   0   0   1/1William Carrier L  09:41   0  0   -2   2   0   0   0   3   1/1Jack Drury C  10:00   0  0   -1   1   0   0   1   2   5/9Seth Jarvis C  19:55   1  0    0   2   1   0   1   1   0/2Jesperi Kotkaniemi C  14:31   0  1    2   3   1   2   1   1  9/17Jordan Martinook L  17:18   0  0    0   0   3   0   1   1   0/0Martin Necas C  18:29   1  1    2   6   0   0   0   1   1/2Eric Robinson L  13:47   1  0    2   4   0   0   0   1   0/0Jack Roslovic C  12:50   1  0    1   4   2   0   0   0   1/1Jordan Staal C  15:54   0  0    0   0   1   0   0   2 11/17Andrei Svechnikov R  18:03   0  1    1   4   1   0   2   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  21:57   0  1    1   2   1   0   0   2   0/0Jalen Chatfield D  20:16   0  0    0   5   2   2   0   3   0/0Shayne Gostisbehere D  17:59   0  1    0   3   1   0   1   1   0/0Dmitry Orlov D  19:47   0  0    0   1   1   0   1   2   0/0Jaccob Slavin D  20:56   0  0    1   1   0   0   2   1   0/0Sean Walker D  15:24   0  0    0   1   2   4   0   0   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       43  18   8  10  22 43/73
+                                        58.9%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  60:00   2  30/32  25/27   5/5   0/0     0
+              .938   .926 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  18:49   0  1    0   5   0   0   1   1 13/25Blake Coleman C  18:26   0  0    0   3   3   2   1   2   0/0Matt Coronato R  10:21   0  0    0   1   0   0   0   3   0/0Jonathan Huberdeau C  16:21   1  0    0   2   2   0   0   0   0/0Nazem Kadri C  19:14   0  0   -2   7   0   0   0   1 10/21Justin Kirkland C  14:28   0  1    1   0   3   0   0   0  4/17Andrei Kuzmenko L  19:08   0  0   -1   1   0   0   0   1   0/0Ryan Lomberg L  06:42   0  0    0   1   2   2   0   0   0/1Anthony Mantha R  13:08   0  0    0   0   1   0   0   2   0/0Martin Pospisil C  16:29   0  0   -2   3   1   0   0   1   0/0Kevin Rooney C  08:09   0  0    0   0   1   2   0   1   3/9Connor Zary C  16:39   0  1    0   2   0   0   0   1   0/0Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:56   0  1   -1   1   1   0   0   3   0/0Kevin Bahl D  21:01   0  0    0   0   2   0   1   3   0/0Jake Bean D  15:28   1  0    0   3   1   0   0   1   0/0Daniil Miromanov D  19:48   0  0   -1   1   1   0   0   1   0/0Brayden Pachal D  12:56   0  0    1   1   1   2   1   3   0/0MacKenzie Weegar D  23:11   0  0   -1   1   3   2   1   0   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       32  22  10   5  24 30/73
+                                        41.1%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  59:34   3  39/42  34/36   5/6   0/0     0
+              .929   .944  .833
+Carolina
+Hurricanes4-2-0Final4 - 2Calgary
+Flames5-1-1
+Carolina
+Hurricanes4-2-0
+Final4 - 2
+Calgary
+Flames5-1-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CAR   1  2  1    4  
+CGY   0  1  1    2
+1st Period: ShowHide
+P1  07:43 
+Ryan Lomberg (CGY) interference against Jackson Blake (2 minutes)
+   0-0
+P1  07:31 
+Seth Jarvis (CAR) scores power-play goal on wrist shot past Dan Vladar, assisted by Sebastian Aho and Martin Necas
+   1-0
+P1  06:05 
+Brayden Pachal (CGY) roughing against Jesperi Kotkaniemi (2 minutes)
+   1-0
+P1  06:05 
+Jesperi Kotkaniemi (CAR) roughing against Brayden Pachal (2 minutes)
+   1-0
+P1  05:50 
+Blake Coleman (CGY) tripping against Andrei Svechnikov (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  19:19 
+Jack Roslovic (CAR) scores on wrist shot past Dan Vladar, assisted by Brent Burns and Andrei Svechnikov
+   2-0
+P2  18:01 
+Martin Necas (CAR) scores on wrist shot past Dan Vladar, assisted by Shayne Gostisbehere and Jesperi Kotkaniemi
+   3-0
+P2  06:59 
+Jake Bean (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Connor Zary and Mikael Backlund
+   3-1
+P2  01:42 
+MacKenzie Weegar (CGY) unsportsmanlike conduct (2 minutes)
+   3-1
+3rd Period: ShowHide
+P3  16:46 
+Kevin Rooney (CGY) hooking against Jack Drury (2 minutes)
+   3-1
+P3  16:46 
+Sean Walker (CAR) high-sticking against Kevin Rooney (4 minutes), served by Martin Necas
+   3-1
+P3  11:22 
+Jalen Chatfield (CAR) delaying game - puck over glass (2 minutes)
+   3-1
+P3  06:55 
+Jonathan Huberdeau (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Justin Kirkland and Rasmus Andersson
+   3-2
+P3  01:17 
+Eric Robinson (CAR) scores on empty net, assisted by Pyotr Kochetkov
+   4-2
+1st Period: ShowHide
+P1  07:43 
+Ryan Lomberg (CGY) interference against Jackson Blake (2 minutes)
+   0-0
+P1  07:31 
+Seth Jarvis (CAR) scores power-play goal on wrist shot past Dan Vladar, assisted by Sebastian Aho and Martin Necas
+   1-0
+P1  06:05 
+Brayden Pachal (CGY) roughing against Jesperi Kotkaniemi (2 minutes)
+   1-0
+P1  06:05 
+Jesperi Kotkaniemi (CAR) roughing against Brayden Pachal (2 minutes)
+   1-0
+P1  05:50 
+Blake Coleman (CGY) tripping against Andrei Svechnikov (2 minutes)
+   1-0
+P1  07:43 
+Ryan Lomberg (CGY) interference against Jackson Blake (2 minutes)
+   0-0
+P1  07:31 
+Seth Jarvis (CAR) scores power-play goal on wrist shot past Dan Vladar, assisted by Sebastian Aho and Martin Necas
+   1-0
+P1  06:05 
+Brayden Pachal (CGY) roughing against Jesperi Kotkaniemi (2 minutes)
+   1-0
+P1  06:05 
+Jesperi Kotkaniemi (CAR) roughing against Brayden Pachal (2 minutes)
+   1-0
+P1  05:50 
+Blake Coleman (CGY) tripping against Andrei Svechnikov (2 minutes)
+   1-0
+P1  07:43
+Ryan Lomberg (CGY) interference against Jackson Blake (2 minutes)
+0-0
+P1  07:31
+Seth Jarvis (CAR) scores power-play goal on wrist shot past Dan Vladar, assisted by Sebastian Aho and Martin Necas
+1-0
+P1  06:05
+Brayden Pachal (CGY) roughing against Jesperi Kotkaniemi (2 minutes)
+1-0
+P1  06:05
+Jesperi Kotkaniemi (CAR) roughing against Brayden Pachal (2 minutes)
+1-0
+P1  05:50
+Blake Coleman (CGY) tripping against Andrei Svechnikov (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  19:19 
+Jack Roslovic (CAR) scores on wrist shot past Dan Vladar, assisted by Brent Burns and Andrei Svechnikov
+   2-0
+P2  18:01 
+Martin Necas (CAR) scores on wrist shot past Dan Vladar, assisted by Shayne Gostisbehere and Jesperi Kotkaniemi
+   3-0
+P2  06:59 
+Jake Bean (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Connor Zary and Mikael Backlund
+   3-1
+P2  01:42 
+MacKenzie Weegar (CGY) unsportsmanlike conduct (2 minutes)
+   3-1
+P2  19:19 
+Jack Roslovic (CAR) scores on wrist shot past Dan Vladar, assisted by Brent Burns and Andrei Svechnikov
+   2-0
+P2  18:01 
+Martin Necas (CAR) scores on wrist shot past Dan Vladar, assisted by Shayne Gostisbehere and Jesperi Kotkaniemi
+   3-0
+P2  06:59 
+Jake Bean (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Connor Zary and Mikael Backlund
+   3-1
+P2  01:42 
+MacKenzie Weegar (CGY) unsportsmanlike conduct (2 minutes)
+   3-1
+P2  19:19
+Jack Roslovic (CAR) scores on wrist shot past Dan Vladar, assisted by Brent Burns and Andrei Svechnikov
+2-0
+P2  18:01
+Martin Necas (CAR) scores on wrist shot past Dan Vladar, assisted by Shayne Gostisbehere and Jesperi Kotkaniemi
+3-0
+P2  06:59
+Jake Bean (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Connor Zary and Mikael Backlund
+3-1
+P2  01:42
+MacKenzie Weegar (CGY) unsportsmanlike conduct (2 minutes)
+3-1
+3rd Period: ShowHide
+P3  16:46 
+Kevin Rooney (CGY) hooking against Jack Drury (2 minutes)
+   3-1
+P3  16:46 
+Sean Walker (CAR) high-sticking against Kevin Rooney (4 minutes), served by Martin Necas
+   3-1
+P3  11:22 
+Jalen Chatfield (CAR) delaying game - puck over glass (2 minutes)
+   3-1
+P3  06:55 
+Jonathan Huberdeau (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Justin Kirkland and Rasmus Andersson
+   3-2
+P3  01:17 
+Eric Robinson (CAR) scores on empty net, assisted by Pyotr Kochetkov
+   4-2
+P3  16:46 
+Kevin Rooney (CGY) hooking against Jack Drury (2 minutes)
+   3-1
+P3  16:46 
+Sean Walker (CAR) high-sticking against Kevin Rooney (4 minutes), served by Martin Necas
+   3-1
+P3  11:22 
+Jalen Chatfield (CAR) delaying game - puck over glass (2 minutes)
+   3-1
+P3  06:55 
+Jonathan Huberdeau (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Justin Kirkland and Rasmus Andersson
+   3-2
+P3  01:17 
+Eric Robinson (CAR) scores on empty net, assisted by Pyotr Kochetkov
+   4-2
+P3  16:46
+Kevin Rooney (CGY) hooking against Jack Drury (2 minutes)
+3-1
+P3  16:46
+Sean Walker (CAR) high-sticking against Kevin Rooney (4 minutes), served by Martin Necas
+3-1
+P3  11:22
+Jalen Chatfield (CAR) delaying game - puck over glass (2 minutes)
+3-1
+P3  06:55
+Jonathan Huberdeau (CGY) scores on wrist shot past Pyotr Kochetkov, assisted by Justin Kirkland and Rasmus Andersson
+3-2
+P3  01:17
+Eric Robinson (CAR) scores on empty net, assisted by Pyotr Kochetkov
+4-2
+Box Score:
+ 
+Back to Top
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:40   0  1    0   3   2   0   0   0 14/23Jackson Blake R  08:33   0  0   -2   1   0   0   0   0   1/1William Carrier L  09:41   0  0   -2   2   0   0   0   3   1/1Jack Drury C  10:00   0  0   -1   1   0   0   1   2   5/9Seth Jarvis C  19:55   1  0    0   2   1   0   1   1   0/2Jesperi Kotkaniemi C  14:31   0  1    2   3   1   2   1   1  9/17Jordan Martinook L  17:18   0  0    0   0   3   0   1   1   0/0Martin Necas C  18:29   1  1    2   6   0   0   0   1   1/2Eric Robinson L  13:47   1  0    2   4   0   0   0   1   0/0Jack Roslovic C  12:50   1  0    1   4   2   0   0   0   1/1Jordan Staal C  15:54   0  0    0   0   1   0   0   2 11/17Andrei Svechnikov R  18:03   0  1    1   4   1   0   2   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  21:57   0  1    1   2   1   0   0   2   0/0Jalen Chatfield D  20:16   0  0    0   5   2   2   0   3   0/0Shayne Gostisbehere D  17:59   0  1    0   3   1   0   1   1   0/0Dmitry Orlov D  19:47   0  0    0   1   1   0   1   2   0/0Jaccob Slavin D  20:56   0  0    1   1   0   0   2   1   0/0Sean Walker D  15:24   0  0    0   1   2   4   0   0   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       43  18   8  10  22 43/73
+                                        58.9%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  60:00   2  30/32  25/27   5/5   0/0     0
+              .938   .926 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  18:49   0  1    0   5   0   0   1   1 13/25Blake Coleman C  18:26   0  0    0   3   3   2   1   2   0/0Matt Coronato R  10:21   0  0    0   1   0   0   0   3   0/0Jonathan Huberdeau C  16:21   1  0    0   2   2   0   0   0   0/0Nazem Kadri C  19:14   0  0   -2   7   0   0   0   1 10/21Justin Kirkland C  14:28   0  1    1   0   3   0   0   0  4/17Andrei Kuzmenko L  19:08   0  0   -1   1   0   0   0   1   0/0Ryan Lomberg L  06:42   0  0    0   1   2   2   0   0   0/1Anthony Mantha R  13:08   0  0    0   0   1   0   0   2   0/0Martin Pospisil C  16:29   0  0   -2   3   1   0   0   1   0/0Kevin Rooney C  08:09   0  0    0   0   1   2   0   1   3/9Connor Zary C  16:39   0  1    0   2   0   0   0   1   0/0Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:56   0  1   -1   1   1   0   0   3   0/0Kevin Bahl D  21:01   0  0    0   0   2   0   1   3   0/0Jake Bean D  15:28   1  0    0   3   1   0   0   1   0/0Daniil Miromanov D  19:48   0  0   -1   1   1   0   0   1   0/0Brayden Pachal D  12:56   0  0    1   1   1   2   1   3   0/0MacKenzie Weegar D  23:11   0  0   -1   1   3   2   1   0   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       32  22  10   5  24 30/73
+                                        41.1%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  59:34   3  39/42  34/36   5/6   0/0     0
+              .929   .944  .833
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:40   0  1    0   3   2   0   0   0 14/23Jackson Blake R  08:33   0  0   -2   1   0   0   0   0   1/1William Carrier L  09:41   0  0   -2   2   0   0   0   3   1/1Jack Drury C  10:00   0  0   -1   1   0   0   1   2   5/9Seth Jarvis C  19:55   1  0    0   2   1   0   1   1   0/2Jesperi Kotkaniemi C  14:31   0  1    2   3   1   2   1   1  9/17Jordan Martinook L  17:18   0  0    0   0   3   0   1   1   0/0Martin Necas C  18:29   1  1    2   6   0   0   0   1   1/2Eric Robinson L  13:47   1  0    2   4   0   0   0   1   0/0Jack Roslovic C  12:50   1  0    1   4   2   0   0   0   1/1Jordan Staal C  15:54   0  0    0   0   1   0   0   2 11/17Andrei Svechnikov R  18:03   0  1    1   4   1   0   2   1   0/0
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sebastian Aho C
+18:40   0  1    0   3   2   0   0   0 14/23
+Jackson Blake R
+08:33   0  0   -2   1   0   0   0   0   1/1
+William Carrier L
+09:41   0  0   -2   2   0   0   0   3   1/1
+Jack Drury C
+10:00   0  0   -1   1   0   0   1   2   5/9
+Seth Jarvis C
+19:55   1  0    0   2   1   0   1   1   0/2
+Jesperi Kotkaniemi C
+14:31   0  1    2   3   1   2   1   1  9/17
+Jordan Martinook L
+17:18   0  0    0   0   3   0   1   1   0/0
+Martin Necas C
+18:29   1  1    2   6   0   0   0   1   1/2
+Eric Robinson L
+13:47   1  0    2   4   0   0   0   1   0/0
+Jack Roslovic C
+12:50   1  0    1   4   2   0   0   0   1/1
+Jordan Staal C
+15:54   0  0    0   0   1   0   0   2 11/17
+Andrei Svechnikov R
+18:03   0  1    1   4   1   0   2   1   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  21:57   0  1    1   2   1   0   0   2   0/0Jalen Chatfield D  20:16   0  0    0   5   2   2   0   3   0/0Shayne Gostisbehere D  17:59   0  1    0   3   1   0   1   1   0/0Dmitry Orlov D  19:47   0  0    0   1   1   0   1   2   0/0Jaccob Slavin D  20:56   0  0    1   1   0   0   2   1   0/0Sean Walker D  15:24   0  0    0   1   2   4   0   0   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brent Burns D
+21:57   0  1    1   2   1   0   0   2   0/0
+Jalen Chatfield D
+20:16   0  0    0   5   2   2   0   3   0/0
+Shayne Gostisbehere D
+17:59   0  1    0   3   1   0   1   1   0/0
+Dmitry Orlov D
+19:47   0  0    0   1   1   0   1   2   0/0
+Jaccob Slavin D
+20:56   0  0    1   1   0   0   2   1   0/0
+Sean Walker D
+15:24   0  0    0   1   2   4   0   0   0/0
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       43  18   8  10  22 43/73
+                                        58.9%
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  60:00   2  30/32  25/27   5/5   0/0     0
+              .938   .926 1.000
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Pyotr Kochetkov G
+60:00   2  30/32  25/27   5/5   0/0     0
+              .938   .926 1.000
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  18:49   0  1    0   5   0   0   1   1 13/25Blake Coleman C  18:26   0  0    0   3   3   2   1   2   0/0Matt Coronato R  10:21   0  0    0   1   0   0   0   3   0/0Jonathan Huberdeau C  16:21   1  0    0   2   2   0   0   0   0/0Nazem Kadri C  19:14   0  0   -2   7   0   0   0   1 10/21Justin Kirkland C  14:28   0  1    1   0   3   0   0   0  4/17Andrei Kuzmenko L  19:08   0  0   -1   1   0   0   0   1   0/0Ryan Lomberg L  06:42   0  0    0   1   2   2   0   0   0/1Anthony Mantha R  13:08   0  0    0   0   1   0   0   2   0/0Martin Pospisil C  16:29   0  0   -2   3   1   0   0   1   0/0Kevin Rooney C  08:09   0  0    0   0   1   2   0   1   3/9Connor Zary C  16:39   0  1    0   2   0   0   0   1   0/0
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+18:49   0  1    0   5   0   0   1   1 13/25
+Blake Coleman C
+18:26   0  0    0   3   3   2   1   2   0/0
+Matt Coronato R
+10:21   0  0    0   1   0   0   0   3   0/0
+Jonathan Huberdeau C
+16:21   1  0    0   2   2   0   0   0   0/0
+Nazem Kadri C
+19:14   0  0   -2   7   0   0   0   1 10/21
+Justin Kirkland C
+14:28   0  1    1   0   3   0   0   0  4/17
+Andrei Kuzmenko L
+19:08   0  0   -1   1   0   0   0   1   0/0
+Ryan Lomberg L
+06:42   0  0    0   1   2   2   0   0   0/1
+Anthony Mantha R
+13:08   0  0    0   0   1   0   0   2   0/0
+Martin Pospisil C
+16:29   0  0   -2   3   1   0   0   1   0/0
+Kevin Rooney C
+08:09   0  0    0   0   1   2   0   1   3/9
+Connor Zary C
+16:39   0  1    0   2   0   0   0   1   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:56   0  1   -1   1   1   0   0   3   0/0Kevin Bahl D  21:01   0  0    0   0   2   0   1   3   0/0Jake Bean D  15:28   1  0    0   3   1   0   0   1   0/0Daniil Miromanov D  19:48   0  0   -1   1   1   0   0   1   0/0Brayden Pachal D  12:56   0  0    1   1   1   2   1   3   0/0MacKenzie Weegar D  23:11   0  0   -1   1   3   2   1   0   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+23:56   0  1   -1   1   1   0   0   3   0/0
+Kevin Bahl D
+21:01   0  0    0   0   2   0   1   3   0/0
+Jake Bean D
+15:28   1  0    0   3   1   0   0   1   0/0
+Daniil Miromanov D
+19:48   0  0   -1   1   1   0   0   1   0/0
+Brayden Pachal D
+12:56   0  0    1   1   1   2   1   3   0/0
+MacKenzie Weegar D
+23:11   0  0   -1   1   3   2   1   0   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       32  22  10   5  24 30/73
+                                        41.1%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  59:34   3  39/42  34/36   5/6   0/0     0
+              .929   .944  .833
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dan Vladar G
+59:34   3  39/42  34/36   5/6   0/0     0
+              .929   .944  .833
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

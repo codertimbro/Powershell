@@ -1,0 +1,352 @@
+< Oct. 29 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Anaheim
+Ducks4-4-1Final3 - 1New York
+Islanders3-4-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+ANA   1  1  1    3  
+NYI   0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  07:33 
+Pierre Engvall (NYI) holding against Brock McGinn (2 minutes)
+   0-0
+P1  05:55 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Ilya Sorokin, assisted by Frank Vatrano and Mason McTavish
+   1-0
+2nd Period: ShowHide
+P2  16:49 
+Frank Vatrano (ANA) tripping against Ryan Pulock (2 minutes)
+   1-0
+P2  09:50 
+Brian Dumoulin (ANA) holding the stick against Kyle Palmieri (2 minutes)
+   1-0
+P2  06:59 
+Pierre Engvall (NYI) slashing against Troy Terry (2 minutes)
+   1-0
+P2  05:53 
+Troy Terry (ANA) scores power-play goal on snap shot past Ilya Sorokin, assisted by Mason McTavish and Olen Zellweger
+   2-0
+3rd Period: ShowHide
+P3  16:31 
+Frank Vatrano (ANA) tripping against Hudson Fasching (2 minutes)
+   2-0
+P3  15:52 
+Robby Fabbri (ANA) high-sticking against Kyle Palmieri (2 minutes)
+   2-0
+P3  14:29 
+Mathew Barzal (NYI) scores power-play goal on snap shot past Lukas Dostal, assisted by Bo Horvat and Noah Dobson
+   2-1
+P3  10:58 
+Maxim Tsyplakov (NYI) hooking against Olen Zellweger (2 minutes)
+   2-1
+P3  01:00 
+Frank Vatrano (ANA) scores on empty net, assisted by Alex Killorn
+   3-1
+Box Score:
+ 
+Back to Top
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  16:44   1  0    0   1   0   0   0   1   1/4Robby Fabbri C  17:30   0  0    0   2   2   2   0   2  3/11Cutter Gauthier L  11:12   0  0    0   4   0   0   1   1   0/1Ross Johnston L  09:57   0  0    0   0   1   0   0   0   0/0Alex Killorn L  17:52   0  1    1   2   1   0   0   2   0/0Isac Lundestrom C  15:47   0  0    0   1   3   0   0   0  7/16Brock McGinn L  12:04   0  0    0   1   2   0   0   0   0/0Mason McTavish C  14:34   0  2    0   0   0   0   1   0   1/9Ryan Strome C  15:18   0  0    1   0   1   0   0   2   5/8Troy Terry R  17:11   1  0    0   1   0   0   1   0   0/0Frank Vatrano R  14:41   1  1    1   4   0   4   1   1   0/0Trevor Zegras C  14:13   0  0    0   1   3   0   0   0   2/9Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  17:30   0  0    0   0   2   2   1   2   0/0Cam Fowler D  24:06   0  0    1   0   1   0   0   1   0/0Radko Gudas D  18:45   0  0    1   2   4   0   1   0   0/0Jackson LaCombe D  15:21   0  0    0   2   2   0   2   0   0/0Pavel Mintyukov D  19:14   0  0    0   1   3   0   0   1   0/0Olen Zellweger D  20:38   0  1    0   0   3   0   0   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       22  28   8   8  14 19/58
+                                        32.8%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:00   1  40/41  31/31   7/8   2/2     0
+              .976  1.000  .875 1.000 
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  21:02   1  0   -1   5   1   0   0   2   0/0Casey Cizikas C  13:07   0  0    0   1   0   0   1   0   3/4Pierre Engvall L  10:16   0  0    0   1   0   4   1   0   1/1Hudson Fasching R  07:56   0  0    0   0   0   0   1   0   0/0Simon Holmstrom R  17:53   0  0    0   0   1   0   0   0   0/0Bo Horvat C  19:03   0  1   -1   2   0   0   0   0 13/21Anders Lee L  13:42   0  0   -1   6   0   0   0   2   0/0Kyle MacLean C  11:44   0  0    0   2   2   0   0   0   3/6Brock Nelson C  19:28   0  0   -1   5   0   0   1   0 11/16Jean-Gabriel Pageau C  14:30   0  0    0   4   0   0   0   2  8/10Kyle Palmieri C  18:49   0  0   -1   1   1   0   0   0   0/0Maxim Tsyplakov R  14:39   0  0    0   1   1   2   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODennis Cholowski D  07:01   0  0    0   0   2   0   0   2   0/0Noah Dobson D  23:41   0  1   -1   4   1   0   1   0   0/0Scott Mayfield D  16:13   0  0    0   0   3   0   0   1   0/0Adam Pelech D  23:16   0  0    0   5   1   0   0   1   0/0Ryan Pulock D  22:25   0  0    0   2   2   0   0   0   0/0Mike Reilly D  21:26   0  0    0   2   1   0   1   2   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41  16   6   6  12 39/58
+                                        67.2%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:05   2  19/21  17/17   2/4   0/0     0
+              .905  1.000  .500
+Anaheim
+Ducks4-4-1Final3 - 1New York
+Islanders3-4-2
+Anaheim
+Ducks4-4-1
+Final3 - 1
+New York
+Islanders3-4-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+ANA   1  1  1    3  
+NYI   0  0  1    1
+1st Period: ShowHide
+P1  07:33 
+Pierre Engvall (NYI) holding against Brock McGinn (2 minutes)
+   0-0
+P1  05:55 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Ilya Sorokin, assisted by Frank Vatrano and Mason McTavish
+   1-0
+2nd Period: ShowHide
+P2  16:49 
+Frank Vatrano (ANA) tripping against Ryan Pulock (2 minutes)
+   1-0
+P2  09:50 
+Brian Dumoulin (ANA) holding the stick against Kyle Palmieri (2 minutes)
+   1-0
+P2  06:59 
+Pierre Engvall (NYI) slashing against Troy Terry (2 minutes)
+   1-0
+P2  05:53 
+Troy Terry (ANA) scores power-play goal on snap shot past Ilya Sorokin, assisted by Mason McTavish and Olen Zellweger
+   2-0
+3rd Period: ShowHide
+P3  16:31 
+Frank Vatrano (ANA) tripping against Hudson Fasching (2 minutes)
+   2-0
+P3  15:52 
+Robby Fabbri (ANA) high-sticking against Kyle Palmieri (2 minutes)
+   2-0
+P3  14:29 
+Mathew Barzal (NYI) scores power-play goal on snap shot past Lukas Dostal, assisted by Bo Horvat and Noah Dobson
+   2-1
+P3  10:58 
+Maxim Tsyplakov (NYI) hooking against Olen Zellweger (2 minutes)
+   2-1
+P3  01:00 
+Frank Vatrano (ANA) scores on empty net, assisted by Alex Killorn
+   3-1
+1st Period: ShowHide
+P1  07:33 
+Pierre Engvall (NYI) holding against Brock McGinn (2 minutes)
+   0-0
+P1  05:55 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Ilya Sorokin, assisted by Frank Vatrano and Mason McTavish
+   1-0
+P1  07:33 
+Pierre Engvall (NYI) holding against Brock McGinn (2 minutes)
+   0-0
+P1  05:55 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Ilya Sorokin, assisted by Frank Vatrano and Mason McTavish
+   1-0
+P1  07:33
+Pierre Engvall (NYI) holding against Brock McGinn (2 minutes)
+0-0
+P1  05:55
+Leo Carlsson (ANA) scores power-play goal on tip-in past Ilya Sorokin, assisted by Frank Vatrano and Mason McTavish
+1-0
+2nd Period: ShowHide
+P2  16:49 
+Frank Vatrano (ANA) tripping against Ryan Pulock (2 minutes)
+   1-0
+P2  09:50 
+Brian Dumoulin (ANA) holding the stick against Kyle Palmieri (2 minutes)
+   1-0
+P2  06:59 
+Pierre Engvall (NYI) slashing against Troy Terry (2 minutes)
+   1-0
+P2  05:53 
+Troy Terry (ANA) scores power-play goal on snap shot past Ilya Sorokin, assisted by Mason McTavish and Olen Zellweger
+   2-0
+P2  16:49 
+Frank Vatrano (ANA) tripping against Ryan Pulock (2 minutes)
+   1-0
+P2  09:50 
+Brian Dumoulin (ANA) holding the stick against Kyle Palmieri (2 minutes)
+   1-0
+P2  06:59 
+Pierre Engvall (NYI) slashing against Troy Terry (2 minutes)
+   1-0
+P2  05:53 
+Troy Terry (ANA) scores power-play goal on snap shot past Ilya Sorokin, assisted by Mason McTavish and Olen Zellweger
+   2-0
+P2  16:49
+Frank Vatrano (ANA) tripping against Ryan Pulock (2 minutes)
+1-0
+P2  09:50
+Brian Dumoulin (ANA) holding the stick against Kyle Palmieri (2 minutes)
+1-0
+P2  06:59
+Pierre Engvall (NYI) slashing against Troy Terry (2 minutes)
+1-0
+P2  05:53
+Troy Terry (ANA) scores power-play goal on snap shot past Ilya Sorokin, assisted by Mason McTavish and Olen Zellweger
+2-0
+3rd Period: ShowHide
+P3  16:31 
+Frank Vatrano (ANA) tripping against Hudson Fasching (2 minutes)
+   2-0
+P3  15:52 
+Robby Fabbri (ANA) high-sticking against Kyle Palmieri (2 minutes)
+   2-0
+P3  14:29 
+Mathew Barzal (NYI) scores power-play goal on snap shot past Lukas Dostal, assisted by Bo Horvat and Noah Dobson
+   2-1
+P3  10:58 
+Maxim Tsyplakov (NYI) hooking against Olen Zellweger (2 minutes)
+   2-1
+P3  01:00 
+Frank Vatrano (ANA) scores on empty net, assisted by Alex Killorn
+   3-1
+P3  16:31 
+Frank Vatrano (ANA) tripping against Hudson Fasching (2 minutes)
+   2-0
+P3  15:52 
+Robby Fabbri (ANA) high-sticking against Kyle Palmieri (2 minutes)
+   2-0
+P3  14:29 
+Mathew Barzal (NYI) scores power-play goal on snap shot past Lukas Dostal, assisted by Bo Horvat and Noah Dobson
+   2-1
+P3  10:58 
+Maxim Tsyplakov (NYI) hooking against Olen Zellweger (2 minutes)
+   2-1
+P3  01:00 
+Frank Vatrano (ANA) scores on empty net, assisted by Alex Killorn
+   3-1
+P3  16:31
+Frank Vatrano (ANA) tripping against Hudson Fasching (2 minutes)
+2-0
+P3  15:52
+Robby Fabbri (ANA) high-sticking against Kyle Palmieri (2 minutes)
+2-0
+P3  14:29
+Mathew Barzal (NYI) scores power-play goal on snap shot past Lukas Dostal, assisted by Bo Horvat and Noah Dobson
+2-1
+P3  10:58
+Maxim Tsyplakov (NYI) hooking against Olen Zellweger (2 minutes)
+2-1
+P3  01:00
+Frank Vatrano (ANA) scores on empty net, assisted by Alex Killorn
+3-1
+Box Score:
+ 
+Back to Top
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  16:44   1  0    0   1   0   0   0   1   1/4Robby Fabbri C  17:30   0  0    0   2   2   2   0   2  3/11Cutter Gauthier L  11:12   0  0    0   4   0   0   1   1   0/1Ross Johnston L  09:57   0  0    0   0   1   0   0   0   0/0Alex Killorn L  17:52   0  1    1   2   1   0   0   2   0/0Isac Lundestrom C  15:47   0  0    0   1   3   0   0   0  7/16Brock McGinn L  12:04   0  0    0   1   2   0   0   0   0/0Mason McTavish C  14:34   0  2    0   0   0   0   1   0   1/9Ryan Strome C  15:18   0  0    1   0   1   0   0   2   5/8Troy Terry R  17:11   1  0    0   1   0   0   1   0   0/0Frank Vatrano R  14:41   1  1    1   4   0   4   1   1   0/0Trevor Zegras C  14:13   0  0    0   1   3   0   0   0   2/9Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  17:30   0  0    0   0   2   2   1   2   0/0Cam Fowler D  24:06   0  0    1   0   1   0   0   1   0/0Radko Gudas D  18:45   0  0    1   2   4   0   1   0   0/0Jackson LaCombe D  15:21   0  0    0   2   2   0   2   0   0/0Pavel Mintyukov D  19:14   0  0    0   1   3   0   0   1   0/0Olen Zellweger D  20:38   0  1    0   0   3   0   0   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       22  28   8   8  14 19/58
+                                        32.8%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:00   1  40/41  31/31   7/8   2/2     0
+              .976  1.000  .875 1.000 
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  21:02   1  0   -1   5   1   0   0   2   0/0Casey Cizikas C  13:07   0  0    0   1   0   0   1   0   3/4Pierre Engvall L  10:16   0  0    0   1   0   4   1   0   1/1Hudson Fasching R  07:56   0  0    0   0   0   0   1   0   0/0Simon Holmstrom R  17:53   0  0    0   0   1   0   0   0   0/0Bo Horvat C  19:03   0  1   -1   2   0   0   0   0 13/21Anders Lee L  13:42   0  0   -1   6   0   0   0   2   0/0Kyle MacLean C  11:44   0  0    0   2   2   0   0   0   3/6Brock Nelson C  19:28   0  0   -1   5   0   0   1   0 11/16Jean-Gabriel Pageau C  14:30   0  0    0   4   0   0   0   2  8/10Kyle Palmieri C  18:49   0  0   -1   1   1   0   0   0   0/0Maxim Tsyplakov R  14:39   0  0    0   1   1   2   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODennis Cholowski D  07:01   0  0    0   0   2   0   0   2   0/0Noah Dobson D  23:41   0  1   -1   4   1   0   1   0   0/0Scott Mayfield D  16:13   0  0    0   0   3   0   0   1   0/0Adam Pelech D  23:16   0  0    0   5   1   0   0   1   0/0Ryan Pulock D  22:25   0  0    0   2   2   0   0   0   0/0Mike Reilly D  21:26   0  0    0   2   1   0   1   2   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41  16   6   6  12 39/58
+                                        67.2%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:05   2  19/21  17/17   2/4   0/0     0
+              .905  1.000  .500
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  16:44   1  0    0   1   0   0   0   1   1/4Robby Fabbri C  17:30   0  0    0   2   2   2   0   2  3/11Cutter Gauthier L  11:12   0  0    0   4   0   0   1   1   0/1Ross Johnston L  09:57   0  0    0   0   1   0   0   0   0/0Alex Killorn L  17:52   0  1    1   2   1   0   0   2   0/0Isac Lundestrom C  15:47   0  0    0   1   3   0   0   0  7/16Brock McGinn L  12:04   0  0    0   1   2   0   0   0   0/0Mason McTavish C  14:34   0  2    0   0   0   0   1   0   1/9Ryan Strome C  15:18   0  0    1   0   1   0   0   2   5/8Troy Terry R  17:11   1  0    0   1   0   0   1   0   0/0Frank Vatrano R  14:41   1  1    1   4   0   4   1   1   0/0Trevor Zegras C  14:13   0  0    0   1   3   0   0   0   2/9
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Leo Carlsson C
+16:44   1  0    0   1   0   0   0   1   1/4
+Robby Fabbri C
+17:30   0  0    0   2   2   2   0   2  3/11
+Cutter Gauthier L
+11:12   0  0    0   4   0   0   1   1   0/1
+Ross Johnston L
+09:57   0  0    0   0   1   0   0   0   0/0
+Alex Killorn L
+17:52   0  1    1   2   1   0   0   2   0/0
+Isac Lundestrom C
+15:47   0  0    0   1   3   0   0   0  7/16
+Brock McGinn L
+12:04   0  0    0   1   2   0   0   0   0/0
+Mason McTavish C
+14:34   0  2    0   0   0   0   1   0   1/9
+Ryan Strome C
+15:18   0  0    1   0   1   0   0   2   5/8
+Troy Terry R
+17:11   1  0    0   1   0   0   1   0   0/0
+Frank Vatrano R
+14:41   1  1    1   4   0   4   1   1   0/0
+Trevor Zegras C
+14:13   0  0    0   1   3   0   0   0   2/9
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  17:30   0  0    0   0   2   2   1   2   0/0Cam Fowler D  24:06   0  0    1   0   1   0   0   1   0/0Radko Gudas D  18:45   0  0    1   2   4   0   1   0   0/0Jackson LaCombe D  15:21   0  0    0   2   2   0   2   0   0/0Pavel Mintyukov D  19:14   0  0    0   1   3   0   0   1   0/0Olen Zellweger D  20:38   0  1    0   0   3   0   0   1   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brian Dumoulin D
+17:30   0  0    0   0   2   2   1   2   0/0
+Cam Fowler D
+24:06   0  0    1   0   1   0   0   1   0/0
+Radko Gudas D
+18:45   0  0    1   2   4   0   1   0   0/0
+Jackson LaCombe D
+15:21   0  0    0   2   2   0   2   0   0/0
+Pavel Mintyukov D
+19:14   0  0    0   1   3   0   0   1   0/0
+Olen Zellweger D
+20:38   0  1    0   0   3   0   0   1   0/0
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       22  28   8   8  14 19/58
+                                        32.8%
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:00   1  40/41  31/31   7/8   2/2     0
+              .976  1.000  .875 1.000
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Lukas Dostal G
+60:00   1  40/41  31/31   7/8   2/2     0
+              .976  1.000  .875 1.000
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  21:02   1  0   -1   5   1   0   0   2   0/0Casey Cizikas C  13:07   0  0    0   1   0   0   1   0   3/4Pierre Engvall L  10:16   0  0    0   1   0   4   1   0   1/1Hudson Fasching R  07:56   0  0    0   0   0   0   1   0   0/0Simon Holmstrom R  17:53   0  0    0   0   1   0   0   0   0/0Bo Horvat C  19:03   0  1   -1   2   0   0   0   0 13/21Anders Lee L  13:42   0  0   -1   6   0   0   0   2   0/0Kyle MacLean C  11:44   0  0    0   2   2   0   0   0   3/6Brock Nelson C  19:28   0  0   -1   5   0   0   1   0 11/16Jean-Gabriel Pageau C  14:30   0  0    0   4   0   0   0   2  8/10Kyle Palmieri C  18:49   0  0   -1   1   1   0   0   0   0/0Maxim Tsyplakov R  14:39   0  0    0   1   1   2   0   0   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Barzal C
+21:02   1  0   -1   5   1   0   0   2   0/0
+Casey Cizikas C
+13:07   0  0    0   1   0   0   1   0   3/4
+Pierre Engvall L
+10:16   0  0    0   1   0   4   1   0   1/1
+Hudson Fasching R
+07:56   0  0    0   0   0   0   1   0   0/0
+Simon Holmstrom R
+17:53   0  0    0   0   1   0   0   0   0/0
+Bo Horvat C
+19:03   0  1   -1   2   0   0   0   0 13/21
+Anders Lee L
+13:42   0  0   -1   6   0   0   0   2   0/0
+Kyle MacLean C
+11:44   0  0    0   2   2   0   0   0   3/6
+Brock Nelson C
+19:28   0  0   -1   5   0   0   1   0 11/16
+Jean-Gabriel Pageau C
+14:30   0  0    0   4   0   0   0   2  8/10
+Kyle Palmieri C
+18:49   0  0   -1   1   1   0   0   0   0/0
+Maxim Tsyplakov R
+14:39   0  0    0   1   1   2   0   0   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODennis Cholowski D  07:01   0  0    0   0   2   0   0   2   0/0Noah Dobson D  23:41   0  1   -1   4   1   0   1   0   0/0Scott Mayfield D  16:13   0  0    0   0   3   0   0   1   0/0Adam Pelech D  23:16   0  0    0   5   1   0   0   1   0/0Ryan Pulock D  22:25   0  0    0   2   2   0   0   0   0/0Mike Reilly D  21:26   0  0    0   2   1   0   1   2   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dennis Cholowski D
+07:01   0  0    0   0   2   0   0   2   0/0
+Noah Dobson D
+23:41   0  1   -1   4   1   0   1   0   0/0
+Scott Mayfield D
+16:13   0  0    0   0   3   0   0   1   0/0
+Adam Pelech D
+23:16   0  0    0   5   1   0   0   1   0/0
+Ryan Pulock D
+22:25   0  0    0   2   2   0   0   0   0/0
+Mike Reilly D
+21:26   0  0    0   2   1   0   1   2   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41  16   6   6  12 39/58
+                                        67.2%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:05   2  19/21  17/17   2/4   0/0     0
+              .905  1.000  .500
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Sorokin G
+59:05   2  19/21  17/17   2/4   0/0     0
+              .905  1.000  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

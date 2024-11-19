@@ -1,0 +1,322 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Colorado
+Avalanche3-4-0Final3 - 2Seattle
+Kraken4-3-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+COL   1  2  0    3  
+SEA   0  1  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  01:28 
+Joel Kiviranta (COL) scores on wrist shot past Philipp Grubauer, assisted by Sam Malinski
+   1-0
+2nd Period: ShowHide
+P2  13:17 
+Eeli Tolvanen (SEA) interference against Ross Colton (2 minutes)
+   1-0
+P2  08:03 
+Jared McCann (SEA) scores on backhand shot past Justus Annunen
+   1-1
+P2  05:04 
+Joel Kiviranta (COL) scores on tip-in past Philipp Grubauer, assisted by Cale Makar and Ivan Ivan
+   2-1
+P2  00:36 
+Chandler Stephenson (SEA) tripping against Mikko Rantanen (2 minutes)
+   2-1
+P2  00:08 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Philipp Grubauer, assisted by Cale Makar and Casey Mittelstadt
+   3-1
+3rd Period: ShowHide
+P3  19:31 
+Jamie Oleksiak (SEA) interference against Mikko Rantanen (2 minutes)
+   3-1
+P3  02:00 
+Joel Kiviranta (COL) slashing against Jordan Eberle (2 minutes)
+   3-1
+P3  00:05 
+Ryker Evans (SEA) scores goal with extra attacker on wrist shot past Justus Annunen, assisted by Eeli Tolvanen and Andre Burakovsky
+   3-2
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  22:05   0  0    0   3   1   0   0   0   0/0Ivan Ivan C  11:39   0  1    2   1   1   0   0   1   2/5Parker Kelly C  15:18   0  0   -1   1   2   0   0   0   1/9Joel Kiviranta L  14:51   2  0    2   4   1   2   0   0   0/1Nikolai Kovalenko R  10:42   0  0   -1   0   0   0   0   0   0/0Nathan MacKinnon C  21:51   1  0    0   2   1   0   0   1 10/17Casey Mittelstadt C  17:53   0  1    0   0   0   0   0   1  7/22Logan O'Connor R  18:24   0  0   -1   4   1   0   1   0   1/1Mikko Rantanen R  21:04   0  0    0   3   1   0   0   0   0/1Calum Ritchie C  07:14   0  0    0   0   0   0   0   0   0/0Matt Stienburg C  06:00   0  0    1   0   1   0   0   1   0/0Miles Wood L  15:15   0  0    1   0   0   0   0   0   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:05   0  0   -1   0   2   0   0   3   0/0Cale Makar D  23:34   0  2    1   3   3   0   1   1   0/0Sam Malinski D  13:38   0  1    1   2   2   0   0   1   0/0Josh Manson D  18:40   0  0   -1   4   1   0   0   1   0/0Devon Toews D  23:09   0  0    1   0   1   0   1   1   0/0Calvin de Haan D  17:43   0  0    1   1   5   0   0   2   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       28  23   2   3  13 21/56
+                                        37.5%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   2  25/27  19/20   5/6   1/1     0
+              .926   .950  .833 1.000 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:28   0  0    0   3   0   0   0   2   8/8Oliver Bjorkstrand R  13:51   0  0    0   2   0   0   0   2   0/0Andre Burakovsky L  12:52   0  1    0   0   1   0   0   1   0/0Jordan Eberle R  16:56   0  0   -1   1   1   0   1   1   0/0Yanni Gourde C  17:03   0  0    0   1   1   0   0   0  6/13Tye Kartye L  09:59   0  0    0   1   1   0   0   1   0/0Jared McCann L  15:58   1  0   -1   2   1   0   0   3   0/0Jaden Schwartz C  18:36   0  0    0   0   0   0   0   0   0/0Chandler Stephenson C  19:04   0  0    0   2   0   2   0   0 13/23Brandon Tanev L  12:51   0  0    0   0   3   0   0   2   0/0Eeli Tolvanen R  12:20   0  1    0   1   2   2   0   0   0/0Shane Wright C  13:39   0  0   -1   2   1   0   0   1  8/12Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  14:05   0  0    0   1   1   0   1   1   0/0Ryker Evans D  22:53   1  0    0   4   3   0   0   0   0/0Adam Larsson D  24:27   0  0    0   1   0   0   1   0   0/0Joshua Mahura D  10:05   0  0    0   0   0   0   0   1   0/0Brandon Montour D  26:41   0  0   -1   3   2   0   0   3   0/0Jamie Oleksiak D  20:05   0  0   -1   3   3   2   1   3   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          2  2       27  20   6   4  21 35/56
+                                        62.5%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  56:39   3  25/28  22/24   3/4   0/0     0
+              .893   .917  .750
+Colorado
+Avalanche3-4-0Final3 - 2Seattle
+Kraken4-3-0
+Colorado
+Avalanche3-4-0
+Final3 - 2
+Seattle
+Kraken4-3-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+COL   1  2  0    3  
+SEA   0  1  1    2
+1st Period: ShowHide
+P1  01:28 
+Joel Kiviranta (COL) scores on wrist shot past Philipp Grubauer, assisted by Sam Malinski
+   1-0
+2nd Period: ShowHide
+P2  13:17 
+Eeli Tolvanen (SEA) interference against Ross Colton (2 minutes)
+   1-0
+P2  08:03 
+Jared McCann (SEA) scores on backhand shot past Justus Annunen
+   1-1
+P2  05:04 
+Joel Kiviranta (COL) scores on tip-in past Philipp Grubauer, assisted by Cale Makar and Ivan Ivan
+   2-1
+P2  00:36 
+Chandler Stephenson (SEA) tripping against Mikko Rantanen (2 minutes)
+   2-1
+P2  00:08 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Philipp Grubauer, assisted by Cale Makar and Casey Mittelstadt
+   3-1
+3rd Period: ShowHide
+P3  19:31 
+Jamie Oleksiak (SEA) interference against Mikko Rantanen (2 minutes)
+   3-1
+P3  02:00 
+Joel Kiviranta (COL) slashing against Jordan Eberle (2 minutes)
+   3-1
+P3  00:05 
+Ryker Evans (SEA) scores goal with extra attacker on wrist shot past Justus Annunen, assisted by Eeli Tolvanen and Andre Burakovsky
+   3-2
+1st Period: ShowHide
+P1  01:28 
+Joel Kiviranta (COL) scores on wrist shot past Philipp Grubauer, assisted by Sam Malinski
+   1-0
+P1  01:28 
+Joel Kiviranta (COL) scores on wrist shot past Philipp Grubauer, assisted by Sam Malinski
+   1-0
+P1  01:28
+Joel Kiviranta (COL) scores on wrist shot past Philipp Grubauer, assisted by Sam Malinski
+1-0
+2nd Period: ShowHide
+P2  13:17 
+Eeli Tolvanen (SEA) interference against Ross Colton (2 minutes)
+   1-0
+P2  08:03 
+Jared McCann (SEA) scores on backhand shot past Justus Annunen
+   1-1
+P2  05:04 
+Joel Kiviranta (COL) scores on tip-in past Philipp Grubauer, assisted by Cale Makar and Ivan Ivan
+   2-1
+P2  00:36 
+Chandler Stephenson (SEA) tripping against Mikko Rantanen (2 minutes)
+   2-1
+P2  00:08 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Philipp Grubauer, assisted by Cale Makar and Casey Mittelstadt
+   3-1
+P2  13:17 
+Eeli Tolvanen (SEA) interference against Ross Colton (2 minutes)
+   1-0
+P2  08:03 
+Jared McCann (SEA) scores on backhand shot past Justus Annunen
+   1-1
+P2  05:04 
+Joel Kiviranta (COL) scores on tip-in past Philipp Grubauer, assisted by Cale Makar and Ivan Ivan
+   2-1
+P2  00:36 
+Chandler Stephenson (SEA) tripping against Mikko Rantanen (2 minutes)
+   2-1
+P2  00:08 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Philipp Grubauer, assisted by Cale Makar and Casey Mittelstadt
+   3-1
+P2  13:17
+Eeli Tolvanen (SEA) interference against Ross Colton (2 minutes)
+1-0
+P2  08:03
+Jared McCann (SEA) scores on backhand shot past Justus Annunen
+1-1
+P2  05:04
+Joel Kiviranta (COL) scores on tip-in past Philipp Grubauer, assisted by Cale Makar and Ivan Ivan
+2-1
+P2  00:36
+Chandler Stephenson (SEA) tripping against Mikko Rantanen (2 minutes)
+2-1
+P2  00:08
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Philipp Grubauer, assisted by Cale Makar and Casey Mittelstadt
+3-1
+3rd Period: ShowHide
+P3  19:31 
+Jamie Oleksiak (SEA) interference against Mikko Rantanen (2 minutes)
+   3-1
+P3  02:00 
+Joel Kiviranta (COL) slashing against Jordan Eberle (2 minutes)
+   3-1
+P3  00:05 
+Ryker Evans (SEA) scores goal with extra attacker on wrist shot past Justus Annunen, assisted by Eeli Tolvanen and Andre Burakovsky
+   3-2
+P3  19:31 
+Jamie Oleksiak (SEA) interference against Mikko Rantanen (2 minutes)
+   3-1
+P3  02:00 
+Joel Kiviranta (COL) slashing against Jordan Eberle (2 minutes)
+   3-1
+P3  00:05 
+Ryker Evans (SEA) scores goal with extra attacker on wrist shot past Justus Annunen, assisted by Eeli Tolvanen and Andre Burakovsky
+   3-2
+P3  19:31
+Jamie Oleksiak (SEA) interference against Mikko Rantanen (2 minutes)
+3-1
+P3  02:00
+Joel Kiviranta (COL) slashing against Jordan Eberle (2 minutes)
+3-1
+P3  00:05
+Ryker Evans (SEA) scores goal with extra attacker on wrist shot past Justus Annunen, assisted by Eeli Tolvanen and Andre Burakovsky
+3-2
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  22:05   0  0    0   3   1   0   0   0   0/0Ivan Ivan C  11:39   0  1    2   1   1   0   0   1   2/5Parker Kelly C  15:18   0  0   -1   1   2   0   0   0   1/9Joel Kiviranta L  14:51   2  0    2   4   1   2   0   0   0/1Nikolai Kovalenko R  10:42   0  0   -1   0   0   0   0   0   0/0Nathan MacKinnon C  21:51   1  0    0   2   1   0   0   1 10/17Casey Mittelstadt C  17:53   0  1    0   0   0   0   0   1  7/22Logan O'Connor R  18:24   0  0   -1   4   1   0   1   0   1/1Mikko Rantanen R  21:04   0  0    0   3   1   0   0   0   0/1Calum Ritchie C  07:14   0  0    0   0   0   0   0   0   0/0Matt Stienburg C  06:00   0  0    1   0   1   0   0   1   0/0Miles Wood L  15:15   0  0    1   0   0   0   0   0   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:05   0  0   -1   0   2   0   0   3   0/0Cale Makar D  23:34   0  2    1   3   3   0   1   1   0/0Sam Malinski D  13:38   0  1    1   2   2   0   0   1   0/0Josh Manson D  18:40   0  0   -1   4   1   0   0   1   0/0Devon Toews D  23:09   0  0    1   0   1   0   1   1   0/0Calvin de Haan D  17:43   0  0    1   1   5   0   0   2   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       28  23   2   3  13 21/56
+                                        37.5%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   2  25/27  19/20   5/6   1/1     0
+              .926   .950  .833 1.000 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:28   0  0    0   3   0   0   0   2   8/8Oliver Bjorkstrand R  13:51   0  0    0   2   0   0   0   2   0/0Andre Burakovsky L  12:52   0  1    0   0   1   0   0   1   0/0Jordan Eberle R  16:56   0  0   -1   1   1   0   1   1   0/0Yanni Gourde C  17:03   0  0    0   1   1   0   0   0  6/13Tye Kartye L  09:59   0  0    0   1   1   0   0   1   0/0Jared McCann L  15:58   1  0   -1   2   1   0   0   3   0/0Jaden Schwartz C  18:36   0  0    0   0   0   0   0   0   0/0Chandler Stephenson C  19:04   0  0    0   2   0   2   0   0 13/23Brandon Tanev L  12:51   0  0    0   0   3   0   0   2   0/0Eeli Tolvanen R  12:20   0  1    0   1   2   2   0   0   0/0Shane Wright C  13:39   0  0   -1   2   1   0   0   1  8/12Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  14:05   0  0    0   1   1   0   1   1   0/0Ryker Evans D  22:53   1  0    0   4   3   0   0   0   0/0Adam Larsson D  24:27   0  0    0   1   0   0   1   0   0/0Joshua Mahura D  10:05   0  0    0   0   0   0   0   1   0/0Brandon Montour D  26:41   0  0   -1   3   2   0   0   3   0/0Jamie Oleksiak D  20:05   0  0   -1   3   3   2   1   3   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          2  2       27  20   6   4  21 35/56
+                                        62.5%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  56:39   3  25/28  22/24   3/4   0/0     0
+              .893   .917  .750
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  22:05   0  0    0   3   1   0   0   0   0/0Ivan Ivan C  11:39   0  1    2   1   1   0   0   1   2/5Parker Kelly C  15:18   0  0   -1   1   2   0   0   0   1/9Joel Kiviranta L  14:51   2  0    2   4   1   2   0   0   0/1Nikolai Kovalenko R  10:42   0  0   -1   0   0   0   0   0   0/0Nathan MacKinnon C  21:51   1  0    0   2   1   0   0   1 10/17Casey Mittelstadt C  17:53   0  1    0   0   0   0   0   1  7/22Logan O'Connor R  18:24   0  0   -1   4   1   0   1   0   1/1Mikko Rantanen R  21:04   0  0    0   3   1   0   0   0   0/1Calum Ritchie C  07:14   0  0    0   0   0   0   0   0   0/0Matt Stienburg C  06:00   0  0    1   0   1   0   0   1   0/0Miles Wood L  15:15   0  0    1   0   0   0   0   0   0/0
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+22:05   0  0    0   3   1   0   0   0   0/0
+Ivan Ivan C
+11:39   0  1    2   1   1   0   0   1   2/5
+Parker Kelly C
+15:18   0  0   -1   1   2   0   0   0   1/9
+Joel Kiviranta L
+14:51   2  0    2   4   1   2   0   0   0/1
+Nikolai Kovalenko R
+10:42   0  0   -1   0   0   0   0   0   0/0
+Nathan MacKinnon C
+21:51   1  0    0   2   1   0   0   1 10/17
+Casey Mittelstadt C
+17:53   0  1    0   0   0   0   0   1  7/22
+Logan O'Connor R
+18:24   0  0   -1   4   1   0   1   0   1/1
+Mikko Rantanen R
+21:04   0  0    0   3   1   0   0   0   0/1
+Calum Ritchie C
+07:14   0  0    0   0   0   0   0   0   0/0
+Matt Stienburg C
+06:00   0  0    1   0   1   0   0   1   0/0
+Miles Wood L
+15:15   0  0    1   0   0   0   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:05   0  0   -1   0   2   0   0   3   0/0Cale Makar D  23:34   0  2    1   3   3   0   1   1   0/0Sam Malinski D  13:38   0  1    1   2   2   0   0   1   0/0Josh Manson D  18:40   0  0   -1   4   1   0   0   1   0/0Devon Toews D  23:09   0  0    1   0   1   0   1   1   0/0Calvin de Haan D  17:43   0  0    1   1   5   0   0   2   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+19:05   0  0   -1   0   2   0   0   3   0/0
+Cale Makar D
+23:34   0  2    1   3   3   0   1   1   0/0
+Sam Malinski D
+13:38   0  1    1   2   2   0   0   1   0/0
+Josh Manson D
+18:40   0  0   -1   4   1   0   0   1   0/0
+Devon Toews D
+23:09   0  0    1   0   1   0   1   1   0/0
+Calvin de Haan D
+17:43   0  0    1   1   5   0   0   2   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       28  23   2   3  13 21/56
+                                        37.5%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   2  25/27  19/20   5/6   1/1     0
+              .926   .950  .833 1.000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Justus Annunen G
+60:00   2  25/27  19/20   5/6   1/1     0
+              .926   .950  .833 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:28   0  0    0   3   0   0   0   2   8/8Oliver Bjorkstrand R  13:51   0  0    0   2   0   0   0   2   0/0Andre Burakovsky L  12:52   0  1    0   0   1   0   0   1   0/0Jordan Eberle R  16:56   0  0   -1   1   1   0   1   1   0/0Yanni Gourde C  17:03   0  0    0   1   1   0   0   0  6/13Tye Kartye L  09:59   0  0    0   1   1   0   0   1   0/0Jared McCann L  15:58   1  0   -1   2   1   0   0   3   0/0Jaden Schwartz C  18:36   0  0    0   0   0   0   0   0   0/0Chandler Stephenson C  19:04   0  0    0   2   0   2   0   0 13/23Brandon Tanev L  12:51   0  0    0   0   3   0   0   2   0/0Eeli Tolvanen R  12:20   0  1    0   1   2   2   0   0   0/0Shane Wright C  13:39   0  0   -1   2   1   0   0   1  8/12
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+17:28   0  0    0   3   0   0   0   2   8/8
+Oliver Bjorkstrand R
+13:51   0  0    0   2   0   0   0   2   0/0
+Andre Burakovsky L
+12:52   0  1    0   0   1   0   0   1   0/0
+Jordan Eberle R
+16:56   0  0   -1   1   1   0   1   1   0/0
+Yanni Gourde C
+17:03   0  0    0   1   1   0   0   0  6/13
+Tye Kartye L
+09:59   0  0    0   1   1   0   0   1   0/0
+Jared McCann L
+15:58   1  0   -1   2   1   0   0   3   0/0
+Jaden Schwartz C
+18:36   0  0    0   0   0   0   0   0   0/0
+Chandler Stephenson C
+19:04   0  0    0   2   0   2   0   0 13/23
+Brandon Tanev L
+12:51   0  0    0   0   3   0   0   2   0/0
+Eeli Tolvanen R
+12:20   0  1    0   1   2   2   0   0   0/0
+Shane Wright C
+13:39   0  0   -1   2   1   0   0   1  8/12
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  14:05   0  0    0   1   1   0   1   1   0/0Ryker Evans D  22:53   1  0    0   4   3   0   0   0   0/0Adam Larsson D  24:27   0  0    0   1   0   0   1   0   0/0Joshua Mahura D  10:05   0  0    0   0   0   0   0   1   0/0Brandon Montour D  26:41   0  0   -1   3   2   0   0   3   0/0Jamie Oleksiak D  20:05   0  0   -1   3   3   2   1   3   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+14:05   0  0    0   1   1   0   1   1   0/0
+Ryker Evans D
+22:53   1  0    0   4   3   0   0   0   0/0
+Adam Larsson D
+24:27   0  0    0   1   0   0   1   0   0/0
+Joshua Mahura D
+10:05   0  0    0   0   0   0   0   1   0/0
+Brandon Montour D
+26:41   0  0   -1   3   2   0   0   3   0/0
+Jamie Oleksiak D
+20:05   0  0   -1   3   3   2   1   3   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          2  2       27  20   6   4  21 35/56
+                                        62.5%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  56:39   3  25/28  22/24   3/4   0/0     0
+              .893   .917  .750
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Philipp Grubauer G
+56:39   3  25/28  22/24   3/4   0/0     0
+              .893   .917  .750
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,367 @@
+< Nov. 1 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Winnipeg
+Jets10-1-0Final6 - 2Columbus
+Blue Jackets5-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+WPG   2  2  2    6  
+CBJ   1  1  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:47 
+Nikolaj Ehlers (WPG) scores on slap shot past Elvis Merzlikins, assisted by Colin Miller
+   1-0
+P1  08:58 
+Sean Kuraly (CBJ) scores on snap shot past Eric Comrie, assisted by James van Riemsdyk
+   1-1
+P1  04:46 
+Nikolaj Ehlers (WPG) scores on snap shot past Elvis Merzlikins
+   2-1
+2nd Period: ShowHide
+P2  17:40 
+Mason Appleton (WPG) scores on slap shot past Elvis Merzlikins, assisted by Neal Pionk and Adam Lowry
+   3-1
+P2  12:06 
+Dmitri Voronkov (CBJ) slashing against Rasmus Kupari (2 minutes)
+   3-1
+P2  03:38 
+Mark Scheifele (WPG) tripping against Cole Sillinger (2 minutes)
+   3-1
+P2  03:30 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Eric Comrie, assisted by Zach Werenski and Kirill Marchenko
+   3-2
+P2  01:09 
+Nikolaj Ehlers (WPG) scores on wrist shot past Elvis Merzlikins
+   4-2
+P2  00:48 
+Morgan Barron (WPG) tripping against Ivan Provorov (2 minutes)
+   4-2
+3rd Period: ShowHide
+P3  09:38 
+Mathieu Olivier (CBJ) cross-checking against Vladislav Namestnikov (2 minutes)
+   4-2
+P3  08:21 
+Josh Morrissey (WPG) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Mark Scheifele and Nikolaj Ehlers
+   5-2
+P3  05:06 
+Gabriel Vilardi (WPG) scores on snap shot past Elvis Merzlikins, assisted by Kyle Connor and Josh Morrissey
+   6-2
+Box Score:
+ 
+Back to Top
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  14:15   1  0    1   1   0   0   0   0   0/0Morgan Barron C  11:04   0  0    0   1   0   2   0   1   0/0Kyle Connor L  17:26   0  1    1   4   0   0   1   0   0/0Nikolaj Ehlers L  17:19   3  1    3   5   0   0   0   1   0/0Alex Iafallo L  12:54   0  0    0   0   0   0   0   0   0/0Rasmus Kupari C  10:59   0  0    0   3   1   0   0   1   4/7Adam Lowry C  15:38   0  1    1   2   0   0   0   2  6/17Vladislav Namestnikov C  15:21   0  0    3   3   1   0   0   0  6/14Nino Niederreiter R  14:41   0  0    0   3   0   0   0   1   0/1Cole Perfetti C  15:14   0  0    2   0   1   0   1   1   0/0Mark Scheifele C  18:26   0  1    0   5   0   2   0   1 12/19Gabriel Vilardi C  17:45   1  0    1   3   0   0   0   2   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:04   0  0    0   4   0   0   1   0   0/0Colin Miller D  15:07   0  1    2   0   1   0   0   0   0/0Josh Morrissey D  25:02   1  1    0   5   2   0   2   1   0/0Neal Pionk D  19:42   0  1    2   2   1   0   0   0   0/0Dylan Samberg D  20:04   0  0    2   1   3   0   2   1   0/0Logan Stanley D  15:51   0  0    2   2   2   0   1   0   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  7       44  12   4   8  12 28/58
+                                        48.3%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMEric Comrie G  60:00   2  20/22  17/18   2/3   1/1     0
+              .909   .944  .667 1.000 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  12:48   0  0   -2   0   0   0   0   1   0/0Yegor Chinakhov R  16:14   0  0    0   0   0   0   0   0   0/0Justin Danforth R  15:46   0  0   -3   2   0   0   0   0 11/18Adam Fantilli C  14:10   0  0   -1   3   1   0   1   0   6/9Sean Kuraly C  13:00   1  0    0   1   2   0   0   1   3/7Kirill Marchenko R  16:08   0  1    0   1   0   0   1   0   0/2Sean Monahan C  16:12   1  0    0   3   0   0   0   1  6/15Mathieu Olivier R  14:16   0  0    0   0   2   2   0   0   2/2Mikael Pyyhtia L  15:08   0  0   -1   1   1   0   0   1   0/0Cole Sillinger C  17:14   0  0   -1   2   2   0   0   0   2/5Dmitri Voronkov L  13:24   0  0   -3   1   1   2   0   1   0/0James van Riemsdyk L  14:18   0  1   -1   0   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  18:09   0  0   -3   2   1   0   1   0   0/0Jordan Harris D  12:52   0  0   -3   0   0   0   0   0   0/0Jack Johnson D  16:07   0  0   -1   0   1   0   0   1   0/0Ivan Provorov D  24:33   0  0    0   1   1   0   1   2   0/0Damon Severson D  21:40   0  0   -2   1   2   0   1   6   0/0Zach Werenski D  25:06   0  1    1   4   1   0   0   3   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       22  15   4   5  17 30/58
+                                        51.7%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  59:38   6  38/44  35/40   3/4   0/0     0
+              .864   .875  .750
+Winnipeg
+Jets10-1-0Final6 - 2Columbus
+Blue Jackets5-4-1
+Winnipeg
+Jets10-1-0
+Final6 - 2
+Columbus
+Blue Jackets5-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+WPG   2  2  2    6  
+CBJ   1  1  0    2
+1st Period: ShowHide
+P1  14:47 
+Nikolaj Ehlers (WPG) scores on slap shot past Elvis Merzlikins, assisted by Colin Miller
+   1-0
+P1  08:58 
+Sean Kuraly (CBJ) scores on snap shot past Eric Comrie, assisted by James van Riemsdyk
+   1-1
+P1  04:46 
+Nikolaj Ehlers (WPG) scores on snap shot past Elvis Merzlikins
+   2-1
+2nd Period: ShowHide
+P2  17:40 
+Mason Appleton (WPG) scores on slap shot past Elvis Merzlikins, assisted by Neal Pionk and Adam Lowry
+   3-1
+P2  12:06 
+Dmitri Voronkov (CBJ) slashing against Rasmus Kupari (2 minutes)
+   3-1
+P2  03:38 
+Mark Scheifele (WPG) tripping against Cole Sillinger (2 minutes)
+   3-1
+P2  03:30 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Eric Comrie, assisted by Zach Werenski and Kirill Marchenko
+   3-2
+P2  01:09 
+Nikolaj Ehlers (WPG) scores on wrist shot past Elvis Merzlikins
+   4-2
+P2  00:48 
+Morgan Barron (WPG) tripping against Ivan Provorov (2 minutes)
+   4-2
+3rd Period: ShowHide
+P3  09:38 
+Mathieu Olivier (CBJ) cross-checking against Vladislav Namestnikov (2 minutes)
+   4-2
+P3  08:21 
+Josh Morrissey (WPG) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Mark Scheifele and Nikolaj Ehlers
+   5-2
+P3  05:06 
+Gabriel Vilardi (WPG) scores on snap shot past Elvis Merzlikins, assisted by Kyle Connor and Josh Morrissey
+   6-2
+1st Period: ShowHide
+P1  14:47 
+Nikolaj Ehlers (WPG) scores on slap shot past Elvis Merzlikins, assisted by Colin Miller
+   1-0
+P1  08:58 
+Sean Kuraly (CBJ) scores on snap shot past Eric Comrie, assisted by James van Riemsdyk
+   1-1
+P1  04:46 
+Nikolaj Ehlers (WPG) scores on snap shot past Elvis Merzlikins
+   2-1
+P1  14:47 
+Nikolaj Ehlers (WPG) scores on slap shot past Elvis Merzlikins, assisted by Colin Miller
+   1-0
+P1  08:58 
+Sean Kuraly (CBJ) scores on snap shot past Eric Comrie, assisted by James van Riemsdyk
+   1-1
+P1  04:46 
+Nikolaj Ehlers (WPG) scores on snap shot past Elvis Merzlikins
+   2-1
+P1  14:47
+Nikolaj Ehlers (WPG) scores on slap shot past Elvis Merzlikins, assisted by Colin Miller
+1-0
+P1  08:58
+Sean Kuraly (CBJ) scores on snap shot past Eric Comrie, assisted by James van Riemsdyk
+1-1
+P1  04:46
+Nikolaj Ehlers (WPG) scores on snap shot past Elvis Merzlikins
+2-1
+2nd Period: ShowHide
+P2  17:40 
+Mason Appleton (WPG) scores on slap shot past Elvis Merzlikins, assisted by Neal Pionk and Adam Lowry
+   3-1
+P2  12:06 
+Dmitri Voronkov (CBJ) slashing against Rasmus Kupari (2 minutes)
+   3-1
+P2  03:38 
+Mark Scheifele (WPG) tripping against Cole Sillinger (2 minutes)
+   3-1
+P2  03:30 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Eric Comrie, assisted by Zach Werenski and Kirill Marchenko
+   3-2
+P2  01:09 
+Nikolaj Ehlers (WPG) scores on wrist shot past Elvis Merzlikins
+   4-2
+P2  00:48 
+Morgan Barron (WPG) tripping against Ivan Provorov (2 minutes)
+   4-2
+P2  17:40 
+Mason Appleton (WPG) scores on slap shot past Elvis Merzlikins, assisted by Neal Pionk and Adam Lowry
+   3-1
+P2  12:06 
+Dmitri Voronkov (CBJ) slashing against Rasmus Kupari (2 minutes)
+   3-1
+P2  03:38 
+Mark Scheifele (WPG) tripping against Cole Sillinger (2 minutes)
+   3-1
+P2  03:30 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Eric Comrie, assisted by Zach Werenski and Kirill Marchenko
+   3-2
+P2  01:09 
+Nikolaj Ehlers (WPG) scores on wrist shot past Elvis Merzlikins
+   4-2
+P2  00:48 
+Morgan Barron (WPG) tripping against Ivan Provorov (2 minutes)
+   4-2
+P2  17:40
+Mason Appleton (WPG) scores on slap shot past Elvis Merzlikins, assisted by Neal Pionk and Adam Lowry
+3-1
+P2  12:06
+Dmitri Voronkov (CBJ) slashing against Rasmus Kupari (2 minutes)
+3-1
+P2  03:38
+Mark Scheifele (WPG) tripping against Cole Sillinger (2 minutes)
+3-1
+P2  03:30
+Sean Monahan (CBJ) scores power-play goal on tip-in past Eric Comrie, assisted by Zach Werenski and Kirill Marchenko
+3-2
+P2  01:09
+Nikolaj Ehlers (WPG) scores on wrist shot past Elvis Merzlikins
+4-2
+P2  00:48
+Morgan Barron (WPG) tripping against Ivan Provorov (2 minutes)
+4-2
+3rd Period: ShowHide
+P3  09:38 
+Mathieu Olivier (CBJ) cross-checking against Vladislav Namestnikov (2 minutes)
+   4-2
+P3  08:21 
+Josh Morrissey (WPG) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Mark Scheifele and Nikolaj Ehlers
+   5-2
+P3  05:06 
+Gabriel Vilardi (WPG) scores on snap shot past Elvis Merzlikins, assisted by Kyle Connor and Josh Morrissey
+   6-2
+P3  09:38 
+Mathieu Olivier (CBJ) cross-checking against Vladislav Namestnikov (2 minutes)
+   4-2
+P3  08:21 
+Josh Morrissey (WPG) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Mark Scheifele and Nikolaj Ehlers
+   5-2
+P3  05:06 
+Gabriel Vilardi (WPG) scores on snap shot past Elvis Merzlikins, assisted by Kyle Connor and Josh Morrissey
+   6-2
+P3  09:38
+Mathieu Olivier (CBJ) cross-checking against Vladislav Namestnikov (2 minutes)
+4-2
+P3  08:21
+Josh Morrissey (WPG) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Mark Scheifele and Nikolaj Ehlers
+5-2
+P3  05:06
+Gabriel Vilardi (WPG) scores on snap shot past Elvis Merzlikins, assisted by Kyle Connor and Josh Morrissey
+6-2
+Box Score:
+ 
+Back to Top
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  14:15   1  0    1   1   0   0   0   0   0/0Morgan Barron C  11:04   0  0    0   1   0   2   0   1   0/0Kyle Connor L  17:26   0  1    1   4   0   0   1   0   0/0Nikolaj Ehlers L  17:19   3  1    3   5   0   0   0   1   0/0Alex Iafallo L  12:54   0  0    0   0   0   0   0   0   0/0Rasmus Kupari C  10:59   0  0    0   3   1   0   0   1   4/7Adam Lowry C  15:38   0  1    1   2   0   0   0   2  6/17Vladislav Namestnikov C  15:21   0  0    3   3   1   0   0   0  6/14Nino Niederreiter R  14:41   0  0    0   3   0   0   0   1   0/1Cole Perfetti C  15:14   0  0    2   0   1   0   1   1   0/0Mark Scheifele C  18:26   0  1    0   5   0   2   0   1 12/19Gabriel Vilardi C  17:45   1  0    1   3   0   0   0   2   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:04   0  0    0   4   0   0   1   0   0/0Colin Miller D  15:07   0  1    2   0   1   0   0   0   0/0Josh Morrissey D  25:02   1  1    0   5   2   0   2   1   0/0Neal Pionk D  19:42   0  1    2   2   1   0   0   0   0/0Dylan Samberg D  20:04   0  0    2   1   3   0   2   1   0/0Logan Stanley D  15:51   0  0    2   2   2   0   1   0   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  7       44  12   4   8  12 28/58
+                                        48.3%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMEric Comrie G  60:00   2  20/22  17/18   2/3   1/1     0
+              .909   .944  .667 1.000 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  12:48   0  0   -2   0   0   0   0   1   0/0Yegor Chinakhov R  16:14   0  0    0   0   0   0   0   0   0/0Justin Danforth R  15:46   0  0   -3   2   0   0   0   0 11/18Adam Fantilli C  14:10   0  0   -1   3   1   0   1   0   6/9Sean Kuraly C  13:00   1  0    0   1   2   0   0   1   3/7Kirill Marchenko R  16:08   0  1    0   1   0   0   1   0   0/2Sean Monahan C  16:12   1  0    0   3   0   0   0   1  6/15Mathieu Olivier R  14:16   0  0    0   0   2   2   0   0   2/2Mikael Pyyhtia L  15:08   0  0   -1   1   1   0   0   1   0/0Cole Sillinger C  17:14   0  0   -1   2   2   0   0   0   2/5Dmitri Voronkov L  13:24   0  0   -3   1   1   2   0   1   0/0James van Riemsdyk L  14:18   0  1   -1   0   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  18:09   0  0   -3   2   1   0   1   0   0/0Jordan Harris D  12:52   0  0   -3   0   0   0   0   0   0/0Jack Johnson D  16:07   0  0   -1   0   1   0   0   1   0/0Ivan Provorov D  24:33   0  0    0   1   1   0   1   2   0/0Damon Severson D  21:40   0  0   -2   1   2   0   1   6   0/0Zach Werenski D  25:06   0  1    1   4   1   0   0   3   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       22  15   4   5  17 30/58
+                                        51.7%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  59:38   6  38/44  35/40   3/4   0/0     0
+              .864   .875  .750
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  14:15   1  0    1   1   0   0   0   0   0/0Morgan Barron C  11:04   0  0    0   1   0   2   0   1   0/0Kyle Connor L  17:26   0  1    1   4   0   0   1   0   0/0Nikolaj Ehlers L  17:19   3  1    3   5   0   0   0   1   0/0Alex Iafallo L  12:54   0  0    0   0   0   0   0   0   0/0Rasmus Kupari C  10:59   0  0    0   3   1   0   0   1   4/7Adam Lowry C  15:38   0  1    1   2   0   0   0   2  6/17Vladislav Namestnikov C  15:21   0  0    3   3   1   0   0   0  6/14Nino Niederreiter R  14:41   0  0    0   3   0   0   0   1   0/1Cole Perfetti C  15:14   0  0    2   0   1   0   1   1   0/0Mark Scheifele C  18:26   0  1    0   5   0   2   0   1 12/19Gabriel Vilardi C  17:45   1  0    1   3   0   0   0   2   0/0
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mason Appleton C
+14:15   1  0    1   1   0   0   0   0   0/0
+Morgan Barron C
+11:04   0  0    0   1   0   2   0   1   0/0
+Kyle Connor L
+17:26   0  1    1   4   0   0   1   0   0/0
+Nikolaj Ehlers L
+17:19   3  1    3   5   0   0   0   1   0/0
+Alex Iafallo L
+12:54   0  0    0   0   0   0   0   0   0/0
+Rasmus Kupari C
+10:59   0  0    0   3   1   0   0   1   4/7
+Adam Lowry C
+15:38   0  1    1   2   0   0   0   2  6/17
+Vladislav Namestnikov C
+15:21   0  0    3   3   1   0   0   0  6/14
+Nino Niederreiter R
+14:41   0  0    0   3   0   0   0   1   0/1
+Cole Perfetti C
+15:14   0  0    2   0   1   0   1   1   0/0
+Mark Scheifele C
+18:26   0  1    0   5   0   2   0   1 12/19
+Gabriel Vilardi C
+17:45   1  0    1   3   0   0   0   2   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:04   0  0    0   4   0   0   1   0   0/0Colin Miller D  15:07   0  1    2   0   1   0   0   0   0/0Josh Morrissey D  25:02   1  1    0   5   2   0   2   1   0/0Neal Pionk D  19:42   0  1    2   2   1   0   0   0   0/0Dylan Samberg D  20:04   0  0    2   1   3   0   2   1   0/0Logan Stanley D  15:51   0  0    2   2   2   0   1   0   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dylan DeMelo D
+21:04   0  0    0   4   0   0   1   0   0/0
+Colin Miller D
+15:07   0  1    2   0   1   0   0   0   0/0
+Josh Morrissey D
+25:02   1  1    0   5   2   0   2   1   0/0
+Neal Pionk D
+19:42   0  1    2   2   1   0   0   0   0/0
+Dylan Samberg D
+20:04   0  0    2   1   3   0   2   1   0/0
+Logan Stanley D
+15:51   0  0    2   2   2   0   1   0   0/0
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  7       44  12   4   8  12 28/58
+                                        48.3%
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMEric Comrie G  60:00   2  20/22  17/18   2/3   1/1     0
+              .909   .944  .667 1.000
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Eric Comrie G
+60:00   2  20/22  17/18   2/3   1/1     0
+              .909   .944  .667 1.000
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  12:48   0  0   -2   0   0   0   0   1   0/0Yegor Chinakhov R  16:14   0  0    0   0   0   0   0   0   0/0Justin Danforth R  15:46   0  0   -3   2   0   0   0   0 11/18Adam Fantilli C  14:10   0  0   -1   3   1   0   1   0   6/9Sean Kuraly C  13:00   1  0    0   1   2   0   0   1   3/7Kirill Marchenko R  16:08   0  1    0   1   0   0   1   0   0/2Sean Monahan C  16:12   1  0    0   3   0   0   0   1  6/15Mathieu Olivier R  14:16   0  0    0   0   2   2   0   0   2/2Mikael Pyyhtia L  15:08   0  0   -1   1   1   0   0   1   0/0Cole Sillinger C  17:14   0  0   -1   2   2   0   0   0   2/5Dmitri Voronkov L  13:24   0  0   -3   1   1   2   0   1   0/0James van Riemsdyk L  14:18   0  1   -1   0   0   0   0   0   0/0
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zachary Aston-Reese C
+12:48   0  0   -2   0   0   0   0   1   0/0
+Yegor Chinakhov R
+16:14   0  0    0   0   0   0   0   0   0/0
+Justin Danforth R
+15:46   0  0   -3   2   0   0   0   0 11/18
+Adam Fantilli C
+14:10   0  0   -1   3   1   0   1   0   6/9
+Sean Kuraly C
+13:00   1  0    0   1   2   0   0   1   3/7
+Kirill Marchenko R
+16:08   0  1    0   1   0   0   1   0   0/2
+Sean Monahan C
+16:12   1  0    0   3   0   0   0   1  6/15
+Mathieu Olivier R
+14:16   0  0    0   0   2   2   0   0   2/2
+Mikael Pyyhtia L
+15:08   0  0   -1   1   1   0   0   1   0/0
+Cole Sillinger C
+17:14   0  0   -1   2   2   0   0   0   2/5
+Dmitri Voronkov L
+13:24   0  0   -3   1   1   2   0   1   0/0
+James van Riemsdyk L
+14:18   0  1   -1   0   0   0   0   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  18:09   0  0   -3   2   1   0   1   0   0/0Jordan Harris D  12:52   0  0   -3   0   0   0   0   0   0/0Jack Johnson D  16:07   0  0   -1   0   1   0   0   1   0/0Ivan Provorov D  24:33   0  0    0   1   1   0   1   2   0/0Damon Severson D  21:40   0  0   -2   1   2   0   1   6   0/0Zach Werenski D  25:06   0  1    1   4   1   0   0   3   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+18:09   0  0   -3   2   1   0   1   0   0/0
+Jordan Harris D
+12:52   0  0   -3   0   0   0   0   0   0/0
+Jack Johnson D
+16:07   0  0   -1   0   1   0   0   1   0/0
+Ivan Provorov D
+24:33   0  0    0   1   1   0   1   2   0/0
+Damon Severson D
+21:40   0  0   -2   1   2   0   1   6   0/0
+Zach Werenski D
+25:06   0  1    1   4   1   0   0   3   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       22  15   4   5  17 30/58
+                                        51.7%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  59:38   6  38/44  35/40   3/4   0/0     0
+              .864   .875  .750
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Elvis Merzlikins G
+59:38   6  38/44  35/40   3/4   0/0     0
+              .864   .875  .750
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

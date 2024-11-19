@@ -1,0 +1,382 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Montreal
+Canadiens4-7-1Final1 - 3Pittsburgh
+Penguins5-7-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+MTL   0  0  1    1  
+PIT   1  1  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  11:21 
+Arber Xhekaj (MTL) holding against Noel Acciari (2 minutes)
+   0-0
+P1  04:03 
+Sidney Crosby (PIT) scores on snap shot past Sam Montembeault, assisted by Rickard Rakell
+   0-1
+2nd Period: ShowHide
+P2  14:22 
+Valtteri Puustinen (PIT) tripping against Juraj Slafkovsky (2 minutes)
+   0-1
+P2  05:41 
+Kris Letang (PIT) high-sticking against Joel Armia (2 minutes)
+   0-1
+P2  03:14 
+David Savard (MTL) delaying game - puck over glass (2 minutes)
+   0-1
+P2  01:20 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Sam Montembeault, assisted by Kris Letang and Erik Karlsson
+   0-2
+3rd Period: ShowHide
+P3  14:28 
+Christian Dvorak (MTL) scores on snap shot past Alex Nedeljkovic, assisted by Emil Heineman and Juraj Slafkovsky
+   1-2
+P3  00:45 
+Blake Lizotte (PIT) scores on empty net, assisted by Lars Eller
+   1-3
+P3  00:00 
+Noel Acciari (PIT) roughing against Arber Xhekaj (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) cross-checking against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) roughing against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Jayden Struble (MTL) fighting against Ryan Graves (5 minutes)
+   1-3
+P3  00:00 
+Ryan Graves (PIT) fighting against Jayden Struble (5 minutes)
+   1-3
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  13:49   0  0    0   1   0   0   1   0   0/0Joel Armia R  14:36   0  0    0   1   1   0   0   3   0/0Cole Caufield R  19:37   0  0   -1   2   1   0   0   0   0/0Kirby Dach C  19:06   0  0   -2   2   0   0   0   1   2/5Christian Dvorak C  13:34   1  0    1   3   2   0   0   1   0/2Jake Evans C  13:40   0  0    0   0   1   0   0   0   3/7Brendan Gallagher R  12:46   0  0   -1   2   2   0   0   1   0/0Emil Heineman L  10:12   0  1    1   0   1   0   0   0   0/0Oliver Kapanen C  12:09   0  0    0   2   0   0   0   1   0/5Alex Newhook C  14:46   0  0   -1   2   2   0   1   1   6/9Juraj Slafkovsky L  17:08   0  1    0   3   2   0   0   2   0/0Nick Suzuki C  20:01   0  0   -1   1   2   0   0   4 10/21Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOKaiden Guhle D  22:04   0  0   -1   1   2   0   0   0   0/0Lane Hutson D  24:19   0  0   -1   1   1   0   1   0   0/0Mike Matheson D  25:41   0  0   -2   0   3   0   1   3   0/0David Savard D  19:44   0  0    0   1   5   2   0   0   0/0Jayden Struble D  12:23   0  0    1   2   1   5   0   3   0/0Arber Xhekaj D  12:16   0  0    1   2   1   6   0   0   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  27  13   4  20 21/49
+                                        42.9%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  58:15   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750 
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  18:30   0  0    0   1   1   2   0   1   2/5Anthony Beauvillier L  11:33   0  0    0   0   2   0   1   0   0/0Michael Bunting L  14:21   0  0    0   2   0   0   0   0   0/0Sidney Crosby C  20:02   2  0    1   3   0   0   1   0 13/21Lars Eller C  19:22   0  1    0   1   2   0   0   2   5/9Cody Glass C  12:26   0  0    0   1   0   0   0   1   7/9Kevin Hayes R  07:13   0  0    0   1   0   0   0   0   0/1Blake Lizotte C  09:10   1  0    1   1   1   0   0   0   1/4Evgeni Malkin C  19:17   0  0    1   2   1   0   0   2   0/0Drew O'Connor L  17:41   0  0   -1   2   1   0   0   1   0/0Valtteri Puustinen R  10:08   0  0    0   2   0   2   0   0   0/0Rickard Rakell R  17:51   0  1    1   1   2   0   0   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:52   0  0    0   1   1   5   0   1   0/0Matt Grzelcyk D  19:56   0  0    0   0   0   0   0   0   0/0Erik Karlsson D  20:56   0  1    0   4   3   0   1   2   0/0Kris Letang D  21:14   0  1    1   1   1   2   0   2   0/0Marcus Pettersson D  22:38   0  0    1   0   4   0   0   0   0/0Jack St. Ivany D  16:50   0  0    0   1   2   0   2   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       24  21  11   5  14 28/49
+                                        57.1%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  60:00   1  25/26  23/24   2/2   0/0     0
+              .962   .958 1.000
+Montreal
+Canadiens4-7-1Final1 - 3Pittsburgh
+Penguins5-7-1
+Montreal
+Canadiens4-7-1
+Final1 - 3
+Pittsburgh
+Penguins5-7-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+MTL   0  0  1    1  
+PIT   1  1  1    3
+1st Period: ShowHide
+P1  11:21 
+Arber Xhekaj (MTL) holding against Noel Acciari (2 minutes)
+   0-0
+P1  04:03 
+Sidney Crosby (PIT) scores on snap shot past Sam Montembeault, assisted by Rickard Rakell
+   0-1
+2nd Period: ShowHide
+P2  14:22 
+Valtteri Puustinen (PIT) tripping against Juraj Slafkovsky (2 minutes)
+   0-1
+P2  05:41 
+Kris Letang (PIT) high-sticking against Joel Armia (2 minutes)
+   0-1
+P2  03:14 
+David Savard (MTL) delaying game - puck over glass (2 minutes)
+   0-1
+P2  01:20 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Sam Montembeault, assisted by Kris Letang and Erik Karlsson
+   0-2
+3rd Period: ShowHide
+P3  14:28 
+Christian Dvorak (MTL) scores on snap shot past Alex Nedeljkovic, assisted by Emil Heineman and Juraj Slafkovsky
+   1-2
+P3  00:45 
+Blake Lizotte (PIT) scores on empty net, assisted by Lars Eller
+   1-3
+P3  00:00 
+Noel Acciari (PIT) roughing against Arber Xhekaj (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) cross-checking against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) roughing against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Jayden Struble (MTL) fighting against Ryan Graves (5 minutes)
+   1-3
+P3  00:00 
+Ryan Graves (PIT) fighting against Jayden Struble (5 minutes)
+   1-3
+1st Period: ShowHide
+P1  11:21 
+Arber Xhekaj (MTL) holding against Noel Acciari (2 minutes)
+   0-0
+P1  04:03 
+Sidney Crosby (PIT) scores on snap shot past Sam Montembeault, assisted by Rickard Rakell
+   0-1
+P1  11:21 
+Arber Xhekaj (MTL) holding against Noel Acciari (2 minutes)
+   0-0
+P1  04:03 
+Sidney Crosby (PIT) scores on snap shot past Sam Montembeault, assisted by Rickard Rakell
+   0-1
+P1  11:21
+Arber Xhekaj (MTL) holding against Noel Acciari (2 minutes)
+0-0
+P1  04:03
+Sidney Crosby (PIT) scores on snap shot past Sam Montembeault, assisted by Rickard Rakell
+0-1
+2nd Period: ShowHide
+P2  14:22 
+Valtteri Puustinen (PIT) tripping against Juraj Slafkovsky (2 minutes)
+   0-1
+P2  05:41 
+Kris Letang (PIT) high-sticking against Joel Armia (2 minutes)
+   0-1
+P2  03:14 
+David Savard (MTL) delaying game - puck over glass (2 minutes)
+   0-1
+P2  01:20 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Sam Montembeault, assisted by Kris Letang and Erik Karlsson
+   0-2
+P2  14:22 
+Valtteri Puustinen (PIT) tripping against Juraj Slafkovsky (2 minutes)
+   0-1
+P2  05:41 
+Kris Letang (PIT) high-sticking against Joel Armia (2 minutes)
+   0-1
+P2  03:14 
+David Savard (MTL) delaying game - puck over glass (2 minutes)
+   0-1
+P2  01:20 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Sam Montembeault, assisted by Kris Letang and Erik Karlsson
+   0-2
+P2  14:22
+Valtteri Puustinen (PIT) tripping against Juraj Slafkovsky (2 minutes)
+0-1
+P2  05:41
+Kris Letang (PIT) high-sticking against Joel Armia (2 minutes)
+0-1
+P2  03:14
+David Savard (MTL) delaying game - puck over glass (2 minutes)
+0-1
+P2  01:20
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Sam Montembeault, assisted by Kris Letang and Erik Karlsson
+0-2
+3rd Period: ShowHide
+P3  14:28 
+Christian Dvorak (MTL) scores on snap shot past Alex Nedeljkovic, assisted by Emil Heineman and Juraj Slafkovsky
+   1-2
+P3  00:45 
+Blake Lizotte (PIT) scores on empty net, assisted by Lars Eller
+   1-3
+P3  00:00 
+Noel Acciari (PIT) roughing against Arber Xhekaj (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) cross-checking against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) roughing against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Jayden Struble (MTL) fighting against Ryan Graves (5 minutes)
+   1-3
+P3  00:00 
+Ryan Graves (PIT) fighting against Jayden Struble (5 minutes)
+   1-3
+P3  14:28 
+Christian Dvorak (MTL) scores on snap shot past Alex Nedeljkovic, assisted by Emil Heineman and Juraj Slafkovsky
+   1-2
+P3  00:45 
+Blake Lizotte (PIT) scores on empty net, assisted by Lars Eller
+   1-3
+P3  00:00 
+Noel Acciari (PIT) roughing against Arber Xhekaj (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) cross-checking against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Arber Xhekaj (MTL) roughing against Noel Acciari (2 minutes)
+   1-3
+P3  00:00 
+Jayden Struble (MTL) fighting against Ryan Graves (5 minutes)
+   1-3
+P3  00:00 
+Ryan Graves (PIT) fighting against Jayden Struble (5 minutes)
+   1-3
+P3  14:28
+Christian Dvorak (MTL) scores on snap shot past Alex Nedeljkovic, assisted by Emil Heineman and Juraj Slafkovsky
+1-2
+P3  00:45
+Blake Lizotte (PIT) scores on empty net, assisted by Lars Eller
+1-3
+P3  00:00
+Noel Acciari (PIT) roughing against Arber Xhekaj (2 minutes)
+1-3
+P3  00:00
+Arber Xhekaj (MTL) cross-checking against Noel Acciari (2 minutes)
+1-3
+P3  00:00
+Arber Xhekaj (MTL) roughing against Noel Acciari (2 minutes)
+1-3
+P3  00:00
+Jayden Struble (MTL) fighting against Ryan Graves (5 minutes)
+1-3
+P3  00:00
+Ryan Graves (PIT) fighting against Jayden Struble (5 minutes)
+1-3
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  13:49   0  0    0   1   0   0   1   0   0/0Joel Armia R  14:36   0  0    0   1   1   0   0   3   0/0Cole Caufield R  19:37   0  0   -1   2   1   0   0   0   0/0Kirby Dach C  19:06   0  0   -2   2   0   0   0   1   2/5Christian Dvorak C  13:34   1  0    1   3   2   0   0   1   0/2Jake Evans C  13:40   0  0    0   0   1   0   0   0   3/7Brendan Gallagher R  12:46   0  0   -1   2   2   0   0   1   0/0Emil Heineman L  10:12   0  1    1   0   1   0   0   0   0/0Oliver Kapanen C  12:09   0  0    0   2   0   0   0   1   0/5Alex Newhook C  14:46   0  0   -1   2   2   0   1   1   6/9Juraj Slafkovsky L  17:08   0  1    0   3   2   0   0   2   0/0Nick Suzuki C  20:01   0  0   -1   1   2   0   0   4 10/21Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOKaiden Guhle D  22:04   0  0   -1   1   2   0   0   0   0/0Lane Hutson D  24:19   0  0   -1   1   1   0   1   0   0/0Mike Matheson D  25:41   0  0   -2   0   3   0   1   3   0/0David Savard D  19:44   0  0    0   1   5   2   0   0   0/0Jayden Struble D  12:23   0  0    1   2   1   5   0   3   0/0Arber Xhekaj D  12:16   0  0    1   2   1   6   0   0   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  27  13   4  20 21/49
+                                        42.9%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  58:15   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750 
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  18:30   0  0    0   1   1   2   0   1   2/5Anthony Beauvillier L  11:33   0  0    0   0   2   0   1   0   0/0Michael Bunting L  14:21   0  0    0   2   0   0   0   0   0/0Sidney Crosby C  20:02   2  0    1   3   0   0   1   0 13/21Lars Eller C  19:22   0  1    0   1   2   0   0   2   5/9Cody Glass C  12:26   0  0    0   1   0   0   0   1   7/9Kevin Hayes R  07:13   0  0    0   1   0   0   0   0   0/1Blake Lizotte C  09:10   1  0    1   1   1   0   0   0   1/4Evgeni Malkin C  19:17   0  0    1   2   1   0   0   2   0/0Drew O'Connor L  17:41   0  0   -1   2   1   0   0   1   0/0Valtteri Puustinen R  10:08   0  0    0   2   0   2   0   0   0/0Rickard Rakell R  17:51   0  1    1   1   2   0   0   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:52   0  0    0   1   1   5   0   1   0/0Matt Grzelcyk D  19:56   0  0    0   0   0   0   0   0   0/0Erik Karlsson D  20:56   0  1    0   4   3   0   1   2   0/0Kris Letang D  21:14   0  1    1   1   1   2   0   2   0/0Marcus Pettersson D  22:38   0  0    1   0   4   0   0   0   0/0Jack St. Ivany D  16:50   0  0    0   1   2   0   2   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       24  21  11   5  14 28/49
+                                        57.1%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  60:00   1  25/26  23/24   2/2   0/0     0
+              .962   .958 1.000
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  13:49   0  0    0   1   0   0   1   0   0/0Joel Armia R  14:36   0  0    0   1   1   0   0   3   0/0Cole Caufield R  19:37   0  0   -1   2   1   0   0   0   0/0Kirby Dach C  19:06   0  0   -2   2   0   0   0   1   2/5Christian Dvorak C  13:34   1  0    1   3   2   0   0   1   0/2Jake Evans C  13:40   0  0    0   0   1   0   0   0   3/7Brendan Gallagher R  12:46   0  0   -1   2   2   0   0   1   0/0Emil Heineman L  10:12   0  1    1   0   1   0   0   0   0/0Oliver Kapanen C  12:09   0  0    0   2   0   0   0   1   0/5Alex Newhook C  14:46   0  0   -1   2   2   0   1   1   6/9Juraj Slafkovsky L  17:08   0  1    0   3   2   0   0   2   0/0Nick Suzuki C  20:01   0  0   -1   1   2   0   0   4 10/21
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+13:49   0  0    0   1   0   0   1   0   0/0
+Joel Armia R
+14:36   0  0    0   1   1   0   0   3   0/0
+Cole Caufield R
+19:37   0  0   -1   2   1   0   0   0   0/0
+Kirby Dach C
+19:06   0  0   -2   2   0   0   0   1   2/5
+Christian Dvorak C
+13:34   1  0    1   3   2   0   0   1   0/2
+Jake Evans C
+13:40   0  0    0   0   1   0   0   0   3/7
+Brendan Gallagher R
+12:46   0  0   -1   2   2   0   0   1   0/0
+Emil Heineman L
+10:12   0  1    1   0   1   0   0   0   0/0
+Oliver Kapanen C
+12:09   0  0    0   2   0   0   0   1   0/5
+Alex Newhook C
+14:46   0  0   -1   2   2   0   1   1   6/9
+Juraj Slafkovsky L
+17:08   0  1    0   3   2   0   0   2   0/0
+Nick Suzuki C
+20:01   0  0   -1   1   2   0   0   4 10/21
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOKaiden Guhle D  22:04   0  0   -1   1   2   0   0   0   0/0Lane Hutson D  24:19   0  0   -1   1   1   0   1   0   0/0Mike Matheson D  25:41   0  0   -2   0   3   0   1   3   0/0David Savard D  19:44   0  0    0   1   5   2   0   0   0/0Jayden Struble D  12:23   0  0    1   2   1   5   0   3   0/0Arber Xhekaj D  12:16   0  0    1   2   1   6   0   0   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Kaiden Guhle D
+22:04   0  0   -1   1   2   0   0   0   0/0
+Lane Hutson D
+24:19   0  0   -1   1   1   0   1   0   0/0
+Mike Matheson D
+25:41   0  0   -2   0   3   0   1   3   0/0
+David Savard D
+19:44   0  0    0   1   5   2   0   0   0/0
+Jayden Struble D
+12:23   0  0    1   2   1   5   0   3   0/0
+Arber Xhekaj D
+12:16   0  0    1   2   1   6   0   0   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  27  13   4  20 21/49
+                                        42.9%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  58:15   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sam Montembeault G
+58:15   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  18:30   0  0    0   1   1   2   0   1   2/5Anthony Beauvillier L  11:33   0  0    0   0   2   0   1   0   0/0Michael Bunting L  14:21   0  0    0   2   0   0   0   0   0/0Sidney Crosby C  20:02   2  0    1   3   0   0   1   0 13/21Lars Eller C  19:22   0  1    0   1   2   0   0   2   5/9Cody Glass C  12:26   0  0    0   1   0   0   0   1   7/9Kevin Hayes R  07:13   0  0    0   1   0   0   0   0   0/1Blake Lizotte C  09:10   1  0    1   1   1   0   0   0   1/4Evgeni Malkin C  19:17   0  0    1   2   1   0   0   2   0/0Drew O'Connor L  17:41   0  0   -1   2   1   0   0   1   0/0Valtteri Puustinen R  10:08   0  0    0   2   0   2   0   0   0/0Rickard Rakell R  17:51   0  1    1   1   2   0   0   0   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+18:30   0  0    0   1   1   2   0   1   2/5
+Anthony Beauvillier L
+11:33   0  0    0   0   2   0   1   0   0/0
+Michael Bunting L
+14:21   0  0    0   2   0   0   0   0   0/0
+Sidney Crosby C
+20:02   2  0    1   3   0   0   1   0 13/21
+Lars Eller C
+19:22   0  1    0   1   2   0   0   2   5/9
+Cody Glass C
+12:26   0  0    0   1   0   0   0   1   7/9
+Kevin Hayes R
+07:13   0  0    0   1   0   0   0   0   0/1
+Blake Lizotte C
+09:10   1  0    1   1   1   0   0   0   1/4
+Evgeni Malkin C
+19:17   0  0    1   2   1   0   0   2   0/0
+Drew O'Connor L
+17:41   0  0   -1   2   1   0   0   1   0/0
+Valtteri Puustinen R
+10:08   0  0    0   2   0   2   0   0   0/0
+Rickard Rakell R
+17:51   0  1    1   1   2   0   0   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:52   0  0    0   1   1   5   0   1   0/0Matt Grzelcyk D  19:56   0  0    0   0   0   0   0   0   0/0Erik Karlsson D  20:56   0  1    0   4   3   0   1   2   0/0Kris Letang D  21:14   0  1    1   1   1   2   0   2   0/0Marcus Pettersson D  22:38   0  0    1   0   4   0   0   0   0/0Jack St. Ivany D  16:50   0  0    0   1   2   0   2   2   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+16:52   0  0    0   1   1   5   0   1   0/0
+Matt Grzelcyk D
+19:56   0  0    0   0   0   0   0   0   0/0
+Erik Karlsson D
+20:56   0  1    0   4   3   0   1   2   0/0
+Kris Letang D
+21:14   0  1    1   1   1   2   0   2   0/0
+Marcus Pettersson D
+22:38   0  0    1   0   4   0   0   0   0/0
+Jack St. Ivany D
+16:50   0  0    0   1   2   0   2   2   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       24  21  11   5  14 28/49
+                                        57.1%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  60:00   1  25/26  23/24   2/2   0/0     0
+              .962   .958 1.000
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Nedeljkovic G
+60:00   1  25/26  23/24   2/2   0/0     0
+              .962   .958 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,430 @@
+< Oct. 26 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Toronto
+Maple Leafs4-4-1Final/OT3 - 4Boston
+Bruins4-4-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+TOR   0  2  1  0    3  
+BOS   0  3  0  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:20 
+Ryan Reaves (TOR) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  09:26 
+Morgan Geekie (BOS) interference against Ryan Reaves (2 minutes)
+   0-0
+P1  07:57 
+John Beecher (BOS) hooking against Max Domi (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:25 
+Matthew Knies (TOR) scores on wrist shot past Jeremy Swayman, assisted by Auston Matthews and Mitch Marner
+   1-0
+P2  17:29 
+Jake McCabe (TOR) interference against John Beecher (2 minutes)
+   1-0
+P2  17:03 
+David Pastrnak (BOS) scores power-play goal on snap shot past Anthony Stolarz, assisted by Brad Marchand and Pavel Zacha
+   1-1
+P2  12:49 
+Oliver Ekman-Larsson (TOR) unsportsmanlike conduct against Charlie Coyle (2 minutes)
+   1-1
+P2  12:49 
+Charlie Coyle (BOS) unsportsmanlike conduct against Oliver Ekman-Larsson (2 minutes)
+   1-1
+P2  12:16 
+Morgan Rielly (TOR) scores on snap shot past Jeremy Swayman, assisted by Mitch Marner and Chris Tanev
+   2-1
+P2  11:36 
+William Nylander (TOR) high-sticking against David Pastrnak (4 minutes)
+   2-1
+P2  07:22 
+Justin Brazeau (BOS) scores on wrist shot past Anthony Stolarz, assisted by Trent Frederic and Matthew Poitras
+   2-2
+P2  06:46 
+Mark Kastelic (BOS) scores on wrist shot past Anthony Stolarz, assisted by John Beecher and Cole Koepke
+   2-3
+P2  00:13 
+Trent Frederic (BOS) cross-checking against Nicholas Robertson (2 minutes)
+   2-3
+3rd Period: ShowHide
+P3  10:02 
+Nicholas Robertson (TOR) tripping against Nikita Zadorov (2 minutes)
+   2-3
+P3  01:17 
+Auston Matthews (TOR) scores goal with extra attacker on tip-in past Jeremy Swayman, assisted by Mitch Marner and John Tavares
+   3-3
+Overtime: ShowHide
+OT  02:34 
+Brad Marchand (BOS) scores on backhand shot past Anthony Stolarz, assisted by David Pastrnak
+   3-4
+Box Score:
+ 
+Back to Top
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  17:01   0  0   -1   0   2   0   1   1  6/10David Kampf C  13:14   0  0    0   1   1   0   0   0   5/5Matthew Knies L  19:03   1  0    2   2   0   0   0   0   0/0Steven Lorentz C  12:48   0  0    0   0   0   0   0   0   0/0Mitch Marner R  26:12   0  3    2   4   0   0   0   1   0/1Auston Matthews C  23:36   1  1    2   3   3   0   1   0 13/25Bobby McMann C  08:14   0  0   -1   0   1   0   1   0   0/0William Nylander R  18:00   0  0    0   2   0   4   0   1   1/2Max Pacioretty L  09:51   0  0   -1   4   0   0   0   1   0/0Ryan Reaves R  07:19   0  0    0   0   0   2   0   0   0/0Nicholas Robertson L  11:00   0  0   -1   1   0   2   0   0   0/0John Tavares C  14:52   0  1    0   1   1   0   1   2 10/15Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  14:31   0  0   -1   0   1   0   0   0   0/0Oliver Ekman-Larsson D  19:28   0  0   -1   0   0   2   1   2   0/0Jake McCabe D  24:48   0  0    2   1   3   2   0   0   0/0Philippe Myers D  12:11   0  0   -1   0   0   0   0   3   0/0Morgan Rielly D  24:14   1  0    0   4   0   0   2   1   0/0Chris Tanev D  21:07   0  1    1   0   6   0   0   0   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       23  18  12   7  12 35/58
+                                        60.3%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  61:49   4  30/34  25/28   4/5   1/1     0
+              .882   .893  .800 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:07   0  1    0   1   2   2   0   0   2/6Justin Brazeau R  14:00   1  0    1   3   1   0   0   2   0/0Charlie Coyle C  18:18   0  0   -1   0   1   2   1   0  8/18Trent Frederic C  13:15   0  1    1   2   0   2   0   1   0/3Morgan Geekie C  09:53   0  0    0   1   0   2   0   0   1/1Mark Kastelic C  12:00   1  0    1   1   2   0   0   0   3/4Cole Koepke L  09:54   0  1    1   2   0   0   1   0   0/0Elias Lindholm C  19:37   0  0   -1   2   2   0   1   1  7/14Brad Marchand L  19:43   1  1   -1   4   1   0   0   2   0/0David Pastrnak R  21:48   1  1    0   4   2   0   1   2   0/0Matthew Poitras C  11:24   0  1   -1   3   0   0   0   1   0/4Pavel Zacha C  20:16   0  1    0   1   0   0   1   0   2/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  14:47   0  0   -1   0   2   0   0   0   0/0Hampus Lindholm D  22:54   0  0   -2   4   0   0   0   0   0/0Mason Lohrei D  17:58   0  0    1   3   2   0   1   1   0/0Charlie McAvoy D  26:18   0  0   -2   1   1   0   0   0   0/0Andrew Peeke D  17:27   0  0    1   1   4   0   0   0   0/0Nikita Zadorov D  17:39   0  0    2   1   0   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       34  20   8   6  11 23/58
+                                        39.7%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:26   3  20/23  17/20   3/3   0/0     0
+              .870   .850 1.000
+Toronto
+Maple Leafs4-4-1Final/OT3 - 4Boston
+Bruins4-4-1
+Toronto
+Maple Leafs4-4-1
+Final/OT3 - 4
+Boston
+Bruins4-4-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+TOR   0  2  1  0    3  
+BOS   0  3  0  1    4
+1st Period: ShowHide
+P1  16:20 
+Ryan Reaves (TOR) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  09:26 
+Morgan Geekie (BOS) interference against Ryan Reaves (2 minutes)
+   0-0
+P1  07:57 
+John Beecher (BOS) hooking against Max Domi (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:25 
+Matthew Knies (TOR) scores on wrist shot past Jeremy Swayman, assisted by Auston Matthews and Mitch Marner
+   1-0
+P2  17:29 
+Jake McCabe (TOR) interference against John Beecher (2 minutes)
+   1-0
+P2  17:03 
+David Pastrnak (BOS) scores power-play goal on snap shot past Anthony Stolarz, assisted by Brad Marchand and Pavel Zacha
+   1-1
+P2  12:49 
+Oliver Ekman-Larsson (TOR) unsportsmanlike conduct against Charlie Coyle (2 minutes)
+   1-1
+P2  12:49 
+Charlie Coyle (BOS) unsportsmanlike conduct against Oliver Ekman-Larsson (2 minutes)
+   1-1
+P2  12:16 
+Morgan Rielly (TOR) scores on snap shot past Jeremy Swayman, assisted by Mitch Marner and Chris Tanev
+   2-1
+P2  11:36 
+William Nylander (TOR) high-sticking against David Pastrnak (4 minutes)
+   2-1
+P2  07:22 
+Justin Brazeau (BOS) scores on wrist shot past Anthony Stolarz, assisted by Trent Frederic and Matthew Poitras
+   2-2
+P2  06:46 
+Mark Kastelic (BOS) scores on wrist shot past Anthony Stolarz, assisted by John Beecher and Cole Koepke
+   2-3
+P2  00:13 
+Trent Frederic (BOS) cross-checking against Nicholas Robertson (2 minutes)
+   2-3
+3rd Period: ShowHide
+P3  10:02 
+Nicholas Robertson (TOR) tripping against Nikita Zadorov (2 minutes)
+   2-3
+P3  01:17 
+Auston Matthews (TOR) scores goal with extra attacker on tip-in past Jeremy Swayman, assisted by Mitch Marner and John Tavares
+   3-3
+Overtime: ShowHide
+OT  02:34 
+Brad Marchand (BOS) scores on backhand shot past Anthony Stolarz, assisted by David Pastrnak
+   3-4
+1st Period: ShowHide
+P1  16:20 
+Ryan Reaves (TOR) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  09:26 
+Morgan Geekie (BOS) interference against Ryan Reaves (2 minutes)
+   0-0
+P1  07:57 
+John Beecher (BOS) hooking against Max Domi (2 minutes)
+   0-0
+P1  16:20 
+Ryan Reaves (TOR) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  09:26 
+Morgan Geekie (BOS) interference against Ryan Reaves (2 minutes)
+   0-0
+P1  07:57 
+John Beecher (BOS) hooking against Max Domi (2 minutes)
+   0-0
+P1  16:20
+Ryan Reaves (TOR) interference against Hampus Lindholm (2 minutes)
+0-0
+P1  09:26
+Morgan Geekie (BOS) interference against Ryan Reaves (2 minutes)
+0-0
+P1  07:57
+John Beecher (BOS) hooking against Max Domi (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  19:25 
+Matthew Knies (TOR) scores on wrist shot past Jeremy Swayman, assisted by Auston Matthews and Mitch Marner
+   1-0
+P2  17:29 
+Jake McCabe (TOR) interference against John Beecher (2 minutes)
+   1-0
+P2  17:03 
+David Pastrnak (BOS) scores power-play goal on snap shot past Anthony Stolarz, assisted by Brad Marchand and Pavel Zacha
+   1-1
+P2  12:49 
+Oliver Ekman-Larsson (TOR) unsportsmanlike conduct against Charlie Coyle (2 minutes)
+   1-1
+P2  12:49 
+Charlie Coyle (BOS) unsportsmanlike conduct against Oliver Ekman-Larsson (2 minutes)
+   1-1
+P2  12:16 
+Morgan Rielly (TOR) scores on snap shot past Jeremy Swayman, assisted by Mitch Marner and Chris Tanev
+   2-1
+P2  11:36 
+William Nylander (TOR) high-sticking against David Pastrnak (4 minutes)
+   2-1
+P2  07:22 
+Justin Brazeau (BOS) scores on wrist shot past Anthony Stolarz, assisted by Trent Frederic and Matthew Poitras
+   2-2
+P2  06:46 
+Mark Kastelic (BOS) scores on wrist shot past Anthony Stolarz, assisted by John Beecher and Cole Koepke
+   2-3
+P2  00:13 
+Trent Frederic (BOS) cross-checking against Nicholas Robertson (2 minutes)
+   2-3
+P2  19:25 
+Matthew Knies (TOR) scores on wrist shot past Jeremy Swayman, assisted by Auston Matthews and Mitch Marner
+   1-0
+P2  17:29 
+Jake McCabe (TOR) interference against John Beecher (2 minutes)
+   1-0
+P2  17:03 
+David Pastrnak (BOS) scores power-play goal on snap shot past Anthony Stolarz, assisted by Brad Marchand and Pavel Zacha
+   1-1
+P2  12:49 
+Oliver Ekman-Larsson (TOR) unsportsmanlike conduct against Charlie Coyle (2 minutes)
+   1-1
+P2  12:49 
+Charlie Coyle (BOS) unsportsmanlike conduct against Oliver Ekman-Larsson (2 minutes)
+   1-1
+P2  12:16 
+Morgan Rielly (TOR) scores on snap shot past Jeremy Swayman, assisted by Mitch Marner and Chris Tanev
+   2-1
+P2  11:36 
+William Nylander (TOR) high-sticking against David Pastrnak (4 minutes)
+   2-1
+P2  07:22 
+Justin Brazeau (BOS) scores on wrist shot past Anthony Stolarz, assisted by Trent Frederic and Matthew Poitras
+   2-2
+P2  06:46 
+Mark Kastelic (BOS) scores on wrist shot past Anthony Stolarz, assisted by John Beecher and Cole Koepke
+   2-3
+P2  00:13 
+Trent Frederic (BOS) cross-checking against Nicholas Robertson (2 minutes)
+   2-3
+P2  19:25
+Matthew Knies (TOR) scores on wrist shot past Jeremy Swayman, assisted by Auston Matthews and Mitch Marner
+1-0
+P2  17:29
+Jake McCabe (TOR) interference against John Beecher (2 minutes)
+1-0
+P2  17:03
+David Pastrnak (BOS) scores power-play goal on snap shot past Anthony Stolarz, assisted by Brad Marchand and Pavel Zacha
+1-1
+P2  12:49
+Oliver Ekman-Larsson (TOR) unsportsmanlike conduct against Charlie Coyle (2 minutes)
+1-1
+P2  12:49
+Charlie Coyle (BOS) unsportsmanlike conduct against Oliver Ekman-Larsson (2 minutes)
+1-1
+P2  12:16
+Morgan Rielly (TOR) scores on snap shot past Jeremy Swayman, assisted by Mitch Marner and Chris Tanev
+2-1
+P2  11:36
+William Nylander (TOR) high-sticking against David Pastrnak (4 minutes)
+2-1
+P2  07:22
+Justin Brazeau (BOS) scores on wrist shot past Anthony Stolarz, assisted by Trent Frederic and Matthew Poitras
+2-2
+P2  06:46
+Mark Kastelic (BOS) scores on wrist shot past Anthony Stolarz, assisted by John Beecher and Cole Koepke
+2-3
+P2  00:13
+Trent Frederic (BOS) cross-checking against Nicholas Robertson (2 minutes)
+2-3
+3rd Period: ShowHide
+P3  10:02 
+Nicholas Robertson (TOR) tripping against Nikita Zadorov (2 minutes)
+   2-3
+P3  01:17 
+Auston Matthews (TOR) scores goal with extra attacker on tip-in past Jeremy Swayman, assisted by Mitch Marner and John Tavares
+   3-3
+P3  10:02 
+Nicholas Robertson (TOR) tripping against Nikita Zadorov (2 minutes)
+   2-3
+P3  01:17 
+Auston Matthews (TOR) scores goal with extra attacker on tip-in past Jeremy Swayman, assisted by Mitch Marner and John Tavares
+   3-3
+P3  10:02
+Nicholas Robertson (TOR) tripping against Nikita Zadorov (2 minutes)
+2-3
+P3  01:17
+Auston Matthews (TOR) scores goal with extra attacker on tip-in past Jeremy Swayman, assisted by Mitch Marner and John Tavares
+3-3
+Overtime: ShowHide
+OT  02:34 
+Brad Marchand (BOS) scores on backhand shot past Anthony Stolarz, assisted by David Pastrnak
+   3-4
+OT  02:34 
+Brad Marchand (BOS) scores on backhand shot past Anthony Stolarz, assisted by David Pastrnak
+   3-4
+OT  02:34
+Brad Marchand (BOS) scores on backhand shot past Anthony Stolarz, assisted by David Pastrnak
+3-4
+Box Score:
+ 
+Back to Top
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  17:01   0  0   -1   0   2   0   1   1  6/10David Kampf C  13:14   0  0    0   1   1   0   0   0   5/5Matthew Knies L  19:03   1  0    2   2   0   0   0   0   0/0Steven Lorentz C  12:48   0  0    0   0   0   0   0   0   0/0Mitch Marner R  26:12   0  3    2   4   0   0   0   1   0/1Auston Matthews C  23:36   1  1    2   3   3   0   1   0 13/25Bobby McMann C  08:14   0  0   -1   0   1   0   1   0   0/0William Nylander R  18:00   0  0    0   2   0   4   0   1   1/2Max Pacioretty L  09:51   0  0   -1   4   0   0   0   1   0/0Ryan Reaves R  07:19   0  0    0   0   0   2   0   0   0/0Nicholas Robertson L  11:00   0  0   -1   1   0   2   0   0   0/0John Tavares C  14:52   0  1    0   1   1   0   1   2 10/15Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  14:31   0  0   -1   0   1   0   0   0   0/0Oliver Ekman-Larsson D  19:28   0  0   -1   0   0   2   1   2   0/0Jake McCabe D  24:48   0  0    2   1   3   2   0   0   0/0Philippe Myers D  12:11   0  0   -1   0   0   0   0   3   0/0Morgan Rielly D  24:14   1  0    0   4   0   0   2   1   0/0Chris Tanev D  21:07   0  1    1   0   6   0   0   0   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       23  18  12   7  12 35/58
+                                        60.3%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  61:49   4  30/34  25/28   4/5   1/1     0
+              .882   .893  .800 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:07   0  1    0   1   2   2   0   0   2/6Justin Brazeau R  14:00   1  0    1   3   1   0   0   2   0/0Charlie Coyle C  18:18   0  0   -1   0   1   2   1   0  8/18Trent Frederic C  13:15   0  1    1   2   0   2   0   1   0/3Morgan Geekie C  09:53   0  0    0   1   0   2   0   0   1/1Mark Kastelic C  12:00   1  0    1   1   2   0   0   0   3/4Cole Koepke L  09:54   0  1    1   2   0   0   1   0   0/0Elias Lindholm C  19:37   0  0   -1   2   2   0   1   1  7/14Brad Marchand L  19:43   1  1   -1   4   1   0   0   2   0/0David Pastrnak R  21:48   1  1    0   4   2   0   1   2   0/0Matthew Poitras C  11:24   0  1   -1   3   0   0   0   1   0/4Pavel Zacha C  20:16   0  1    0   1   0   0   1   0   2/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  14:47   0  0   -1   0   2   0   0   0   0/0Hampus Lindholm D  22:54   0  0   -2   4   0   0   0   0   0/0Mason Lohrei D  17:58   0  0    1   3   2   0   1   1   0/0Charlie McAvoy D  26:18   0  0   -2   1   1   0   0   0   0/0Andrew Peeke D  17:27   0  0    1   1   4   0   0   0   0/0Nikita Zadorov D  17:39   0  0    2   1   0   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       34  20   8   6  11 23/58
+                                        39.7%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:26   3  20/23  17/20   3/3   0/0     0
+              .870   .850 1.000
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  17:01   0  0   -1   0   2   0   1   1  6/10David Kampf C  13:14   0  0    0   1   1   0   0   0   5/5Matthew Knies L  19:03   1  0    2   2   0   0   0   0   0/0Steven Lorentz C  12:48   0  0    0   0   0   0   0   0   0/0Mitch Marner R  26:12   0  3    2   4   0   0   0   1   0/1Auston Matthews C  23:36   1  1    2   3   3   0   1   0 13/25Bobby McMann C  08:14   0  0   -1   0   1   0   1   0   0/0William Nylander R  18:00   0  0    0   2   0   4   0   1   1/2Max Pacioretty L  09:51   0  0   -1   4   0   0   0   1   0/0Ryan Reaves R  07:19   0  0    0   0   0   2   0   0   0/0Nicholas Robertson L  11:00   0  0   -1   1   0   2   0   0   0/0John Tavares C  14:52   0  1    0   1   1   0   1   2 10/15
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Max Domi C
+17:01   0  0   -1   0   2   0   1   1  6/10
+David Kampf C
+13:14   0  0    0   1   1   0   0   0   5/5
+Matthew Knies L
+19:03   1  0    2   2   0   0   0   0   0/0
+Steven Lorentz C
+12:48   0  0    0   0   0   0   0   0   0/0
+Mitch Marner R
+26:12   0  3    2   4   0   0   0   1   0/1
+Auston Matthews C
+23:36   1  1    2   3   3   0   1   0 13/25
+Bobby McMann C
+08:14   0  0   -1   0   1   0   1   0   0/0
+William Nylander R
+18:00   0  0    0   2   0   4   0   1   1/2
+Max Pacioretty L
+09:51   0  0   -1   4   0   0   0   1   0/0
+Ryan Reaves R
+07:19   0  0    0   0   0   2   0   0   0/0
+Nicholas Robertson L
+11:00   0  0   -1   1   0   2   0   0   0/0
+John Tavares C
+14:52   0  1    0   1   1   0   1   2 10/15
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  14:31   0  0   -1   0   1   0   0   0   0/0Oliver Ekman-Larsson D  19:28   0  0   -1   0   0   2   1   2   0/0Jake McCabe D  24:48   0  0    2   1   3   2   0   0   0/0Philippe Myers D  12:11   0  0   -1   0   0   0   0   3   0/0Morgan Rielly D  24:14   1  0    0   4   0   0   2   1   0/0Chris Tanev D  21:07   0  1    1   0   6   0   0   0   0/0
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Simon Benoit D
+14:31   0  0   -1   0   1   0   0   0   0/0
+Oliver Ekman-Larsson D
+19:28   0  0   -1   0   0   2   1   2   0/0
+Jake McCabe D
+24:48   0  0    2   1   3   2   0   0   0/0
+Philippe Myers D
+12:11   0  0   -1   0   0   0   0   3   0/0
+Morgan Rielly D
+24:14   1  0    0   4   0   0   2   1   0/0
+Chris Tanev D
+21:07   0  1    1   0   6   0   0   0   0/0
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       23  18  12   7  12 35/58
+                                        60.3%
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  61:49   4  30/34  25/28   4/5   1/1     0
+              .882   .893  .800 1.000
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Anthony Stolarz G
+61:49   4  30/34  25/28   4/5   1/1     0
+              .882   .893  .800 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:07   0  1    0   1   2   2   0   0   2/6Justin Brazeau R  14:00   1  0    1   3   1   0   0   2   0/0Charlie Coyle C  18:18   0  0   -1   0   1   2   1   0  8/18Trent Frederic C  13:15   0  1    1   2   0   2   0   1   0/3Morgan Geekie C  09:53   0  0    0   1   0   2   0   0   1/1Mark Kastelic C  12:00   1  0    1   1   2   0   0   0   3/4Cole Koepke L  09:54   0  1    1   2   0   0   1   0   0/0Elias Lindholm C  19:37   0  0   -1   2   2   0   1   1  7/14Brad Marchand L  19:43   1  1   -1   4   1   0   0   2   0/0David Pastrnak R  21:48   1  1    0   4   2   0   1   2   0/0Matthew Poitras C  11:24   0  1   -1   3   0   0   0   1   0/4Pavel Zacha C  20:16   0  1    0   1   0   0   1   0   2/8
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+12:07   0  1    0   1   2   2   0   0   2/6
+Justin Brazeau R
+14:00   1  0    1   3   1   0   0   2   0/0
+Charlie Coyle C
+18:18   0  0   -1   0   1   2   1   0  8/18
+Trent Frederic C
+13:15   0  1    1   2   0   2   0   1   0/3
+Morgan Geekie C
+09:53   0  0    0   1   0   2   0   0   1/1
+Mark Kastelic C
+12:00   1  0    1   1   2   0   0   0   3/4
+Cole Koepke L
+09:54   0  1    1   2   0   0   1   0   0/0
+Elias Lindholm C
+19:37   0  0   -1   2   2   0   1   1  7/14
+Brad Marchand L
+19:43   1  1   -1   4   1   0   0   2   0/0
+David Pastrnak R
+21:48   1  1    0   4   2   0   1   2   0/0
+Matthew Poitras C
+11:24   0  1   -1   3   0   0   0   1   0/4
+Pavel Zacha C
+20:16   0  1    0   1   0   0   1   0   2/8
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  14:47   0  0   -1   0   2   0   0   0   0/0Hampus Lindholm D  22:54   0  0   -2   4   0   0   0   0   0/0Mason Lohrei D  17:58   0  0    1   3   2   0   1   1   0/0Charlie McAvoy D  26:18   0  0   -2   1   1   0   0   0   0/0Andrew Peeke D  17:27   0  0    1   1   4   0   0   0   0/0Nikita Zadorov D  17:39   0  0    2   1   0   0   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+14:47   0  0   -1   0   2   0   0   0   0/0
+Hampus Lindholm D
+22:54   0  0   -2   4   0   0   0   0   0/0
+Mason Lohrei D
+17:58   0  0    1   3   2   0   1   1   0/0
+Charlie McAvoy D
+26:18   0  0   -2   1   1   0   0   0   0/0
+Andrew Peeke D
+17:27   0  0    1   1   4   0   0   0   0/0
+Nikita Zadorov D
+17:39   0  0    2   1   0   0   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       34  20   8   6  11 23/58
+                                        39.7%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:26   3  20/23  17/20   3/3   0/0     0
+              .870   .850 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+62:26   3  20/23  17/20   3/3   0/0     0
+              .870   .850 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

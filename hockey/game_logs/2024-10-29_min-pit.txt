@@ -1,0 +1,442 @@
+< Oct. 29 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Minnesota
+Wild6-1-2Final5 - 3Pittsburgh
+Penguins3-7-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+MIN   2  2  1    5  
+PIT   2  0  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  12:36 
+Jon Merrill (MIN) cross-checking against Noel Acciari (2 minutes)
+   0-0
+P1  09:50 
+Marco Rossi (MIN) high-sticking against Cody Glass (2 minutes)
+   0-0
+P1  08:24 
+Valtteri Puustinen (PIT) scores power-play goal on snap shot past Marc-Andre Fleury, assisted by Matt Grzelcyk and Sidney Crosby
+   0-1
+P1  04:29 
+Rickard Rakell (PIT) scores on snap shot past Marc-Andre Fleury, assisted by Kris Letang and Sidney Crosby
+   0-2
+P1  02:57 
+Jakub Lauko (MIN) scores on wrist shot past Joel Blomqvist, assisted by Marat Khusnutdinov
+   1-2
+P1  02:02 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist
+   2-2
+P1  00:48 
+Lars Eller (PIT) roughing against Kirill Kaprizov (2 minutes)
+   2-2
+2nd Period: ShowHide
+P2  18:22 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist, assisted by Kirill Kaprizov and Brock Faber
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) roughing against Brock Faber (2 minutes), served by Michael Bunting
+   3-2
+P2  09:21 
+Brock Faber (MIN) fighting against Jack St. Ivany (5 minutes)
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) fighting against Brock Faber (5 minutes)
+   3-2
+P2  00:37 
+Mats Zuccarello (MIN) scores on tip-in past Joel Blomqvist, assisted by Kirill Kaprizov and Marco Rossi
+   4-2
+3rd Period: ShowHide
+P3  16:24 
+Rickard Rakell (PIT) scores on wrist shot past Marc-Andre Fleury, assisted by Marcus Pettersson and Sidney Crosby
+   4-3
+P3  10:22 
+Anthony Beauvillier (PIT) tripping against Frederick Gaudreau (2 minutes)
+   4-3
+P3  08:47 
+Kevin Hayes (PIT) tripping against Mats Zuccarello (2 minutes)
+   4-3
+P3  07:43 
+Lars Eller (PIT) delaying game - puck over glass (2 minutes)
+   4-3
+P3  00:19 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau and Jake Middleton
+   5-3
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  23:31   0  0    1   5   1   0   2   1   0/0Joel Eriksson Ek C  22:05   0  0    0   2   1   0   0   0 10/29Marcus Foligno L  11:22   0  0    0   0   0   0   0   1   0/0Frederick Gaudreau C  12:53   2  1    2   4   1   0   1   0   5/8Marcus Johansson L  14:39   0  0    0   1   0   0   0   0   0/0Kirill Kaprizov L  24:38   1  2    2   7   1   0   0   1   0/0Marat Khusnutdinov C  08:47   0  1    1   0   0   0   0   2   3/8Jakub Lauko C  08:42   1  0    1   2   1   0   0   0   0/0Liam Ohgren L  07:21   0  0    1   1   1   0   0   0   0/0Marco Rossi C  16:01   0  1    0   1   0   2   0   0  6/12Yakov Trenin C  14:03   0  0    1   1   1   0   0   0   0/2Mats Zuccarello R  20:50   1  0    0   4   1   0   0   1   1/1Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  14:41   0  0    0   3   2   0   0   1   0/0Jonas Brodin D  21:59   0  0    1   5   3   0   0   3   0/0Brock Faber D  23:58   0  1    1   1   0   5   0   0   0/0Jon Merrill D  12:17   0  0    0   0   2   2   0   1   0/0Jake Middleton D  18:54   0  1    2   2   1   0   1   1   0/0Jared Spurgeon D  19:54   0  0    2   0   2   0   0   1   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       39  18   9   4  13 25/60
+                                        41.7%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMarc-Andre Fleury G  59:59   3  26/29  24/26   1/2   1/1     0
+              .897   .923  .500 1.000 
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  16:07   0  0   -1   1   1   0   1   1  4/15Anthony Beauvillier L  10:57   0  0   -3   3   1   2   0   0   0/0Michael Bunting L  12:48   0  0   -3   2   0   0   0   0   0/0Sidney Crosby C  20:44   0  3    1   3   0   0   0   0 21/25Lars Eller C  17:49   0  0   -1   3   1   4   0   0   5/7Cody Glass C  14:18   0  0   -2   1   1   0   0   2   3/7Kevin Hayes R  06:32   0  0   -1   0   0   2   0   0   2/6Evgeni Malkin C  20:04   0  0    1   1   0   0   0   0   0/0Drew O'Connor L  17:37   0  0   -1   0   0   0   1   1   0/0Jesse Puljujarvi R  04:59   0  0   -1   0   0   0   0   0   0/0Valtteri Puustinen R  11:50   1  0   -1   1   1   0   0   0   0/0Rickard Rakell R  19:57   2  0    2   5   1   0   0   3   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  13:46   0  0   -2   0   2   0   0   1   0/0Matt Grzelcyk D  18:24   0  1   -1   1   0   0   0   1   0/0Erik Karlsson D  21:38   0  0    0   1   0   0   0   5   0/0Kris Letang D  24:06   0  1   -2   6   1   0   0   0   0/0Marcus Pettersson D  25:45   0  1    0   1   2   0   1   1   0/0Jack St. Ivany D  13:50   0  0   -1   0   1   7   0   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       29  12  15   3  15 35/60
+                                        58.3%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  58:49   4  34/38  26/30   8/8   0/0     0
+              .895   .867 1.000
+Minnesota
+Wild6-1-2Final5 - 3Pittsburgh
+Penguins3-7-1
+Minnesota
+Wild6-1-2
+Final5 - 3
+Pittsburgh
+Penguins3-7-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+MIN   2  2  1    5  
+PIT   2  0  1    3
+1st Period: ShowHide
+P1  12:36 
+Jon Merrill (MIN) cross-checking against Noel Acciari (2 minutes)
+   0-0
+P1  09:50 
+Marco Rossi (MIN) high-sticking against Cody Glass (2 minutes)
+   0-0
+P1  08:24 
+Valtteri Puustinen (PIT) scores power-play goal on snap shot past Marc-Andre Fleury, assisted by Matt Grzelcyk and Sidney Crosby
+   0-1
+P1  04:29 
+Rickard Rakell (PIT) scores on snap shot past Marc-Andre Fleury, assisted by Kris Letang and Sidney Crosby
+   0-2
+P1  02:57 
+Jakub Lauko (MIN) scores on wrist shot past Joel Blomqvist, assisted by Marat Khusnutdinov
+   1-2
+P1  02:02 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist
+   2-2
+P1  00:48 
+Lars Eller (PIT) roughing against Kirill Kaprizov (2 minutes)
+   2-2
+2nd Period: ShowHide
+P2  18:22 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist, assisted by Kirill Kaprizov and Brock Faber
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) roughing against Brock Faber (2 minutes), served by Michael Bunting
+   3-2
+P2  09:21 
+Brock Faber (MIN) fighting against Jack St. Ivany (5 minutes)
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) fighting against Brock Faber (5 minutes)
+   3-2
+P2  00:37 
+Mats Zuccarello (MIN) scores on tip-in past Joel Blomqvist, assisted by Kirill Kaprizov and Marco Rossi
+   4-2
+3rd Period: ShowHide
+P3  16:24 
+Rickard Rakell (PIT) scores on wrist shot past Marc-Andre Fleury, assisted by Marcus Pettersson and Sidney Crosby
+   4-3
+P3  10:22 
+Anthony Beauvillier (PIT) tripping against Frederick Gaudreau (2 minutes)
+   4-3
+P3  08:47 
+Kevin Hayes (PIT) tripping against Mats Zuccarello (2 minutes)
+   4-3
+P3  07:43 
+Lars Eller (PIT) delaying game - puck over glass (2 minutes)
+   4-3
+P3  00:19 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau and Jake Middleton
+   5-3
+1st Period: ShowHide
+P1  12:36 
+Jon Merrill (MIN) cross-checking against Noel Acciari (2 minutes)
+   0-0
+P1  09:50 
+Marco Rossi (MIN) high-sticking against Cody Glass (2 minutes)
+   0-0
+P1  08:24 
+Valtteri Puustinen (PIT) scores power-play goal on snap shot past Marc-Andre Fleury, assisted by Matt Grzelcyk and Sidney Crosby
+   0-1
+P1  04:29 
+Rickard Rakell (PIT) scores on snap shot past Marc-Andre Fleury, assisted by Kris Letang and Sidney Crosby
+   0-2
+P1  02:57 
+Jakub Lauko (MIN) scores on wrist shot past Joel Blomqvist, assisted by Marat Khusnutdinov
+   1-2
+P1  02:02 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist
+   2-2
+P1  00:48 
+Lars Eller (PIT) roughing against Kirill Kaprizov (2 minutes)
+   2-2
+P1  12:36 
+Jon Merrill (MIN) cross-checking against Noel Acciari (2 minutes)
+   0-0
+P1  09:50 
+Marco Rossi (MIN) high-sticking against Cody Glass (2 minutes)
+   0-0
+P1  08:24 
+Valtteri Puustinen (PIT) scores power-play goal on snap shot past Marc-Andre Fleury, assisted by Matt Grzelcyk and Sidney Crosby
+   0-1
+P1  04:29 
+Rickard Rakell (PIT) scores on snap shot past Marc-Andre Fleury, assisted by Kris Letang and Sidney Crosby
+   0-2
+P1  02:57 
+Jakub Lauko (MIN) scores on wrist shot past Joel Blomqvist, assisted by Marat Khusnutdinov
+   1-2
+P1  02:02 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist
+   2-2
+P1  00:48 
+Lars Eller (PIT) roughing against Kirill Kaprizov (2 minutes)
+   2-2
+P1  12:36
+Jon Merrill (MIN) cross-checking against Noel Acciari (2 minutes)
+0-0
+P1  09:50
+Marco Rossi (MIN) high-sticking against Cody Glass (2 minutes)
+0-0
+P1  08:24
+Valtteri Puustinen (PIT) scores power-play goal on snap shot past Marc-Andre Fleury, assisted by Matt Grzelcyk and Sidney Crosby
+0-1
+P1  04:29
+Rickard Rakell (PIT) scores on snap shot past Marc-Andre Fleury, assisted by Kris Letang and Sidney Crosby
+0-2
+P1  02:57
+Jakub Lauko (MIN) scores on wrist shot past Joel Blomqvist, assisted by Marat Khusnutdinov
+1-2
+P1  02:02
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist
+2-2
+P1  00:48
+Lars Eller (PIT) roughing against Kirill Kaprizov (2 minutes)
+2-2
+2nd Period: ShowHide
+P2  18:22 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist, assisted by Kirill Kaprizov and Brock Faber
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) roughing against Brock Faber (2 minutes), served by Michael Bunting
+   3-2
+P2  09:21 
+Brock Faber (MIN) fighting against Jack St. Ivany (5 minutes)
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) fighting against Brock Faber (5 minutes)
+   3-2
+P2  00:37 
+Mats Zuccarello (MIN) scores on tip-in past Joel Blomqvist, assisted by Kirill Kaprizov and Marco Rossi
+   4-2
+P2  18:22 
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist, assisted by Kirill Kaprizov and Brock Faber
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) roughing against Brock Faber (2 minutes), served by Michael Bunting
+   3-2
+P2  09:21 
+Brock Faber (MIN) fighting against Jack St. Ivany (5 minutes)
+   3-2
+P2  09:21 
+Jack St. Ivany (PIT) fighting against Brock Faber (5 minutes)
+   3-2
+P2  00:37 
+Mats Zuccarello (MIN) scores on tip-in past Joel Blomqvist, assisted by Kirill Kaprizov and Marco Rossi
+   4-2
+P2  18:22
+Frederick Gaudreau (MIN) scores on wrist shot past Joel Blomqvist, assisted by Kirill Kaprizov and Brock Faber
+3-2
+P2  09:21
+Jack St. Ivany (PIT) roughing against Brock Faber (2 minutes), served by Michael Bunting
+3-2
+P2  09:21
+Brock Faber (MIN) fighting against Jack St. Ivany (5 minutes)
+3-2
+P2  09:21
+Jack St. Ivany (PIT) fighting against Brock Faber (5 minutes)
+3-2
+P2  00:37
+Mats Zuccarello (MIN) scores on tip-in past Joel Blomqvist, assisted by Kirill Kaprizov and Marco Rossi
+4-2
+3rd Period: ShowHide
+P3  16:24 
+Rickard Rakell (PIT) scores on wrist shot past Marc-Andre Fleury, assisted by Marcus Pettersson and Sidney Crosby
+   4-3
+P3  10:22 
+Anthony Beauvillier (PIT) tripping against Frederick Gaudreau (2 minutes)
+   4-3
+P3  08:47 
+Kevin Hayes (PIT) tripping against Mats Zuccarello (2 minutes)
+   4-3
+P3  07:43 
+Lars Eller (PIT) delaying game - puck over glass (2 minutes)
+   4-3
+P3  00:19 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau and Jake Middleton
+   5-3
+P3  16:24 
+Rickard Rakell (PIT) scores on wrist shot past Marc-Andre Fleury, assisted by Marcus Pettersson and Sidney Crosby
+   4-3
+P3  10:22 
+Anthony Beauvillier (PIT) tripping against Frederick Gaudreau (2 minutes)
+   4-3
+P3  08:47 
+Kevin Hayes (PIT) tripping against Mats Zuccarello (2 minutes)
+   4-3
+P3  07:43 
+Lars Eller (PIT) delaying game - puck over glass (2 minutes)
+   4-3
+P3  00:19 
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau and Jake Middleton
+   5-3
+P3  16:24
+Rickard Rakell (PIT) scores on wrist shot past Marc-Andre Fleury, assisted by Marcus Pettersson and Sidney Crosby
+4-3
+P3  10:22
+Anthony Beauvillier (PIT) tripping against Frederick Gaudreau (2 minutes)
+4-3
+P3  08:47
+Kevin Hayes (PIT) tripping against Mats Zuccarello (2 minutes)
+4-3
+P3  07:43
+Lars Eller (PIT) delaying game - puck over glass (2 minutes)
+4-3
+P3  00:19
+Kirill Kaprizov (MIN) scores on empty net, assisted by Frederick Gaudreau and Jake Middleton
+5-3
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  23:31   0  0    1   5   1   0   2   1   0/0Joel Eriksson Ek C  22:05   0  0    0   2   1   0   0   0 10/29Marcus Foligno L  11:22   0  0    0   0   0   0   0   1   0/0Frederick Gaudreau C  12:53   2  1    2   4   1   0   1   0   5/8Marcus Johansson L  14:39   0  0    0   1   0   0   0   0   0/0Kirill Kaprizov L  24:38   1  2    2   7   1   0   0   1   0/0Marat Khusnutdinov C  08:47   0  1    1   0   0   0   0   2   3/8Jakub Lauko C  08:42   1  0    1   2   1   0   0   0   0/0Liam Ohgren L  07:21   0  0    1   1   1   0   0   0   0/0Marco Rossi C  16:01   0  1    0   1   0   2   0   0  6/12Yakov Trenin C  14:03   0  0    1   1   1   0   0   0   0/2Mats Zuccarello R  20:50   1  0    0   4   1   0   0   1   1/1Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  14:41   0  0    0   3   2   0   0   1   0/0Jonas Brodin D  21:59   0  0    1   5   3   0   0   3   0/0Brock Faber D  23:58   0  1    1   1   0   5   0   0   0/0Jon Merrill D  12:17   0  0    0   0   2   2   0   1   0/0Jake Middleton D  18:54   0  1    2   2   1   0   1   1   0/0Jared Spurgeon D  19:54   0  0    2   0   2   0   0   1   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       39  18   9   4  13 25/60
+                                        41.7%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMarc-Andre Fleury G  59:59   3  26/29  24/26   1/2   1/1     0
+              .897   .923  .500 1.000 
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  16:07   0  0   -1   1   1   0   1   1  4/15Anthony Beauvillier L  10:57   0  0   -3   3   1   2   0   0   0/0Michael Bunting L  12:48   0  0   -3   2   0   0   0   0   0/0Sidney Crosby C  20:44   0  3    1   3   0   0   0   0 21/25Lars Eller C  17:49   0  0   -1   3   1   4   0   0   5/7Cody Glass C  14:18   0  0   -2   1   1   0   0   2   3/7Kevin Hayes R  06:32   0  0   -1   0   0   2   0   0   2/6Evgeni Malkin C  20:04   0  0    1   1   0   0   0   0   0/0Drew O'Connor L  17:37   0  0   -1   0   0   0   1   1   0/0Jesse Puljujarvi R  04:59   0  0   -1   0   0   0   0   0   0/0Valtteri Puustinen R  11:50   1  0   -1   1   1   0   0   0   0/0Rickard Rakell R  19:57   2  0    2   5   1   0   0   3   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  13:46   0  0   -2   0   2   0   0   1   0/0Matt Grzelcyk D  18:24   0  1   -1   1   0   0   0   1   0/0Erik Karlsson D  21:38   0  0    0   1   0   0   0   5   0/0Kris Letang D  24:06   0  1   -2   6   1   0   0   0   0/0Marcus Pettersson D  25:45   0  1    0   1   2   0   1   1   0/0Jack St. Ivany D  13:50   0  0   -1   0   1   7   0   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       29  12  15   3  15 35/60
+                                        58.3%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  58:49   4  34/38  26/30   8/8   0/0     0
+              .895   .867 1.000
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  23:31   0  0    1   5   1   0   2   1   0/0Joel Eriksson Ek C  22:05   0  0    0   2   1   0   0   0 10/29Marcus Foligno L  11:22   0  0    0   0   0   0   0   1   0/0Frederick Gaudreau C  12:53   2  1    2   4   1   0   1   0   5/8Marcus Johansson L  14:39   0  0    0   1   0   0   0   0   0/0Kirill Kaprizov L  24:38   1  2    2   7   1   0   0   1   0/0Marat Khusnutdinov C  08:47   0  1    1   0   0   0   0   2   3/8Jakub Lauko C  08:42   1  0    1   2   1   0   0   0   0/0Liam Ohgren L  07:21   0  0    1   1   1   0   0   0   0/0Marco Rossi C  16:01   0  1    0   1   0   2   0   0  6/12Yakov Trenin C  14:03   0  0    1   1   1   0   0   0   0/2Mats Zuccarello R  20:50   1  0    0   4   1   0   0   1   1/1
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Boldy L
+23:31   0  0    1   5   1   0   2   1   0/0
+Joel Eriksson Ek C
+22:05   0  0    0   2   1   0   0   0 10/29
+Marcus Foligno L
+11:22   0  0    0   0   0   0   0   1   0/0
+Frederick Gaudreau C
+12:53   2  1    2   4   1   0   1   0   5/8
+Marcus Johansson L
+14:39   0  0    0   1   0   0   0   0   0/0
+Kirill Kaprizov L
+24:38   1  2    2   7   1   0   0   1   0/0
+Marat Khusnutdinov C
+08:47   0  1    1   0   0   0   0   2   3/8
+Jakub Lauko C
+08:42   1  0    1   2   1   0   0   0   0/0
+Liam Ohgren L
+07:21   0  0    1   1   1   0   0   0   0/0
+Marco Rossi C
+16:01   0  1    0   1   0   2   0   0  6/12
+Yakov Trenin C
+14:03   0  0    1   1   1   0   0   0   0/2
+Mats Zuccarello R
+20:50   1  0    0   4   1   0   0   1   1/1
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  14:41   0  0    0   3   2   0   0   1   0/0Jonas Brodin D  21:59   0  0    1   5   3   0   0   3   0/0Brock Faber D  23:58   0  1    1   1   0   5   0   0   0/0Jon Merrill D  12:17   0  0    0   0   2   2   0   1   0/0Jake Middleton D  18:54   0  1    2   2   1   0   1   1   0/0Jared Spurgeon D  19:54   0  0    2   0   2   0   0   1   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Bogosian D
+14:41   0  0    0   3   2   0   0   1   0/0
+Jonas Brodin D
+21:59   0  0    1   5   3   0   0   3   0/0
+Brock Faber D
+23:58   0  1    1   1   0   5   0   0   0/0
+Jon Merrill D
+12:17   0  0    0   0   2   2   0   1   0/0
+Jake Middleton D
+18:54   0  1    2   2   1   0   1   1   0/0
+Jared Spurgeon D
+19:54   0  0    2   0   2   0   0   1   0/0
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       39  18   9   4  13 25/60
+                                        41.7%
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMarc-Andre Fleury G  59:59   3  26/29  24/26   1/2   1/1     0
+              .897   .923  .500 1.000
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Marc-Andre Fleury G
+59:59   3  26/29  24/26   1/2   1/1     0
+              .897   .923  .500 1.000
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  16:07   0  0   -1   1   1   0   1   1  4/15Anthony Beauvillier L  10:57   0  0   -3   3   1   2   0   0   0/0Michael Bunting L  12:48   0  0   -3   2   0   0   0   0   0/0Sidney Crosby C  20:44   0  3    1   3   0   0   0   0 21/25Lars Eller C  17:49   0  0   -1   3   1   4   0   0   5/7Cody Glass C  14:18   0  0   -2   1   1   0   0   2   3/7Kevin Hayes R  06:32   0  0   -1   0   0   2   0   0   2/6Evgeni Malkin C  20:04   0  0    1   1   0   0   0   0   0/0Drew O'Connor L  17:37   0  0   -1   0   0   0   1   1   0/0Jesse Puljujarvi R  04:59   0  0   -1   0   0   0   0   0   0/0Valtteri Puustinen R  11:50   1  0   -1   1   1   0   0   0   0/0Rickard Rakell R  19:57   2  0    2   5   1   0   0   3   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+16:07   0  0   -1   1   1   0   1   1  4/15
+Anthony Beauvillier L
+10:57   0  0   -3   3   1   2   0   0   0/0
+Michael Bunting L
+12:48   0  0   -3   2   0   0   0   0   0/0
+Sidney Crosby C
+20:44   0  3    1   3   0   0   0   0 21/25
+Lars Eller C
+17:49   0  0   -1   3   1   4   0   0   5/7
+Cody Glass C
+14:18   0  0   -2   1   1   0   0   2   3/7
+Kevin Hayes R
+06:32   0  0   -1   0   0   2   0   0   2/6
+Evgeni Malkin C
+20:04   0  0    1   1   0   0   0   0   0/0
+Drew O'Connor L
+17:37   0  0   -1   0   0   0   1   1   0/0
+Jesse Puljujarvi R
+04:59   0  0   -1   0   0   0   0   0   0/0
+Valtteri Puustinen R
+11:50   1  0   -1   1   1   0   0   0   0/0
+Rickard Rakell R
+19:57   2  0    2   5   1   0   0   3   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  13:46   0  0   -2   0   2   0   0   1   0/0Matt Grzelcyk D  18:24   0  1   -1   1   0   0   0   1   0/0Erik Karlsson D  21:38   0  0    0   1   0   0   0   5   0/0Kris Letang D  24:06   0  1   -2   6   1   0   0   0   0/0Marcus Pettersson D  25:45   0  1    0   1   2   0   1   1   0/0Jack St. Ivany D  13:50   0  0   -1   0   1   7   0   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+13:46   0  0   -2   0   2   0   0   1   0/0
+Matt Grzelcyk D
+18:24   0  1   -1   1   0   0   0   1   0/0
+Erik Karlsson D
+21:38   0  0    0   1   0   0   0   5   0/0
+Kris Letang D
+24:06   0  1   -2   6   1   0   0   0   0/0
+Marcus Pettersson D
+25:45   0  1    0   1   2   0   1   1   0/0
+Jack St. Ivany D
+13:50   0  0   -1   0   1   7   0   0   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       29  12  15   3  15 35/60
+                                        58.3%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  58:49   4  34/38  26/30   8/8   0/0     0
+              .895   .867 1.000
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joel Blomqvist G
+58:49   4  34/38  26/30   8/8   0/0     0
+              .895   .867 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

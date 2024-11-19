@@ -1,0 +1,385 @@
+< Oct. 26 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Columbus
+Blue Jackets3-3-1Final/OT3 - 4Nashville
+Predators3-5-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+CBJ   0  2  1  0    3  
+NSH   0  1  2  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  00:01 
+Zach Werenski (CBJ) slashing against Filip Forsberg (2 minutes)
+   0-0
+P1  00:01 
+Filip Forsberg (NSH) slashing against Zach Werenski (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:17 
+Kirill Marchenko (CBJ) holding against Brady Skjei (2 minutes)
+   0-0
+P2  16:07 
+Kirill Marchenko (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Adam Fantilli and Jack Johnson
+   1-0
+P2  13:18 
+Zachary Aston-Reese (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Mathieu Olivier
+   2-0
+P2  10:40 
+Tommy Novak (NSH) hooking against Sean Monahan (2 minutes)
+   2-0
+P2  09:47 
+Kirill Marchenko (CBJ) hooking against Jeremy Lauzon (2 minutes)
+   2-0
+P2  09:20 
+Filip Forsberg (NSH) scores on wrist shot past Daniil Tarasov, assisted by Ryan O'Reilly
+   2-1
+P2  06:49 
+Colton Sissons (NSH) cross-checking against Jordan Harris (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  19:34 
+Cole Smith (NSH) scores on wrist shot past Daniil Tarasov, assisted by Michael McCarron and Brady Skjei
+   2-2
+P3  16:53 
+Zach Werenski (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Kevin Labanc and Sean Kuraly
+   3-2
+P3  15:51 
+Alexandre Carrier (NSH) scores on wrist shot past Daniil Tarasov, assisted by Zachary L'Heureux
+   3-3
+Overtime: ShowHide
+OT  03:16 
+Jonathan Marchessault (NSH) scores on wrist shot past Daniil Tarasov, assisted by Brady Skjei
+   3-4
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  15:32   1  0    0   3   0   0   0   1   0/0Yegor Chinakhov R  17:16   0  0   -1   1   0   0   0   1   0/0Justin Danforth R  16:08   0  0    0   0   0   0   0   0   5/8Adam Fantilli C  16:32   0  1   -1   6   2   0   1   0  6/18Sean Kuraly C  11:39   0  1    1   0   1   0   0   1   3/5Kevin Labanc R  11:10   0  1    1   1   1   0   0   0   0/0Kirill Marchenko R  19:30   1  0   -1   3   0   4   0   1   0/0Sean Monahan C  18:01   0  0   -1   3   0   0   0   1 12/21Mathieu Olivier R  13:47   0  1    1   0   1   0   1   1   0/1Mikael Pyyhtia L  13:12   0  0   -1   3   1   0   0   0   0/1Cole Sillinger C  18:13   0  0    0   2   0   0   0   2   2/3James van Riemsdyk L  08:47   0  0    1   0   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  19:36   0  0   -1   2   1   0   0   2   0/0Jordan Harris D  13:16   0  0    1   0   3   0   1   0   0/0Jack Johnson D  14:03   0  1    1   0   0   0   0   1   0/0Ivan Provorov D  24:38   0  0    0   0   2   0   0   2   0/0Damon Severson D  20:43   0  0   -3   0   2   0   1   3   0/0Zach Werenski D  27:46   1  0    1   4   2   2   2   3   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       28  16   6   6  19 28/57
+                                        49.1%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  61:07   4  29/33  24/28   5/5   0/0     0
+              .879   .857 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  06:56   0  0   -1   0   0   0   0   0   0/0Filip Forsberg L  18:28   1  0    0   7   2   2   3   2   0/1Mark Jankowski C  10:20   0  0   -1   0   0   0   0   0   1/1Zachary L'Heureux L  13:34   0  1    2   0   1   0   1   0   0/0Jonathan Marchessault R  19:03   1  0    0   5   0   0   0   1   0/1Michael McCarron R  13:50   0  1    2   2   0   0   0   0  7/12Tommy Novak C  14:12   0  0    0   2   0   2   1   3   3/5Gustav Nyquist C  16:49   0  0    0   0   2   0   0   1   0/0Ryan O'Reilly C  21:49   0  1    0   2   0   0   0   2  8/17Colton Sissons C  12:50   0  0   -2   0   3   2   0   1  8/17Cole Smith L  14:51   1  0    2   2   0   0   1   0   0/0Steven Stamkos C  17:46   0  0   -1   1   1   0   0   0   2/3Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  20:26   1  0    2   2   0   0   1   0   0/0Dante Fabbro D  13:06   0  0   -2   0   2   0   0   2   0/0Roman Josi D  27:10   0  0   -2   6   1   0   0   0   0/0Jeremy Lauzon D  20:45   0  0    1   0   3   0   0   0   0/0Luke Schenn D  15:22   0  0    0   2   1   0   0   1   0/0Brady Skjei D  21:56   0  2    2   2   0   0   1   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       33  16   6   8  16 29/57
+                                        50.9%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMScott Wedgewood G  61:43   3  25/28  22/25   2/2   1/1     0
+              .893   .880 1.000 1.000
+Columbus
+Blue Jackets3-3-1Final/OT3 - 4Nashville
+Predators3-5-0
+Columbus
+Blue Jackets3-3-1
+Final/OT3 - 4
+Nashville
+Predators3-5-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+CBJ   0  2  1  0    3  
+NSH   0  1  2  1    4
+1st Period: ShowHide
+P1  00:01 
+Zach Werenski (CBJ) slashing against Filip Forsberg (2 minutes)
+   0-0
+P1  00:01 
+Filip Forsberg (NSH) slashing against Zach Werenski (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:17 
+Kirill Marchenko (CBJ) holding against Brady Skjei (2 minutes)
+   0-0
+P2  16:07 
+Kirill Marchenko (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Adam Fantilli and Jack Johnson
+   1-0
+P2  13:18 
+Zachary Aston-Reese (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Mathieu Olivier
+   2-0
+P2  10:40 
+Tommy Novak (NSH) hooking against Sean Monahan (2 minutes)
+   2-0
+P2  09:47 
+Kirill Marchenko (CBJ) hooking against Jeremy Lauzon (2 minutes)
+   2-0
+P2  09:20 
+Filip Forsberg (NSH) scores on wrist shot past Daniil Tarasov, assisted by Ryan O'Reilly
+   2-1
+P2  06:49 
+Colton Sissons (NSH) cross-checking against Jordan Harris (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  19:34 
+Cole Smith (NSH) scores on wrist shot past Daniil Tarasov, assisted by Michael McCarron and Brady Skjei
+   2-2
+P3  16:53 
+Zach Werenski (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Kevin Labanc and Sean Kuraly
+   3-2
+P3  15:51 
+Alexandre Carrier (NSH) scores on wrist shot past Daniil Tarasov, assisted by Zachary L'Heureux
+   3-3
+Overtime: ShowHide
+OT  03:16 
+Jonathan Marchessault (NSH) scores on wrist shot past Daniil Tarasov, assisted by Brady Skjei
+   3-4
+1st Period: ShowHide
+P1  00:01 
+Zach Werenski (CBJ) slashing against Filip Forsberg (2 minutes)
+   0-0
+P1  00:01 
+Filip Forsberg (NSH) slashing against Zach Werenski (2 minutes)
+   0-0
+P1  00:01 
+Zach Werenski (CBJ) slashing against Filip Forsberg (2 minutes)
+   0-0
+P1  00:01 
+Filip Forsberg (NSH) slashing against Zach Werenski (2 minutes)
+   0-0
+P1  00:01
+Zach Werenski (CBJ) slashing against Filip Forsberg (2 minutes)
+0-0
+P1  00:01
+Filip Forsberg (NSH) slashing against Zach Werenski (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  19:17 
+Kirill Marchenko (CBJ) holding against Brady Skjei (2 minutes)
+   0-0
+P2  16:07 
+Kirill Marchenko (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Adam Fantilli and Jack Johnson
+   1-0
+P2  13:18 
+Zachary Aston-Reese (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Mathieu Olivier
+   2-0
+P2  10:40 
+Tommy Novak (NSH) hooking against Sean Monahan (2 minutes)
+   2-0
+P2  09:47 
+Kirill Marchenko (CBJ) hooking against Jeremy Lauzon (2 minutes)
+   2-0
+P2  09:20 
+Filip Forsberg (NSH) scores on wrist shot past Daniil Tarasov, assisted by Ryan O'Reilly
+   2-1
+P2  06:49 
+Colton Sissons (NSH) cross-checking against Jordan Harris (2 minutes)
+   2-1
+P2  19:17 
+Kirill Marchenko (CBJ) holding against Brady Skjei (2 minutes)
+   0-0
+P2  16:07 
+Kirill Marchenko (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Adam Fantilli and Jack Johnson
+   1-0
+P2  13:18 
+Zachary Aston-Reese (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Mathieu Olivier
+   2-0
+P2  10:40 
+Tommy Novak (NSH) hooking against Sean Monahan (2 minutes)
+   2-0
+P2  09:47 
+Kirill Marchenko (CBJ) hooking against Jeremy Lauzon (2 minutes)
+   2-0
+P2  09:20 
+Filip Forsberg (NSH) scores on wrist shot past Daniil Tarasov, assisted by Ryan O'Reilly
+   2-1
+P2  06:49 
+Colton Sissons (NSH) cross-checking against Jordan Harris (2 minutes)
+   2-1
+P2  19:17
+Kirill Marchenko (CBJ) holding against Brady Skjei (2 minutes)
+0-0
+P2  16:07
+Kirill Marchenko (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Adam Fantilli and Jack Johnson
+1-0
+P2  13:18
+Zachary Aston-Reese (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Mathieu Olivier
+2-0
+P2  10:40
+Tommy Novak (NSH) hooking against Sean Monahan (2 minutes)
+2-0
+P2  09:47
+Kirill Marchenko (CBJ) hooking against Jeremy Lauzon (2 minutes)
+2-0
+P2  09:20
+Filip Forsberg (NSH) scores on wrist shot past Daniil Tarasov, assisted by Ryan O'Reilly
+2-1
+P2  06:49
+Colton Sissons (NSH) cross-checking against Jordan Harris (2 minutes)
+2-1
+3rd Period: ShowHide
+P3  19:34 
+Cole Smith (NSH) scores on wrist shot past Daniil Tarasov, assisted by Michael McCarron and Brady Skjei
+   2-2
+P3  16:53 
+Zach Werenski (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Kevin Labanc and Sean Kuraly
+   3-2
+P3  15:51 
+Alexandre Carrier (NSH) scores on wrist shot past Daniil Tarasov, assisted by Zachary L'Heureux
+   3-3
+P3  19:34 
+Cole Smith (NSH) scores on wrist shot past Daniil Tarasov, assisted by Michael McCarron and Brady Skjei
+   2-2
+P3  16:53 
+Zach Werenski (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Kevin Labanc and Sean Kuraly
+   3-2
+P3  15:51 
+Alexandre Carrier (NSH) scores on wrist shot past Daniil Tarasov, assisted by Zachary L'Heureux
+   3-3
+P3  19:34
+Cole Smith (NSH) scores on wrist shot past Daniil Tarasov, assisted by Michael McCarron and Brady Skjei
+2-2
+P3  16:53
+Zach Werenski (CBJ) scores on wrist shot past Scott Wedgewood, assisted by Kevin Labanc and Sean Kuraly
+3-2
+P3  15:51
+Alexandre Carrier (NSH) scores on wrist shot past Daniil Tarasov, assisted by Zachary L'Heureux
+3-3
+Overtime: ShowHide
+OT  03:16 
+Jonathan Marchessault (NSH) scores on wrist shot past Daniil Tarasov, assisted by Brady Skjei
+   3-4
+OT  03:16 
+Jonathan Marchessault (NSH) scores on wrist shot past Daniil Tarasov, assisted by Brady Skjei
+   3-4
+OT  03:16
+Jonathan Marchessault (NSH) scores on wrist shot past Daniil Tarasov, assisted by Brady Skjei
+3-4
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  15:32   1  0    0   3   0   0   0   1   0/0Yegor Chinakhov R  17:16   0  0   -1   1   0   0   0   1   0/0Justin Danforth R  16:08   0  0    0   0   0   0   0   0   5/8Adam Fantilli C  16:32   0  1   -1   6   2   0   1   0  6/18Sean Kuraly C  11:39   0  1    1   0   1   0   0   1   3/5Kevin Labanc R  11:10   0  1    1   1   1   0   0   0   0/0Kirill Marchenko R  19:30   1  0   -1   3   0   4   0   1   0/0Sean Monahan C  18:01   0  0   -1   3   0   0   0   1 12/21Mathieu Olivier R  13:47   0  1    1   0   1   0   1   1   0/1Mikael Pyyhtia L  13:12   0  0   -1   3   1   0   0   0   0/1Cole Sillinger C  18:13   0  0    0   2   0   0   0   2   2/3James van Riemsdyk L  08:47   0  0    1   0   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  19:36   0  0   -1   2   1   0   0   2   0/0Jordan Harris D  13:16   0  0    1   0   3   0   1   0   0/0Jack Johnson D  14:03   0  1    1   0   0   0   0   1   0/0Ivan Provorov D  24:38   0  0    0   0   2   0   0   2   0/0Damon Severson D  20:43   0  0   -3   0   2   0   1   3   0/0Zach Werenski D  27:46   1  0    1   4   2   2   2   3   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       28  16   6   6  19 28/57
+                                        49.1%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  61:07   4  29/33  24/28   5/5   0/0     0
+              .879   .857 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  06:56   0  0   -1   0   0   0   0   0   0/0Filip Forsberg L  18:28   1  0    0   7   2   2   3   2   0/1Mark Jankowski C  10:20   0  0   -1   0   0   0   0   0   1/1Zachary L'Heureux L  13:34   0  1    2   0   1   0   1   0   0/0Jonathan Marchessault R  19:03   1  0    0   5   0   0   0   1   0/1Michael McCarron R  13:50   0  1    2   2   0   0   0   0  7/12Tommy Novak C  14:12   0  0    0   2   0   2   1   3   3/5Gustav Nyquist C  16:49   0  0    0   0   2   0   0   1   0/0Ryan O'Reilly C  21:49   0  1    0   2   0   0   0   2  8/17Colton Sissons C  12:50   0  0   -2   0   3   2   0   1  8/17Cole Smith L  14:51   1  0    2   2   0   0   1   0   0/0Steven Stamkos C  17:46   0  0   -1   1   1   0   0   0   2/3Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  20:26   1  0    2   2   0   0   1   0   0/0Dante Fabbro D  13:06   0  0   -2   0   2   0   0   2   0/0Roman Josi D  27:10   0  0   -2   6   1   0   0   0   0/0Jeremy Lauzon D  20:45   0  0    1   0   3   0   0   0   0/0Luke Schenn D  15:22   0  0    0   2   1   0   0   1   0/0Brady Skjei D  21:56   0  2    2   2   0   0   1   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       33  16   6   8  16 29/57
+                                        50.9%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMScott Wedgewood G  61:43   3  25/28  22/25   2/2   1/1     0
+              .893   .880 1.000 1.000
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  15:32   1  0    0   3   0   0   0   1   0/0Yegor Chinakhov R  17:16   0  0   -1   1   0   0   0   1   0/0Justin Danforth R  16:08   0  0    0   0   0   0   0   0   5/8Adam Fantilli C  16:32   0  1   -1   6   2   0   1   0  6/18Sean Kuraly C  11:39   0  1    1   0   1   0   0   1   3/5Kevin Labanc R  11:10   0  1    1   1   1   0   0   0   0/0Kirill Marchenko R  19:30   1  0   -1   3   0   4   0   1   0/0Sean Monahan C  18:01   0  0   -1   3   0   0   0   1 12/21Mathieu Olivier R  13:47   0  1    1   0   1   0   1   1   0/1Mikael Pyyhtia L  13:12   0  0   -1   3   1   0   0   0   0/1Cole Sillinger C  18:13   0  0    0   2   0   0   0   2   2/3James van Riemsdyk L  08:47   0  0    1   0   0   0   0   0   0/0
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zachary Aston-Reese C
+15:32   1  0    0   3   0   0   0   1   0/0
+Yegor Chinakhov R
+17:16   0  0   -1   1   0   0   0   1   0/0
+Justin Danforth R
+16:08   0  0    0   0   0   0   0   0   5/8
+Adam Fantilli C
+16:32   0  1   -1   6   2   0   1   0  6/18
+Sean Kuraly C
+11:39   0  1    1   0   1   0   0   1   3/5
+Kevin Labanc R
+11:10   0  1    1   1   1   0   0   0   0/0
+Kirill Marchenko R
+19:30   1  0   -1   3   0   4   0   1   0/0
+Sean Monahan C
+18:01   0  0   -1   3   0   0   0   1 12/21
+Mathieu Olivier R
+13:47   0  1    1   0   1   0   1   1   0/1
+Mikael Pyyhtia L
+13:12   0  0   -1   3   1   0   0   0   0/1
+Cole Sillinger C
+18:13   0  0    0   2   0   0   0   2   2/3
+James van Riemsdyk L
+08:47   0  0    1   0   0   0   0   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  19:36   0  0   -1   2   1   0   0   2   0/0Jordan Harris D  13:16   0  0    1   0   3   0   1   0   0/0Jack Johnson D  14:03   0  1    1   0   0   0   0   1   0/0Ivan Provorov D  24:38   0  0    0   0   2   0   0   2   0/0Damon Severson D  20:43   0  0   -3   0   2   0   1   3   0/0Zach Werenski D  27:46   1  0    1   4   2   2   2   3   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+19:36   0  0   -1   2   1   0   0   2   0/0
+Jordan Harris D
+13:16   0  0    1   0   3   0   1   0   0/0
+Jack Johnson D
+14:03   0  1    1   0   0   0   0   1   0/0
+Ivan Provorov D
+24:38   0  0    0   0   2   0   0   2   0/0
+Damon Severson D
+20:43   0  0   -3   0   2   0   1   3   0/0
+Zach Werenski D
+27:46   1  0    1   4   2   2   2   3   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       28  16   6   6  19 28/57
+                                        49.1%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  61:07   4  29/33  24/28   5/5   0/0     0
+              .879   .857 1.000
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Daniil Tarasov G
+61:07   4  29/33  24/28   5/5   0/0     0
+              .879   .857 1.000
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  06:56   0  0   -1   0   0   0   0   0   0/0Filip Forsberg L  18:28   1  0    0   7   2   2   3   2   0/1Mark Jankowski C  10:20   0  0   -1   0   0   0   0   0   1/1Zachary L'Heureux L  13:34   0  1    2   0   1   0   1   0   0/0Jonathan Marchessault R  19:03   1  0    0   5   0   0   0   1   0/1Michael McCarron R  13:50   0  1    2   2   0   0   0   0  7/12Tommy Novak C  14:12   0  0    0   2   0   2   1   3   3/5Gustav Nyquist C  16:49   0  0    0   0   2   0   0   1   0/0Ryan O'Reilly C  21:49   0  1    0   2   0   0   0   2  8/17Colton Sissons C  12:50   0  0   -2   0   3   2   0   1  8/17Cole Smith L  14:51   1  0    2   2   0   0   1   0   0/0Steven Stamkos C  17:46   0  0   -1   1   1   0   0   0   2/3
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+06:56   0  0   -1   0   0   0   0   0   0/0
+Filip Forsberg L
+18:28   1  0    0   7   2   2   3   2   0/1
+Mark Jankowski C
+10:20   0  0   -1   0   0   0   0   0   1/1
+Zachary L'Heureux L
+13:34   0  1    2   0   1   0   1   0   0/0
+Jonathan Marchessault R
+19:03   1  0    0   5   0   0   0   1   0/1
+Michael McCarron R
+13:50   0  1    2   2   0   0   0   0  7/12
+Tommy Novak C
+14:12   0  0    0   2   0   2   1   3   3/5
+Gustav Nyquist C
+16:49   0  0    0   0   2   0   0   1   0/0
+Ryan O'Reilly C
+21:49   0  1    0   2   0   0   0   2  8/17
+Colton Sissons C
+12:50   0  0   -2   0   3   2   0   1  8/17
+Cole Smith L
+14:51   1  0    2   2   0   0   1   0   0/0
+Steven Stamkos C
+17:46   0  0   -1   1   1   0   0   0   2/3
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  20:26   1  0    2   2   0   0   1   0   0/0Dante Fabbro D  13:06   0  0   -2   0   2   0   0   2   0/0Roman Josi D  27:10   0  0   -2   6   1   0   0   0   0/0Jeremy Lauzon D  20:45   0  0    1   0   3   0   0   0   0/0Luke Schenn D  15:22   0  0    0   2   1   0   0   1   0/0Brady Skjei D  21:56   0  2    2   2   0   0   1   3   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+20:26   1  0    2   2   0   0   1   0   0/0
+Dante Fabbro D
+13:06   0  0   -2   0   2   0   0   2   0/0
+Roman Josi D
+27:10   0  0   -2   6   1   0   0   0   0/0
+Jeremy Lauzon D
+20:45   0  0    1   0   3   0   0   0   0/0
+Luke Schenn D
+15:22   0  0    0   2   1   0   0   1   0/0
+Brady Skjei D
+21:56   0  2    2   2   0   0   1   3   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       33  16   6   8  16 29/57
+                                        50.9%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMScott Wedgewood G  61:43   3  25/28  22/25   2/2   1/1     0
+              .893   .880 1.000 1.000
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Scott Wedgewood G
+61:43   3  25/28  22/25   2/2   1/1     0
+              .893   .880 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

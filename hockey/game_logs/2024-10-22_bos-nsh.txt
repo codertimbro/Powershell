@@ -1,0 +1,412 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Boston
+Bruins3-3-1Final0 - 4Nashville
+Predators1-5-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+BOS   0  0  0    0  
+NSH   1  1  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:47 
+David Pastrnak (BOS) hooking against Gustav Nyquist (2 minutes)
+   0-0
+P1  19:38 
+Ryan O'Reilly (NSH) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  16:45 
+Luke Schenn (NSH) fighting against Mark Kastelic (5 minutes)
+   0-0
+P1  16:45 
+Mark Kastelic (BOS) fighting against Luke Schenn (5 minutes)
+   0-0
+P1  12:16 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-0
+P1  08:35 
+Max Jones (BOS) interference against Brady Skjei (2 minutes)
+   0-0
+P1  02:55 
+Max Jones (BOS) tripping against Alexandre Carrier (2 minutes)
+   0-0
+P1  02:44 
+Ryan O'Reilly (NSH) scores power-play goal on tip-in past Jeremy Swayman, assisted by Roman Josi and Filip Forsberg
+   0-1
+2nd Period: ShowHide
+P2  13:00 
+Nikita Zadorov (BOS) hooking against Alexandre Carrier (2 minutes)
+   0-1
+P2  07:07 
+Charlie McAvoy (BOS) high-sticking against Steven Stamkos (4 minutes)
+   0-1
+P2  03:05 
+Tommy Novak (NSH) scores on wrist shot past Jeremy Swayman, assisted by Luke Evangelista and Brady Skjei
+   0-2
+3rd Period: ShowHide
+P3  17:18 
+Cole Smith (NSH) high-sticking against Pavel Zacha (2 minutes)
+   0-2
+P3  07:13 
+Gustav Nyquist (NSH) scores on wrist shot past Jeremy Swayman, assisted by Ryan O'Reilly and Roman Josi
+   0-3
+P3  06:04 
+Luke Evangelista (NSH) scores on empty net
+   0-4
+P3  04:21 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-4
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:58   0  0   -1   0   2   0   0   1   5/8Charlie Coyle C  16:08   0  0   -1   0   1   0   1   2  3/10Trent Frederic C  14:22   0  0    0   2   0   0   0   0   0/1Morgan Geekie C  14:16   0  0    0   3   0   0   0   0   1/2Max Jones L  11:14   0  0    0   0   1   4   0   0   0/0Mark Kastelic C  09:55   0  0    0   0   1   5   0   0   1/5Cole Koepke L  11:50   0  0    0   1   0   0   0   0   0/0Elias Lindholm C  15:39   0  0   -3   2   2   0   0   0 13/25Brad Marchand L  18:00   0  0   -2   4   0   0   0   0   0/0David Pastrnak R  16:18   0  0   -2   6   1   2   0   2   0/0Matthew Poitras C  13:56   0  0    0   0   0   0   1   0   3/6Pavel Zacha C  18:48   0  0   -1   3   0   0   0   2   0/3Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  17:54   0  0   -1   2   6   0   0   3   0/0Hampus Lindholm D  22:36   0  0   -1   2   0   0   2   2   0/0Mason Lohrei D  17:39   0  0    0   2   1   0   1   0   0/0Charlie McAvoy D  20:59   0  0   -2   2   0   4   1   2   0/0Andrew Peeke D  18:02   0  0   -1   0   3   0   0   2   0/0Nikita Zadorov D  19:34   0  0   -1   4   2   2   0   2   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       33  20  17   6  18 26/60
+                                        43.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:41   3  38/41  30/32   8/9   0/0     0
+              .927   .938  .889 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  15:11   1  1    2   3   0   0   0   1   0/0Filip Forsberg L  17:04   0  1    1   3   0   0   1   1   0/0Mark Jankowski C  14:12   0  0    1   1   1   0   0   0   4/9Zachary L'Heureux L  09:59   0  0    0   1   0   0   0   0   0/0Jonathan Marchessault R  17:34   0  0    0   3   0   0   0   2   0/0Michael McCarron R  12:49   0  0    0   2   1   0   0   0 12/16Tommy Novak C  14:00   1  0    2   4   0   0   0   2   2/4Gustav Nyquist C  14:50   1  0    2   2   1   0   0   3   0/0Ryan O'Reilly C  16:47   1  1    1   1   1   2   1   5  7/15Colton Sissons C  16:15   0  0    0   2   1   0   1   0  7/11Cole Smith L  11:46   0  0    0   1   0   2   0   2   0/0Steven Stamkos C  18:45   0  0    0   2   0   0   0   0   2/5Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  20:09   0  0    1   2   0   0   0   0   0/0Marc Del Gaizo D  15:51   0  0    0   3   0   0   2   2   0/0Roman Josi D  22:24   0  2    2   5   1   0   1   1   0/0Jeremy Lauzon D  19:57   0  0    0   2   2   0   0   1   0/0Luke Schenn D  14:54   0  0    0   1   2   5   0   0   0/0Brady Skjei D  19:37   0  1    3   4   1   4   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       42  11  13   7  20 34/60
+                                        56.7%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  59:56   0  33/33  24/24   6/6   3/3     0
+             1.000  1.000 1.000 1.000
+Boston
+Bruins3-3-1Final0 - 4Nashville
+Predators1-5-0
+Boston
+Bruins3-3-1
+Final0 - 4
+Nashville
+Predators1-5-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+BOS   0  0  0    0  
+NSH   1  1  2    4
+1st Period: ShowHide
+P1  19:47 
+David Pastrnak (BOS) hooking against Gustav Nyquist (2 minutes)
+   0-0
+P1  19:38 
+Ryan O'Reilly (NSH) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  16:45 
+Luke Schenn (NSH) fighting against Mark Kastelic (5 minutes)
+   0-0
+P1  16:45 
+Mark Kastelic (BOS) fighting against Luke Schenn (5 minutes)
+   0-0
+P1  12:16 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-0
+P1  08:35 
+Max Jones (BOS) interference against Brady Skjei (2 minutes)
+   0-0
+P1  02:55 
+Max Jones (BOS) tripping against Alexandre Carrier (2 minutes)
+   0-0
+P1  02:44 
+Ryan O'Reilly (NSH) scores power-play goal on tip-in past Jeremy Swayman, assisted by Roman Josi and Filip Forsberg
+   0-1
+2nd Period: ShowHide
+P2  13:00 
+Nikita Zadorov (BOS) hooking against Alexandre Carrier (2 minutes)
+   0-1
+P2  07:07 
+Charlie McAvoy (BOS) high-sticking against Steven Stamkos (4 minutes)
+   0-1
+P2  03:05 
+Tommy Novak (NSH) scores on wrist shot past Jeremy Swayman, assisted by Luke Evangelista and Brady Skjei
+   0-2
+3rd Period: ShowHide
+P3  17:18 
+Cole Smith (NSH) high-sticking against Pavel Zacha (2 minutes)
+   0-2
+P3  07:13 
+Gustav Nyquist (NSH) scores on wrist shot past Jeremy Swayman, assisted by Ryan O'Reilly and Roman Josi
+   0-3
+P3  06:04 
+Luke Evangelista (NSH) scores on empty net
+   0-4
+P3  04:21 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-4
+1st Period: ShowHide
+P1  19:47 
+David Pastrnak (BOS) hooking against Gustav Nyquist (2 minutes)
+   0-0
+P1  19:38 
+Ryan O'Reilly (NSH) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  16:45 
+Luke Schenn (NSH) fighting against Mark Kastelic (5 minutes)
+   0-0
+P1  16:45 
+Mark Kastelic (BOS) fighting against Luke Schenn (5 minutes)
+   0-0
+P1  12:16 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-0
+P1  08:35 
+Max Jones (BOS) interference against Brady Skjei (2 minutes)
+   0-0
+P1  02:55 
+Max Jones (BOS) tripping against Alexandre Carrier (2 minutes)
+   0-0
+P1  02:44 
+Ryan O'Reilly (NSH) scores power-play goal on tip-in past Jeremy Swayman, assisted by Roman Josi and Filip Forsberg
+   0-1
+P1  19:47 
+David Pastrnak (BOS) hooking against Gustav Nyquist (2 minutes)
+   0-0
+P1  19:38 
+Ryan O'Reilly (NSH) interference against Hampus Lindholm (2 minutes)
+   0-0
+P1  16:45 
+Luke Schenn (NSH) fighting against Mark Kastelic (5 minutes)
+   0-0
+P1  16:45 
+Mark Kastelic (BOS) fighting against Luke Schenn (5 minutes)
+   0-0
+P1  12:16 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-0
+P1  08:35 
+Max Jones (BOS) interference against Brady Skjei (2 minutes)
+   0-0
+P1  02:55 
+Max Jones (BOS) tripping against Alexandre Carrier (2 minutes)
+   0-0
+P1  02:44 
+Ryan O'Reilly (NSH) scores power-play goal on tip-in past Jeremy Swayman, assisted by Roman Josi and Filip Forsberg
+   0-1
+P1  19:47
+David Pastrnak (BOS) hooking against Gustav Nyquist (2 minutes)
+0-0
+P1  19:38
+Ryan O'Reilly (NSH) interference against Hampus Lindholm (2 minutes)
+0-0
+P1  16:45
+Luke Schenn (NSH) fighting against Mark Kastelic (5 minutes)
+0-0
+P1  16:45
+Mark Kastelic (BOS) fighting against Luke Schenn (5 minutes)
+0-0
+P1  12:16
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+0-0
+P1  08:35
+Max Jones (BOS) interference against Brady Skjei (2 minutes)
+0-0
+P1  02:55
+Max Jones (BOS) tripping against Alexandre Carrier (2 minutes)
+0-0
+P1  02:44
+Ryan O'Reilly (NSH) scores power-play goal on tip-in past Jeremy Swayman, assisted by Roman Josi and Filip Forsberg
+0-1
+2nd Period: ShowHide
+P2  13:00 
+Nikita Zadorov (BOS) hooking against Alexandre Carrier (2 minutes)
+   0-1
+P2  07:07 
+Charlie McAvoy (BOS) high-sticking against Steven Stamkos (4 minutes)
+   0-1
+P2  03:05 
+Tommy Novak (NSH) scores on wrist shot past Jeremy Swayman, assisted by Luke Evangelista and Brady Skjei
+   0-2
+P2  13:00 
+Nikita Zadorov (BOS) hooking against Alexandre Carrier (2 minutes)
+   0-1
+P2  07:07 
+Charlie McAvoy (BOS) high-sticking against Steven Stamkos (4 minutes)
+   0-1
+P2  03:05 
+Tommy Novak (NSH) scores on wrist shot past Jeremy Swayman, assisted by Luke Evangelista and Brady Skjei
+   0-2
+P2  13:00
+Nikita Zadorov (BOS) hooking against Alexandre Carrier (2 minutes)
+0-1
+P2  07:07
+Charlie McAvoy (BOS) high-sticking against Steven Stamkos (4 minutes)
+0-1
+P2  03:05
+Tommy Novak (NSH) scores on wrist shot past Jeremy Swayman, assisted by Luke Evangelista and Brady Skjei
+0-2
+3rd Period: ShowHide
+P3  17:18 
+Cole Smith (NSH) high-sticking against Pavel Zacha (2 minutes)
+   0-2
+P3  07:13 
+Gustav Nyquist (NSH) scores on wrist shot past Jeremy Swayman, assisted by Ryan O'Reilly and Roman Josi
+   0-3
+P3  06:04 
+Luke Evangelista (NSH) scores on empty net
+   0-4
+P3  04:21 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-4
+P3  17:18 
+Cole Smith (NSH) high-sticking against Pavel Zacha (2 minutes)
+   0-2
+P3  07:13 
+Gustav Nyquist (NSH) scores on wrist shot past Jeremy Swayman, assisted by Ryan O'Reilly and Roman Josi
+   0-3
+P3  06:04 
+Luke Evangelista (NSH) scores on empty net
+   0-4
+P3  04:21 
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+   0-4
+P3  17:18
+Cole Smith (NSH) high-sticking against Pavel Zacha (2 minutes)
+0-2
+P3  07:13
+Gustav Nyquist (NSH) scores on wrist shot past Jeremy Swayman, assisted by Ryan O'Reilly and Roman Josi
+0-3
+P3  06:04
+Luke Evangelista (NSH) scores on empty net
+0-4
+P3  04:21
+Brady Skjei (NSH) tripping against Charlie Coyle (2 minutes)
+0-4
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:58   0  0   -1   0   2   0   0   1   5/8Charlie Coyle C  16:08   0  0   -1   0   1   0   1   2  3/10Trent Frederic C  14:22   0  0    0   2   0   0   0   0   0/1Morgan Geekie C  14:16   0  0    0   3   0   0   0   0   1/2Max Jones L  11:14   0  0    0   0   1   4   0   0   0/0Mark Kastelic C  09:55   0  0    0   0   1   5   0   0   1/5Cole Koepke L  11:50   0  0    0   1   0   0   0   0   0/0Elias Lindholm C  15:39   0  0   -3   2   2   0   0   0 13/25Brad Marchand L  18:00   0  0   -2   4   0   0   0   0   0/0David Pastrnak R  16:18   0  0   -2   6   1   2   0   2   0/0Matthew Poitras C  13:56   0  0    0   0   0   0   1   0   3/6Pavel Zacha C  18:48   0  0   -1   3   0   0   0   2   0/3Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  17:54   0  0   -1   2   6   0   0   3   0/0Hampus Lindholm D  22:36   0  0   -1   2   0   0   2   2   0/0Mason Lohrei D  17:39   0  0    0   2   1   0   1   0   0/0Charlie McAvoy D  20:59   0  0   -2   2   0   4   1   2   0/0Andrew Peeke D  18:02   0  0   -1   0   3   0   0   2   0/0Nikita Zadorov D  19:34   0  0   -1   4   2   2   0   2   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       33  20  17   6  18 26/60
+                                        43.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:41   3  38/41  30/32   8/9   0/0     0
+              .927   .938  .889 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  15:11   1  1    2   3   0   0   0   1   0/0Filip Forsberg L  17:04   0  1    1   3   0   0   1   1   0/0Mark Jankowski C  14:12   0  0    1   1   1   0   0   0   4/9Zachary L'Heureux L  09:59   0  0    0   1   0   0   0   0   0/0Jonathan Marchessault R  17:34   0  0    0   3   0   0   0   2   0/0Michael McCarron R  12:49   0  0    0   2   1   0   0   0 12/16Tommy Novak C  14:00   1  0    2   4   0   0   0   2   2/4Gustav Nyquist C  14:50   1  0    2   2   1   0   0   3   0/0Ryan O'Reilly C  16:47   1  1    1   1   1   2   1   5  7/15Colton Sissons C  16:15   0  0    0   2   1   0   1   0  7/11Cole Smith L  11:46   0  0    0   1   0   2   0   2   0/0Steven Stamkos C  18:45   0  0    0   2   0   0   0   0   2/5Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  20:09   0  0    1   2   0   0   0   0   0/0Marc Del Gaizo D  15:51   0  0    0   3   0   0   2   2   0/0Roman Josi D  22:24   0  2    2   5   1   0   1   1   0/0Jeremy Lauzon D  19:57   0  0    0   2   2   0   0   1   0/0Luke Schenn D  14:54   0  0    0   1   2   5   0   0   0/0Brady Skjei D  19:37   0  1    3   4   1   4   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       42  11  13   7  20 34/60
+                                        56.7%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  59:56   0  33/33  24/24   6/6   3/3     0
+             1.000  1.000 1.000 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:58   0  0   -1   0   2   0   0   1   5/8Charlie Coyle C  16:08   0  0   -1   0   1   0   1   2  3/10Trent Frederic C  14:22   0  0    0   2   0   0   0   0   0/1Morgan Geekie C  14:16   0  0    0   3   0   0   0   0   1/2Max Jones L  11:14   0  0    0   0   1   4   0   0   0/0Mark Kastelic C  09:55   0  0    0   0   1   5   0   0   1/5Cole Koepke L  11:50   0  0    0   1   0   0   0   0   0/0Elias Lindholm C  15:39   0  0   -3   2   2   0   0   0 13/25Brad Marchand L  18:00   0  0   -2   4   0   0   0   0   0/0David Pastrnak R  16:18   0  0   -2   6   1   2   0   2   0/0Matthew Poitras C  13:56   0  0    0   0   0   0   1   0   3/6Pavel Zacha C  18:48   0  0   -1   3   0   0   0   2   0/3
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+12:58   0  0   -1   0   2   0   0   1   5/8
+Charlie Coyle C
+16:08   0  0   -1   0   1   0   1   2  3/10
+Trent Frederic C
+14:22   0  0    0   2   0   0   0   0   0/1
+Morgan Geekie C
+14:16   0  0    0   3   0   0   0   0   1/2
+Max Jones L
+11:14   0  0    0   0   1   4   0   0   0/0
+Mark Kastelic C
+09:55   0  0    0   0   1   5   0   0   1/5
+Cole Koepke L
+11:50   0  0    0   1   0   0   0   0   0/0
+Elias Lindholm C
+15:39   0  0   -3   2   2   0   0   0 13/25
+Brad Marchand L
+18:00   0  0   -2   4   0   0   0   0   0/0
+David Pastrnak R
+16:18   0  0   -2   6   1   2   0   2   0/0
+Matthew Poitras C
+13:56   0  0    0   0   0   0   1   0   3/6
+Pavel Zacha C
+18:48   0  0   -1   3   0   0   0   2   0/3
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  17:54   0  0   -1   2   6   0   0   3   0/0Hampus Lindholm D  22:36   0  0   -1   2   0   0   2   2   0/0Mason Lohrei D  17:39   0  0    0   2   1   0   1   0   0/0Charlie McAvoy D  20:59   0  0   -2   2   0   4   1   2   0/0Andrew Peeke D  18:02   0  0   -1   0   3   0   0   2   0/0Nikita Zadorov D  19:34   0  0   -1   4   2   2   0   2   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+17:54   0  0   -1   2   6   0   0   3   0/0
+Hampus Lindholm D
+22:36   0  0   -1   2   0   0   2   2   0/0
+Mason Lohrei D
+17:39   0  0    0   2   1   0   1   0   0/0
+Charlie McAvoy D
+20:59   0  0   -2   2   0   4   1   2   0/0
+Andrew Peeke D
+18:02   0  0   -1   0   3   0   0   2   0/0
+Nikita Zadorov D
+19:34   0  0   -1   4   2   2   0   2   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       33  20  17   6  18 26/60
+                                        43.3%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:41   3  38/41  30/32   8/9   0/0     0
+              .927   .938  .889
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+59:41   3  38/41  30/32   8/9   0/0     0
+              .927   .938  .889
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  15:11   1  1    2   3   0   0   0   1   0/0Filip Forsberg L  17:04   0  1    1   3   0   0   1   1   0/0Mark Jankowski C  14:12   0  0    1   1   1   0   0   0   4/9Zachary L'Heureux L  09:59   0  0    0   1   0   0   0   0   0/0Jonathan Marchessault R  17:34   0  0    0   3   0   0   0   2   0/0Michael McCarron R  12:49   0  0    0   2   1   0   0   0 12/16Tommy Novak C  14:00   1  0    2   4   0   0   0   2   2/4Gustav Nyquist C  14:50   1  0    2   2   1   0   0   3   0/0Ryan O'Reilly C  16:47   1  1    1   1   1   2   1   5  7/15Colton Sissons C  16:15   0  0    0   2   1   0   1   0  7/11Cole Smith L  11:46   0  0    0   1   0   2   0   2   0/0Steven Stamkos C  18:45   0  0    0   2   0   0   0   0   2/5
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+15:11   1  1    2   3   0   0   0   1   0/0
+Filip Forsberg L
+17:04   0  1    1   3   0   0   1   1   0/0
+Mark Jankowski C
+14:12   0  0    1   1   1   0   0   0   4/9
+Zachary L'Heureux L
+09:59   0  0    0   1   0   0   0   0   0/0
+Jonathan Marchessault R
+17:34   0  0    0   3   0   0   0   2   0/0
+Michael McCarron R
+12:49   0  0    0   2   1   0   0   0 12/16
+Tommy Novak C
+14:00   1  0    2   4   0   0   0   2   2/4
+Gustav Nyquist C
+14:50   1  0    2   2   1   0   0   3   0/0
+Ryan O'Reilly C
+16:47   1  1    1   1   1   2   1   5  7/15
+Colton Sissons C
+16:15   0  0    0   2   1   0   1   0  7/11
+Cole Smith L
+11:46   0  0    0   1   0   2   0   2   0/0
+Steven Stamkos C
+18:45   0  0    0   2   0   0   0   0   2/5
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  20:09   0  0    1   2   0   0   0   0   0/0Marc Del Gaizo D  15:51   0  0    0   3   0   0   2   2   0/0Roman Josi D  22:24   0  2    2   5   1   0   1   1   0/0Jeremy Lauzon D  19:57   0  0    0   2   2   0   0   1   0/0Luke Schenn D  14:54   0  0    0   1   2   5   0   0   0/0Brady Skjei D  19:37   0  1    3   4   1   4   1   0   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+20:09   0  0    1   2   0   0   0   0   0/0
+Marc Del Gaizo D
+15:51   0  0    0   3   0   0   2   2   0/0
+Roman Josi D
+22:24   0  2    2   5   1   0   1   1   0/0
+Jeremy Lauzon D
+19:57   0  0    0   2   2   0   0   1   0/0
+Luke Schenn D
+14:54   0  0    0   1   2   5   0   0   0/0
+Brady Skjei D
+19:37   0  1    3   4   1   4   1   0   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       42  11  13   7  20 34/60
+                                        56.7%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  59:56   0  33/33  24/24   6/6   3/3     0
+             1.000  1.000 1.000 1.000
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Juuse Saros G
+59:56   0  33/33  24/24   6/6   3/3     0
+             1.000  1.000 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

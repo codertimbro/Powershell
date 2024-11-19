@@ -1,0 +1,415 @@
+< Oct. 25 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Islanders3-2-2Final/OT4 - 3New Jersey
+Devils5-4-2
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+NYI   2  1  0  1    4  
+NJD   1  1  1  0    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:37 
+Brock Nelson (NYI) scores on wrist shot past Jake Allen, assisted by Adam Pelech and Kyle Palmieri
+   1-0
+P1  15:44 
+Jonas Siegenthaler (NJD) tripping against Kyle MacLean (2 minutes)
+   1-0
+P1  08:24 
+Nico Hischier (NJD) scores on snap shot past Ilya Sorokin, assisted by Jesper Bratt and Brenden Dillon
+   1-1
+P1  07:55 
+Brenden Dillon (NJD) slashing against Simon Holmstrom (2 minutes)
+   1-1
+P1  05:57 
+Anders Lee (NYI) scores power-play goal on wrist shot past Jake Allen, assisted by Noah Dobson and Jean-Gabriel Pageau
+   2-1
+2nd Period: ShowHide
+P2  17:05 
+Scott Mayfield (NYI) roughing against Kurtis MacDermid (2 minutes), served by Liam Foudy
+   2-1
+P2  17:05 
+Scott Mayfield (NYI) fighting against Kurtis MacDermid (5 minutes)
+   2-1
+P2  17:05 
+Kurtis MacDermid (NJD) fighting against Scott Mayfield (5 minutes)
+   2-1
+P2  14:29 
+Curtis Lazar (NJD) scores on snap shot past Ilya Sorokin, assisted by Paul Cotter and Jonas Siegenthaler
+   2-2
+P2  08:32 
+Kyle Palmieri (NYI) scores on tip-in past Jake Allen, assisted by Alexander Romanov and Brock Nelson
+   3-2
+P2  03:50 
+Jesper Bratt (NJD) interference against Adam Pelech (2 minutes)
+   3-2
+P2  01:04 
+Ryan Pulock (NYI) tripping against Jack Hughes (2 minutes)
+   3-2
+3rd Period: ShowHide
+P3  11:01 
+Dougie Hamilton (NJD) hooking against Kyle MacLean (2 minutes)
+   3-2
+P3  01:29 
+Jesper Bratt (NJD) scores goal with extra attacker on backhand shot past Ilya Sorokin
+   3-3
+Overtime: ShowHide
+OT  03:51 
+Bo Horvat (NYI) scores on snap shot past Jake Allen, assisted by Mathew Barzal and Ryan Pulock
+   4-3
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  20:27   0  1    0   4   2   0   0   0   0/0Casey Cizikas C  11:52   0  0   -1   0   1   0   0   0   1/2Liam Foudy C  07:02   0  0   -1   1   1   0   1   0   0/0Simon Holmstrom R  20:10   0  0   -1   0   1   0   0   0   0/0Bo Horvat C  19:33   1  0    0   2   1   0   0   0  9/12Anders Lee L  14:44   1  0    0   6   0   0   0   0   0/0Kyle MacLean C  08:26   0  0   -1   2   0   0   0   1   4/7Brock Nelson C  19:33   1  1    1   1   1   0   0   0  9/15Jean-Gabriel Pageau C  17:08   0  1    0   2   0   0   2   0 11/19Kyle Palmieri C  18:30   1  1    1   2   1   0   0   0   0/0Maxim Tsyplakov R  18:09   0  0    1   1   1   0   0   3   1/1Oliver Wahlstrom R  09:36   0  0    0   0   0   0   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  25:08   0  1   -1   4   2   0   0   1   0/0Scott Mayfield D  11:35   0  0   -2   0   2   7   1   1   0/0Adam Pelech D  21:45   0  1    1   3   1   0   0   0   0/0Ryan Pulock D  20:50   0  1    2   0   1   2   0   1   0/0Mike Reilly D  13:08   0  0   -1   1   0   0   0   1   0/0Alexander Romanov D  21:51   0  1    0   1   3   0   0   0   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  18   9   4   8 35/56
+                                        62.5%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  61:09   3  32/35  26/29   5/5   1/1     0
+              .914   .897 1.000 1.000 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJesper Bratt L  19:04   1  1    0   3   1   2   0   1   0/0Paul Cotter C  12:00   0  1    1   1   0   0   0   0   2/2Erik Haula L  15:57   0  0    0   2   1   0   0   1  6/13Nico Hischier C  21:19   1  0    1   3   2   0   1   1  7/27Jack Hughes C  23:49   0  0    0   5   0   0   1   0   3/8Curtis Lazar C  09:47   1  0    0   1   0   0   0   0   3/5Kurtis MacDermid L  02:24   0  0   -1   0   0   5   0   1   0/0Timo Meier R  18:29   0  0    1   2   0   0   1   1   0/0Dawson Mercer C  21:11   0  0    1   3   0   0   0   0   0/1Stefan Noesen R  14:09   0  0    1   1   0   0   0   1   0/0Ondrej Palat L  13:14   0  0   -1   1   2   0   2   1   0/0Tomas Tatar L  07:25   0  0    0   1   0   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  14:31   0  1    0   1   3   2   0   1   0/0Dougie Hamilton D  17:51   0  0    0   1   0   2   0   0   0/0Luke Hughes D  20:36   0  0   -1   3   1   0   0   3   0/0Johnathan Kovacevic D  20:58   0  0    1   3   1   0   1   2   0/0Brett Pesce D  23:53   0  0   -1   4   2   0   1   1   0/0Jonas Siegenthaler D  19:15   0  1    1   0   0   2   1   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       35  13  13   8  15 21/56
+                                        37.5%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  60:46   4  26/30  17/20   7/8   2/2     0
+              .867   .850  .875 1.000
+New York
+Islanders3-2-2Final/OT4 - 3New Jersey
+Devils5-4-2
+New York
+Islanders3-2-2
+Final/OT4 - 3
+New Jersey
+Devils5-4-2
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+NYI   2  1  0  1    4  
+NJD   1  1  1  0    3
+1st Period: ShowHide
+P1  18:37 
+Brock Nelson (NYI) scores on wrist shot past Jake Allen, assisted by Adam Pelech and Kyle Palmieri
+   1-0
+P1  15:44 
+Jonas Siegenthaler (NJD) tripping against Kyle MacLean (2 minutes)
+   1-0
+P1  08:24 
+Nico Hischier (NJD) scores on snap shot past Ilya Sorokin, assisted by Jesper Bratt and Brenden Dillon
+   1-1
+P1  07:55 
+Brenden Dillon (NJD) slashing against Simon Holmstrom (2 minutes)
+   1-1
+P1  05:57 
+Anders Lee (NYI) scores power-play goal on wrist shot past Jake Allen, assisted by Noah Dobson and Jean-Gabriel Pageau
+   2-1
+2nd Period: ShowHide
+P2  17:05 
+Scott Mayfield (NYI) roughing against Kurtis MacDermid (2 minutes), served by Liam Foudy
+   2-1
+P2  17:05 
+Scott Mayfield (NYI) fighting against Kurtis MacDermid (5 minutes)
+   2-1
+P2  17:05 
+Kurtis MacDermid (NJD) fighting against Scott Mayfield (5 minutes)
+   2-1
+P2  14:29 
+Curtis Lazar (NJD) scores on snap shot past Ilya Sorokin, assisted by Paul Cotter and Jonas Siegenthaler
+   2-2
+P2  08:32 
+Kyle Palmieri (NYI) scores on tip-in past Jake Allen, assisted by Alexander Romanov and Brock Nelson
+   3-2
+P2  03:50 
+Jesper Bratt (NJD) interference against Adam Pelech (2 minutes)
+   3-2
+P2  01:04 
+Ryan Pulock (NYI) tripping against Jack Hughes (2 minutes)
+   3-2
+3rd Period: ShowHide
+P3  11:01 
+Dougie Hamilton (NJD) hooking against Kyle MacLean (2 minutes)
+   3-2
+P3  01:29 
+Jesper Bratt (NJD) scores goal with extra attacker on backhand shot past Ilya Sorokin
+   3-3
+Overtime: ShowHide
+OT  03:51 
+Bo Horvat (NYI) scores on snap shot past Jake Allen, assisted by Mathew Barzal and Ryan Pulock
+   4-3
+1st Period: ShowHide
+P1  18:37 
+Brock Nelson (NYI) scores on wrist shot past Jake Allen, assisted by Adam Pelech and Kyle Palmieri
+   1-0
+P1  15:44 
+Jonas Siegenthaler (NJD) tripping against Kyle MacLean (2 minutes)
+   1-0
+P1  08:24 
+Nico Hischier (NJD) scores on snap shot past Ilya Sorokin, assisted by Jesper Bratt and Brenden Dillon
+   1-1
+P1  07:55 
+Brenden Dillon (NJD) slashing against Simon Holmstrom (2 minutes)
+   1-1
+P1  05:57 
+Anders Lee (NYI) scores power-play goal on wrist shot past Jake Allen, assisted by Noah Dobson and Jean-Gabriel Pageau
+   2-1
+P1  18:37 
+Brock Nelson (NYI) scores on wrist shot past Jake Allen, assisted by Adam Pelech and Kyle Palmieri
+   1-0
+P1  15:44 
+Jonas Siegenthaler (NJD) tripping against Kyle MacLean (2 minutes)
+   1-0
+P1  08:24 
+Nico Hischier (NJD) scores on snap shot past Ilya Sorokin, assisted by Jesper Bratt and Brenden Dillon
+   1-1
+P1  07:55 
+Brenden Dillon (NJD) slashing against Simon Holmstrom (2 minutes)
+   1-1
+P1  05:57 
+Anders Lee (NYI) scores power-play goal on wrist shot past Jake Allen, assisted by Noah Dobson and Jean-Gabriel Pageau
+   2-1
+P1  18:37
+Brock Nelson (NYI) scores on wrist shot past Jake Allen, assisted by Adam Pelech and Kyle Palmieri
+1-0
+P1  15:44
+Jonas Siegenthaler (NJD) tripping against Kyle MacLean (2 minutes)
+1-0
+P1  08:24
+Nico Hischier (NJD) scores on snap shot past Ilya Sorokin, assisted by Jesper Bratt and Brenden Dillon
+1-1
+P1  07:55
+Brenden Dillon (NJD) slashing against Simon Holmstrom (2 minutes)
+1-1
+P1  05:57
+Anders Lee (NYI) scores power-play goal on wrist shot past Jake Allen, assisted by Noah Dobson and Jean-Gabriel Pageau
+2-1
+2nd Period: ShowHide
+P2  17:05 
+Scott Mayfield (NYI) roughing against Kurtis MacDermid (2 minutes), served by Liam Foudy
+   2-1
+P2  17:05 
+Scott Mayfield (NYI) fighting against Kurtis MacDermid (5 minutes)
+   2-1
+P2  17:05 
+Kurtis MacDermid (NJD) fighting against Scott Mayfield (5 minutes)
+   2-1
+P2  14:29 
+Curtis Lazar (NJD) scores on snap shot past Ilya Sorokin, assisted by Paul Cotter and Jonas Siegenthaler
+   2-2
+P2  08:32 
+Kyle Palmieri (NYI) scores on tip-in past Jake Allen, assisted by Alexander Romanov and Brock Nelson
+   3-2
+P2  03:50 
+Jesper Bratt (NJD) interference against Adam Pelech (2 minutes)
+   3-2
+P2  01:04 
+Ryan Pulock (NYI) tripping against Jack Hughes (2 minutes)
+   3-2
+P2  17:05 
+Scott Mayfield (NYI) roughing against Kurtis MacDermid (2 minutes), served by Liam Foudy
+   2-1
+P2  17:05 
+Scott Mayfield (NYI) fighting against Kurtis MacDermid (5 minutes)
+   2-1
+P2  17:05 
+Kurtis MacDermid (NJD) fighting against Scott Mayfield (5 minutes)
+   2-1
+P2  14:29 
+Curtis Lazar (NJD) scores on snap shot past Ilya Sorokin, assisted by Paul Cotter and Jonas Siegenthaler
+   2-2
+P2  08:32 
+Kyle Palmieri (NYI) scores on tip-in past Jake Allen, assisted by Alexander Romanov and Brock Nelson
+   3-2
+P2  03:50 
+Jesper Bratt (NJD) interference against Adam Pelech (2 minutes)
+   3-2
+P2  01:04 
+Ryan Pulock (NYI) tripping against Jack Hughes (2 minutes)
+   3-2
+P2  17:05
+Scott Mayfield (NYI) roughing against Kurtis MacDermid (2 minutes), served by Liam Foudy
+2-1
+P2  17:05
+Scott Mayfield (NYI) fighting against Kurtis MacDermid (5 minutes)
+2-1
+P2  17:05
+Kurtis MacDermid (NJD) fighting against Scott Mayfield (5 minutes)
+2-1
+P2  14:29
+Curtis Lazar (NJD) scores on snap shot past Ilya Sorokin, assisted by Paul Cotter and Jonas Siegenthaler
+2-2
+P2  08:32
+Kyle Palmieri (NYI) scores on tip-in past Jake Allen, assisted by Alexander Romanov and Brock Nelson
+3-2
+P2  03:50
+Jesper Bratt (NJD) interference against Adam Pelech (2 minutes)
+3-2
+P2  01:04
+Ryan Pulock (NYI) tripping against Jack Hughes (2 minutes)
+3-2
+3rd Period: ShowHide
+P3  11:01 
+Dougie Hamilton (NJD) hooking against Kyle MacLean (2 minutes)
+   3-2
+P3  01:29 
+Jesper Bratt (NJD) scores goal with extra attacker on backhand shot past Ilya Sorokin
+   3-3
+P3  11:01 
+Dougie Hamilton (NJD) hooking against Kyle MacLean (2 minutes)
+   3-2
+P3  01:29 
+Jesper Bratt (NJD) scores goal with extra attacker on backhand shot past Ilya Sorokin
+   3-3
+P3  11:01
+Dougie Hamilton (NJD) hooking against Kyle MacLean (2 minutes)
+3-2
+P3  01:29
+Jesper Bratt (NJD) scores goal with extra attacker on backhand shot past Ilya Sorokin
+3-3
+Overtime: ShowHide
+OT  03:51 
+Bo Horvat (NYI) scores on snap shot past Jake Allen, assisted by Mathew Barzal and Ryan Pulock
+   4-3
+OT  03:51 
+Bo Horvat (NYI) scores on snap shot past Jake Allen, assisted by Mathew Barzal and Ryan Pulock
+   4-3
+OT  03:51
+Bo Horvat (NYI) scores on snap shot past Jake Allen, assisted by Mathew Barzal and Ryan Pulock
+4-3
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  20:27   0  1    0   4   2   0   0   0   0/0Casey Cizikas C  11:52   0  0   -1   0   1   0   0   0   1/2Liam Foudy C  07:02   0  0   -1   1   1   0   1   0   0/0Simon Holmstrom R  20:10   0  0   -1   0   1   0   0   0   0/0Bo Horvat C  19:33   1  0    0   2   1   0   0   0  9/12Anders Lee L  14:44   1  0    0   6   0   0   0   0   0/0Kyle MacLean C  08:26   0  0   -1   2   0   0   0   1   4/7Brock Nelson C  19:33   1  1    1   1   1   0   0   0  9/15Jean-Gabriel Pageau C  17:08   0  1    0   2   0   0   2   0 11/19Kyle Palmieri C  18:30   1  1    1   2   1   0   0   0   0/0Maxim Tsyplakov R  18:09   0  0    1   1   1   0   0   3   1/1Oliver Wahlstrom R  09:36   0  0    0   0   0   0   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  25:08   0  1   -1   4   2   0   0   1   0/0Scott Mayfield D  11:35   0  0   -2   0   2   7   1   1   0/0Adam Pelech D  21:45   0  1    1   3   1   0   0   0   0/0Ryan Pulock D  20:50   0  1    2   0   1   2   0   1   0/0Mike Reilly D  13:08   0  0   -1   1   0   0   0   1   0/0Alexander Romanov D  21:51   0  1    0   1   3   0   0   0   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  18   9   4   8 35/56
+                                        62.5%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  61:09   3  32/35  26/29   5/5   1/1     0
+              .914   .897 1.000 1.000 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJesper Bratt L  19:04   1  1    0   3   1   2   0   1   0/0Paul Cotter C  12:00   0  1    1   1   0   0   0   0   2/2Erik Haula L  15:57   0  0    0   2   1   0   0   1  6/13Nico Hischier C  21:19   1  0    1   3   2   0   1   1  7/27Jack Hughes C  23:49   0  0    0   5   0   0   1   0   3/8Curtis Lazar C  09:47   1  0    0   1   0   0   0   0   3/5Kurtis MacDermid L  02:24   0  0   -1   0   0   5   0   1   0/0Timo Meier R  18:29   0  0    1   2   0   0   1   1   0/0Dawson Mercer C  21:11   0  0    1   3   0   0   0   0   0/1Stefan Noesen R  14:09   0  0    1   1   0   0   0   1   0/0Ondrej Palat L  13:14   0  0   -1   1   2   0   2   1   0/0Tomas Tatar L  07:25   0  0    0   1   0   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  14:31   0  1    0   1   3   2   0   1   0/0Dougie Hamilton D  17:51   0  0    0   1   0   2   0   0   0/0Luke Hughes D  20:36   0  0   -1   3   1   0   0   3   0/0Johnathan Kovacevic D  20:58   0  0    1   3   1   0   1   2   0/0Brett Pesce D  23:53   0  0   -1   4   2   0   1   1   0/0Jonas Siegenthaler D  19:15   0  1    1   0   0   2   1   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       35  13  13   8  15 21/56
+                                        37.5%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  60:46   4  26/30  17/20   7/8   2/2     0
+              .867   .850  .875 1.000
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  20:27   0  1    0   4   2   0   0   0   0/0Casey Cizikas C  11:52   0  0   -1   0   1   0   0   0   1/2Liam Foudy C  07:02   0  0   -1   1   1   0   1   0   0/0Simon Holmstrom R  20:10   0  0   -1   0   1   0   0   0   0/0Bo Horvat C  19:33   1  0    0   2   1   0   0   0  9/12Anders Lee L  14:44   1  0    0   6   0   0   0   0   0/0Kyle MacLean C  08:26   0  0   -1   2   0   0   0   1   4/7Brock Nelson C  19:33   1  1    1   1   1   0   0   0  9/15Jean-Gabriel Pageau C  17:08   0  1    0   2   0   0   2   0 11/19Kyle Palmieri C  18:30   1  1    1   2   1   0   0   0   0/0Maxim Tsyplakov R  18:09   0  0    1   1   1   0   0   3   1/1Oliver Wahlstrom R  09:36   0  0    0   0   0   0   0   0   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Barzal C
+20:27   0  1    0   4   2   0   0   0   0/0
+Casey Cizikas C
+11:52   0  0   -1   0   1   0   0   0   1/2
+Liam Foudy C
+07:02   0  0   -1   1   1   0   1   0   0/0
+Simon Holmstrom R
+20:10   0  0   -1   0   1   0   0   0   0/0
+Bo Horvat C
+19:33   1  0    0   2   1   0   0   0  9/12
+Anders Lee L
+14:44   1  0    0   6   0   0   0   0   0/0
+Kyle MacLean C
+08:26   0  0   -1   2   0   0   0   1   4/7
+Brock Nelson C
+19:33   1  1    1   1   1   0   0   0  9/15
+Jean-Gabriel Pageau C
+17:08   0  1    0   2   0   0   2   0 11/19
+Kyle Palmieri C
+18:30   1  1    1   2   1   0   0   0   0/0
+Maxim Tsyplakov R
+18:09   0  0    1   1   1   0   0   3   1/1
+Oliver Wahlstrom R
+09:36   0  0    0   0   0   0   0   0   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  25:08   0  1   -1   4   2   0   0   1   0/0Scott Mayfield D  11:35   0  0   -2   0   2   7   1   1   0/0Adam Pelech D  21:45   0  1    1   3   1   0   0   0   0/0Ryan Pulock D  20:50   0  1    2   0   1   2   0   1   0/0Mike Reilly D  13:08   0  0   -1   1   0   0   0   1   0/0Alexander Romanov D  21:51   0  1    0   1   3   0   0   0   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Dobson D
+25:08   0  1   -1   4   2   0   0   1   0/0
+Scott Mayfield D
+11:35   0  0   -2   0   2   7   1   1   0/0
+Adam Pelech D
+21:45   0  1    1   3   1   0   0   0   0/0
+Ryan Pulock D
+20:50   0  1    2   0   1   2   0   1   0/0
+Mike Reilly D
+13:08   0  0   -1   1   0   0   0   1   0/0
+Alexander Romanov D
+21:51   0  1    0   1   3   0   0   0   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  18   9   4   8 35/56
+                                        62.5%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  61:09   3  32/35  26/29   5/5   1/1     0
+              .914   .897 1.000 1.000
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Sorokin G
+61:09   3  32/35  26/29   5/5   1/1     0
+              .914   .897 1.000 1.000
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJesper Bratt L  19:04   1  1    0   3   1   2   0   1   0/0Paul Cotter C  12:00   0  1    1   1   0   0   0   0   2/2Erik Haula L  15:57   0  0    0   2   1   0   0   1  6/13Nico Hischier C  21:19   1  0    1   3   2   0   1   1  7/27Jack Hughes C  23:49   0  0    0   5   0   0   1   0   3/8Curtis Lazar C  09:47   1  0    0   1   0   0   0   0   3/5Kurtis MacDermid L  02:24   0  0   -1   0   0   5   0   1   0/0Timo Meier R  18:29   0  0    1   2   0   0   1   1   0/0Dawson Mercer C  21:11   0  0    1   3   0   0   0   0   0/1Stefan Noesen R  14:09   0  0    1   1   0   0   0   1   0/0Ondrej Palat L  13:14   0  0   -1   1   2   0   2   1   0/0Tomas Tatar L  07:25   0  0    0   1   0   0   0   0   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jesper Bratt L
+19:04   1  1    0   3   1   2   0   1   0/0
+Paul Cotter C
+12:00   0  1    1   1   0   0   0   0   2/2
+Erik Haula L
+15:57   0  0    0   2   1   0   0   1  6/13
+Nico Hischier C
+21:19   1  0    1   3   2   0   1   1  7/27
+Jack Hughes C
+23:49   0  0    0   5   0   0   1   0   3/8
+Curtis Lazar C
+09:47   1  0    0   1   0   0   0   0   3/5
+Kurtis MacDermid L
+02:24   0  0   -1   0   0   5   0   1   0/0
+Timo Meier R
+18:29   0  0    1   2   0   0   1   1   0/0
+Dawson Mercer C
+21:11   0  0    1   3   0   0   0   0   0/1
+Stefan Noesen R
+14:09   0  0    1   1   0   0   0   1   0/0
+Ondrej Palat L
+13:14   0  0   -1   1   2   0   2   1   0/0
+Tomas Tatar L
+07:25   0  0    0   1   0   0   0   0   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  14:31   0  1    0   1   3   2   0   1   0/0Dougie Hamilton D  17:51   0  0    0   1   0   2   0   0   0/0Luke Hughes D  20:36   0  0   -1   3   1   0   0   3   0/0Johnathan Kovacevic D  20:58   0  0    1   3   1   0   1   2   0/0Brett Pesce D  23:53   0  0   -1   4   2   0   1   1   0/0Jonas Siegenthaler D  19:15   0  1    1   0   0   2   1   1   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brenden Dillon D
+14:31   0  1    0   1   3   2   0   1   0/0
+Dougie Hamilton D
+17:51   0  0    0   1   0   2   0   0   0/0
+Luke Hughes D
+20:36   0  0   -1   3   1   0   0   3   0/0
+Johnathan Kovacevic D
+20:58   0  0    1   3   1   0   1   2   0/0
+Brett Pesce D
+23:53   0  0   -1   4   2   0   1   1   0/0
+Jonas Siegenthaler D
+19:15   0  1    1   0   0   2   1   1   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       35  13  13   8  15 21/56
+                                        37.5%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  60:46   4  26/30  17/20   7/8   2/2     0
+              .867   .850  .875 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jake Allen G
+60:46   4  26/30  17/20   7/8   2/2     0
+              .867   .850  .875 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

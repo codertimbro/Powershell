@@ -1,0 +1,487 @@
+< Nov. 1 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Islanders4-5-2Final4 - 3Buffalo
+Sabres4-6-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NYI   1  2  1    4  
+BUF   1  0  2    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:56 
+Scott Mayfield (NYI) tripping against Beck Malenstyn (2 minutes)
+   0-0
+P1  11:04 
+Adam Pelech (NYI) high-sticking against Jordan Greenway (2 minutes)
+   0-0
+P1  10:57 
+Dylan Cozens (BUF) scores power-play goal on snap shot past Ilya Sorokin, assisted by Jason Zucker and Rasmus Dahlin
+   0-1
+P1  10:17 
+Bo Horvat (NYI) scores on backhand shot past Devon Levi, assisted by Anders Lee
+   1-1
+P1  03:34 
+Dylan Cozens (BUF) hooking against Noah Dobson (2 minutes)
+   1-1
+P1  00:00 
+Nicolas Aube-Kubel (BUF) roughing against Noah Dobson (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  18:48 
+Maxim Tsyplakov (NYI) slashing against Rasmus Dahlin (2 minutes)
+   1-1
+P2  17:12 
+Kyle MacLean (NYI) tripping against Rasmus Dahlin (2 minutes)
+   1-1
+P2  14:35 
+Maxim Tsyplakov (NYI) scores on wrist shot past Devon Levi
+   2-1
+P2  09:28 
+Bowen Byram (BUF) hooking against Maxim Tsyplakov (2 minutes)
+   2-1
+P2  07:40 
+Kyle Palmieri (NYI) scores power-play goal on snap shot past Devon Levi, assisted by Maxim Tsyplakov and Simon Holmstrom
+   3-1
+P2  03:40 
+Oliver Wahlstrom (NYI) fighting against Jason Zucker (5 minutes)
+   3-1
+P2  03:40 
+Jason Zucker (BUF) fighting against Oliver Wahlstrom (5 minutes)
+   3-1
+3rd Period: ShowHide
+P3  14:59 
+Scott Mayfield (NYI) slash on breakaway against Jason Zucker results in penalty shot
+   3-1
+P3  14:33 
+Jason Zucker (BUF) scores on tip-in past Ilya Sorokin, assisted by Tage Thompson and Bowen Byram
+   3-2
+P3  11:52 
+Jean-Gabriel Pageau (NYI) scores on poke past Devon Levi, assisted by Bo Horvat and Anders Lee
+   4-2
+P3  10:01 
+JJ Peterka (BUF) tripping against Scott Mayfield (2 minutes)
+   4-2
+P3  06:15 
+Jean-Gabriel Pageau (NYI) cross-checking against Sam Lafferty (2 minutes)
+   4-2
+P3  06:15 
+Sam Lafferty (BUF) roughing against Jean-Gabriel Pageau (2 minutes)
+   4-2
+P3  01:01 
+Owen Power (BUF) scores goal with extra attacker on wrist shot past Ilya Sorokin, assisted by Ryan McLeod and Bowen Byram
+   4-3
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCasey Cizikas C  13:47   0  0   -2   2   1   0   0   0   4/9Pierre Engvall L  10:31   0  0   -1   1   0   0   0   0   0/0Hudson Fasching R  06:41   0  0    0   0   0   0   0   0   0/0Simon Holmstrom R  13:53   0  1   -1   1   2   0   2   0   0/1Bo Horvat C  20:54   1  1    2   8   0   0   0   3 10/15Anders Lee L  19:14   0  2    1   5   2   0   0   0   0/0Kyle MacLean C  11:56   0  0   -1   0   0   2   0   0  3/10Brock Nelson C  17:24   0  0    1   3   0   0   0   0 10/12Jean-Gabriel Pageau C  21:28   1  0    2   3   5   2   0   2   4/9Kyle Palmieri C  17:06   1  0    0   3   0   0   1   0   0/0Maxim Tsyplakov R  15:01   1  1    2   2   1   2   0   0   0/1Oliver Wahlstrom R  10:18   0  0    0   1   0   5   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  24:55   0  0    1   3   2   0   0   1   0/0Scott Mayfield D  21:27   0  0    0   0   2   2   0   0   0/0Adam Pelech D  10:41   0  0    0   3   2   2   0   0   0/0Ryan Pulock D  25:21   0  0    0   1   4   0   0   1   0/0Mike Reilly D  07:24   0  0    0   0   0   0   0   1   0/0Alexander Romanov D  23:52   0  0    1   0   2   0   0   4   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       36  23  15   3  12 31/57
+                                        54.4%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  60:00   3  32/35  28/30   4/5   0/0     0
+              .914   .933  .800 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Aube-Kubel R  06:09   0  0    0   0   0   2   0   1   0/0Dylan Cozens C  19:14   1  0   -1   1   0   2   0   0  5/16Jordan Greenway L  16:22   0  0    0   1   0   0   1   0   0/0Peyton Krebs C  13:00   0  0   -1   0   1   0   0   1  5/10Sam Lafferty C  06:44   0  0   -1   0   0   2   0   0   0/1Beck Malenstyn L  05:31   0  0    0   0   1   0   0   0   0/0Ryan McLeod C  16:22   0  1    0   0   0   0   0   0   3/4JJ Peterka R  22:41   0  0   -1   4   0   2   0   0   0/0Jack Quinn R  13:42   0  0    0   4   0   0   0   0   0/0Tage Thompson C  21:50   0  1    1   1   1   0   1   1 10/20Alex Tuch R  24:38   0  0    1   2   1   0   0   0   2/4Jason Zucker L  13:54   1  1    0   2   0   5   0   0   1/2Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  21:49   0  2    1   3   0   2   0   0   0/0Connor Clifton D  14:07   0  0   -2   2   2   0   0   3   0/0Rasmus Dahlin D  24:59   0  1    0   5   2   0   0   0   0/0Henri Jokiharju D  17:30   0  0    0   3   0   0   1   3   0/0Owen Power D  19:19   1  0    1   6   1   0   1   0   0/0Mattias Samuelsson D  16:15   0  0   -2   1   0   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       35   9  15   4   9 26/57
+                                        45.6%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  56:06   4  32/36  20/23 12/13   0/0     0
+              .889   .870  .923
+New York
+Islanders4-5-2Final4 - 3Buffalo
+Sabres4-6-1
+New York
+Islanders4-5-2
+Final4 - 3
+Buffalo
+Sabres4-6-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NYI   1  2  1    4  
+BUF   1  0  2    3
+1st Period: ShowHide
+P1  13:56 
+Scott Mayfield (NYI) tripping against Beck Malenstyn (2 minutes)
+   0-0
+P1  11:04 
+Adam Pelech (NYI) high-sticking against Jordan Greenway (2 minutes)
+   0-0
+P1  10:57 
+Dylan Cozens (BUF) scores power-play goal on snap shot past Ilya Sorokin, assisted by Jason Zucker and Rasmus Dahlin
+   0-1
+P1  10:17 
+Bo Horvat (NYI) scores on backhand shot past Devon Levi, assisted by Anders Lee
+   1-1
+P1  03:34 
+Dylan Cozens (BUF) hooking against Noah Dobson (2 minutes)
+   1-1
+P1  00:00 
+Nicolas Aube-Kubel (BUF) roughing against Noah Dobson (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  18:48 
+Maxim Tsyplakov (NYI) slashing against Rasmus Dahlin (2 minutes)
+   1-1
+P2  17:12 
+Kyle MacLean (NYI) tripping against Rasmus Dahlin (2 minutes)
+   1-1
+P2  14:35 
+Maxim Tsyplakov (NYI) scores on wrist shot past Devon Levi
+   2-1
+P2  09:28 
+Bowen Byram (BUF) hooking against Maxim Tsyplakov (2 minutes)
+   2-1
+P2  07:40 
+Kyle Palmieri (NYI) scores power-play goal on snap shot past Devon Levi, assisted by Maxim Tsyplakov and Simon Holmstrom
+   3-1
+P2  03:40 
+Oliver Wahlstrom (NYI) fighting against Jason Zucker (5 minutes)
+   3-1
+P2  03:40 
+Jason Zucker (BUF) fighting against Oliver Wahlstrom (5 minutes)
+   3-1
+3rd Period: ShowHide
+P3  14:59 
+Scott Mayfield (NYI) slash on breakaway against Jason Zucker results in penalty shot
+   3-1
+P3  14:33 
+Jason Zucker (BUF) scores on tip-in past Ilya Sorokin, assisted by Tage Thompson and Bowen Byram
+   3-2
+P3  11:52 
+Jean-Gabriel Pageau (NYI) scores on poke past Devon Levi, assisted by Bo Horvat and Anders Lee
+   4-2
+P3  10:01 
+JJ Peterka (BUF) tripping against Scott Mayfield (2 minutes)
+   4-2
+P3  06:15 
+Jean-Gabriel Pageau (NYI) cross-checking against Sam Lafferty (2 minutes)
+   4-2
+P3  06:15 
+Sam Lafferty (BUF) roughing against Jean-Gabriel Pageau (2 minutes)
+   4-2
+P3  01:01 
+Owen Power (BUF) scores goal with extra attacker on wrist shot past Ilya Sorokin, assisted by Ryan McLeod and Bowen Byram
+   4-3
+1st Period: ShowHide
+P1  13:56 
+Scott Mayfield (NYI) tripping against Beck Malenstyn (2 minutes)
+   0-0
+P1  11:04 
+Adam Pelech (NYI) high-sticking against Jordan Greenway (2 minutes)
+   0-0
+P1  10:57 
+Dylan Cozens (BUF) scores power-play goal on snap shot past Ilya Sorokin, assisted by Jason Zucker and Rasmus Dahlin
+   0-1
+P1  10:17 
+Bo Horvat (NYI) scores on backhand shot past Devon Levi, assisted by Anders Lee
+   1-1
+P1  03:34 
+Dylan Cozens (BUF) hooking against Noah Dobson (2 minutes)
+   1-1
+P1  00:00 
+Nicolas Aube-Kubel (BUF) roughing against Noah Dobson (2 minutes)
+   1-1
+P1  13:56 
+Scott Mayfield (NYI) tripping against Beck Malenstyn (2 minutes)
+   0-0
+P1  11:04 
+Adam Pelech (NYI) high-sticking against Jordan Greenway (2 minutes)
+   0-0
+P1  10:57 
+Dylan Cozens (BUF) scores power-play goal on snap shot past Ilya Sorokin, assisted by Jason Zucker and Rasmus Dahlin
+   0-1
+P1  10:17 
+Bo Horvat (NYI) scores on backhand shot past Devon Levi, assisted by Anders Lee
+   1-1
+P1  03:34 
+Dylan Cozens (BUF) hooking against Noah Dobson (2 minutes)
+   1-1
+P1  00:00 
+Nicolas Aube-Kubel (BUF) roughing against Noah Dobson (2 minutes)
+   1-1
+P1  13:56
+Scott Mayfield (NYI) tripping against Beck Malenstyn (2 minutes)
+0-0
+P1  11:04
+Adam Pelech (NYI) high-sticking against Jordan Greenway (2 minutes)
+0-0
+P1  10:57
+Dylan Cozens (BUF) scores power-play goal on snap shot past Ilya Sorokin, assisted by Jason Zucker and Rasmus Dahlin
+0-1
+P1  10:17
+Bo Horvat (NYI) scores on backhand shot past Devon Levi, assisted by Anders Lee
+1-1
+P1  03:34
+Dylan Cozens (BUF) hooking against Noah Dobson (2 minutes)
+1-1
+P1  00:00
+Nicolas Aube-Kubel (BUF) roughing against Noah Dobson (2 minutes)
+1-1
+2nd Period: ShowHide
+P2  18:48 
+Maxim Tsyplakov (NYI) slashing against Rasmus Dahlin (2 minutes)
+   1-1
+P2  17:12 
+Kyle MacLean (NYI) tripping against Rasmus Dahlin (2 minutes)
+   1-1
+P2  14:35 
+Maxim Tsyplakov (NYI) scores on wrist shot past Devon Levi
+   2-1
+P2  09:28 
+Bowen Byram (BUF) hooking against Maxim Tsyplakov (2 minutes)
+   2-1
+P2  07:40 
+Kyle Palmieri (NYI) scores power-play goal on snap shot past Devon Levi, assisted by Maxim Tsyplakov and Simon Holmstrom
+   3-1
+P2  03:40 
+Oliver Wahlstrom (NYI) fighting against Jason Zucker (5 minutes)
+   3-1
+P2  03:40 
+Jason Zucker (BUF) fighting against Oliver Wahlstrom (5 minutes)
+   3-1
+P2  18:48 
+Maxim Tsyplakov (NYI) slashing against Rasmus Dahlin (2 minutes)
+   1-1
+P2  17:12 
+Kyle MacLean (NYI) tripping against Rasmus Dahlin (2 minutes)
+   1-1
+P2  14:35 
+Maxim Tsyplakov (NYI) scores on wrist shot past Devon Levi
+   2-1
+P2  09:28 
+Bowen Byram (BUF) hooking against Maxim Tsyplakov (2 minutes)
+   2-1
+P2  07:40 
+Kyle Palmieri (NYI) scores power-play goal on snap shot past Devon Levi, assisted by Maxim Tsyplakov and Simon Holmstrom
+   3-1
+P2  03:40 
+Oliver Wahlstrom (NYI) fighting against Jason Zucker (5 minutes)
+   3-1
+P2  03:40 
+Jason Zucker (BUF) fighting against Oliver Wahlstrom (5 minutes)
+   3-1
+P2  18:48
+Maxim Tsyplakov (NYI) slashing against Rasmus Dahlin (2 minutes)
+1-1
+P2  17:12
+Kyle MacLean (NYI) tripping against Rasmus Dahlin (2 minutes)
+1-1
+P2  14:35
+Maxim Tsyplakov (NYI) scores on wrist shot past Devon Levi
+2-1
+P2  09:28
+Bowen Byram (BUF) hooking against Maxim Tsyplakov (2 minutes)
+2-1
+P2  07:40
+Kyle Palmieri (NYI) scores power-play goal on snap shot past Devon Levi, assisted by Maxim Tsyplakov and Simon Holmstrom
+3-1
+P2  03:40
+Oliver Wahlstrom (NYI) fighting against Jason Zucker (5 minutes)
+3-1
+P2  03:40
+Jason Zucker (BUF) fighting against Oliver Wahlstrom (5 minutes)
+3-1
+3rd Period: ShowHide
+P3  14:59 
+Scott Mayfield (NYI) slash on breakaway against Jason Zucker results in penalty shot
+   3-1
+P3  14:33 
+Jason Zucker (BUF) scores on tip-in past Ilya Sorokin, assisted by Tage Thompson and Bowen Byram
+   3-2
+P3  11:52 
+Jean-Gabriel Pageau (NYI) scores on poke past Devon Levi, assisted by Bo Horvat and Anders Lee
+   4-2
+P3  10:01 
+JJ Peterka (BUF) tripping against Scott Mayfield (2 minutes)
+   4-2
+P3  06:15 
+Jean-Gabriel Pageau (NYI) cross-checking against Sam Lafferty (2 minutes)
+   4-2
+P3  06:15 
+Sam Lafferty (BUF) roughing against Jean-Gabriel Pageau (2 minutes)
+   4-2
+P3  01:01 
+Owen Power (BUF) scores goal with extra attacker on wrist shot past Ilya Sorokin, assisted by Ryan McLeod and Bowen Byram
+   4-3
+P3  14:59 
+Scott Mayfield (NYI) slash on breakaway against Jason Zucker results in penalty shot
+   3-1
+P3  14:33 
+Jason Zucker (BUF) scores on tip-in past Ilya Sorokin, assisted by Tage Thompson and Bowen Byram
+   3-2
+P3  11:52 
+Jean-Gabriel Pageau (NYI) scores on poke past Devon Levi, assisted by Bo Horvat and Anders Lee
+   4-2
+P3  10:01 
+JJ Peterka (BUF) tripping against Scott Mayfield (2 minutes)
+   4-2
+P3  06:15 
+Jean-Gabriel Pageau (NYI) cross-checking against Sam Lafferty (2 minutes)
+   4-2
+P3  06:15 
+Sam Lafferty (BUF) roughing against Jean-Gabriel Pageau (2 minutes)
+   4-2
+P3  01:01 
+Owen Power (BUF) scores goal with extra attacker on wrist shot past Ilya Sorokin, assisted by Ryan McLeod and Bowen Byram
+   4-3
+P3  14:59
+Scott Mayfield (NYI) slash on breakaway against Jason Zucker results in penalty shot
+3-1
+P3  14:33
+Jason Zucker (BUF) scores on tip-in past Ilya Sorokin, assisted by Tage Thompson and Bowen Byram
+3-2
+P3  11:52
+Jean-Gabriel Pageau (NYI) scores on poke past Devon Levi, assisted by Bo Horvat and Anders Lee
+4-2
+P3  10:01
+JJ Peterka (BUF) tripping against Scott Mayfield (2 minutes)
+4-2
+P3  06:15
+Jean-Gabriel Pageau (NYI) cross-checking against Sam Lafferty (2 minutes)
+4-2
+P3  06:15
+Sam Lafferty (BUF) roughing against Jean-Gabriel Pageau (2 minutes)
+4-2
+P3  01:01
+Owen Power (BUF) scores goal with extra attacker on wrist shot past Ilya Sorokin, assisted by Ryan McLeod and Bowen Byram
+4-3
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCasey Cizikas C  13:47   0  0   -2   2   1   0   0   0   4/9Pierre Engvall L  10:31   0  0   -1   1   0   0   0   0   0/0Hudson Fasching R  06:41   0  0    0   0   0   0   0   0   0/0Simon Holmstrom R  13:53   0  1   -1   1   2   0   2   0   0/1Bo Horvat C  20:54   1  1    2   8   0   0   0   3 10/15Anders Lee L  19:14   0  2    1   5   2   0   0   0   0/0Kyle MacLean C  11:56   0  0   -1   0   0   2   0   0  3/10Brock Nelson C  17:24   0  0    1   3   0   0   0   0 10/12Jean-Gabriel Pageau C  21:28   1  0    2   3   5   2   0   2   4/9Kyle Palmieri C  17:06   1  0    0   3   0   0   1   0   0/0Maxim Tsyplakov R  15:01   1  1    2   2   1   2   0   0   0/1Oliver Wahlstrom R  10:18   0  0    0   1   0   5   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  24:55   0  0    1   3   2   0   0   1   0/0Scott Mayfield D  21:27   0  0    0   0   2   2   0   0   0/0Adam Pelech D  10:41   0  0    0   3   2   2   0   0   0/0Ryan Pulock D  25:21   0  0    0   1   4   0   0   1   0/0Mike Reilly D  07:24   0  0    0   0   0   0   0   1   0/0Alexander Romanov D  23:52   0  0    1   0   2   0   0   4   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       36  23  15   3  12 31/57
+                                        54.4%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  60:00   3  32/35  28/30   4/5   0/0     0
+              .914   .933  .800 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Aube-Kubel R  06:09   0  0    0   0   0   2   0   1   0/0Dylan Cozens C  19:14   1  0   -1   1   0   2   0   0  5/16Jordan Greenway L  16:22   0  0    0   1   0   0   1   0   0/0Peyton Krebs C  13:00   0  0   -1   0   1   0   0   1  5/10Sam Lafferty C  06:44   0  0   -1   0   0   2   0   0   0/1Beck Malenstyn L  05:31   0  0    0   0   1   0   0   0   0/0Ryan McLeod C  16:22   0  1    0   0   0   0   0   0   3/4JJ Peterka R  22:41   0  0   -1   4   0   2   0   0   0/0Jack Quinn R  13:42   0  0    0   4   0   0   0   0   0/0Tage Thompson C  21:50   0  1    1   1   1   0   1   1 10/20Alex Tuch R  24:38   0  0    1   2   1   0   0   0   2/4Jason Zucker L  13:54   1  1    0   2   0   5   0   0   1/2Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  21:49   0  2    1   3   0   2   0   0   0/0Connor Clifton D  14:07   0  0   -2   2   2   0   0   3   0/0Rasmus Dahlin D  24:59   0  1    0   5   2   0   0   0   0/0Henri Jokiharju D  17:30   0  0    0   3   0   0   1   3   0/0Owen Power D  19:19   1  0    1   6   1   0   1   0   0/0Mattias Samuelsson D  16:15   0  0   -2   1   0   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       35   9  15   4   9 26/57
+                                        45.6%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  56:06   4  32/36  20/23 12/13   0/0     0
+              .889   .870  .923
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCasey Cizikas C  13:47   0  0   -2   2   1   0   0   0   4/9Pierre Engvall L  10:31   0  0   -1   1   0   0   0   0   0/0Hudson Fasching R  06:41   0  0    0   0   0   0   0   0   0/0Simon Holmstrom R  13:53   0  1   -1   1   2   0   2   0   0/1Bo Horvat C  20:54   1  1    2   8   0   0   0   3 10/15Anders Lee L  19:14   0  2    1   5   2   0   0   0   0/0Kyle MacLean C  11:56   0  0   -1   0   0   2   0   0  3/10Brock Nelson C  17:24   0  0    1   3   0   0   0   0 10/12Jean-Gabriel Pageau C  21:28   1  0    2   3   5   2   0   2   4/9Kyle Palmieri C  17:06   1  0    0   3   0   0   1   0   0/0Maxim Tsyplakov R  15:01   1  1    2   2   1   2   0   0   0/1Oliver Wahlstrom R  10:18   0  0    0   1   0   5   0   0   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Casey Cizikas C
+13:47   0  0   -2   2   1   0   0   0   4/9
+Pierre Engvall L
+10:31   0  0   -1   1   0   0   0   0   0/0
+Hudson Fasching R
+06:41   0  0    0   0   0   0   0   0   0/0
+Simon Holmstrom R
+13:53   0  1   -1   1   2   0   2   0   0/1
+Bo Horvat C
+20:54   1  1    2   8   0   0   0   3 10/15
+Anders Lee L
+19:14   0  2    1   5   2   0   0   0   0/0
+Kyle MacLean C
+11:56   0  0   -1   0   0   2   0   0  3/10
+Brock Nelson C
+17:24   0  0    1   3   0   0   0   0 10/12
+Jean-Gabriel Pageau C
+21:28   1  0    2   3   5   2   0   2   4/9
+Kyle Palmieri C
+17:06   1  0    0   3   0   0   1   0   0/0
+Maxim Tsyplakov R
+15:01   1  1    2   2   1   2   0   0   0/1
+Oliver Wahlstrom R
+10:18   0  0    0   1   0   5   0   0   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  24:55   0  0    1   3   2   0   0   1   0/0Scott Mayfield D  21:27   0  0    0   0   2   2   0   0   0/0Adam Pelech D  10:41   0  0    0   3   2   2   0   0   0/0Ryan Pulock D  25:21   0  0    0   1   4   0   0   1   0/0Mike Reilly D  07:24   0  0    0   0   0   0   0   1   0/0Alexander Romanov D  23:52   0  0    1   0   2   0   0   4   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Dobson D
+24:55   0  0    1   3   2   0   0   1   0/0
+Scott Mayfield D
+21:27   0  0    0   0   2   2   0   0   0/0
+Adam Pelech D
+10:41   0  0    0   3   2   2   0   0   0/0
+Ryan Pulock D
+25:21   0  0    0   1   4   0   0   1   0/0
+Mike Reilly D
+07:24   0  0    0   0   0   0   0   1   0/0
+Alexander Romanov D
+23:52   0  0    1   0   2   0   0   4   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       36  23  15   3  12 31/57
+                                        54.4%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  60:00   3  32/35  28/30   4/5   0/0     0
+              .914   .933  .800
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Sorokin G
+60:00   3  32/35  28/30   4/5   0/0     0
+              .914   .933  .800
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Aube-Kubel R  06:09   0  0    0   0   0   2   0   1   0/0Dylan Cozens C  19:14   1  0   -1   1   0   2   0   0  5/16Jordan Greenway L  16:22   0  0    0   1   0   0   1   0   0/0Peyton Krebs C  13:00   0  0   -1   0   1   0   0   1  5/10Sam Lafferty C  06:44   0  0   -1   0   0   2   0   0   0/1Beck Malenstyn L  05:31   0  0    0   0   1   0   0   0   0/0Ryan McLeod C  16:22   0  1    0   0   0   0   0   0   3/4JJ Peterka R  22:41   0  0   -1   4   0   2   0   0   0/0Jack Quinn R  13:42   0  0    0   4   0   0   0   0   0/0Tage Thompson C  21:50   0  1    1   1   1   0   1   1 10/20Alex Tuch R  24:38   0  0    1   2   1   0   0   0   2/4Jason Zucker L  13:54   1  1    0   2   0   5   0   0   1/2
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Aube-Kubel R
+06:09   0  0    0   0   0   2   0   1   0/0
+Dylan Cozens C
+19:14   1  0   -1   1   0   2   0   0  5/16
+Jordan Greenway L
+16:22   0  0    0   1   0   0   1   0   0/0
+Peyton Krebs C
+13:00   0  0   -1   0   1   0   0   1  5/10
+Sam Lafferty C
+06:44   0  0   -1   0   0   2   0   0   0/1
+Beck Malenstyn L
+05:31   0  0    0   0   1   0   0   0   0/0
+Ryan McLeod C
+16:22   0  1    0   0   0   0   0   0   3/4
+JJ Peterka R
+22:41   0  0   -1   4   0   2   0   0   0/0
+Jack Quinn R
+13:42   0  0    0   4   0   0   0   0   0/0
+Tage Thompson C
+21:50   0  1    1   1   1   0   1   1 10/20
+Alex Tuch R
+24:38   0  0    1   2   1   0   0   0   2/4
+Jason Zucker L
+13:54   1  1    0   2   0   5   0   0   1/2
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  21:49   0  2    1   3   0   2   0   0   0/0Connor Clifton D  14:07   0  0   -2   2   2   0   0   3   0/0Rasmus Dahlin D  24:59   0  1    0   5   2   0   0   0   0/0Henri Jokiharju D  17:30   0  0    0   3   0   0   1   3   0/0Owen Power D  19:19   1  0    1   6   1   0   1   0   0/0Mattias Samuelsson D  16:15   0  0   -2   1   0   0   0   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bowen Byram D
+21:49   0  2    1   3   0   2   0   0   0/0
+Connor Clifton D
+14:07   0  0   -2   2   2   0   0   3   0/0
+Rasmus Dahlin D
+24:59   0  1    0   5   2   0   0   0   0/0
+Henri Jokiharju D
+17:30   0  0    0   3   0   0   1   3   0/0
+Owen Power D
+19:19   1  0    1   6   1   0   1   0   0/0
+Mattias Samuelsson D
+16:15   0  0   -2   1   0   0   0   0   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       35   9  15   4   9 26/57
+                                        45.6%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  56:06   4  32/36  20/23 12/13   0/0     0
+              .889   .870  .923
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Devon Levi G
+56:06   4  32/36  20/23 12/13   0/0     0
+              .889   .870  .923
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,427 @@
+< Oct. 28 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Edmonton
+Oilers4-5-1Final1 - 6Columbus
+Blue Jackets4-3-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+EDM   0  0  1    1  
+CBJ   3  1  2    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:24 
+Viktor Arvidsson (EDM) tripping against Elvis Merzlikins (2 minutes)
+   0-0
+P1  17:42 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Stuart Skinner, assisted by Kirill Marchenko and Zach Werenski
+   0-1
+P1  09:16 
+Adam Fantilli (CBJ) scores on snap shot past Stuart Skinner, assisted by Cole Sillinger
+   0-2
+P1  05:28 
+Cole Sillinger (CBJ) scores on wrist shot past Stuart Skinner
+   0-3
+P1  03:38 
+CBJ penalty, too many men on the ice (2 minutes), served by Kirill Marchenko
+   0-3
+P1  02:17 
+Damon Severson (CBJ) holding the stick against Zach Hyman (2 minutes)
+   0-3
+P1  01:16 
+Zach Hyman (EDM) holding against Kirill Marchenko (2 minutes)
+   0-3
+2nd Period: ShowHide
+P2  17:44 
+Derek Ryan (EDM) high-sticking against Adam Fantilli (4 minutes)
+   0-3
+P2  12:56 
+Mathieu Olivier (CBJ) scores on backhand shot past Stuart Skinner, assisted by James van Riemsdyk
+   0-4
+P2  12:44 
+Ivan Provorov (CBJ) high-sticking against Jeff Skinner (2 minutes)
+   0-4
+P2  08:05 
+Cole Sillinger (CBJ) tripping against Evan Bouchard (2 minutes)
+   0-4
+P2  03:12 
+Sean Kuraly (CBJ) tripping against Jeff Skinner (2 minutes)
+   0-4
+3rd Period: ShowHide
+P3  04:45 
+Mikael Pyyhtia (CBJ) scores on snap shot past Stuart Skinner, assisted by Adam Fantilli and Cole Sillinger
+   0-5
+P3  03:21 
+Sean Monahan (CBJ) scores on snap shot past Stuart Skinner, assisted by Yegor Chinakhov and Kirill Marchenko
+   0-6
+P3  00:50 
+Jake Christiansen (CBJ) cross-checking against Ryan Nugent-Hopkins (2 minutes)
+   0-6
+P3  00:27 
+Mattias Ekholm (EDM) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Darnell Nurse and Corey Perry
+   1-6
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:55   0  0   -3   3   1   2   0   1   2/2Connor Brown R  15:03   0  0    0   2   0   0   0   0   0/0Leon Draisaitl C  19:32   0  0   -1   0   0   0   1   1 10/18Adam Henrique C  17:24   0  0   -1   1   1   0   0   2  9/15Zach Hyman L  18:16   0  0    0   3   2   2   1   1   0/0Mattias Janmark C  18:23   0  0   -2   0   0   0   0   2   1/1Connor McDavid C  00:37   0  0    0   0   0   0   0   0   1/1Ryan Nugent-Hopkins C  20:42   0  0    0   1   0   0   0   1   3/7Corey Perry R  11:52   0  1   -2   2   0   0   0   0   0/0Vasily Podkolzin R  13:34   0  0   -2   2   0   0   0   0   0/0Derek Ryan C  11:19   0  0   -3   0   1   4   0   1   7/9Jeff Skinner L  14:40   0  0   -1   3   0   0   0   1   1/2Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  20:29   0  0   -2   4   2   0   0   1   0/0Mattias Ekholm D  24:00   1  0   -3   2   0   0   0   2   0/0Ty Emberson D  15:29   0  0   -2   0   0   0   0   2   0/0Brett Kulak D  18:12   0  0   -2   1   0   0   1   0   0/0Darnell Nurse D  23:35   0  1   -1   6   2   0   1   1   0/0Troy Stecher D  13:16   0  0    0   2   1   0   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  10   8   4  17 34/55
+                                        61.8%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  60:00   6  19/25  15/20   2/3   2/2     0
+              .760   .750  .667 1.000 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  13:49   0  0    0   1   0   0   0   0   0/1Yegor Chinakhov R  17:16   0  1    1   1   1   0   0   1   0/0Justin Danforth R  17:17   0  0    0   5   0   0   1   0  4/13Adam Fantilli C  10:37   1  1    3   1   0   0   0   1   4/9Sean Kuraly C  13:13   0  0    1   0   0   2   0   1  6/12Kevin Labanc R  11:13   0  0    0   1   2   0   0   0   0/0Kirill Marchenko R  17:40   0  2    1   0   0   0   1   2   0/0Sean Monahan C  17:13   2  0    1   3   1   0   0   0  4/13Mathieu Olivier R  14:12   1  0    1   2   2   0   1   0   0/0Mikael Pyyhtia L  10:42   1  0    3   2   0   0   0   2   0/0Cole Sillinger C  16:33   1  2    3   2   0   2   0   0   3/6James van Riemsdyk L  12:57   0  1    1   1   0   0   0   0   0/1Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:41   0  0    1   1   1   2   0   0   0/0Jordan Harris D  14:05   0  0    1   0   4   0   0   1   0/0Jack Johnson D  16:28   0  0    2   1   1   0   1   3   0/0Ivan Provorov D  25:36   0  0    2   0   1   2   0   2   0/0Damon Severson D  24:45   0  0    2   1   0   2   0   1   0/0Zach Werenski D  20:20   0  1    2   3   1   0   0   2   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       25  14  10   4  16 21/55
+                                        38.2%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  60:00   1  31/32  21/21   7/8   3/3     0
+              .969  1.000  .875 1.000
+Edmonton
+Oilers4-5-1Final1 - 6Columbus
+Blue Jackets4-3-1
+Edmonton
+Oilers4-5-1
+Final1 - 6
+Columbus
+Blue Jackets4-3-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+EDM   0  0  1    1  
+CBJ   3  1  2    6
+1st Period: ShowHide
+P1  18:24 
+Viktor Arvidsson (EDM) tripping against Elvis Merzlikins (2 minutes)
+   0-0
+P1  17:42 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Stuart Skinner, assisted by Kirill Marchenko and Zach Werenski
+   0-1
+P1  09:16 
+Adam Fantilli (CBJ) scores on snap shot past Stuart Skinner, assisted by Cole Sillinger
+   0-2
+P1  05:28 
+Cole Sillinger (CBJ) scores on wrist shot past Stuart Skinner
+   0-3
+P1  03:38 
+CBJ penalty, too many men on the ice (2 minutes), served by Kirill Marchenko
+   0-3
+P1  02:17 
+Damon Severson (CBJ) holding the stick against Zach Hyman (2 minutes)
+   0-3
+P1  01:16 
+Zach Hyman (EDM) holding against Kirill Marchenko (2 minutes)
+   0-3
+2nd Period: ShowHide
+P2  17:44 
+Derek Ryan (EDM) high-sticking against Adam Fantilli (4 minutes)
+   0-3
+P2  12:56 
+Mathieu Olivier (CBJ) scores on backhand shot past Stuart Skinner, assisted by James van Riemsdyk
+   0-4
+P2  12:44 
+Ivan Provorov (CBJ) high-sticking against Jeff Skinner (2 minutes)
+   0-4
+P2  08:05 
+Cole Sillinger (CBJ) tripping against Evan Bouchard (2 minutes)
+   0-4
+P2  03:12 
+Sean Kuraly (CBJ) tripping against Jeff Skinner (2 minutes)
+   0-4
+3rd Period: ShowHide
+P3  04:45 
+Mikael Pyyhtia (CBJ) scores on snap shot past Stuart Skinner, assisted by Adam Fantilli and Cole Sillinger
+   0-5
+P3  03:21 
+Sean Monahan (CBJ) scores on snap shot past Stuart Skinner, assisted by Yegor Chinakhov and Kirill Marchenko
+   0-6
+P3  00:50 
+Jake Christiansen (CBJ) cross-checking against Ryan Nugent-Hopkins (2 minutes)
+   0-6
+P3  00:27 
+Mattias Ekholm (EDM) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Darnell Nurse and Corey Perry
+   1-6
+1st Period: ShowHide
+P1  18:24 
+Viktor Arvidsson (EDM) tripping against Elvis Merzlikins (2 minutes)
+   0-0
+P1  17:42 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Stuart Skinner, assisted by Kirill Marchenko and Zach Werenski
+   0-1
+P1  09:16 
+Adam Fantilli (CBJ) scores on snap shot past Stuart Skinner, assisted by Cole Sillinger
+   0-2
+P1  05:28 
+Cole Sillinger (CBJ) scores on wrist shot past Stuart Skinner
+   0-3
+P1  03:38 
+CBJ penalty, too many men on the ice (2 minutes), served by Kirill Marchenko
+   0-3
+P1  02:17 
+Damon Severson (CBJ) holding the stick against Zach Hyman (2 minutes)
+   0-3
+P1  01:16 
+Zach Hyman (EDM) holding against Kirill Marchenko (2 minutes)
+   0-3
+P1  18:24 
+Viktor Arvidsson (EDM) tripping against Elvis Merzlikins (2 minutes)
+   0-0
+P1  17:42 
+Sean Monahan (CBJ) scores power-play goal on tip-in past Stuart Skinner, assisted by Kirill Marchenko and Zach Werenski
+   0-1
+P1  09:16 
+Adam Fantilli (CBJ) scores on snap shot past Stuart Skinner, assisted by Cole Sillinger
+   0-2
+P1  05:28 
+Cole Sillinger (CBJ) scores on wrist shot past Stuart Skinner
+   0-3
+P1  03:38 
+CBJ penalty, too many men on the ice (2 minutes), served by Kirill Marchenko
+   0-3
+P1  02:17 
+Damon Severson (CBJ) holding the stick against Zach Hyman (2 minutes)
+   0-3
+P1  01:16 
+Zach Hyman (EDM) holding against Kirill Marchenko (2 minutes)
+   0-3
+P1  18:24
+Viktor Arvidsson (EDM) tripping against Elvis Merzlikins (2 minutes)
+0-0
+P1  17:42
+Sean Monahan (CBJ) scores power-play goal on tip-in past Stuart Skinner, assisted by Kirill Marchenko and Zach Werenski
+0-1
+P1  09:16
+Adam Fantilli (CBJ) scores on snap shot past Stuart Skinner, assisted by Cole Sillinger
+0-2
+P1  05:28
+Cole Sillinger (CBJ) scores on wrist shot past Stuart Skinner
+0-3
+P1  03:38
+CBJ penalty, too many men on the ice (2 minutes), served by Kirill Marchenko
+0-3
+P1  02:17
+Damon Severson (CBJ) holding the stick against Zach Hyman (2 minutes)
+0-3
+P1  01:16
+Zach Hyman (EDM) holding against Kirill Marchenko (2 minutes)
+0-3
+2nd Period: ShowHide
+P2  17:44 
+Derek Ryan (EDM) high-sticking against Adam Fantilli (4 minutes)
+   0-3
+P2  12:56 
+Mathieu Olivier (CBJ) scores on backhand shot past Stuart Skinner, assisted by James van Riemsdyk
+   0-4
+P2  12:44 
+Ivan Provorov (CBJ) high-sticking against Jeff Skinner (2 minutes)
+   0-4
+P2  08:05 
+Cole Sillinger (CBJ) tripping against Evan Bouchard (2 minutes)
+   0-4
+P2  03:12 
+Sean Kuraly (CBJ) tripping against Jeff Skinner (2 minutes)
+   0-4
+P2  17:44 
+Derek Ryan (EDM) high-sticking against Adam Fantilli (4 minutes)
+   0-3
+P2  12:56 
+Mathieu Olivier (CBJ) scores on backhand shot past Stuart Skinner, assisted by James van Riemsdyk
+   0-4
+P2  12:44 
+Ivan Provorov (CBJ) high-sticking against Jeff Skinner (2 minutes)
+   0-4
+P2  08:05 
+Cole Sillinger (CBJ) tripping against Evan Bouchard (2 minutes)
+   0-4
+P2  03:12 
+Sean Kuraly (CBJ) tripping against Jeff Skinner (2 minutes)
+   0-4
+P2  17:44
+Derek Ryan (EDM) high-sticking against Adam Fantilli (4 minutes)
+0-3
+P2  12:56
+Mathieu Olivier (CBJ) scores on backhand shot past Stuart Skinner, assisted by James van Riemsdyk
+0-4
+P2  12:44
+Ivan Provorov (CBJ) high-sticking against Jeff Skinner (2 minutes)
+0-4
+P2  08:05
+Cole Sillinger (CBJ) tripping against Evan Bouchard (2 minutes)
+0-4
+P2  03:12
+Sean Kuraly (CBJ) tripping against Jeff Skinner (2 minutes)
+0-4
+3rd Period: ShowHide
+P3  04:45 
+Mikael Pyyhtia (CBJ) scores on snap shot past Stuart Skinner, assisted by Adam Fantilli and Cole Sillinger
+   0-5
+P3  03:21 
+Sean Monahan (CBJ) scores on snap shot past Stuart Skinner, assisted by Yegor Chinakhov and Kirill Marchenko
+   0-6
+P3  00:50 
+Jake Christiansen (CBJ) cross-checking against Ryan Nugent-Hopkins (2 minutes)
+   0-6
+P3  00:27 
+Mattias Ekholm (EDM) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Darnell Nurse and Corey Perry
+   1-6
+P3  04:45 
+Mikael Pyyhtia (CBJ) scores on snap shot past Stuart Skinner, assisted by Adam Fantilli and Cole Sillinger
+   0-5
+P3  03:21 
+Sean Monahan (CBJ) scores on snap shot past Stuart Skinner, assisted by Yegor Chinakhov and Kirill Marchenko
+   0-6
+P3  00:50 
+Jake Christiansen (CBJ) cross-checking against Ryan Nugent-Hopkins (2 minutes)
+   0-6
+P3  00:27 
+Mattias Ekholm (EDM) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Darnell Nurse and Corey Perry
+   1-6
+P3  04:45
+Mikael Pyyhtia (CBJ) scores on snap shot past Stuart Skinner, assisted by Adam Fantilli and Cole Sillinger
+0-5
+P3  03:21
+Sean Monahan (CBJ) scores on snap shot past Stuart Skinner, assisted by Yegor Chinakhov and Kirill Marchenko
+0-6
+P3  00:50
+Jake Christiansen (CBJ) cross-checking against Ryan Nugent-Hopkins (2 minutes)
+0-6
+P3  00:27
+Mattias Ekholm (EDM) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Darnell Nurse and Corey Perry
+1-6
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:55   0  0   -3   3   1   2   0   1   2/2Connor Brown R  15:03   0  0    0   2   0   0   0   0   0/0Leon Draisaitl C  19:32   0  0   -1   0   0   0   1   1 10/18Adam Henrique C  17:24   0  0   -1   1   1   0   0   2  9/15Zach Hyman L  18:16   0  0    0   3   2   2   1   1   0/0Mattias Janmark C  18:23   0  0   -2   0   0   0   0   2   1/1Connor McDavid C  00:37   0  0    0   0   0   0   0   0   1/1Ryan Nugent-Hopkins C  20:42   0  0    0   1   0   0   0   1   3/7Corey Perry R  11:52   0  1   -2   2   0   0   0   0   0/0Vasily Podkolzin R  13:34   0  0   -2   2   0   0   0   0   0/0Derek Ryan C  11:19   0  0   -3   0   1   4   0   1   7/9Jeff Skinner L  14:40   0  0   -1   3   0   0   0   1   1/2Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  20:29   0  0   -2   4   2   0   0   1   0/0Mattias Ekholm D  24:00   1  0   -3   2   0   0   0   2   0/0Ty Emberson D  15:29   0  0   -2   0   0   0   0   2   0/0Brett Kulak D  18:12   0  0   -2   1   0   0   1   0   0/0Darnell Nurse D  23:35   0  1   -1   6   2   0   1   1   0/0Troy Stecher D  13:16   0  0    0   2   1   0   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  10   8   4  17 34/55
+                                        61.8%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  60:00   6  19/25  15/20   2/3   2/2     0
+              .760   .750  .667 1.000 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  13:49   0  0    0   1   0   0   0   0   0/1Yegor Chinakhov R  17:16   0  1    1   1   1   0   0   1   0/0Justin Danforth R  17:17   0  0    0   5   0   0   1   0  4/13Adam Fantilli C  10:37   1  1    3   1   0   0   0   1   4/9Sean Kuraly C  13:13   0  0    1   0   0   2   0   1  6/12Kevin Labanc R  11:13   0  0    0   1   2   0   0   0   0/0Kirill Marchenko R  17:40   0  2    1   0   0   0   1   2   0/0Sean Monahan C  17:13   2  0    1   3   1   0   0   0  4/13Mathieu Olivier R  14:12   1  0    1   2   2   0   1   0   0/0Mikael Pyyhtia L  10:42   1  0    3   2   0   0   0   2   0/0Cole Sillinger C  16:33   1  2    3   2   0   2   0   0   3/6James van Riemsdyk L  12:57   0  1    1   1   0   0   0   0   0/1Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:41   0  0    1   1   1   2   0   0   0/0Jordan Harris D  14:05   0  0    1   0   4   0   0   1   0/0Jack Johnson D  16:28   0  0    2   1   1   0   1   3   0/0Ivan Provorov D  25:36   0  0    2   0   1   2   0   2   0/0Damon Severson D  24:45   0  0    2   1   0   2   0   1   0/0Zach Werenski D  20:20   0  1    2   3   1   0   0   2   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       25  14  10   4  16 21/55
+                                        38.2%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  60:00   1  31/32  21/21   7/8   3/3     0
+              .969  1.000  .875 1.000
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:55   0  0   -3   3   1   2   0   1   2/2Connor Brown R  15:03   0  0    0   2   0   0   0   0   0/0Leon Draisaitl C  19:32   0  0   -1   0   0   0   1   1 10/18Adam Henrique C  17:24   0  0   -1   1   1   0   0   2  9/15Zach Hyman L  18:16   0  0    0   3   2   2   1   1   0/0Mattias Janmark C  18:23   0  0   -2   0   0   0   0   2   1/1Connor McDavid C  00:37   0  0    0   0   0   0   0   0   1/1Ryan Nugent-Hopkins C  20:42   0  0    0   1   0   0   0   1   3/7Corey Perry R  11:52   0  1   -2   2   0   0   0   0   0/0Vasily Podkolzin R  13:34   0  0   -2   2   0   0   0   0   0/0Derek Ryan C  11:19   0  0   -3   0   1   4   0   1   7/9Jeff Skinner L  14:40   0  0   -1   3   0   0   0   1   1/2
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Viktor Arvidsson L
+16:55   0  0   -3   3   1   2   0   1   2/2
+Connor Brown R
+15:03   0  0    0   2   0   0   0   0   0/0
+Leon Draisaitl C
+19:32   0  0   -1   0   0   0   1   1 10/18
+Adam Henrique C
+17:24   0  0   -1   1   1   0   0   2  9/15
+Zach Hyman L
+18:16   0  0    0   3   2   2   1   1   0/0
+Mattias Janmark C
+18:23   0  0   -2   0   0   0   0   2   1/1
+Connor McDavid C
+00:37   0  0    0   0   0   0   0   0   1/1
+Ryan Nugent-Hopkins C
+20:42   0  0    0   1   0   0   0   1   3/7
+Corey Perry R
+11:52   0  1   -2   2   0   0   0   0   0/0
+Vasily Podkolzin R
+13:34   0  0   -2   2   0   0   0   0   0/0
+Derek Ryan C
+11:19   0  0   -3   0   1   4   0   1   7/9
+Jeff Skinner L
+14:40   0  0   -1   3   0   0   0   1   1/2
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  20:29   0  0   -2   4   2   0   0   1   0/0Mattias Ekholm D  24:00   1  0   -3   2   0   0   0   2   0/0Ty Emberson D  15:29   0  0   -2   0   0   0   0   2   0/0Brett Kulak D  18:12   0  0   -2   1   0   0   1   0   0/0Darnell Nurse D  23:35   0  1   -1   6   2   0   1   1   0/0Troy Stecher D  13:16   0  0    0   2   1   0   0   1   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Evan Bouchard D
+20:29   0  0   -2   4   2   0   0   1   0/0
+Mattias Ekholm D
+24:00   1  0   -3   2   0   0   0   2   0/0
+Ty Emberson D
+15:29   0  0   -2   0   0   0   0   2   0/0
+Brett Kulak D
+18:12   0  0   -2   1   0   0   1   0   0/0
+Darnell Nurse D
+23:35   0  1   -1   6   2   0   1   1   0/0
+Troy Stecher D
+13:16   0  0    0   2   1   0   0   1   0/0
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  10   8   4  17 34/55
+                                        61.8%
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  60:00   6  19/25  15/20   2/3   2/2     0
+              .760   .750  .667 1.000
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Stuart Skinner G
+60:00   6  19/25  15/20   2/3   2/2     0
+              .760   .750  .667 1.000
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  13:49   0  0    0   1   0   0   0   0   0/1Yegor Chinakhov R  17:16   0  1    1   1   1   0   0   1   0/0Justin Danforth R  17:17   0  0    0   5   0   0   1   0  4/13Adam Fantilli C  10:37   1  1    3   1   0   0   0   1   4/9Sean Kuraly C  13:13   0  0    1   0   0   2   0   1  6/12Kevin Labanc R  11:13   0  0    0   1   2   0   0   0   0/0Kirill Marchenko R  17:40   0  2    1   0   0   0   1   2   0/0Sean Monahan C  17:13   2  0    1   3   1   0   0   0  4/13Mathieu Olivier R  14:12   1  0    1   2   2   0   1   0   0/0Mikael Pyyhtia L  10:42   1  0    3   2   0   0   0   2   0/0Cole Sillinger C  16:33   1  2    3   2   0   2   0   0   3/6James van Riemsdyk L  12:57   0  1    1   1   0   0   0   0   0/1
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zachary Aston-Reese C
+13:49   0  0    0   1   0   0   0   0   0/1
+Yegor Chinakhov R
+17:16   0  1    1   1   1   0   0   1   0/0
+Justin Danforth R
+17:17   0  0    0   5   0   0   1   0  4/13
+Adam Fantilli C
+10:37   1  1    3   1   0   0   0   1   4/9
+Sean Kuraly C
+13:13   0  0    1   0   0   2   0   1  6/12
+Kevin Labanc R
+11:13   0  0    0   1   2   0   0   0   0/0
+Kirill Marchenko R
+17:40   0  2    1   0   0   0   1   2   0/0
+Sean Monahan C
+17:13   2  0    1   3   1   0   0   0  4/13
+Mathieu Olivier R
+14:12   1  0    1   2   2   0   1   0   0/0
+Mikael Pyyhtia L
+10:42   1  0    3   2   0   0   0   2   0/0
+Cole Sillinger C
+16:33   1  2    3   2   0   2   0   0   3/6
+James van Riemsdyk L
+12:57   0  1    1   1   0   0   0   0   0/1
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:41   0  0    1   1   1   2   0   0   0/0Jordan Harris D  14:05   0  0    1   0   4   0   0   1   0/0Jack Johnson D  16:28   0  0    2   1   1   0   1   3   0/0Ivan Provorov D  25:36   0  0    2   0   1   2   0   2   0/0Damon Severson D  24:45   0  0    2   1   0   2   0   1   0/0Zach Werenski D  20:20   0  1    2   3   1   0   0   2   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+15:41   0  0    1   1   1   2   0   0   0/0
+Jordan Harris D
+14:05   0  0    1   0   4   0   0   1   0/0
+Jack Johnson D
+16:28   0  0    2   1   1   0   1   3   0/0
+Ivan Provorov D
+25:36   0  0    2   0   1   2   0   2   0/0
+Damon Severson D
+24:45   0  0    2   1   0   2   0   1   0/0
+Zach Werenski D
+20:20   0  1    2   3   1   0   0   2   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       25  14  10   4  16 21/55
+                                        38.2%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  60:00   1  31/32  21/21   7/8   3/3     0
+              .969  1.000  .875 1.000
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Elvis Merzlikins G
+60:00   1  31/32  21/21   7/8   3/3     0
+              .969  1.000  .875 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

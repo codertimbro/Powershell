@@ -1,0 +1,337 @@
+< Nov. 1 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Ottawa
+Senators5-5-0Final1 - 2New York
+Rangers7-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+OTT   0  0  1    1  
+NYR   1  0  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:57 
+Artemi Panarin (NYR) scores on wrist shot past Linus Ullmark, assisted by Alexis Lafrenière
+   0-1
+P1  05:04 
+Sam Carrick (NYR) tripping against Zack Ostapchuk (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  12:55 
+Michael Amadio (OTT) tripping against Braden Schneider (2 minutes)
+   0-1
+P2  11:59 
+Chris Kreider (NYR) hooking against Thomas Chabot (2 minutes)
+   0-1
+P2  06:58 
+Adam Fox (NYR) hooking against Drake Batherson (2 minutes)
+   0-1
+P2  02:48 
+Ryan Lindgren (NYR) holding against Drake Batherson (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  18:51 
+Josh Norris (OTT) hooking against Reilly Smith (2 minutes)
+   0-1
+P3  17:04 
+Alexis Lafrenière (NYR) scores power-play goal on tip-in past Linus Ullmark, assisted by Filip Chytil and Reilly Smith
+   0-2
+P3  10:37 
+Adam Fox (NYR) tripping against Ridly Greig (2 minutes)
+   0-2
+P3  07:32 
+Adam Gaudette (OTT) scores on snap shot past Igor Shesterkin, assisted by Brady Tkachuk and Thomas Chabot
+   1-2
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:42   0  0    0   2   1   2   1   0   1/1Drake Batherson R  19:28   0  0   -1   0   0   0   0   2   0/0Nick Cousins C  08:16   0  0    0   1   0   0   0   3   0/0Adam Gaudette R  11:37   1  0    1   3   0   0   0   1   1/4Claude Giroux R  22:50   0  0   -1   3   1   0   1   3  9/17Noah Gregor L  11:40   0  0    0   1   0   0   0   1   0/0Ridly Greig C  17:00   0  0    1   0   2   0   1   0  5/12Zack MacEwen R  06:13   0  0    0   3   1   0   0   0   1/2Josh Norris C  18:33   0  0   -1   4   1   2   0   3  9/14Zack Ostapchuk C  10:34   0  0    0   1   1   0   0   1   0/3Tim Stützle C  23:09   0  0    0   4   0   0   0   1   1/4Brady Tkachuk L  21:16   0  1    1   4   0   0   0   1   0/2Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  08:06   0  0    0   1   2   0   0   0   0/0Thomas Chabot D  26:49   0  1    1   2   1   0   1   1   0/0Travis Hamonic D  13:46   0  0   -1   2   0   0   1   0   0/0Nick Jensen D  23:08   0  0    1   6   0   0   0   3   0/0Tyler Kleven D  12:45   0  0    0   1   0   0   0   0   0/0Jake Sanderson D  26:48   0  0   -1   3   0   0   0   2   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41  10   4   5  22 27/59
+                                        45.8%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  58:33   2  16/18  12/13   3/4   1/1     0
+              .889   .923  .750 1.000 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  08:47   0  0    0   1   0   0   0   0   0/2Sam Carrick C  09:23   0  0    0   0   0   2   1   1   5/8Filip Chytil C  11:50   0  1    0   1   0   0   0   2  4/10Will Cuylle L  13:26   0  0    0   0   1   0   0   1   0/0Adam Edstrom C  07:17   0  0    0   1   1   0   0   1   0/0Kaapo Kakko R  11:34   0  0    0   1   0   0   0   0   1/1Chris Kreider L  18:22   0  0    0   1   0   2   0   3   0/1Alexis Lafrenière L  16:44   1  1    0   1   1   0   1   2   0/0Artemi Panarin L  18:18   1  0    0   3   0   0   0   3   0/0Reilly Smith R  15:07   0  1    0   0   2   0   1   0   0/0Vincent Trocheck C  23:21   0  0    0   3   0   0   0   3 12/18Mika Zibanejad C  18:19   0  0    0   2   1   0   0   1 10/19Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  18:53   0  0    1   0   1   4   0   1   0/0Ryan Lindgren D  21:36   0  0    0   1   4   2   0   1   0/0Victor Mancini D  13:20   0  0   -1   1   0   0   0   1   0/0K'Andre Miller D  22:29   0  0    1   1   4   0   0   1   0/0Braden Schneider D  17:51   0  0   -1   1   4   0   0   1   0/0Jacob Trouba D  23:23   0  0    0   0   4   0   0   1   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       18  23  10   3  23 32/59
+                                        54.2%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   1  40/41  34/35   5/5   1/1     0
+              .976   .971 1.000 1.000
+Ottawa
+Senators5-5-0Final1 - 2New York
+Rangers7-2-1
+Ottawa
+Senators5-5-0
+Final1 - 2
+New York
+Rangers7-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+OTT   0  0  1    1  
+NYR   1  0  1    2
+1st Period: ShowHide
+P1  16:57 
+Artemi Panarin (NYR) scores on wrist shot past Linus Ullmark, assisted by Alexis Lafrenière
+   0-1
+P1  05:04 
+Sam Carrick (NYR) tripping against Zack Ostapchuk (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  12:55 
+Michael Amadio (OTT) tripping against Braden Schneider (2 minutes)
+   0-1
+P2  11:59 
+Chris Kreider (NYR) hooking against Thomas Chabot (2 minutes)
+   0-1
+P2  06:58 
+Adam Fox (NYR) hooking against Drake Batherson (2 minutes)
+   0-1
+P2  02:48 
+Ryan Lindgren (NYR) holding against Drake Batherson (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  18:51 
+Josh Norris (OTT) hooking against Reilly Smith (2 minutes)
+   0-1
+P3  17:04 
+Alexis Lafrenière (NYR) scores power-play goal on tip-in past Linus Ullmark, assisted by Filip Chytil and Reilly Smith
+   0-2
+P3  10:37 
+Adam Fox (NYR) tripping against Ridly Greig (2 minutes)
+   0-2
+P3  07:32 
+Adam Gaudette (OTT) scores on snap shot past Igor Shesterkin, assisted by Brady Tkachuk and Thomas Chabot
+   1-2
+1st Period: ShowHide
+P1  16:57 
+Artemi Panarin (NYR) scores on wrist shot past Linus Ullmark, assisted by Alexis Lafrenière
+   0-1
+P1  05:04 
+Sam Carrick (NYR) tripping against Zack Ostapchuk (2 minutes)
+   0-1
+P1  16:57 
+Artemi Panarin (NYR) scores on wrist shot past Linus Ullmark, assisted by Alexis Lafrenière
+   0-1
+P1  05:04 
+Sam Carrick (NYR) tripping against Zack Ostapchuk (2 minutes)
+   0-1
+P1  16:57
+Artemi Panarin (NYR) scores on wrist shot past Linus Ullmark, assisted by Alexis Lafrenière
+0-1
+P1  05:04
+Sam Carrick (NYR) tripping against Zack Ostapchuk (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  12:55 
+Michael Amadio (OTT) tripping against Braden Schneider (2 minutes)
+   0-1
+P2  11:59 
+Chris Kreider (NYR) hooking against Thomas Chabot (2 minutes)
+   0-1
+P2  06:58 
+Adam Fox (NYR) hooking against Drake Batherson (2 minutes)
+   0-1
+P2  02:48 
+Ryan Lindgren (NYR) holding against Drake Batherson (2 minutes)
+   0-1
+P2  12:55 
+Michael Amadio (OTT) tripping against Braden Schneider (2 minutes)
+   0-1
+P2  11:59 
+Chris Kreider (NYR) hooking against Thomas Chabot (2 minutes)
+   0-1
+P2  06:58 
+Adam Fox (NYR) hooking against Drake Batherson (2 minutes)
+   0-1
+P2  02:48 
+Ryan Lindgren (NYR) holding against Drake Batherson (2 minutes)
+   0-1
+P2  12:55
+Michael Amadio (OTT) tripping against Braden Schneider (2 minutes)
+0-1
+P2  11:59
+Chris Kreider (NYR) hooking against Thomas Chabot (2 minutes)
+0-1
+P2  06:58
+Adam Fox (NYR) hooking against Drake Batherson (2 minutes)
+0-1
+P2  02:48
+Ryan Lindgren (NYR) holding against Drake Batherson (2 minutes)
+0-1
+3rd Period: ShowHide
+P3  18:51 
+Josh Norris (OTT) hooking against Reilly Smith (2 minutes)
+   0-1
+P3  17:04 
+Alexis Lafrenière (NYR) scores power-play goal on tip-in past Linus Ullmark, assisted by Filip Chytil and Reilly Smith
+   0-2
+P3  10:37 
+Adam Fox (NYR) tripping against Ridly Greig (2 minutes)
+   0-2
+P3  07:32 
+Adam Gaudette (OTT) scores on snap shot past Igor Shesterkin, assisted by Brady Tkachuk and Thomas Chabot
+   1-2
+P3  18:51 
+Josh Norris (OTT) hooking against Reilly Smith (2 minutes)
+   0-1
+P3  17:04 
+Alexis Lafrenière (NYR) scores power-play goal on tip-in past Linus Ullmark, assisted by Filip Chytil and Reilly Smith
+   0-2
+P3  10:37 
+Adam Fox (NYR) tripping against Ridly Greig (2 minutes)
+   0-2
+P3  07:32 
+Adam Gaudette (OTT) scores on snap shot past Igor Shesterkin, assisted by Brady Tkachuk and Thomas Chabot
+   1-2
+P3  18:51
+Josh Norris (OTT) hooking against Reilly Smith (2 minutes)
+0-1
+P3  17:04
+Alexis Lafrenière (NYR) scores power-play goal on tip-in past Linus Ullmark, assisted by Filip Chytil and Reilly Smith
+0-2
+P3  10:37
+Adam Fox (NYR) tripping against Ridly Greig (2 minutes)
+0-2
+P3  07:32
+Adam Gaudette (OTT) scores on snap shot past Igor Shesterkin, assisted by Brady Tkachuk and Thomas Chabot
+1-2
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:42   0  0    0   2   1   2   1   0   1/1Drake Batherson R  19:28   0  0   -1   0   0   0   0   2   0/0Nick Cousins C  08:16   0  0    0   1   0   0   0   3   0/0Adam Gaudette R  11:37   1  0    1   3   0   0   0   1   1/4Claude Giroux R  22:50   0  0   -1   3   1   0   1   3  9/17Noah Gregor L  11:40   0  0    0   1   0   0   0   1   0/0Ridly Greig C  17:00   0  0    1   0   2   0   1   0  5/12Zack MacEwen R  06:13   0  0    0   3   1   0   0   0   1/2Josh Norris C  18:33   0  0   -1   4   1   2   0   3  9/14Zack Ostapchuk C  10:34   0  0    0   1   1   0   0   1   0/3Tim Stützle C  23:09   0  0    0   4   0   0   0   1   1/4Brady Tkachuk L  21:16   0  1    1   4   0   0   0   1   0/2Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  08:06   0  0    0   1   2   0   0   0   0/0Thomas Chabot D  26:49   0  1    1   2   1   0   1   1   0/0Travis Hamonic D  13:46   0  0   -1   2   0   0   1   0   0/0Nick Jensen D  23:08   0  0    1   6   0   0   0   3   0/0Tyler Kleven D  12:45   0  0    0   1   0   0   0   0   0/0Jake Sanderson D  26:48   0  0   -1   3   0   0   0   2   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41  10   4   5  22 27/59
+                                        45.8%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  58:33   2  16/18  12/13   3/4   1/1     0
+              .889   .923  .750 1.000 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  08:47   0  0    0   1   0   0   0   0   0/2Sam Carrick C  09:23   0  0    0   0   0   2   1   1   5/8Filip Chytil C  11:50   0  1    0   1   0   0   0   2  4/10Will Cuylle L  13:26   0  0    0   0   1   0   0   1   0/0Adam Edstrom C  07:17   0  0    0   1   1   0   0   1   0/0Kaapo Kakko R  11:34   0  0    0   1   0   0   0   0   1/1Chris Kreider L  18:22   0  0    0   1   0   2   0   3   0/1Alexis Lafrenière L  16:44   1  1    0   1   1   0   1   2   0/0Artemi Panarin L  18:18   1  0    0   3   0   0   0   3   0/0Reilly Smith R  15:07   0  1    0   0   2   0   1   0   0/0Vincent Trocheck C  23:21   0  0    0   3   0   0   0   3 12/18Mika Zibanejad C  18:19   0  0    0   2   1   0   0   1 10/19Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  18:53   0  0    1   0   1   4   0   1   0/0Ryan Lindgren D  21:36   0  0    0   1   4   2   0   1   0/0Victor Mancini D  13:20   0  0   -1   1   0   0   0   1   0/0K'Andre Miller D  22:29   0  0    1   1   4   0   0   1   0/0Braden Schneider D  17:51   0  0   -1   1   4   0   0   1   0/0Jacob Trouba D  23:23   0  0    0   0   4   0   0   1   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       18  23  10   3  23 32/59
+                                        54.2%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   1  40/41  34/35   5/5   1/1     0
+              .976   .971 1.000 1.000
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:42   0  0    0   2   1   2   1   0   1/1Drake Batherson R  19:28   0  0   -1   0   0   0   0   2   0/0Nick Cousins C  08:16   0  0    0   1   0   0   0   3   0/0Adam Gaudette R  11:37   1  0    1   3   0   0   0   1   1/4Claude Giroux R  22:50   0  0   -1   3   1   0   1   3  9/17Noah Gregor L  11:40   0  0    0   1   0   0   0   1   0/0Ridly Greig C  17:00   0  0    1   0   2   0   1   0  5/12Zack MacEwen R  06:13   0  0    0   3   1   0   0   0   1/2Josh Norris C  18:33   0  0   -1   4   1   2   0   3  9/14Zack Ostapchuk C  10:34   0  0    0   1   1   0   0   1   0/3Tim Stützle C  23:09   0  0    0   4   0   0   0   1   1/4Brady Tkachuk L  21:16   0  1    1   4   0   0   0   1   0/2
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+15:42   0  0    0   2   1   2   1   0   1/1
+Drake Batherson R
+19:28   0  0   -1   0   0   0   0   2   0/0
+Nick Cousins C
+08:16   0  0    0   1   0   0   0   3   0/0
+Adam Gaudette R
+11:37   1  0    1   3   0   0   0   1   1/4
+Claude Giroux R
+22:50   0  0   -1   3   1   0   1   3  9/17
+Noah Gregor L
+11:40   0  0    0   1   0   0   0   1   0/0
+Ridly Greig C
+17:00   0  0    1   0   2   0   1   0  5/12
+Zack MacEwen R
+06:13   0  0    0   3   1   0   0   0   1/2
+Josh Norris C
+18:33   0  0   -1   4   1   2   0   3  9/14
+Zack Ostapchuk C
+10:34   0  0    0   1   1   0   0   1   0/3
+Tim Stützle C
+23:09   0  0    0   4   0   0   0   1   1/4
+Brady Tkachuk L
+21:16   0  1    1   4   0   0   0   1   0/2
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  08:06   0  0    0   1   2   0   0   0   0/0Thomas Chabot D  26:49   0  1    1   2   1   0   1   1   0/0Travis Hamonic D  13:46   0  0   -1   2   0   0   1   0   0/0Nick Jensen D  23:08   0  0    1   6   0   0   0   3   0/0Tyler Kleven D  12:45   0  0    0   1   0   0   0   0   0/0Jake Sanderson D  26:48   0  0   -1   3   0   0   0   2   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jacob Bernard-Docker D
+08:06   0  0    0   1   2   0   0   0   0/0
+Thomas Chabot D
+26:49   0  1    1   2   1   0   1   1   0/0
+Travis Hamonic D
+13:46   0  0   -1   2   0   0   1   0   0/0
+Nick Jensen D
+23:08   0  0    1   6   0   0   0   3   0/0
+Tyler Kleven D
+12:45   0  0    0   1   0   0   0   0   0/0
+Jake Sanderson D
+26:48   0  0   -1   3   0   0   0   2   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       41  10   4   5  22 27/59
+                                        45.8%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  58:33   2  16/18  12/13   3/4   1/1     0
+              .889   .923  .750 1.000
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Linus Ullmark G
+58:33   2  16/18  12/13   3/4   1/1     0
+              .889   .923  .750 1.000
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  08:47   0  0    0   1   0   0   0   0   0/2Sam Carrick C  09:23   0  0    0   0   0   2   1   1   5/8Filip Chytil C  11:50   0  1    0   1   0   0   0   2  4/10Will Cuylle L  13:26   0  0    0   0   1   0   0   1   0/0Adam Edstrom C  07:17   0  0    0   1   1   0   0   1   0/0Kaapo Kakko R  11:34   0  0    0   1   0   0   0   0   1/1Chris Kreider L  18:22   0  0    0   1   0   2   0   3   0/1Alexis Lafrenière L  16:44   1  1    0   1   1   0   1   2   0/0Artemi Panarin L  18:18   1  0    0   3   0   0   0   3   0/0Reilly Smith R  15:07   0  1    0   0   2   0   1   0   0/0Vincent Trocheck C  23:21   0  0    0   3   0   0   0   3 12/18Mika Zibanejad C  18:19   0  0    0   2   1   0   0   1 10/19
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonny Brodzinski C
+08:47   0  0    0   1   0   0   0   0   0/2
+Sam Carrick C
+09:23   0  0    0   0   0   2   1   1   5/8
+Filip Chytil C
+11:50   0  1    0   1   0   0   0   2  4/10
+Will Cuylle L
+13:26   0  0    0   0   1   0   0   1   0/0
+Adam Edstrom C
+07:17   0  0    0   1   1   0   0   1   0/0
+Kaapo Kakko R
+11:34   0  0    0   1   0   0   0   0   1/1
+Chris Kreider L
+18:22   0  0    0   1   0   2   0   3   0/1
+Alexis Lafrenière L
+16:44   1  1    0   1   1   0   1   2   0/0
+Artemi Panarin L
+18:18   1  0    0   3   0   0   0   3   0/0
+Reilly Smith R
+15:07   0  1    0   0   2   0   1   0   0/0
+Vincent Trocheck C
+23:21   0  0    0   3   0   0   0   3 12/18
+Mika Zibanejad C
+18:19   0  0    0   2   1   0   0   1 10/19
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  18:53   0  0    1   0   1   4   0   1   0/0Ryan Lindgren D  21:36   0  0    0   1   4   2   0   1   0/0Victor Mancini D  13:20   0  0   -1   1   0   0   0   1   0/0K'Andre Miller D  22:29   0  0    1   1   4   0   0   1   0/0Braden Schneider D  17:51   0  0   -1   1   4   0   0   1   0/0Jacob Trouba D  23:23   0  0    0   0   4   0   0   1   0/0
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Adam Fox D
+18:53   0  0    1   0   1   4   0   1   0/0
+Ryan Lindgren D
+21:36   0  0    0   1   4   2   0   1   0/0
+Victor Mancini D
+13:20   0  0   -1   1   0   0   0   1   0/0
+K'Andre Miller D
+22:29   0  0    1   1   4   0   0   1   0/0
+Braden Schneider D
+17:51   0  0   -1   1   4   0   0   1   0/0
+Jacob Trouba D
+23:23   0  0    0   0   4   0   0   1   0/0
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       18  23  10   3  23 32/59
+                                        54.2%
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   1  40/41  34/35   5/5   1/1     0
+              .976   .971 1.000 1.000
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Igor Shesterkin G
+60:00   1  40/41  34/35   5/5   1/1     0
+              .976   .971 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

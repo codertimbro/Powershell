@@ -1,0 +1,382 @@
+< Oct. 24 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Colorado
+Avalanche4-4-0Final5 - 1Utah
+Hockey Club4-3-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+COL   2  2  1    5  
+UTA   0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:43 
+Josh Manson (COL) holding against Nick Schmaltz (2 minutes)
+   0-0
+P1  12:24 
+Michael Kesselring (UTA) hooking against Ross Colton (2 minutes)
+   0-0
+P1  11:55 
+Ian Cole (UTA) tripping against Casey Mittelstadt (2 minutes)
+   0-0
+P1  10:06 
+Ross Colton (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Casey Mittelstadt
+   1-0
+P1  01:40 
+Cale Makar (COL) scores on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Nikolai Kovalenko
+   2-0
+2nd Period: ShowHide
+P2  19:16 
+Josh Manson (COL) tripping against Nick Schmaltz (2 minutes)
+   2-0
+P2  10:22 
+Lawson Crouse (UTA) interference against Chris Wagner (2 minutes)
+   2-0
+P2  05:35 
+Casey Mittelstadt (COL) scores on wrist shot past Karel Vejmelka, assisted by Sam Malinski and Nikolai Kovalenko
+   3-0
+P2  03:52 
+Dylan Guenther (UTA) hooking against Cale Makar (2 minutes)
+   3-0
+P2  02:27 
+Ivan Ivan (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Nathan MacKinnon and Casey Mittelstadt
+   4-0
+P2  01:43 
+Parker Kelly (COL) tripping against Michael Kesselring (2 minutes)
+   4-0
+3rd Period: ShowHide
+P3  04:32 
+Lawson Crouse (UTA) scores on backhand shot past Justus Annunen, assisted by Matias Maccelli and Ian Cole
+   4-1
+P3  03:53 
+Joel Kiviranta (COL) scores on snap shot past Karel Vejmelka
+   5-1
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  11:07   1  0    0   3   0   0   0   0   0/1Ivan Ivan C  12:50   1  0    1   1   0   0   0   0   1/3Parker Kelly C  16:43   0  0    0   1   3   2   0   1  4/12Joel Kiviranta L  17:00   1  0    1   1   2   0   1   2   0/1Nikolai Kovalenko R  13:17   0  2    1   1   0   0   0   0   0/1Nathan MacKinnon C  20:57   0  1    1   3   1   0   0   1  5/13Casey Mittelstadt C  18:16   1  2    0   1   0   0   0   0  4/14Logan O'Connor R  14:41   0  0    0   1   0   0   0   1   1/7Mikko Rantanen R  21:29   0  2    1   0   2   0   0   2   0/1Matt Stienburg C  09:36   0  0    0   0   0   0   0   0   0/0Chris Wagner R  07:46   0  0    0   0   1   0   0   0   0/3Miles Wood L  14:57   0  0    1   2   0   0   0   1   1/1Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  22:47   0  0    0   1   2   0   0   1   0/0Cale Makar D  22:36   1  0    1   6   2   0   0   1   0/0Sam Malinski D  14:40   0  1    1   1   3   0   0   0   0/0Josh Manson D  19:53   0  0    0   0   1   4   1   1   0/0Devon Toews D  18:48   0  0    1   3   0   0   0   0   0/0Calvin de Haan D  16:48   0  0    1   1   3   0   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       26  20   6   2  12 16/57
+                                        28.1%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  59:49   1  25/26  20/21   4/4   1/1     0
+              .962   .952 1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  13:20   0  0   -2   1   0   0   0   1   5/8Lawson Crouse L  14:29   1  0    0   2   0   2   0   1   0/0Josh Doan R  12:31   0  0   -1   2   0   0   2   0   1/2Dylan Guenther R  18:56   0  0    0   2   2   2   0   2   0/1Barrett Hayton C  19:39   0  0   -1   3   0   0   0   1 16/23Clayton Keller R  18:28   0  0    0   5   0   0   2   1   1/1Alexander Kerfoot C  14:13   0  0    0   1   1   0   0   0   6/7Matias Maccelli L  13:10   0  1    1   0   0   0   0   2   0/0Jack McBain C  13:50   0  0    1   0   1   0   0   0   2/3Nick Schmaltz C  16:55   0  0   -3   1   0   0   0   1   0/1Kevin Stenlund C  13:50   0  0    0   3   0   0   0   0   8/9Kailer Yamamoto R  10:44   0  0   -1   0   0   0   0   0   2/2Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  20:30   0  1    1   0   1   2   0   3   0/0Michael Kesselring D  19:40   0  0    0   1   0   2   1   3   0/0Vladislav Kolyachonok D  12:20   0  0   -3   0   0   0   0   2   0/0Maveric Lamoureux D  18:50   0  0    1   1   3   0   0   1   0/0Mikhail Sergachev D  23:38   0  0    0   4   1   0   0   1   0/0Juuso Valimaki D  17:43   0  0   -3   0   2   0   0   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  11   8   5  19 41/57
+                                        71.9%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKarel Vejmelka G  60:00   5  21/26  17/20   3/5   1/1     0
+              .808   .850  .600 1.000
+Colorado
+Avalanche4-4-0Final5 - 1Utah
+Hockey Club4-3-1
+Colorado
+Avalanche4-4-0
+Final5 - 1
+Utah
+Hockey Club4-3-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+COL   2  2  1    5  
+UTA   0  0  1    1
+1st Period: ShowHide
+P1  16:43 
+Josh Manson (COL) holding against Nick Schmaltz (2 minutes)
+   0-0
+P1  12:24 
+Michael Kesselring (UTA) hooking against Ross Colton (2 minutes)
+   0-0
+P1  11:55 
+Ian Cole (UTA) tripping against Casey Mittelstadt (2 minutes)
+   0-0
+P1  10:06 
+Ross Colton (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Casey Mittelstadt
+   1-0
+P1  01:40 
+Cale Makar (COL) scores on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Nikolai Kovalenko
+   2-0
+2nd Period: ShowHide
+P2  19:16 
+Josh Manson (COL) tripping against Nick Schmaltz (2 minutes)
+   2-0
+P2  10:22 
+Lawson Crouse (UTA) interference against Chris Wagner (2 minutes)
+   2-0
+P2  05:35 
+Casey Mittelstadt (COL) scores on wrist shot past Karel Vejmelka, assisted by Sam Malinski and Nikolai Kovalenko
+   3-0
+P2  03:52 
+Dylan Guenther (UTA) hooking against Cale Makar (2 minutes)
+   3-0
+P2  02:27 
+Ivan Ivan (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Nathan MacKinnon and Casey Mittelstadt
+   4-0
+P2  01:43 
+Parker Kelly (COL) tripping against Michael Kesselring (2 minutes)
+   4-0
+3rd Period: ShowHide
+P3  04:32 
+Lawson Crouse (UTA) scores on backhand shot past Justus Annunen, assisted by Matias Maccelli and Ian Cole
+   4-1
+P3  03:53 
+Joel Kiviranta (COL) scores on snap shot past Karel Vejmelka
+   5-1
+1st Period: ShowHide
+P1  16:43 
+Josh Manson (COL) holding against Nick Schmaltz (2 minutes)
+   0-0
+P1  12:24 
+Michael Kesselring (UTA) hooking against Ross Colton (2 minutes)
+   0-0
+P1  11:55 
+Ian Cole (UTA) tripping against Casey Mittelstadt (2 minutes)
+   0-0
+P1  10:06 
+Ross Colton (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Casey Mittelstadt
+   1-0
+P1  01:40 
+Cale Makar (COL) scores on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Nikolai Kovalenko
+   2-0
+P1  16:43 
+Josh Manson (COL) holding against Nick Schmaltz (2 minutes)
+   0-0
+P1  12:24 
+Michael Kesselring (UTA) hooking against Ross Colton (2 minutes)
+   0-0
+P1  11:55 
+Ian Cole (UTA) tripping against Casey Mittelstadt (2 minutes)
+   0-0
+P1  10:06 
+Ross Colton (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Casey Mittelstadt
+   1-0
+P1  01:40 
+Cale Makar (COL) scores on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Nikolai Kovalenko
+   2-0
+P1  16:43
+Josh Manson (COL) holding against Nick Schmaltz (2 minutes)
+0-0
+P1  12:24
+Michael Kesselring (UTA) hooking against Ross Colton (2 minutes)
+0-0
+P1  11:55
+Ian Cole (UTA) tripping against Casey Mittelstadt (2 minutes)
+0-0
+P1  10:06
+Ross Colton (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Casey Mittelstadt
+1-0
+P1  01:40
+Cale Makar (COL) scores on snap shot past Karel Vejmelka, assisted by Mikko Rantanen and Nikolai Kovalenko
+2-0
+2nd Period: ShowHide
+P2  19:16 
+Josh Manson (COL) tripping against Nick Schmaltz (2 minutes)
+   2-0
+P2  10:22 
+Lawson Crouse (UTA) interference against Chris Wagner (2 minutes)
+   2-0
+P2  05:35 
+Casey Mittelstadt (COL) scores on wrist shot past Karel Vejmelka, assisted by Sam Malinski and Nikolai Kovalenko
+   3-0
+P2  03:52 
+Dylan Guenther (UTA) hooking against Cale Makar (2 minutes)
+   3-0
+P2  02:27 
+Ivan Ivan (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Nathan MacKinnon and Casey Mittelstadt
+   4-0
+P2  01:43 
+Parker Kelly (COL) tripping against Michael Kesselring (2 minutes)
+   4-0
+P2  19:16 
+Josh Manson (COL) tripping against Nick Schmaltz (2 minutes)
+   2-0
+P2  10:22 
+Lawson Crouse (UTA) interference against Chris Wagner (2 minutes)
+   2-0
+P2  05:35 
+Casey Mittelstadt (COL) scores on wrist shot past Karel Vejmelka, assisted by Sam Malinski and Nikolai Kovalenko
+   3-0
+P2  03:52 
+Dylan Guenther (UTA) hooking against Cale Makar (2 minutes)
+   3-0
+P2  02:27 
+Ivan Ivan (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Nathan MacKinnon and Casey Mittelstadt
+   4-0
+P2  01:43 
+Parker Kelly (COL) tripping against Michael Kesselring (2 minutes)
+   4-0
+P2  19:16
+Josh Manson (COL) tripping against Nick Schmaltz (2 minutes)
+2-0
+P2  10:22
+Lawson Crouse (UTA) interference against Chris Wagner (2 minutes)
+2-0
+P2  05:35
+Casey Mittelstadt (COL) scores on wrist shot past Karel Vejmelka, assisted by Sam Malinski and Nikolai Kovalenko
+3-0
+P2  03:52
+Dylan Guenther (UTA) hooking against Cale Makar (2 minutes)
+3-0
+P2  02:27
+Ivan Ivan (COL) scores power-play goal on snap shot past Karel Vejmelka, assisted by Nathan MacKinnon and Casey Mittelstadt
+4-0
+P2  01:43
+Parker Kelly (COL) tripping against Michael Kesselring (2 minutes)
+4-0
+3rd Period: ShowHide
+P3  04:32 
+Lawson Crouse (UTA) scores on backhand shot past Justus Annunen, assisted by Matias Maccelli and Ian Cole
+   4-1
+P3  03:53 
+Joel Kiviranta (COL) scores on snap shot past Karel Vejmelka
+   5-1
+P3  04:32 
+Lawson Crouse (UTA) scores on backhand shot past Justus Annunen, assisted by Matias Maccelli and Ian Cole
+   4-1
+P3  03:53 
+Joel Kiviranta (COL) scores on snap shot past Karel Vejmelka
+   5-1
+P3  04:32
+Lawson Crouse (UTA) scores on backhand shot past Justus Annunen, assisted by Matias Maccelli and Ian Cole
+4-1
+P3  03:53
+Joel Kiviranta (COL) scores on snap shot past Karel Vejmelka
+5-1
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  11:07   1  0    0   3   0   0   0   0   0/1Ivan Ivan C  12:50   1  0    1   1   0   0   0   0   1/3Parker Kelly C  16:43   0  0    0   1   3   2   0   1  4/12Joel Kiviranta L  17:00   1  0    1   1   2   0   1   2   0/1Nikolai Kovalenko R  13:17   0  2    1   1   0   0   0   0   0/1Nathan MacKinnon C  20:57   0  1    1   3   1   0   0   1  5/13Casey Mittelstadt C  18:16   1  2    0   1   0   0   0   0  4/14Logan O'Connor R  14:41   0  0    0   1   0   0   0   1   1/7Mikko Rantanen R  21:29   0  2    1   0   2   0   0   2   0/1Matt Stienburg C  09:36   0  0    0   0   0   0   0   0   0/0Chris Wagner R  07:46   0  0    0   0   1   0   0   0   0/3Miles Wood L  14:57   0  0    1   2   0   0   0   1   1/1Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  22:47   0  0    0   1   2   0   0   1   0/0Cale Makar D  22:36   1  0    1   6   2   0   0   1   0/0Sam Malinski D  14:40   0  1    1   1   3   0   0   0   0/0Josh Manson D  19:53   0  0    0   0   1   4   1   1   0/0Devon Toews D  18:48   0  0    1   3   0   0   0   0   0/0Calvin de Haan D  16:48   0  0    1   1   3   0   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       26  20   6   2  12 16/57
+                                        28.1%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  59:49   1  25/26  20/21   4/4   1/1     0
+              .962   .952 1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  13:20   0  0   -2   1   0   0   0   1   5/8Lawson Crouse L  14:29   1  0    0   2   0   2   0   1   0/0Josh Doan R  12:31   0  0   -1   2   0   0   2   0   1/2Dylan Guenther R  18:56   0  0    0   2   2   2   0   2   0/1Barrett Hayton C  19:39   0  0   -1   3   0   0   0   1 16/23Clayton Keller R  18:28   0  0    0   5   0   0   2   1   1/1Alexander Kerfoot C  14:13   0  0    0   1   1   0   0   0   6/7Matias Maccelli L  13:10   0  1    1   0   0   0   0   2   0/0Jack McBain C  13:50   0  0    1   0   1   0   0   0   2/3Nick Schmaltz C  16:55   0  0   -3   1   0   0   0   1   0/1Kevin Stenlund C  13:50   0  0    0   3   0   0   0   0   8/9Kailer Yamamoto R  10:44   0  0   -1   0   0   0   0   0   2/2Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  20:30   0  1    1   0   1   2   0   3   0/0Michael Kesselring D  19:40   0  0    0   1   0   2   1   3   0/0Vladislav Kolyachonok D  12:20   0  0   -3   0   0   0   0   2   0/0Maveric Lamoureux D  18:50   0  0    1   1   3   0   0   1   0/0Mikhail Sergachev D  23:38   0  0    0   4   1   0   0   1   0/0Juuso Valimaki D  17:43   0  0   -3   0   2   0   0   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  11   8   5  19 41/57
+                                        71.9%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKarel Vejmelka G  60:00   5  21/26  17/20   3/5   1/1     0
+              .808   .850  .600 1.000
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  11:07   1  0    0   3   0   0   0   0   0/1Ivan Ivan C  12:50   1  0    1   1   0   0   0   0   1/3Parker Kelly C  16:43   0  0    0   1   3   2   0   1  4/12Joel Kiviranta L  17:00   1  0    1   1   2   0   1   2   0/1Nikolai Kovalenko R  13:17   0  2    1   1   0   0   0   0   0/1Nathan MacKinnon C  20:57   0  1    1   3   1   0   0   1  5/13Casey Mittelstadt C  18:16   1  2    0   1   0   0   0   0  4/14Logan O'Connor R  14:41   0  0    0   1   0   0   0   1   1/7Mikko Rantanen R  21:29   0  2    1   0   2   0   0   2   0/1Matt Stienburg C  09:36   0  0    0   0   0   0   0   0   0/0Chris Wagner R  07:46   0  0    0   0   1   0   0   0   0/3Miles Wood L  14:57   0  0    1   2   0   0   0   1   1/1
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+11:07   1  0    0   3   0   0   0   0   0/1
+Ivan Ivan C
+12:50   1  0    1   1   0   0   0   0   1/3
+Parker Kelly C
+16:43   0  0    0   1   3   2   0   1  4/12
+Joel Kiviranta L
+17:00   1  0    1   1   2   0   1   2   0/1
+Nikolai Kovalenko R
+13:17   0  2    1   1   0   0   0   0   0/1
+Nathan MacKinnon C
+20:57   0  1    1   3   1   0   0   1  5/13
+Casey Mittelstadt C
+18:16   1  2    0   1   0   0   0   0  4/14
+Logan O'Connor R
+14:41   0  0    0   1   0   0   0   1   1/7
+Mikko Rantanen R
+21:29   0  2    1   0   2   0   0   2   0/1
+Matt Stienburg C
+09:36   0  0    0   0   0   0   0   0   0/0
+Chris Wagner R
+07:46   0  0    0   0   1   0   0   0   0/3
+Miles Wood L
+14:57   0  0    1   2   0   0   0   1   1/1
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  22:47   0  0    0   1   2   0   0   1   0/0Cale Makar D  22:36   1  0    1   6   2   0   0   1   0/0Sam Malinski D  14:40   0  1    1   1   3   0   0   0   0/0Josh Manson D  19:53   0  0    0   0   1   4   1   1   0/0Devon Toews D  18:48   0  0    1   3   0   0   0   0   0/0Calvin de Haan D  16:48   0  0    1   1   3   0   0   1   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+22:47   0  0    0   1   2   0   0   1   0/0
+Cale Makar D
+22:36   1  0    1   6   2   0   0   1   0/0
+Sam Malinski D
+14:40   0  1    1   1   3   0   0   0   0/0
+Josh Manson D
+19:53   0  0    0   0   1   4   1   1   0/0
+Devon Toews D
+18:48   0  0    1   3   0   0   0   0   0/0
+Calvin de Haan D
+16:48   0  0    1   1   3   0   0   1   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       26  20   6   2  12 16/57
+                                        28.1%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  59:49   1  25/26  20/21   4/4   1/1     0
+              .962   .952 1.000 1.000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Justus Annunen G
+59:49   1  25/26  20/21   4/4   1/1     0
+              .962   .952 1.000 1.000
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  13:20   0  0   -2   1   0   0   0   1   5/8Lawson Crouse L  14:29   1  0    0   2   0   2   0   1   0/0Josh Doan R  12:31   0  0   -1   2   0   0   2   0   1/2Dylan Guenther R  18:56   0  0    0   2   2   2   0   2   0/1Barrett Hayton C  19:39   0  0   -1   3   0   0   0   1 16/23Clayton Keller R  18:28   0  0    0   5   0   0   2   1   1/1Alexander Kerfoot C  14:13   0  0    0   1   1   0   0   0   6/7Matias Maccelli L  13:10   0  1    1   0   0   0   0   2   0/0Jack McBain C  13:50   0  0    1   0   1   0   0   0   2/3Nick Schmaltz C  16:55   0  0   -3   1   0   0   0   1   0/1Kevin Stenlund C  13:50   0  0    0   3   0   0   0   0   8/9Kailer Yamamoto R  10:44   0  0   -1   0   0   0   0   0   2/2
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Logan Cooley C
+13:20   0  0   -2   1   0   0   0   1   5/8
+Lawson Crouse L
+14:29   1  0    0   2   0   2   0   1   0/0
+Josh Doan R
+12:31   0  0   -1   2   0   0   2   0   1/2
+Dylan Guenther R
+18:56   0  0    0   2   2   2   0   2   0/1
+Barrett Hayton C
+19:39   0  0   -1   3   0   0   0   1 16/23
+Clayton Keller R
+18:28   0  0    0   5   0   0   2   1   1/1
+Alexander Kerfoot C
+14:13   0  0    0   1   1   0   0   0   6/7
+Matias Maccelli L
+13:10   0  1    1   0   0   0   0   2   0/0
+Jack McBain C
+13:50   0  0    1   0   1   0   0   0   2/3
+Nick Schmaltz C
+16:55   0  0   -3   1   0   0   0   1   0/1
+Kevin Stenlund C
+13:50   0  0    0   3   0   0   0   0   8/9
+Kailer Yamamoto R
+10:44   0  0   -1   0   0   0   0   0   2/2
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  20:30   0  1    1   0   1   2   0   3   0/0Michael Kesselring D  19:40   0  0    0   1   0   2   1   3   0/0Vladislav Kolyachonok D  12:20   0  0   -3   0   0   0   0   2   0/0Maveric Lamoureux D  18:50   0  0    1   1   3   0   0   1   0/0Mikhail Sergachev D  23:38   0  0    0   4   1   0   0   1   0/0Juuso Valimaki D  17:43   0  0   -3   0   2   0   0   0   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ian Cole D
+20:30   0  1    1   0   1   2   0   3   0/0
+Michael Kesselring D
+19:40   0  0    0   1   0   2   1   3   0/0
+Vladislav Kolyachonok D
+12:20   0  0   -3   0   0   0   0   2   0/0
+Maveric Lamoureux D
+18:50   0  0    1   1   3   0   0   1   0/0
+Mikhail Sergachev D
+23:38   0  0    0   4   1   0   0   1   0/0
+Juuso Valimaki D
+17:43   0  0   -3   0   2   0   0   0   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  11   8   5  19 41/57
+                                        71.9%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKarel Vejmelka G  60:00   5  21/26  17/20   3/5   1/1     0
+              .808   .850  .600 1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Karel Vejmelka G
+60:00   5  21/26  17/20   3/5   1/1     0
+              .808   .850  .600 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,397 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Colorado
+Avalanche5-7-0Final2 - 5Nashville
+Predators4-6-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+COL   0  1  1    2  
+NSH   0  2  3    5
+Goals and Penalties: ShowHide
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  18:14 
+Steven Stamkos (NSH) hooking against Logan O'Connor (2 minutes)
+   0-0
+P2  18:07 
+Ivan Ivan (COL) holding against Brady Skjei (2 minutes)
+   0-0
+P2  17:28 
+Filip Forsberg (NSH) holding against Cale Makar (2 minutes)
+   0-0
+P2  17:06 
+Cale Makar (COL) scores power-play goal on wrist shot past Juuse Saros, assisted by Casey Mittelstadt and Nathan MacKinnon
+   1-0
+P2  11:34 
+John Ludvig (COL) tripping against Filip Forsberg (2 minutes)
+   1-0
+P2  11:29 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Roman Josi and Ryan O'Reilly
+   1-1
+P2  10:41 
+Jeremy Lauzon (NSH) hooking against Joel Kiviranta (2 minutes)
+   1-1
+P2  07:42 
+Luke Schenn (NSH) interference against Parker Kelly (2 minutes)
+   1-1
+P2  01:20 
+Colton Sissons (NSH) scores on tip-in past Justus Annunen, assisted by Marc Del Gaizo and Zachary L'Heureux
+   1-2
+3rd Period: ShowHide
+P3  15:12 
+Joel Kiviranta (COL) high-sticking against Brady Skjei (2 minutes)
+   1-2
+P3  14:45 
+Roman Josi (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Steven Stamkos and Jonathan Marchessault
+   1-3
+P3  02:17 
+Nathan MacKinnon (COL) scores goal with extra attacker on backhand shot past Juuse Saros, assisted by Devon Toews and Cale Makar
+   2-3
+P3  01:14 
+Filip Forsberg (NSH) scores on empty net, assisted by Gustav Nyquist
+   2-4
+P3  00:41 
+Gustav Nyquist (NSH) scores on empty net
+   2-5
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Ivan C  17:52   0  0   -2   1   0   2   1   1   0/0Parker Kelly C  13:52   0  0    0   4   1   0   0   0  5/10Joel Kiviranta L  15:45   0  0    0   3   0   2   1   0   0/0Nikolai Kovalenko R  12:25   0  0    0   0   0   0   1   3   0/0Nathan MacKinnon C  22:32   1  1   -1   6   1   0   0   5 15/27Casey Mittelstadt C  21:55   0  1   -2   2   1   0   0   0  5/11Logan O'Connor R  16:13   0  0   -1   1   0   0   1   0   1/2Nikita Prishchepov C  13:30   0  0    0   2   0   0   0   0   0/0Mikko Rantanen R  26:20   0  0   -1   3   0   0   0   3   0/6T.J. Tynan C  08:15   0  0    0   0   2   0   0   1   1/2Chris Wagner R  08:36   0  0    0   1   2   0   0   0   4/5Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  23:09   0  0    0   3   4   0   1   1   0/0Oliver Kylington D  04:27   0  0    0   0   0   0   0   0   0/0John Ludvig D  11:32   0  0    0   1   0   2   0   0   0/0Cale Makar D  26:38   1  1   -1   3   3   0   3   2   0/0Sam Malinski D  15:57   0  0    0   0   0   0   1   2   0/0Josh Manson D  16:59   0  0   -1   0   1   0   2   3   0/0Devon Toews D  23:09   0  1   -2   0   1   0   0   2   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       30  16   6  11  23 31/63
+                                        49.2%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  58:22   3  20/23  20/21   0/2   0/0     0
+              .870   .952  .000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  10:29   0  0    0   2   0   0   0   0   0/0Filip Forsberg L  18:00   1  0    1   5   0   2   1   0   0/0Mark Jankowski L  10:43   0  0    0   0   0   0   0   1   0/4Zachary L'Heureux L  10:45   0  1    1   1   0   0   0   1   0/0Jonathan Marchessault R  18:39   0  1    0   3   1   0   0   2   0/0Tommy Novak C  09:54   0  0    0   0   1   0   0   0   1/4Gustav Nyquist R  15:53   1  1    2   1   2   0   0   0   1/1Ryan O'Reilly C  19:20   0  1    1   0   2   0   0   0 15/25Juuso Parssinen C  13:07   0  0    0   2   2   0   0   2   5/7Colton Sissons C  14:53   1  0    2   2   2   0   1   0  7/13Cole Smith R  14:11   0  0    0   2   1   0   0   1   0/1Steven Stamkos C  16:56   1  1   -1   1   1   2   0   0   3/8Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  23:04   0  0    0   0   3   0   0   1   0/0Marc Del Gaizo D  16:34   0  1    1   0   3   0   1   0   0/0Roman Josi D  24:10   1  1    1   4   2   0   1   1   0/0Jeremy Lauzon D  20:40   0  0    2   2   0   2   0   2   0/0Luke Schenn D  16:00   0  0    0   0   2   2   0   1   0/0Brady Skjei D  19:34   0  0    0   0   4   0   0   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       25  26   8   4  15 32/63
+                                        50.8%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  60:00   2  28/30  25/26   3/4   0/0     0
+              .933   .962  .750
+Colorado
+Avalanche5-7-0Final2 - 5Nashville
+Predators4-6-1
+Colorado
+Avalanche5-7-0
+Final2 - 5
+Nashville
+Predators4-6-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+COL   0  1  1    2  
+NSH   0  2  3    5
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  18:14 
+Steven Stamkos (NSH) hooking against Logan O'Connor (2 minutes)
+   0-0
+P2  18:07 
+Ivan Ivan (COL) holding against Brady Skjei (2 minutes)
+   0-0
+P2  17:28 
+Filip Forsberg (NSH) holding against Cale Makar (2 minutes)
+   0-0
+P2  17:06 
+Cale Makar (COL) scores power-play goal on wrist shot past Juuse Saros, assisted by Casey Mittelstadt and Nathan MacKinnon
+   1-0
+P2  11:34 
+John Ludvig (COL) tripping against Filip Forsberg (2 minutes)
+   1-0
+P2  11:29 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Roman Josi and Ryan O'Reilly
+   1-1
+P2  10:41 
+Jeremy Lauzon (NSH) hooking against Joel Kiviranta (2 minutes)
+   1-1
+P2  07:42 
+Luke Schenn (NSH) interference against Parker Kelly (2 minutes)
+   1-1
+P2  01:20 
+Colton Sissons (NSH) scores on tip-in past Justus Annunen, assisted by Marc Del Gaizo and Zachary L'Heureux
+   1-2
+3rd Period: ShowHide
+P3  15:12 
+Joel Kiviranta (COL) high-sticking against Brady Skjei (2 minutes)
+   1-2
+P3  14:45 
+Roman Josi (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Steven Stamkos and Jonathan Marchessault
+   1-3
+P3  02:17 
+Nathan MacKinnon (COL) scores goal with extra attacker on backhand shot past Juuse Saros, assisted by Devon Toews and Cale Makar
+   2-3
+P3  01:14 
+Filip Forsberg (NSH) scores on empty net, assisted by Gustav Nyquist
+   2-4
+P3  00:41 
+Gustav Nyquist (NSH) scores on empty net
+   2-5
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  18:14 
+Steven Stamkos (NSH) hooking against Logan O'Connor (2 minutes)
+   0-0
+P2  18:07 
+Ivan Ivan (COL) holding against Brady Skjei (2 minutes)
+   0-0
+P2  17:28 
+Filip Forsberg (NSH) holding against Cale Makar (2 minutes)
+   0-0
+P2  17:06 
+Cale Makar (COL) scores power-play goal on wrist shot past Juuse Saros, assisted by Casey Mittelstadt and Nathan MacKinnon
+   1-0
+P2  11:34 
+John Ludvig (COL) tripping against Filip Forsberg (2 minutes)
+   1-0
+P2  11:29 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Roman Josi and Ryan O'Reilly
+   1-1
+P2  10:41 
+Jeremy Lauzon (NSH) hooking against Joel Kiviranta (2 minutes)
+   1-1
+P2  07:42 
+Luke Schenn (NSH) interference against Parker Kelly (2 minutes)
+   1-1
+P2  01:20 
+Colton Sissons (NSH) scores on tip-in past Justus Annunen, assisted by Marc Del Gaizo and Zachary L'Heureux
+   1-2
+P2  18:14 
+Steven Stamkos (NSH) hooking against Logan O'Connor (2 minutes)
+   0-0
+P2  18:07 
+Ivan Ivan (COL) holding against Brady Skjei (2 minutes)
+   0-0
+P2  17:28 
+Filip Forsberg (NSH) holding against Cale Makar (2 minutes)
+   0-0
+P2  17:06 
+Cale Makar (COL) scores power-play goal on wrist shot past Juuse Saros, assisted by Casey Mittelstadt and Nathan MacKinnon
+   1-0
+P2  11:34 
+John Ludvig (COL) tripping against Filip Forsberg (2 minutes)
+   1-0
+P2  11:29 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Roman Josi and Ryan O'Reilly
+   1-1
+P2  10:41 
+Jeremy Lauzon (NSH) hooking against Joel Kiviranta (2 minutes)
+   1-1
+P2  07:42 
+Luke Schenn (NSH) interference against Parker Kelly (2 minutes)
+   1-1
+P2  01:20 
+Colton Sissons (NSH) scores on tip-in past Justus Annunen, assisted by Marc Del Gaizo and Zachary L'Heureux
+   1-2
+P2  18:14
+Steven Stamkos (NSH) hooking against Logan O'Connor (2 minutes)
+0-0
+P2  18:07
+Ivan Ivan (COL) holding against Brady Skjei (2 minutes)
+0-0
+P2  17:28
+Filip Forsberg (NSH) holding against Cale Makar (2 minutes)
+0-0
+P2  17:06
+Cale Makar (COL) scores power-play goal on wrist shot past Juuse Saros, assisted by Casey Mittelstadt and Nathan MacKinnon
+1-0
+P2  11:34
+John Ludvig (COL) tripping against Filip Forsberg (2 minutes)
+1-0
+P2  11:29
+Steven Stamkos (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Roman Josi and Ryan O'Reilly
+1-1
+P2  10:41
+Jeremy Lauzon (NSH) hooking against Joel Kiviranta (2 minutes)
+1-1
+P2  07:42
+Luke Schenn (NSH) interference against Parker Kelly (2 minutes)
+1-1
+P2  01:20
+Colton Sissons (NSH) scores on tip-in past Justus Annunen, assisted by Marc Del Gaizo and Zachary L'Heureux
+1-2
+3rd Period: ShowHide
+P3  15:12 
+Joel Kiviranta (COL) high-sticking against Brady Skjei (2 minutes)
+   1-2
+P3  14:45 
+Roman Josi (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Steven Stamkos and Jonathan Marchessault
+   1-3
+P3  02:17 
+Nathan MacKinnon (COL) scores goal with extra attacker on backhand shot past Juuse Saros, assisted by Devon Toews and Cale Makar
+   2-3
+P3  01:14 
+Filip Forsberg (NSH) scores on empty net, assisted by Gustav Nyquist
+   2-4
+P3  00:41 
+Gustav Nyquist (NSH) scores on empty net
+   2-5
+P3  15:12 
+Joel Kiviranta (COL) high-sticking against Brady Skjei (2 minutes)
+   1-2
+P3  14:45 
+Roman Josi (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Steven Stamkos and Jonathan Marchessault
+   1-3
+P3  02:17 
+Nathan MacKinnon (COL) scores goal with extra attacker on backhand shot past Juuse Saros, assisted by Devon Toews and Cale Makar
+   2-3
+P3  01:14 
+Filip Forsberg (NSH) scores on empty net, assisted by Gustav Nyquist
+   2-4
+P3  00:41 
+Gustav Nyquist (NSH) scores on empty net
+   2-5
+P3  15:12
+Joel Kiviranta (COL) high-sticking against Brady Skjei (2 minutes)
+1-2
+P3  14:45
+Roman Josi (NSH) scores power-play goal on slap shot past Justus Annunen, assisted by Steven Stamkos and Jonathan Marchessault
+1-3
+P3  02:17
+Nathan MacKinnon (COL) scores goal with extra attacker on backhand shot past Juuse Saros, assisted by Devon Toews and Cale Makar
+2-3
+P3  01:14
+Filip Forsberg (NSH) scores on empty net, assisted by Gustav Nyquist
+2-4
+P3  00:41
+Gustav Nyquist (NSH) scores on empty net
+2-5
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Ivan C  17:52   0  0   -2   1   0   2   1   1   0/0Parker Kelly C  13:52   0  0    0   4   1   0   0   0  5/10Joel Kiviranta L  15:45   0  0    0   3   0   2   1   0   0/0Nikolai Kovalenko R  12:25   0  0    0   0   0   0   1   3   0/0Nathan MacKinnon C  22:32   1  1   -1   6   1   0   0   5 15/27Casey Mittelstadt C  21:55   0  1   -2   2   1   0   0   0  5/11Logan O'Connor R  16:13   0  0   -1   1   0   0   1   0   1/2Nikita Prishchepov C  13:30   0  0    0   2   0   0   0   0   0/0Mikko Rantanen R  26:20   0  0   -1   3   0   0   0   3   0/6T.J. Tynan C  08:15   0  0    0   0   2   0   0   1   1/2Chris Wagner R  08:36   0  0    0   1   2   0   0   0   4/5Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  23:09   0  0    0   3   4   0   1   1   0/0Oliver Kylington D  04:27   0  0    0   0   0   0   0   0   0/0John Ludvig D  11:32   0  0    0   1   0   2   0   0   0/0Cale Makar D  26:38   1  1   -1   3   3   0   3   2   0/0Sam Malinski D  15:57   0  0    0   0   0   0   1   2   0/0Josh Manson D  16:59   0  0   -1   0   1   0   2   3   0/0Devon Toews D  23:09   0  1   -2   0   1   0   0   2   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       30  16   6  11  23 31/63
+                                        49.2%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  58:22   3  20/23  20/21   0/2   0/0     0
+              .870   .952  .000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  10:29   0  0    0   2   0   0   0   0   0/0Filip Forsberg L  18:00   1  0    1   5   0   2   1   0   0/0Mark Jankowski L  10:43   0  0    0   0   0   0   0   1   0/4Zachary L'Heureux L  10:45   0  1    1   1   0   0   0   1   0/0Jonathan Marchessault R  18:39   0  1    0   3   1   0   0   2   0/0Tommy Novak C  09:54   0  0    0   0   1   0   0   0   1/4Gustav Nyquist R  15:53   1  1    2   1   2   0   0   0   1/1Ryan O'Reilly C  19:20   0  1    1   0   2   0   0   0 15/25Juuso Parssinen C  13:07   0  0    0   2   2   0   0   2   5/7Colton Sissons C  14:53   1  0    2   2   2   0   1   0  7/13Cole Smith R  14:11   0  0    0   2   1   0   0   1   0/1Steven Stamkos C  16:56   1  1   -1   1   1   2   0   0   3/8Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  23:04   0  0    0   0   3   0   0   1   0/0Marc Del Gaizo D  16:34   0  1    1   0   3   0   1   0   0/0Roman Josi D  24:10   1  1    1   4   2   0   1   1   0/0Jeremy Lauzon D  20:40   0  0    2   2   0   2   0   2   0/0Luke Schenn D  16:00   0  0    0   0   2   2   0   1   0/0Brady Skjei D  19:34   0  0    0   0   4   0   0   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       25  26   8   4  15 32/63
+                                        50.8%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  60:00   2  28/30  25/26   3/4   0/0     0
+              .933   .962  .750
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Ivan C  17:52   0  0   -2   1   0   2   1   1   0/0Parker Kelly C  13:52   0  0    0   4   1   0   0   0  5/10Joel Kiviranta L  15:45   0  0    0   3   0   2   1   0   0/0Nikolai Kovalenko R  12:25   0  0    0   0   0   0   1   3   0/0Nathan MacKinnon C  22:32   1  1   -1   6   1   0   0   5 15/27Casey Mittelstadt C  21:55   0  1   -2   2   1   0   0   0  5/11Logan O'Connor R  16:13   0  0   -1   1   0   0   1   0   1/2Nikita Prishchepov C  13:30   0  0    0   2   0   0   0   0   0/0Mikko Rantanen R  26:20   0  0   -1   3   0   0   0   3   0/6T.J. Tynan C  08:15   0  0    0   0   2   0   0   1   1/2Chris Wagner R  08:36   0  0    0   1   2   0   0   0   4/5
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Ivan C
+17:52   0  0   -2   1   0   2   1   1   0/0
+Parker Kelly C
+13:52   0  0    0   4   1   0   0   0  5/10
+Joel Kiviranta L
+15:45   0  0    0   3   0   2   1   0   0/0
+Nikolai Kovalenko R
+12:25   0  0    0   0   0   0   1   3   0/0
+Nathan MacKinnon C
+22:32   1  1   -1   6   1   0   0   5 15/27
+Casey Mittelstadt C
+21:55   0  1   -2   2   1   0   0   0  5/11
+Logan O'Connor R
+16:13   0  0   -1   1   0   0   1   0   1/2
+Nikita Prishchepov C
+13:30   0  0    0   2   0   0   0   0   0/0
+Mikko Rantanen R
+26:20   0  0   -1   3   0   0   0   3   0/6
+T.J. Tynan C
+08:15   0  0    0   0   2   0   0   1   1/2
+Chris Wagner R
+08:36   0  0    0   1   2   0   0   0   4/5
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  23:09   0  0    0   3   4   0   1   1   0/0Oliver Kylington D  04:27   0  0    0   0   0   0   0   0   0/0John Ludvig D  11:32   0  0    0   1   0   2   0   0   0/0Cale Makar D  26:38   1  1   -1   3   3   0   3   2   0/0Sam Malinski D  15:57   0  0    0   0   0   0   1   2   0/0Josh Manson D  16:59   0  0   -1   0   1   0   2   3   0/0Devon Toews D  23:09   0  1   -2   0   1   0   0   2   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+23:09   0  0    0   3   4   0   1   1   0/0
+Oliver Kylington D
+04:27   0  0    0   0   0   0   0   0   0/0
+John Ludvig D
+11:32   0  0    0   1   0   2   0   0   0/0
+Cale Makar D
+26:38   1  1   -1   3   3   0   3   2   0/0
+Sam Malinski D
+15:57   0  0    0   0   0   0   1   2   0/0
+Josh Manson D
+16:59   0  0   -1   0   1   0   2   3   0/0
+Devon Toews D
+23:09   0  1   -2   0   1   0   0   2   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       30  16   6  11  23 31/63
+                                        49.2%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  58:22   3  20/23  20/21   0/2   0/0     0
+              .870   .952  .000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Justus Annunen G
+58:22   3  20/23  20/21   0/2   0/0     0
+              .870   .952  .000
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  10:29   0  0    0   2   0   0   0   0   0/0Filip Forsberg L  18:00   1  0    1   5   0   2   1   0   0/0Mark Jankowski L  10:43   0  0    0   0   0   0   0   1   0/4Zachary L'Heureux L  10:45   0  1    1   1   0   0   0   1   0/0Jonathan Marchessault R  18:39   0  1    0   3   1   0   0   2   0/0Tommy Novak C  09:54   0  0    0   0   1   0   0   0   1/4Gustav Nyquist R  15:53   1  1    2   1   2   0   0   0   1/1Ryan O'Reilly C  19:20   0  1    1   0   2   0   0   0 15/25Juuso Parssinen C  13:07   0  0    0   2   2   0   0   2   5/7Colton Sissons C  14:53   1  0    2   2   2   0   1   0  7/13Cole Smith R  14:11   0  0    0   2   1   0   0   1   0/1Steven Stamkos C  16:56   1  1   -1   1   1   2   0   0   3/8
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+10:29   0  0    0   2   0   0   0   0   0/0
+Filip Forsberg L
+18:00   1  0    1   5   0   2   1   0   0/0
+Mark Jankowski L
+10:43   0  0    0   0   0   0   0   1   0/4
+Zachary L'Heureux L
+10:45   0  1    1   1   0   0   0   1   0/0
+Jonathan Marchessault R
+18:39   0  1    0   3   1   0   0   2   0/0
+Tommy Novak C
+09:54   0  0    0   0   1   0   0   0   1/4
+Gustav Nyquist R
+15:53   1  1    2   1   2   0   0   0   1/1
+Ryan O'Reilly C
+19:20   0  1    1   0   2   0   0   0 15/25
+Juuso Parssinen C
+13:07   0  0    0   2   2   0   0   2   5/7
+Colton Sissons C
+14:53   1  0    2   2   2   0   1   0  7/13
+Cole Smith R
+14:11   0  0    0   2   1   0   0   1   0/1
+Steven Stamkos C
+16:56   1  1   -1   1   1   2   0   0   3/8
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  23:04   0  0    0   0   3   0   0   1   0/0Marc Del Gaizo D  16:34   0  1    1   0   3   0   1   0   0/0Roman Josi D  24:10   1  1    1   4   2   0   1   1   0/0Jeremy Lauzon D  20:40   0  0    2   2   0   2   0   2   0/0Luke Schenn D  16:00   0  0    0   0   2   2   0   1   0/0Brady Skjei D  19:34   0  0    0   0   4   0   0   3   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+23:04   0  0    0   0   3   0   0   1   0/0
+Marc Del Gaizo D
+16:34   0  1    1   0   3   0   1   0   0/0
+Roman Josi D
+24:10   1  1    1   4   2   0   1   1   0/0
+Jeremy Lauzon D
+20:40   0  0    2   2   0   2   0   2   0/0
+Luke Schenn D
+16:00   0  0    0   0   2   2   0   1   0/0
+Brady Skjei D
+19:34   0  0    0   0   4   0   0   3   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       25  26   8   4  15 32/63
+                                        50.8%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  60:00   2  28/30  25/26   3/4   0/0     0
+              .933   .962  .750
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Juuse Saros G
+60:00   2  28/30  25/26   3/4   0/0     0
+              .933   .962  .750
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

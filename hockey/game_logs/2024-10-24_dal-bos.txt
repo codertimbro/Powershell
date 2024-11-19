@@ -1,0 +1,427 @@
+< Oct. 24 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Dallas
+Stars6-2-0Final5 - 2Boston
+Bruins3-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+DAL   1  3  1    5  
+BOS   1  1  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  12:49 
+Ilya Lyubushkin (DAL) hooking against David Pastrnak (2 minutes)
+   0-0
+P1  09:31 
+Brad Marchand (BOS) high-sticking against Tyler Seguin (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) slashing against Elias Lindholm (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) unsportsmanlike conduct against Elias Lindholm (2 minutes)
+   0-0
+P1  08:03 
+David Pastrnak (BOS) scores on snap shot past Casey DeSmith, assisted by Matthew Poitras
+   0-1
+P1  03:40 
+Matt Duchene (DAL) scores on wrist shot past Jeremy Swayman, assisted by Tyler Seguin and Thomas Harley
+   1-1
+2nd Period: ShowHide
+P2  19:49 
+David Pastrnak (BOS) hooking against Roope Hintz (2 minutes)
+   1-1
+P2  19:29 
+Jason Robertson (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Jamie Benn and Miro Heiskanen
+   2-1
+P2  16:07 
+Parker Wotherspoon (BOS) interference against Matt Duchene (2 minutes)
+   2-1
+P2  15:03 
+Logan Stankoven (DAL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Matt Duchene and Mason Marchment
+   3-1
+P2  12:06 
+David Pastrnak (BOS) tripping against Mathew Dumba (2 minutes)
+   3-1
+P2  11:01 
+Tyler Seguin (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Mason Marchment and Matt Duchene
+   4-1
+P2  10:46 
+Sam Steel (DAL) hooking against Andrew Peeke (2 minutes)
+   4-1
+P2  09:19 
+Justin Brazeau (BOS) scores power-play goal on wrist shot past Casey DeSmith, assisted by Trent Frederic and Morgan Geekie
+   4-2
+3rd Period: ShowHide
+P3  16:19 
+Brad Marchand (BOS) cross-checking against Ilya Lyubushkin (2 minutes)
+   4-2
+P3  02:02 
+Roope Hintz (DAL) scores on empty net, assisted by Tyler Seguin
+   5-2
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:02   0  1    0   0   1   4   1   3   2/5Colin Blackwell C  10:55   0  0    0   0   0   0   2   0   1/2Oskar Bäck C  10:24   0  0    0   0   0   0   0   0   0/2Evgenii Dadonov R  13:12   0  0    0   2   0   0   0   1   0/0Matt Duchene C  15:21   1  2    1   2   0   0   1   0  5/11Roope Hintz C  18:18   1  0    0   4   1   0   0   1  4/12Wyatt Johnston C  18:15   0  0    0   5   1   0   0   0  6/10Mason Marchment L  16:01   0  2    0   1   0   0   0   0   0/0Jason Robertson L  19:24   1  0    1   4   1   0   0   0   0/0Tyler Seguin C  15:02   1  2    2   1   1   0   0   0   5/7Logan Stankoven C  14:05   1  0    0   3   0   0   0   2   0/1Sam Steel C  11:13   0  0    0   2   0   2   0   0   2/3Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  20:27   0  0   -1   1   0   0   0   5   0/0Thomas Harley D  18:55   0  1    1   1   2   0   0   0   0/0Miro Heiskanen D  24:06   0  1    1   1   0   0   0   3   0/0Esa Lindell D  20:15   0  0    0   2   1   0   0   1   0/0Nils Lundkvist D  14:40   0  0    1   2   0   0   0   3   0/0Ilya Lyubushkin D  17:02   0  0    0   1   1   2   0   0   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       32   9   8   4  19 25/53
+                                        47.2%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:56   2  25/27  20/21   4/5   1/1     0
+              .926   .952  .800 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:02   0  0   -1   0   2   0   0   1   2/6Justin Brazeau R  12:40   1  0    0   2   0   0   1   1   0/0Charlie Coyle C  15:28   0  0    0   3   1   0   1   1  4/10Trent Frederic C  13:14   0  1    0   0   0   0   0   1   1/2Morgan Geekie C  15:20   0  1    0   3   2   0   0   0   1/2Mark Kastelic C  12:09   0  0   -1   2   0   0   0   2   5/9Cole Koepke L  12:21   0  0   -1   0   0   0   0   0   0/0Elias Lindholm C  18:37   0  0   -1   2   1   0   1   0 10/14Brad Marchand L  17:52   0  0   -1   2   0   4   1   3   0/0David Pastrnak R  19:49   1  0    0   7   1   4   0   2   0/0Matthew Poitras C  13:33   0  1    1   1   0   0   0   0   0/3Pavel Zacha C  19:27   0  0    0   1   1   0   0   0   5/7Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:36   0  0    0   1   2   0   0   0   0/0Hampus Lindholm D  19:45   0  0   -1   1   3   0   0   2   0/0Charlie McAvoy D  21:59   0  0    0   1   0   0   0   2   0/0Andrew Peeke D  16:29   0  0   -1   1   0   0   0   3   0/0Parker Wotherspoon D  17:56   0  0   -1   0   0   2   1   2   0/0Nikita Zadorov D  19:08   0  0    0   0   3   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       27  16  10   5  21 28/53
+                                        52.8%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  58:06   4  27/31  20/21   3/6   4/4     0
+              .871   .952  .500 1.000
+Dallas
+Stars6-2-0Final5 - 2Boston
+Bruins3-4-1
+Dallas
+Stars6-2-0
+Final5 - 2
+Boston
+Bruins3-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+DAL   1  3  1    5  
+BOS   1  1  0    2
+1st Period: ShowHide
+P1  12:49 
+Ilya Lyubushkin (DAL) hooking against David Pastrnak (2 minutes)
+   0-0
+P1  09:31 
+Brad Marchand (BOS) high-sticking against Tyler Seguin (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) slashing against Elias Lindholm (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) unsportsmanlike conduct against Elias Lindholm (2 minutes)
+   0-0
+P1  08:03 
+David Pastrnak (BOS) scores on snap shot past Casey DeSmith, assisted by Matthew Poitras
+   0-1
+P1  03:40 
+Matt Duchene (DAL) scores on wrist shot past Jeremy Swayman, assisted by Tyler Seguin and Thomas Harley
+   1-1
+2nd Period: ShowHide
+P2  19:49 
+David Pastrnak (BOS) hooking against Roope Hintz (2 minutes)
+   1-1
+P2  19:29 
+Jason Robertson (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Jamie Benn and Miro Heiskanen
+   2-1
+P2  16:07 
+Parker Wotherspoon (BOS) interference against Matt Duchene (2 minutes)
+   2-1
+P2  15:03 
+Logan Stankoven (DAL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Matt Duchene and Mason Marchment
+   3-1
+P2  12:06 
+David Pastrnak (BOS) tripping against Mathew Dumba (2 minutes)
+   3-1
+P2  11:01 
+Tyler Seguin (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Mason Marchment and Matt Duchene
+   4-1
+P2  10:46 
+Sam Steel (DAL) hooking against Andrew Peeke (2 minutes)
+   4-1
+P2  09:19 
+Justin Brazeau (BOS) scores power-play goal on wrist shot past Casey DeSmith, assisted by Trent Frederic and Morgan Geekie
+   4-2
+3rd Period: ShowHide
+P3  16:19 
+Brad Marchand (BOS) cross-checking against Ilya Lyubushkin (2 minutes)
+   4-2
+P3  02:02 
+Roope Hintz (DAL) scores on empty net, assisted by Tyler Seguin
+   5-2
+1st Period: ShowHide
+P1  12:49 
+Ilya Lyubushkin (DAL) hooking against David Pastrnak (2 minutes)
+   0-0
+P1  09:31 
+Brad Marchand (BOS) high-sticking against Tyler Seguin (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) slashing against Elias Lindholm (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) unsportsmanlike conduct against Elias Lindholm (2 minutes)
+   0-0
+P1  08:03 
+David Pastrnak (BOS) scores on snap shot past Casey DeSmith, assisted by Matthew Poitras
+   0-1
+P1  03:40 
+Matt Duchene (DAL) scores on wrist shot past Jeremy Swayman, assisted by Tyler Seguin and Thomas Harley
+   1-1
+P1  12:49 
+Ilya Lyubushkin (DAL) hooking against David Pastrnak (2 minutes)
+   0-0
+P1  09:31 
+Brad Marchand (BOS) high-sticking against Tyler Seguin (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) slashing against Elias Lindholm (2 minutes)
+   0-0
+P1  08:45 
+Jamie Benn (DAL) unsportsmanlike conduct against Elias Lindholm (2 minutes)
+   0-0
+P1  08:03 
+David Pastrnak (BOS) scores on snap shot past Casey DeSmith, assisted by Matthew Poitras
+   0-1
+P1  03:40 
+Matt Duchene (DAL) scores on wrist shot past Jeremy Swayman, assisted by Tyler Seguin and Thomas Harley
+   1-1
+P1  12:49
+Ilya Lyubushkin (DAL) hooking against David Pastrnak (2 minutes)
+0-0
+P1  09:31
+Brad Marchand (BOS) high-sticking against Tyler Seguin (2 minutes)
+0-0
+P1  08:45
+Jamie Benn (DAL) slashing against Elias Lindholm (2 minutes)
+0-0
+P1  08:45
+Jamie Benn (DAL) unsportsmanlike conduct against Elias Lindholm (2 minutes)
+0-0
+P1  08:03
+David Pastrnak (BOS) scores on snap shot past Casey DeSmith, assisted by Matthew Poitras
+0-1
+P1  03:40
+Matt Duchene (DAL) scores on wrist shot past Jeremy Swayman, assisted by Tyler Seguin and Thomas Harley
+1-1
+2nd Period: ShowHide
+P2  19:49 
+David Pastrnak (BOS) hooking against Roope Hintz (2 minutes)
+   1-1
+P2  19:29 
+Jason Robertson (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Jamie Benn and Miro Heiskanen
+   2-1
+P2  16:07 
+Parker Wotherspoon (BOS) interference against Matt Duchene (2 minutes)
+   2-1
+P2  15:03 
+Logan Stankoven (DAL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Matt Duchene and Mason Marchment
+   3-1
+P2  12:06 
+David Pastrnak (BOS) tripping against Mathew Dumba (2 minutes)
+   3-1
+P2  11:01 
+Tyler Seguin (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Mason Marchment and Matt Duchene
+   4-1
+P2  10:46 
+Sam Steel (DAL) hooking against Andrew Peeke (2 minutes)
+   4-1
+P2  09:19 
+Justin Brazeau (BOS) scores power-play goal on wrist shot past Casey DeSmith, assisted by Trent Frederic and Morgan Geekie
+   4-2
+P2  19:49 
+David Pastrnak (BOS) hooking against Roope Hintz (2 minutes)
+   1-1
+P2  19:29 
+Jason Robertson (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Jamie Benn and Miro Heiskanen
+   2-1
+P2  16:07 
+Parker Wotherspoon (BOS) interference against Matt Duchene (2 minutes)
+   2-1
+P2  15:03 
+Logan Stankoven (DAL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Matt Duchene and Mason Marchment
+   3-1
+P2  12:06 
+David Pastrnak (BOS) tripping against Mathew Dumba (2 minutes)
+   3-1
+P2  11:01 
+Tyler Seguin (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Mason Marchment and Matt Duchene
+   4-1
+P2  10:46 
+Sam Steel (DAL) hooking against Andrew Peeke (2 minutes)
+   4-1
+P2  09:19 
+Justin Brazeau (BOS) scores power-play goal on wrist shot past Casey DeSmith, assisted by Trent Frederic and Morgan Geekie
+   4-2
+P2  19:49
+David Pastrnak (BOS) hooking against Roope Hintz (2 minutes)
+1-1
+P2  19:29
+Jason Robertson (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Jamie Benn and Miro Heiskanen
+2-1
+P2  16:07
+Parker Wotherspoon (BOS) interference against Matt Duchene (2 minutes)
+2-1
+P2  15:03
+Logan Stankoven (DAL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Matt Duchene and Mason Marchment
+3-1
+P2  12:06
+David Pastrnak (BOS) tripping against Mathew Dumba (2 minutes)
+3-1
+P2  11:01
+Tyler Seguin (DAL) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Mason Marchment and Matt Duchene
+4-1
+P2  10:46
+Sam Steel (DAL) hooking against Andrew Peeke (2 minutes)
+4-1
+P2  09:19
+Justin Brazeau (BOS) scores power-play goal on wrist shot past Casey DeSmith, assisted by Trent Frederic and Morgan Geekie
+4-2
+3rd Period: ShowHide
+P3  16:19 
+Brad Marchand (BOS) cross-checking against Ilya Lyubushkin (2 minutes)
+   4-2
+P3  02:02 
+Roope Hintz (DAL) scores on empty net, assisted by Tyler Seguin
+   5-2
+P3  16:19 
+Brad Marchand (BOS) cross-checking against Ilya Lyubushkin (2 minutes)
+   4-2
+P3  02:02 
+Roope Hintz (DAL) scores on empty net, assisted by Tyler Seguin
+   5-2
+P3  16:19
+Brad Marchand (BOS) cross-checking against Ilya Lyubushkin (2 minutes)
+4-2
+P3  02:02
+Roope Hintz (DAL) scores on empty net, assisted by Tyler Seguin
+5-2
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:02   0  1    0   0   1   4   1   3   2/5Colin Blackwell C  10:55   0  0    0   0   0   0   2   0   1/2Oskar Bäck C  10:24   0  0    0   0   0   0   0   0   0/2Evgenii Dadonov R  13:12   0  0    0   2   0   0   0   1   0/0Matt Duchene C  15:21   1  2    1   2   0   0   1   0  5/11Roope Hintz C  18:18   1  0    0   4   1   0   0   1  4/12Wyatt Johnston C  18:15   0  0    0   5   1   0   0   0  6/10Mason Marchment L  16:01   0  2    0   1   0   0   0   0   0/0Jason Robertson L  19:24   1  0    1   4   1   0   0   0   0/0Tyler Seguin C  15:02   1  2    2   1   1   0   0   0   5/7Logan Stankoven C  14:05   1  0    0   3   0   0   0   2   0/1Sam Steel C  11:13   0  0    0   2   0   2   0   0   2/3Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  20:27   0  0   -1   1   0   0   0   5   0/0Thomas Harley D  18:55   0  1    1   1   2   0   0   0   0/0Miro Heiskanen D  24:06   0  1    1   1   0   0   0   3   0/0Esa Lindell D  20:15   0  0    0   2   1   0   0   1   0/0Nils Lundkvist D  14:40   0  0    1   2   0   0   0   3   0/0Ilya Lyubushkin D  17:02   0  0    0   1   1   2   0   0   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       32   9   8   4  19 25/53
+                                        47.2%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:56   2  25/27  20/21   4/5   1/1     0
+              .926   .952  .800 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:02   0  0   -1   0   2   0   0   1   2/6Justin Brazeau R  12:40   1  0    0   2   0   0   1   1   0/0Charlie Coyle C  15:28   0  0    0   3   1   0   1   1  4/10Trent Frederic C  13:14   0  1    0   0   0   0   0   1   1/2Morgan Geekie C  15:20   0  1    0   3   2   0   0   0   1/2Mark Kastelic C  12:09   0  0   -1   2   0   0   0   2   5/9Cole Koepke L  12:21   0  0   -1   0   0   0   0   0   0/0Elias Lindholm C  18:37   0  0   -1   2   1   0   1   0 10/14Brad Marchand L  17:52   0  0   -1   2   0   4   1   3   0/0David Pastrnak R  19:49   1  0    0   7   1   4   0   2   0/0Matthew Poitras C  13:33   0  1    1   1   0   0   0   0   0/3Pavel Zacha C  19:27   0  0    0   1   1   0   0   0   5/7Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:36   0  0    0   1   2   0   0   0   0/0Hampus Lindholm D  19:45   0  0   -1   1   3   0   0   2   0/0Charlie McAvoy D  21:59   0  0    0   1   0   0   0   2   0/0Andrew Peeke D  16:29   0  0   -1   1   0   0   0   3   0/0Parker Wotherspoon D  17:56   0  0   -1   0   0   2   1   2   0/0Nikita Zadorov D  19:08   0  0    0   0   3   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       27  16  10   5  21 28/53
+                                        52.8%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  58:06   4  27/31  20/21   3/6   4/4     0
+              .871   .952  .500 1.000
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:02   0  1    0   0   1   4   1   3   2/5Colin Blackwell C  10:55   0  0    0   0   0   0   2   0   1/2Oskar Bäck C  10:24   0  0    0   0   0   0   0   0   0/2Evgenii Dadonov R  13:12   0  0    0   2   0   0   0   1   0/0Matt Duchene C  15:21   1  2    1   2   0   0   1   0  5/11Roope Hintz C  18:18   1  0    0   4   1   0   0   1  4/12Wyatt Johnston C  18:15   0  0    0   5   1   0   0   0  6/10Mason Marchment L  16:01   0  2    0   1   0   0   0   0   0/0Jason Robertson L  19:24   1  0    1   4   1   0   0   0   0/0Tyler Seguin C  15:02   1  2    2   1   1   0   0   0   5/7Logan Stankoven C  14:05   1  0    0   3   0   0   0   2   0/1Sam Steel C  11:13   0  0    0   2   0   2   0   0   2/3
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Benn L
+15:02   0  1    0   0   1   4   1   3   2/5
+Colin Blackwell C
+10:55   0  0    0   0   0   0   2   0   1/2
+Oskar Bäck C
+10:24   0  0    0   0   0   0   0   0   0/2
+Evgenii Dadonov R
+13:12   0  0    0   2   0   0   0   1   0/0
+Matt Duchene C
+15:21   1  2    1   2   0   0   1   0  5/11
+Roope Hintz C
+18:18   1  0    0   4   1   0   0   1  4/12
+Wyatt Johnston C
+18:15   0  0    0   5   1   0   0   0  6/10
+Mason Marchment L
+16:01   0  2    0   1   0   0   0   0   0/0
+Jason Robertson L
+19:24   1  0    1   4   1   0   0   0   0/0
+Tyler Seguin C
+15:02   1  2    2   1   1   0   0   0   5/7
+Logan Stankoven C
+14:05   1  0    0   3   0   0   0   2   0/1
+Sam Steel C
+11:13   0  0    0   2   0   2   0   0   2/3
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  20:27   0  0   -1   1   0   0   0   5   0/0Thomas Harley D  18:55   0  1    1   1   2   0   0   0   0/0Miro Heiskanen D  24:06   0  1    1   1   0   0   0   3   0/0Esa Lindell D  20:15   0  0    0   2   1   0   0   1   0/0Nils Lundkvist D  14:40   0  0    1   2   0   0   0   3   0/0Ilya Lyubushkin D  17:02   0  0    0   1   1   2   0   0   0/0
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Dumba D
+20:27   0  0   -1   1   0   0   0   5   0/0
+Thomas Harley D
+18:55   0  1    1   1   2   0   0   0   0/0
+Miro Heiskanen D
+24:06   0  1    1   1   0   0   0   3   0/0
+Esa Lindell D
+20:15   0  0    0   2   1   0   0   1   0/0
+Nils Lundkvist D
+14:40   0  0    1   2   0   0   0   3   0/0
+Ilya Lyubushkin D
+17:02   0  0    0   1   1   2   0   0   0/0
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       32   9   8   4  19 25/53
+                                        47.2%
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:56   2  25/27  20/21   4/5   1/1     0
+              .926   .952  .800 1.000
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Casey DeSmith G
+59:56   2  25/27  20/21   4/5   1/1     0
+              .926   .952  .800 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:02   0  0   -1   0   2   0   0   1   2/6Justin Brazeau R  12:40   1  0    0   2   0   0   1   1   0/0Charlie Coyle C  15:28   0  0    0   3   1   0   1   1  4/10Trent Frederic C  13:14   0  1    0   0   0   0   0   1   1/2Morgan Geekie C  15:20   0  1    0   3   2   0   0   0   1/2Mark Kastelic C  12:09   0  0   -1   2   0   0   0   2   5/9Cole Koepke L  12:21   0  0   -1   0   0   0   0   0   0/0Elias Lindholm C  18:37   0  0   -1   2   1   0   1   0 10/14Brad Marchand L  17:52   0  0   -1   2   0   4   1   3   0/0David Pastrnak R  19:49   1  0    0   7   1   4   0   2   0/0Matthew Poitras C  13:33   0  1    1   1   0   0   0   0   0/3Pavel Zacha C  19:27   0  0    0   1   1   0   0   0   5/7
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+11:02   0  0   -1   0   2   0   0   1   2/6
+Justin Brazeau R
+12:40   1  0    0   2   0   0   1   1   0/0
+Charlie Coyle C
+15:28   0  0    0   3   1   0   1   1  4/10
+Trent Frederic C
+13:14   0  1    0   0   0   0   0   1   1/2
+Morgan Geekie C
+15:20   0  1    0   3   2   0   0   0   1/2
+Mark Kastelic C
+12:09   0  0   -1   2   0   0   0   2   5/9
+Cole Koepke L
+12:21   0  0   -1   0   0   0   0   0   0/0
+Elias Lindholm C
+18:37   0  0   -1   2   1   0   1   0 10/14
+Brad Marchand L
+17:52   0  0   -1   2   0   4   1   3   0/0
+David Pastrnak R
+19:49   1  0    0   7   1   4   0   2   0/0
+Matthew Poitras C
+13:33   0  1    1   1   0   0   0   0   0/3
+Pavel Zacha C
+19:27   0  0    0   1   1   0   0   0   5/7
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:36   0  0    0   1   2   0   0   0   0/0Hampus Lindholm D  19:45   0  0   -1   1   3   0   0   2   0/0Charlie McAvoy D  21:59   0  0    0   1   0   0   0   2   0/0Andrew Peeke D  16:29   0  0   -1   1   0   0   0   3   0/0Parker Wotherspoon D  17:56   0  0   -1   0   0   2   1   2   0/0Nikita Zadorov D  19:08   0  0    0   0   3   0   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+18:36   0  0    0   1   2   0   0   0   0/0
+Hampus Lindholm D
+19:45   0  0   -1   1   3   0   0   2   0/0
+Charlie McAvoy D
+21:59   0  0    0   1   0   0   0   2   0/0
+Andrew Peeke D
+16:29   0  0   -1   1   0   0   0   3   0/0
+Parker Wotherspoon D
+17:56   0  0   -1   0   0   2   1   2   0/0
+Nikita Zadorov D
+19:08   0  0    0   0   3   0   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       27  16  10   5  21 28/53
+                                        52.8%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  58:06   4  27/31  20/21   3/6   4/4     0
+              .871   .952  .500 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+58:06   4  27/31  20/21   3/6   4/4     0
+              .871   .952  .500 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,487 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Tampa Bay
+Lightning4-2-0Final8 - 5New Jersey
+Devils5-3-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+TBL   1  5  2    8  
+NJD   1  1  3    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:58 
+Jack Hughes (NJD) scores on wrist shot past Jonas Johansson, assisted by Jesper Bratt and Ondrej Palat
+   0-1
+P1  07:29 
+Timo Meier (NJD) boarding against Conor Geekie (2 minutes)
+   0-1
+P1  05:51 
+Brayden Point (TBL) scores power-play goal on wrist shot past Jake Allen, assisted by Anthony Cirelli and Nikita Kucherov
+   1-1
+2nd Period: ShowHide
+P2  19:09 
+Timo Meier (NJD) scores on snap shot past Jonas Johansson, assisted by Jack Hughes
+   1-2
+P2  12:26 
+Victor Hedman (TBL) scores on wrist shot past Jake Allen, assisted by Janis Moser and Jake Guentzel
+   2-2
+P2  10:33 
+Brandon Hagel (TBL) scores on slap shot past Jake Allen, assisted by Anthony Cirelli and Nick Perbix
+   3-2
+P2  06:59 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Conor Geekie and Anthony Cirelli
+   4-2
+P2  04:07 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Emil Lilleberg and Anthony Cirelli
+   5-2
+P2  02:32 
+Victor Hedman (TBL) scores on slap shot past Jake Allen, assisted by Brandon Hagel and Janis Moser
+   6-2
+P2  01:34 
+Emil Lilleberg (TBL) roughing against Paul Cotter (2 minutes)
+   6-2
+P2  01:34 
+Paul Cotter (NJD) roughing against Emil Lilleberg (2 minutes)
+   6-2
+3rd Period: ShowHide
+P3  17:04 
+Nathan Bastian (NJD) scores on wrist shot past Jonas Johansson, assisted by Curtis Lazar
+   6-3
+P3  16:25 
+Erik Cernak (TBL) tripping against Ondrej Palat (2 minutes)
+   6-3
+P3  14:36 
+Timo Meier (NJD) scores power-play goal on slap shot past Jonas Johansson, assisted by Tomas Tatar and Simon Nemec
+   6-4
+P3  14:16 
+Dawson Mercer (NJD) goalkeeper interference against Jonas Johansson (2 minutes)
+   6-4
+P3  14:12 
+Jake Guentzel (TBL) scores power-play goal on snap shot past Jake Allen, assisted by Nikita Kucherov
+   7-4
+P3  12:36 
+Ryan McDonagh (TBL) tripping against Ondrej Palat (2 minutes)
+   7-4
+P3  10:41 
+Janis Moser (TBL) scores short-handed goal on wrist shot past Jake Allen, assisted by Nicholas Paul
+   8-4
+P3  08:05 
+Michael Eyssimont (TBL) tripping against Jonas Siegenthaler (2 minutes)
+   8-4
+P3  07:15 
+Stefan Noesen (NJD) scores power-play goal on snap shot past Jonas Johansson, assisted by Jack Hughes and Dougie Hamilton
+   8-5
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMitchell Chaffee R  12:32   0  0    0   1   0   0   0   0   0/0Anthony Cirelli C  13:07   0  4    2   2   2   0   0   0 12/19Michael Eyssimont C  12:49   0  0    0   1   1   2   0   0   0/0Conor Geekie C  12:48   0  1    3   1   0   0   1   2   2/2Zemgus Girgensons C  13:22   0  0    0   1   1   0   0   0   0/0Luke Glendening C  11:38   0  0   -1   2   3   0   0   0  7/11Jake Guentzel C  18:11   1  1    0   9   0   0   1   0   4/5Brandon Hagel L  15:54   3  1    3   3   0   0   0   2   0/1Nikita Kucherov R  18:00   0  2    0   3   1   0   0   0   0/0Nicholas Paul L  16:18   0  1    1   1   0   0   0   1  9/24Brayden Point C  18:17   1  0    1   2   0   0   0   1  3/13Conor Sheary L  11:37   0  0   -1   0   0   0   0   0   0/0Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  19:43   0  0   -1   0   0   2   0   0   0/0Victor Hedman D  22:02   2  0    1   6   3   0   0   1   0/0Emil Lilleberg D  19:05   0  1    2   1   3   2   0   0   0/0Ryan McDonagh D  19:48   0  0    0   1   5   2   0   1   0/0Janis Moser D  20:52   1  2    2   1   1   0   1   1   0/0Nick Perbix D  17:21   0  1    2   2   0   0   1   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          8 14       37  20   8   4   9 37/75
+                                        49.3%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonas Johansson G  59:57   5  30/35  26/29   4/6   0/0     0
+              .857   .897  .667 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  12:06   1  0    1   2   0   0   0   0   0/1Jesper Bratt L  20:18   0  1    0   3   1   0   0   3   0/1Paul Cotter C  13:33   0  0   -3   1   0   2   0   0   2/3Erik Haula L  13:25   0  0   -3   3   0   0   1   0  6/12Nico Hischier C  19:47   0  0   -2   2   2   0   0   0 15/25Jack Hughes C  20:19   1  2    0   2   0   0   1   1  8/16Curtis Lazar C  11:43   0  1    1   1   0   0   1   0  5/13Timo Meier R  14:07   2  0    0   5   0   2   0   0   0/0Dawson Mercer C  16:03   0  0   -1   3   1   2   0   0   1/1Stefan Noesen R  14:10   1  0   -3   3   0   0   0   1   0/1Ondrej Palat L  13:40   0  1    0   0   1   0   0   1   1/2Tomas Tatar L  11:42   0  1    1   0   0   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  18:33   0  0   -2   1   3   0   0   1   0/0Dougie Hamilton D  22:30   0  1   -3   4   0   0   1   3   0/0Johnathan Kovacevic D  22:30   0  0    2   1   0   0   1   1   0/0Daniil Misyul D  12:23   0  0   -1   0   1   0   0   1   0/0Simon Nemec D  16:28   0  1   -2   2   0   0   0   0   0/0Jonas Siegenthaler D  23:30   0  0    0   2   1   0   0   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       35  10   6   5  13 38/75
+                                        50.7%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  59:31   8  29/37  24/29   5/7   0/1     0
+              .784   .828  .714  .000
+Tampa Bay
+Lightning4-2-0Final8 - 5New Jersey
+Devils5-3-1
+Tampa Bay
+Lightning4-2-0
+Final8 - 5
+New Jersey
+Devils5-3-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+TBL   1  5  2    8  
+NJD   1  1  3    5
+1st Period: ShowHide
+P1  08:58 
+Jack Hughes (NJD) scores on wrist shot past Jonas Johansson, assisted by Jesper Bratt and Ondrej Palat
+   0-1
+P1  07:29 
+Timo Meier (NJD) boarding against Conor Geekie (2 minutes)
+   0-1
+P1  05:51 
+Brayden Point (TBL) scores power-play goal on wrist shot past Jake Allen, assisted by Anthony Cirelli and Nikita Kucherov
+   1-1
+2nd Period: ShowHide
+P2  19:09 
+Timo Meier (NJD) scores on snap shot past Jonas Johansson, assisted by Jack Hughes
+   1-2
+P2  12:26 
+Victor Hedman (TBL) scores on wrist shot past Jake Allen, assisted by Janis Moser and Jake Guentzel
+   2-2
+P2  10:33 
+Brandon Hagel (TBL) scores on slap shot past Jake Allen, assisted by Anthony Cirelli and Nick Perbix
+   3-2
+P2  06:59 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Conor Geekie and Anthony Cirelli
+   4-2
+P2  04:07 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Emil Lilleberg and Anthony Cirelli
+   5-2
+P2  02:32 
+Victor Hedman (TBL) scores on slap shot past Jake Allen, assisted by Brandon Hagel and Janis Moser
+   6-2
+P2  01:34 
+Emil Lilleberg (TBL) roughing against Paul Cotter (2 minutes)
+   6-2
+P2  01:34 
+Paul Cotter (NJD) roughing against Emil Lilleberg (2 minutes)
+   6-2
+3rd Period: ShowHide
+P3  17:04 
+Nathan Bastian (NJD) scores on wrist shot past Jonas Johansson, assisted by Curtis Lazar
+   6-3
+P3  16:25 
+Erik Cernak (TBL) tripping against Ondrej Palat (2 minutes)
+   6-3
+P3  14:36 
+Timo Meier (NJD) scores power-play goal on slap shot past Jonas Johansson, assisted by Tomas Tatar and Simon Nemec
+   6-4
+P3  14:16 
+Dawson Mercer (NJD) goalkeeper interference against Jonas Johansson (2 minutes)
+   6-4
+P3  14:12 
+Jake Guentzel (TBL) scores power-play goal on snap shot past Jake Allen, assisted by Nikita Kucherov
+   7-4
+P3  12:36 
+Ryan McDonagh (TBL) tripping against Ondrej Palat (2 minutes)
+   7-4
+P3  10:41 
+Janis Moser (TBL) scores short-handed goal on wrist shot past Jake Allen, assisted by Nicholas Paul
+   8-4
+P3  08:05 
+Michael Eyssimont (TBL) tripping against Jonas Siegenthaler (2 minutes)
+   8-4
+P3  07:15 
+Stefan Noesen (NJD) scores power-play goal on snap shot past Jonas Johansson, assisted by Jack Hughes and Dougie Hamilton
+   8-5
+1st Period: ShowHide
+P1  08:58 
+Jack Hughes (NJD) scores on wrist shot past Jonas Johansson, assisted by Jesper Bratt and Ondrej Palat
+   0-1
+P1  07:29 
+Timo Meier (NJD) boarding against Conor Geekie (2 minutes)
+   0-1
+P1  05:51 
+Brayden Point (TBL) scores power-play goal on wrist shot past Jake Allen, assisted by Anthony Cirelli and Nikita Kucherov
+   1-1
+P1  08:58 
+Jack Hughes (NJD) scores on wrist shot past Jonas Johansson, assisted by Jesper Bratt and Ondrej Palat
+   0-1
+P1  07:29 
+Timo Meier (NJD) boarding against Conor Geekie (2 minutes)
+   0-1
+P1  05:51 
+Brayden Point (TBL) scores power-play goal on wrist shot past Jake Allen, assisted by Anthony Cirelli and Nikita Kucherov
+   1-1
+P1  08:58
+Jack Hughes (NJD) scores on wrist shot past Jonas Johansson, assisted by Jesper Bratt and Ondrej Palat
+0-1
+P1  07:29
+Timo Meier (NJD) boarding against Conor Geekie (2 minutes)
+0-1
+P1  05:51
+Brayden Point (TBL) scores power-play goal on wrist shot past Jake Allen, assisted by Anthony Cirelli and Nikita Kucherov
+1-1
+2nd Period: ShowHide
+P2  19:09 
+Timo Meier (NJD) scores on snap shot past Jonas Johansson, assisted by Jack Hughes
+   1-2
+P2  12:26 
+Victor Hedman (TBL) scores on wrist shot past Jake Allen, assisted by Janis Moser and Jake Guentzel
+   2-2
+P2  10:33 
+Brandon Hagel (TBL) scores on slap shot past Jake Allen, assisted by Anthony Cirelli and Nick Perbix
+   3-2
+P2  06:59 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Conor Geekie and Anthony Cirelli
+   4-2
+P2  04:07 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Emil Lilleberg and Anthony Cirelli
+   5-2
+P2  02:32 
+Victor Hedman (TBL) scores on slap shot past Jake Allen, assisted by Brandon Hagel and Janis Moser
+   6-2
+P2  01:34 
+Emil Lilleberg (TBL) roughing against Paul Cotter (2 minutes)
+   6-2
+P2  01:34 
+Paul Cotter (NJD) roughing against Emil Lilleberg (2 minutes)
+   6-2
+P2  19:09 
+Timo Meier (NJD) scores on snap shot past Jonas Johansson, assisted by Jack Hughes
+   1-2
+P2  12:26 
+Victor Hedman (TBL) scores on wrist shot past Jake Allen, assisted by Janis Moser and Jake Guentzel
+   2-2
+P2  10:33 
+Brandon Hagel (TBL) scores on slap shot past Jake Allen, assisted by Anthony Cirelli and Nick Perbix
+   3-2
+P2  06:59 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Conor Geekie and Anthony Cirelli
+   4-2
+P2  04:07 
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Emil Lilleberg and Anthony Cirelli
+   5-2
+P2  02:32 
+Victor Hedman (TBL) scores on slap shot past Jake Allen, assisted by Brandon Hagel and Janis Moser
+   6-2
+P2  01:34 
+Emil Lilleberg (TBL) roughing against Paul Cotter (2 minutes)
+   6-2
+P2  01:34 
+Paul Cotter (NJD) roughing against Emil Lilleberg (2 minutes)
+   6-2
+P2  19:09
+Timo Meier (NJD) scores on snap shot past Jonas Johansson, assisted by Jack Hughes
+1-2
+P2  12:26
+Victor Hedman (TBL) scores on wrist shot past Jake Allen, assisted by Janis Moser and Jake Guentzel
+2-2
+P2  10:33
+Brandon Hagel (TBL) scores on slap shot past Jake Allen, assisted by Anthony Cirelli and Nick Perbix
+3-2
+P2  06:59
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Conor Geekie and Anthony Cirelli
+4-2
+P2  04:07
+Brandon Hagel (TBL) scores on snap shot past Jake Allen, assisted by Emil Lilleberg and Anthony Cirelli
+5-2
+P2  02:32
+Victor Hedman (TBL) scores on slap shot past Jake Allen, assisted by Brandon Hagel and Janis Moser
+6-2
+P2  01:34
+Emil Lilleberg (TBL) roughing against Paul Cotter (2 minutes)
+6-2
+P2  01:34
+Paul Cotter (NJD) roughing against Emil Lilleberg (2 minutes)
+6-2
+3rd Period: ShowHide
+P3  17:04 
+Nathan Bastian (NJD) scores on wrist shot past Jonas Johansson, assisted by Curtis Lazar
+   6-3
+P3  16:25 
+Erik Cernak (TBL) tripping against Ondrej Palat (2 minutes)
+   6-3
+P3  14:36 
+Timo Meier (NJD) scores power-play goal on slap shot past Jonas Johansson, assisted by Tomas Tatar and Simon Nemec
+   6-4
+P3  14:16 
+Dawson Mercer (NJD) goalkeeper interference against Jonas Johansson (2 minutes)
+   6-4
+P3  14:12 
+Jake Guentzel (TBL) scores power-play goal on snap shot past Jake Allen, assisted by Nikita Kucherov
+   7-4
+P3  12:36 
+Ryan McDonagh (TBL) tripping against Ondrej Palat (2 minutes)
+   7-4
+P3  10:41 
+Janis Moser (TBL) scores short-handed goal on wrist shot past Jake Allen, assisted by Nicholas Paul
+   8-4
+P3  08:05 
+Michael Eyssimont (TBL) tripping against Jonas Siegenthaler (2 minutes)
+   8-4
+P3  07:15 
+Stefan Noesen (NJD) scores power-play goal on snap shot past Jonas Johansson, assisted by Jack Hughes and Dougie Hamilton
+   8-5
+P3  17:04 
+Nathan Bastian (NJD) scores on wrist shot past Jonas Johansson, assisted by Curtis Lazar
+   6-3
+P3  16:25 
+Erik Cernak (TBL) tripping against Ondrej Palat (2 minutes)
+   6-3
+P3  14:36 
+Timo Meier (NJD) scores power-play goal on slap shot past Jonas Johansson, assisted by Tomas Tatar and Simon Nemec
+   6-4
+P3  14:16 
+Dawson Mercer (NJD) goalkeeper interference against Jonas Johansson (2 minutes)
+   6-4
+P3  14:12 
+Jake Guentzel (TBL) scores power-play goal on snap shot past Jake Allen, assisted by Nikita Kucherov
+   7-4
+P3  12:36 
+Ryan McDonagh (TBL) tripping against Ondrej Palat (2 minutes)
+   7-4
+P3  10:41 
+Janis Moser (TBL) scores short-handed goal on wrist shot past Jake Allen, assisted by Nicholas Paul
+   8-4
+P3  08:05 
+Michael Eyssimont (TBL) tripping against Jonas Siegenthaler (2 minutes)
+   8-4
+P3  07:15 
+Stefan Noesen (NJD) scores power-play goal on snap shot past Jonas Johansson, assisted by Jack Hughes and Dougie Hamilton
+   8-5
+P3  17:04
+Nathan Bastian (NJD) scores on wrist shot past Jonas Johansson, assisted by Curtis Lazar
+6-3
+P3  16:25
+Erik Cernak (TBL) tripping against Ondrej Palat (2 minutes)
+6-3
+P3  14:36
+Timo Meier (NJD) scores power-play goal on slap shot past Jonas Johansson, assisted by Tomas Tatar and Simon Nemec
+6-4
+P3  14:16
+Dawson Mercer (NJD) goalkeeper interference against Jonas Johansson (2 minutes)
+6-4
+P3  14:12
+Jake Guentzel (TBL) scores power-play goal on snap shot past Jake Allen, assisted by Nikita Kucherov
+7-4
+P3  12:36
+Ryan McDonagh (TBL) tripping against Ondrej Palat (2 minutes)
+7-4
+P3  10:41
+Janis Moser (TBL) scores short-handed goal on wrist shot past Jake Allen, assisted by Nicholas Paul
+8-4
+P3  08:05
+Michael Eyssimont (TBL) tripping against Jonas Siegenthaler (2 minutes)
+8-4
+P3  07:15
+Stefan Noesen (NJD) scores power-play goal on snap shot past Jonas Johansson, assisted by Jack Hughes and Dougie Hamilton
+8-5
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMitchell Chaffee R  12:32   0  0    0   1   0   0   0   0   0/0Anthony Cirelli C  13:07   0  4    2   2   2   0   0   0 12/19Michael Eyssimont C  12:49   0  0    0   1   1   2   0   0   0/0Conor Geekie C  12:48   0  1    3   1   0   0   1   2   2/2Zemgus Girgensons C  13:22   0  0    0   1   1   0   0   0   0/0Luke Glendening C  11:38   0  0   -1   2   3   0   0   0  7/11Jake Guentzel C  18:11   1  1    0   9   0   0   1   0   4/5Brandon Hagel L  15:54   3  1    3   3   0   0   0   2   0/1Nikita Kucherov R  18:00   0  2    0   3   1   0   0   0   0/0Nicholas Paul L  16:18   0  1    1   1   0   0   0   1  9/24Brayden Point C  18:17   1  0    1   2   0   0   0   1  3/13Conor Sheary L  11:37   0  0   -1   0   0   0   0   0   0/0Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  19:43   0  0   -1   0   0   2   0   0   0/0Victor Hedman D  22:02   2  0    1   6   3   0   0   1   0/0Emil Lilleberg D  19:05   0  1    2   1   3   2   0   0   0/0Ryan McDonagh D  19:48   0  0    0   1   5   2   0   1   0/0Janis Moser D  20:52   1  2    2   1   1   0   1   1   0/0Nick Perbix D  17:21   0  1    2   2   0   0   1   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          8 14       37  20   8   4   9 37/75
+                                        49.3%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonas Johansson G  59:57   5  30/35  26/29   4/6   0/0     0
+              .857   .897  .667 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  12:06   1  0    1   2   0   0   0   0   0/1Jesper Bratt L  20:18   0  1    0   3   1   0   0   3   0/1Paul Cotter C  13:33   0  0   -3   1   0   2   0   0   2/3Erik Haula L  13:25   0  0   -3   3   0   0   1   0  6/12Nico Hischier C  19:47   0  0   -2   2   2   0   0   0 15/25Jack Hughes C  20:19   1  2    0   2   0   0   1   1  8/16Curtis Lazar C  11:43   0  1    1   1   0   0   1   0  5/13Timo Meier R  14:07   2  0    0   5   0   2   0   0   0/0Dawson Mercer C  16:03   0  0   -1   3   1   2   0   0   1/1Stefan Noesen R  14:10   1  0   -3   3   0   0   0   1   0/1Ondrej Palat L  13:40   0  1    0   0   1   0   0   1   1/2Tomas Tatar L  11:42   0  1    1   0   0   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  18:33   0  0   -2   1   3   0   0   1   0/0Dougie Hamilton D  22:30   0  1   -3   4   0   0   1   3   0/0Johnathan Kovacevic D  22:30   0  0    2   1   0   0   1   1   0/0Daniil Misyul D  12:23   0  0   -1   0   1   0   0   1   0/0Simon Nemec D  16:28   0  1   -2   2   0   0   0   0   0/0Jonas Siegenthaler D  23:30   0  0    0   2   1   0   0   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       35  10   6   5  13 38/75
+                                        50.7%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  59:31   8  29/37  24/29   5/7   0/1     0
+              .784   .828  .714  .000
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMitchell Chaffee R  12:32   0  0    0   1   0   0   0   0   0/0Anthony Cirelli C  13:07   0  4    2   2   2   0   0   0 12/19Michael Eyssimont C  12:49   0  0    0   1   1   2   0   0   0/0Conor Geekie C  12:48   0  1    3   1   0   0   1   2   2/2Zemgus Girgensons C  13:22   0  0    0   1   1   0   0   0   0/0Luke Glendening C  11:38   0  0   -1   2   3   0   0   0  7/11Jake Guentzel C  18:11   1  1    0   9   0   0   1   0   4/5Brandon Hagel L  15:54   3  1    3   3   0   0   0   2   0/1Nikita Kucherov R  18:00   0  2    0   3   1   0   0   0   0/0Nicholas Paul L  16:18   0  1    1   1   0   0   0   1  9/24Brayden Point C  18:17   1  0    1   2   0   0   0   1  3/13Conor Sheary L  11:37   0  0   -1   0   0   0   0   0   0/0
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mitchell Chaffee R
+12:32   0  0    0   1   0   0   0   0   0/0
+Anthony Cirelli C
+13:07   0  4    2   2   2   0   0   0 12/19
+Michael Eyssimont C
+12:49   0  0    0   1   1   2   0   0   0/0
+Conor Geekie C
+12:48   0  1    3   1   0   0   1   2   2/2
+Zemgus Girgensons C
+13:22   0  0    0   1   1   0   0   0   0/0
+Luke Glendening C
+11:38   0  0   -1   2   3   0   0   0  7/11
+Jake Guentzel C
+18:11   1  1    0   9   0   0   1   0   4/5
+Brandon Hagel L
+15:54   3  1    3   3   0   0   0   2   0/1
+Nikita Kucherov R
+18:00   0  2    0   3   1   0   0   0   0/0
+Nicholas Paul L
+16:18   0  1    1   1   0   0   0   1  9/24
+Brayden Point C
+18:17   1  0    1   2   0   0   0   1  3/13
+Conor Sheary L
+11:37   0  0   -1   0   0   0   0   0   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  19:43   0  0   -1   0   0   2   0   0   0/0Victor Hedman D  22:02   2  0    1   6   3   0   0   1   0/0Emil Lilleberg D  19:05   0  1    2   1   3   2   0   0   0/0Ryan McDonagh D  19:48   0  0    0   1   5   2   0   1   0/0Janis Moser D  20:52   1  2    2   1   1   0   1   1   0/0Nick Perbix D  17:21   0  1    2   2   0   0   1   0   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+19:43   0  0   -1   0   0   2   0   0   0/0
+Victor Hedman D
+22:02   2  0    1   6   3   0   0   1   0/0
+Emil Lilleberg D
+19:05   0  1    2   1   3   2   0   0   0/0
+Ryan McDonagh D
+19:48   0  0    0   1   5   2   0   1   0/0
+Janis Moser D
+20:52   1  2    2   1   1   0   1   1   0/0
+Nick Perbix D
+17:21   0  1    2   2   0   0   1   0   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          8 14       37  20   8   4   9 37/75
+                                        49.3%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonas Johansson G  59:57   5  30/35  26/29   4/6   0/0     0
+              .857   .897  .667
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jonas Johansson G
+59:57   5  30/35  26/29   4/6   0/0     0
+              .857   .897  .667
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  12:06   1  0    1   2   0   0   0   0   0/1Jesper Bratt L  20:18   0  1    0   3   1   0   0   3   0/1Paul Cotter C  13:33   0  0   -3   1   0   2   0   0   2/3Erik Haula L  13:25   0  0   -3   3   0   0   1   0  6/12Nico Hischier C  19:47   0  0   -2   2   2   0   0   0 15/25Jack Hughes C  20:19   1  2    0   2   0   0   1   1  8/16Curtis Lazar C  11:43   0  1    1   1   0   0   1   0  5/13Timo Meier R  14:07   2  0    0   5   0   2   0   0   0/0Dawson Mercer C  16:03   0  0   -1   3   1   2   0   0   1/1Stefan Noesen R  14:10   1  0   -3   3   0   0   0   1   0/1Ondrej Palat L  13:40   0  1    0   0   1   0   0   1   1/2Tomas Tatar L  11:42   0  1    1   0   0   0   0   0   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+12:06   1  0    1   2   0   0   0   0   0/1
+Jesper Bratt L
+20:18   0  1    0   3   1   0   0   3   0/1
+Paul Cotter C
+13:33   0  0   -3   1   0   2   0   0   2/3
+Erik Haula L
+13:25   0  0   -3   3   0   0   1   0  6/12
+Nico Hischier C
+19:47   0  0   -2   2   2   0   0   0 15/25
+Jack Hughes C
+20:19   1  2    0   2   0   0   1   1  8/16
+Curtis Lazar C
+11:43   0  1    1   1   0   0   1   0  5/13
+Timo Meier R
+14:07   2  0    0   5   0   2   0   0   0/0
+Dawson Mercer C
+16:03   0  0   -1   3   1   2   0   0   1/1
+Stefan Noesen R
+14:10   1  0   -3   3   0   0   0   1   0/1
+Ondrej Palat L
+13:40   0  1    0   0   1   0   0   1   1/2
+Tomas Tatar L
+11:42   0  1    1   0   0   0   0   0   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  18:33   0  0   -2   1   3   0   0   1   0/0Dougie Hamilton D  22:30   0  1   -3   4   0   0   1   3   0/0Johnathan Kovacevic D  22:30   0  0    2   1   0   0   1   1   0/0Daniil Misyul D  12:23   0  0   -1   0   1   0   0   1   0/0Simon Nemec D  16:28   0  1   -2   2   0   0   0   0   0/0Jonas Siegenthaler D  23:30   0  0    0   2   1   0   0   1   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brenden Dillon D
+18:33   0  0   -2   1   3   0   0   1   0/0
+Dougie Hamilton D
+22:30   0  1   -3   4   0   0   1   3   0/0
+Johnathan Kovacevic D
+22:30   0  0    2   1   0   0   1   1   0/0
+Daniil Misyul D
+12:23   0  0   -1   0   1   0   0   1   0/0
+Simon Nemec D
+16:28   0  1   -2   2   0   0   0   0   0/0
+Jonas Siegenthaler D
+23:30   0  0    0   2   1   0   0   1   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       35  10   6   5  13 38/75
+                                        50.7%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  59:31   8  29/37  24/29   5/7   0/1     0
+              .784   .828  .714  .000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jake Allen G
+59:31   8  29/37  24/29   5/7   0/1     0
+              .784   .828  .714  .000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

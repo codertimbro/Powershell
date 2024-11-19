@@ -1,0 +1,412 @@
+< Oct. 27 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Anaheim
+Ducks3-4-1Final2 - 6New Jersey
+Devils6-4-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+ANA   1  0  1    2  
+NJD   0  4  2    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:47 
+Ross Johnston (ANA) fighting against Kurtis MacDermid (5 minutes)
+   0-0
+P1  17:47 
+Kurtis MacDermid (NJD) fighting against Ross Johnston (5 minutes)
+   0-0
+P1  15:13 
+Brock McGinn (ANA) scores on snap shot past Jacob Markstrom, assisted by Troy Terry and Ryan Strome
+   1-0
+P1  04:40 
+Brenden Dillon (NJD) tripping against Troy Terry (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:44 
+Jack Hughes (NJD) scores goal with extra attacker on backhand shot past James Reimer, assisted by Timo Meier and Dawson Mercer
+   1-1
+P2  15:18 
+Stefan Noesen (NJD) scores on wrist shot past James Reimer, assisted by Johnathan Kovacevic and Jonas Siegenthaler
+   1-2
+P2  03:39 
+ANA penalty, too many men on the ice (2 minutes), served by Mason McTavish
+   1-2
+P2  02:37 
+Stefan Noesen (NJD) scores power-play goal on snap shot past James Reimer, assisted by Jesper Bratt and Dougie Hamilton
+   1-3
+P2  01:11 
+Paul Cotter (NJD) scores on wrist shot past James Reimer, assisted by Dawson Mercer and Jonas Siegenthaler
+   1-4
+3rd Period: ShowHide
+P3  19:11 
+Paul Cotter (NJD) roughing against Frank Vatrano (2 minutes)
+   1-4
+P3  19:11 
+Frank Vatrano (ANA) roughing against Paul Cotter (2 minutes)
+   1-4
+P3  18:10 
+Nico Hischier (NJD) scores on wrist shot past James Reimer, assisted by Dougie Hamilton
+   1-5
+P3  06:50 
+Ryan Strome (ANA) scores on wrist shot past Jacob Markstrom, assisted by Cam Fowler and Cutter Gauthier
+   2-5
+P3  06:21 
+Timo Meier (NJD) high-sticking against James Reimer (2 minutes)
+   2-5
+P3  00:59 
+Erik Haula (NJD) scores on snap shot past James Reimer, assisted by Ondrej Palat and Brenden Dillon
+   2-6
+Box Score:
+ 
+Back to Top
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:56   0  0   -4   1   1   0   0   0  3/14Robby Fabbri C  17:19   0  0   -2   0   1   0   0   2   1/4Cutter Gauthier L  14:42   0  1    1   4   1   0   0   2   0/2Ross Johnston L  10:01   0  0    0   0   2   5   0   1   0/0Alex Killorn L  13:56   0  0   -1   0   2   0   0   0   1/3Isac Lundestrom C  14:32   0  0    0   0   1   0   0   0  5/10Brock McGinn L  12:32   1  0    1   2   1   0   0   0   1/3Mason McTavish C  14:33   0  0    0   2   0   0   0   1  9/14Ryan Strome C  13:30   1  1    2   2   0   0   0   1  3/10Troy Terry R  18:49   0  1   -3   2   0   0   0   0   0/1Frank Vatrano R  15:47   0  0    0   4   0   2   0   2   0/0Trevor Zegras C  17:12   0  0   -2   2   1   0   1   1   1/2Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  18:29   0  0    0   0   0   0   0   1   0/0Cam Fowler D  20:24   0  1    1   2   1   0   0   0   0/0Radko Gudas D  18:37   0  0   -2   1   1   0   0   4   0/0Tristan Luneau D  16:06   0  0   -1   0   2   0   0   1   0/0Pavel Mintyukov D  20:37   0  0   -3   1   0   0   1   1   0/0Olen Zellweger D  22:01   0  0   -1   3   1   0   0   0   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  15   7   2  17 24/63
+                                        38.1%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJames Reimer G  60:00   6  28/34  27/32   1/2   0/0     0
+              .824   .844  .500 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJesper Bratt L  13:24   0  1    0   1   0   0   0   0   0/0Paul Cotter C  15:54   1  0    0   2   0   2   0   2   2/2Erik Haula L  17:04   1  0    1   6   0   0   0   0  9/13Nico Hischier C  19:10   1  0    2   3   0   0   0   0 14/24Jack Hughes C  17:50   1  0    1   3   1   0   0   3   3/8Curtis Lazar C  04:40   0  0    0   1   1   0   0   0   4/6Kurtis MacDermid L  09:12   0  0    0   1   0   5   0   1   0/0Timo Meier R  16:26   0  1    2   0   0   2   0   1   0/0Dawson Mercer C  16:06   0  2    3   1   0   0   0   0   2/3Stefan Noesen R  16:51   2  0    1   4   0   0   0   1   3/4Ondrej Palat L  13:53   0  1    0   1   0   0   0   3   0/1Tomas Tatar L  14:48   0  0   -1   0   0   0   0   0   2/2Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  18:22   0  1    1   0   3   2   0   0   0/0Dougie Hamilton D  18:50   0  2    2   5   0   0   0   1   0/0Luke Hughes D  17:28   0  0    0   1   1   0   0   0   0/0Johnathan Kovacevic D  20:55   0  1    1   2   2   0   0   0   0/0Brett Pesce D  21:16   0  0    0   1   1   0   0   0   0/0Jonas Siegenthaler D  22:27   0  2    2   2   1   0   0   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       34  10  11   0  13 39/63
+                                        61.9%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:24   2  24/26  18/20   6/6   0/0     0
+              .923   .900 1.000
+Anaheim
+Ducks3-4-1Final2 - 6New Jersey
+Devils6-4-2
+Anaheim
+Ducks3-4-1
+Final2 - 6
+New Jersey
+Devils6-4-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+ANA   1  0  1    2  
+NJD   0  4  2    6
+1st Period: ShowHide
+P1  17:47 
+Ross Johnston (ANA) fighting against Kurtis MacDermid (5 minutes)
+   0-0
+P1  17:47 
+Kurtis MacDermid (NJD) fighting against Ross Johnston (5 minutes)
+   0-0
+P1  15:13 
+Brock McGinn (ANA) scores on snap shot past Jacob Markstrom, assisted by Troy Terry and Ryan Strome
+   1-0
+P1  04:40 
+Brenden Dillon (NJD) tripping against Troy Terry (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:44 
+Jack Hughes (NJD) scores goal with extra attacker on backhand shot past James Reimer, assisted by Timo Meier and Dawson Mercer
+   1-1
+P2  15:18 
+Stefan Noesen (NJD) scores on wrist shot past James Reimer, assisted by Johnathan Kovacevic and Jonas Siegenthaler
+   1-2
+P2  03:39 
+ANA penalty, too many men on the ice (2 minutes), served by Mason McTavish
+   1-2
+P2  02:37 
+Stefan Noesen (NJD) scores power-play goal on snap shot past James Reimer, assisted by Jesper Bratt and Dougie Hamilton
+   1-3
+P2  01:11 
+Paul Cotter (NJD) scores on wrist shot past James Reimer, assisted by Dawson Mercer and Jonas Siegenthaler
+   1-4
+3rd Period: ShowHide
+P3  19:11 
+Paul Cotter (NJD) roughing against Frank Vatrano (2 minutes)
+   1-4
+P3  19:11 
+Frank Vatrano (ANA) roughing against Paul Cotter (2 minutes)
+   1-4
+P3  18:10 
+Nico Hischier (NJD) scores on wrist shot past James Reimer, assisted by Dougie Hamilton
+   1-5
+P3  06:50 
+Ryan Strome (ANA) scores on wrist shot past Jacob Markstrom, assisted by Cam Fowler and Cutter Gauthier
+   2-5
+P3  06:21 
+Timo Meier (NJD) high-sticking against James Reimer (2 minutes)
+   2-5
+P3  00:59 
+Erik Haula (NJD) scores on snap shot past James Reimer, assisted by Ondrej Palat and Brenden Dillon
+   2-6
+1st Period: ShowHide
+P1  17:47 
+Ross Johnston (ANA) fighting against Kurtis MacDermid (5 minutes)
+   0-0
+P1  17:47 
+Kurtis MacDermid (NJD) fighting against Ross Johnston (5 minutes)
+   0-0
+P1  15:13 
+Brock McGinn (ANA) scores on snap shot past Jacob Markstrom, assisted by Troy Terry and Ryan Strome
+   1-0
+P1  04:40 
+Brenden Dillon (NJD) tripping against Troy Terry (2 minutes)
+   1-0
+P1  17:47 
+Ross Johnston (ANA) fighting against Kurtis MacDermid (5 minutes)
+   0-0
+P1  17:47 
+Kurtis MacDermid (NJD) fighting against Ross Johnston (5 minutes)
+   0-0
+P1  15:13 
+Brock McGinn (ANA) scores on snap shot past Jacob Markstrom, assisted by Troy Terry and Ryan Strome
+   1-0
+P1  04:40 
+Brenden Dillon (NJD) tripping against Troy Terry (2 minutes)
+   1-0
+P1  17:47
+Ross Johnston (ANA) fighting against Kurtis MacDermid (5 minutes)
+0-0
+P1  17:47
+Kurtis MacDermid (NJD) fighting against Ross Johnston (5 minutes)
+0-0
+P1  15:13
+Brock McGinn (ANA) scores on snap shot past Jacob Markstrom, assisted by Troy Terry and Ryan Strome
+1-0
+P1  04:40
+Brenden Dillon (NJD) tripping against Troy Terry (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  18:44 
+Jack Hughes (NJD) scores goal with extra attacker on backhand shot past James Reimer, assisted by Timo Meier and Dawson Mercer
+   1-1
+P2  15:18 
+Stefan Noesen (NJD) scores on wrist shot past James Reimer, assisted by Johnathan Kovacevic and Jonas Siegenthaler
+   1-2
+P2  03:39 
+ANA penalty, too many men on the ice (2 minutes), served by Mason McTavish
+   1-2
+P2  02:37 
+Stefan Noesen (NJD) scores power-play goal on snap shot past James Reimer, assisted by Jesper Bratt and Dougie Hamilton
+   1-3
+P2  01:11 
+Paul Cotter (NJD) scores on wrist shot past James Reimer, assisted by Dawson Mercer and Jonas Siegenthaler
+   1-4
+P2  18:44 
+Jack Hughes (NJD) scores goal with extra attacker on backhand shot past James Reimer, assisted by Timo Meier and Dawson Mercer
+   1-1
+P2  15:18 
+Stefan Noesen (NJD) scores on wrist shot past James Reimer, assisted by Johnathan Kovacevic and Jonas Siegenthaler
+   1-2
+P2  03:39 
+ANA penalty, too many men on the ice (2 minutes), served by Mason McTavish
+   1-2
+P2  02:37 
+Stefan Noesen (NJD) scores power-play goal on snap shot past James Reimer, assisted by Jesper Bratt and Dougie Hamilton
+   1-3
+P2  01:11 
+Paul Cotter (NJD) scores on wrist shot past James Reimer, assisted by Dawson Mercer and Jonas Siegenthaler
+   1-4
+P2  18:44
+Jack Hughes (NJD) scores goal with extra attacker on backhand shot past James Reimer, assisted by Timo Meier and Dawson Mercer
+1-1
+P2  15:18
+Stefan Noesen (NJD) scores on wrist shot past James Reimer, assisted by Johnathan Kovacevic and Jonas Siegenthaler
+1-2
+P2  03:39
+ANA penalty, too many men on the ice (2 minutes), served by Mason McTavish
+1-2
+P2  02:37
+Stefan Noesen (NJD) scores power-play goal on snap shot past James Reimer, assisted by Jesper Bratt and Dougie Hamilton
+1-3
+P2  01:11
+Paul Cotter (NJD) scores on wrist shot past James Reimer, assisted by Dawson Mercer and Jonas Siegenthaler
+1-4
+3rd Period: ShowHide
+P3  19:11 
+Paul Cotter (NJD) roughing against Frank Vatrano (2 minutes)
+   1-4
+P3  19:11 
+Frank Vatrano (ANA) roughing against Paul Cotter (2 minutes)
+   1-4
+P3  18:10 
+Nico Hischier (NJD) scores on wrist shot past James Reimer, assisted by Dougie Hamilton
+   1-5
+P3  06:50 
+Ryan Strome (ANA) scores on wrist shot past Jacob Markstrom, assisted by Cam Fowler and Cutter Gauthier
+   2-5
+P3  06:21 
+Timo Meier (NJD) high-sticking against James Reimer (2 minutes)
+   2-5
+P3  00:59 
+Erik Haula (NJD) scores on snap shot past James Reimer, assisted by Ondrej Palat and Brenden Dillon
+   2-6
+P3  19:11 
+Paul Cotter (NJD) roughing against Frank Vatrano (2 minutes)
+   1-4
+P3  19:11 
+Frank Vatrano (ANA) roughing against Paul Cotter (2 minutes)
+   1-4
+P3  18:10 
+Nico Hischier (NJD) scores on wrist shot past James Reimer, assisted by Dougie Hamilton
+   1-5
+P3  06:50 
+Ryan Strome (ANA) scores on wrist shot past Jacob Markstrom, assisted by Cam Fowler and Cutter Gauthier
+   2-5
+P3  06:21 
+Timo Meier (NJD) high-sticking against James Reimer (2 minutes)
+   2-5
+P3  00:59 
+Erik Haula (NJD) scores on snap shot past James Reimer, assisted by Ondrej Palat and Brenden Dillon
+   2-6
+P3  19:11
+Paul Cotter (NJD) roughing against Frank Vatrano (2 minutes)
+1-4
+P3  19:11
+Frank Vatrano (ANA) roughing against Paul Cotter (2 minutes)
+1-4
+P3  18:10
+Nico Hischier (NJD) scores on wrist shot past James Reimer, assisted by Dougie Hamilton
+1-5
+P3  06:50
+Ryan Strome (ANA) scores on wrist shot past Jacob Markstrom, assisted by Cam Fowler and Cutter Gauthier
+2-5
+P3  06:21
+Timo Meier (NJD) high-sticking against James Reimer (2 minutes)
+2-5
+P3  00:59
+Erik Haula (NJD) scores on snap shot past James Reimer, assisted by Ondrej Palat and Brenden Dillon
+2-6
+Box Score:
+ 
+Back to Top
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:56   0  0   -4   1   1   0   0   0  3/14Robby Fabbri C  17:19   0  0   -2   0   1   0   0   2   1/4Cutter Gauthier L  14:42   0  1    1   4   1   0   0   2   0/2Ross Johnston L  10:01   0  0    0   0   2   5   0   1   0/0Alex Killorn L  13:56   0  0   -1   0   2   0   0   0   1/3Isac Lundestrom C  14:32   0  0    0   0   1   0   0   0  5/10Brock McGinn L  12:32   1  0    1   2   1   0   0   0   1/3Mason McTavish C  14:33   0  0    0   2   0   0   0   1  9/14Ryan Strome C  13:30   1  1    2   2   0   0   0   1  3/10Troy Terry R  18:49   0  1   -3   2   0   0   0   0   0/1Frank Vatrano R  15:47   0  0    0   4   0   2   0   2   0/0Trevor Zegras C  17:12   0  0   -2   2   1   0   1   1   1/2Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  18:29   0  0    0   0   0   0   0   1   0/0Cam Fowler D  20:24   0  1    1   2   1   0   0   0   0/0Radko Gudas D  18:37   0  0   -2   1   1   0   0   4   0/0Tristan Luneau D  16:06   0  0   -1   0   2   0   0   1   0/0Pavel Mintyukov D  20:37   0  0   -3   1   0   0   1   1   0/0Olen Zellweger D  22:01   0  0   -1   3   1   0   0   0   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  15   7   2  17 24/63
+                                        38.1%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJames Reimer G  60:00   6  28/34  27/32   1/2   0/0     0
+              .824   .844  .500 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJesper Bratt L  13:24   0  1    0   1   0   0   0   0   0/0Paul Cotter C  15:54   1  0    0   2   0   2   0   2   2/2Erik Haula L  17:04   1  0    1   6   0   0   0   0  9/13Nico Hischier C  19:10   1  0    2   3   0   0   0   0 14/24Jack Hughes C  17:50   1  0    1   3   1   0   0   3   3/8Curtis Lazar C  04:40   0  0    0   1   1   0   0   0   4/6Kurtis MacDermid L  09:12   0  0    0   1   0   5   0   1   0/0Timo Meier R  16:26   0  1    2   0   0   2   0   1   0/0Dawson Mercer C  16:06   0  2    3   1   0   0   0   0   2/3Stefan Noesen R  16:51   2  0    1   4   0   0   0   1   3/4Ondrej Palat L  13:53   0  1    0   1   0   0   0   3   0/1Tomas Tatar L  14:48   0  0   -1   0   0   0   0   0   2/2Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  18:22   0  1    1   0   3   2   0   0   0/0Dougie Hamilton D  18:50   0  2    2   5   0   0   0   1   0/0Luke Hughes D  17:28   0  0    0   1   1   0   0   0   0/0Johnathan Kovacevic D  20:55   0  1    1   2   2   0   0   0   0/0Brett Pesce D  21:16   0  0    0   1   1   0   0   0   0/0Jonas Siegenthaler D  22:27   0  2    2   2   1   0   0   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       34  10  11   0  13 39/63
+                                        61.9%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:24   2  24/26  18/20   6/6   0/0     0
+              .923   .900 1.000
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:56   0  0   -4   1   1   0   0   0  3/14Robby Fabbri C  17:19   0  0   -2   0   1   0   0   2   1/4Cutter Gauthier L  14:42   0  1    1   4   1   0   0   2   0/2Ross Johnston L  10:01   0  0    0   0   2   5   0   1   0/0Alex Killorn L  13:56   0  0   -1   0   2   0   0   0   1/3Isac Lundestrom C  14:32   0  0    0   0   1   0   0   0  5/10Brock McGinn L  12:32   1  0    1   2   1   0   0   0   1/3Mason McTavish C  14:33   0  0    0   2   0   0   0   1  9/14Ryan Strome C  13:30   1  1    2   2   0   0   0   1  3/10Troy Terry R  18:49   0  1   -3   2   0   0   0   0   0/1Frank Vatrano R  15:47   0  0    0   4   0   2   0   2   0/0Trevor Zegras C  17:12   0  0   -2   2   1   0   1   1   1/2
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Leo Carlsson C
+17:56   0  0   -4   1   1   0   0   0  3/14
+Robby Fabbri C
+17:19   0  0   -2   0   1   0   0   2   1/4
+Cutter Gauthier L
+14:42   0  1    1   4   1   0   0   2   0/2
+Ross Johnston L
+10:01   0  0    0   0   2   5   0   1   0/0
+Alex Killorn L
+13:56   0  0   -1   0   2   0   0   0   1/3
+Isac Lundestrom C
+14:32   0  0    0   0   1   0   0   0  5/10
+Brock McGinn L
+12:32   1  0    1   2   1   0   0   0   1/3
+Mason McTavish C
+14:33   0  0    0   2   0   0   0   1  9/14
+Ryan Strome C
+13:30   1  1    2   2   0   0   0   1  3/10
+Troy Terry R
+18:49   0  1   -3   2   0   0   0   0   0/1
+Frank Vatrano R
+15:47   0  0    0   4   0   2   0   2   0/0
+Trevor Zegras C
+17:12   0  0   -2   2   1   0   1   1   1/2
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  18:29   0  0    0   0   0   0   0   1   0/0Cam Fowler D  20:24   0  1    1   2   1   0   0   0   0/0Radko Gudas D  18:37   0  0   -2   1   1   0   0   4   0/0Tristan Luneau D  16:06   0  0   -1   0   2   0   0   1   0/0Pavel Mintyukov D  20:37   0  0   -3   1   0   0   1   1   0/0Olen Zellweger D  22:01   0  0   -1   3   1   0   0   0   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brian Dumoulin D
+18:29   0  0    0   0   0   0   0   1   0/0
+Cam Fowler D
+20:24   0  1    1   2   1   0   0   0   0/0
+Radko Gudas D
+18:37   0  0   -2   1   1   0   0   4   0/0
+Tristan Luneau D
+16:06   0  0   -1   0   2   0   0   1   0/0
+Pavel Mintyukov D
+20:37   0  0   -3   1   0   0   1   1   0/0
+Olen Zellweger D
+22:01   0  0   -1   3   1   0   0   0   0/0
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  15   7   2  17 24/63
+                                        38.1%
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJames Reimer G  60:00   6  28/34  27/32   1/2   0/0     0
+              .824   .844  .500
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+James Reimer G
+60:00   6  28/34  27/32   1/2   0/0     0
+              .824   .844  .500
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJesper Bratt L  13:24   0  1    0   1   0   0   0   0   0/0Paul Cotter C  15:54   1  0    0   2   0   2   0   2   2/2Erik Haula L  17:04   1  0    1   6   0   0   0   0  9/13Nico Hischier C  19:10   1  0    2   3   0   0   0   0 14/24Jack Hughes C  17:50   1  0    1   3   1   0   0   3   3/8Curtis Lazar C  04:40   0  0    0   1   1   0   0   0   4/6Kurtis MacDermid L  09:12   0  0    0   1   0   5   0   1   0/0Timo Meier R  16:26   0  1    2   0   0   2   0   1   0/0Dawson Mercer C  16:06   0  2    3   1   0   0   0   0   2/3Stefan Noesen R  16:51   2  0    1   4   0   0   0   1   3/4Ondrej Palat L  13:53   0  1    0   1   0   0   0   3   0/1Tomas Tatar L  14:48   0  0   -1   0   0   0   0   0   2/2
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jesper Bratt L
+13:24   0  1    0   1   0   0   0   0   0/0
+Paul Cotter C
+15:54   1  0    0   2   0   2   0   2   2/2
+Erik Haula L
+17:04   1  0    1   6   0   0   0   0  9/13
+Nico Hischier C
+19:10   1  0    2   3   0   0   0   0 14/24
+Jack Hughes C
+17:50   1  0    1   3   1   0   0   3   3/8
+Curtis Lazar C
+04:40   0  0    0   1   1   0   0   0   4/6
+Kurtis MacDermid L
+09:12   0  0    0   1   0   5   0   1   0/0
+Timo Meier R
+16:26   0  1    2   0   0   2   0   1   0/0
+Dawson Mercer C
+16:06   0  2    3   1   0   0   0   0   2/3
+Stefan Noesen R
+16:51   2  0    1   4   0   0   0   1   3/4
+Ondrej Palat L
+13:53   0  1    0   1   0   0   0   3   0/1
+Tomas Tatar L
+14:48   0  0   -1   0   0   0   0   0   2/2
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  18:22   0  1    1   0   3   2   0   0   0/0Dougie Hamilton D  18:50   0  2    2   5   0   0   0   1   0/0Luke Hughes D  17:28   0  0    0   1   1   0   0   0   0/0Johnathan Kovacevic D  20:55   0  1    1   2   2   0   0   0   0/0Brett Pesce D  21:16   0  0    0   1   1   0   0   0   0/0Jonas Siegenthaler D  22:27   0  2    2   2   1   0   0   1   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brenden Dillon D
+18:22   0  1    1   0   3   2   0   0   0/0
+Dougie Hamilton D
+18:50   0  2    2   5   0   0   0   1   0/0
+Luke Hughes D
+17:28   0  0    0   1   1   0   0   0   0/0
+Johnathan Kovacevic D
+20:55   0  1    1   2   2   0   0   0   0/0
+Brett Pesce D
+21:16   0  0    0   1   1   0   0   0   0/0
+Jonas Siegenthaler D
+22:27   0  2    2   2   1   0   0   1   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       34  10  11   0  13 39/63
+                                        61.9%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:24   2  24/26  18/20   6/6   0/0     0
+              .923   .900 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+59:24   2  24/26  18/20   6/6   0/0     0
+              .923   .900 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

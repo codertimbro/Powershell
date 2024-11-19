@@ -1,0 +1,382 @@
+< Oct. 26 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Carolina
+Hurricanes5-2-0Final4 - 1Seattle
+Kraken4-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CAR   1  1  2    4  
+SEA   0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:30 
+Brandon Montour (SEA) roughing against Jordan Martinook (2 minutes)
+   0-0
+P1  15:35 
+Andrei Svechnikov (CAR) scores power-play goal on wrist shot past Joey Daccord, assisted by Martin Necas and Seth Jarvis
+   1-0
+P1  14:55 
+Shane Wright (SEA) high-sticking against Dmitry Orlov (2 minutes)
+   1-0
+P1  05:36 
+Sebastian Aho (CAR) cross-checking against Matty Beniers (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:23 
+Andrei Svechnikov (CAR) slashing against Jaden Schwartz (2 minutes)
+   1-0
+P2  09:13 
+Yanni Gourde (SEA) slashing against Andrei Svechnikov (2 minutes)
+   1-0
+P2  03:11 
+Jack Drury (CAR) scores on tip-in past Joey Daccord, assisted by Jackson Blake and Brent Burns
+   2-0
+P2  02:56 
+Yanni Gourde (SEA) high-sticking against Seth Jarvis (4 minutes)
+   2-0
+3rd Period: ShowHide
+P3  14:34 
+Jesperi Kotkaniemi (CAR) slashing against Shane Wright (2 minutes)
+   2-0
+P3  09:39 
+Jared McCann (SEA) scores on wrist shot past Frederik Andersen, assisted by Matty Beniers
+   2-1
+P3  08:23 
+Andre Burakovsky (SEA) hooking against Andrei Svechnikov (2 minutes)
+   2-1
+P3  04:22 
+Seth Jarvis (CAR) scores on backhand shot past Joey Daccord, assisted by Jordan Martinook and Jaccob Slavin
+   3-1
+P3  01:36 
+Dmitry Orlov (CAR) scores on empty net
+   4-1
+Box Score:
+ 
+Back to Top
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  22:37   0  0    0   3   0   2   0   2   6/9Jackson Blake R  11:43   0  1    0   0   0   0   0   1   0/1William Carrier L  12:14   0  0    0   1   0   0   0   0   0/1Jack Drury C  11:03   1  0    0   5   0   0   0   0   4/7Seth Jarvis C  17:51   1  1    2   2   1   0   1   1   1/9Jesperi Kotkaniemi C  15:40   0  0    0   3   0   2   0   1   4/6Jordan Martinook L  13:24   0  1    2   3   0   0   0   0   0/0Martin Necas C  19:32   0  1    0   1   1   0   0   1   0/1Eric Robinson L  11:51   0  0    0   0   0   0   0   1   0/1Jack Roslovic C  15:58   0  0    0   1   0   0   0   1   4/5Jordan Staal C  12:57   0  0    2   1   1   0   0   0  9/21Andrei Svechnikov R  20:15   1  0    0   5   0   2   0   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  19:17   0  1    1   5   0   0   1   5   0/0Jalen Chatfield D  16:54   0  0    1   1   0   0   1   0   0/0Shayne Gostisbehere D  21:30   0  0    0   3   0   0   1   0   0/0Dmitry Orlov D  18:40   1  0    1   1   0   0   1   0   0/0Jaccob Slavin D  17:53   0  1    1   0   1   0   1   1   0/0Sean Walker D  14:41   0  0    0   4   2   0   1   0   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       39   6   6   7  15 28/61
+                                        45.9%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFrederik Andersen G  60:00   1  18/19  10/11   5/5   3/3     0
+              .947   .909 1.000 1.000 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:48   0  1   -1   2   2   0   0   0  9/17Oliver Bjorkstrand R  12:14   0  0    0   0   0   0   0   0   0/0Andre Burakovsky L  13:17   0  0   -1   3   2   2   0   1   0/0Jordan Eberle R  16:32   0  0    0   0   2   0   0   2   0/0Yanni Gourde C  12:06   0  0   -1   0   0   6   0   2  6/11Tye Kartye L  11:37   0  0   -1   0   0   0   0   0   0/0Jared McCann L  16:08   1  0    0   2   1   0   1   1   1/2Jaden Schwartz C  15:08   0  0   -1   3   1   0   0   1   1/1Chandler Stephenson C  21:48   0  0   -2   0   1   0   1   0 11/20Brandon Tanev L  17:01   0  0   -1   1   2   0   0   0   0/1Eeli Tolvanen R  11:39   0  0    0   3   0   0   0   2   0/0Shane Wright C  12:14   0  0    0   1   1   2   0   0   5/9Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  16:51   0  0   -1   0   1   0   1   1   0/0Ryker Evans D  21:43   0  0   -1   1   3   0   0   2   0/0Adam Larsson D  21:12   0  0    0   2   4   0   0   0   0/0Joshua Mahura D  12:53   0  0    1   0   0   0   1   0   0/0Brandon Montour D  22:38   0  0   -2   0   1   2   0   1   0/0Jamie Oleksiak D  17:05   0  0    0   1   2   0   1   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       19  23  12   5  14 33/61
+                                        54.1%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  59:11   3  35/38  19/21 16/17   0/0     0
+              .921   .905  .941
+Carolina
+Hurricanes5-2-0Final4 - 1Seattle
+Kraken4-4-1
+Carolina
+Hurricanes5-2-0
+Final4 - 1
+Seattle
+Kraken4-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CAR   1  1  2    4  
+SEA   0  0  1    1
+1st Period: ShowHide
+P1  16:30 
+Brandon Montour (SEA) roughing against Jordan Martinook (2 minutes)
+   0-0
+P1  15:35 
+Andrei Svechnikov (CAR) scores power-play goal on wrist shot past Joey Daccord, assisted by Martin Necas and Seth Jarvis
+   1-0
+P1  14:55 
+Shane Wright (SEA) high-sticking against Dmitry Orlov (2 minutes)
+   1-0
+P1  05:36 
+Sebastian Aho (CAR) cross-checking against Matty Beniers (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:23 
+Andrei Svechnikov (CAR) slashing against Jaden Schwartz (2 minutes)
+   1-0
+P2  09:13 
+Yanni Gourde (SEA) slashing against Andrei Svechnikov (2 minutes)
+   1-0
+P2  03:11 
+Jack Drury (CAR) scores on tip-in past Joey Daccord, assisted by Jackson Blake and Brent Burns
+   2-0
+P2  02:56 
+Yanni Gourde (SEA) high-sticking against Seth Jarvis (4 minutes)
+   2-0
+3rd Period: ShowHide
+P3  14:34 
+Jesperi Kotkaniemi (CAR) slashing against Shane Wright (2 minutes)
+   2-0
+P3  09:39 
+Jared McCann (SEA) scores on wrist shot past Frederik Andersen, assisted by Matty Beniers
+   2-1
+P3  08:23 
+Andre Burakovsky (SEA) hooking against Andrei Svechnikov (2 minutes)
+   2-1
+P3  04:22 
+Seth Jarvis (CAR) scores on backhand shot past Joey Daccord, assisted by Jordan Martinook and Jaccob Slavin
+   3-1
+P3  01:36 
+Dmitry Orlov (CAR) scores on empty net
+   4-1
+1st Period: ShowHide
+P1  16:30 
+Brandon Montour (SEA) roughing against Jordan Martinook (2 minutes)
+   0-0
+P1  15:35 
+Andrei Svechnikov (CAR) scores power-play goal on wrist shot past Joey Daccord, assisted by Martin Necas and Seth Jarvis
+   1-0
+P1  14:55 
+Shane Wright (SEA) high-sticking against Dmitry Orlov (2 minutes)
+   1-0
+P1  05:36 
+Sebastian Aho (CAR) cross-checking against Matty Beniers (2 minutes)
+   1-0
+P1  16:30 
+Brandon Montour (SEA) roughing against Jordan Martinook (2 minutes)
+   0-0
+P1  15:35 
+Andrei Svechnikov (CAR) scores power-play goal on wrist shot past Joey Daccord, assisted by Martin Necas and Seth Jarvis
+   1-0
+P1  14:55 
+Shane Wright (SEA) high-sticking against Dmitry Orlov (2 minutes)
+   1-0
+P1  05:36 
+Sebastian Aho (CAR) cross-checking against Matty Beniers (2 minutes)
+   1-0
+P1  16:30
+Brandon Montour (SEA) roughing against Jordan Martinook (2 minutes)
+0-0
+P1  15:35
+Andrei Svechnikov (CAR) scores power-play goal on wrist shot past Joey Daccord, assisted by Martin Necas and Seth Jarvis
+1-0
+P1  14:55
+Shane Wright (SEA) high-sticking against Dmitry Orlov (2 minutes)
+1-0
+P1  05:36
+Sebastian Aho (CAR) cross-checking against Matty Beniers (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  18:23 
+Andrei Svechnikov (CAR) slashing against Jaden Schwartz (2 minutes)
+   1-0
+P2  09:13 
+Yanni Gourde (SEA) slashing against Andrei Svechnikov (2 minutes)
+   1-0
+P2  03:11 
+Jack Drury (CAR) scores on tip-in past Joey Daccord, assisted by Jackson Blake and Brent Burns
+   2-0
+P2  02:56 
+Yanni Gourde (SEA) high-sticking against Seth Jarvis (4 minutes)
+   2-0
+P2  18:23 
+Andrei Svechnikov (CAR) slashing against Jaden Schwartz (2 minutes)
+   1-0
+P2  09:13 
+Yanni Gourde (SEA) slashing against Andrei Svechnikov (2 minutes)
+   1-0
+P2  03:11 
+Jack Drury (CAR) scores on tip-in past Joey Daccord, assisted by Jackson Blake and Brent Burns
+   2-0
+P2  02:56 
+Yanni Gourde (SEA) high-sticking against Seth Jarvis (4 minutes)
+   2-0
+P2  18:23
+Andrei Svechnikov (CAR) slashing against Jaden Schwartz (2 minutes)
+1-0
+P2  09:13
+Yanni Gourde (SEA) slashing against Andrei Svechnikov (2 minutes)
+1-0
+P2  03:11
+Jack Drury (CAR) scores on tip-in past Joey Daccord, assisted by Jackson Blake and Brent Burns
+2-0
+P2  02:56
+Yanni Gourde (SEA) high-sticking against Seth Jarvis (4 minutes)
+2-0
+3rd Period: ShowHide
+P3  14:34 
+Jesperi Kotkaniemi (CAR) slashing against Shane Wright (2 minutes)
+   2-0
+P3  09:39 
+Jared McCann (SEA) scores on wrist shot past Frederik Andersen, assisted by Matty Beniers
+   2-1
+P3  08:23 
+Andre Burakovsky (SEA) hooking against Andrei Svechnikov (2 minutes)
+   2-1
+P3  04:22 
+Seth Jarvis (CAR) scores on backhand shot past Joey Daccord, assisted by Jordan Martinook and Jaccob Slavin
+   3-1
+P3  01:36 
+Dmitry Orlov (CAR) scores on empty net
+   4-1
+P3  14:34 
+Jesperi Kotkaniemi (CAR) slashing against Shane Wright (2 minutes)
+   2-0
+P3  09:39 
+Jared McCann (SEA) scores on wrist shot past Frederik Andersen, assisted by Matty Beniers
+   2-1
+P3  08:23 
+Andre Burakovsky (SEA) hooking against Andrei Svechnikov (2 minutes)
+   2-1
+P3  04:22 
+Seth Jarvis (CAR) scores on backhand shot past Joey Daccord, assisted by Jordan Martinook and Jaccob Slavin
+   3-1
+P3  01:36 
+Dmitry Orlov (CAR) scores on empty net
+   4-1
+P3  14:34
+Jesperi Kotkaniemi (CAR) slashing against Shane Wright (2 minutes)
+2-0
+P3  09:39
+Jared McCann (SEA) scores on wrist shot past Frederik Andersen, assisted by Matty Beniers
+2-1
+P3  08:23
+Andre Burakovsky (SEA) hooking against Andrei Svechnikov (2 minutes)
+2-1
+P3  04:22
+Seth Jarvis (CAR) scores on backhand shot past Joey Daccord, assisted by Jordan Martinook and Jaccob Slavin
+3-1
+P3  01:36
+Dmitry Orlov (CAR) scores on empty net
+4-1
+Box Score:
+ 
+Back to Top
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  22:37   0  0    0   3   0   2   0   2   6/9Jackson Blake R  11:43   0  1    0   0   0   0   0   1   0/1William Carrier L  12:14   0  0    0   1   0   0   0   0   0/1Jack Drury C  11:03   1  0    0   5   0   0   0   0   4/7Seth Jarvis C  17:51   1  1    2   2   1   0   1   1   1/9Jesperi Kotkaniemi C  15:40   0  0    0   3   0   2   0   1   4/6Jordan Martinook L  13:24   0  1    2   3   0   0   0   0   0/0Martin Necas C  19:32   0  1    0   1   1   0   0   1   0/1Eric Robinson L  11:51   0  0    0   0   0   0   0   1   0/1Jack Roslovic C  15:58   0  0    0   1   0   0   0   1   4/5Jordan Staal C  12:57   0  0    2   1   1   0   0   0  9/21Andrei Svechnikov R  20:15   1  0    0   5   0   2   0   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  19:17   0  1    1   5   0   0   1   5   0/0Jalen Chatfield D  16:54   0  0    1   1   0   0   1   0   0/0Shayne Gostisbehere D  21:30   0  0    0   3   0   0   1   0   0/0Dmitry Orlov D  18:40   1  0    1   1   0   0   1   0   0/0Jaccob Slavin D  17:53   0  1    1   0   1   0   1   1   0/0Sean Walker D  14:41   0  0    0   4   2   0   1   0   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       39   6   6   7  15 28/61
+                                        45.9%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFrederik Andersen G  60:00   1  18/19  10/11   5/5   3/3     0
+              .947   .909 1.000 1.000 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:48   0  1   -1   2   2   0   0   0  9/17Oliver Bjorkstrand R  12:14   0  0    0   0   0   0   0   0   0/0Andre Burakovsky L  13:17   0  0   -1   3   2   2   0   1   0/0Jordan Eberle R  16:32   0  0    0   0   2   0   0   2   0/0Yanni Gourde C  12:06   0  0   -1   0   0   6   0   2  6/11Tye Kartye L  11:37   0  0   -1   0   0   0   0   0   0/0Jared McCann L  16:08   1  0    0   2   1   0   1   1   1/2Jaden Schwartz C  15:08   0  0   -1   3   1   0   0   1   1/1Chandler Stephenson C  21:48   0  0   -2   0   1   0   1   0 11/20Brandon Tanev L  17:01   0  0   -1   1   2   0   0   0   0/1Eeli Tolvanen R  11:39   0  0    0   3   0   0   0   2   0/0Shane Wright C  12:14   0  0    0   1   1   2   0   0   5/9Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  16:51   0  0   -1   0   1   0   1   1   0/0Ryker Evans D  21:43   0  0   -1   1   3   0   0   2   0/0Adam Larsson D  21:12   0  0    0   2   4   0   0   0   0/0Joshua Mahura D  12:53   0  0    1   0   0   0   1   0   0/0Brandon Montour D  22:38   0  0   -2   0   1   2   0   1   0/0Jamie Oleksiak D  17:05   0  0    0   1   2   0   1   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       19  23  12   5  14 33/61
+                                        54.1%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  59:11   3  35/38  19/21 16/17   0/0     0
+              .921   .905  .941
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  22:37   0  0    0   3   0   2   0   2   6/9Jackson Blake R  11:43   0  1    0   0   0   0   0   1   0/1William Carrier L  12:14   0  0    0   1   0   0   0   0   0/1Jack Drury C  11:03   1  0    0   5   0   0   0   0   4/7Seth Jarvis C  17:51   1  1    2   2   1   0   1   1   1/9Jesperi Kotkaniemi C  15:40   0  0    0   3   0   2   0   1   4/6Jordan Martinook L  13:24   0  1    2   3   0   0   0   0   0/0Martin Necas C  19:32   0  1    0   1   1   0   0   1   0/1Eric Robinson L  11:51   0  0    0   0   0   0   0   1   0/1Jack Roslovic C  15:58   0  0    0   1   0   0   0   1   4/5Jordan Staal C  12:57   0  0    2   1   1   0   0   0  9/21Andrei Svechnikov R  20:15   1  0    0   5   0   2   0   1   0/0
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sebastian Aho C
+22:37   0  0    0   3   0   2   0   2   6/9
+Jackson Blake R
+11:43   0  1    0   0   0   0   0   1   0/1
+William Carrier L
+12:14   0  0    0   1   0   0   0   0   0/1
+Jack Drury C
+11:03   1  0    0   5   0   0   0   0   4/7
+Seth Jarvis C
+17:51   1  1    2   2   1   0   1   1   1/9
+Jesperi Kotkaniemi C
+15:40   0  0    0   3   0   2   0   1   4/6
+Jordan Martinook L
+13:24   0  1    2   3   0   0   0   0   0/0
+Martin Necas C
+19:32   0  1    0   1   1   0   0   1   0/1
+Eric Robinson L
+11:51   0  0    0   0   0   0   0   1   0/1
+Jack Roslovic C
+15:58   0  0    0   1   0   0   0   1   4/5
+Jordan Staal C
+12:57   0  0    2   1   1   0   0   0  9/21
+Andrei Svechnikov R
+20:15   1  0    0   5   0   2   0   1   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  19:17   0  1    1   5   0   0   1   5   0/0Jalen Chatfield D  16:54   0  0    1   1   0   0   1   0   0/0Shayne Gostisbehere D  21:30   0  0    0   3   0   0   1   0   0/0Dmitry Orlov D  18:40   1  0    1   1   0   0   1   0   0/0Jaccob Slavin D  17:53   0  1    1   0   1   0   1   1   0/0Sean Walker D  14:41   0  0    0   4   2   0   1   0   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brent Burns D
+19:17   0  1    1   5   0   0   1   5   0/0
+Jalen Chatfield D
+16:54   0  0    1   1   0   0   1   0   0/0
+Shayne Gostisbehere D
+21:30   0  0    0   3   0   0   1   0   0/0
+Dmitry Orlov D
+18:40   1  0    1   1   0   0   1   0   0/0
+Jaccob Slavin D
+17:53   0  1    1   0   1   0   1   1   0/0
+Sean Walker D
+14:41   0  0    0   4   2   0   1   0   0/0
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       39   6   6   7  15 28/61
+                                        45.9%
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFrederik Andersen G  60:00   1  18/19  10/11   5/5   3/3     0
+              .947   .909 1.000 1.000
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Frederik Andersen G
+60:00   1  18/19  10/11   5/5   3/3     0
+              .947   .909 1.000 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:48   0  1   -1   2   2   0   0   0  9/17Oliver Bjorkstrand R  12:14   0  0    0   0   0   0   0   0   0/0Andre Burakovsky L  13:17   0  0   -1   3   2   2   0   1   0/0Jordan Eberle R  16:32   0  0    0   0   2   0   0   2   0/0Yanni Gourde C  12:06   0  0   -1   0   0   6   0   2  6/11Tye Kartye L  11:37   0  0   -1   0   0   0   0   0   0/0Jared McCann L  16:08   1  0    0   2   1   0   1   1   1/2Jaden Schwartz C  15:08   0  0   -1   3   1   0   0   1   1/1Chandler Stephenson C  21:48   0  0   -2   0   1   0   1   0 11/20Brandon Tanev L  17:01   0  0   -1   1   2   0   0   0   0/1Eeli Tolvanen R  11:39   0  0    0   3   0   0   0   2   0/0Shane Wright C  12:14   0  0    0   1   1   2   0   0   5/9
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+17:48   0  1   -1   2   2   0   0   0  9/17
+Oliver Bjorkstrand R
+12:14   0  0    0   0   0   0   0   0   0/0
+Andre Burakovsky L
+13:17   0  0   -1   3   2   2   0   1   0/0
+Jordan Eberle R
+16:32   0  0    0   0   2   0   0   2   0/0
+Yanni Gourde C
+12:06   0  0   -1   0   0   6   0   2  6/11
+Tye Kartye L
+11:37   0  0   -1   0   0   0   0   0   0/0
+Jared McCann L
+16:08   1  0    0   2   1   0   1   1   1/2
+Jaden Schwartz C
+15:08   0  0   -1   3   1   0   0   1   1/1
+Chandler Stephenson C
+21:48   0  0   -2   0   1   0   1   0 11/20
+Brandon Tanev L
+17:01   0  0   -1   1   2   0   0   0   0/1
+Eeli Tolvanen R
+11:39   0  0    0   3   0   0   0   2   0/0
+Shane Wright C
+12:14   0  0    0   1   1   2   0   0   5/9
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  16:51   0  0   -1   0   1   0   1   1   0/0Ryker Evans D  21:43   0  0   -1   1   3   0   0   2   0/0Adam Larsson D  21:12   0  0    0   2   4   0   0   0   0/0Joshua Mahura D  12:53   0  0    1   0   0   0   1   0   0/0Brandon Montour D  22:38   0  0   -2   0   1   2   0   1   0/0Jamie Oleksiak D  17:05   0  0    0   1   2   0   1   1   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+16:51   0  0   -1   0   1   0   1   1   0/0
+Ryker Evans D
+21:43   0  0   -1   1   3   0   0   2   0/0
+Adam Larsson D
+21:12   0  0    0   2   4   0   0   0   0/0
+Joshua Mahura D
+12:53   0  0    1   0   0   0   1   0   0/0
+Brandon Montour D
+22:38   0  0   -2   0   1   2   0   1   0/0
+Jamie Oleksiak D
+17:05   0  0    0   1   2   0   1   1   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       19  23  12   5  14 33/61
+                                        54.1%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  59:11   3  35/38  19/21 16/17   0/0     0
+              .921   .905  .941
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joey Daccord G
+59:11   3  35/38  19/21 16/17   0/0     0
+              .921   .905  .941
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

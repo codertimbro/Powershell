@@ -1,0 +1,412 @@
+< Nov. 3 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Islanders4-6-2Final2 - 5New York
+Rangers8-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NYI   0  2  0    2  
+NYR   1  2  2    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:48 
+Jacob Trouba (NYR) holding the stick against Anders Lee (2 minutes)
+   0-0
+P1  16:16 
+Chris Kreider (NYR) scores short-handed goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad
+   0-1
+2nd Period: ShowHide
+P2  18:39 
+Vincent Trocheck (NYR) scores on wrist shot past Ilya Sorokin, assisted by Reilly Smith
+   0-2
+P2  15:22 
+Casey Cizikas (NYI) scores on wrist shot past Igor Shesterkin, assisted by Pierre Engvall and Simon Holmstrom
+   1-2
+P2  14:05 
+Chris Kreider (NYR) hooking against Oliver Wahlstrom (2 minutes)
+   1-2
+P2  12:41 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   1-2
+P2  11:57 
+Anders Lee (NYI) interference against Jacob Trouba (2 minutes)
+   1-2
+P2  10:11 
+Ryan Pulock (NYI) hooking against Vincent Trocheck (2 minutes)
+   1-2
+P2  08:56 
+Artemi Panarin (NYR) scores power-play goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad and Adam Fox
+   1-3
+P2  00:08 
+Brock Nelson (NYI) scores on wrist shot past Igor Shesterkin, assisted by Kyle Palmieri and Anders Lee
+   2-3
+3rd Period: ShowHide
+P3  18:18 
+Simon Holmstrom (NYI) holding against Kaapo Kakko (2 minutes)
+   2-3
+P3  14:42 
+Adam Edstrom (NYR) scores on deflection past Ilya Sorokin, assisted by Braden Schneider and Zac Jones
+   2-4
+P3  14:29 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   2-4
+P3  03:23 
+Artemi Panarin (NYR) scores on empty net, assisted by Jacob Trouba and Mika Zibanejad
+   2-5
+P3  02:07 
+Filip Chytil (NYR) slashing against Scott Mayfield (2 minutes)
+   2-5
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCasey Cizikas C  14:26   1  0    0   2   1   0   1   0  6/12Pierre Engvall L  12:08   0  1    1   4   0   0   0   1   0/1Hudson Fasching R  06:33   0  0    0   0   2   0   1   1   0/0Simon Holmstrom R  17:40   0  1    1   2   1   2   0   1   0/0Bo Horvat C  20:42   0  0   -2   3   1   0   0   3  7/13Anders Lee L  19:20   0  1   -1   2   0   2   0   3   0/0Kyle MacLean C  08:54   0  0    0   1   0   0   0   1  8/11Brock Nelson C  19:03   1  0   -1   3   0   0   1   3  9/16Jean-Gabriel Pageau C  19:32   0  0   -2   1   0   0   1   0   4/7Kyle Palmieri C  17:11   0  1   -1   4   0   0   2   0   0/0Maxim Tsyplakov R  16:32   0  0   -2   2   0   0   0   0   1/1Oliver Wahlstrom R  11:25   0  0   -1   4   0   0   0   1   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Bolduc D  05:56   0  0   -1   0   0   0   0   0   0/0Dennis Cholowski D  13:53   0  0    0   0   1   0   0   0   0/0Noah Dobson D  25:21   0  0   -1   5   1   0   1   3   0/0Grant Hutton D  14:14   0  0    0   2   1   0   1   1   0/0Scott Mayfield D  23:00   0  0    1   1   1   0   3   3   0/0Ryan Pulock D  29:24   0  0   -2   1   1   2   1   2   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  10   6  12  23 35/61
+                                        57.4%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:31   4  35/39  28/30   4/5   3/4     0
+              .897   .933  .800  .750 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  11:12   0  0    1   1   0   0   0   2   2/7Filip Chytil C  14:37   0  0   -1   3   0   2   0   1  6/14Will Cuylle L  15:23   0  0    0   2   1   0   0   1   0/1Adam Edstrom C  08:55   1  0    1   2   1   0   0   0   0/0Kaapo Kakko R  12:18   0  0   -1   4   0   0   0   0   0/0Chris Kreider L  16:52   1  0    1   3   0   2   0   1   1/1Alexis Lafrenière L  16:14   0  0    0   2   0   0   0   0   0/0Artemi Panarin L  15:53   2  0    1   5   0   0   0   1   0/0Reilly Smith R  15:58   0  1    1   1   0   0   1   0   0/0Vincent Trocheck C  18:10   1  0    0   2   0   0   2   3  8/20Jimmy Vesey L  08:28   0  0    0   2   0   0   1   0   0/0Mika Zibanejad C  19:05   0  3    2   3   1   0   0   0  9/18Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  19:58   0  1    1   2   0   4   2   0   0/0Zac Jones D  13:53   0  1    1   0   4   0   1   0   0/0Ryan Lindgren D  22:12   0  0    1   2   3   0   0   1   0/0K'Andre Miller D  22:22   0  0    0   1   2   0   3   1   0/0Braden Schneider D  15:17   0  1    1   2   0   0   0   3   0/0Jacob Trouba D  23:13   0  1    0   3   7   2   0   0   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       40  19  10  10  14 26/61
+                                        42.6%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   2  35/37  29/31   5/5   1/1     0
+              .946   .935 1.000 1.000
+New York
+Islanders4-6-2Final2 - 5New York
+Rangers8-2-1
+New York
+Islanders4-6-2
+Final2 - 5
+New York
+Rangers8-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NYI   0  2  0    2  
+NYR   1  2  2    5
+1st Period: ShowHide
+P1  16:48 
+Jacob Trouba (NYR) holding the stick against Anders Lee (2 minutes)
+   0-0
+P1  16:16 
+Chris Kreider (NYR) scores short-handed goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad
+   0-1
+2nd Period: ShowHide
+P2  18:39 
+Vincent Trocheck (NYR) scores on wrist shot past Ilya Sorokin, assisted by Reilly Smith
+   0-2
+P2  15:22 
+Casey Cizikas (NYI) scores on wrist shot past Igor Shesterkin, assisted by Pierre Engvall and Simon Holmstrom
+   1-2
+P2  14:05 
+Chris Kreider (NYR) hooking against Oliver Wahlstrom (2 minutes)
+   1-2
+P2  12:41 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   1-2
+P2  11:57 
+Anders Lee (NYI) interference against Jacob Trouba (2 minutes)
+   1-2
+P2  10:11 
+Ryan Pulock (NYI) hooking against Vincent Trocheck (2 minutes)
+   1-2
+P2  08:56 
+Artemi Panarin (NYR) scores power-play goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad and Adam Fox
+   1-3
+P2  00:08 
+Brock Nelson (NYI) scores on wrist shot past Igor Shesterkin, assisted by Kyle Palmieri and Anders Lee
+   2-3
+3rd Period: ShowHide
+P3  18:18 
+Simon Holmstrom (NYI) holding against Kaapo Kakko (2 minutes)
+   2-3
+P3  14:42 
+Adam Edstrom (NYR) scores on deflection past Ilya Sorokin, assisted by Braden Schneider and Zac Jones
+   2-4
+P3  14:29 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   2-4
+P3  03:23 
+Artemi Panarin (NYR) scores on empty net, assisted by Jacob Trouba and Mika Zibanejad
+   2-5
+P3  02:07 
+Filip Chytil (NYR) slashing against Scott Mayfield (2 minutes)
+   2-5
+1st Period: ShowHide
+P1  16:48 
+Jacob Trouba (NYR) holding the stick against Anders Lee (2 minutes)
+   0-0
+P1  16:16 
+Chris Kreider (NYR) scores short-handed goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad
+   0-1
+P1  16:48 
+Jacob Trouba (NYR) holding the stick against Anders Lee (2 minutes)
+   0-0
+P1  16:16 
+Chris Kreider (NYR) scores short-handed goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad
+   0-1
+P1  16:48
+Jacob Trouba (NYR) holding the stick against Anders Lee (2 minutes)
+0-0
+P1  16:16
+Chris Kreider (NYR) scores short-handed goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad
+0-1
+2nd Period: ShowHide
+P2  18:39 
+Vincent Trocheck (NYR) scores on wrist shot past Ilya Sorokin, assisted by Reilly Smith
+   0-2
+P2  15:22 
+Casey Cizikas (NYI) scores on wrist shot past Igor Shesterkin, assisted by Pierre Engvall and Simon Holmstrom
+   1-2
+P2  14:05 
+Chris Kreider (NYR) hooking against Oliver Wahlstrom (2 minutes)
+   1-2
+P2  12:41 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   1-2
+P2  11:57 
+Anders Lee (NYI) interference against Jacob Trouba (2 minutes)
+   1-2
+P2  10:11 
+Ryan Pulock (NYI) hooking against Vincent Trocheck (2 minutes)
+   1-2
+P2  08:56 
+Artemi Panarin (NYR) scores power-play goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad and Adam Fox
+   1-3
+P2  00:08 
+Brock Nelson (NYI) scores on wrist shot past Igor Shesterkin, assisted by Kyle Palmieri and Anders Lee
+   2-3
+P2  18:39 
+Vincent Trocheck (NYR) scores on wrist shot past Ilya Sorokin, assisted by Reilly Smith
+   0-2
+P2  15:22 
+Casey Cizikas (NYI) scores on wrist shot past Igor Shesterkin, assisted by Pierre Engvall and Simon Holmstrom
+   1-2
+P2  14:05 
+Chris Kreider (NYR) hooking against Oliver Wahlstrom (2 minutes)
+   1-2
+P2  12:41 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   1-2
+P2  11:57 
+Anders Lee (NYI) interference against Jacob Trouba (2 minutes)
+   1-2
+P2  10:11 
+Ryan Pulock (NYI) hooking against Vincent Trocheck (2 minutes)
+   1-2
+P2  08:56 
+Artemi Panarin (NYR) scores power-play goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad and Adam Fox
+   1-3
+P2  00:08 
+Brock Nelson (NYI) scores on wrist shot past Igor Shesterkin, assisted by Kyle Palmieri and Anders Lee
+   2-3
+P2  18:39
+Vincent Trocheck (NYR) scores on wrist shot past Ilya Sorokin, assisted by Reilly Smith
+0-2
+P2  15:22
+Casey Cizikas (NYI) scores on wrist shot past Igor Shesterkin, assisted by Pierre Engvall and Simon Holmstrom
+1-2
+P2  14:05
+Chris Kreider (NYR) hooking against Oliver Wahlstrom (2 minutes)
+1-2
+P2  12:41
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+1-2
+P2  11:57
+Anders Lee (NYI) interference against Jacob Trouba (2 minutes)
+1-2
+P2  10:11
+Ryan Pulock (NYI) hooking against Vincent Trocheck (2 minutes)
+1-2
+P2  08:56
+Artemi Panarin (NYR) scores power-play goal on wrist shot past Ilya Sorokin, assisted by Mika Zibanejad and Adam Fox
+1-3
+P2  00:08
+Brock Nelson (NYI) scores on wrist shot past Igor Shesterkin, assisted by Kyle Palmieri and Anders Lee
+2-3
+3rd Period: ShowHide
+P3  18:18 
+Simon Holmstrom (NYI) holding against Kaapo Kakko (2 minutes)
+   2-3
+P3  14:42 
+Adam Edstrom (NYR) scores on deflection past Ilya Sorokin, assisted by Braden Schneider and Zac Jones
+   2-4
+P3  14:29 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   2-4
+P3  03:23 
+Artemi Panarin (NYR) scores on empty net, assisted by Jacob Trouba and Mika Zibanejad
+   2-5
+P3  02:07 
+Filip Chytil (NYR) slashing against Scott Mayfield (2 minutes)
+   2-5
+P3  18:18 
+Simon Holmstrom (NYI) holding against Kaapo Kakko (2 minutes)
+   2-3
+P3  14:42 
+Adam Edstrom (NYR) scores on deflection past Ilya Sorokin, assisted by Braden Schneider and Zac Jones
+   2-4
+P3  14:29 
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+   2-4
+P3  03:23 
+Artemi Panarin (NYR) scores on empty net, assisted by Jacob Trouba and Mika Zibanejad
+   2-5
+P3  02:07 
+Filip Chytil (NYR) slashing against Scott Mayfield (2 minutes)
+   2-5
+P3  18:18
+Simon Holmstrom (NYI) holding against Kaapo Kakko (2 minutes)
+2-3
+P3  14:42
+Adam Edstrom (NYR) scores on deflection past Ilya Sorokin, assisted by Braden Schneider and Zac Jones
+2-4
+P3  14:29
+Adam Fox (NYR) delaying game - puck over glass (2 minutes)
+2-4
+P3  03:23
+Artemi Panarin (NYR) scores on empty net, assisted by Jacob Trouba and Mika Zibanejad
+2-5
+P3  02:07
+Filip Chytil (NYR) slashing against Scott Mayfield (2 minutes)
+2-5
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCasey Cizikas C  14:26   1  0    0   2   1   0   1   0  6/12Pierre Engvall L  12:08   0  1    1   4   0   0   0   1   0/1Hudson Fasching R  06:33   0  0    0   0   2   0   1   1   0/0Simon Holmstrom R  17:40   0  1    1   2   1   2   0   1   0/0Bo Horvat C  20:42   0  0   -2   3   1   0   0   3  7/13Anders Lee L  19:20   0  1   -1   2   0   2   0   3   0/0Kyle MacLean C  08:54   0  0    0   1   0   0   0   1  8/11Brock Nelson C  19:03   1  0   -1   3   0   0   1   3  9/16Jean-Gabriel Pageau C  19:32   0  0   -2   1   0   0   1   0   4/7Kyle Palmieri C  17:11   0  1   -1   4   0   0   2   0   0/0Maxim Tsyplakov R  16:32   0  0   -2   2   0   0   0   0   1/1Oliver Wahlstrom R  11:25   0  0   -1   4   0   0   0   1   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Bolduc D  05:56   0  0   -1   0   0   0   0   0   0/0Dennis Cholowski D  13:53   0  0    0   0   1   0   0   0   0/0Noah Dobson D  25:21   0  0   -1   5   1   0   1   3   0/0Grant Hutton D  14:14   0  0    0   2   1   0   1   1   0/0Scott Mayfield D  23:00   0  0    1   1   1   0   3   3   0/0Ryan Pulock D  29:24   0  0   -2   1   1   2   1   2   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  10   6  12  23 35/61
+                                        57.4%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:31   4  35/39  28/30   4/5   3/4     0
+              .897   .933  .800  .750 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  11:12   0  0    1   1   0   0   0   2   2/7Filip Chytil C  14:37   0  0   -1   3   0   2   0   1  6/14Will Cuylle L  15:23   0  0    0   2   1   0   0   1   0/1Adam Edstrom C  08:55   1  0    1   2   1   0   0   0   0/0Kaapo Kakko R  12:18   0  0   -1   4   0   0   0   0   0/0Chris Kreider L  16:52   1  0    1   3   0   2   0   1   1/1Alexis Lafrenière L  16:14   0  0    0   2   0   0   0   0   0/0Artemi Panarin L  15:53   2  0    1   5   0   0   0   1   0/0Reilly Smith R  15:58   0  1    1   1   0   0   1   0   0/0Vincent Trocheck C  18:10   1  0    0   2   0   0   2   3  8/20Jimmy Vesey L  08:28   0  0    0   2   0   0   1   0   0/0Mika Zibanejad C  19:05   0  3    2   3   1   0   0   0  9/18Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  19:58   0  1    1   2   0   4   2   0   0/0Zac Jones D  13:53   0  1    1   0   4   0   1   0   0/0Ryan Lindgren D  22:12   0  0    1   2   3   0   0   1   0/0K'Andre Miller D  22:22   0  0    0   1   2   0   3   1   0/0Braden Schneider D  15:17   0  1    1   2   0   0   0   3   0/0Jacob Trouba D  23:13   0  1    0   3   7   2   0   0   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       40  19  10  10  14 26/61
+                                        42.6%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   2  35/37  29/31   5/5   1/1     0
+              .946   .935 1.000 1.000
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCasey Cizikas C  14:26   1  0    0   2   1   0   1   0  6/12Pierre Engvall L  12:08   0  1    1   4   0   0   0   1   0/1Hudson Fasching R  06:33   0  0    0   0   2   0   1   1   0/0Simon Holmstrom R  17:40   0  1    1   2   1   2   0   1   0/0Bo Horvat C  20:42   0  0   -2   3   1   0   0   3  7/13Anders Lee L  19:20   0  1   -1   2   0   2   0   3   0/0Kyle MacLean C  08:54   0  0    0   1   0   0   0   1  8/11Brock Nelson C  19:03   1  0   -1   3   0   0   1   3  9/16Jean-Gabriel Pageau C  19:32   0  0   -2   1   0   0   1   0   4/7Kyle Palmieri C  17:11   0  1   -1   4   0   0   2   0   0/0Maxim Tsyplakov R  16:32   0  0   -2   2   0   0   0   0   1/1Oliver Wahlstrom R  11:25   0  0   -1   4   0   0   0   1   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Casey Cizikas C
+14:26   1  0    0   2   1   0   1   0  6/12
+Pierre Engvall L
+12:08   0  1    1   4   0   0   0   1   0/1
+Hudson Fasching R
+06:33   0  0    0   0   2   0   1   1   0/0
+Simon Holmstrom R
+17:40   0  1    1   2   1   2   0   1   0/0
+Bo Horvat C
+20:42   0  0   -2   3   1   0   0   3  7/13
+Anders Lee L
+19:20   0  1   -1   2   0   2   0   3   0/0
+Kyle MacLean C
+08:54   0  0    0   1   0   0   0   1  8/11
+Brock Nelson C
+19:03   1  0   -1   3   0   0   1   3  9/16
+Jean-Gabriel Pageau C
+19:32   0  0   -2   1   0   0   1   0   4/7
+Kyle Palmieri C
+17:11   0  1   -1   4   0   0   2   0   0/0
+Maxim Tsyplakov R
+16:32   0  0   -2   2   0   0   0   0   1/1
+Oliver Wahlstrom R
+11:25   0  0   -1   4   0   0   0   1   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Bolduc D  05:56   0  0   -1   0   0   0   0   0   0/0Dennis Cholowski D  13:53   0  0    0   0   1   0   0   0   0/0Noah Dobson D  25:21   0  0   -1   5   1   0   1   3   0/0Grant Hutton D  14:14   0  0    0   2   1   0   1   1   0/0Scott Mayfield D  23:00   0  0    1   1   1   0   3   3   0/0Ryan Pulock D  29:24   0  0   -2   1   1   2   1   2   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Bolduc D
+05:56   0  0   -1   0   0   0   0   0   0/0
+Dennis Cholowski D
+13:53   0  0    0   0   1   0   0   0   0/0
+Noah Dobson D
+25:21   0  0   -1   5   1   0   1   3   0/0
+Grant Hutton D
+14:14   0  0    0   2   1   0   1   1   0/0
+Scott Mayfield D
+23:00   0  0    1   1   1   0   3   3   0/0
+Ryan Pulock D
+29:24   0  0   -2   1   1   2   1   2   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  10   6  12  23 35/61
+                                        57.4%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:31   4  35/39  28/30   4/5   3/4     0
+              .897   .933  .800  .750
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Sorokin G
+59:31   4  35/39  28/30   4/5   3/4     0
+              .897   .933  .800  .750
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  11:12   0  0    1   1   0   0   0   2   2/7Filip Chytil C  14:37   0  0   -1   3   0   2   0   1  6/14Will Cuylle L  15:23   0  0    0   2   1   0   0   1   0/1Adam Edstrom C  08:55   1  0    1   2   1   0   0   0   0/0Kaapo Kakko R  12:18   0  0   -1   4   0   0   0   0   0/0Chris Kreider L  16:52   1  0    1   3   0   2   0   1   1/1Alexis Lafrenière L  16:14   0  0    0   2   0   0   0   0   0/0Artemi Panarin L  15:53   2  0    1   5   0   0   0   1   0/0Reilly Smith R  15:58   0  1    1   1   0   0   1   0   0/0Vincent Trocheck C  18:10   1  0    0   2   0   0   2   3  8/20Jimmy Vesey L  08:28   0  0    0   2   0   0   1   0   0/0Mika Zibanejad C  19:05   0  3    2   3   1   0   0   0  9/18
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Carrick C
+11:12   0  0    1   1   0   0   0   2   2/7
+Filip Chytil C
+14:37   0  0   -1   3   0   2   0   1  6/14
+Will Cuylle L
+15:23   0  0    0   2   1   0   0   1   0/1
+Adam Edstrom C
+08:55   1  0    1   2   1   0   0   0   0/0
+Kaapo Kakko R
+12:18   0  0   -1   4   0   0   0   0   0/0
+Chris Kreider L
+16:52   1  0    1   3   0   2   0   1   1/1
+Alexis Lafrenière L
+16:14   0  0    0   2   0   0   0   0   0/0
+Artemi Panarin L
+15:53   2  0    1   5   0   0   0   1   0/0
+Reilly Smith R
+15:58   0  1    1   1   0   0   1   0   0/0
+Vincent Trocheck C
+18:10   1  0    0   2   0   0   2   3  8/20
+Jimmy Vesey L
+08:28   0  0    0   2   0   0   1   0   0/0
+Mika Zibanejad C
+19:05   0  3    2   3   1   0   0   0  9/18
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  19:58   0  1    1   2   0   4   2   0   0/0Zac Jones D  13:53   0  1    1   0   4   0   1   0   0/0Ryan Lindgren D  22:12   0  0    1   2   3   0   0   1   0/0K'Andre Miller D  22:22   0  0    0   1   2   0   3   1   0/0Braden Schneider D  15:17   0  1    1   2   0   0   0   3   0/0Jacob Trouba D  23:13   0  1    0   3   7   2   0   0   0/0
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Adam Fox D
+19:58   0  1    1   2   0   4   2   0   0/0
+Zac Jones D
+13:53   0  1    1   0   4   0   1   0   0/0
+Ryan Lindgren D
+22:12   0  0    1   2   3   0   0   1   0/0
+K'Andre Miller D
+22:22   0  0    0   1   2   0   3   1   0/0
+Braden Schneider D
+15:17   0  1    1   2   0   0   0   3   0/0
+Jacob Trouba D
+23:13   0  1    0   3   7   2   0   0   0/0
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       40  19  10  10  14 26/61
+                                        42.6%
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  60:00   2  35/37  29/31   5/5   1/1     0
+              .946   .935 1.000 1.000
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Igor Shesterkin G
+60:00   2  35/37  29/31   5/5   1/1     0
+              .946   .935 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

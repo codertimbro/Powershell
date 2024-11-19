@@ -1,0 +1,382 @@
+< Oct. 26 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+St. Louis
+Blues5-4-0Final2 - 5Montreal
+Canadiens3-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+STL   0  2  0    2  
+MTL   1  2  2    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:37 
+Michael Pezzetta (MTL) boarding against Alexey Toropchenko (2 minutes)
+   0-0
+P1  11:26 
+Jake Evans (MTL) scores on wrist shot past Jordan Binnington, assisted by Joel Armia and David Savard
+   0-1
+P1  05:48 
+Brayden Schenn (STL) tripping against Oliver Kapanen (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  18:48 
+Kirby Dach (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Mike Matheson
+   0-2
+P2  18:27 
+Colton Parayko (STL) scores on wrist shot past Sam Montembeault, assisted by Mathieu Joseph and Ryan Suter
+   1-2
+P2  15:58 
+Jake Neighbours (STL) scores on snap shot past Sam Montembeault, assisted by Brandon Saad and Brayden Schenn
+   2-2
+P2  09:53 
+Radek Faksa (STL) interference against Jake Evans (2 minutes)
+   2-2
+P2  06:02 
+Scott Perunovich (STL) high-sticking against Kirby Dach (2 minutes)
+   2-2
+P2  05:56 
+Alex Newhook (MTL) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirby Dach and Mike Matheson
+   2-3
+3rd Period: ShowHide
+P3  17:32 
+Michael Pezzetta (MTL) holding against Mathieu Joseph (2 minutes)
+   2-3
+P3  14:41 
+Cole Caufield (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Lane Hutson
+   2-4
+P3  07:18 
+Mike Matheson (MTL) slashing against Radek Faksa (2 minutes)
+   2-4
+P3  03:11 
+Joel Armia (MTL) scores on empty net, assisted by Christian Dvorak and Jake Evans
+   2-5
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  12:36   0  0    1   2   1   0   0   1   0/0Pavel Buchnevich L  18:46   0  0   -2   2   1   0   0   1   2/7Radek Faksa C  12:22   0  0   -1   0   1   2   0   1   3/7Dylan Holloway L  15:41   0  0    0   2   1   0   2   0   3/6Mathieu Joseph R  12:43   0  1    1   2   0   0   0   1   3/3Jordan Kyrou C  19:40   0  0   -2   6   1   0   0   2   0/0Jake Neighbours L  17:56   1  0    0   3   2   0   0   1   0/0Brandon Saad L  14:08   0  1   -1   1   1   0   0   1   0/0Brayden Schenn C  19:56   0  1    0   1   0   2   0   3 15/22Oskar Sundqvist C  11:52   0  0   -2   1   1   0   0   3   2/5Alexandre Texier C  14:09   0  0   -2   1   0   0   1   1   0/0Alexey Toropchenko R  13:21   0  0   -1   2   1   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  19:16   0  0   -2   0   2   0   1   0   0/0Justin Faulk D  24:54   0  0   -3   2   2   0   1   1   0/0Pierre-Olivier Joseph D  11:44   0  0    1   1   0   0   0   1   0/0Colton Parayko D  23:12   1  0    1   4   0   0   0   1   0/0Scott Perunovich D  12:35   0  0   -1   1   3   2   0   0   0/0Ryan Suter D  21:48   0  1    2   0   4   0   0   1   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       31  21   6   5  19 28/50
+                                        56.0%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:15   4  21/25  21/24   0/1   0/0     0
+              .840   .875  .000 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  12:39   0  0    0   3   2   0   0   1   0/0Joel Armia R  16:57   1  1    0   4   1   0   0   1   0/0Cole Caufield R  15:44   1  0    1   1   0   0   2   2   0/0Kirby Dach C  15:45   1  1    1   4   0   0   0   2   0/0Christian Dvorak C  16:10   0  1    1   2   0   0   0   1  6/10Jake Evans C  16:40   1  1    2   2   1   0   1   2  9/18Brendan Gallagher R  16:12   0  0    0   2   0   0   0   1   0/0Emil Heineman L  12:26   0  0    0   0   0   0   0   1   0/0Oliver Kapanen C  13:13   0  0   -1   1   1   0   0   0   1/2Alex Newhook C  15:10   1  0   -1   1   0   0   1   0   3/8Michael Pezzetta L  08:51   0  0    1   0   1   4   0   1   1/1Nick Suzuki C  18:21   0  2    2   2   2   0   0   0  2/11Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLane Hutson D  23:49   0  1    2   1   3   0   1   1   0/0Logan Mailloux D  11:27   0  0    1   0   2   0   0   0   0/0Mike Matheson D  22:42   0  2    0   0   2   2   0   0   0/0David Savard D  21:00   0  1    1   0   5   0   0   1   0/0Jayden Struble D  16:47   0  0    0   3   2   0   1   1   0/0Arber Xhekaj D  20:34   0  0    0   0   0   0   0   2   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       26  22   6   6  17 22/50
+                                        44.0%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  59:33   2  29/31  22/24   6/6   1/1     0
+              .935   .917 1.000 1.000
+St. Louis
+Blues5-4-0Final2 - 5Montreal
+Canadiens3-4-1
+St. Louis
+Blues5-4-0
+Final2 - 5
+Montreal
+Canadiens3-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+STL   0  2  0    2  
+MTL   1  2  2    5
+1st Period: ShowHide
+P1  13:37 
+Michael Pezzetta (MTL) boarding against Alexey Toropchenko (2 minutes)
+   0-0
+P1  11:26 
+Jake Evans (MTL) scores on wrist shot past Jordan Binnington, assisted by Joel Armia and David Savard
+   0-1
+P1  05:48 
+Brayden Schenn (STL) tripping against Oliver Kapanen (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  18:48 
+Kirby Dach (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Mike Matheson
+   0-2
+P2  18:27 
+Colton Parayko (STL) scores on wrist shot past Sam Montembeault, assisted by Mathieu Joseph and Ryan Suter
+   1-2
+P2  15:58 
+Jake Neighbours (STL) scores on snap shot past Sam Montembeault, assisted by Brandon Saad and Brayden Schenn
+   2-2
+P2  09:53 
+Radek Faksa (STL) interference against Jake Evans (2 minutes)
+   2-2
+P2  06:02 
+Scott Perunovich (STL) high-sticking against Kirby Dach (2 minutes)
+   2-2
+P2  05:56 
+Alex Newhook (MTL) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirby Dach and Mike Matheson
+   2-3
+3rd Period: ShowHide
+P3  17:32 
+Michael Pezzetta (MTL) holding against Mathieu Joseph (2 minutes)
+   2-3
+P3  14:41 
+Cole Caufield (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Lane Hutson
+   2-4
+P3  07:18 
+Mike Matheson (MTL) slashing against Radek Faksa (2 minutes)
+   2-4
+P3  03:11 
+Joel Armia (MTL) scores on empty net, assisted by Christian Dvorak and Jake Evans
+   2-5
+1st Period: ShowHide
+P1  13:37 
+Michael Pezzetta (MTL) boarding against Alexey Toropchenko (2 minutes)
+   0-0
+P1  11:26 
+Jake Evans (MTL) scores on wrist shot past Jordan Binnington, assisted by Joel Armia and David Savard
+   0-1
+P1  05:48 
+Brayden Schenn (STL) tripping against Oliver Kapanen (2 minutes)
+   0-1
+P1  13:37 
+Michael Pezzetta (MTL) boarding against Alexey Toropchenko (2 minutes)
+   0-0
+P1  11:26 
+Jake Evans (MTL) scores on wrist shot past Jordan Binnington, assisted by Joel Armia and David Savard
+   0-1
+P1  05:48 
+Brayden Schenn (STL) tripping against Oliver Kapanen (2 minutes)
+   0-1
+P1  13:37
+Michael Pezzetta (MTL) boarding against Alexey Toropchenko (2 minutes)
+0-0
+P1  11:26
+Jake Evans (MTL) scores on wrist shot past Jordan Binnington, assisted by Joel Armia and David Savard
+0-1
+P1  05:48
+Brayden Schenn (STL) tripping against Oliver Kapanen (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  18:48 
+Kirby Dach (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Mike Matheson
+   0-2
+P2  18:27 
+Colton Parayko (STL) scores on wrist shot past Sam Montembeault, assisted by Mathieu Joseph and Ryan Suter
+   1-2
+P2  15:58 
+Jake Neighbours (STL) scores on snap shot past Sam Montembeault, assisted by Brandon Saad and Brayden Schenn
+   2-2
+P2  09:53 
+Radek Faksa (STL) interference against Jake Evans (2 minutes)
+   2-2
+P2  06:02 
+Scott Perunovich (STL) high-sticking against Kirby Dach (2 minutes)
+   2-2
+P2  05:56 
+Alex Newhook (MTL) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirby Dach and Mike Matheson
+   2-3
+P2  18:48 
+Kirby Dach (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Mike Matheson
+   0-2
+P2  18:27 
+Colton Parayko (STL) scores on wrist shot past Sam Montembeault, assisted by Mathieu Joseph and Ryan Suter
+   1-2
+P2  15:58 
+Jake Neighbours (STL) scores on snap shot past Sam Montembeault, assisted by Brandon Saad and Brayden Schenn
+   2-2
+P2  09:53 
+Radek Faksa (STL) interference against Jake Evans (2 minutes)
+   2-2
+P2  06:02 
+Scott Perunovich (STL) high-sticking against Kirby Dach (2 minutes)
+   2-2
+P2  05:56 
+Alex Newhook (MTL) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirby Dach and Mike Matheson
+   2-3
+P2  18:48
+Kirby Dach (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Mike Matheson
+0-2
+P2  18:27
+Colton Parayko (STL) scores on wrist shot past Sam Montembeault, assisted by Mathieu Joseph and Ryan Suter
+1-2
+P2  15:58
+Jake Neighbours (STL) scores on snap shot past Sam Montembeault, assisted by Brandon Saad and Brayden Schenn
+2-2
+P2  09:53
+Radek Faksa (STL) interference against Jake Evans (2 minutes)
+2-2
+P2  06:02
+Scott Perunovich (STL) high-sticking against Kirby Dach (2 minutes)
+2-2
+P2  05:56
+Alex Newhook (MTL) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirby Dach and Mike Matheson
+2-3
+3rd Period: ShowHide
+P3  17:32 
+Michael Pezzetta (MTL) holding against Mathieu Joseph (2 minutes)
+   2-3
+P3  14:41 
+Cole Caufield (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Lane Hutson
+   2-4
+P3  07:18 
+Mike Matheson (MTL) slashing against Radek Faksa (2 minutes)
+   2-4
+P3  03:11 
+Joel Armia (MTL) scores on empty net, assisted by Christian Dvorak and Jake Evans
+   2-5
+P3  17:32 
+Michael Pezzetta (MTL) holding against Mathieu Joseph (2 minutes)
+   2-3
+P3  14:41 
+Cole Caufield (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Lane Hutson
+   2-4
+P3  07:18 
+Mike Matheson (MTL) slashing against Radek Faksa (2 minutes)
+   2-4
+P3  03:11 
+Joel Armia (MTL) scores on empty net, assisted by Christian Dvorak and Jake Evans
+   2-5
+P3  17:32
+Michael Pezzetta (MTL) holding against Mathieu Joseph (2 minutes)
+2-3
+P3  14:41
+Cole Caufield (MTL) scores on wrist shot past Jordan Binnington, assisted by Nick Suzuki and Lane Hutson
+2-4
+P3  07:18
+Mike Matheson (MTL) slashing against Radek Faksa (2 minutes)
+2-4
+P3  03:11
+Joel Armia (MTL) scores on empty net, assisted by Christian Dvorak and Jake Evans
+2-5
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  12:36   0  0    1   2   1   0   0   1   0/0Pavel Buchnevich L  18:46   0  0   -2   2   1   0   0   1   2/7Radek Faksa C  12:22   0  0   -1   0   1   2   0   1   3/7Dylan Holloway L  15:41   0  0    0   2   1   0   2   0   3/6Mathieu Joseph R  12:43   0  1    1   2   0   0   0   1   3/3Jordan Kyrou C  19:40   0  0   -2   6   1   0   0   2   0/0Jake Neighbours L  17:56   1  0    0   3   2   0   0   1   0/0Brandon Saad L  14:08   0  1   -1   1   1   0   0   1   0/0Brayden Schenn C  19:56   0  1    0   1   0   2   0   3 15/22Oskar Sundqvist C  11:52   0  0   -2   1   1   0   0   3   2/5Alexandre Texier C  14:09   0  0   -2   1   0   0   1   1   0/0Alexey Toropchenko R  13:21   0  0   -1   2   1   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  19:16   0  0   -2   0   2   0   1   0   0/0Justin Faulk D  24:54   0  0   -3   2   2   0   1   1   0/0Pierre-Olivier Joseph D  11:44   0  0    1   1   0   0   0   1   0/0Colton Parayko D  23:12   1  0    1   4   0   0   0   1   0/0Scott Perunovich D  12:35   0  0   -1   1   3   2   0   0   0/0Ryan Suter D  21:48   0  1    2   0   4   0   0   1   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       31  21   6   5  19 28/50
+                                        56.0%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:15   4  21/25  21/24   0/1   0/0     0
+              .840   .875  .000 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  12:39   0  0    0   3   2   0   0   1   0/0Joel Armia R  16:57   1  1    0   4   1   0   0   1   0/0Cole Caufield R  15:44   1  0    1   1   0   0   2   2   0/0Kirby Dach C  15:45   1  1    1   4   0   0   0   2   0/0Christian Dvorak C  16:10   0  1    1   2   0   0   0   1  6/10Jake Evans C  16:40   1  1    2   2   1   0   1   2  9/18Brendan Gallagher R  16:12   0  0    0   2   0   0   0   1   0/0Emil Heineman L  12:26   0  0    0   0   0   0   0   1   0/0Oliver Kapanen C  13:13   0  0   -1   1   1   0   0   0   1/2Alex Newhook C  15:10   1  0   -1   1   0   0   1   0   3/8Michael Pezzetta L  08:51   0  0    1   0   1   4   0   1   1/1Nick Suzuki C  18:21   0  2    2   2   2   0   0   0  2/11Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLane Hutson D  23:49   0  1    2   1   3   0   1   1   0/0Logan Mailloux D  11:27   0  0    1   0   2   0   0   0   0/0Mike Matheson D  22:42   0  2    0   0   2   2   0   0   0/0David Savard D  21:00   0  1    1   0   5   0   0   1   0/0Jayden Struble D  16:47   0  0    0   3   2   0   1   1   0/0Arber Xhekaj D  20:34   0  0    0   0   0   0   0   2   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       26  22   6   6  17 22/50
+                                        44.0%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  59:33   2  29/31  22/24   6/6   1/1     0
+              .935   .917 1.000 1.000
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  12:36   0  0    1   2   1   0   0   1   0/0Pavel Buchnevich L  18:46   0  0   -2   2   1   0   0   1   2/7Radek Faksa C  12:22   0  0   -1   0   1   2   0   1   3/7Dylan Holloway L  15:41   0  0    0   2   1   0   2   0   3/6Mathieu Joseph R  12:43   0  1    1   2   0   0   0   1   3/3Jordan Kyrou C  19:40   0  0   -2   6   1   0   0   2   0/0Jake Neighbours L  17:56   1  0    0   3   2   0   0   1   0/0Brandon Saad L  14:08   0  1   -1   1   1   0   0   1   0/0Brayden Schenn C  19:56   0  1    0   1   0   2   0   3 15/22Oskar Sundqvist C  11:52   0  0   -2   1   1   0   0   3   2/5Alexandre Texier C  14:09   0  0   -2   1   0   0   1   1   0/0Alexey Toropchenko R  13:21   0  0   -1   2   1   0   0   0   0/0
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zack Bolduc C
+12:36   0  0    1   2   1   0   0   1   0/0
+Pavel Buchnevich L
+18:46   0  0   -2   2   1   0   0   1   2/7
+Radek Faksa C
+12:22   0  0   -1   0   1   2   0   1   3/7
+Dylan Holloway L
+15:41   0  0    0   2   1   0   2   0   3/6
+Mathieu Joseph R
+12:43   0  1    1   2   0   0   0   1   3/3
+Jordan Kyrou C
+19:40   0  0   -2   6   1   0   0   2   0/0
+Jake Neighbours L
+17:56   1  0    0   3   2   0   0   1   0/0
+Brandon Saad L
+14:08   0  1   -1   1   1   0   0   1   0/0
+Brayden Schenn C
+19:56   0  1    0   1   0   2   0   3 15/22
+Oskar Sundqvist C
+11:52   0  0   -2   1   1   0   0   3   2/5
+Alexandre Texier C
+14:09   0  0   -2   1   0   0   1   1   0/0
+Alexey Toropchenko R
+13:21   0  0   -1   2   1   0   0   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  19:16   0  0   -2   0   2   0   1   0   0/0Justin Faulk D  24:54   0  0   -3   2   2   0   1   1   0/0Pierre-Olivier Joseph D  11:44   0  0    1   1   0   0   0   1   0/0Colton Parayko D  23:12   1  0    1   4   0   0   0   1   0/0Scott Perunovich D  12:35   0  0   -1   1   3   2   0   0   0/0Ryan Suter D  21:48   0  1    2   0   4   0   0   1   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+19:16   0  0   -2   0   2   0   1   0   0/0
+Justin Faulk D
+24:54   0  0   -3   2   2   0   1   1   0/0
+Pierre-Olivier Joseph D
+11:44   0  0    1   1   0   0   0   1   0/0
+Colton Parayko D
+23:12   1  0    1   4   0   0   0   1   0/0
+Scott Perunovich D
+12:35   0  0   -1   1   3   2   0   0   0/0
+Ryan Suter D
+21:48   0  1    2   0   4   0   0   1   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       31  21   6   5  19 28/50
+                                        56.0%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:15   4  21/25  21/24   0/1   0/0     0
+              .840   .875  .000
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jordan Binnington G
+59:15   4  21/25  21/24   0/1   0/0     0
+              .840   .875  .000
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  12:39   0  0    0   3   2   0   0   1   0/0Joel Armia R  16:57   1  1    0   4   1   0   0   1   0/0Cole Caufield R  15:44   1  0    1   1   0   0   2   2   0/0Kirby Dach C  15:45   1  1    1   4   0   0   0   2   0/0Christian Dvorak C  16:10   0  1    1   2   0   0   0   1  6/10Jake Evans C  16:40   1  1    2   2   1   0   1   2  9/18Brendan Gallagher R  16:12   0  0    0   2   0   0   0   1   0/0Emil Heineman L  12:26   0  0    0   0   0   0   0   1   0/0Oliver Kapanen C  13:13   0  0   -1   1   1   0   0   0   1/2Alex Newhook C  15:10   1  0   -1   1   0   0   1   0   3/8Michael Pezzetta L  08:51   0  0    1   0   1   4   0   1   1/1Nick Suzuki C  18:21   0  2    2   2   2   0   0   0  2/11
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+12:39   0  0    0   3   2   0   0   1   0/0
+Joel Armia R
+16:57   1  1    0   4   1   0   0   1   0/0
+Cole Caufield R
+15:44   1  0    1   1   0   0   2   2   0/0
+Kirby Dach C
+15:45   1  1    1   4   0   0   0   2   0/0
+Christian Dvorak C
+16:10   0  1    1   2   0   0   0   1  6/10
+Jake Evans C
+16:40   1  1    2   2   1   0   1   2  9/18
+Brendan Gallagher R
+16:12   0  0    0   2   0   0   0   1   0/0
+Emil Heineman L
+12:26   0  0    0   0   0   0   0   1   0/0
+Oliver Kapanen C
+13:13   0  0   -1   1   1   0   0   0   1/2
+Alex Newhook C
+15:10   1  0   -1   1   0   0   1   0   3/8
+Michael Pezzetta L
+08:51   0  0    1   0   1   4   0   1   1/1
+Nick Suzuki C
+18:21   0  2    2   2   2   0   0   0  2/11
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLane Hutson D  23:49   0  1    2   1   3   0   1   1   0/0Logan Mailloux D  11:27   0  0    1   0   2   0   0   0   0/0Mike Matheson D  22:42   0  2    0   0   2   2   0   0   0/0David Savard D  21:00   0  1    1   0   5   0   0   1   0/0Jayden Struble D  16:47   0  0    0   3   2   0   1   1   0/0Arber Xhekaj D  20:34   0  0    0   0   0   0   0   2   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Lane Hutson D
+23:49   0  1    2   1   3   0   1   1   0/0
+Logan Mailloux D
+11:27   0  0    1   0   2   0   0   0   0/0
+Mike Matheson D
+22:42   0  2    0   0   2   2   0   0   0/0
+David Savard D
+21:00   0  1    1   0   5   0   0   1   0/0
+Jayden Struble D
+16:47   0  0    0   3   2   0   1   1   0/0
+Arber Xhekaj D
+20:34   0  0    0   0   0   0   0   2   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       26  22   6   6  17 22/50
+                                        44.0%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  59:33   2  29/31  22/24   6/6   1/1     0
+              .935   .917 1.000 1.000
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sam Montembeault G
+59:33   2  29/31  22/24   6/6   1/1     0
+              .935   .917 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

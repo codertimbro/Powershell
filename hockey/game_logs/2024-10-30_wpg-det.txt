@@ -1,0 +1,382 @@
+< Oct. 30 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Winnipeg
+Jets9-1-0Final6 - 2Detroit
+Red Wings4-5-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+WPG   3  0  3    6  
+DET   0  2  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:12 
+Gabriel Vilardi (WPG) scores on snap shot past Alex Lyon, assisted by Kyle Connor and Logan Stanley
+   1-0
+P1  15:58 
+Neal Pionk (WPG) scores on wrist shot past Alex Lyon, assisted by Mark Scheifele and Kyle Connor
+   2-0
+P1  04:16 
+Kyle Connor (WPG) scores on backhand shot past Alex Lyon, assisted by Gabriel Vilardi
+   3-0
+P1  01:21 
+Mark Scheifele (WPG) tripping against Moritz Seider (2 minutes)
+   3-0
+2nd Period: ShowHide
+P2  11:53 
+Dylan Samberg (WPG) interference against J.T. Compher (2 minutes)
+   3-0
+P2  11:47 
+Dylan Larkin (DET) scores power-play goal on snap shot past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-1
+P2  03:15 
+Neal Pionk (WPG) hooking against Lucas Raymond (2 minutes)
+   3-1
+P2  02:20 
+Alex DeBrincat (DET) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-2
+3rd Period: ShowHide
+P3  19:50 
+Nino Niederreiter (WPG) scores on backhand shot past Alex Lyon
+   4-2
+P3  14:14 
+Albert Johansson (DET) tripping against Nikolaj Ehlers (2 minutes)
+   4-2
+P3  12:41 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Alex Lyon, assisted by Alex Iafallo and Vladislav Namestnikov
+   5-2
+P3  11:39 
+Dylan Larkin (DET) slashing against Colin Miller (2 minutes)
+   5-2
+P3  09:35 
+Colin Miller (WPG) scores on snap shot past Alex Lyon, assisted by Adam Lowry
+   6-2
+Box Score:
+ 
+Back to Top
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:56   0  0    2   1   1   0   0   2   0/0Morgan Barron C  13:06   0  0    1   0   3   0   0   1   0/0Kyle Connor L  16:18   1  2    3   4   1   0   0   0   0/0Nikolaj Ehlers L  17:05   0  0    0   2   0   0   0   0   0/0Alex Iafallo L  13:03   0  1    0   1   2   0   0   0   0/0Rasmus Kupari C  11:50   0  0    0   2   0   0   0   0   3/5Adam Lowry C  15:09   0  1    2   0   2   0   0   0 13/22Vladislav Namestnikov C  14:14   0  1    0   0   0   0   1   0   5/7Nino Niederreiter R  14:48   1  0    1   4   0   0   1   0   0/0Cole Perfetti C  15:43   0  0    0   1   0   0   0   0   0/1Mark Scheifele C  18:51   0  1    3   2   1   2   1   1 12/19Gabriel Vilardi C  16:17   1  1    3   3   0   0   0   1   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  23:02   0  0    3   0   3   0   0   2   0/0Colin Miller D  12:21   1  0    1   2   1   0   0   0   0/0Josh Morrissey D  24:43   0  0    2   1   3   0   0   3   0/0Neal Pionk D  21:01   2  0    2   3   0   2   0   1   0/0Dylan Samberg D  20:59   0  0    2   1   1   2   0   0   0/0Logan Stanley D  14:33   0  1    0   2   1   0   0   1   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       29  19   6   3  12 33/54
+                                        61.1%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  60:00   2  19/21  18/18   1/3   0/0     0
+              .905  1.000  .333 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:43   0  0    0   2   0   0   1   0   0/0J.T. Compher L  16:25   0  0   -1   1   0   0   0   0  4/10Andrew Copp C  17:01   0  0   -1   1   0   0   2   2   3/6Alex DeBrincat R  18:39   1  0   -3   1   0   0   1   1   0/2Christian Fischer R  11:56   0  0   -1   1   0   0   1   0   0/0Patrick Kane R  18:31   0  0   -2   0   0   0   0   2   0/0Marco Kasper C  15:15   0  0    0   0   1   0   1   0  6/13Dylan Larkin C  17:04   1  0   -3   2   0   2   0   1  7/19Michael Rasmussen C  13:48   0  0    0   0   0   0   1   0   0/0Lucas Raymond L  15:36   0  2   -2   1   0   0   0   0   0/0Joe Veleno C  10:15   0  0   -1   1   1   0   0   0   1/4Austin Watson L  09:06   0  0   -1   1   0   0   0   1   0/0Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  22:02   0  0   -3   2   1   0   0   0   0/0Simon Edvinsson D  21:36   0  0   -2   3   0   0   0   3   0/0Justin Holl D  13:38   0  0    0   0   0   0   0   2   0/0Albert Johansson D  14:12   0  0   -1   1   1   2   1   2   0/0Jeff Petry D  23:03   0  0   -2   1   2   0   0   2   0/0Moritz Seider D  22:37   0  2   -2   3   0   0   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       21   6   4   8  17 21/54
+                                        38.9%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  60:00   6  23/29  21/26   2/3   0/0     0
+              .793   .808  .667
+Winnipeg
+Jets9-1-0Final6 - 2Detroit
+Red Wings4-5-1
+Winnipeg
+Jets9-1-0
+Final6 - 2
+Detroit
+Red Wings4-5-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+WPG   3  0  3    6  
+DET   0  2  0    2
+1st Period: ShowHide
+P1  17:12 
+Gabriel Vilardi (WPG) scores on snap shot past Alex Lyon, assisted by Kyle Connor and Logan Stanley
+   1-0
+P1  15:58 
+Neal Pionk (WPG) scores on wrist shot past Alex Lyon, assisted by Mark Scheifele and Kyle Connor
+   2-0
+P1  04:16 
+Kyle Connor (WPG) scores on backhand shot past Alex Lyon, assisted by Gabriel Vilardi
+   3-0
+P1  01:21 
+Mark Scheifele (WPG) tripping against Moritz Seider (2 minutes)
+   3-0
+2nd Period: ShowHide
+P2  11:53 
+Dylan Samberg (WPG) interference against J.T. Compher (2 minutes)
+   3-0
+P2  11:47 
+Dylan Larkin (DET) scores power-play goal on snap shot past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-1
+P2  03:15 
+Neal Pionk (WPG) hooking against Lucas Raymond (2 minutes)
+   3-1
+P2  02:20 
+Alex DeBrincat (DET) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-2
+3rd Period: ShowHide
+P3  19:50 
+Nino Niederreiter (WPG) scores on backhand shot past Alex Lyon
+   4-2
+P3  14:14 
+Albert Johansson (DET) tripping against Nikolaj Ehlers (2 minutes)
+   4-2
+P3  12:41 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Alex Lyon, assisted by Alex Iafallo and Vladislav Namestnikov
+   5-2
+P3  11:39 
+Dylan Larkin (DET) slashing against Colin Miller (2 minutes)
+   5-2
+P3  09:35 
+Colin Miller (WPG) scores on snap shot past Alex Lyon, assisted by Adam Lowry
+   6-2
+1st Period: ShowHide
+P1  17:12 
+Gabriel Vilardi (WPG) scores on snap shot past Alex Lyon, assisted by Kyle Connor and Logan Stanley
+   1-0
+P1  15:58 
+Neal Pionk (WPG) scores on wrist shot past Alex Lyon, assisted by Mark Scheifele and Kyle Connor
+   2-0
+P1  04:16 
+Kyle Connor (WPG) scores on backhand shot past Alex Lyon, assisted by Gabriel Vilardi
+   3-0
+P1  01:21 
+Mark Scheifele (WPG) tripping against Moritz Seider (2 minutes)
+   3-0
+P1  17:12 
+Gabriel Vilardi (WPG) scores on snap shot past Alex Lyon, assisted by Kyle Connor and Logan Stanley
+   1-0
+P1  15:58 
+Neal Pionk (WPG) scores on wrist shot past Alex Lyon, assisted by Mark Scheifele and Kyle Connor
+   2-0
+P1  04:16 
+Kyle Connor (WPG) scores on backhand shot past Alex Lyon, assisted by Gabriel Vilardi
+   3-0
+P1  01:21 
+Mark Scheifele (WPG) tripping against Moritz Seider (2 minutes)
+   3-0
+P1  17:12
+Gabriel Vilardi (WPG) scores on snap shot past Alex Lyon, assisted by Kyle Connor and Logan Stanley
+1-0
+P1  15:58
+Neal Pionk (WPG) scores on wrist shot past Alex Lyon, assisted by Mark Scheifele and Kyle Connor
+2-0
+P1  04:16
+Kyle Connor (WPG) scores on backhand shot past Alex Lyon, assisted by Gabriel Vilardi
+3-0
+P1  01:21
+Mark Scheifele (WPG) tripping against Moritz Seider (2 minutes)
+3-0
+2nd Period: ShowHide
+P2  11:53 
+Dylan Samberg (WPG) interference against J.T. Compher (2 minutes)
+   3-0
+P2  11:47 
+Dylan Larkin (DET) scores power-play goal on snap shot past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-1
+P2  03:15 
+Neal Pionk (WPG) hooking against Lucas Raymond (2 minutes)
+   3-1
+P2  02:20 
+Alex DeBrincat (DET) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-2
+P2  11:53 
+Dylan Samberg (WPG) interference against J.T. Compher (2 minutes)
+   3-0
+P2  11:47 
+Dylan Larkin (DET) scores power-play goal on snap shot past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-1
+P2  03:15 
+Neal Pionk (WPG) hooking against Lucas Raymond (2 minutes)
+   3-1
+P2  02:20 
+Alex DeBrincat (DET) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+   3-2
+P2  11:53
+Dylan Samberg (WPG) interference against J.T. Compher (2 minutes)
+3-0
+P2  11:47
+Dylan Larkin (DET) scores power-play goal on snap shot past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+3-1
+P2  03:15
+Neal Pionk (WPG) hooking against Lucas Raymond (2 minutes)
+3-1
+P2  02:20
+Alex DeBrincat (DET) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Lucas Raymond and Moritz Seider
+3-2
+3rd Period: ShowHide
+P3  19:50 
+Nino Niederreiter (WPG) scores on backhand shot past Alex Lyon
+   4-2
+P3  14:14 
+Albert Johansson (DET) tripping against Nikolaj Ehlers (2 minutes)
+   4-2
+P3  12:41 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Alex Lyon, assisted by Alex Iafallo and Vladislav Namestnikov
+   5-2
+P3  11:39 
+Dylan Larkin (DET) slashing against Colin Miller (2 minutes)
+   5-2
+P3  09:35 
+Colin Miller (WPG) scores on snap shot past Alex Lyon, assisted by Adam Lowry
+   6-2
+P3  19:50 
+Nino Niederreiter (WPG) scores on backhand shot past Alex Lyon
+   4-2
+P3  14:14 
+Albert Johansson (DET) tripping against Nikolaj Ehlers (2 minutes)
+   4-2
+P3  12:41 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Alex Lyon, assisted by Alex Iafallo and Vladislav Namestnikov
+   5-2
+P3  11:39 
+Dylan Larkin (DET) slashing against Colin Miller (2 minutes)
+   5-2
+P3  09:35 
+Colin Miller (WPG) scores on snap shot past Alex Lyon, assisted by Adam Lowry
+   6-2
+P3  19:50
+Nino Niederreiter (WPG) scores on backhand shot past Alex Lyon
+4-2
+P3  14:14
+Albert Johansson (DET) tripping against Nikolaj Ehlers (2 minutes)
+4-2
+P3  12:41
+Neal Pionk (WPG) scores power-play goal on wrist shot past Alex Lyon, assisted by Alex Iafallo and Vladislav Namestnikov
+5-2
+P3  11:39
+Dylan Larkin (DET) slashing against Colin Miller (2 minutes)
+5-2
+P3  09:35
+Colin Miller (WPG) scores on snap shot past Alex Lyon, assisted by Adam Lowry
+6-2
+Box Score:
+ 
+Back to Top
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:56   0  0    2   1   1   0   0   2   0/0Morgan Barron C  13:06   0  0    1   0   3   0   0   1   0/0Kyle Connor L  16:18   1  2    3   4   1   0   0   0   0/0Nikolaj Ehlers L  17:05   0  0    0   2   0   0   0   0   0/0Alex Iafallo L  13:03   0  1    0   1   2   0   0   0   0/0Rasmus Kupari C  11:50   0  0    0   2   0   0   0   0   3/5Adam Lowry C  15:09   0  1    2   0   2   0   0   0 13/22Vladislav Namestnikov C  14:14   0  1    0   0   0   0   1   0   5/7Nino Niederreiter R  14:48   1  0    1   4   0   0   1   0   0/0Cole Perfetti C  15:43   0  0    0   1   0   0   0   0   0/1Mark Scheifele C  18:51   0  1    3   2   1   2   1   1 12/19Gabriel Vilardi C  16:17   1  1    3   3   0   0   0   1   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  23:02   0  0    3   0   3   0   0   2   0/0Colin Miller D  12:21   1  0    1   2   1   0   0   0   0/0Josh Morrissey D  24:43   0  0    2   1   3   0   0   3   0/0Neal Pionk D  21:01   2  0    2   3   0   2   0   1   0/0Dylan Samberg D  20:59   0  0    2   1   1   2   0   0   0/0Logan Stanley D  14:33   0  1    0   2   1   0   0   1   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       29  19   6   3  12 33/54
+                                        61.1%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  60:00   2  19/21  18/18   1/3   0/0     0
+              .905  1.000  .333 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:43   0  0    0   2   0   0   1   0   0/0J.T. Compher L  16:25   0  0   -1   1   0   0   0   0  4/10Andrew Copp C  17:01   0  0   -1   1   0   0   2   2   3/6Alex DeBrincat R  18:39   1  0   -3   1   0   0   1   1   0/2Christian Fischer R  11:56   0  0   -1   1   0   0   1   0   0/0Patrick Kane R  18:31   0  0   -2   0   0   0   0   2   0/0Marco Kasper C  15:15   0  0    0   0   1   0   1   0  6/13Dylan Larkin C  17:04   1  0   -3   2   0   2   0   1  7/19Michael Rasmussen C  13:48   0  0    0   0   0   0   1   0   0/0Lucas Raymond L  15:36   0  2   -2   1   0   0   0   0   0/0Joe Veleno C  10:15   0  0   -1   1   1   0   0   0   1/4Austin Watson L  09:06   0  0   -1   1   0   0   0   1   0/0Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  22:02   0  0   -3   2   1   0   0   0   0/0Simon Edvinsson D  21:36   0  0   -2   3   0   0   0   3   0/0Justin Holl D  13:38   0  0    0   0   0   0   0   2   0/0Albert Johansson D  14:12   0  0   -1   1   1   2   1   2   0/0Jeff Petry D  23:03   0  0   -2   1   2   0   0   2   0/0Moritz Seider D  22:37   0  2   -2   3   0   0   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       21   6   4   8  17 21/54
+                                        38.9%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  60:00   6  23/29  21/26   2/3   0/0     0
+              .793   .808  .667
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:56   0  0    2   1   1   0   0   2   0/0Morgan Barron C  13:06   0  0    1   0   3   0   0   1   0/0Kyle Connor L  16:18   1  2    3   4   1   0   0   0   0/0Nikolaj Ehlers L  17:05   0  0    0   2   0   0   0   0   0/0Alex Iafallo L  13:03   0  1    0   1   2   0   0   0   0/0Rasmus Kupari C  11:50   0  0    0   2   0   0   0   0   3/5Adam Lowry C  15:09   0  1    2   0   2   0   0   0 13/22Vladislav Namestnikov C  14:14   0  1    0   0   0   0   1   0   5/7Nino Niederreiter R  14:48   1  0    1   4   0   0   1   0   0/0Cole Perfetti C  15:43   0  0    0   1   0   0   0   0   0/1Mark Scheifele C  18:51   0  1    3   2   1   2   1   1 12/19Gabriel Vilardi C  16:17   1  1    3   3   0   0   0   1   0/0
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mason Appleton C
+13:56   0  0    2   1   1   0   0   2   0/0
+Morgan Barron C
+13:06   0  0    1   0   3   0   0   1   0/0
+Kyle Connor L
+16:18   1  2    3   4   1   0   0   0   0/0
+Nikolaj Ehlers L
+17:05   0  0    0   2   0   0   0   0   0/0
+Alex Iafallo L
+13:03   0  1    0   1   2   0   0   0   0/0
+Rasmus Kupari C
+11:50   0  0    0   2   0   0   0   0   3/5
+Adam Lowry C
+15:09   0  1    2   0   2   0   0   0 13/22
+Vladislav Namestnikov C
+14:14   0  1    0   0   0   0   1   0   5/7
+Nino Niederreiter R
+14:48   1  0    1   4   0   0   1   0   0/0
+Cole Perfetti C
+15:43   0  0    0   1   0   0   0   0   0/1
+Mark Scheifele C
+18:51   0  1    3   2   1   2   1   1 12/19
+Gabriel Vilardi C
+16:17   1  1    3   3   0   0   0   1   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  23:02   0  0    3   0   3   0   0   2   0/0Colin Miller D  12:21   1  0    1   2   1   0   0   0   0/0Josh Morrissey D  24:43   0  0    2   1   3   0   0   3   0/0Neal Pionk D  21:01   2  0    2   3   0   2   0   1   0/0Dylan Samberg D  20:59   0  0    2   1   1   2   0   0   0/0Logan Stanley D  14:33   0  1    0   2   1   0   0   1   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dylan DeMelo D
+23:02   0  0    3   0   3   0   0   2   0/0
+Colin Miller D
+12:21   1  0    1   2   1   0   0   0   0/0
+Josh Morrissey D
+24:43   0  0    2   1   3   0   0   3   0/0
+Neal Pionk D
+21:01   2  0    2   3   0   2   0   1   0/0
+Dylan Samberg D
+20:59   0  0    2   1   1   2   0   0   0/0
+Logan Stanley D
+14:33   0  1    0   2   1   0   0   1   0/0
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       29  19   6   3  12 33/54
+                                        61.1%
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  60:00   2  19/21  18/18   1/3   0/0     0
+              .905  1.000  .333
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Hellebuyck G
+60:00   2  19/21  18/18   1/3   0/0     0
+              .905  1.000  .333
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:43   0  0    0   2   0   0   1   0   0/0J.T. Compher L  16:25   0  0   -1   1   0   0   0   0  4/10Andrew Copp C  17:01   0  0   -1   1   0   0   2   2   3/6Alex DeBrincat R  18:39   1  0   -3   1   0   0   1   1   0/2Christian Fischer R  11:56   0  0   -1   1   0   0   1   0   0/0Patrick Kane R  18:31   0  0   -2   0   0   0   0   2   0/0Marco Kasper C  15:15   0  0    0   0   1   0   1   0  6/13Dylan Larkin C  17:04   1  0   -3   2   0   2   0   1  7/19Michael Rasmussen C  13:48   0  0    0   0   0   0   1   0   0/0Lucas Raymond L  15:36   0  2   -2   1   0   0   0   0   0/0Joe Veleno C  10:15   0  0   -1   1   1   0   0   0   1/4Austin Watson L  09:06   0  0   -1   1   0   0   0   1   0/0
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+15:43   0  0    0   2   0   0   1   0   0/0
+J.T. Compher L
+16:25   0  0   -1   1   0   0   0   0  4/10
+Andrew Copp C
+17:01   0  0   -1   1   0   0   2   2   3/6
+Alex DeBrincat R
+18:39   1  0   -3   1   0   0   1   1   0/2
+Christian Fischer R
+11:56   0  0   -1   1   0   0   1   0   0/0
+Patrick Kane R
+18:31   0  0   -2   0   0   0   0   2   0/0
+Marco Kasper C
+15:15   0  0    0   0   1   0   1   0  6/13
+Dylan Larkin C
+17:04   1  0   -3   2   0   2   0   1  7/19
+Michael Rasmussen C
+13:48   0  0    0   0   0   0   1   0   0/0
+Lucas Raymond L
+15:36   0  2   -2   1   0   0   0   0   0/0
+Joe Veleno C
+10:15   0  0   -1   1   1   0   0   0   1/4
+Austin Watson L
+09:06   0  0   -1   1   0   0   0   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  22:02   0  0   -3   2   1   0   0   0   0/0Simon Edvinsson D  21:36   0  0   -2   3   0   0   0   3   0/0Justin Holl D  13:38   0  0    0   0   0   0   0   2   0/0Albert Johansson D  14:12   0  0   -1   1   1   2   1   2   0/0Jeff Petry D  23:03   0  0   -2   1   2   0   0   2   0/0Moritz Seider D  22:37   0  2   -2   3   0   0   0   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+22:02   0  0   -3   2   1   0   0   0   0/0
+Simon Edvinsson D
+21:36   0  0   -2   3   0   0   0   3   0/0
+Justin Holl D
+13:38   0  0    0   0   0   0   0   2   0/0
+Albert Johansson D
+14:12   0  0   -1   1   1   2   1   2   0/0
+Jeff Petry D
+23:03   0  0   -2   1   2   0   0   2   0/0
+Moritz Seider D
+22:37   0  2   -2   3   0   0   0   1   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       21   6   4   8  17 21/54
+                                        38.9%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  60:00   6  23/29  21/26   2/3   0/0     0
+              .793   .808  .667
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Lyon G
+60:00   6  23/29  21/26   2/3   0/0     0
+              .793   .808  .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

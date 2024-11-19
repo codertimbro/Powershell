@@ -1,0 +1,322 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Buffalo
+Sabres4-7-1Final1 - 2Detroit
+Red Wings5-5-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+BUF   1  0  0    1  
+DET   0  2  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:25 
+Patrick Kane (DET) hooking against Rasmus Dahlin (2 minutes)
+   0-0
+P1  09:03 
+Beck Malenstyn (BUF) holding against Erik Gustafsson (2 minutes)
+   0-0
+P1  08:21 
+Alex Tuch (BUF) scores short-handed goal on snap shot past Cam Talbot
+   1-0
+P1  01:31 
+Ben Chiarot (DET) slashing against Jason Zucker (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  12:46 
+Owen Power (BUF) cross-checking against Jonatan Berggren (2 minutes)
+   1-0
+P2  12:11 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Patrick Kane
+   1-1
+P2  05:35 
+Jack Quinn (BUF) delaying game - puck over glass (2 minutes)
+   1-1
+P2  05:22 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Alex DeBrincat and Lucas Raymond
+   1-2
+3rd Period: ShowHide
+P3  00:02 
+Jordan Greenway (BUF) tripping against Moritz Seider (2 minutes)
+   1-2
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan Cozens C  15:47   0  0    0   3   1   0   0   0  6/17Jordan Greenway L  12:41   0  0    0   2   2   2   0   0   0/0Peyton Krebs C  12:55   0  0    0   0   1   0   0   0   4/7Jiri Kulich C  14:28   0  0    0   1   0   0   0   0   0/1Sam Lafferty C  09:31   0  0    0   1   1   0   0   0   0/1Beck Malenstyn L  10:06   0  0    0   2   0   2   0   1   0/0Ryan McLeod C  12:11   0  0    1   0   1   0   0   2  6/10JJ Peterka R  19:16   0  0    0   4   0   0   0   0   0/0Jack Quinn R  16:10   0  0    0   2   0   2   0   1   0/0Tage Thompson C  20:45   0  0    0   2   1   0   0   1  6/20Alex Tuch R  21:58   1  0    1   5   5   0   3   0   1/2Jason Zucker L  17:17   0  0    0   3   0   0   0   1   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bryson D  13:34   0  0    0   0   2   0   1   1   0/0Bowen Byram D  24:24   0  0    1   1   1   0   0   1   0/0Rasmus Dahlin D  27:33   0  0    0   4   1   0   0   0   0/0Henri Jokiharju D  16:16   0  0    1   0   2   0   0   2   0/0Owen Power D  21:04   0  0    0   1   3   2   1   0   0/0Mattias Samuelsson D  13:54   0  0    0   1   1   0   0   3   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          1  0       32  22   8   5  13 23/58
+                                        39.7%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  57:20   2  21/23  19/19   2/4   0/0     0
+              .913  1.000  .500 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:28   0  0    0   3   0   0   0   1   1/1J.T. Compher L  19:10   0  0    0   0   1   0   0   0   5/9Andrew Copp C  16:10   0  0    0   0   0   0   1   2   7/9Alex DeBrincat R  13:55   0  1   -1   1   0   0   0   2   0/1Christian Fischer R  11:25   0  0    0   0   1   0   0   0   0/0Patrick Kane R  13:55   0  1   -1   2   0   2   1   0   0/0Marco Kasper C  16:25   0  0    0   2   0   0   0   0  6/14Dylan Larkin C  16:01   2  0   -1   4   0   0   0   1 13/20Michael Rasmussen C  11:16   0  0    0   3   0   0   0   0   0/0Lucas Raymond L  18:45   0  1   -1   1   2   0   0   2   0/0Vladimir Tarasenko R  15:11   0  0    0   0   2   0   0   0   0/0Joe Veleno C  10:52   0  0    0   1   0   0   0   0   3/4Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:32   0  0    0   1   3   2   1   1   0/0Simon Edvinsson D  20:39   0  0    0   1   3   0   0   3   0/0Erik Gustafsson D  18:31   0  0    0   0   0   0   1   1   0/0Albert Johansson D  16:07   0  0    0   2   2   0   0   0   0/0Jeff Petry D  17:11   0  0    0   0   2   0   0   1   0/0Moritz Seider D  23:27   0  0   -1   2   0   0   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  16   4   4  15 35/58
+                                        60.3%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   1  31/32  27/27   3/3   1/2     0
+              .969  1.000 1.000  .500
+Buffalo
+Sabres4-7-1Final1 - 2Detroit
+Red Wings5-5-1
+Buffalo
+Sabres4-7-1
+Final1 - 2
+Detroit
+Red Wings5-5-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+BUF   1  0  0    1  
+DET   0  2  0    2
+1st Period: ShowHide
+P1  17:25 
+Patrick Kane (DET) hooking against Rasmus Dahlin (2 minutes)
+   0-0
+P1  09:03 
+Beck Malenstyn (BUF) holding against Erik Gustafsson (2 minutes)
+   0-0
+P1  08:21 
+Alex Tuch (BUF) scores short-handed goal on snap shot past Cam Talbot
+   1-0
+P1  01:31 
+Ben Chiarot (DET) slashing against Jason Zucker (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  12:46 
+Owen Power (BUF) cross-checking against Jonatan Berggren (2 minutes)
+   1-0
+P2  12:11 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Patrick Kane
+   1-1
+P2  05:35 
+Jack Quinn (BUF) delaying game - puck over glass (2 minutes)
+   1-1
+P2  05:22 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Alex DeBrincat and Lucas Raymond
+   1-2
+3rd Period: ShowHide
+P3  00:02 
+Jordan Greenway (BUF) tripping against Moritz Seider (2 minutes)
+   1-2
+1st Period: ShowHide
+P1  17:25 
+Patrick Kane (DET) hooking against Rasmus Dahlin (2 minutes)
+   0-0
+P1  09:03 
+Beck Malenstyn (BUF) holding against Erik Gustafsson (2 minutes)
+   0-0
+P1  08:21 
+Alex Tuch (BUF) scores short-handed goal on snap shot past Cam Talbot
+   1-0
+P1  01:31 
+Ben Chiarot (DET) slashing against Jason Zucker (2 minutes)
+   1-0
+P1  17:25 
+Patrick Kane (DET) hooking against Rasmus Dahlin (2 minutes)
+   0-0
+P1  09:03 
+Beck Malenstyn (BUF) holding against Erik Gustafsson (2 minutes)
+   0-0
+P1  08:21 
+Alex Tuch (BUF) scores short-handed goal on snap shot past Cam Talbot
+   1-0
+P1  01:31 
+Ben Chiarot (DET) slashing against Jason Zucker (2 minutes)
+   1-0
+P1  17:25
+Patrick Kane (DET) hooking against Rasmus Dahlin (2 minutes)
+0-0
+P1  09:03
+Beck Malenstyn (BUF) holding against Erik Gustafsson (2 minutes)
+0-0
+P1  08:21
+Alex Tuch (BUF) scores short-handed goal on snap shot past Cam Talbot
+1-0
+P1  01:31
+Ben Chiarot (DET) slashing against Jason Zucker (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  12:46 
+Owen Power (BUF) cross-checking against Jonatan Berggren (2 minutes)
+   1-0
+P2  12:11 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Patrick Kane
+   1-1
+P2  05:35 
+Jack Quinn (BUF) delaying game - puck over glass (2 minutes)
+   1-1
+P2  05:22 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Alex DeBrincat and Lucas Raymond
+   1-2
+P2  12:46 
+Owen Power (BUF) cross-checking against Jonatan Berggren (2 minutes)
+   1-0
+P2  12:11 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Patrick Kane
+   1-1
+P2  05:35 
+Jack Quinn (BUF) delaying game - puck over glass (2 minutes)
+   1-1
+P2  05:22 
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Alex DeBrincat and Lucas Raymond
+   1-2
+P2  12:46
+Owen Power (BUF) cross-checking against Jonatan Berggren (2 minutes)
+1-0
+P2  12:11
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Patrick Kane
+1-1
+P2  05:35
+Jack Quinn (BUF) delaying game - puck over glass (2 minutes)
+1-1
+P2  05:22
+Dylan Larkin (DET) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Alex DeBrincat and Lucas Raymond
+1-2
+3rd Period: ShowHide
+P3  00:02 
+Jordan Greenway (BUF) tripping against Moritz Seider (2 minutes)
+   1-2
+P3  00:02 
+Jordan Greenway (BUF) tripping against Moritz Seider (2 minutes)
+   1-2
+P3  00:02
+Jordan Greenway (BUF) tripping against Moritz Seider (2 minutes)
+1-2
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan Cozens C  15:47   0  0    0   3   1   0   0   0  6/17Jordan Greenway L  12:41   0  0    0   2   2   2   0   0   0/0Peyton Krebs C  12:55   0  0    0   0   1   0   0   0   4/7Jiri Kulich C  14:28   0  0    0   1   0   0   0   0   0/1Sam Lafferty C  09:31   0  0    0   1   1   0   0   0   0/1Beck Malenstyn L  10:06   0  0    0   2   0   2   0   1   0/0Ryan McLeod C  12:11   0  0    1   0   1   0   0   2  6/10JJ Peterka R  19:16   0  0    0   4   0   0   0   0   0/0Jack Quinn R  16:10   0  0    0   2   0   2   0   1   0/0Tage Thompson C  20:45   0  0    0   2   1   0   0   1  6/20Alex Tuch R  21:58   1  0    1   5   5   0   3   0   1/2Jason Zucker L  17:17   0  0    0   3   0   0   0   1   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bryson D  13:34   0  0    0   0   2   0   1   1   0/0Bowen Byram D  24:24   0  0    1   1   1   0   0   1   0/0Rasmus Dahlin D  27:33   0  0    0   4   1   0   0   0   0/0Henri Jokiharju D  16:16   0  0    1   0   2   0   0   2   0/0Owen Power D  21:04   0  0    0   1   3   2   1   0   0/0Mattias Samuelsson D  13:54   0  0    0   1   1   0   0   3   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          1  0       32  22   8   5  13 23/58
+                                        39.7%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  57:20   2  21/23  19/19   2/4   0/0     0
+              .913  1.000  .500 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:28   0  0    0   3   0   0   0   1   1/1J.T. Compher L  19:10   0  0    0   0   1   0   0   0   5/9Andrew Copp C  16:10   0  0    0   0   0   0   1   2   7/9Alex DeBrincat R  13:55   0  1   -1   1   0   0   0   2   0/1Christian Fischer R  11:25   0  0    0   0   1   0   0   0   0/0Patrick Kane R  13:55   0  1   -1   2   0   2   1   0   0/0Marco Kasper C  16:25   0  0    0   2   0   0   0   0  6/14Dylan Larkin C  16:01   2  0   -1   4   0   0   0   1 13/20Michael Rasmussen C  11:16   0  0    0   3   0   0   0   0   0/0Lucas Raymond L  18:45   0  1   -1   1   2   0   0   2   0/0Vladimir Tarasenko R  15:11   0  0    0   0   2   0   0   0   0/0Joe Veleno C  10:52   0  0    0   1   0   0   0   0   3/4Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:32   0  0    0   1   3   2   1   1   0/0Simon Edvinsson D  20:39   0  0    0   1   3   0   0   3   0/0Erik Gustafsson D  18:31   0  0    0   0   0   0   1   1   0/0Albert Johansson D  16:07   0  0    0   2   2   0   0   0   0/0Jeff Petry D  17:11   0  0    0   0   2   0   0   1   0/0Moritz Seider D  23:27   0  0   -1   2   0   0   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  16   4   4  15 35/58
+                                        60.3%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   1  31/32  27/27   3/3   1/2     0
+              .969  1.000 1.000  .500
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan Cozens C  15:47   0  0    0   3   1   0   0   0  6/17Jordan Greenway L  12:41   0  0    0   2   2   2   0   0   0/0Peyton Krebs C  12:55   0  0    0   0   1   0   0   0   4/7Jiri Kulich C  14:28   0  0    0   1   0   0   0   0   0/1Sam Lafferty C  09:31   0  0    0   1   1   0   0   0   0/1Beck Malenstyn L  10:06   0  0    0   2   0   2   0   1   0/0Ryan McLeod C  12:11   0  0    1   0   1   0   0   2  6/10JJ Peterka R  19:16   0  0    0   4   0   0   0   0   0/0Jack Quinn R  16:10   0  0    0   2   0   2   0   1   0/0Tage Thompson C  20:45   0  0    0   2   1   0   0   1  6/20Alex Tuch R  21:58   1  0    1   5   5   0   3   0   1/2Jason Zucker L  17:17   0  0    0   3   0   0   0   1   0/0
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dylan Cozens C
+15:47   0  0    0   3   1   0   0   0  6/17
+Jordan Greenway L
+12:41   0  0    0   2   2   2   0   0   0/0
+Peyton Krebs C
+12:55   0  0    0   0   1   0   0   0   4/7
+Jiri Kulich C
+14:28   0  0    0   1   0   0   0   0   0/1
+Sam Lafferty C
+09:31   0  0    0   1   1   0   0   0   0/1
+Beck Malenstyn L
+10:06   0  0    0   2   0   2   0   1   0/0
+Ryan McLeod C
+12:11   0  0    1   0   1   0   0   2  6/10
+JJ Peterka R
+19:16   0  0    0   4   0   0   0   0   0/0
+Jack Quinn R
+16:10   0  0    0   2   0   2   0   1   0/0
+Tage Thompson C
+20:45   0  0    0   2   1   0   0   1  6/20
+Alex Tuch R
+21:58   1  0    1   5   5   0   3   0   1/2
+Jason Zucker L
+17:17   0  0    0   3   0   0   0   1   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bryson D  13:34   0  0    0   0   2   0   1   1   0/0Bowen Byram D  24:24   0  0    1   1   1   0   0   1   0/0Rasmus Dahlin D  27:33   0  0    0   4   1   0   0   0   0/0Henri Jokiharju D  16:16   0  0    1   0   2   0   0   2   0/0Owen Power D  21:04   0  0    0   1   3   2   1   0   0/0Mattias Samuelsson D  13:54   0  0    0   1   1   0   0   3   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jacob Bryson D
+13:34   0  0    0   0   2   0   1   1   0/0
+Bowen Byram D
+24:24   0  0    1   1   1   0   0   1   0/0
+Rasmus Dahlin D
+27:33   0  0    0   4   1   0   0   0   0/0
+Henri Jokiharju D
+16:16   0  0    1   0   2   0   0   2   0/0
+Owen Power D
+21:04   0  0    0   1   3   2   1   0   0/0
+Mattias Samuelsson D
+13:54   0  0    0   1   1   0   0   3   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          1  0       32  22   8   5  13 23/58
+                                        39.7%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  57:20   2  21/23  19/19   2/4   0/0     0
+              .913  1.000  .500
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ukko-Pekka Luukkonen G
+57:20   2  21/23  19/19   2/4   0/0     0
+              .913  1.000  .500
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:28   0  0    0   3   0   0   0   1   1/1J.T. Compher L  19:10   0  0    0   0   1   0   0   0   5/9Andrew Copp C  16:10   0  0    0   0   0   0   1   2   7/9Alex DeBrincat R  13:55   0  1   -1   1   0   0   0   2   0/1Christian Fischer R  11:25   0  0    0   0   1   0   0   0   0/0Patrick Kane R  13:55   0  1   -1   2   0   2   1   0   0/0Marco Kasper C  16:25   0  0    0   2   0   0   0   0  6/14Dylan Larkin C  16:01   2  0   -1   4   0   0   0   1 13/20Michael Rasmussen C  11:16   0  0    0   3   0   0   0   0   0/0Lucas Raymond L  18:45   0  1   -1   1   2   0   0   2   0/0Vladimir Tarasenko R  15:11   0  0    0   0   2   0   0   0   0/0Joe Veleno C  10:52   0  0    0   1   0   0   0   0   3/4
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+15:28   0  0    0   3   0   0   0   1   1/1
+J.T. Compher L
+19:10   0  0    0   0   1   0   0   0   5/9
+Andrew Copp C
+16:10   0  0    0   0   0   0   1   2   7/9
+Alex DeBrincat R
+13:55   0  1   -1   1   0   0   0   2   0/1
+Christian Fischer R
+11:25   0  0    0   0   1   0   0   0   0/0
+Patrick Kane R
+13:55   0  1   -1   2   0   2   1   0   0/0
+Marco Kasper C
+16:25   0  0    0   2   0   0   0   0  6/14
+Dylan Larkin C
+16:01   2  0   -1   4   0   0   0   1 13/20
+Michael Rasmussen C
+11:16   0  0    0   3   0   0   0   0   0/0
+Lucas Raymond L
+18:45   0  1   -1   1   2   0   0   2   0/0
+Vladimir Tarasenko R
+15:11   0  0    0   0   2   0   0   0   0/0
+Joe Veleno C
+10:52   0  0    0   1   0   0   0   0   3/4
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:32   0  0    0   1   3   2   1   1   0/0Simon Edvinsson D  20:39   0  0    0   1   3   0   0   3   0/0Erik Gustafsson D  18:31   0  0    0   0   0   0   1   1   0/0Albert Johansson D  16:07   0  0    0   2   2   0   0   0   0/0Jeff Petry D  17:11   0  0    0   0   2   0   0   1   0/0Moritz Seider D  23:27   0  0   -1   2   0   0   0   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+21:32   0  0    0   1   3   2   1   1   0/0
+Simon Edvinsson D
+20:39   0  0    0   1   3   0   0   3   0/0
+Erik Gustafsson D
+18:31   0  0    0   0   0   0   1   1   0/0
+Albert Johansson D
+16:07   0  0    0   2   2   0   0   0   0/0
+Jeff Petry D
+17:11   0  0    0   0   2   0   0   1   0/0
+Moritz Seider D
+23:27   0  0   -1   2   0   0   0   1   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  16   4   4  15 35/58
+                                        60.3%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   1  31/32  27/27   3/3   1/2     0
+              .969  1.000 1.000  .500
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cam Talbot G
+60:00   1  31/32  27/27   3/3   1/2     0
+              .969  1.000 1.000  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

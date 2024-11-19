@@ -1,0 +1,457 @@
+< Oct. 28 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Florida
+Panthers7-3-1Final5 - 2Buffalo
+Sabres4-5-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+FLA   2  1  2    5  
+BUF   0  2  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:59 
+Jesper Boqvist (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Anton Lundell and Eetu Luostarinen
+   1-0
+P1  08:22 
+Connor Clifton (BUF) cross-checking against Matthew Tkachuk (2 minutes)
+   1-0
+P1  08:04 
+Sam Reinhart (FLA) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Aleksander Barkov and Carter Verhaeghe
+   2-0
+P1  04:39 
+Henri Jokiharju (BUF) interference against A.J. Greer (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  11:46 
+Owen Power (BUF) hooking against Jesper Boqvist (2 minutes)
+   2-0
+P2  09:22 
+Eetu Luostarinen (FLA) high-sticking against Mattias Samuelsson (2 minutes)
+   2-0
+P2  09:15 
+Jason Zucker (BUF) scores power-play goal on batted shot past Sergei Bobrovsky, assisted by Tage Thompson and JJ Peterka
+   2-1
+P2  07:23 
+Rasmus Dahlin (BUF) scores on wrist shot past Sergei Bobrovsky, assisted by Owen Power
+   2-2
+P2  03:16 
+Carter Verhaeghe (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Matthew Tkachuk and Sam Bennett
+   3-2
+3rd Period: ShowHide
+P3  16:45 
+Sam Bennett (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  09:28 
+Peyton Krebs (BUF) slashing against Aaron Ekblad (2 minutes)
+   3-2
+P3  09:28 
+A.J. Greer (FLA) unsportsmanlike conduct against Peyton Krebs (2 minutes)
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) roughing against Jesper Boqvist (2 minutes), served by JJ Peterka
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) slashing against Anton Lundell (2 minutes)
+   3-2
+P3  07:00 
+Jesper Boqvist (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  05:25 
+Sam Bennett (FLA) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Nate Schmidt
+   4-2
+P3  04:17 
+Aleksander Barkov (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sam Reinhart and Gustav Forsling
+   5-2
+P3  01:50 
+Carter Verhaeghe (FLA) cross-checking against Peyton Krebs (2 minutes)
+   5-2
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  19:29   1  1    1   2   1   0   0   1  7/13Sam Bennett C  17:55   1  1    1   3   1   2   0   1  3/18Jesper Boqvist C  11:57   1  0    0   2   0   2   0   0   1/3Patrick Giles R  08:00   0  0    0   2   0   0   0   0   0/5A.J. Greer L  09:57   0  0    0   1   0   2   0   0   0/0Anton Lundell C  14:58   0  1    0   1   0   0   0   2  7/16Eetu Luostarinen C  11:43   0  1    0   1   0   2   0   0   0/0Sam Reinhart C  20:55   1  1    1   4   1   0   0   0   4/6Evan Rodrigues C  17:00   0  0    1   1   0   0   0   1   0/1Mackie Samoskevich R  07:51   0  0    0   0   0   0   0   2   0/0Matthew Tkachuk L  19:02   0  1    1   2   0   0   1   0   0/0Carter Verhaeghe C  18:57   1  1    1   6   0   2   1   1   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  17:57   0  0   -1   1   0   0   2   0   0/0Aaron Ekblad D  21:00   0  0    1   2   1   0   1   0   0/0Gustav Forsling D  20:01   0  1    1   0   2   0   0   0   0/0Dmitry Kulikov D  20:02   0  0    2   1   2   0   0   1   0/0Niko Mikkola D  21:29   0  0    2   2   2   0   0   1   0/0Nate Schmidt D  15:50   0  1   -1   0   1   0   1   2   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       31  11  10   6  12 22/62
+                                        35.5%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  60:00   2  26/28  21/22   5/6   0/0     0
+              .929   .955  .833 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Aube-Kubel R  07:19   0  0   -1   1   0   0   0   1   0/0Dylan Cozens C  18:31   0  0   -1   3   1   0   0   2  5/15Jordan Greenway L  15:05   0  0    0   0   0   0   0   0   0/0Peyton Krebs C  13:05   0  0    0   0   0   2   0   0   5/7Sam Lafferty C  08:25   0  0    0   0   0   0   0   0   1/2Beck Malenstyn L  07:45   0  0    0   1   0   0   1   0   1/1Ryan McLeod C  17:20   0  0    0   1   0   0   1   0 15/18JJ Peterka R  20:45   0  1   -1   3   1   0   2   0   0/0Jack Quinn R  14:51   0  0   -1   1   0   0   0   1   0/0Tage Thompson C  18:27   0  1   -1   0   0   0   0   0 11/16Alex Tuch R  21:02   0  0   -1   0   5   0   0   0   2/3Jason Zucker L  14:04   1  0    0   2   0   0   0   0   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  23:50   0  0   -2   1   0   0   0   1   0/0Connor Clifton D  16:14   0  0    0   1   3   2   1   0   0/0Rasmus Dahlin D  21:48   1  0    0   6   1   4   0   0   0/0Henri Jokiharju D  19:18   0  0    0   3   1   2   0   1   0/0Owen Power D  20:35   0  1   -2   4   1   2   0   1   0/0Mattias Samuelsson D  15:33   0  0    0   1   2   0   0   2   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       28  15  12   5   9 40/62
+                                        64.5%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  58:10   5  26/31  22/25   4/6   0/0     0
+              .839   .880  .667
+Florida
+Panthers7-3-1Final5 - 2Buffalo
+Sabres4-5-1
+Florida
+Panthers7-3-1
+Final5 - 2
+Buffalo
+Sabres4-5-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+FLA   2  1  2    5  
+BUF   0  2  0    2
+1st Period: ShowHide
+P1  08:59 
+Jesper Boqvist (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Anton Lundell and Eetu Luostarinen
+   1-0
+P1  08:22 
+Connor Clifton (BUF) cross-checking against Matthew Tkachuk (2 minutes)
+   1-0
+P1  08:04 
+Sam Reinhart (FLA) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Aleksander Barkov and Carter Verhaeghe
+   2-0
+P1  04:39 
+Henri Jokiharju (BUF) interference against A.J. Greer (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  11:46 
+Owen Power (BUF) hooking against Jesper Boqvist (2 minutes)
+   2-0
+P2  09:22 
+Eetu Luostarinen (FLA) high-sticking against Mattias Samuelsson (2 minutes)
+   2-0
+P2  09:15 
+Jason Zucker (BUF) scores power-play goal on batted shot past Sergei Bobrovsky, assisted by Tage Thompson and JJ Peterka
+   2-1
+P2  07:23 
+Rasmus Dahlin (BUF) scores on wrist shot past Sergei Bobrovsky, assisted by Owen Power
+   2-2
+P2  03:16 
+Carter Verhaeghe (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Matthew Tkachuk and Sam Bennett
+   3-2
+3rd Period: ShowHide
+P3  16:45 
+Sam Bennett (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  09:28 
+Peyton Krebs (BUF) slashing against Aaron Ekblad (2 minutes)
+   3-2
+P3  09:28 
+A.J. Greer (FLA) unsportsmanlike conduct against Peyton Krebs (2 minutes)
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) roughing against Jesper Boqvist (2 minutes), served by JJ Peterka
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) slashing against Anton Lundell (2 minutes)
+   3-2
+P3  07:00 
+Jesper Boqvist (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  05:25 
+Sam Bennett (FLA) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Nate Schmidt
+   4-2
+P3  04:17 
+Aleksander Barkov (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sam Reinhart and Gustav Forsling
+   5-2
+P3  01:50 
+Carter Verhaeghe (FLA) cross-checking against Peyton Krebs (2 minutes)
+   5-2
+1st Period: ShowHide
+P1  08:59 
+Jesper Boqvist (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Anton Lundell and Eetu Luostarinen
+   1-0
+P1  08:22 
+Connor Clifton (BUF) cross-checking against Matthew Tkachuk (2 minutes)
+   1-0
+P1  08:04 
+Sam Reinhart (FLA) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Aleksander Barkov and Carter Verhaeghe
+   2-0
+P1  04:39 
+Henri Jokiharju (BUF) interference against A.J. Greer (2 minutes)
+   2-0
+P1  08:59 
+Jesper Boqvist (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Anton Lundell and Eetu Luostarinen
+   1-0
+P1  08:22 
+Connor Clifton (BUF) cross-checking against Matthew Tkachuk (2 minutes)
+   1-0
+P1  08:04 
+Sam Reinhart (FLA) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Aleksander Barkov and Carter Verhaeghe
+   2-0
+P1  04:39 
+Henri Jokiharju (BUF) interference against A.J. Greer (2 minutes)
+   2-0
+P1  08:59
+Jesper Boqvist (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Anton Lundell and Eetu Luostarinen
+1-0
+P1  08:22
+Connor Clifton (BUF) cross-checking against Matthew Tkachuk (2 minutes)
+1-0
+P1  08:04
+Sam Reinhart (FLA) scores power-play goal on snap shot past Ukko-Pekka Luukkonen, assisted by Aleksander Barkov and Carter Verhaeghe
+2-0
+P1  04:39
+Henri Jokiharju (BUF) interference against A.J. Greer (2 minutes)
+2-0
+2nd Period: ShowHide
+P2  11:46 
+Owen Power (BUF) hooking against Jesper Boqvist (2 minutes)
+   2-0
+P2  09:22 
+Eetu Luostarinen (FLA) high-sticking against Mattias Samuelsson (2 minutes)
+   2-0
+P2  09:15 
+Jason Zucker (BUF) scores power-play goal on batted shot past Sergei Bobrovsky, assisted by Tage Thompson and JJ Peterka
+   2-1
+P2  07:23 
+Rasmus Dahlin (BUF) scores on wrist shot past Sergei Bobrovsky, assisted by Owen Power
+   2-2
+P2  03:16 
+Carter Verhaeghe (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Matthew Tkachuk and Sam Bennett
+   3-2
+P2  11:46 
+Owen Power (BUF) hooking against Jesper Boqvist (2 minutes)
+   2-0
+P2  09:22 
+Eetu Luostarinen (FLA) high-sticking against Mattias Samuelsson (2 minutes)
+   2-0
+P2  09:15 
+Jason Zucker (BUF) scores power-play goal on batted shot past Sergei Bobrovsky, assisted by Tage Thompson and JJ Peterka
+   2-1
+P2  07:23 
+Rasmus Dahlin (BUF) scores on wrist shot past Sergei Bobrovsky, assisted by Owen Power
+   2-2
+P2  03:16 
+Carter Verhaeghe (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Matthew Tkachuk and Sam Bennett
+   3-2
+P2  11:46
+Owen Power (BUF) hooking against Jesper Boqvist (2 minutes)
+2-0
+P2  09:22
+Eetu Luostarinen (FLA) high-sticking against Mattias Samuelsson (2 minutes)
+2-0
+P2  09:15
+Jason Zucker (BUF) scores power-play goal on batted shot past Sergei Bobrovsky, assisted by Tage Thompson and JJ Peterka
+2-1
+P2  07:23
+Rasmus Dahlin (BUF) scores on wrist shot past Sergei Bobrovsky, assisted by Owen Power
+2-2
+P2  03:16
+Carter Verhaeghe (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Matthew Tkachuk and Sam Bennett
+3-2
+3rd Period: ShowHide
+P3  16:45 
+Sam Bennett (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  09:28 
+Peyton Krebs (BUF) slashing against Aaron Ekblad (2 minutes)
+   3-2
+P3  09:28 
+A.J. Greer (FLA) unsportsmanlike conduct against Peyton Krebs (2 minutes)
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) roughing against Jesper Boqvist (2 minutes), served by JJ Peterka
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) slashing against Anton Lundell (2 minutes)
+   3-2
+P3  07:00 
+Jesper Boqvist (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  05:25 
+Sam Bennett (FLA) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Nate Schmidt
+   4-2
+P3  04:17 
+Aleksander Barkov (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sam Reinhart and Gustav Forsling
+   5-2
+P3  01:50 
+Carter Verhaeghe (FLA) cross-checking against Peyton Krebs (2 minutes)
+   5-2
+P3  16:45 
+Sam Bennett (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  09:28 
+Peyton Krebs (BUF) slashing against Aaron Ekblad (2 minutes)
+   3-2
+P3  09:28 
+A.J. Greer (FLA) unsportsmanlike conduct against Peyton Krebs (2 minutes)
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) roughing against Jesper Boqvist (2 minutes), served by JJ Peterka
+   3-2
+P3  07:00 
+Rasmus Dahlin (BUF) slashing against Anton Lundell (2 minutes)
+   3-2
+P3  07:00 
+Jesper Boqvist (FLA) roughing against Rasmus Dahlin (2 minutes)
+   3-2
+P3  05:25 
+Sam Bennett (FLA) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Nate Schmidt
+   4-2
+P3  04:17 
+Aleksander Barkov (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sam Reinhart and Gustav Forsling
+   5-2
+P3  01:50 
+Carter Verhaeghe (FLA) cross-checking against Peyton Krebs (2 minutes)
+   5-2
+P3  16:45
+Sam Bennett (FLA) roughing against Rasmus Dahlin (2 minutes)
+3-2
+P3  09:28
+Peyton Krebs (BUF) slashing against Aaron Ekblad (2 minutes)
+3-2
+P3  09:28
+A.J. Greer (FLA) unsportsmanlike conduct against Peyton Krebs (2 minutes)
+3-2
+P3  07:00
+Rasmus Dahlin (BUF) roughing against Jesper Boqvist (2 minutes), served by JJ Peterka
+3-2
+P3  07:00
+Rasmus Dahlin (BUF) slashing against Anton Lundell (2 minutes)
+3-2
+P3  07:00
+Jesper Boqvist (FLA) roughing against Rasmus Dahlin (2 minutes)
+3-2
+P3  05:25
+Sam Bennett (FLA) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Nate Schmidt
+4-2
+P3  04:17
+Aleksander Barkov (FLA) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sam Reinhart and Gustav Forsling
+5-2
+P3  01:50
+Carter Verhaeghe (FLA) cross-checking against Peyton Krebs (2 minutes)
+5-2
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  19:29   1  1    1   2   1   0   0   1  7/13Sam Bennett C  17:55   1  1    1   3   1   2   0   1  3/18Jesper Boqvist C  11:57   1  0    0   2   0   2   0   0   1/3Patrick Giles R  08:00   0  0    0   2   0   0   0   0   0/5A.J. Greer L  09:57   0  0    0   1   0   2   0   0   0/0Anton Lundell C  14:58   0  1    0   1   0   0   0   2  7/16Eetu Luostarinen C  11:43   0  1    0   1   0   2   0   0   0/0Sam Reinhart C  20:55   1  1    1   4   1   0   0   0   4/6Evan Rodrigues C  17:00   0  0    1   1   0   0   0   1   0/1Mackie Samoskevich R  07:51   0  0    0   0   0   0   0   2   0/0Matthew Tkachuk L  19:02   0  1    1   2   0   0   1   0   0/0Carter Verhaeghe C  18:57   1  1    1   6   0   2   1   1   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  17:57   0  0   -1   1   0   0   2   0   0/0Aaron Ekblad D  21:00   0  0    1   2   1   0   1   0   0/0Gustav Forsling D  20:01   0  1    1   0   2   0   0   0   0/0Dmitry Kulikov D  20:02   0  0    2   1   2   0   0   1   0/0Niko Mikkola D  21:29   0  0    2   2   2   0   0   1   0/0Nate Schmidt D  15:50   0  1   -1   0   1   0   1   2   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       31  11  10   6  12 22/62
+                                        35.5%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  60:00   2  26/28  21/22   5/6   0/0     0
+              .929   .955  .833 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Aube-Kubel R  07:19   0  0   -1   1   0   0   0   1   0/0Dylan Cozens C  18:31   0  0   -1   3   1   0   0   2  5/15Jordan Greenway L  15:05   0  0    0   0   0   0   0   0   0/0Peyton Krebs C  13:05   0  0    0   0   0   2   0   0   5/7Sam Lafferty C  08:25   0  0    0   0   0   0   0   0   1/2Beck Malenstyn L  07:45   0  0    0   1   0   0   1   0   1/1Ryan McLeod C  17:20   0  0    0   1   0   0   1   0 15/18JJ Peterka R  20:45   0  1   -1   3   1   0   2   0   0/0Jack Quinn R  14:51   0  0   -1   1   0   0   0   1   0/0Tage Thompson C  18:27   0  1   -1   0   0   0   0   0 11/16Alex Tuch R  21:02   0  0   -1   0   5   0   0   0   2/3Jason Zucker L  14:04   1  0    0   2   0   0   0   0   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  23:50   0  0   -2   1   0   0   0   1   0/0Connor Clifton D  16:14   0  0    0   1   3   2   1   0   0/0Rasmus Dahlin D  21:48   1  0    0   6   1   4   0   0   0/0Henri Jokiharju D  19:18   0  0    0   3   1   2   0   1   0/0Owen Power D  20:35   0  1   -2   4   1   2   0   1   0/0Mattias Samuelsson D  15:33   0  0    0   1   2   0   0   2   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       28  15  12   5   9 40/62
+                                        64.5%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  58:10   5  26/31  22/25   4/6   0/0     0
+              .839   .880  .667
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  19:29   1  1    1   2   1   0   0   1  7/13Sam Bennett C  17:55   1  1    1   3   1   2   0   1  3/18Jesper Boqvist C  11:57   1  0    0   2   0   2   0   0   1/3Patrick Giles R  08:00   0  0    0   2   0   0   0   0   0/5A.J. Greer L  09:57   0  0    0   1   0   2   0   0   0/0Anton Lundell C  14:58   0  1    0   1   0   0   0   2  7/16Eetu Luostarinen C  11:43   0  1    0   1   0   2   0   0   0/0Sam Reinhart C  20:55   1  1    1   4   1   0   0   0   4/6Evan Rodrigues C  17:00   0  0    1   1   0   0   0   1   0/1Mackie Samoskevich R  07:51   0  0    0   0   0   0   0   2   0/0Matthew Tkachuk L  19:02   0  1    1   2   0   0   1   0   0/0Carter Verhaeghe C  18:57   1  1    1   6   0   2   1   1   0/0
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Aleksander Barkov C
+19:29   1  1    1   2   1   0   0   1  7/13
+Sam Bennett C
+17:55   1  1    1   3   1   2   0   1  3/18
+Jesper Boqvist C
+11:57   1  0    0   2   0   2   0   0   1/3
+Patrick Giles R
+08:00   0  0    0   2   0   0   0   0   0/5
+A.J. Greer L
+09:57   0  0    0   1   0   2   0   0   0/0
+Anton Lundell C
+14:58   0  1    0   1   0   0   0   2  7/16
+Eetu Luostarinen C
+11:43   0  1    0   1   0   2   0   0   0/0
+Sam Reinhart C
+20:55   1  1    1   4   1   0   0   0   4/6
+Evan Rodrigues C
+17:00   0  0    1   1   0   0   0   1   0/1
+Mackie Samoskevich R
+07:51   0  0    0   0   0   0   0   2   0/0
+Matthew Tkachuk L
+19:02   0  1    1   2   0   0   1   0   0/0
+Carter Verhaeghe C
+18:57   1  1    1   6   0   2   1   1   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  17:57   0  0   -1   1   0   0   2   0   0/0Aaron Ekblad D  21:00   0  0    1   2   1   0   1   0   0/0Gustav Forsling D  20:01   0  1    1   0   2   0   0   0   0/0Dmitry Kulikov D  20:02   0  0    2   1   2   0   0   1   0/0Niko Mikkola D  21:29   0  0    2   2   2   0   0   1   0/0Nate Schmidt D  15:50   0  1   -1   0   1   0   1   2   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+17:57   0  0   -1   1   0   0   2   0   0/0
+Aaron Ekblad D
+21:00   0  0    1   2   1   0   1   0   0/0
+Gustav Forsling D
+20:01   0  1    1   0   2   0   0   0   0/0
+Dmitry Kulikov D
+20:02   0  0    2   1   2   0   0   1   0/0
+Niko Mikkola D
+21:29   0  0    2   2   2   0   0   1   0/0
+Nate Schmidt D
+15:50   0  1   -1   0   1   0   1   2   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  9       31  11  10   6  12 22/62
+                                        35.5%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  60:00   2  26/28  21/22   5/6   0/0     0
+              .929   .955  .833
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sergei Bobrovsky G
+60:00   2  26/28  21/22   5/6   0/0     0
+              .929   .955  .833
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Aube-Kubel R  07:19   0  0   -1   1   0   0   0   1   0/0Dylan Cozens C  18:31   0  0   -1   3   1   0   0   2  5/15Jordan Greenway L  15:05   0  0    0   0   0   0   0   0   0/0Peyton Krebs C  13:05   0  0    0   0   0   2   0   0   5/7Sam Lafferty C  08:25   0  0    0   0   0   0   0   0   1/2Beck Malenstyn L  07:45   0  0    0   1   0   0   1   0   1/1Ryan McLeod C  17:20   0  0    0   1   0   0   1   0 15/18JJ Peterka R  20:45   0  1   -1   3   1   0   2   0   0/0Jack Quinn R  14:51   0  0   -1   1   0   0   0   1   0/0Tage Thompson C  18:27   0  1   -1   0   0   0   0   0 11/16Alex Tuch R  21:02   0  0   -1   0   5   0   0   0   2/3Jason Zucker L  14:04   1  0    0   2   0   0   0   0   0/0
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Aube-Kubel R
+07:19   0  0   -1   1   0   0   0   1   0/0
+Dylan Cozens C
+18:31   0  0   -1   3   1   0   0   2  5/15
+Jordan Greenway L
+15:05   0  0    0   0   0   0   0   0   0/0
+Peyton Krebs C
+13:05   0  0    0   0   0   2   0   0   5/7
+Sam Lafferty C
+08:25   0  0    0   0   0   0   0   0   1/2
+Beck Malenstyn L
+07:45   0  0    0   1   0   0   1   0   1/1
+Ryan McLeod C
+17:20   0  0    0   1   0   0   1   0 15/18
+JJ Peterka R
+20:45   0  1   -1   3   1   0   2   0   0/0
+Jack Quinn R
+14:51   0  0   -1   1   0   0   0   1   0/0
+Tage Thompson C
+18:27   0  1   -1   0   0   0   0   0 11/16
+Alex Tuch R
+21:02   0  0   -1   0   5   0   0   0   2/3
+Jason Zucker L
+14:04   1  0    0   2   0   0   0   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  23:50   0  0   -2   1   0   0   0   1   0/0Connor Clifton D  16:14   0  0    0   1   3   2   1   0   0/0Rasmus Dahlin D  21:48   1  0    0   6   1   4   0   0   0/0Henri Jokiharju D  19:18   0  0    0   3   1   2   0   1   0/0Owen Power D  20:35   0  1   -2   4   1   2   0   1   0/0Mattias Samuelsson D  15:33   0  0    0   1   2   0   0   2   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bowen Byram D
+23:50   0  0   -2   1   0   0   0   1   0/0
+Connor Clifton D
+16:14   0  0    0   1   3   2   1   0   0/0
+Rasmus Dahlin D
+21:48   1  0    0   6   1   4   0   0   0/0
+Henri Jokiharju D
+19:18   0  0    0   3   1   2   0   1   0/0
+Owen Power D
+20:35   0  1   -2   4   1   2   0   1   0/0
+Mattias Samuelsson D
+15:33   0  0    0   1   2   0   0   2   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       28  15  12   5   9 40/62
+                                        64.5%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  58:10   5  26/31  22/25   4/6   0/0     0
+              .839   .880  .667
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ukko-Pekka Luukkonen G
+58:10   5  26/31  22/25   4/6   0/0     0
+              .839   .880  .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

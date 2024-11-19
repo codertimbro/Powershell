@@ -1,0 +1,337 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Dallas
+Stars5-2-0Final2 - 4Buffalo
+Sabres3-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+DAL   0  0  2    2  
+BUF   0  2  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:16 
+Peyton Krebs (BUF) cross-checking against Sam Steel (2 minutes)
+   0-0
+P1  07:41 
+Rasmus Dahlin (BUF) tripping against Nils Lundkvist (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  17:04 
+Connor Clifton (BUF) interference against Colin Blackwell (2 minutes)
+   0-0
+P2  11:31 
+Esa Lindell (DAL) hooking against Jordan Greenway (2 minutes)
+   0-0
+P2  07:39 
+Peyton Krebs (BUF) scores on batted shot past Jake Oettinger, assisted by Beck Malenstyn and Owen Power
+   0-1
+P2  06:16 
+Ryan McLeod (BUF) scores on wrist shot past Jake Oettinger, assisted by Jason Zucker and Owen Power
+   0-2
+3rd Period: ShowHide
+P3  15:43 
+Tage Thompson (BUF) scores on slap shot past Jake Oettinger, assisted by Owen Power and Alex Tuch
+   0-3
+P3  04:36 
+Thomas Harley (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Matt Duchene and Evgenii Dadonov
+   1-3
+P3  02:12 
+Tyler Seguin (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgenii Dadonov and Mavrik Bourque
+   2-3
+P3  00:11 
+Alex Tuch (BUF) scores on empty net, assisted by Tage Thompson
+   2-4
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:08   0  0    0   0   0   0   0   2   5/7Colin Blackwell C  11:22   0  0   -1   1   0   0   0   0   1/1Mavrik Bourque C  12:31   0  1    1   0   0   0   0   1   0/3Evgenii Dadonov R  14:08   0  2    2   1   3   0   0   2   0/0Matt Duchene C  15:57   0  1    1   1   0   0   1   1   3/6Roope Hintz C  19:25   0  0   -2   1   2   0   0   0  8/10Wyatt Johnston C  19:19   0  0   -2   4   0   0   0   0   3/6Mason Marchment L  16:47   0  0    0   1   2   0   0   2   0/0Jason Robertson L  21:19   0  0   -2   3   0   0   0   0   0/0Tyler Seguin C  16:05   1  0    2   1   0   0   0   0   3/6Logan Stankoven C  18:19   0  0   -2   3   1   0   0   1   0/1Sam Steel C  12:56   0  0   -1   1   1   0   1   0   7/9Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  17:10   0  0   -1   0   1   0   0   0   0/0Thomas Harley D  22:31   1  0    1   1   0   0   1   1   0/0Miro Heiskanen D  26:23   0  0   -3   7   2   0   0   2   0/0Esa Lindell D  15:39   0  0    0   3   1   2   3   0   0/0Nils Lundkvist D  13:03   0  0   -1   1   2   0   1   0   0/0Ilya Lyubushkin D  14:28   0  0   -1   1   4   0   1   2   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       30  19   2   8  14 30/49
+                                        61.2%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  54:30   3  21/24  18/21   2/2   1/1     0
+              .875   .857 1.000 1.000 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan Cozens C  17:15   0  0    0   4   0   0   0   1  4/13Jordan Greenway L  19:27   0  0    1   1   6   0   1   0   0/0Peyton Krebs C  10:06   1  0    0   1   0   2   0   0   6/7Jiri Kulich C  13:42   0  0    0   0   0   0   1   0   0/0Sam Lafferty C  07:21   0  0    0   0   1   0   1   1   1/1Beck Malenstyn L  08:18   0  1    1   1   1   0   0   1   1/1Ryan McLeod C  18:35   1  0    0   1   2   0   0   0  3/14JJ Peterka R  16:06   0  0    1   1   0   0   0   3   0/0Jack Quinn R  13:33   0  0    0   0   1   0   0   1   0/0Tage Thompson C  16:48   1  1    1   3   0   0   0   1  3/10Alex Tuch R  18:08   1  1    2   3   2   0   1   1   1/3Jason Zucker L  16:32   0  1    0   2   0   0   0   0   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  18:55   0  0    1   1   0   0   0   1   0/0Connor Clifton D  15:42   0  0    1   0   5   2   4   2   0/0Rasmus Dahlin D  23:39   0  0    1   5   2   2   0   3   0/0Henri Jokiharju D  19:42   0  0    0   1   2   0   0   1   0/0Owen Power D  21:16   0  3    1   1   4   0   1   0   0/0Mattias Samuelsson D  18:55   0  0    0   0   2   0   1   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       25  28   6  10  16 19/49
+                                        38.8%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  60:00   2  28/30  27/29   1/1   0/0     0
+              .933   .931 1.000
+Dallas
+Stars5-2-0Final2 - 4Buffalo
+Sabres3-4-1
+Dallas
+Stars5-2-0
+Final2 - 4
+Buffalo
+Sabres3-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+DAL   0  0  2    2  
+BUF   0  2  2    4
+1st Period: ShowHide
+P1  17:16 
+Peyton Krebs (BUF) cross-checking against Sam Steel (2 minutes)
+   0-0
+P1  07:41 
+Rasmus Dahlin (BUF) tripping against Nils Lundkvist (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  17:04 
+Connor Clifton (BUF) interference against Colin Blackwell (2 minutes)
+   0-0
+P2  11:31 
+Esa Lindell (DAL) hooking against Jordan Greenway (2 minutes)
+   0-0
+P2  07:39 
+Peyton Krebs (BUF) scores on batted shot past Jake Oettinger, assisted by Beck Malenstyn and Owen Power
+   0-1
+P2  06:16 
+Ryan McLeod (BUF) scores on wrist shot past Jake Oettinger, assisted by Jason Zucker and Owen Power
+   0-2
+3rd Period: ShowHide
+P3  15:43 
+Tage Thompson (BUF) scores on slap shot past Jake Oettinger, assisted by Owen Power and Alex Tuch
+   0-3
+P3  04:36 
+Thomas Harley (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Matt Duchene and Evgenii Dadonov
+   1-3
+P3  02:12 
+Tyler Seguin (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgenii Dadonov and Mavrik Bourque
+   2-3
+P3  00:11 
+Alex Tuch (BUF) scores on empty net, assisted by Tage Thompson
+   2-4
+1st Period: ShowHide
+P1  17:16 
+Peyton Krebs (BUF) cross-checking against Sam Steel (2 minutes)
+   0-0
+P1  07:41 
+Rasmus Dahlin (BUF) tripping against Nils Lundkvist (2 minutes)
+   0-0
+P1  17:16 
+Peyton Krebs (BUF) cross-checking against Sam Steel (2 minutes)
+   0-0
+P1  07:41 
+Rasmus Dahlin (BUF) tripping against Nils Lundkvist (2 minutes)
+   0-0
+P1  17:16
+Peyton Krebs (BUF) cross-checking against Sam Steel (2 minutes)
+0-0
+P1  07:41
+Rasmus Dahlin (BUF) tripping against Nils Lundkvist (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  17:04 
+Connor Clifton (BUF) interference against Colin Blackwell (2 minutes)
+   0-0
+P2  11:31 
+Esa Lindell (DAL) hooking against Jordan Greenway (2 minutes)
+   0-0
+P2  07:39 
+Peyton Krebs (BUF) scores on batted shot past Jake Oettinger, assisted by Beck Malenstyn and Owen Power
+   0-1
+P2  06:16 
+Ryan McLeod (BUF) scores on wrist shot past Jake Oettinger, assisted by Jason Zucker and Owen Power
+   0-2
+P2  17:04 
+Connor Clifton (BUF) interference against Colin Blackwell (2 minutes)
+   0-0
+P2  11:31 
+Esa Lindell (DAL) hooking against Jordan Greenway (2 minutes)
+   0-0
+P2  07:39 
+Peyton Krebs (BUF) scores on batted shot past Jake Oettinger, assisted by Beck Malenstyn and Owen Power
+   0-1
+P2  06:16 
+Ryan McLeod (BUF) scores on wrist shot past Jake Oettinger, assisted by Jason Zucker and Owen Power
+   0-2
+P2  17:04
+Connor Clifton (BUF) interference against Colin Blackwell (2 minutes)
+0-0
+P2  11:31
+Esa Lindell (DAL) hooking against Jordan Greenway (2 minutes)
+0-0
+P2  07:39
+Peyton Krebs (BUF) scores on batted shot past Jake Oettinger, assisted by Beck Malenstyn and Owen Power
+0-1
+P2  06:16
+Ryan McLeod (BUF) scores on wrist shot past Jake Oettinger, assisted by Jason Zucker and Owen Power
+0-2
+3rd Period: ShowHide
+P3  15:43 
+Tage Thompson (BUF) scores on slap shot past Jake Oettinger, assisted by Owen Power and Alex Tuch
+   0-3
+P3  04:36 
+Thomas Harley (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Matt Duchene and Evgenii Dadonov
+   1-3
+P3  02:12 
+Tyler Seguin (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgenii Dadonov and Mavrik Bourque
+   2-3
+P3  00:11 
+Alex Tuch (BUF) scores on empty net, assisted by Tage Thompson
+   2-4
+P3  15:43 
+Tage Thompson (BUF) scores on slap shot past Jake Oettinger, assisted by Owen Power and Alex Tuch
+   0-3
+P3  04:36 
+Thomas Harley (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Matt Duchene and Evgenii Dadonov
+   1-3
+P3  02:12 
+Tyler Seguin (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgenii Dadonov and Mavrik Bourque
+   2-3
+P3  00:11 
+Alex Tuch (BUF) scores on empty net, assisted by Tage Thompson
+   2-4
+P3  15:43
+Tage Thompson (BUF) scores on slap shot past Jake Oettinger, assisted by Owen Power and Alex Tuch
+0-3
+P3  04:36
+Thomas Harley (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Matt Duchene and Evgenii Dadonov
+1-3
+P3  02:12
+Tyler Seguin (DAL) scores goal with extra attacker on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgenii Dadonov and Mavrik Bourque
+2-3
+P3  00:11
+Alex Tuch (BUF) scores on empty net, assisted by Tage Thompson
+2-4
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:08   0  0    0   0   0   0   0   2   5/7Colin Blackwell C  11:22   0  0   -1   1   0   0   0   0   1/1Mavrik Bourque C  12:31   0  1    1   0   0   0   0   1   0/3Evgenii Dadonov R  14:08   0  2    2   1   3   0   0   2   0/0Matt Duchene C  15:57   0  1    1   1   0   0   1   1   3/6Roope Hintz C  19:25   0  0   -2   1   2   0   0   0  8/10Wyatt Johnston C  19:19   0  0   -2   4   0   0   0   0   3/6Mason Marchment L  16:47   0  0    0   1   2   0   0   2   0/0Jason Robertson L  21:19   0  0   -2   3   0   0   0   0   0/0Tyler Seguin C  16:05   1  0    2   1   0   0   0   0   3/6Logan Stankoven C  18:19   0  0   -2   3   1   0   0   1   0/1Sam Steel C  12:56   0  0   -1   1   1   0   1   0   7/9Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  17:10   0  0   -1   0   1   0   0   0   0/0Thomas Harley D  22:31   1  0    1   1   0   0   1   1   0/0Miro Heiskanen D  26:23   0  0   -3   7   2   0   0   2   0/0Esa Lindell D  15:39   0  0    0   3   1   2   3   0   0/0Nils Lundkvist D  13:03   0  0   -1   1   2   0   1   0   0/0Ilya Lyubushkin D  14:28   0  0   -1   1   4   0   1   2   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       30  19   2   8  14 30/49
+                                        61.2%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  54:30   3  21/24  18/21   2/2   1/1     0
+              .875   .857 1.000 1.000 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan Cozens C  17:15   0  0    0   4   0   0   0   1  4/13Jordan Greenway L  19:27   0  0    1   1   6   0   1   0   0/0Peyton Krebs C  10:06   1  0    0   1   0   2   0   0   6/7Jiri Kulich C  13:42   0  0    0   0   0   0   1   0   0/0Sam Lafferty C  07:21   0  0    0   0   1   0   1   1   1/1Beck Malenstyn L  08:18   0  1    1   1   1   0   0   1   1/1Ryan McLeod C  18:35   1  0    0   1   2   0   0   0  3/14JJ Peterka R  16:06   0  0    1   1   0   0   0   3   0/0Jack Quinn R  13:33   0  0    0   0   1   0   0   1   0/0Tage Thompson C  16:48   1  1    1   3   0   0   0   1  3/10Alex Tuch R  18:08   1  1    2   3   2   0   1   1   1/3Jason Zucker L  16:32   0  1    0   2   0   0   0   0   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  18:55   0  0    1   1   0   0   0   1   0/0Connor Clifton D  15:42   0  0    1   0   5   2   4   2   0/0Rasmus Dahlin D  23:39   0  0    1   5   2   2   0   3   0/0Henri Jokiharju D  19:42   0  0    0   1   2   0   0   1   0/0Owen Power D  21:16   0  3    1   1   4   0   1   0   0/0Mattias Samuelsson D  18:55   0  0    0   0   2   0   1   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       25  28   6  10  16 19/49
+                                        38.8%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  60:00   2  28/30  27/29   1/1   0/0     0
+              .933   .931 1.000
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:08   0  0    0   0   0   0   0   2   5/7Colin Blackwell C  11:22   0  0   -1   1   0   0   0   0   1/1Mavrik Bourque C  12:31   0  1    1   0   0   0   0   1   0/3Evgenii Dadonov R  14:08   0  2    2   1   3   0   0   2   0/0Matt Duchene C  15:57   0  1    1   1   0   0   1   1   3/6Roope Hintz C  19:25   0  0   -2   1   2   0   0   0  8/10Wyatt Johnston C  19:19   0  0   -2   4   0   0   0   0   3/6Mason Marchment L  16:47   0  0    0   1   2   0   0   2   0/0Jason Robertson L  21:19   0  0   -2   3   0   0   0   0   0/0Tyler Seguin C  16:05   1  0    2   1   0   0   0   0   3/6Logan Stankoven C  18:19   0  0   -2   3   1   0   0   1   0/1Sam Steel C  12:56   0  0   -1   1   1   0   1   0   7/9
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Benn L
+16:08   0  0    0   0   0   0   0   2   5/7
+Colin Blackwell C
+11:22   0  0   -1   1   0   0   0   0   1/1
+Mavrik Bourque C
+12:31   0  1    1   0   0   0   0   1   0/3
+Evgenii Dadonov R
+14:08   0  2    2   1   3   0   0   2   0/0
+Matt Duchene C
+15:57   0  1    1   1   0   0   1   1   3/6
+Roope Hintz C
+19:25   0  0   -2   1   2   0   0   0  8/10
+Wyatt Johnston C
+19:19   0  0   -2   4   0   0   0   0   3/6
+Mason Marchment L
+16:47   0  0    0   1   2   0   0   2   0/0
+Jason Robertson L
+21:19   0  0   -2   3   0   0   0   0   0/0
+Tyler Seguin C
+16:05   1  0    2   1   0   0   0   0   3/6
+Logan Stankoven C
+18:19   0  0   -2   3   1   0   0   1   0/1
+Sam Steel C
+12:56   0  0   -1   1   1   0   1   0   7/9
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  17:10   0  0   -1   0   1   0   0   0   0/0Thomas Harley D  22:31   1  0    1   1   0   0   1   1   0/0Miro Heiskanen D  26:23   0  0   -3   7   2   0   0   2   0/0Esa Lindell D  15:39   0  0    0   3   1   2   3   0   0/0Nils Lundkvist D  13:03   0  0   -1   1   2   0   1   0   0/0Ilya Lyubushkin D  14:28   0  0   -1   1   4   0   1   2   0/0
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Dumba D
+17:10   0  0   -1   0   1   0   0   0   0/0
+Thomas Harley D
+22:31   1  0    1   1   0   0   1   1   0/0
+Miro Heiskanen D
+26:23   0  0   -3   7   2   0   0   2   0/0
+Esa Lindell D
+15:39   0  0    0   3   1   2   3   0   0/0
+Nils Lundkvist D
+13:03   0  0   -1   1   2   0   1   0   0/0
+Ilya Lyubushkin D
+14:28   0  0   -1   1   4   0   1   2   0/0
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       30  19   2   8  14 30/49
+                                        61.2%
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  54:30   3  21/24  18/21   2/2   1/1     0
+              .875   .857 1.000 1.000
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jake Oettinger G
+54:30   3  21/24  18/21   2/2   1/1     0
+              .875   .857 1.000 1.000
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan Cozens C  17:15   0  0    0   4   0   0   0   1  4/13Jordan Greenway L  19:27   0  0    1   1   6   0   1   0   0/0Peyton Krebs C  10:06   1  0    0   1   0   2   0   0   6/7Jiri Kulich C  13:42   0  0    0   0   0   0   1   0   0/0Sam Lafferty C  07:21   0  0    0   0   1   0   1   1   1/1Beck Malenstyn L  08:18   0  1    1   1   1   0   0   1   1/1Ryan McLeod C  18:35   1  0    0   1   2   0   0   0  3/14JJ Peterka R  16:06   0  0    1   1   0   0   0   3   0/0Jack Quinn R  13:33   0  0    0   0   1   0   0   1   0/0Tage Thompson C  16:48   1  1    1   3   0   0   0   1  3/10Alex Tuch R  18:08   1  1    2   3   2   0   1   1   1/3Jason Zucker L  16:32   0  1    0   2   0   0   0   0   0/0
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dylan Cozens C
+17:15   0  0    0   4   0   0   0   1  4/13
+Jordan Greenway L
+19:27   0  0    1   1   6   0   1   0   0/0
+Peyton Krebs C
+10:06   1  0    0   1   0   2   0   0   6/7
+Jiri Kulich C
+13:42   0  0    0   0   0   0   1   0   0/0
+Sam Lafferty C
+07:21   0  0    0   0   1   0   1   1   1/1
+Beck Malenstyn L
+08:18   0  1    1   1   1   0   0   1   1/1
+Ryan McLeod C
+18:35   1  0    0   1   2   0   0   0  3/14
+JJ Peterka R
+16:06   0  0    1   1   0   0   0   3   0/0
+Jack Quinn R
+13:33   0  0    0   0   1   0   0   1   0/0
+Tage Thompson C
+16:48   1  1    1   3   0   0   0   1  3/10
+Alex Tuch R
+18:08   1  1    2   3   2   0   1   1   1/3
+Jason Zucker L
+16:32   0  1    0   2   0   0   0   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  18:55   0  0    1   1   0   0   0   1   0/0Connor Clifton D  15:42   0  0    1   0   5   2   4   2   0/0Rasmus Dahlin D  23:39   0  0    1   5   2   2   0   3   0/0Henri Jokiharju D  19:42   0  0    0   1   2   0   0   1   0/0Owen Power D  21:16   0  3    1   1   4   0   1   0   0/0Mattias Samuelsson D  18:55   0  0    0   0   2   0   1   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bowen Byram D
+18:55   0  0    1   1   0   0   0   1   0/0
+Connor Clifton D
+15:42   0  0    1   0   5   2   4   2   0/0
+Rasmus Dahlin D
+23:39   0  0    1   5   2   2   0   3   0/0
+Henri Jokiharju D
+19:42   0  0    0   1   2   0   0   1   0/0
+Owen Power D
+21:16   0  3    1   1   4   0   1   0   0/0
+Mattias Samuelsson D
+18:55   0  0    0   0   2   0   1   0   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       25  28   6  10  16 19/49
+                                        38.8%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  60:00   2  28/30  27/29   1/1   0/0     0
+              .933   .931 1.000
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ukko-Pekka Luukkonen G
+60:00   2  28/30  27/29   1/1   0/0     0
+              .933   .931 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

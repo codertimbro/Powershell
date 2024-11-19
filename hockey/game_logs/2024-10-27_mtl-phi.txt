@@ -1,0 +1,367 @@
+< Oct. 27 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Montreal
+Canadiens4-4-1Final4 - 3Philadelphia
+Flyers2-6-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+MTL   1  3  0    4  
+PHI   1  0  2    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  12:48 
+Arber Xhekaj (MTL) unsportsmanlike conduct against Sean Couturier (2 minutes)
+   0-0
+P1  09:18 
+Nick Suzuki (MTL) scores on wrist shot past Aleksei Kolosov, assisted by Kirby Dach and Jayden Struble
+   1-0
+P1  02:36 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Ryan Poehling and Garnet Hathaway
+   1-1
+P1  01:59 
+Oliver Kapanen (MTL) holding against Joel Farabee (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  15:12 
+Brendan Gallagher (MTL) scores on deflection past Aleksei Kolosov, assisted by Logan Mailloux and Josh Anderson
+   2-1
+P2  08:55 
+Jamie Drysdale (PHI) high-sticking against Josh Anderson (2 minutes)
+   2-1
+P2  07:12 
+Cole Caufield (MTL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Nick Suzuki and Mike Matheson
+   3-1
+P2  03:59 
+Jake Evans (MTL) scores on snap shot past Aleksei Kolosov, assisted by Brendan Gallagher and David Savard
+   4-1
+P2  00:51 
+Matvei Michkov (PHI) slashing against Brendan Gallagher (2 minutes)
+   4-1
+P2  00:37 
+Nick Suzuki (MTL) interference against Garnet Hathaway (2 minutes)
+   4-1
+3rd Period: ShowHide
+P3  02:12 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Joel Farabee and Nicolas Deslauriers
+   4-2
+P3  01:43 
+Travis Konecny (PHI) scores goal with extra attacker on snap shot past Cayden Primeau, assisted by Owen Tippett and Travis Sanheim
+   4-3
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:33   0  1   -1   0   0   0   0   1   0/0Joel Armia R  15:55   0  0    0   0   2   0   0   1   0/0Cole Caufield R  16:22   1  0    0   4   0   0   0   0   0/0Kirby Dach C  16:20   0  1    0   1   0   0   0   1   0/2Christian Dvorak C  14:21   0  0    0   1   0   0   2   1  8/14Jake Evans C  17:07   1  0    0   2   0   0   0   0  6/19Brendan Gallagher R  14:57   1  1    0   1   1   0   1   1   0/0Emil Heineman L  10:47   0  0    0   2   2   0   1   1   0/0Oliver Kapanen C  10:52   0  0    0   2   1   2   0   1   0/2Alex Newhook C  13:47   0  0    0   0   0   0   1   0   3/6Michael Pezzetta L  10:45   0  0    1   1   1   0   0   0   0/1Nick Suzuki C  18:57   1  1    0   5   3   2   1   1  5/14Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLane Hutson D  21:42   0  0    0   1   2   0   0   2   0/0Logan Mailloux D  13:31   0  1   -1   0   0   0   0   0   0/0Mike Matheson D  24:58   0  1    1   2   8   0   2   0   0/0David Savard D  22:15   0  1    0   0   4   0   0   1   0/0Jayden Struble D  18:55   0  1    1   2   0   0   1   0   0/0Arber Xhekaj D  16:56   0  0   -1   0   0   2   0   3   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       24  24   6   9  14 22/58
+                                        37.9%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  60:00   3  23/26  18/21   5/5   0/0     0
+              .885   .857 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Cates L  12:41   0  0   -1   2   0   0   0   0  6/10Sean Couturier C  20:29   0  0    0   2   0   0   0   2 14/22Nicolas Deslauriers L  05:24   0  1    0   0   0   0   0   0   0/0Joel Farabee L  14:39   0  1    1   2   0   0   0   1   0/0Tyson Foerster R  14:42   0  0   -1   0   0   0   0   0   0/0Morgan Frost C  13:37   0  0    0   0   1   0   1   0   7/9Garnet Hathaway R  07:47   0  1    1   2   2   0   0   2   0/0Travis Konecny R  21:27   1  0    0   3   0   0   1   1   1/1Scott Laughton C  16:37   0  0    0   1   0   0   0   2   0/1Matvei Michkov R  21:33   0  0    0   2   0   2   1   2   1/2Ryan Poehling C  13:46   0  1    1   3   2   0   0   1  6/11Owen Tippett R  19:20   0  1    0   1   1   0   3   1   1/2Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  17:28   0  0    0   1   2   0   1   0   0/0Jamie Drysdale D  25:03   0  0   -1   2   2   2   0   5   0/0Erik Johnson D  11:50   0  0    0   0   0   0   0   0   0/0Rasmus Ristolainen D  20:06   0  0    1   1   0   0   1   1   0/0Travis Sanheim D  24:50   2  1    2   3   1   0   0   1   0/0Nick Seeler D  16:48   0  0   -2   1   2   0   1   2   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  13   4   9  21 36/58
+                                        62.1%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAleksei Kolosov G  58:10   4  20/24  17/20   3/4   0/0     0
+              .833   .850  .750
+Montreal
+Canadiens4-4-1Final4 - 3Philadelphia
+Flyers2-6-1
+Montreal
+Canadiens4-4-1
+Final4 - 3
+Philadelphia
+Flyers2-6-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+MTL   1  3  0    4  
+PHI   1  0  2    3
+1st Period: ShowHide
+P1  12:48 
+Arber Xhekaj (MTL) unsportsmanlike conduct against Sean Couturier (2 minutes)
+   0-0
+P1  09:18 
+Nick Suzuki (MTL) scores on wrist shot past Aleksei Kolosov, assisted by Kirby Dach and Jayden Struble
+   1-0
+P1  02:36 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Ryan Poehling and Garnet Hathaway
+   1-1
+P1  01:59 
+Oliver Kapanen (MTL) holding against Joel Farabee (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  15:12 
+Brendan Gallagher (MTL) scores on deflection past Aleksei Kolosov, assisted by Logan Mailloux and Josh Anderson
+   2-1
+P2  08:55 
+Jamie Drysdale (PHI) high-sticking against Josh Anderson (2 minutes)
+   2-1
+P2  07:12 
+Cole Caufield (MTL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Nick Suzuki and Mike Matheson
+   3-1
+P2  03:59 
+Jake Evans (MTL) scores on snap shot past Aleksei Kolosov, assisted by Brendan Gallagher and David Savard
+   4-1
+P2  00:51 
+Matvei Michkov (PHI) slashing against Brendan Gallagher (2 minutes)
+   4-1
+P2  00:37 
+Nick Suzuki (MTL) interference against Garnet Hathaway (2 minutes)
+   4-1
+3rd Period: ShowHide
+P3  02:12 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Joel Farabee and Nicolas Deslauriers
+   4-2
+P3  01:43 
+Travis Konecny (PHI) scores goal with extra attacker on snap shot past Cayden Primeau, assisted by Owen Tippett and Travis Sanheim
+   4-3
+1st Period: ShowHide
+P1  12:48 
+Arber Xhekaj (MTL) unsportsmanlike conduct against Sean Couturier (2 minutes)
+   0-0
+P1  09:18 
+Nick Suzuki (MTL) scores on wrist shot past Aleksei Kolosov, assisted by Kirby Dach and Jayden Struble
+   1-0
+P1  02:36 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Ryan Poehling and Garnet Hathaway
+   1-1
+P1  01:59 
+Oliver Kapanen (MTL) holding against Joel Farabee (2 minutes)
+   1-1
+P1  12:48 
+Arber Xhekaj (MTL) unsportsmanlike conduct against Sean Couturier (2 minutes)
+   0-0
+P1  09:18 
+Nick Suzuki (MTL) scores on wrist shot past Aleksei Kolosov, assisted by Kirby Dach and Jayden Struble
+   1-0
+P1  02:36 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Ryan Poehling and Garnet Hathaway
+   1-1
+P1  01:59 
+Oliver Kapanen (MTL) holding against Joel Farabee (2 minutes)
+   1-1
+P1  12:48
+Arber Xhekaj (MTL) unsportsmanlike conduct against Sean Couturier (2 minutes)
+0-0
+P1  09:18
+Nick Suzuki (MTL) scores on wrist shot past Aleksei Kolosov, assisted by Kirby Dach and Jayden Struble
+1-0
+P1  02:36
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Ryan Poehling and Garnet Hathaway
+1-1
+P1  01:59
+Oliver Kapanen (MTL) holding against Joel Farabee (2 minutes)
+1-1
+2nd Period: ShowHide
+P2  15:12 
+Brendan Gallagher (MTL) scores on deflection past Aleksei Kolosov, assisted by Logan Mailloux and Josh Anderson
+   2-1
+P2  08:55 
+Jamie Drysdale (PHI) high-sticking against Josh Anderson (2 minutes)
+   2-1
+P2  07:12 
+Cole Caufield (MTL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Nick Suzuki and Mike Matheson
+   3-1
+P2  03:59 
+Jake Evans (MTL) scores on snap shot past Aleksei Kolosov, assisted by Brendan Gallagher and David Savard
+   4-1
+P2  00:51 
+Matvei Michkov (PHI) slashing against Brendan Gallagher (2 minutes)
+   4-1
+P2  00:37 
+Nick Suzuki (MTL) interference against Garnet Hathaway (2 minutes)
+   4-1
+P2  15:12 
+Brendan Gallagher (MTL) scores on deflection past Aleksei Kolosov, assisted by Logan Mailloux and Josh Anderson
+   2-1
+P2  08:55 
+Jamie Drysdale (PHI) high-sticking against Josh Anderson (2 minutes)
+   2-1
+P2  07:12 
+Cole Caufield (MTL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Nick Suzuki and Mike Matheson
+   3-1
+P2  03:59 
+Jake Evans (MTL) scores on snap shot past Aleksei Kolosov, assisted by Brendan Gallagher and David Savard
+   4-1
+P2  00:51 
+Matvei Michkov (PHI) slashing against Brendan Gallagher (2 minutes)
+   4-1
+P2  00:37 
+Nick Suzuki (MTL) interference against Garnet Hathaway (2 minutes)
+   4-1
+P2  15:12
+Brendan Gallagher (MTL) scores on deflection past Aleksei Kolosov, assisted by Logan Mailloux and Josh Anderson
+2-1
+P2  08:55
+Jamie Drysdale (PHI) high-sticking against Josh Anderson (2 minutes)
+2-1
+P2  07:12
+Cole Caufield (MTL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Nick Suzuki and Mike Matheson
+3-1
+P2  03:59
+Jake Evans (MTL) scores on snap shot past Aleksei Kolosov, assisted by Brendan Gallagher and David Savard
+4-1
+P2  00:51
+Matvei Michkov (PHI) slashing against Brendan Gallagher (2 minutes)
+4-1
+P2  00:37
+Nick Suzuki (MTL) interference against Garnet Hathaway (2 minutes)
+4-1
+3rd Period: ShowHide
+P3  02:12 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Joel Farabee and Nicolas Deslauriers
+   4-2
+P3  01:43 
+Travis Konecny (PHI) scores goal with extra attacker on snap shot past Cayden Primeau, assisted by Owen Tippett and Travis Sanheim
+   4-3
+P3  02:12 
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Joel Farabee and Nicolas Deslauriers
+   4-2
+P3  01:43 
+Travis Konecny (PHI) scores goal with extra attacker on snap shot past Cayden Primeau, assisted by Owen Tippett and Travis Sanheim
+   4-3
+P3  02:12
+Travis Sanheim (PHI) scores on wrist shot past Cayden Primeau, assisted by Joel Farabee and Nicolas Deslauriers
+4-2
+P3  01:43
+Travis Konecny (PHI) scores goal with extra attacker on snap shot past Cayden Primeau, assisted by Owen Tippett and Travis Sanheim
+4-3
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:33   0  1   -1   0   0   0   0   1   0/0Joel Armia R  15:55   0  0    0   0   2   0   0   1   0/0Cole Caufield R  16:22   1  0    0   4   0   0   0   0   0/0Kirby Dach C  16:20   0  1    0   1   0   0   0   1   0/2Christian Dvorak C  14:21   0  0    0   1   0   0   2   1  8/14Jake Evans C  17:07   1  0    0   2   0   0   0   0  6/19Brendan Gallagher R  14:57   1  1    0   1   1   0   1   1   0/0Emil Heineman L  10:47   0  0    0   2   2   0   1   1   0/0Oliver Kapanen C  10:52   0  0    0   2   1   2   0   1   0/2Alex Newhook C  13:47   0  0    0   0   0   0   1   0   3/6Michael Pezzetta L  10:45   0  0    1   1   1   0   0   0   0/1Nick Suzuki C  18:57   1  1    0   5   3   2   1   1  5/14Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLane Hutson D  21:42   0  0    0   1   2   0   0   2   0/0Logan Mailloux D  13:31   0  1   -1   0   0   0   0   0   0/0Mike Matheson D  24:58   0  1    1   2   8   0   2   0   0/0David Savard D  22:15   0  1    0   0   4   0   0   1   0/0Jayden Struble D  18:55   0  1    1   2   0   0   1   0   0/0Arber Xhekaj D  16:56   0  0   -1   0   0   2   0   3   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       24  24   6   9  14 22/58
+                                        37.9%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  60:00   3  23/26  18/21   5/5   0/0     0
+              .885   .857 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Cates L  12:41   0  0   -1   2   0   0   0   0  6/10Sean Couturier C  20:29   0  0    0   2   0   0   0   2 14/22Nicolas Deslauriers L  05:24   0  1    0   0   0   0   0   0   0/0Joel Farabee L  14:39   0  1    1   2   0   0   0   1   0/0Tyson Foerster R  14:42   0  0   -1   0   0   0   0   0   0/0Morgan Frost C  13:37   0  0    0   0   1   0   1   0   7/9Garnet Hathaway R  07:47   0  1    1   2   2   0   0   2   0/0Travis Konecny R  21:27   1  0    0   3   0   0   1   1   1/1Scott Laughton C  16:37   0  0    0   1   0   0   0   2   0/1Matvei Michkov R  21:33   0  0    0   2   0   2   1   2   1/2Ryan Poehling C  13:46   0  1    1   3   2   0   0   1  6/11Owen Tippett R  19:20   0  1    0   1   1   0   3   1   1/2Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  17:28   0  0    0   1   2   0   1   0   0/0Jamie Drysdale D  25:03   0  0   -1   2   2   2   0   5   0/0Erik Johnson D  11:50   0  0    0   0   0   0   0   0   0/0Rasmus Ristolainen D  20:06   0  0    1   1   0   0   1   1   0/0Travis Sanheim D  24:50   2  1    2   3   1   0   0   1   0/0Nick Seeler D  16:48   0  0   -2   1   2   0   1   2   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  13   4   9  21 36/58
+                                        62.1%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAleksei Kolosov G  58:10   4  20/24  17/20   3/4   0/0     0
+              .833   .850  .750
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:33   0  1   -1   0   0   0   0   1   0/0Joel Armia R  15:55   0  0    0   0   2   0   0   1   0/0Cole Caufield R  16:22   1  0    0   4   0   0   0   0   0/0Kirby Dach C  16:20   0  1    0   1   0   0   0   1   0/2Christian Dvorak C  14:21   0  0    0   1   0   0   2   1  8/14Jake Evans C  17:07   1  0    0   2   0   0   0   0  6/19Brendan Gallagher R  14:57   1  1    0   1   1   0   1   1   0/0Emil Heineman L  10:47   0  0    0   2   2   0   1   1   0/0Oliver Kapanen C  10:52   0  0    0   2   1   2   0   1   0/2Alex Newhook C  13:47   0  0    0   0   0   0   1   0   3/6Michael Pezzetta L  10:45   0  0    1   1   1   0   0   0   0/1Nick Suzuki C  18:57   1  1    0   5   3   2   1   1  5/14
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+15:33   0  1   -1   0   0   0   0   1   0/0
+Joel Armia R
+15:55   0  0    0   0   2   0   0   1   0/0
+Cole Caufield R
+16:22   1  0    0   4   0   0   0   0   0/0
+Kirby Dach C
+16:20   0  1    0   1   0   0   0   1   0/2
+Christian Dvorak C
+14:21   0  0    0   1   0   0   2   1  8/14
+Jake Evans C
+17:07   1  0    0   2   0   0   0   0  6/19
+Brendan Gallagher R
+14:57   1  1    0   1   1   0   1   1   0/0
+Emil Heineman L
+10:47   0  0    0   2   2   0   1   1   0/0
+Oliver Kapanen C
+10:52   0  0    0   2   1   2   0   1   0/2
+Alex Newhook C
+13:47   0  0    0   0   0   0   1   0   3/6
+Michael Pezzetta L
+10:45   0  0    1   1   1   0   0   0   0/1
+Nick Suzuki C
+18:57   1  1    0   5   3   2   1   1  5/14
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLane Hutson D  21:42   0  0    0   1   2   0   0   2   0/0Logan Mailloux D  13:31   0  1   -1   0   0   0   0   0   0/0Mike Matheson D  24:58   0  1    1   2   8   0   2   0   0/0David Savard D  22:15   0  1    0   0   4   0   0   1   0/0Jayden Struble D  18:55   0  1    1   2   0   0   1   0   0/0Arber Xhekaj D  16:56   0  0   -1   0   0   2   0   3   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Lane Hutson D
+21:42   0  0    0   1   2   0   0   2   0/0
+Logan Mailloux D
+13:31   0  1   -1   0   0   0   0   0   0/0
+Mike Matheson D
+24:58   0  1    1   2   8   0   2   0   0/0
+David Savard D
+22:15   0  1    0   0   4   0   0   1   0/0
+Jayden Struble D
+18:55   0  1    1   2   0   0   1   0   0/0
+Arber Xhekaj D
+16:56   0  0   -1   0   0   2   0   3   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       24  24   6   9  14 22/58
+                                        37.9%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  60:00   3  23/26  18/21   5/5   0/0     0
+              .885   .857 1.000
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cayden Primeau G
+60:00   3  23/26  18/21   5/5   0/0     0
+              .885   .857 1.000
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Cates L  12:41   0  0   -1   2   0   0   0   0  6/10Sean Couturier C  20:29   0  0    0   2   0   0   0   2 14/22Nicolas Deslauriers L  05:24   0  1    0   0   0   0   0   0   0/0Joel Farabee L  14:39   0  1    1   2   0   0   0   1   0/0Tyson Foerster R  14:42   0  0   -1   0   0   0   0   0   0/0Morgan Frost C  13:37   0  0    0   0   1   0   1   0   7/9Garnet Hathaway R  07:47   0  1    1   2   2   0   0   2   0/0Travis Konecny R  21:27   1  0    0   3   0   0   1   1   1/1Scott Laughton C  16:37   0  0    0   1   0   0   0   2   0/1Matvei Michkov R  21:33   0  0    0   2   0   2   1   2   1/2Ryan Poehling C  13:46   0  1    1   3   2   0   0   1  6/11Owen Tippett R  19:20   0  1    0   1   1   0   3   1   1/2
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Cates L
+12:41   0  0   -1   2   0   0   0   0  6/10
+Sean Couturier C
+20:29   0  0    0   2   0   0   0   2 14/22
+Nicolas Deslauriers L
+05:24   0  1    0   0   0   0   0   0   0/0
+Joel Farabee L
+14:39   0  1    1   2   0   0   0   1   0/0
+Tyson Foerster R
+14:42   0  0   -1   0   0   0   0   0   0/0
+Morgan Frost C
+13:37   0  0    0   0   1   0   1   0   7/9
+Garnet Hathaway R
+07:47   0  1    1   2   2   0   0   2   0/0
+Travis Konecny R
+21:27   1  0    0   3   0   0   1   1   1/1
+Scott Laughton C
+16:37   0  0    0   1   0   0   0   2   0/1
+Matvei Michkov R
+21:33   0  0    0   2   0   2   1   2   1/2
+Ryan Poehling C
+13:46   0  1    1   3   2   0   0   1  6/11
+Owen Tippett R
+19:20   0  1    0   1   1   0   3   1   1/2
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEmil Andrae D  17:28   0  0    0   1   2   0   1   0   0/0Jamie Drysdale D  25:03   0  0   -1   2   2   2   0   5   0/0Erik Johnson D  11:50   0  0    0   0   0   0   0   0   0/0Rasmus Ristolainen D  20:06   0  0    1   1   0   0   1   1   0/0Travis Sanheim D  24:50   2  1    2   3   1   0   0   1   0/0Nick Seeler D  16:48   0  0   -2   1   2   0   1   2   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Emil Andrae D
+17:28   0  0    0   1   2   0   1   0   0/0
+Jamie Drysdale D
+25:03   0  0   -1   2   2   2   0   5   0/0
+Erik Johnson D
+11:50   0  0    0   0   0   0   0   0   0/0
+Rasmus Ristolainen D
+20:06   0  0    1   1   0   0   1   1   0/0
+Travis Sanheim D
+24:50   2  1    2   3   1   0   0   1   0/0
+Nick Seeler D
+16:48   0  0   -2   1   2   0   1   2   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  13   4   9  21 36/58
+                                        62.1%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAleksei Kolosov G  58:10   4  20/24  17/20   3/4   0/0     0
+              .833   .850  .750
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Aleksei Kolosov G
+58:10   4  20/24  17/20   3/4   0/0     0
+              .833   .850  .750
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

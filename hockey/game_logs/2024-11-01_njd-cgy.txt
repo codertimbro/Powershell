@@ -1,0 +1,412 @@
+< Nov. 1 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New Jersey
+Devils7-5-2Final0 - 3Calgary
+Flames6-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NJD   0  0  0    0  
+CGY   0  0  3    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:00 
+Tyson Barrie (CGY) hooking against Erik Haula (2 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator against Ryan Lomberg (2 minutes), served by Tomas Tatar
+   0-0
+P1  04:45 
+Ryan Lomberg (CGY) fighting against Nathan Bastian (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) fighting against Ryan Lomberg (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator misconduct (10 minutes)
+   0-0
+P1  03:02 
+Brenden Dillon (NJD) cross-checking against Anthony Mantha (2 minutes)
+   0-0
+P1  03:02 
+Anthony Mantha (CGY) slashing against Brenden Dillon (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:14 
+Jonas Siegenthaler (NJD) interference against Nazem Kadri (2 minutes)
+   0-0
+P2  03:47 
+Tomas Tatar (NJD) high-sticking against Nazem Kadri (2 minutes)
+   0-0
+3rd Period: ShowHide
+P3  19:36 
+Johnathan Kovacevic (NJD) hooking against Mikael Backlund (2 minutes)
+   0-0
+P3  17:14 
+Connor Zary (CGY) slashing against Dawson Mercer (2 minutes)
+   0-0
+P3  05:34 
+Blake Coleman (CGY) scores on tip-in past Jacob Markstrom, assisted by Kevin Bahl and Rasmus Andersson
+   0-1
+P3  05:06 
+Jonathan Huberdeau (CGY) scores on wrist shot past Jacob Markstrom, assisted by Anthony Mantha and Dan Vladar
+   0-2
+P3  03:15 
+Blake Coleman (CGY) scores on empty net
+   0-3
+P3  02:28 
+Jonathan Huberdeau (CGY) slashing against Paul Cotter (2 minutes)
+   0-3
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  03:29   0  0    0   0   0  17   0   0   0/0Jesper Bratt L  18:12   0  0   -2   2   0   0   0   0   0/0Paul Cotter C  13:37   0  0    0   0   2   0   0   3   1/1Justin Dowling C  09:28   0  0    0   1   0   0   1   0  5/10Erik Haula L  13:35   0  0    0   2   2   0   0   0   4/9Nico Hischier C  20:23   0  0   -2   1   3   0   1   0 14/30Jack Hughes C  23:06   0  0   -2   4   1   0   1   2  6/12Timo Meier R  18:47   0  0   -2   0   0   0   0   0   0/0Dawson Mercer C  19:25   0  0   -1   2   1   0   0   2   0/1Stefan Noesen R  15:02   0  0   -1   1   0   0   0   2   2/2Ondrej Palat L  14:14   0  0   -1   0   1   0   0   0   0/1Tomas Tatar L  11:07   0  0    0   2   1   2   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  19:46   0  0    0   1   1   2   0   0   0/0Dougie Hamilton D  19:53   0  0   -1   1   0   0   0   3   0/0Luke Hughes D  17:56   0  0   -1   0   0   0   1   1   0/0Johnathan Kovacevic D  18:46   0  0   -1   1   0   2   0   3   0/0Brett Pesce D  19:57   0  0   -1   4   2   0   1   1   0/0Jonas Siegenthaler D  16:53   0  0   -1   0   3   2   0   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       22  17  25   5  19 32/66
+                                        48.5%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:24   2  29/31  24/26   4/4   1/1     0
+              .935   .923 1.000 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  19:33   0  0    2   2   1   0   0   0 14/24Blake Coleman C  15:37   2  0    2   4   2   0   1   0   0/0Matt Coronato R  16:06   0  0    2   3   0   0   1   2   0/1Jonathan Huberdeau C  19:04   1  0    1   1   1   2   2   1   1/1Nazem Kadri C  16:50   0  0    0   3   1   0   0   1 11/20Andrei Kuzmenko L  10:25   0  0    0   2   0   0   0   1   0/0Ryan Lomberg L  07:39   0  0    0   0   0   5   0   1   0/0Anthony Mantha R  14:06   0  1    1   1   3   2   0   0   1/1Martin Pospisil C  11:11   0  0    0   1   1   0   0   0   1/2Kevin Rooney C  10:34   0  0    0   0   0   0   0   0   1/4Yegor Sharangovich C  19:35   0  0    1   1   0   0   0   1  5/11Connor Zary C  16:57   0  0    0   1   1   2   1   0   0/2Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:35   0  1    2   3   5   0   0   3   0/0Kevin Bahl D  20:42   0  1    2   2   2   0   0   0   0/0Tyson Barrie D  16:36   0  0    0   2   0   2   0   0   0/0Daniil Miromanov D  15:02   0  0    1   0   1   0   0   0   0/0Brayden Pachal D  14:57   0  0    0   2   0   0   0   0   0/0MacKenzie Weegar D  23:32   0  0    1   4   2   0   0   4   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       32  20  13   5  14 34/66
+                                        51.5%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  59:59   0  22/22  16/16   6/6   0/0     0
+             1.000  1.000 1.000
+New Jersey
+Devils7-5-2Final0 - 3Calgary
+Flames6-4-1
+New Jersey
+Devils7-5-2
+Final0 - 3
+Calgary
+Flames6-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NJD   0  0  0    0  
+CGY   0  0  3    3
+1st Period: ShowHide
+P1  08:00 
+Tyson Barrie (CGY) hooking against Erik Haula (2 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator against Ryan Lomberg (2 minutes), served by Tomas Tatar
+   0-0
+P1  04:45 
+Ryan Lomberg (CGY) fighting against Nathan Bastian (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) fighting against Ryan Lomberg (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator misconduct (10 minutes)
+   0-0
+P1  03:02 
+Brenden Dillon (NJD) cross-checking against Anthony Mantha (2 minutes)
+   0-0
+P1  03:02 
+Anthony Mantha (CGY) slashing against Brenden Dillon (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:14 
+Jonas Siegenthaler (NJD) interference against Nazem Kadri (2 minutes)
+   0-0
+P2  03:47 
+Tomas Tatar (NJD) high-sticking against Nazem Kadri (2 minutes)
+   0-0
+3rd Period: ShowHide
+P3  19:36 
+Johnathan Kovacevic (NJD) hooking against Mikael Backlund (2 minutes)
+   0-0
+P3  17:14 
+Connor Zary (CGY) slashing against Dawson Mercer (2 minutes)
+   0-0
+P3  05:34 
+Blake Coleman (CGY) scores on tip-in past Jacob Markstrom, assisted by Kevin Bahl and Rasmus Andersson
+   0-1
+P3  05:06 
+Jonathan Huberdeau (CGY) scores on wrist shot past Jacob Markstrom, assisted by Anthony Mantha and Dan Vladar
+   0-2
+P3  03:15 
+Blake Coleman (CGY) scores on empty net
+   0-3
+P3  02:28 
+Jonathan Huberdeau (CGY) slashing against Paul Cotter (2 minutes)
+   0-3
+1st Period: ShowHide
+P1  08:00 
+Tyson Barrie (CGY) hooking against Erik Haula (2 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator against Ryan Lomberg (2 minutes), served by Tomas Tatar
+   0-0
+P1  04:45 
+Ryan Lomberg (CGY) fighting against Nathan Bastian (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) fighting against Ryan Lomberg (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator misconduct (10 minutes)
+   0-0
+P1  03:02 
+Brenden Dillon (NJD) cross-checking against Anthony Mantha (2 minutes)
+   0-0
+P1  03:02 
+Anthony Mantha (CGY) slashing against Brenden Dillon (2 minutes)
+   0-0
+P1  08:00 
+Tyson Barrie (CGY) hooking against Erik Haula (2 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator against Ryan Lomberg (2 minutes), served by Tomas Tatar
+   0-0
+P1  04:45 
+Ryan Lomberg (CGY) fighting against Nathan Bastian (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) fighting against Ryan Lomberg (5 minutes)
+   0-0
+P1  04:45 
+Nathan Bastian (NJD) instigator misconduct (10 minutes)
+   0-0
+P1  03:02 
+Brenden Dillon (NJD) cross-checking against Anthony Mantha (2 minutes)
+   0-0
+P1  03:02 
+Anthony Mantha (CGY) slashing against Brenden Dillon (2 minutes)
+   0-0
+P1  08:00
+Tyson Barrie (CGY) hooking against Erik Haula (2 minutes)
+0-0
+P1  04:45
+Nathan Bastian (NJD) instigator against Ryan Lomberg (2 minutes), served by Tomas Tatar
+0-0
+P1  04:45
+Ryan Lomberg (CGY) fighting against Nathan Bastian (5 minutes)
+0-0
+P1  04:45
+Nathan Bastian (NJD) fighting against Ryan Lomberg (5 minutes)
+0-0
+P1  04:45
+Nathan Bastian (NJD) instigator misconduct (10 minutes)
+0-0
+P1  03:02
+Brenden Dillon (NJD) cross-checking against Anthony Mantha (2 minutes)
+0-0
+P1  03:02
+Anthony Mantha (CGY) slashing against Brenden Dillon (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  18:14 
+Jonas Siegenthaler (NJD) interference against Nazem Kadri (2 minutes)
+   0-0
+P2  03:47 
+Tomas Tatar (NJD) high-sticking against Nazem Kadri (2 minutes)
+   0-0
+P2  18:14 
+Jonas Siegenthaler (NJD) interference against Nazem Kadri (2 minutes)
+   0-0
+P2  03:47 
+Tomas Tatar (NJD) high-sticking against Nazem Kadri (2 minutes)
+   0-0
+P2  18:14
+Jonas Siegenthaler (NJD) interference against Nazem Kadri (2 minutes)
+0-0
+P2  03:47
+Tomas Tatar (NJD) high-sticking against Nazem Kadri (2 minutes)
+0-0
+3rd Period: ShowHide
+P3  19:36 
+Johnathan Kovacevic (NJD) hooking against Mikael Backlund (2 minutes)
+   0-0
+P3  17:14 
+Connor Zary (CGY) slashing against Dawson Mercer (2 minutes)
+   0-0
+P3  05:34 
+Blake Coleman (CGY) scores on tip-in past Jacob Markstrom, assisted by Kevin Bahl and Rasmus Andersson
+   0-1
+P3  05:06 
+Jonathan Huberdeau (CGY) scores on wrist shot past Jacob Markstrom, assisted by Anthony Mantha and Dan Vladar
+   0-2
+P3  03:15 
+Blake Coleman (CGY) scores on empty net
+   0-3
+P3  02:28 
+Jonathan Huberdeau (CGY) slashing against Paul Cotter (2 minutes)
+   0-3
+P3  19:36 
+Johnathan Kovacevic (NJD) hooking against Mikael Backlund (2 minutes)
+   0-0
+P3  17:14 
+Connor Zary (CGY) slashing against Dawson Mercer (2 minutes)
+   0-0
+P3  05:34 
+Blake Coleman (CGY) scores on tip-in past Jacob Markstrom, assisted by Kevin Bahl and Rasmus Andersson
+   0-1
+P3  05:06 
+Jonathan Huberdeau (CGY) scores on wrist shot past Jacob Markstrom, assisted by Anthony Mantha and Dan Vladar
+   0-2
+P3  03:15 
+Blake Coleman (CGY) scores on empty net
+   0-3
+P3  02:28 
+Jonathan Huberdeau (CGY) slashing against Paul Cotter (2 minutes)
+   0-3
+P3  19:36
+Johnathan Kovacevic (NJD) hooking against Mikael Backlund (2 minutes)
+0-0
+P3  17:14
+Connor Zary (CGY) slashing against Dawson Mercer (2 minutes)
+0-0
+P3  05:34
+Blake Coleman (CGY) scores on tip-in past Jacob Markstrom, assisted by Kevin Bahl and Rasmus Andersson
+0-1
+P3  05:06
+Jonathan Huberdeau (CGY) scores on wrist shot past Jacob Markstrom, assisted by Anthony Mantha and Dan Vladar
+0-2
+P3  03:15
+Blake Coleman (CGY) scores on empty net
+0-3
+P3  02:28
+Jonathan Huberdeau (CGY) slashing against Paul Cotter (2 minutes)
+0-3
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  03:29   0  0    0   0   0  17   0   0   0/0Jesper Bratt L  18:12   0  0   -2   2   0   0   0   0   0/0Paul Cotter C  13:37   0  0    0   0   2   0   0   3   1/1Justin Dowling C  09:28   0  0    0   1   0   0   1   0  5/10Erik Haula L  13:35   0  0    0   2   2   0   0   0   4/9Nico Hischier C  20:23   0  0   -2   1   3   0   1   0 14/30Jack Hughes C  23:06   0  0   -2   4   1   0   1   2  6/12Timo Meier R  18:47   0  0   -2   0   0   0   0   0   0/0Dawson Mercer C  19:25   0  0   -1   2   1   0   0   2   0/1Stefan Noesen R  15:02   0  0   -1   1   0   0   0   2   2/2Ondrej Palat L  14:14   0  0   -1   0   1   0   0   0   0/1Tomas Tatar L  11:07   0  0    0   2   1   2   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  19:46   0  0    0   1   1   2   0   0   0/0Dougie Hamilton D  19:53   0  0   -1   1   0   0   0   3   0/0Luke Hughes D  17:56   0  0   -1   0   0   0   1   1   0/0Johnathan Kovacevic D  18:46   0  0   -1   1   0   2   0   3   0/0Brett Pesce D  19:57   0  0   -1   4   2   0   1   1   0/0Jonas Siegenthaler D  16:53   0  0   -1   0   3   2   0   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       22  17  25   5  19 32/66
+                                        48.5%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:24   2  29/31  24/26   4/4   1/1     0
+              .935   .923 1.000 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  19:33   0  0    2   2   1   0   0   0 14/24Blake Coleman C  15:37   2  0    2   4   2   0   1   0   0/0Matt Coronato R  16:06   0  0    2   3   0   0   1   2   0/1Jonathan Huberdeau C  19:04   1  0    1   1   1   2   2   1   1/1Nazem Kadri C  16:50   0  0    0   3   1   0   0   1 11/20Andrei Kuzmenko L  10:25   0  0    0   2   0   0   0   1   0/0Ryan Lomberg L  07:39   0  0    0   0   0   5   0   1   0/0Anthony Mantha R  14:06   0  1    1   1   3   2   0   0   1/1Martin Pospisil C  11:11   0  0    0   1   1   0   0   0   1/2Kevin Rooney C  10:34   0  0    0   0   0   0   0   0   1/4Yegor Sharangovich C  19:35   0  0    1   1   0   0   0   1  5/11Connor Zary C  16:57   0  0    0   1   1   2   1   0   0/2Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:35   0  1    2   3   5   0   0   3   0/0Kevin Bahl D  20:42   0  1    2   2   2   0   0   0   0/0Tyson Barrie D  16:36   0  0    0   2   0   2   0   0   0/0Daniil Miromanov D  15:02   0  0    1   0   1   0   0   0   0/0Brayden Pachal D  14:57   0  0    0   2   0   0   0   0   0/0MacKenzie Weegar D  23:32   0  0    1   4   2   0   0   4   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       32  20  13   5  14 34/66
+                                        51.5%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  59:59   0  22/22  16/16   6/6   0/0     0
+             1.000  1.000 1.000
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  03:29   0  0    0   0   0  17   0   0   0/0Jesper Bratt L  18:12   0  0   -2   2   0   0   0   0   0/0Paul Cotter C  13:37   0  0    0   0   2   0   0   3   1/1Justin Dowling C  09:28   0  0    0   1   0   0   1   0  5/10Erik Haula L  13:35   0  0    0   2   2   0   0   0   4/9Nico Hischier C  20:23   0  0   -2   1   3   0   1   0 14/30Jack Hughes C  23:06   0  0   -2   4   1   0   1   2  6/12Timo Meier R  18:47   0  0   -2   0   0   0   0   0   0/0Dawson Mercer C  19:25   0  0   -1   2   1   0   0   2   0/1Stefan Noesen R  15:02   0  0   -1   1   0   0   0   2   2/2Ondrej Palat L  14:14   0  0   -1   0   1   0   0   0   0/1Tomas Tatar L  11:07   0  0    0   2   1   2   0   0   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+03:29   0  0    0   0   0  17   0   0   0/0
+Jesper Bratt L
+18:12   0  0   -2   2   0   0   0   0   0/0
+Paul Cotter C
+13:37   0  0    0   0   2   0   0   3   1/1
+Justin Dowling C
+09:28   0  0    0   1   0   0   1   0  5/10
+Erik Haula L
+13:35   0  0    0   2   2   0   0   0   4/9
+Nico Hischier C
+20:23   0  0   -2   1   3   0   1   0 14/30
+Jack Hughes C
+23:06   0  0   -2   4   1   0   1   2  6/12
+Timo Meier R
+18:47   0  0   -2   0   0   0   0   0   0/0
+Dawson Mercer C
+19:25   0  0   -1   2   1   0   0   2   0/1
+Stefan Noesen R
+15:02   0  0   -1   1   0   0   0   2   2/2
+Ondrej Palat L
+14:14   0  0   -1   0   1   0   0   0   0/1
+Tomas Tatar L
+11:07   0  0    0   2   1   2   0   0   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  19:46   0  0    0   1   1   2   0   0   0/0Dougie Hamilton D  19:53   0  0   -1   1   0   0   0   3   0/0Luke Hughes D  17:56   0  0   -1   0   0   0   1   1   0/0Johnathan Kovacevic D  18:46   0  0   -1   1   0   2   0   3   0/0Brett Pesce D  19:57   0  0   -1   4   2   0   1   1   0/0Jonas Siegenthaler D  16:53   0  0   -1   0   3   2   0   2   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brenden Dillon D
+19:46   0  0    0   1   1   2   0   0   0/0
+Dougie Hamilton D
+19:53   0  0   -1   1   0   0   0   3   0/0
+Luke Hughes D
+17:56   0  0   -1   0   0   0   1   1   0/0
+Johnathan Kovacevic D
+18:46   0  0   -1   1   0   2   0   3   0/0
+Brett Pesce D
+19:57   0  0   -1   4   2   0   1   1   0/0
+Jonas Siegenthaler D
+16:53   0  0   -1   0   3   2   0   2   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       22  17  25   5  19 32/66
+                                        48.5%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:24   2  29/31  24/26   4/4   1/1     0
+              .935   .923 1.000 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+58:24   2  29/31  24/26   4/4   1/1     0
+              .935   .923 1.000 1.000
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  19:33   0  0    2   2   1   0   0   0 14/24Blake Coleman C  15:37   2  0    2   4   2   0   1   0   0/0Matt Coronato R  16:06   0  0    2   3   0   0   1   2   0/1Jonathan Huberdeau C  19:04   1  0    1   1   1   2   2   1   1/1Nazem Kadri C  16:50   0  0    0   3   1   0   0   1 11/20Andrei Kuzmenko L  10:25   0  0    0   2   0   0   0   1   0/0Ryan Lomberg L  07:39   0  0    0   0   0   5   0   1   0/0Anthony Mantha R  14:06   0  1    1   1   3   2   0   0   1/1Martin Pospisil C  11:11   0  0    0   1   1   0   0   0   1/2Kevin Rooney C  10:34   0  0    0   0   0   0   0   0   1/4Yegor Sharangovich C  19:35   0  0    1   1   0   0   0   1  5/11Connor Zary C  16:57   0  0    0   1   1   2   1   0   0/2
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+19:33   0  0    2   2   1   0   0   0 14/24
+Blake Coleman C
+15:37   2  0    2   4   2   0   1   0   0/0
+Matt Coronato R
+16:06   0  0    2   3   0   0   1   2   0/1
+Jonathan Huberdeau C
+19:04   1  0    1   1   1   2   2   1   1/1
+Nazem Kadri C
+16:50   0  0    0   3   1   0   0   1 11/20
+Andrei Kuzmenko L
+10:25   0  0    0   2   0   0   0   1   0/0
+Ryan Lomberg L
+07:39   0  0    0   0   0   5   0   1   0/0
+Anthony Mantha R
+14:06   0  1    1   1   3   2   0   0   1/1
+Martin Pospisil C
+11:11   0  0    0   1   1   0   0   0   1/2
+Kevin Rooney C
+10:34   0  0    0   0   0   0   0   0   1/4
+Yegor Sharangovich C
+19:35   0  0    1   1   0   0   0   1  5/11
+Connor Zary C
+16:57   0  0    0   1   1   2   1   0   0/2
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:35   0  1    2   3   5   0   0   3   0/0Kevin Bahl D  20:42   0  1    2   2   2   0   0   0   0/0Tyson Barrie D  16:36   0  0    0   2   0   2   0   0   0/0Daniil Miromanov D  15:02   0  0    1   0   1   0   0   0   0/0Brayden Pachal D  14:57   0  0    0   2   0   0   0   0   0/0MacKenzie Weegar D  23:32   0  0    1   4   2   0   0   4   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+25:35   0  1    2   3   5   0   0   3   0/0
+Kevin Bahl D
+20:42   0  1    2   2   2   0   0   0   0/0
+Tyson Barrie D
+16:36   0  0    0   2   0   2   0   0   0/0
+Daniil Miromanov D
+15:02   0  0    1   0   1   0   0   0   0/0
+Brayden Pachal D
+14:57   0  0    0   2   0   0   0   0   0/0
+MacKenzie Weegar D
+23:32   0  0    1   4   2   0   0   4   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       32  20  13   5  14 34/66
+                                        51.5%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  59:59   0  22/22  16/16   6/6   0/0     0
+             1.000  1.000 1.000
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dan Vladar G
+59:59   0  22/22  16/16   6/6   0/0     0
+             1.000  1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

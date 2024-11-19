@@ -1,0 +1,397 @@
+< Oct. 25 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Ottawa
+Senators4-3-0Final4 - 6Vegas
+Golden Knights5-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+OTT   3  1  0    4  
+VGK   2  1  3    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:20 
+Adam Gaudette (OTT) scores on wrist shot past Adin Hill, assisted by Cole Reinhardt and Jacob Bernard-Docker
+   1-0
+P1  07:45 
+Claude Giroux (OTT) scores on wrist shot past Adin Hill, assisted by Nick Jensen and Drake Batherson
+   2-0
+P1  05:06 
+Nick Jensen (OTT) delaying game - puck over glass (2 minutes)
+   2-0
+P1  02:37 
+Nicolas Roy (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   2-1
+P1  02:16 
+Nicolas Hague (VGK) scores on wrist shot past Linus Ullmark, assisted by Alexander Holtz
+   2-2
+P1  01:26 
+Drake Batherson (OTT) scores on snap shot past Adin Hill
+   3-2
+2nd Period: ShowHide
+P2  13:20 
+Ivan Barbashev (VGK) scores on tip-in past Linus Ullmark, assisted by Alex Pietrangelo and Noah Hanifin
+   3-3
+P2  03:51 
+Keegan Kolesar (VGK) delaying game - puck over glass (2 minutes)
+   3-3
+P2  02:16 
+Adam Gaudette (OTT) scores power-play goal on wrist shot past Adin Hill, assisted by Claude Giroux and Tim Stützle
+   4-3
+3rd Period: ShowHide
+P3  18:21 
+Brayden McNabb (VGK) holding against Tim Stützle (2 minutes)
+   4-3
+P3  05:05 
+Nick Cousins (OTT) interference against Tanner Pearson (2 minutes)
+   4-3
+P3  03:11 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past Linus Ullmark, assisted by Mark Stone and Jack Eichel
+   4-4
+P3  02:11 
+Keegan Kolesar (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   4-5
+P3  01:46 
+Ivan Barbashev (VGK) scores on empty net, assisted by Jack Eichel and Mark Stone
+   4-6
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  14:22   0  0   -2   0   1   0   0   0   0/1Drake Batherson R  21:11   1  1    0   1   1   0   0   0   0/0Nick Cousins C  11:25   0  0    0   4   0   2   0   0   0/1Adam Gaudette R  09:37   2  0    0   2   0   0   0   0   4/8Claude Giroux R  20:31   1  1   -1   2   2   0   0   0  6/12Noah Gregor L  14:02   0  0   -1   2   1   0   0   0   0/0Ridly Greig C  14:18   0  0   -1   3   0   0   0   1   4/9Zack MacEwen R  07:46   0  0    0   2   0   0   0   0   0/1Josh Norris C  21:18   0  0   -1   2   2   0   0   1 13/22Cole Reinhardt L  06:50   0  1    0   3   0   0   0   2   0/0Tim Stützle C  21:07   0  1   -1   3   1   0   0   1   1/4Brady Tkachuk L  20:40   0  0   -1   5   1   0   1   2  5/13Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  13:37   0  1    1   1   0   0   0   0   0/0Thomas Chabot D  19:41   0  0    1   3   3   0   1   0   0/0Travis Hamonic D  20:47   0  0   -3   3   3   0   0   2   0/0Nick Jensen D  19:31   0  1    1   0   2   2   0   0   0/0Tyler Kleven D  15:36   0  0    1   1   1   0   0   2   0/0Jake Sanderson D  25:33   0  0   -4   2   3   0   0   0   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       39  21   4   2  11 33/71
+                                        46.5%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  58:14   5  22/27  18/22   3/4   1/1     0
+              .815   .818  .750 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:51   2  0    0   2   2   0   0   1   0/1Brendan Brisson C  08:21   0  0    0   1   0   0   0   1   0/0Pavel Dorofeyev L  17:23   0  0    0   2   0   0   0   3   0/0Jack Eichel C  21:21   0  2    0   2   1   0   0   0  8/20Tomas Hertl C  18:46   1  0    0   2   0   0   0   1 16/20Alexander Holtz R  09:35   0  1    0   1   0   0   0   1   0/0Brett Howden C  17:15   0  0    1   0   0   0   0   0   0/1Keegan Kolesar R  13:27   1  0    2   1   1   2   0   0   0/0Tanner Pearson L  11:34   0  2    2   0   0   0   0   1   0/0Nicolas Roy C  15:47   1  0    1   4   0   0   0   2 11/19Cole Schwindt R  07:11   0  0    0   1   0   0   0   1  3/10Mark Stone R  21:15   0  2    0   1   0   0   1   2   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  09:44   1  0    0   1   0   0   0   1   0/0Noah Hanifin D  23:47   0  1    3   2   2   0   0   2   0/0Brayden McNabb D  22:12   0  0   -1   2   3   2   0   1   0/0Alex Pietrangelo D  23:39   0  3    4   4   2   0   0   1   0/0Shea Theodore D  22:15   0  0   -2   2   0   0   0   1   0/0Zach Whitecloud D  15:02   0  0    0   0   1   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       28  12   4   1  20 38/71
+                                        53.5%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   4  35/39  30/33   4/5   1/1     0
+              .897   .909  .800 1.000
+Ottawa
+Senators4-3-0Final4 - 6Vegas
+Golden Knights5-2-1
+Ottawa
+Senators4-3-0
+Final4 - 6
+Vegas
+Golden Knights5-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+OTT   3  1  0    4  
+VGK   2  1  3    6
+1st Period: ShowHide
+P1  17:20 
+Adam Gaudette (OTT) scores on wrist shot past Adin Hill, assisted by Cole Reinhardt and Jacob Bernard-Docker
+   1-0
+P1  07:45 
+Claude Giroux (OTT) scores on wrist shot past Adin Hill, assisted by Nick Jensen and Drake Batherson
+   2-0
+P1  05:06 
+Nick Jensen (OTT) delaying game - puck over glass (2 minutes)
+   2-0
+P1  02:37 
+Nicolas Roy (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   2-1
+P1  02:16 
+Nicolas Hague (VGK) scores on wrist shot past Linus Ullmark, assisted by Alexander Holtz
+   2-2
+P1  01:26 
+Drake Batherson (OTT) scores on snap shot past Adin Hill
+   3-2
+2nd Period: ShowHide
+P2  13:20 
+Ivan Barbashev (VGK) scores on tip-in past Linus Ullmark, assisted by Alex Pietrangelo and Noah Hanifin
+   3-3
+P2  03:51 
+Keegan Kolesar (VGK) delaying game - puck over glass (2 minutes)
+   3-3
+P2  02:16 
+Adam Gaudette (OTT) scores power-play goal on wrist shot past Adin Hill, assisted by Claude Giroux and Tim Stützle
+   4-3
+3rd Period: ShowHide
+P3  18:21 
+Brayden McNabb (VGK) holding against Tim Stützle (2 minutes)
+   4-3
+P3  05:05 
+Nick Cousins (OTT) interference against Tanner Pearson (2 minutes)
+   4-3
+P3  03:11 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past Linus Ullmark, assisted by Mark Stone and Jack Eichel
+   4-4
+P3  02:11 
+Keegan Kolesar (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   4-5
+P3  01:46 
+Ivan Barbashev (VGK) scores on empty net, assisted by Jack Eichel and Mark Stone
+   4-6
+1st Period: ShowHide
+P1  17:20 
+Adam Gaudette (OTT) scores on wrist shot past Adin Hill, assisted by Cole Reinhardt and Jacob Bernard-Docker
+   1-0
+P1  07:45 
+Claude Giroux (OTT) scores on wrist shot past Adin Hill, assisted by Nick Jensen and Drake Batherson
+   2-0
+P1  05:06 
+Nick Jensen (OTT) delaying game - puck over glass (2 minutes)
+   2-0
+P1  02:37 
+Nicolas Roy (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   2-1
+P1  02:16 
+Nicolas Hague (VGK) scores on wrist shot past Linus Ullmark, assisted by Alexander Holtz
+   2-2
+P1  01:26 
+Drake Batherson (OTT) scores on snap shot past Adin Hill
+   3-2
+P1  17:20 
+Adam Gaudette (OTT) scores on wrist shot past Adin Hill, assisted by Cole Reinhardt and Jacob Bernard-Docker
+   1-0
+P1  07:45 
+Claude Giroux (OTT) scores on wrist shot past Adin Hill, assisted by Nick Jensen and Drake Batherson
+   2-0
+P1  05:06 
+Nick Jensen (OTT) delaying game - puck over glass (2 minutes)
+   2-0
+P1  02:37 
+Nicolas Roy (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   2-1
+P1  02:16 
+Nicolas Hague (VGK) scores on wrist shot past Linus Ullmark, assisted by Alexander Holtz
+   2-2
+P1  01:26 
+Drake Batherson (OTT) scores on snap shot past Adin Hill
+   3-2
+P1  17:20
+Adam Gaudette (OTT) scores on wrist shot past Adin Hill, assisted by Cole Reinhardt and Jacob Bernard-Docker
+1-0
+P1  07:45
+Claude Giroux (OTT) scores on wrist shot past Adin Hill, assisted by Nick Jensen and Drake Batherson
+2-0
+P1  05:06
+Nick Jensen (OTT) delaying game - puck over glass (2 minutes)
+2-0
+P1  02:37
+Nicolas Roy (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+2-1
+P1  02:16
+Nicolas Hague (VGK) scores on wrist shot past Linus Ullmark, assisted by Alexander Holtz
+2-2
+P1  01:26
+Drake Batherson (OTT) scores on snap shot past Adin Hill
+3-2
+2nd Period: ShowHide
+P2  13:20 
+Ivan Barbashev (VGK) scores on tip-in past Linus Ullmark, assisted by Alex Pietrangelo and Noah Hanifin
+   3-3
+P2  03:51 
+Keegan Kolesar (VGK) delaying game - puck over glass (2 minutes)
+   3-3
+P2  02:16 
+Adam Gaudette (OTT) scores power-play goal on wrist shot past Adin Hill, assisted by Claude Giroux and Tim Stützle
+   4-3
+P2  13:20 
+Ivan Barbashev (VGK) scores on tip-in past Linus Ullmark, assisted by Alex Pietrangelo and Noah Hanifin
+   3-3
+P2  03:51 
+Keegan Kolesar (VGK) delaying game - puck over glass (2 minutes)
+   3-3
+P2  02:16 
+Adam Gaudette (OTT) scores power-play goal on wrist shot past Adin Hill, assisted by Claude Giroux and Tim Stützle
+   4-3
+P2  13:20
+Ivan Barbashev (VGK) scores on tip-in past Linus Ullmark, assisted by Alex Pietrangelo and Noah Hanifin
+3-3
+P2  03:51
+Keegan Kolesar (VGK) delaying game - puck over glass (2 minutes)
+3-3
+P2  02:16
+Adam Gaudette (OTT) scores power-play goal on wrist shot past Adin Hill, assisted by Claude Giroux and Tim Stützle
+4-3
+3rd Period: ShowHide
+P3  18:21 
+Brayden McNabb (VGK) holding against Tim Stützle (2 minutes)
+   4-3
+P3  05:05 
+Nick Cousins (OTT) interference against Tanner Pearson (2 minutes)
+   4-3
+P3  03:11 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past Linus Ullmark, assisted by Mark Stone and Jack Eichel
+   4-4
+P3  02:11 
+Keegan Kolesar (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   4-5
+P3  01:46 
+Ivan Barbashev (VGK) scores on empty net, assisted by Jack Eichel and Mark Stone
+   4-6
+P3  18:21 
+Brayden McNabb (VGK) holding against Tim Stützle (2 minutes)
+   4-3
+P3  05:05 
+Nick Cousins (OTT) interference against Tanner Pearson (2 minutes)
+   4-3
+P3  03:11 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past Linus Ullmark, assisted by Mark Stone and Jack Eichel
+   4-4
+P3  02:11 
+Keegan Kolesar (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+   4-5
+P3  01:46 
+Ivan Barbashev (VGK) scores on empty net, assisted by Jack Eichel and Mark Stone
+   4-6
+P3  18:21
+Brayden McNabb (VGK) holding against Tim Stützle (2 minutes)
+4-3
+P3  05:05
+Nick Cousins (OTT) interference against Tanner Pearson (2 minutes)
+4-3
+P3  03:11
+Tomas Hertl (VGK) scores power-play goal on wrist shot past Linus Ullmark, assisted by Mark Stone and Jack Eichel
+4-4
+P3  02:11
+Keegan Kolesar (VGK) scores on wrist shot past Linus Ullmark, assisted by Tanner Pearson and Alex Pietrangelo
+4-5
+P3  01:46
+Ivan Barbashev (VGK) scores on empty net, assisted by Jack Eichel and Mark Stone
+4-6
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  14:22   0  0   -2   0   1   0   0   0   0/1Drake Batherson R  21:11   1  1    0   1   1   0   0   0   0/0Nick Cousins C  11:25   0  0    0   4   0   2   0   0   0/1Adam Gaudette R  09:37   2  0    0   2   0   0   0   0   4/8Claude Giroux R  20:31   1  1   -1   2   2   0   0   0  6/12Noah Gregor L  14:02   0  0   -1   2   1   0   0   0   0/0Ridly Greig C  14:18   0  0   -1   3   0   0   0   1   4/9Zack MacEwen R  07:46   0  0    0   2   0   0   0   0   0/1Josh Norris C  21:18   0  0   -1   2   2   0   0   1 13/22Cole Reinhardt L  06:50   0  1    0   3   0   0   0   2   0/0Tim Stützle C  21:07   0  1   -1   3   1   0   0   1   1/4Brady Tkachuk L  20:40   0  0   -1   5   1   0   1   2  5/13Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  13:37   0  1    1   1   0   0   0   0   0/0Thomas Chabot D  19:41   0  0    1   3   3   0   1   0   0/0Travis Hamonic D  20:47   0  0   -3   3   3   0   0   2   0/0Nick Jensen D  19:31   0  1    1   0   2   2   0   0   0/0Tyler Kleven D  15:36   0  0    1   1   1   0   0   2   0/0Jake Sanderson D  25:33   0  0   -4   2   3   0   0   0   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       39  21   4   2  11 33/71
+                                        46.5%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  58:14   5  22/27  18/22   3/4   1/1     0
+              .815   .818  .750 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:51   2  0    0   2   2   0   0   1   0/1Brendan Brisson C  08:21   0  0    0   1   0   0   0   1   0/0Pavel Dorofeyev L  17:23   0  0    0   2   0   0   0   3   0/0Jack Eichel C  21:21   0  2    0   2   1   0   0   0  8/20Tomas Hertl C  18:46   1  0    0   2   0   0   0   1 16/20Alexander Holtz R  09:35   0  1    0   1   0   0   0   1   0/0Brett Howden C  17:15   0  0    1   0   0   0   0   0   0/1Keegan Kolesar R  13:27   1  0    2   1   1   2   0   0   0/0Tanner Pearson L  11:34   0  2    2   0   0   0   0   1   0/0Nicolas Roy C  15:47   1  0    1   4   0   0   0   2 11/19Cole Schwindt R  07:11   0  0    0   1   0   0   0   1  3/10Mark Stone R  21:15   0  2    0   1   0   0   1   2   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  09:44   1  0    0   1   0   0   0   1   0/0Noah Hanifin D  23:47   0  1    3   2   2   0   0   2   0/0Brayden McNabb D  22:12   0  0   -1   2   3   2   0   1   0/0Alex Pietrangelo D  23:39   0  3    4   4   2   0   0   1   0/0Shea Theodore D  22:15   0  0   -2   2   0   0   0   1   0/0Zach Whitecloud D  15:02   0  0    0   0   1   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       28  12   4   1  20 38/71
+                                        53.5%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   4  35/39  30/33   4/5   1/1     0
+              .897   .909  .800 1.000
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  14:22   0  0   -2   0   1   0   0   0   0/1Drake Batherson R  21:11   1  1    0   1   1   0   0   0   0/0Nick Cousins C  11:25   0  0    0   4   0   2   0   0   0/1Adam Gaudette R  09:37   2  0    0   2   0   0   0   0   4/8Claude Giroux R  20:31   1  1   -1   2   2   0   0   0  6/12Noah Gregor L  14:02   0  0   -1   2   1   0   0   0   0/0Ridly Greig C  14:18   0  0   -1   3   0   0   0   1   4/9Zack MacEwen R  07:46   0  0    0   2   0   0   0   0   0/1Josh Norris C  21:18   0  0   -1   2   2   0   0   1 13/22Cole Reinhardt L  06:50   0  1    0   3   0   0   0   2   0/0Tim Stützle C  21:07   0  1   -1   3   1   0   0   1   1/4Brady Tkachuk L  20:40   0  0   -1   5   1   0   1   2  5/13
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+14:22   0  0   -2   0   1   0   0   0   0/1
+Drake Batherson R
+21:11   1  1    0   1   1   0   0   0   0/0
+Nick Cousins C
+11:25   0  0    0   4   0   2   0   0   0/1
+Adam Gaudette R
+09:37   2  0    0   2   0   0   0   0   4/8
+Claude Giroux R
+20:31   1  1   -1   2   2   0   0   0  6/12
+Noah Gregor L
+14:02   0  0   -1   2   1   0   0   0   0/0
+Ridly Greig C
+14:18   0  0   -1   3   0   0   0   1   4/9
+Zack MacEwen R
+07:46   0  0    0   2   0   0   0   0   0/1
+Josh Norris C
+21:18   0  0   -1   2   2   0   0   1 13/22
+Cole Reinhardt L
+06:50   0  1    0   3   0   0   0   2   0/0
+Tim Stützle C
+21:07   0  1   -1   3   1   0   0   1   1/4
+Brady Tkachuk L
+20:40   0  0   -1   5   1   0   1   2  5/13
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  13:37   0  1    1   1   0   0   0   0   0/0Thomas Chabot D  19:41   0  0    1   3   3   0   1   0   0/0Travis Hamonic D  20:47   0  0   -3   3   3   0   0   2   0/0Nick Jensen D  19:31   0  1    1   0   2   2   0   0   0/0Tyler Kleven D  15:36   0  0    1   1   1   0   0   2   0/0Jake Sanderson D  25:33   0  0   -4   2   3   0   0   0   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jacob Bernard-Docker D
+13:37   0  1    1   1   0   0   0   0   0/0
+Thomas Chabot D
+19:41   0  0    1   3   3   0   1   0   0/0
+Travis Hamonic D
+20:47   0  0   -3   3   3   0   0   2   0/0
+Nick Jensen D
+19:31   0  1    1   0   2   2   0   0   0/0
+Tyler Kleven D
+15:36   0  0    1   1   1   0   0   2   0/0
+Jake Sanderson D
+25:33   0  0   -4   2   3   0   0   0   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       39  21   4   2  11 33/71
+                                        46.5%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  58:14   5  22/27  18/22   3/4   1/1     0
+              .815   .818  .750 1.000
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Linus Ullmark G
+58:14   5  22/27  18/22   3/4   1/1     0
+              .815   .818  .750 1.000
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:51   2  0    0   2   2   0   0   1   0/1Brendan Brisson C  08:21   0  0    0   1   0   0   0   1   0/0Pavel Dorofeyev L  17:23   0  0    0   2   0   0   0   3   0/0Jack Eichel C  21:21   0  2    0   2   1   0   0   0  8/20Tomas Hertl C  18:46   1  0    0   2   0   0   0   1 16/20Alexander Holtz R  09:35   0  1    0   1   0   0   0   1   0/0Brett Howden C  17:15   0  0    1   0   0   0   0   0   0/1Keegan Kolesar R  13:27   1  0    2   1   1   2   0   0   0/0Tanner Pearson L  11:34   0  2    2   0   0   0   0   1   0/0Nicolas Roy C  15:47   1  0    1   4   0   0   0   2 11/19Cole Schwindt R  07:11   0  0    0   1   0   0   0   1  3/10Mark Stone R  21:15   0  2    0   1   0   0   1   2   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+17:51   2  0    0   2   2   0   0   1   0/1
+Brendan Brisson C
+08:21   0  0    0   1   0   0   0   1   0/0
+Pavel Dorofeyev L
+17:23   0  0    0   2   0   0   0   3   0/0
+Jack Eichel C
+21:21   0  2    0   2   1   0   0   0  8/20
+Tomas Hertl C
+18:46   1  0    0   2   0   0   0   1 16/20
+Alexander Holtz R
+09:35   0  1    0   1   0   0   0   1   0/0
+Brett Howden C
+17:15   0  0    1   0   0   0   0   0   0/1
+Keegan Kolesar R
+13:27   1  0    2   1   1   2   0   0   0/0
+Tanner Pearson L
+11:34   0  2    2   0   0   0   0   1   0/0
+Nicolas Roy C
+15:47   1  0    1   4   0   0   0   2 11/19
+Cole Schwindt R
+07:11   0  0    0   1   0   0   0   1  3/10
+Mark Stone R
+21:15   0  2    0   1   0   0   1   2   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  09:44   1  0    0   1   0   0   0   1   0/0Noah Hanifin D  23:47   0  1    3   2   2   0   0   2   0/0Brayden McNabb D  22:12   0  0   -1   2   3   2   0   1   0/0Alex Pietrangelo D  23:39   0  3    4   4   2   0   0   1   0/0Shea Theodore D  22:15   0  0   -2   2   0   0   0   1   0/0Zach Whitecloud D  15:02   0  0    0   0   1   0   0   1   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Hague D
+09:44   1  0    0   1   0   0   0   1   0/0
+Noah Hanifin D
+23:47   0  1    3   2   2   0   0   2   0/0
+Brayden McNabb D
+22:12   0  0   -1   2   3   2   0   1   0/0
+Alex Pietrangelo D
+23:39   0  3    4   4   2   0   0   1   0/0
+Shea Theodore D
+22:15   0  0   -2   2   0   0   0   1   0/0
+Zach Whitecloud D
+15:02   0  0    0   0   1   0   0   1   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       28  12   4   1  20 38/71
+                                        53.5%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   4  35/39  30/33   4/5   1/1     0
+              .897   .909  .800 1.000
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Adin Hill G
+60:00   4  35/39  30/33   4/5   1/1     0
+              .897   .909  .800 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

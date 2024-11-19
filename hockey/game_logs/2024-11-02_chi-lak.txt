@@ -1,0 +1,433 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Chicago
+Blackhawks4-7-1Final/SO4 - 3Los Angeles
+Kings6-3-3
+Shootout Goals & Penalties Box Score
+      1  2  3   SO    T  
+-----------------------  
+CHI   0  0  3    1    4  
+LAK   1  1  1    0    3
+Shootout:
+
+  0-1  
+Trevor Moore scores on wrist shot
+Connor Bedard scores on wrist shot
+  1-1  
+
+
+  1-1  
+Alex Laferriere wrist shot saved by Petr Mrazek
+Teuvo Teravainen scores on backhand shot
+  2-1  
+
+
+  2-2  
+Adrian Kempe scores on wrist shot
+Ryan Donato scores on wrist shot
+  3-2  
+
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:26 
+Craig Smith (CHI) tripping against Tanner Jeannot (2 minutes)
+   0-0
+P1  16:03 
+Alex Laferriere (LAK) scores power-play goal on wrist shot past Petr Mrazek, assisted by Anze Kopitar and Kevin Fiala
+   0-1
+P1  12:31 
+Patrick Maroon (CHI) interference against Tanner Jeannot (2 minutes)
+   0-1
+P1  01:00 
+Tanner Jeannot (LAK) fighting against Nick Foligno (5 minutes)
+   0-1
+P1  01:00 
+Nick Foligno (CHI) fighting against Tanner Jeannot (5 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:14 
+Connor Murphy (CHI) high-sticking against Kevin Fiala (2 minutes)
+   0-1
+P2  10:32 
+Mikey Anderson (LAK) holding the stick against Nick Foligno (2 minutes)
+   0-1
+P2  05:23 
+Brandt Clarke (LAK) slashing against Taylor Hall (2 minutes)
+   0-1
+P2  01:23 
+Alex Laferriere (LAK) scores on wrist shot past Petr Mrazek, assisted by Alex Turcotte and Phillip Danault
+   0-2
+3rd Period: ShowHide
+P3  16:34 
+Nick Foligno (CHI) scores on wrist shot past Darcy Kuemper, assisted by Nolan Allan
+   1-2
+P3  14:26 
+Craig Smith (CHI) scores on snap shot past Darcy Kuemper, assisted by Lukas Reichel and Alex Vlasic
+   2-2
+P3  08:12 
+Phillip Danault (LAK) scores on backhand shot past Petr Mrazek, assisted by Kevin Fiala and Trevor Moore
+   2-3
+P3  00:31 
+Tyler Bertuzzi (CHI) scores goal with extra attacker on tip-in past Darcy Kuemper, assisted by Ryan Donato and Seth Jones
+   3-3
+Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  21:54   0  0    0   3   1   0   0   0   1/6Tyler Bertuzzi L  16:18   1  0    1   2   0   0   1   0   0/0Jason Dickinson C  16:53   0  0    0   1   2   0   0   0  6/17Ryan Donato C  19:13   0  1    0   5   0   0   0   1   3/7Nick Foligno L  15:15   1  0    1   1   0   5   0   0  3/13Taylor Hall L  17:40   0  0    0   1   1   0   0   0   0/0Philipp Kurashev C  18:13   0  0   -1   1   0   0   0   0   2/4Patrick Maroon L  13:06   0  0    1   0   1   2   0   0   0/0Ilya Mikheyev R  13:52   0  0    0   0   0   0   0   0   0/0Lukas Reichel L  15:45   0  1    2   2   0   0   0   0   4/8Craig Smith C  12:12   1  0    1   2   1   2   0   1   0/0Teuvo Teravainen C  12:18   0  0    0   1   0   0   0   3   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:09   0  1    0   0   0   0   0   0   0/0Seth Jones D  28:13   0  1    0   0   3   0   2   1   0/0Wyatt Kaiser D  16:39   0  0    0   0   0   0   0   3   0/0Connor Murphy D  23:09   0  0    1   2   3   2   0   2   0/0Isaak Phillips D  11:13   0  0    0   0   1   0   0   0   0/0Alex Vlasic D  27:07   0  1    0   0   4   0   0   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       21  17  11   3  12 19/55
+                                        34.5%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  63:28   3  37/40  30/32   4/5   3/3     0
+              .925   .938  .800 1.000 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:45   0  0   -1   3   0   0   1   1  6/10Phillip Danault C  20:33   1  1    2   5   1   0   0   0  9/17Kevin Fiala L  20:49   0  2    1   4   1   0   0   2   1/1Warren Foegele L  14:16   0  0   -1   1   0   0   1   0   1/1Tanner Jeannot L  10:23   0  0    0   1   0   5   0   0   0/0Adrian Kempe R  20:27   0  0   -2   6   0   0   0   1   0/0Anze Kopitar C  20:37   0  1   -2   0   0   0   0   1 15/18Alex Laferriere R  18:23   2  0    0   3   1   0   0   2   1/1Trevor Lewis C  12:40   0  0   -1   1   0   0   0   1   3/7Trevor Moore L  16:32   0  1    1   1   0   0   2   1   0/0Akil Thomas C  10:36   0  0    0   1   1   0   0   0   0/0Alex Turcotte C  13:14   0  1    0   1   0   0   0   0   0/0Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  23:23   0  0    1   2   3   2   2   1   0/0Brandt Clarke D  21:53   0  0   -1   6   3   2   0   2   0/0Joel Edmundson D  24:10   0  0   -2   1   2   0   0   0   0/0Andreas Englund D  07:30   0  0    0   0   1   0   0   1   0/0Vladislav Gavrikov D  24:29   0  0    1   1   2   0   0   0   0/0Jordan Spence D  16:50   0  0   -1   3   0   0   0   0   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       40  15   9   6  13 36/55
+                                        65.5%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  63:30   3  18/21  18/21   0/0   0/0     0
+              .857   .857
+Chicago
+Blackhawks4-7-1Final/SO4 - 3Los Angeles
+Kings6-3-3
+Chicago
+Blackhawks4-7-1
+Final/SO4 - 3
+Los Angeles
+Kings6-3-3
+Shootout Goals & Penalties Box Score
+1  2  3   SO    T  
+-----------------------  
+CHI   0  0  3    1    4  
+LAK   1  1  1    0    3
+Shootout:
+0-1  
+Trevor Moore scores on wrist shot
+Connor Bedard scores on wrist shot
+  1-1  
+
+
+  1-1  
+Alex Laferriere wrist shot saved by Petr Mrazek
+Teuvo Teravainen scores on backhand shot
+  2-1  
+
+
+  2-2  
+Adrian Kempe scores on wrist shot
+Ryan Donato scores on wrist shot
+  3-2
+0-1
+Trevor Moore scores on wrist shot
+Connor Bedard scores on wrist shot
+1-1
+1-1
+Alex Laferriere wrist shot saved by Petr Mrazek
+Teuvo Teravainen scores on backhand shot
+2-1
+2-2
+Adrian Kempe scores on wrist shot
+Ryan Donato scores on wrist shot
+3-2
+1st Period: ShowHide
+P1  16:26 
+Craig Smith (CHI) tripping against Tanner Jeannot (2 minutes)
+   0-0
+P1  16:03 
+Alex Laferriere (LAK) scores power-play goal on wrist shot past Petr Mrazek, assisted by Anze Kopitar and Kevin Fiala
+   0-1
+P1  12:31 
+Patrick Maroon (CHI) interference against Tanner Jeannot (2 minutes)
+   0-1
+P1  01:00 
+Tanner Jeannot (LAK) fighting against Nick Foligno (5 minutes)
+   0-1
+P1  01:00 
+Nick Foligno (CHI) fighting against Tanner Jeannot (5 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:14 
+Connor Murphy (CHI) high-sticking against Kevin Fiala (2 minutes)
+   0-1
+P2  10:32 
+Mikey Anderson (LAK) holding the stick against Nick Foligno (2 minutes)
+   0-1
+P2  05:23 
+Brandt Clarke (LAK) slashing against Taylor Hall (2 minutes)
+   0-1
+P2  01:23 
+Alex Laferriere (LAK) scores on wrist shot past Petr Mrazek, assisted by Alex Turcotte and Phillip Danault
+   0-2
+3rd Period: ShowHide
+P3  16:34 
+Nick Foligno (CHI) scores on wrist shot past Darcy Kuemper, assisted by Nolan Allan
+   1-2
+P3  14:26 
+Craig Smith (CHI) scores on snap shot past Darcy Kuemper, assisted by Lukas Reichel and Alex Vlasic
+   2-2
+P3  08:12 
+Phillip Danault (LAK) scores on backhand shot past Petr Mrazek, assisted by Kevin Fiala and Trevor Moore
+   2-3
+P3  00:31 
+Tyler Bertuzzi (CHI) scores goal with extra attacker on tip-in past Darcy Kuemper, assisted by Ryan Donato and Seth Jones
+   3-3
+Overtime: No goals or penalties.
+1st Period: ShowHide
+P1  16:26 
+Craig Smith (CHI) tripping against Tanner Jeannot (2 minutes)
+   0-0
+P1  16:03 
+Alex Laferriere (LAK) scores power-play goal on wrist shot past Petr Mrazek, assisted by Anze Kopitar and Kevin Fiala
+   0-1
+P1  12:31 
+Patrick Maroon (CHI) interference against Tanner Jeannot (2 minutes)
+   0-1
+P1  01:00 
+Tanner Jeannot (LAK) fighting against Nick Foligno (5 minutes)
+   0-1
+P1  01:00 
+Nick Foligno (CHI) fighting against Tanner Jeannot (5 minutes)
+   0-1
+P1  16:26 
+Craig Smith (CHI) tripping against Tanner Jeannot (2 minutes)
+   0-0
+P1  16:03 
+Alex Laferriere (LAK) scores power-play goal on wrist shot past Petr Mrazek, assisted by Anze Kopitar and Kevin Fiala
+   0-1
+P1  12:31 
+Patrick Maroon (CHI) interference against Tanner Jeannot (2 minutes)
+   0-1
+P1  01:00 
+Tanner Jeannot (LAK) fighting against Nick Foligno (5 minutes)
+   0-1
+P1  01:00 
+Nick Foligno (CHI) fighting against Tanner Jeannot (5 minutes)
+   0-1
+P1  16:26
+Craig Smith (CHI) tripping against Tanner Jeannot (2 minutes)
+0-0
+P1  16:03
+Alex Laferriere (LAK) scores power-play goal on wrist shot past Petr Mrazek, assisted by Anze Kopitar and Kevin Fiala
+0-1
+P1  12:31
+Patrick Maroon (CHI) interference against Tanner Jeannot (2 minutes)
+0-1
+P1  01:00
+Tanner Jeannot (LAK) fighting against Nick Foligno (5 minutes)
+0-1
+P1  01:00
+Nick Foligno (CHI) fighting against Tanner Jeannot (5 minutes)
+0-1
+2nd Period: ShowHide
+P2  14:14 
+Connor Murphy (CHI) high-sticking against Kevin Fiala (2 minutes)
+   0-1
+P2  10:32 
+Mikey Anderson (LAK) holding the stick against Nick Foligno (2 minutes)
+   0-1
+P2  05:23 
+Brandt Clarke (LAK) slashing against Taylor Hall (2 minutes)
+   0-1
+P2  01:23 
+Alex Laferriere (LAK) scores on wrist shot past Petr Mrazek, assisted by Alex Turcotte and Phillip Danault
+   0-2
+P2  14:14 
+Connor Murphy (CHI) high-sticking against Kevin Fiala (2 minutes)
+   0-1
+P2  10:32 
+Mikey Anderson (LAK) holding the stick against Nick Foligno (2 minutes)
+   0-1
+P2  05:23 
+Brandt Clarke (LAK) slashing against Taylor Hall (2 minutes)
+   0-1
+P2  01:23 
+Alex Laferriere (LAK) scores on wrist shot past Petr Mrazek, assisted by Alex Turcotte and Phillip Danault
+   0-2
+P2  14:14
+Connor Murphy (CHI) high-sticking against Kevin Fiala (2 minutes)
+0-1
+P2  10:32
+Mikey Anderson (LAK) holding the stick against Nick Foligno (2 minutes)
+0-1
+P2  05:23
+Brandt Clarke (LAK) slashing against Taylor Hall (2 minutes)
+0-1
+P2  01:23
+Alex Laferriere (LAK) scores on wrist shot past Petr Mrazek, assisted by Alex Turcotte and Phillip Danault
+0-2
+3rd Period: ShowHide
+P3  16:34 
+Nick Foligno (CHI) scores on wrist shot past Darcy Kuemper, assisted by Nolan Allan
+   1-2
+P3  14:26 
+Craig Smith (CHI) scores on snap shot past Darcy Kuemper, assisted by Lukas Reichel and Alex Vlasic
+   2-2
+P3  08:12 
+Phillip Danault (LAK) scores on backhand shot past Petr Mrazek, assisted by Kevin Fiala and Trevor Moore
+   2-3
+P3  00:31 
+Tyler Bertuzzi (CHI) scores goal with extra attacker on tip-in past Darcy Kuemper, assisted by Ryan Donato and Seth Jones
+   3-3
+P3  16:34 
+Nick Foligno (CHI) scores on wrist shot past Darcy Kuemper, assisted by Nolan Allan
+   1-2
+P3  14:26 
+Craig Smith (CHI) scores on snap shot past Darcy Kuemper, assisted by Lukas Reichel and Alex Vlasic
+   2-2
+P3  08:12 
+Phillip Danault (LAK) scores on backhand shot past Petr Mrazek, assisted by Kevin Fiala and Trevor Moore
+   2-3
+P3  00:31 
+Tyler Bertuzzi (CHI) scores goal with extra attacker on tip-in past Darcy Kuemper, assisted by Ryan Donato and Seth Jones
+   3-3
+P3  16:34
+Nick Foligno (CHI) scores on wrist shot past Darcy Kuemper, assisted by Nolan Allan
+1-2
+P3  14:26
+Craig Smith (CHI) scores on snap shot past Darcy Kuemper, assisted by Lukas Reichel and Alex Vlasic
+2-2
+P3  08:12
+Phillip Danault (LAK) scores on backhand shot past Petr Mrazek, assisted by Kevin Fiala and Trevor Moore
+2-3
+P3  00:31
+Tyler Bertuzzi (CHI) scores goal with extra attacker on tip-in past Darcy Kuemper, assisted by Ryan Donato and Seth Jones
+3-3
+Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  21:54   0  0    0   3   1   0   0   0   1/6Tyler Bertuzzi L  16:18   1  0    1   2   0   0   1   0   0/0Jason Dickinson C  16:53   0  0    0   1   2   0   0   0  6/17Ryan Donato C  19:13   0  1    0   5   0   0   0   1   3/7Nick Foligno L  15:15   1  0    1   1   0   5   0   0  3/13Taylor Hall L  17:40   0  0    0   1   1   0   0   0   0/0Philipp Kurashev C  18:13   0  0   -1   1   0   0   0   0   2/4Patrick Maroon L  13:06   0  0    1   0   1   2   0   0   0/0Ilya Mikheyev R  13:52   0  0    0   0   0   0   0   0   0/0Lukas Reichel L  15:45   0  1    2   2   0   0   0   0   4/8Craig Smith C  12:12   1  0    1   2   1   2   0   1   0/0Teuvo Teravainen C  12:18   0  0    0   1   0   0   0   3   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:09   0  1    0   0   0   0   0   0   0/0Seth Jones D  28:13   0  1    0   0   3   0   2   1   0/0Wyatt Kaiser D  16:39   0  0    0   0   0   0   0   3   0/0Connor Murphy D  23:09   0  0    1   2   3   2   0   2   0/0Isaak Phillips D  11:13   0  0    0   0   1   0   0   0   0/0Alex Vlasic D  27:07   0  1    0   0   4   0   0   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       21  17  11   3  12 19/55
+                                        34.5%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  63:28   3  37/40  30/32   4/5   3/3     0
+              .925   .938  .800 1.000 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:45   0  0   -1   3   0   0   1   1  6/10Phillip Danault C  20:33   1  1    2   5   1   0   0   0  9/17Kevin Fiala L  20:49   0  2    1   4   1   0   0   2   1/1Warren Foegele L  14:16   0  0   -1   1   0   0   1   0   1/1Tanner Jeannot L  10:23   0  0    0   1   0   5   0   0   0/0Adrian Kempe R  20:27   0  0   -2   6   0   0   0   1   0/0Anze Kopitar C  20:37   0  1   -2   0   0   0   0   1 15/18Alex Laferriere R  18:23   2  0    0   3   1   0   0   2   1/1Trevor Lewis C  12:40   0  0   -1   1   0   0   0   1   3/7Trevor Moore L  16:32   0  1    1   1   0   0   2   1   0/0Akil Thomas C  10:36   0  0    0   1   1   0   0   0   0/0Alex Turcotte C  13:14   0  1    0   1   0   0   0   0   0/0Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  23:23   0  0    1   2   3   2   2   1   0/0Brandt Clarke D  21:53   0  0   -1   6   3   2   0   2   0/0Joel Edmundson D  24:10   0  0   -2   1   2   0   0   0   0/0Andreas Englund D  07:30   0  0    0   0   1   0   0   1   0/0Vladislav Gavrikov D  24:29   0  0    1   1   2   0   0   0   0/0Jordan Spence D  16:50   0  0   -1   3   0   0   0   0   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       40  15   9   6  13 36/55
+                                        65.5%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  63:30   3  18/21  18/21   0/0   0/0     0
+              .857   .857
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  21:54   0  0    0   3   1   0   0   0   1/6Tyler Bertuzzi L  16:18   1  0    1   2   0   0   1   0   0/0Jason Dickinson C  16:53   0  0    0   1   2   0   0   0  6/17Ryan Donato C  19:13   0  1    0   5   0   0   0   1   3/7Nick Foligno L  15:15   1  0    1   1   0   5   0   0  3/13Taylor Hall L  17:40   0  0    0   1   1   0   0   0   0/0Philipp Kurashev C  18:13   0  0   -1   1   0   0   0   0   2/4Patrick Maroon L  13:06   0  0    1   0   1   2   0   0   0/0Ilya Mikheyev R  13:52   0  0    0   0   0   0   0   0   0/0Lukas Reichel L  15:45   0  1    2   2   0   0   0   0   4/8Craig Smith C  12:12   1  0    1   2   1   2   0   1   0/0Teuvo Teravainen C  12:18   0  0    0   1   0   0   0   3   0/0
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Connor Bedard C
+21:54   0  0    0   3   1   0   0   0   1/6
+Tyler Bertuzzi L
+16:18   1  0    1   2   0   0   1   0   0/0
+Jason Dickinson C
+16:53   0  0    0   1   2   0   0   0  6/17
+Ryan Donato C
+19:13   0  1    0   5   0   0   0   1   3/7
+Nick Foligno L
+15:15   1  0    1   1   0   5   0   0  3/13
+Taylor Hall L
+17:40   0  0    0   1   1   0   0   0   0/0
+Philipp Kurashev C
+18:13   0  0   -1   1   0   0   0   0   2/4
+Patrick Maroon L
+13:06   0  0    1   0   1   2   0   0   0/0
+Ilya Mikheyev R
+13:52   0  0    0   0   0   0   0   0   0/0
+Lukas Reichel L
+15:45   0  1    2   2   0   0   0   0   4/8
+Craig Smith C
+12:12   1  0    1   2   1   2   0   1   0/0
+Teuvo Teravainen C
+12:18   0  0    0   1   0   0   0   3   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:09   0  1    0   0   0   0   0   0   0/0Seth Jones D  28:13   0  1    0   0   3   0   2   1   0/0Wyatt Kaiser D  16:39   0  0    0   0   0   0   0   3   0/0Connor Murphy D  23:09   0  0    1   2   3   2   0   2   0/0Isaak Phillips D  11:13   0  0    0   0   1   0   0   0   0/0Alex Vlasic D  27:07   0  1    0   0   4   0   0   1   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nolan Allan D
+13:09   0  1    0   0   0   0   0   0   0/0
+Seth Jones D
+28:13   0  1    0   0   3   0   2   1   0/0
+Wyatt Kaiser D
+16:39   0  0    0   0   0   0   0   3   0/0
+Connor Murphy D
+23:09   0  0    1   2   3   2   0   2   0/0
+Isaak Phillips D
+11:13   0  0    0   0   1   0   0   0   0/0
+Alex Vlasic D
+27:07   0  1    0   0   4   0   0   1   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       21  17  11   3  12 19/55
+                                        34.5%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  63:28   3  37/40  30/32   4/5   3/3     0
+              .925   .938  .800 1.000
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Petr Mrazek G
+63:28   3  37/40  30/32   4/5   3/3     0
+              .925   .938  .800 1.000
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:45   0  0   -1   3   0   0   1   1  6/10Phillip Danault C  20:33   1  1    2   5   1   0   0   0  9/17Kevin Fiala L  20:49   0  2    1   4   1   0   0   2   1/1Warren Foegele L  14:16   0  0   -1   1   0   0   1   0   1/1Tanner Jeannot L  10:23   0  0    0   1   0   5   0   0   0/0Adrian Kempe R  20:27   0  0   -2   6   0   0   0   1   0/0Anze Kopitar C  20:37   0  1   -2   0   0   0   0   1 15/18Alex Laferriere R  18:23   2  0    0   3   1   0   0   2   1/1Trevor Lewis C  12:40   0  0   -1   1   0   0   0   1   3/7Trevor Moore L  16:32   0  1    1   1   0   0   2   1   0/0Akil Thomas C  10:36   0  0    0   1   1   0   0   0   0/0Alex Turcotte C  13:14   0  1    0   1   0   0   0   0   0/0
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Quinton Byfield R
+15:45   0  0   -1   3   0   0   1   1  6/10
+Phillip Danault C
+20:33   1  1    2   5   1   0   0   0  9/17
+Kevin Fiala L
+20:49   0  2    1   4   1   0   0   2   1/1
+Warren Foegele L
+14:16   0  0   -1   1   0   0   1   0   1/1
+Tanner Jeannot L
+10:23   0  0    0   1   0   5   0   0   0/0
+Adrian Kempe R
+20:27   0  0   -2   6   0   0   0   1   0/0
+Anze Kopitar C
+20:37   0  1   -2   0   0   0   0   1 15/18
+Alex Laferriere R
+18:23   2  0    0   3   1   0   0   2   1/1
+Trevor Lewis C
+12:40   0  0   -1   1   0   0   0   1   3/7
+Trevor Moore L
+16:32   0  1    1   1   0   0   2   1   0/0
+Akil Thomas C
+10:36   0  0    0   1   1   0   0   0   0/0
+Alex Turcotte C
+13:14   0  1    0   1   0   0   0   0   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  23:23   0  0    1   2   3   2   2   1   0/0Brandt Clarke D  21:53   0  0   -1   6   3   2   0   2   0/0Joel Edmundson D  24:10   0  0   -2   1   2   0   0   0   0/0Andreas Englund D  07:30   0  0    0   0   1   0   0   1   0/0Vladislav Gavrikov D  24:29   0  0    1   1   2   0   0   0   0/0Jordan Spence D  16:50   0  0   -1   3   0   0   0   0   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikey Anderson D
+23:23   0  0    1   2   3   2   2   1   0/0
+Brandt Clarke D
+21:53   0  0   -1   6   3   2   0   2   0/0
+Joel Edmundson D
+24:10   0  0   -2   1   2   0   0   0   0/0
+Andreas Englund D
+07:30   0  0    0   0   1   0   0   1   0/0
+Vladislav Gavrikov D
+24:29   0  0    1   1   2   0   0   0   0/0
+Jordan Spence D
+16:50   0  0   -1   3   0   0   0   0   0/0
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       40  15   9   6  13 36/55
+                                        65.5%
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  63:30   3  18/21  18/21   0/0   0/0     0
+              .857   .857
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Darcy Kuemper G
+63:30   3  18/21  18/21   0/0   0/0     0
+              .857   .857
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

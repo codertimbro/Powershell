@@ -1,0 +1,442 @@
+< Oct. 30 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Vegas
+Golden Knights7-3-1Final3 - 6Los Angeles
+Kings6-3-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+VGK   0  1  2    3  
+LAK   2  2  2    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:20 
+Andreas Englund (LAK) fighting against Keegan Kolesar (5 minutes)
+   0-0
+P1  14:20 
+Keegan Kolesar (VGK) fighting against Andreas Englund (5 minutes)
+   0-0
+P1  06:02 
+Warren Foegele (LAK) scores on backhand shot past Ilya Samsonov
+   0-1
+P1  05:20 
+Adrian Kempe (LAK) scores on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Mikey Anderson
+   0-2
+P1  02:13 
+Joel Edmundson (LAK) high-sticking against Pavel Dorofeyev (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  09:49 
+Alex Laferriere (LAK) scores on wrist shot past Ilya Samsonov, assisted by Mikey Anderson and Quinton Byfield
+   0-3
+P2  09:05 
+Anze Kopitar (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Adrian Kempe
+   0-4
+P2  05:02 
+Tanner Pearson (VGK) scores on wrist shot past Darcy Kuemper, assisted by Alexander Holtz and William Karlsson
+   1-4
+P2  01:10 
+Brett Howden (VGK) roughing against Mikey Anderson (2 minutes)
+   1-4
+P2  01:10 
+Mikey Anderson (LAK) roughing against Brett Howden (2 minutes)
+   1-4
+3rd Period: ShowHide
+P3  14:29 
+Brett Howden (VGK) slashing against Phillip Danault (2 minutes)
+   1-4
+P3  13:37 
+Kevin Fiala (LAK) scores power-play goal on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Brandt Clarke
+   1-5
+P3  11:57 
+Joel Edmundson (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Kevin Fiala
+   1-6
+P3  10:16 
+Adrian Kempe (LAK) roughing against Zach Whitecloud (2 minutes)
+   1-6
+P3  09:17 
+Joel Edmundson (LAK) slashing against Alex Pietrangelo (2 minutes)
+   1-6
+P3  08:56 
+Pavel Dorofeyev (VGK) scores power-play goal on wrist shot past Darcy Kuemper, assisted by Mark Stone and Shea Theodore
+   2-6
+P3  02:57 
+Pavel Dorofeyev (VGK) scores on backhand shot past Darcy Kuemper, assisted by Kaedan Korczak and Tomas Hertl
+   3-6
+Box Score:
+ 
+Back to Top
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:09   0  0   -2   3   1   0   2   0   0/1Brendan Brisson C  10:25   0  0   -2   1   0   0   0   0   0/0Pavel Dorofeyev L  16:57   2  0    0   4   0   0   1   0   0/0Jack Eichel C  18:21   0  0   -1   1   2   0   2   1  8/16Tomas Hertl C  16:04   0  1   -1   0   0   0   2   2  9/13Alexander Holtz R  12:46   0  1    1   2   0   0   0   1   0/0Brett Howden C  16:14   0  0    0   2   0   4   1   1   1/1William Karlsson C  14:36   0  1    1   2   0   0   0   1  6/15Keegan Kolesar R  10:14   0  0   -1   1   0   5   0   0   0/0Tanner Pearson L  12:46   1  0    1   2   0   0   0   0   0/0Nicolas Roy C  15:22   0  0   -2   0   1   0   0   0  4/10Mark Stone R  19:03   0  1   -3   2   0   0   1   2   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Hanifin D  21:54   0  0   -3   1   1   0   0   1   0/0Kaedan Korczak D  16:37   0  1    2   0   1   0   1   1   0/0Brayden McNabb D  18:41   0  0    2   1   0   0   0   2   0/0Alex Pietrangelo D  21:46   0  0   -3   3   2   0   0   2   0/0Shea Theodore D  20:19   0  1   -2   1   0   0   1   1   0/0Zach Whitecloud D  17:54   0  0   -2   0   0   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26   8   9  11  16 28/56
+                                        50.0%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   6  21/27  19/24   2/3   0/0     0
+              .778   .792  .667 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:03   0  1    1   0   0   0   1   0  6/13Phillip Danault C  16:49   0  0    0   2   0   0   1   2  7/12Kevin Fiala L  15:07   1  1    0   2   0   0   1   1   0/0Warren Foegele L  15:08   1  0    2   2   1   0   0   0   0/0Tanner Jeannot L  11:17   0  0    0   1   0   0   0   0   0/0Adrian Kempe R  16:21   1  1    2   3   0   2   0   0   0/0Anze Kopitar C  16:38   1  2    2   1   1   0   0   1 11/25Alex Laferriere R  13:55   1  0    1   3   0   0   1   0   0/0Trevor Lewis C  12:01   0  0    0   1   0   0   1   0   4/6Trevor Moore L  17:02   0  0    0   0   1   0   0   0   0/0Akil Thomas C  10:14   0  0    0   5   0   0   0   0   0/0Alex Turcotte C  13:21   0  0    1   0   1   0   0   0   0/0Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:17   0  2    2   1   2   2   0   0   0/0Brandt Clarke D  18:19   0  3    1   2   0   0   1   1   0/0Joel Edmundson D  20:23   1  0    2   1   0   4   0   1   0/0Andreas Englund D  14:51   0  0   -1   1   2   5   0   1   0/0Vladislav Gavrikov D  24:38   0  0    2   0   2   0   0   1   0/0Jordan Spence D  20:16   0  0    0   2   1   0   0   0   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       27  11  13   6   8 28/56
+                                        50.0%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  60:00   3  23/26  22/24   1/2   0/0     0
+              .885   .917  .500
+Vegas
+Golden Knights7-3-1Final3 - 6Los Angeles
+Kings6-3-2
+Vegas
+Golden Knights7-3-1
+Final3 - 6
+Los Angeles
+Kings6-3-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+VGK   0  1  2    3  
+LAK   2  2  2    6
+1st Period: ShowHide
+P1  14:20 
+Andreas Englund (LAK) fighting against Keegan Kolesar (5 minutes)
+   0-0
+P1  14:20 
+Keegan Kolesar (VGK) fighting against Andreas Englund (5 minutes)
+   0-0
+P1  06:02 
+Warren Foegele (LAK) scores on backhand shot past Ilya Samsonov
+   0-1
+P1  05:20 
+Adrian Kempe (LAK) scores on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Mikey Anderson
+   0-2
+P1  02:13 
+Joel Edmundson (LAK) high-sticking against Pavel Dorofeyev (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  09:49 
+Alex Laferriere (LAK) scores on wrist shot past Ilya Samsonov, assisted by Mikey Anderson and Quinton Byfield
+   0-3
+P2  09:05 
+Anze Kopitar (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Adrian Kempe
+   0-4
+P2  05:02 
+Tanner Pearson (VGK) scores on wrist shot past Darcy Kuemper, assisted by Alexander Holtz and William Karlsson
+   1-4
+P2  01:10 
+Brett Howden (VGK) roughing against Mikey Anderson (2 minutes)
+   1-4
+P2  01:10 
+Mikey Anderson (LAK) roughing against Brett Howden (2 minutes)
+   1-4
+3rd Period: ShowHide
+P3  14:29 
+Brett Howden (VGK) slashing against Phillip Danault (2 minutes)
+   1-4
+P3  13:37 
+Kevin Fiala (LAK) scores power-play goal on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Brandt Clarke
+   1-5
+P3  11:57 
+Joel Edmundson (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Kevin Fiala
+   1-6
+P3  10:16 
+Adrian Kempe (LAK) roughing against Zach Whitecloud (2 minutes)
+   1-6
+P3  09:17 
+Joel Edmundson (LAK) slashing against Alex Pietrangelo (2 minutes)
+   1-6
+P3  08:56 
+Pavel Dorofeyev (VGK) scores power-play goal on wrist shot past Darcy Kuemper, assisted by Mark Stone and Shea Theodore
+   2-6
+P3  02:57 
+Pavel Dorofeyev (VGK) scores on backhand shot past Darcy Kuemper, assisted by Kaedan Korczak and Tomas Hertl
+   3-6
+1st Period: ShowHide
+P1  14:20 
+Andreas Englund (LAK) fighting against Keegan Kolesar (5 minutes)
+   0-0
+P1  14:20 
+Keegan Kolesar (VGK) fighting against Andreas Englund (5 minutes)
+   0-0
+P1  06:02 
+Warren Foegele (LAK) scores on backhand shot past Ilya Samsonov
+   0-1
+P1  05:20 
+Adrian Kempe (LAK) scores on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Mikey Anderson
+   0-2
+P1  02:13 
+Joel Edmundson (LAK) high-sticking against Pavel Dorofeyev (2 minutes)
+   0-2
+P1  14:20 
+Andreas Englund (LAK) fighting against Keegan Kolesar (5 minutes)
+   0-0
+P1  14:20 
+Keegan Kolesar (VGK) fighting against Andreas Englund (5 minutes)
+   0-0
+P1  06:02 
+Warren Foegele (LAK) scores on backhand shot past Ilya Samsonov
+   0-1
+P1  05:20 
+Adrian Kempe (LAK) scores on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Mikey Anderson
+   0-2
+P1  02:13 
+Joel Edmundson (LAK) high-sticking against Pavel Dorofeyev (2 minutes)
+   0-2
+P1  14:20
+Andreas Englund (LAK) fighting against Keegan Kolesar (5 minutes)
+0-0
+P1  14:20
+Keegan Kolesar (VGK) fighting against Andreas Englund (5 minutes)
+0-0
+P1  06:02
+Warren Foegele (LAK) scores on backhand shot past Ilya Samsonov
+0-1
+P1  05:20
+Adrian Kempe (LAK) scores on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Mikey Anderson
+0-2
+P1  02:13
+Joel Edmundson (LAK) high-sticking against Pavel Dorofeyev (2 minutes)
+0-2
+2nd Period: ShowHide
+P2  09:49 
+Alex Laferriere (LAK) scores on wrist shot past Ilya Samsonov, assisted by Mikey Anderson and Quinton Byfield
+   0-3
+P2  09:05 
+Anze Kopitar (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Adrian Kempe
+   0-4
+P2  05:02 
+Tanner Pearson (VGK) scores on wrist shot past Darcy Kuemper, assisted by Alexander Holtz and William Karlsson
+   1-4
+P2  01:10 
+Brett Howden (VGK) roughing against Mikey Anderson (2 minutes)
+   1-4
+P2  01:10 
+Mikey Anderson (LAK) roughing against Brett Howden (2 minutes)
+   1-4
+P2  09:49 
+Alex Laferriere (LAK) scores on wrist shot past Ilya Samsonov, assisted by Mikey Anderson and Quinton Byfield
+   0-3
+P2  09:05 
+Anze Kopitar (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Adrian Kempe
+   0-4
+P2  05:02 
+Tanner Pearson (VGK) scores on wrist shot past Darcy Kuemper, assisted by Alexander Holtz and William Karlsson
+   1-4
+P2  01:10 
+Brett Howden (VGK) roughing against Mikey Anderson (2 minutes)
+   1-4
+P2  01:10 
+Mikey Anderson (LAK) roughing against Brett Howden (2 minutes)
+   1-4
+P2  09:49
+Alex Laferriere (LAK) scores on wrist shot past Ilya Samsonov, assisted by Mikey Anderson and Quinton Byfield
+0-3
+P2  09:05
+Anze Kopitar (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Adrian Kempe
+0-4
+P2  05:02
+Tanner Pearson (VGK) scores on wrist shot past Darcy Kuemper, assisted by Alexander Holtz and William Karlsson
+1-4
+P2  01:10
+Brett Howden (VGK) roughing against Mikey Anderson (2 minutes)
+1-4
+P2  01:10
+Mikey Anderson (LAK) roughing against Brett Howden (2 minutes)
+1-4
+3rd Period: ShowHide
+P3  14:29 
+Brett Howden (VGK) slashing against Phillip Danault (2 minutes)
+   1-4
+P3  13:37 
+Kevin Fiala (LAK) scores power-play goal on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Brandt Clarke
+   1-5
+P3  11:57 
+Joel Edmundson (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Kevin Fiala
+   1-6
+P3  10:16 
+Adrian Kempe (LAK) roughing against Zach Whitecloud (2 minutes)
+   1-6
+P3  09:17 
+Joel Edmundson (LAK) slashing against Alex Pietrangelo (2 minutes)
+   1-6
+P3  08:56 
+Pavel Dorofeyev (VGK) scores power-play goal on wrist shot past Darcy Kuemper, assisted by Mark Stone and Shea Theodore
+   2-6
+P3  02:57 
+Pavel Dorofeyev (VGK) scores on backhand shot past Darcy Kuemper, assisted by Kaedan Korczak and Tomas Hertl
+   3-6
+P3  14:29 
+Brett Howden (VGK) slashing against Phillip Danault (2 minutes)
+   1-4
+P3  13:37 
+Kevin Fiala (LAK) scores power-play goal on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Brandt Clarke
+   1-5
+P3  11:57 
+Joel Edmundson (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Kevin Fiala
+   1-6
+P3  10:16 
+Adrian Kempe (LAK) roughing against Zach Whitecloud (2 minutes)
+   1-6
+P3  09:17 
+Joel Edmundson (LAK) slashing against Alex Pietrangelo (2 minutes)
+   1-6
+P3  08:56 
+Pavel Dorofeyev (VGK) scores power-play goal on wrist shot past Darcy Kuemper, assisted by Mark Stone and Shea Theodore
+   2-6
+P3  02:57 
+Pavel Dorofeyev (VGK) scores on backhand shot past Darcy Kuemper, assisted by Kaedan Korczak and Tomas Hertl
+   3-6
+P3  14:29
+Brett Howden (VGK) slashing against Phillip Danault (2 minutes)
+1-4
+P3  13:37
+Kevin Fiala (LAK) scores power-play goal on wrist shot past Ilya Samsonov, assisted by Anze Kopitar and Brandt Clarke
+1-5
+P3  11:57
+Joel Edmundson (LAK) scores on wrist shot past Ilya Samsonov, assisted by Brandt Clarke and Kevin Fiala
+1-6
+P3  10:16
+Adrian Kempe (LAK) roughing against Zach Whitecloud (2 minutes)
+1-6
+P3  09:17
+Joel Edmundson (LAK) slashing against Alex Pietrangelo (2 minutes)
+1-6
+P3  08:56
+Pavel Dorofeyev (VGK) scores power-play goal on wrist shot past Darcy Kuemper, assisted by Mark Stone and Shea Theodore
+2-6
+P3  02:57
+Pavel Dorofeyev (VGK) scores on backhand shot past Darcy Kuemper, assisted by Kaedan Korczak and Tomas Hertl
+3-6
+Box Score:
+ 
+Back to Top
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:09   0  0   -2   3   1   0   2   0   0/1Brendan Brisson C  10:25   0  0   -2   1   0   0   0   0   0/0Pavel Dorofeyev L  16:57   2  0    0   4   0   0   1   0   0/0Jack Eichel C  18:21   0  0   -1   1   2   0   2   1  8/16Tomas Hertl C  16:04   0  1   -1   0   0   0   2   2  9/13Alexander Holtz R  12:46   0  1    1   2   0   0   0   1   0/0Brett Howden C  16:14   0  0    0   2   0   4   1   1   1/1William Karlsson C  14:36   0  1    1   2   0   0   0   1  6/15Keegan Kolesar R  10:14   0  0   -1   1   0   5   0   0   0/0Tanner Pearson L  12:46   1  0    1   2   0   0   0   0   0/0Nicolas Roy C  15:22   0  0   -2   0   1   0   0   0  4/10Mark Stone R  19:03   0  1   -3   2   0   0   1   2   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Hanifin D  21:54   0  0   -3   1   1   0   0   1   0/0Kaedan Korczak D  16:37   0  1    2   0   1   0   1   1   0/0Brayden McNabb D  18:41   0  0    2   1   0   0   0   2   0/0Alex Pietrangelo D  21:46   0  0   -3   3   2   0   0   2   0/0Shea Theodore D  20:19   0  1   -2   1   0   0   1   1   0/0Zach Whitecloud D  17:54   0  0   -2   0   0   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26   8   9  11  16 28/56
+                                        50.0%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   6  21/27  19/24   2/3   0/0     0
+              .778   .792  .667 
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:03   0  1    1   0   0   0   1   0  6/13Phillip Danault C  16:49   0  0    0   2   0   0   1   2  7/12Kevin Fiala L  15:07   1  1    0   2   0   0   1   1   0/0Warren Foegele L  15:08   1  0    2   2   1   0   0   0   0/0Tanner Jeannot L  11:17   0  0    0   1   0   0   0   0   0/0Adrian Kempe R  16:21   1  1    2   3   0   2   0   0   0/0Anze Kopitar C  16:38   1  2    2   1   1   0   0   1 11/25Alex Laferriere R  13:55   1  0    1   3   0   0   1   0   0/0Trevor Lewis C  12:01   0  0    0   1   0   0   1   0   4/6Trevor Moore L  17:02   0  0    0   0   1   0   0   0   0/0Akil Thomas C  10:14   0  0    0   5   0   0   0   0   0/0Alex Turcotte C  13:21   0  0    1   0   1   0   0   0   0/0Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:17   0  2    2   1   2   2   0   0   0/0Brandt Clarke D  18:19   0  3    1   2   0   0   1   1   0/0Joel Edmundson D  20:23   1  0    2   1   0   4   0   1   0/0Andreas Englund D  14:51   0  0   -1   1   2   5   0   1   0/0Vladislav Gavrikov D  24:38   0  0    2   0   2   0   0   1   0/0Jordan Spence D  20:16   0  0    0   2   1   0   0   0   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       27  11  13   6   8 28/56
+                                        50.0%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  60:00   3  23/26  22/24   1/2   0/0     0
+              .885   .917  .500
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:09   0  0   -2   3   1   0   2   0   0/1Brendan Brisson C  10:25   0  0   -2   1   0   0   0   0   0/0Pavel Dorofeyev L  16:57   2  0    0   4   0   0   1   0   0/0Jack Eichel C  18:21   0  0   -1   1   2   0   2   1  8/16Tomas Hertl C  16:04   0  1   -1   0   0   0   2   2  9/13Alexander Holtz R  12:46   0  1    1   2   0   0   0   1   0/0Brett Howden C  16:14   0  0    0   2   0   4   1   1   1/1William Karlsson C  14:36   0  1    1   2   0   0   0   1  6/15Keegan Kolesar R  10:14   0  0   -1   1   0   5   0   0   0/0Tanner Pearson L  12:46   1  0    1   2   0   0   0   0   0/0Nicolas Roy C  15:22   0  0   -2   0   1   0   0   0  4/10Mark Stone R  19:03   0  1   -3   2   0   0   1   2   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+17:09   0  0   -2   3   1   0   2   0   0/1
+Brendan Brisson C
+10:25   0  0   -2   1   0   0   0   0   0/0
+Pavel Dorofeyev L
+16:57   2  0    0   4   0   0   1   0   0/0
+Jack Eichel C
+18:21   0  0   -1   1   2   0   2   1  8/16
+Tomas Hertl C
+16:04   0  1   -1   0   0   0   2   2  9/13
+Alexander Holtz R
+12:46   0  1    1   2   0   0   0   1   0/0
+Brett Howden C
+16:14   0  0    0   2   0   4   1   1   1/1
+William Karlsson C
+14:36   0  1    1   2   0   0   0   1  6/15
+Keegan Kolesar R
+10:14   0  0   -1   1   0   5   0   0   0/0
+Tanner Pearson L
+12:46   1  0    1   2   0   0   0   0   0/0
+Nicolas Roy C
+15:22   0  0   -2   0   1   0   0   0  4/10
+Mark Stone R
+19:03   0  1   -3   2   0   0   1   2   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Hanifin D  21:54   0  0   -3   1   1   0   0   1   0/0Kaedan Korczak D  16:37   0  1    2   0   1   0   1   1   0/0Brayden McNabb D  18:41   0  0    2   1   0   0   0   2   0/0Alex Pietrangelo D  21:46   0  0   -3   3   2   0   0   2   0/0Shea Theodore D  20:19   0  1   -2   1   0   0   1   1   0/0Zach Whitecloud D  17:54   0  0   -2   0   0   0   0   1   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Hanifin D
+21:54   0  0   -3   1   1   0   0   1   0/0
+Kaedan Korczak D
+16:37   0  1    2   0   1   0   1   1   0/0
+Brayden McNabb D
+18:41   0  0    2   1   0   0   0   2   0/0
+Alex Pietrangelo D
+21:46   0  0   -3   3   2   0   0   2   0/0
+Shea Theodore D
+20:19   0  1   -2   1   0   0   1   1   0/0
+Zach Whitecloud D
+17:54   0  0   -2   0   0   0   0   1   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26   8   9  11  16 28/56
+                                        50.0%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   6  21/27  19/24   2/3   0/0     0
+              .778   .792  .667
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Samsonov G
+60:00   6  21/27  19/24   2/3   0/0     0
+              .778   .792  .667
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:03   0  1    1   0   0   0   1   0  6/13Phillip Danault C  16:49   0  0    0   2   0   0   1   2  7/12Kevin Fiala L  15:07   1  1    0   2   0   0   1   1   0/0Warren Foegele L  15:08   1  0    2   2   1   0   0   0   0/0Tanner Jeannot L  11:17   0  0    0   1   0   0   0   0   0/0Adrian Kempe R  16:21   1  1    2   3   0   2   0   0   0/0Anze Kopitar C  16:38   1  2    2   1   1   0   0   1 11/25Alex Laferriere R  13:55   1  0    1   3   0   0   1   0   0/0Trevor Lewis C  12:01   0  0    0   1   0   0   1   0   4/6Trevor Moore L  17:02   0  0    0   0   1   0   0   0   0/0Akil Thomas C  10:14   0  0    0   5   0   0   0   0   0/0Alex Turcotte C  13:21   0  0    1   0   1   0   0   0   0/0
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Quinton Byfield R
+15:03   0  1    1   0   0   0   1   0  6/13
+Phillip Danault C
+16:49   0  0    0   2   0   0   1   2  7/12
+Kevin Fiala L
+15:07   1  1    0   2   0   0   1   1   0/0
+Warren Foegele L
+15:08   1  0    2   2   1   0   0   0   0/0
+Tanner Jeannot L
+11:17   0  0    0   1   0   0   0   0   0/0
+Adrian Kempe R
+16:21   1  1    2   3   0   2   0   0   0/0
+Anze Kopitar C
+16:38   1  2    2   1   1   0   0   1 11/25
+Alex Laferriere R
+13:55   1  0    1   3   0   0   1   0   0/0
+Trevor Lewis C
+12:01   0  0    0   1   0   0   1   0   4/6
+Trevor Moore L
+17:02   0  0    0   0   1   0   0   0   0/0
+Akil Thomas C
+10:14   0  0    0   5   0   0   0   0   0/0
+Alex Turcotte C
+13:21   0  0    1   0   1   0   0   0   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:17   0  2    2   1   2   2   0   0   0/0Brandt Clarke D  18:19   0  3    1   2   0   0   1   1   0/0Joel Edmundson D  20:23   1  0    2   1   0   4   0   1   0/0Andreas Englund D  14:51   0  0   -1   1   2   5   0   1   0/0Vladislav Gavrikov D  24:38   0  0    2   0   2   0   0   1   0/0Jordan Spence D  20:16   0  0    0   2   1   0   0   0   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikey Anderson D
+21:17   0  2    2   1   2   2   0   0   0/0
+Brandt Clarke D
+18:19   0  3    1   2   0   0   1   1   0/0
+Joel Edmundson D
+20:23   1  0    2   1   0   4   0   1   0/0
+Andreas Englund D
+14:51   0  0   -1   1   2   5   0   1   0/0
+Vladislav Gavrikov D
+24:38   0  0    2   0   2   0   0   1   0/0
+Jordan Spence D
+20:16   0  0    0   2   1   0   0   0   0/0
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       27  11  13   6   8 28/56
+                                        50.0%
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  60:00   3  23/26  22/24   1/2   0/0     0
+              .885   .917  .500
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Darcy Kuemper G
+60:00   3  23/26  22/24   1/2   0/0     0
+              .885   .917  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

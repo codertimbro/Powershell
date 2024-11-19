@@ -1,0 +1,352 @@
+< Oct. 26 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Pittsburgh
+Penguins3-6-1Final3 - 4Vancouver
+Canucks4-1-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+PIT   1  1  1    3  
+VAN   0  4  0    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:00 
+Michael Bunting (PIT) roughing against Erik Brannstrom (2 minutes)
+   0-0
+P1  12:12 
+Anthony Beauvillier (PIT) scores on tip-in past Kevin Lankinen, assisted by Marcus Pettersson and Evgeni Malkin
+   1-0
+P1  12:01 
+Tyler Myers (VAN) high-sticking against Anthony Beauvillier (2 minutes)
+   1-0
+P1  03:37 
+Michael Bunting (PIT) high-sticking against J.T. Miller (4 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:04 
+Bryan Rust (PIT) scores on wrap-around shot past Kevin Lankinen, assisted by Anthony Beauvillier and Evgeni Malkin
+   2-0
+P2  15:54 
+Elias Pettersson (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Conor Garland and Tyler Myers
+   2-1
+P2  15:11 
+Kiefer Sherwood (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Teddy Blueger and Vincent Desharnais
+   2-2
+P2  14:49 
+J.T. Miller (VAN) scores on deflection past Alex Nedeljkovic, assisted by Brock Boeser
+   2-3
+P2  10:02 
+Arshdeep Bains (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Daniel Sprong
+   2-4
+3rd Period: ShowHide
+P3  10:04 
+Daniel Sprong (VAN) holding against Ryan Graves (2 minutes)
+   2-4
+P3  06:38 
+Evgeni Malkin (PIT) scores on backhand shot past Kevin Lankinen, assisted by Rickard Rakell and Matt Grzelcyk
+   3-4
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  14:43   0  0    0   0   0   0   0   1  3/10Anthony Beauvillier L  14:52   1  1    1   1   0   0   0   0   0/0Michael Bunting L  15:20   0  0   -1   3   0   6   0   0   0/0Sidney Crosby C  18:46   0  0   -1   1   2   0   0   0  7/19Lars Eller C  17:31   0  0    0   0   0   0   0   0  7/10Kevin Hayes R  11:10   0  0   -1   0   0   0   0   0   2/6Evgeni Malkin C  17:14   1  2    2   2   2   0   1   0  5/10Drew O'Connor L  16:31   0  0   -3   3   1   0   0   1   0/1Jesse Puljujarvi R  09:52   0  0    0   0   1   0   0   0   0/0Valtteri Puustinen R  08:15   0  0    0   0   1   0   0   2   0/0Rickard Rakell R  19:51   0  1   -1   2   2   0   0   3   0/0Bryan Rust R  13:18   1  0    1   2   0   0   0   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:11   0  0    0   0   3   0   1   0   0/0Matt Grzelcyk D  18:05   0  1   -2   1   0   0   0   1   0/0Erik Karlsson D  21:17   0  0   -2   3   0   0   0   4   0/0Kris Letang D  25:32   0  0    1   3   0   0   1   1   0/0Marcus Pettersson D  22:23   0  1    1   0   1   0   1   1   0/0Jack St. Ivany D  14:49   0  0    0   3   3   0   0   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       24  16   6   4  14 24/56
+                                        42.9%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  58:20   4  30/34  26/30   4/4   0/0     0
+              .882   .867 1.000 
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  09:25   1  0    1   3   0   0   0   0   0/0Teddy Blueger C  12:26   0  1    0   0   0   0   0   1   7/9Brock Boeser R  19:03   0  1    0   4   0   0   0   1   0/0Jake DeBrusk L  16:30   0  0    0   2   0   0   0   1   0/0Conor Garland R  18:57   0  1   -1   3   0   0   1   0   0/0Danton Heinen L  13:41   0  0    1   0   0   0   0   1   0/0Nils Hoglander L  15:50   0  0   -1   2   0   0   1   0   0/0J.T. Miller C  19:44   1  0    1   4   0   0   0   0 12/20Elias Pettersson C  19:11   1  0   -1   2   1   0   1   0  9/19Kiefer Sherwood L  12:48   1  0    1   2   1   0   1   0   1/1Daniel Sprong R  10:37   0  1    1   3   0   2   0   1   0/0Pius Suter C  12:46   0  0    1   1   0   0   1   0   3/7Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  14:04   0  0    2   3   0   0   0   2   0/0Vincent Desharnais D  14:16   0  1    1   1   1   0   0   0   0/0Filip Hronek D  24:00   0  0    0   0   0   0   2   4   0/0Quinn Hughes D  25:59   0  0    1   3   2   0   0   0   0/0Tyler Myers D  18:39   0  1   -1   0   0   2   0   0   0/0Carson Soucy D  18:04   0  0   -1   1   5   0   0   2   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       34  10   4   7  13 32/56
+                                        57.1%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  60:00   3  21/24  18/21   1/1   2/2     0
+              .875   .857 1.000 1.000
+Pittsburgh
+Penguins3-6-1Final3 - 4Vancouver
+Canucks4-1-2
+Pittsburgh
+Penguins3-6-1
+Final3 - 4
+Vancouver
+Canucks4-1-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+PIT   1  1  1    3  
+VAN   0  4  0    4
+1st Period: ShowHide
+P1  18:00 
+Michael Bunting (PIT) roughing against Erik Brannstrom (2 minutes)
+   0-0
+P1  12:12 
+Anthony Beauvillier (PIT) scores on tip-in past Kevin Lankinen, assisted by Marcus Pettersson and Evgeni Malkin
+   1-0
+P1  12:01 
+Tyler Myers (VAN) high-sticking against Anthony Beauvillier (2 minutes)
+   1-0
+P1  03:37 
+Michael Bunting (PIT) high-sticking against J.T. Miller (4 minutes)
+   1-0
+2nd Period: ShowHide
+P2  18:04 
+Bryan Rust (PIT) scores on wrap-around shot past Kevin Lankinen, assisted by Anthony Beauvillier and Evgeni Malkin
+   2-0
+P2  15:54 
+Elias Pettersson (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Conor Garland and Tyler Myers
+   2-1
+P2  15:11 
+Kiefer Sherwood (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Teddy Blueger and Vincent Desharnais
+   2-2
+P2  14:49 
+J.T. Miller (VAN) scores on deflection past Alex Nedeljkovic, assisted by Brock Boeser
+   2-3
+P2  10:02 
+Arshdeep Bains (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Daniel Sprong
+   2-4
+3rd Period: ShowHide
+P3  10:04 
+Daniel Sprong (VAN) holding against Ryan Graves (2 minutes)
+   2-4
+P3  06:38 
+Evgeni Malkin (PIT) scores on backhand shot past Kevin Lankinen, assisted by Rickard Rakell and Matt Grzelcyk
+   3-4
+1st Period: ShowHide
+P1  18:00 
+Michael Bunting (PIT) roughing against Erik Brannstrom (2 minutes)
+   0-0
+P1  12:12 
+Anthony Beauvillier (PIT) scores on tip-in past Kevin Lankinen, assisted by Marcus Pettersson and Evgeni Malkin
+   1-0
+P1  12:01 
+Tyler Myers (VAN) high-sticking against Anthony Beauvillier (2 minutes)
+   1-0
+P1  03:37 
+Michael Bunting (PIT) high-sticking against J.T. Miller (4 minutes)
+   1-0
+P1  18:00 
+Michael Bunting (PIT) roughing against Erik Brannstrom (2 minutes)
+   0-0
+P1  12:12 
+Anthony Beauvillier (PIT) scores on tip-in past Kevin Lankinen, assisted by Marcus Pettersson and Evgeni Malkin
+   1-0
+P1  12:01 
+Tyler Myers (VAN) high-sticking against Anthony Beauvillier (2 minutes)
+   1-0
+P1  03:37 
+Michael Bunting (PIT) high-sticking against J.T. Miller (4 minutes)
+   1-0
+P1  18:00
+Michael Bunting (PIT) roughing against Erik Brannstrom (2 minutes)
+0-0
+P1  12:12
+Anthony Beauvillier (PIT) scores on tip-in past Kevin Lankinen, assisted by Marcus Pettersson and Evgeni Malkin
+1-0
+P1  12:01
+Tyler Myers (VAN) high-sticking against Anthony Beauvillier (2 minutes)
+1-0
+P1  03:37
+Michael Bunting (PIT) high-sticking against J.T. Miller (4 minutes)
+1-0
+2nd Period: ShowHide
+P2  18:04 
+Bryan Rust (PIT) scores on wrap-around shot past Kevin Lankinen, assisted by Anthony Beauvillier and Evgeni Malkin
+   2-0
+P2  15:54 
+Elias Pettersson (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Conor Garland and Tyler Myers
+   2-1
+P2  15:11 
+Kiefer Sherwood (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Teddy Blueger and Vincent Desharnais
+   2-2
+P2  14:49 
+J.T. Miller (VAN) scores on deflection past Alex Nedeljkovic, assisted by Brock Boeser
+   2-3
+P2  10:02 
+Arshdeep Bains (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Daniel Sprong
+   2-4
+P2  18:04 
+Bryan Rust (PIT) scores on wrap-around shot past Kevin Lankinen, assisted by Anthony Beauvillier and Evgeni Malkin
+   2-0
+P2  15:54 
+Elias Pettersson (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Conor Garland and Tyler Myers
+   2-1
+P2  15:11 
+Kiefer Sherwood (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Teddy Blueger and Vincent Desharnais
+   2-2
+P2  14:49 
+J.T. Miller (VAN) scores on deflection past Alex Nedeljkovic, assisted by Brock Boeser
+   2-3
+P2  10:02 
+Arshdeep Bains (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Daniel Sprong
+   2-4
+P2  18:04
+Bryan Rust (PIT) scores on wrap-around shot past Kevin Lankinen, assisted by Anthony Beauvillier and Evgeni Malkin
+2-0
+P2  15:54
+Elias Pettersson (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Conor Garland and Tyler Myers
+2-1
+P2  15:11
+Kiefer Sherwood (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Teddy Blueger and Vincent Desharnais
+2-2
+P2  14:49
+J.T. Miller (VAN) scores on deflection past Alex Nedeljkovic, assisted by Brock Boeser
+2-3
+P2  10:02
+Arshdeep Bains (VAN) scores on snap shot past Alex Nedeljkovic, assisted by Daniel Sprong
+2-4
+3rd Period: ShowHide
+P3  10:04 
+Daniel Sprong (VAN) holding against Ryan Graves (2 minutes)
+   2-4
+P3  06:38 
+Evgeni Malkin (PIT) scores on backhand shot past Kevin Lankinen, assisted by Rickard Rakell and Matt Grzelcyk
+   3-4
+P3  10:04 
+Daniel Sprong (VAN) holding against Ryan Graves (2 minutes)
+   2-4
+P3  06:38 
+Evgeni Malkin (PIT) scores on backhand shot past Kevin Lankinen, assisted by Rickard Rakell and Matt Grzelcyk
+   3-4
+P3  10:04
+Daniel Sprong (VAN) holding against Ryan Graves (2 minutes)
+2-4
+P3  06:38
+Evgeni Malkin (PIT) scores on backhand shot past Kevin Lankinen, assisted by Rickard Rakell and Matt Grzelcyk
+3-4
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  14:43   0  0    0   0   0   0   0   1  3/10Anthony Beauvillier L  14:52   1  1    1   1   0   0   0   0   0/0Michael Bunting L  15:20   0  0   -1   3   0   6   0   0   0/0Sidney Crosby C  18:46   0  0   -1   1   2   0   0   0  7/19Lars Eller C  17:31   0  0    0   0   0   0   0   0  7/10Kevin Hayes R  11:10   0  0   -1   0   0   0   0   0   2/6Evgeni Malkin C  17:14   1  2    2   2   2   0   1   0  5/10Drew O'Connor L  16:31   0  0   -3   3   1   0   0   1   0/1Jesse Puljujarvi R  09:52   0  0    0   0   1   0   0   0   0/0Valtteri Puustinen R  08:15   0  0    0   0   1   0   0   2   0/0Rickard Rakell R  19:51   0  1   -1   2   2   0   0   3   0/0Bryan Rust R  13:18   1  0    1   2   0   0   0   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:11   0  0    0   0   3   0   1   0   0/0Matt Grzelcyk D  18:05   0  1   -2   1   0   0   0   1   0/0Erik Karlsson D  21:17   0  0   -2   3   0   0   0   4   0/0Kris Letang D  25:32   0  0    1   3   0   0   1   1   0/0Marcus Pettersson D  22:23   0  1    1   0   1   0   1   1   0/0Jack St. Ivany D  14:49   0  0    0   3   3   0   0   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       24  16   6   4  14 24/56
+                                        42.9%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  58:20   4  30/34  26/30   4/4   0/0     0
+              .882   .867 1.000 
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  09:25   1  0    1   3   0   0   0   0   0/0Teddy Blueger C  12:26   0  1    0   0   0   0   0   1   7/9Brock Boeser R  19:03   0  1    0   4   0   0   0   1   0/0Jake DeBrusk L  16:30   0  0    0   2   0   0   0   1   0/0Conor Garland R  18:57   0  1   -1   3   0   0   1   0   0/0Danton Heinen L  13:41   0  0    1   0   0   0   0   1   0/0Nils Hoglander L  15:50   0  0   -1   2   0   0   1   0   0/0J.T. Miller C  19:44   1  0    1   4   0   0   0   0 12/20Elias Pettersson C  19:11   1  0   -1   2   1   0   1   0  9/19Kiefer Sherwood L  12:48   1  0    1   2   1   0   1   0   1/1Daniel Sprong R  10:37   0  1    1   3   0   2   0   1   0/0Pius Suter C  12:46   0  0    1   1   0   0   1   0   3/7Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  14:04   0  0    2   3   0   0   0   2   0/0Vincent Desharnais D  14:16   0  1    1   1   1   0   0   0   0/0Filip Hronek D  24:00   0  0    0   0   0   0   2   4   0/0Quinn Hughes D  25:59   0  0    1   3   2   0   0   0   0/0Tyler Myers D  18:39   0  1   -1   0   0   2   0   0   0/0Carson Soucy D  18:04   0  0   -1   1   5   0   0   2   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       34  10   4   7  13 32/56
+                                        57.1%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  60:00   3  21/24  18/21   1/1   2/2     0
+              .875   .857 1.000 1.000
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  14:43   0  0    0   0   0   0   0   1  3/10Anthony Beauvillier L  14:52   1  1    1   1   0   0   0   0   0/0Michael Bunting L  15:20   0  0   -1   3   0   6   0   0   0/0Sidney Crosby C  18:46   0  0   -1   1   2   0   0   0  7/19Lars Eller C  17:31   0  0    0   0   0   0   0   0  7/10Kevin Hayes R  11:10   0  0   -1   0   0   0   0   0   2/6Evgeni Malkin C  17:14   1  2    2   2   2   0   1   0  5/10Drew O'Connor L  16:31   0  0   -3   3   1   0   0   1   0/1Jesse Puljujarvi R  09:52   0  0    0   0   1   0   0   0   0/0Valtteri Puustinen R  08:15   0  0    0   0   1   0   0   2   0/0Rickard Rakell R  19:51   0  1   -1   2   2   0   0   3   0/0Bryan Rust R  13:18   1  0    1   2   0   0   0   0   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+14:43   0  0    0   0   0   0   0   1  3/10
+Anthony Beauvillier L
+14:52   1  1    1   1   0   0   0   0   0/0
+Michael Bunting L
+15:20   0  0   -1   3   0   6   0   0   0/0
+Sidney Crosby C
+18:46   0  0   -1   1   2   0   0   0  7/19
+Lars Eller C
+17:31   0  0    0   0   0   0   0   0  7/10
+Kevin Hayes R
+11:10   0  0   -1   0   0   0   0   0   2/6
+Evgeni Malkin C
+17:14   1  2    2   2   2   0   1   0  5/10
+Drew O'Connor L
+16:31   0  0   -3   3   1   0   0   1   0/1
+Jesse Puljujarvi R
+09:52   0  0    0   0   1   0   0   0   0/0
+Valtteri Puustinen R
+08:15   0  0    0   0   1   0   0   2   0/0
+Rickard Rakell R
+19:51   0  1   -1   2   2   0   0   3   0/0
+Bryan Rust R
+13:18   1  0    1   2   0   0   0   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:11   0  0    0   0   3   0   1   0   0/0Matt Grzelcyk D  18:05   0  1   -2   1   0   0   0   1   0/0Erik Karlsson D  21:17   0  0   -2   3   0   0   0   4   0/0Kris Letang D  25:32   0  0    1   3   0   0   1   1   0/0Marcus Pettersson D  22:23   0  1    1   0   1   0   1   1   0/0Jack St. Ivany D  14:49   0  0    0   3   3   0   0   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+16:11   0  0    0   0   3   0   1   0   0/0
+Matt Grzelcyk D
+18:05   0  1   -2   1   0   0   0   1   0/0
+Erik Karlsson D
+21:17   0  0   -2   3   0   0   0   4   0/0
+Kris Letang D
+25:32   0  0    1   3   0   0   1   1   0/0
+Marcus Pettersson D
+22:23   0  1    1   0   1   0   1   1   0/0
+Jack St. Ivany D
+14:49   0  0    0   3   3   0   0   0   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       24  16   6   4  14 24/56
+                                        42.9%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  58:20   4  30/34  26/30   4/4   0/0     0
+              .882   .867 1.000
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Nedeljkovic G
+58:20   4  30/34  26/30   4/4   0/0     0
+              .882   .867 1.000
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  09:25   1  0    1   3   0   0   0   0   0/0Teddy Blueger C  12:26   0  1    0   0   0   0   0   1   7/9Brock Boeser R  19:03   0  1    0   4   0   0   0   1   0/0Jake DeBrusk L  16:30   0  0    0   2   0   0   0   1   0/0Conor Garland R  18:57   0  1   -1   3   0   0   1   0   0/0Danton Heinen L  13:41   0  0    1   0   0   0   0   1   0/0Nils Hoglander L  15:50   0  0   -1   2   0   0   1   0   0/0J.T. Miller C  19:44   1  0    1   4   0   0   0   0 12/20Elias Pettersson C  19:11   1  0   -1   2   1   0   1   0  9/19Kiefer Sherwood L  12:48   1  0    1   2   1   0   1   0   1/1Daniel Sprong R  10:37   0  1    1   3   0   2   0   1   0/0Pius Suter C  12:46   0  0    1   1   0   0   1   0   3/7
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Arshdeep Bains L
+09:25   1  0    1   3   0   0   0   0   0/0
+Teddy Blueger C
+12:26   0  1    0   0   0   0   0   1   7/9
+Brock Boeser R
+19:03   0  1    0   4   0   0   0   1   0/0
+Jake DeBrusk L
+16:30   0  0    0   2   0   0   0   1   0/0
+Conor Garland R
+18:57   0  1   -1   3   0   0   1   0   0/0
+Danton Heinen L
+13:41   0  0    1   0   0   0   0   1   0/0
+Nils Hoglander L
+15:50   0  0   -1   2   0   0   1   0   0/0
+J.T. Miller C
+19:44   1  0    1   4   0   0   0   0 12/20
+Elias Pettersson C
+19:11   1  0   -1   2   1   0   1   0  9/19
+Kiefer Sherwood L
+12:48   1  0    1   2   1   0   1   0   1/1
+Daniel Sprong R
+10:37   0  1    1   3   0   2   0   1   0/0
+Pius Suter C
+12:46   0  0    1   1   0   0   1   0   3/7
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  14:04   0  0    2   3   0   0   0   2   0/0Vincent Desharnais D  14:16   0  1    1   1   1   0   0   0   0/0Filip Hronek D  24:00   0  0    0   0   0   0   2   4   0/0Quinn Hughes D  25:59   0  0    1   3   2   0   0   0   0/0Tyler Myers D  18:39   0  1   -1   0   0   2   0   0   0/0Carson Soucy D  18:04   0  0   -1   1   5   0   0   2   0/0
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Brannstrom D
+14:04   0  0    2   3   0   0   0   2   0/0
+Vincent Desharnais D
+14:16   0  1    1   1   1   0   0   0   0/0
+Filip Hronek D
+24:00   0  0    0   0   0   0   2   4   0/0
+Quinn Hughes D
+25:59   0  0    1   3   2   0   0   0   0/0
+Tyler Myers D
+18:39   0  1   -1   0   0   2   0   0   0/0
+Carson Soucy D
+18:04   0  0   -1   1   5   0   0   2   0/0
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       34  10   4   7  13 32/56
+                                        57.1%
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  60:00   3  21/24  18/21   1/1   2/2     0
+              .875   .857 1.000 1.000
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Kevin Lankinen G
+60:00   3  21/24  18/21   1/1   2/2     0
+              .875   .857 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

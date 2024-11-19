@@ -1,0 +1,397 @@
+< Oct. 28 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Chicago
+Blackhawks3-6-1Final5 - 2Colorado
+Avalanche5-5-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CHI   3  0  2    5  
+COL   2  0  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:29 
+Calvin de Haan (COL) delaying game - puck over glass (2 minutes)
+   0-0
+P1  13:01 
+Samuel Girard (COL) holding against Ryan Donato (2 minutes)
+   0-0
+P1  11:13 
+Philipp Kurashev (CHI) scores power-play goal on slap shot past Alexandar Georgiev, assisted by Alex Vlasic
+   1-0
+P1  09:44 
+Casey Mittelstadt (COL) scores on wrist shot past Petr Mrazek, assisted by Logan O'Connor and Sam Malinski
+   1-1
+P1  08:56 
+Lukas Reichel (CHI) scores on deflection past Alexandar Georgiev, assisted by Craig Smith
+   2-1
+P1  03:04 
+Ryan Donato (CHI) scores on backhand shot past Alexandar Georgiev, assisted by Jason Dickinson and Connor Murphy
+   3-1
+P1  02:14 
+Tyler Bertuzzi (CHI) goalkeeper interference against Alexandar Georgiev (2 minutes)
+   3-1
+P1  01:14 
+Wyatt Kaiser (CHI) high-sticking against Nathan MacKinnon (2 minutes)
+   3-1
+P1  00:43 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Petr Mrazek, assisted by Cale Makar and Alexandar Georgiev
+   3-2
+2nd Period: ShowHide
+P2  07:00 
+Wyatt Kaiser (CHI) holding against Joel Kiviranta (2 minutes)
+   3-2
+P2  02:57 
+Connor Murphy (CHI) interference against Mikko Rantanen (2 minutes)
+   3-2
+3rd Period: ShowHide
+P3  04:06 
+Miles Wood (COL) goalkeeper interference against Petr Mrazek (2 minutes)
+   3-2
+P3  00:58 
+Ryan Donato (CHI) scores on empty net
+   4-2
+P3  00:19 
+Ilya Mikheyev (CHI) scores on empty net, assisted by Ryan Donato and Jason Dickinson
+   5-2
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  17:16   0  0    0   2   0   0   0   0   0/8Tyler Bertuzzi L  13:46   0  0   -1   2   1   2   1   0   0/0Jason Dickinson C  17:32   0  2    3   1   0   0   0   0 10/22Ryan Donato C  11:59   2  1    3   4   1   0   0   0   0/0Nick Foligno L  14:47   0  0   -1   0   1   0   0   1  9/13Taylor Hall L  14:11   0  0   -1   2   1   0   1   0   1/1Philipp Kurashev C  18:01   1  0    0   4   2   0   0   0   0/2Patrick Maroon L  11:04   0  0    1   3   0   0   1   0   2/2Ilya Mikheyev R  16:42   1  0    3   1   0   0   0   1   0/0Lukas Reichel L  11:44   1  0    1   1   1   0   0   0   2/6Craig Smith C  13:34   0  1    1   2   1   0   0   1   0/2Teuvo Teravainen C  16:36   0  0    0   0   1   0   0   3   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:22   0  0    0   0   2   0   0   1   0/0TJ Brodie D  14:28   0  0   -1   0   1   0   0   0   0/0Seth Jones D  25:39   0  0    2   0   2   0   1   0   0/0Wyatt Kaiser D  15:28   0  0    0   1   0   4   1   2   0/0Connor Murphy D  22:00   0  1    2   1   1   2   1   1   0/0Alex Vlasic D  24:20   0  1    3   2   4   0   1   0   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       26  19   8   7  10 24/56
+                                        42.9%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  60:00   2  24/26  15/16   8/9   1/1     0
+              .923   .938  .889 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  15:00   0  0   -1   3   1   0   0   0   0/0Ivan Ivan C  11:14   0  0   -2   1   0   0   0   0   2/4Parker Kelly C  12:00   0  0    0   1   1   0   0   0   7/9Joel Kiviranta L  14:47   0  0    0   1   1   0   1   0   1/1Nikolai Kovalenko R  17:10   0  0   -1   1   1   0   0   2   0/0Nathan MacKinnon C  24:57   1  0   -4   1   1   0   0   4  7/15Casey Mittelstadt C  21:55   1  0   -1   5   0   0   0   0  6/12Logan O'Connor R  16:12   0  1    1   1   3   0   0   0   0/0Mikko Rantanen R  25:13   0  0   -4   0   3   0   1   0   6/9Matt Stienburg C  03:14   0  0    0   0   0   0   0   1   0/0Chris Wagner R  05:11   0  0   -1   0   0   0   0   0   3/6Miles Wood L  14:38   0  0    0   2   3   2   1   1   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  20:19   0  0   -1   1   0   2   0   3   0/0Cale Makar D  26:17   0  1   -4   4   0   0   1   1   0/0Sam Malinski D  13:58   0  1    1   2   1   0   1   1   0/0Josh Manson D  15:24   0  0    0   0   0   0   2   2   0/0Devon Toews D  22:10   0  0   -1   1   1   0   1   1   0/0Calvin de Haan D  16:26   0  0    1   2   1   2   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       26  17   6   8  17 32/56
+                                        57.1%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  58:07   3  21/24  18/20   2/3   1/1     0
+              .875   .900  .667 1.000
+Chicago
+Blackhawks3-6-1Final5 - 2Colorado
+Avalanche5-5-0
+Chicago
+Blackhawks3-6-1
+Final5 - 2
+Colorado
+Avalanche5-5-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CHI   3  0  2    5  
+COL   2  0  0    2
+1st Period: ShowHide
+P1  19:29 
+Calvin de Haan (COL) delaying game - puck over glass (2 minutes)
+   0-0
+P1  13:01 
+Samuel Girard (COL) holding against Ryan Donato (2 minutes)
+   0-0
+P1  11:13 
+Philipp Kurashev (CHI) scores power-play goal on slap shot past Alexandar Georgiev, assisted by Alex Vlasic
+   1-0
+P1  09:44 
+Casey Mittelstadt (COL) scores on wrist shot past Petr Mrazek, assisted by Logan O'Connor and Sam Malinski
+   1-1
+P1  08:56 
+Lukas Reichel (CHI) scores on deflection past Alexandar Georgiev, assisted by Craig Smith
+   2-1
+P1  03:04 
+Ryan Donato (CHI) scores on backhand shot past Alexandar Georgiev, assisted by Jason Dickinson and Connor Murphy
+   3-1
+P1  02:14 
+Tyler Bertuzzi (CHI) goalkeeper interference against Alexandar Georgiev (2 minutes)
+   3-1
+P1  01:14 
+Wyatt Kaiser (CHI) high-sticking against Nathan MacKinnon (2 minutes)
+   3-1
+P1  00:43 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Petr Mrazek, assisted by Cale Makar and Alexandar Georgiev
+   3-2
+2nd Period: ShowHide
+P2  07:00 
+Wyatt Kaiser (CHI) holding against Joel Kiviranta (2 minutes)
+   3-2
+P2  02:57 
+Connor Murphy (CHI) interference against Mikko Rantanen (2 minutes)
+   3-2
+3rd Period: ShowHide
+P3  04:06 
+Miles Wood (COL) goalkeeper interference against Petr Mrazek (2 minutes)
+   3-2
+P3  00:58 
+Ryan Donato (CHI) scores on empty net
+   4-2
+P3  00:19 
+Ilya Mikheyev (CHI) scores on empty net, assisted by Ryan Donato and Jason Dickinson
+   5-2
+1st Period: ShowHide
+P1  19:29 
+Calvin de Haan (COL) delaying game - puck over glass (2 minutes)
+   0-0
+P1  13:01 
+Samuel Girard (COL) holding against Ryan Donato (2 minutes)
+   0-0
+P1  11:13 
+Philipp Kurashev (CHI) scores power-play goal on slap shot past Alexandar Georgiev, assisted by Alex Vlasic
+   1-0
+P1  09:44 
+Casey Mittelstadt (COL) scores on wrist shot past Petr Mrazek, assisted by Logan O'Connor and Sam Malinski
+   1-1
+P1  08:56 
+Lukas Reichel (CHI) scores on deflection past Alexandar Georgiev, assisted by Craig Smith
+   2-1
+P1  03:04 
+Ryan Donato (CHI) scores on backhand shot past Alexandar Georgiev, assisted by Jason Dickinson and Connor Murphy
+   3-1
+P1  02:14 
+Tyler Bertuzzi (CHI) goalkeeper interference against Alexandar Georgiev (2 minutes)
+   3-1
+P1  01:14 
+Wyatt Kaiser (CHI) high-sticking against Nathan MacKinnon (2 minutes)
+   3-1
+P1  00:43 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Petr Mrazek, assisted by Cale Makar and Alexandar Georgiev
+   3-2
+P1  19:29 
+Calvin de Haan (COL) delaying game - puck over glass (2 minutes)
+   0-0
+P1  13:01 
+Samuel Girard (COL) holding against Ryan Donato (2 minutes)
+   0-0
+P1  11:13 
+Philipp Kurashev (CHI) scores power-play goal on slap shot past Alexandar Georgiev, assisted by Alex Vlasic
+   1-0
+P1  09:44 
+Casey Mittelstadt (COL) scores on wrist shot past Petr Mrazek, assisted by Logan O'Connor and Sam Malinski
+   1-1
+P1  08:56 
+Lukas Reichel (CHI) scores on deflection past Alexandar Georgiev, assisted by Craig Smith
+   2-1
+P1  03:04 
+Ryan Donato (CHI) scores on backhand shot past Alexandar Georgiev, assisted by Jason Dickinson and Connor Murphy
+   3-1
+P1  02:14 
+Tyler Bertuzzi (CHI) goalkeeper interference against Alexandar Georgiev (2 minutes)
+   3-1
+P1  01:14 
+Wyatt Kaiser (CHI) high-sticking against Nathan MacKinnon (2 minutes)
+   3-1
+P1  00:43 
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Petr Mrazek, assisted by Cale Makar and Alexandar Georgiev
+   3-2
+P1  19:29
+Calvin de Haan (COL) delaying game - puck over glass (2 minutes)
+0-0
+P1  13:01
+Samuel Girard (COL) holding against Ryan Donato (2 minutes)
+0-0
+P1  11:13
+Philipp Kurashev (CHI) scores power-play goal on slap shot past Alexandar Georgiev, assisted by Alex Vlasic
+1-0
+P1  09:44
+Casey Mittelstadt (COL) scores on wrist shot past Petr Mrazek, assisted by Logan O'Connor and Sam Malinski
+1-1
+P1  08:56
+Lukas Reichel (CHI) scores on deflection past Alexandar Georgiev, assisted by Craig Smith
+2-1
+P1  03:04
+Ryan Donato (CHI) scores on backhand shot past Alexandar Georgiev, assisted by Jason Dickinson and Connor Murphy
+3-1
+P1  02:14
+Tyler Bertuzzi (CHI) goalkeeper interference against Alexandar Georgiev (2 minutes)
+3-1
+P1  01:14
+Wyatt Kaiser (CHI) high-sticking against Nathan MacKinnon (2 minutes)
+3-1
+P1  00:43
+Nathan MacKinnon (COL) scores power-play goal on wrist shot past Petr Mrazek, assisted by Cale Makar and Alexandar Georgiev
+3-2
+2nd Period: ShowHide
+P2  07:00 
+Wyatt Kaiser (CHI) holding against Joel Kiviranta (2 minutes)
+   3-2
+P2  02:57 
+Connor Murphy (CHI) interference against Mikko Rantanen (2 minutes)
+   3-2
+P2  07:00 
+Wyatt Kaiser (CHI) holding against Joel Kiviranta (2 minutes)
+   3-2
+P2  02:57 
+Connor Murphy (CHI) interference against Mikko Rantanen (2 minutes)
+   3-2
+P2  07:00
+Wyatt Kaiser (CHI) holding against Joel Kiviranta (2 minutes)
+3-2
+P2  02:57
+Connor Murphy (CHI) interference against Mikko Rantanen (2 minutes)
+3-2
+3rd Period: ShowHide
+P3  04:06 
+Miles Wood (COL) goalkeeper interference against Petr Mrazek (2 minutes)
+   3-2
+P3  00:58 
+Ryan Donato (CHI) scores on empty net
+   4-2
+P3  00:19 
+Ilya Mikheyev (CHI) scores on empty net, assisted by Ryan Donato and Jason Dickinson
+   5-2
+P3  04:06 
+Miles Wood (COL) goalkeeper interference against Petr Mrazek (2 minutes)
+   3-2
+P3  00:58 
+Ryan Donato (CHI) scores on empty net
+   4-2
+P3  00:19 
+Ilya Mikheyev (CHI) scores on empty net, assisted by Ryan Donato and Jason Dickinson
+   5-2
+P3  04:06
+Miles Wood (COL) goalkeeper interference against Petr Mrazek (2 minutes)
+3-2
+P3  00:58
+Ryan Donato (CHI) scores on empty net
+4-2
+P3  00:19
+Ilya Mikheyev (CHI) scores on empty net, assisted by Ryan Donato and Jason Dickinson
+5-2
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  17:16   0  0    0   2   0   0   0   0   0/8Tyler Bertuzzi L  13:46   0  0   -1   2   1   2   1   0   0/0Jason Dickinson C  17:32   0  2    3   1   0   0   0   0 10/22Ryan Donato C  11:59   2  1    3   4   1   0   0   0   0/0Nick Foligno L  14:47   0  0   -1   0   1   0   0   1  9/13Taylor Hall L  14:11   0  0   -1   2   1   0   1   0   1/1Philipp Kurashev C  18:01   1  0    0   4   2   0   0   0   0/2Patrick Maroon L  11:04   0  0    1   3   0   0   1   0   2/2Ilya Mikheyev R  16:42   1  0    3   1   0   0   0   1   0/0Lukas Reichel L  11:44   1  0    1   1   1   0   0   0   2/6Craig Smith C  13:34   0  1    1   2   1   0   0   1   0/2Teuvo Teravainen C  16:36   0  0    0   0   1   0   0   3   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:22   0  0    0   0   2   0   0   1   0/0TJ Brodie D  14:28   0  0   -1   0   1   0   0   0   0/0Seth Jones D  25:39   0  0    2   0   2   0   1   0   0/0Wyatt Kaiser D  15:28   0  0    0   1   0   4   1   2   0/0Connor Murphy D  22:00   0  1    2   1   1   2   1   1   0/0Alex Vlasic D  24:20   0  1    3   2   4   0   1   0   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       26  19   8   7  10 24/56
+                                        42.9%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  60:00   2  24/26  15/16   8/9   1/1     0
+              .923   .938  .889 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  15:00   0  0   -1   3   1   0   0   0   0/0Ivan Ivan C  11:14   0  0   -2   1   0   0   0   0   2/4Parker Kelly C  12:00   0  0    0   1   1   0   0   0   7/9Joel Kiviranta L  14:47   0  0    0   1   1   0   1   0   1/1Nikolai Kovalenko R  17:10   0  0   -1   1   1   0   0   2   0/0Nathan MacKinnon C  24:57   1  0   -4   1   1   0   0   4  7/15Casey Mittelstadt C  21:55   1  0   -1   5   0   0   0   0  6/12Logan O'Connor R  16:12   0  1    1   1   3   0   0   0   0/0Mikko Rantanen R  25:13   0  0   -4   0   3   0   1   0   6/9Matt Stienburg C  03:14   0  0    0   0   0   0   0   1   0/0Chris Wagner R  05:11   0  0   -1   0   0   0   0   0   3/6Miles Wood L  14:38   0  0    0   2   3   2   1   1   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  20:19   0  0   -1   1   0   2   0   3   0/0Cale Makar D  26:17   0  1   -4   4   0   0   1   1   0/0Sam Malinski D  13:58   0  1    1   2   1   0   1   1   0/0Josh Manson D  15:24   0  0    0   0   0   0   2   2   0/0Devon Toews D  22:10   0  0   -1   1   1   0   1   1   0/0Calvin de Haan D  16:26   0  0    1   2   1   2   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       26  17   6   8  17 32/56
+                                        57.1%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  58:07   3  21/24  18/20   2/3   1/1     0
+              .875   .900  .667 1.000
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  17:16   0  0    0   2   0   0   0   0   0/8Tyler Bertuzzi L  13:46   0  0   -1   2   1   2   1   0   0/0Jason Dickinson C  17:32   0  2    3   1   0   0   0   0 10/22Ryan Donato C  11:59   2  1    3   4   1   0   0   0   0/0Nick Foligno L  14:47   0  0   -1   0   1   0   0   1  9/13Taylor Hall L  14:11   0  0   -1   2   1   0   1   0   1/1Philipp Kurashev C  18:01   1  0    0   4   2   0   0   0   0/2Patrick Maroon L  11:04   0  0    1   3   0   0   1   0   2/2Ilya Mikheyev R  16:42   1  0    3   1   0   0   0   1   0/0Lukas Reichel L  11:44   1  0    1   1   1   0   0   0   2/6Craig Smith C  13:34   0  1    1   2   1   0   0   1   0/2Teuvo Teravainen C  16:36   0  0    0   0   1   0   0   3   0/0
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Connor Bedard C
+17:16   0  0    0   2   0   0   0   0   0/8
+Tyler Bertuzzi L
+13:46   0  0   -1   2   1   2   1   0   0/0
+Jason Dickinson C
+17:32   0  2    3   1   0   0   0   0 10/22
+Ryan Donato C
+11:59   2  1    3   4   1   0   0   0   0/0
+Nick Foligno L
+14:47   0  0   -1   0   1   0   0   1  9/13
+Taylor Hall L
+14:11   0  0   -1   2   1   0   1   0   1/1
+Philipp Kurashev C
+18:01   1  0    0   4   2   0   0   0   0/2
+Patrick Maroon L
+11:04   0  0    1   3   0   0   1   0   2/2
+Ilya Mikheyev R
+16:42   1  0    3   1   0   0   0   1   0/0
+Lukas Reichel L
+11:44   1  0    1   1   1   0   0   0   2/6
+Craig Smith C
+13:34   0  1    1   2   1   0   0   1   0/2
+Teuvo Teravainen C
+16:36   0  0    0   0   1   0   0   3   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:22   0  0    0   0   2   0   0   1   0/0TJ Brodie D  14:28   0  0   -1   0   1   0   0   0   0/0Seth Jones D  25:39   0  0    2   0   2   0   1   0   0/0Wyatt Kaiser D  15:28   0  0    0   1   0   4   1   2   0/0Connor Murphy D  22:00   0  1    2   1   1   2   1   1   0/0Alex Vlasic D  24:20   0  1    3   2   4   0   1   0   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nolan Allan D
+13:22   0  0    0   0   2   0   0   1   0/0
+TJ Brodie D
+14:28   0  0   -1   0   1   0   0   0   0/0
+Seth Jones D
+25:39   0  0    2   0   2   0   1   0   0/0
+Wyatt Kaiser D
+15:28   0  0    0   1   0   4   1   2   0/0
+Connor Murphy D
+22:00   0  1    2   1   1   2   1   1   0/0
+Alex Vlasic D
+24:20   0  1    3   2   4   0   1   0   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       26  19   8   7  10 24/56
+                                        42.9%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  60:00   2  24/26  15/16   8/9   1/1     0
+              .923   .938  .889 1.000
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Petr Mrazek G
+60:00   2  24/26  15/16   8/9   1/1     0
+              .923   .938  .889 1.000
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  15:00   0  0   -1   3   1   0   0   0   0/0Ivan Ivan C  11:14   0  0   -2   1   0   0   0   0   2/4Parker Kelly C  12:00   0  0    0   1   1   0   0   0   7/9Joel Kiviranta L  14:47   0  0    0   1   1   0   1   0   1/1Nikolai Kovalenko R  17:10   0  0   -1   1   1   0   0   2   0/0Nathan MacKinnon C  24:57   1  0   -4   1   1   0   0   4  7/15Casey Mittelstadt C  21:55   1  0   -1   5   0   0   0   0  6/12Logan O'Connor R  16:12   0  1    1   1   3   0   0   0   0/0Mikko Rantanen R  25:13   0  0   -4   0   3   0   1   0   6/9Matt Stienburg C  03:14   0  0    0   0   0   0   0   1   0/0Chris Wagner R  05:11   0  0   -1   0   0   0   0   0   3/6Miles Wood L  14:38   0  0    0   2   3   2   1   1   0/0
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+15:00   0  0   -1   3   1   0   0   0   0/0
+Ivan Ivan C
+11:14   0  0   -2   1   0   0   0   0   2/4
+Parker Kelly C
+12:00   0  0    0   1   1   0   0   0   7/9
+Joel Kiviranta L
+14:47   0  0    0   1   1   0   1   0   1/1
+Nikolai Kovalenko R
+17:10   0  0   -1   1   1   0   0   2   0/0
+Nathan MacKinnon C
+24:57   1  0   -4   1   1   0   0   4  7/15
+Casey Mittelstadt C
+21:55   1  0   -1   5   0   0   0   0  6/12
+Logan O'Connor R
+16:12   0  1    1   1   3   0   0   0   0/0
+Mikko Rantanen R
+25:13   0  0   -4   0   3   0   1   0   6/9
+Matt Stienburg C
+03:14   0  0    0   0   0   0   0   1   0/0
+Chris Wagner R
+05:11   0  0   -1   0   0   0   0   0   3/6
+Miles Wood L
+14:38   0  0    0   2   3   2   1   1   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  20:19   0  0   -1   1   0   2   0   3   0/0Cale Makar D  26:17   0  1   -4   4   0   0   1   1   0/0Sam Malinski D  13:58   0  1    1   2   1   0   1   1   0/0Josh Manson D  15:24   0  0    0   0   0   0   2   2   0/0Devon Toews D  22:10   0  0   -1   1   1   0   1   1   0/0Calvin de Haan D  16:26   0  0    1   2   1   2   0   1   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+20:19   0  0   -1   1   0   2   0   3   0/0
+Cale Makar D
+26:17   0  1   -4   4   0   0   1   1   0/0
+Sam Malinski D
+13:58   0  1    1   2   1   0   1   1   0/0
+Josh Manson D
+15:24   0  0    0   0   0   0   2   2   0/0
+Devon Toews D
+22:10   0  0   -1   1   1   0   1   1   0/0
+Calvin de Haan D
+16:26   0  0    1   2   1   2   0   1   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       26  17   6   8  17 32/56
+                                        57.1%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  58:07   3  21/24  18/20   2/3   1/1     0
+              .875   .900  .667 1.000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alexandar Georgiev G
+58:07   3  21/24  18/20   2/3   1/1     0
+              .875   .900  .667 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

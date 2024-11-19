@@ -1,0 +1,412 @@
+< Oct. 30 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Calgary
+Flames5-4-1Final1 - 5Utah
+Hockey Club5-4-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CGY   0  1  0    1  
+UTA   2  2  1    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:19 
+Alexander Kerfoot (UTA) scores on snap shot past Dustin Wolf, assisted by Michael Kesselring and Mikhail Sergachev
+   0-1
+P1  13:23 
+Michael Kesselring (UTA) holding against Andrei Kuzmenko (2 minutes)
+   0-1
+P1  03:59 
+Dylan Guenther (UTA) slashing against Kevin Bahl (2 minutes)
+   0-1
+P1  01:01 
+Martin Pospisil (CGY) roughing against Mikhail Sergachev (2 minutes)
+   0-1
+P1  01:01 
+Mikhail Sergachev (UTA) roughing against Martin Pospisil (2 minutes)
+   0-1
+P1  00:02 
+Barrett Hayton (UTA) scores on snap shot past Dustin Wolf, assisted by Nick Schmaltz and Ian Cole
+   0-2
+2nd Period: ShowHide
+P2  16:07 
+Anthony Mantha (CGY) scores on snap shot past Connor Ingram, assisted by Justin Kirkland and MacKenzie Weegar
+   1-2
+P2  15:50 
+Maveric Lamoureux (UTA) scores on slap shot past Dustin Wolf, assisted by Kevin Stenlund and Jack McBain
+   1-3
+P2  05:23 
+Anthony Mantha (CGY) roughing against Ian Cole (2 minutes)
+   1-3
+P2  04:43 
+Blake Coleman (CGY) boarding against Clayton Keller (2 minutes)
+   1-3
+P2  03:28 
+Mikhail Sergachev (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Nick Schmaltz
+   1-4
+3rd Period: ShowHide
+P3  19:39 
+Dylan Guenther (UTA) holding against Andrei Kuzmenko (2 minutes)
+   1-4
+P3  15:07 
+Nazem Kadri (CGY) cross-checking against Juuso Valimaki (2 minutes)
+   1-4
+P3  14:47 
+Clayton Keller (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Mikhail Sergachev
+   1-5
+P3  13:21 
+MacKenzie Weegar (CGY) tripping against Lawson Crouse (2 minutes)
+   1-5
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  16:20   0  0   -1   2   0   0   0   2 10/17Blake Coleman C  13:45   0  0   -1   0   2   2   0   0   0/0Samuel Honzek L  10:52   0  0   -1   0   1   0   1   1   0/0Jonathan Huberdeau C  16:42   0  0    0   3   2   0   0   0   0/3Nazem Kadri C  17:22   0  0   -1   4   1   2   0   2  5/16Justin Kirkland C  11:53   0  1    1   0   2   0   0   0  6/14Andrei Kuzmenko L  14:50   0  0   -1   2   0   0   0   1   0/0Ryan Lomberg L  11:43   0  0    0   1   2   0   0   2   0/0Anthony Mantha R  15:28   1  0    1   1   2   2   0   0   0/1Martin Pospisil C  12:03   0  0    0   4   0   2   1   0   0/0Yegor Sharangovich C  17:33   0  0   -1   2   0   0   0   1  6/14Connor Zary C  17:47   0  0   -1   2   0   0   0   1   0/1Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:39   0  0   -1   2   1   0   0   1   0/0Kevin Bahl D  20:22   0  0    0   3   1   0   0   3   0/0Tyson Barrie D  14:33   0  0   -1   1   1   0   0   0   0/0Jake Bean D  14:06   0  0   -2   1   1   0   0   1   0/0Brayden Pachal D  20:26   0  0    0   2   4   0   0   2   0/0MacKenzie Weegar D  22:21   0  1    0   1   2   2   2   3   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  22  10   4  20 27/66
+                                        40.9%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  60:00   5  23/28  16/19   7/9   0/0     0
+              .821   .842  .778 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  14:49   0  0    1   3   2   0   0   0  7/14Logan Cooley C  15:44   0  0    0   2   0   0   0   2  6/15Lawson Crouse L  15:31   0  0    0   0   2   0   1   2   0/0Dylan Guenther R  13:35   0  2    0   2   1   4   0   1   0/0Barrett Hayton C  16:45   1  0    1   5   2   0   0   2  8/10Clayton Keller R  19:33   1  0    1   2   0   0   2   0   0/3Alexander Kerfoot C  16:19   1  0    1   2   0   0   0   0   2/2Matias Maccelli L  16:40   0  0    0   3   0   0   0   0   0/0Jack McBain C  14:42   0  1    0   1   1   0   0   1   3/4Nick Schmaltz C  18:51   0  2    1   3   0   0   2   2   1/3Kevin Stenlund C  13:59   0  1    0   1   1   0   1   0 12/15Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:55   0  1    0   0   1   0   0   3   0/0Michael Kesselring D  13:33   0  1    1   1   1   2   0   2   0/0Vladislav Kolyachonok D  12:27   0  0   -1   0   1   0   2   0   0/0Maveric Lamoureux D  16:08   1  0    2   1   0   0   0   0   0/0Olli Maatta D  20:06   0  0    1   0   0   0   0   1   0/0Mikhail Sergachev D  22:46   1  2    1   1   1   2   1   1   0/0Juuso Valimaki D  11:37   0  0    0   1   0   0   0   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       28  13   8   9  17 39/66
+                                        59.1%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  60:00   1  30/31  24/25   6/6   0/0     0
+              .968   .960 1.000
+Calgary
+Flames5-4-1Final1 - 5Utah
+Hockey Club5-4-2
+Calgary
+Flames5-4-1
+Final1 - 5
+Utah
+Hockey Club5-4-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CGY   0  1  0    1  
+UTA   2  2  1    5
+1st Period: ShowHide
+P1  15:19 
+Alexander Kerfoot (UTA) scores on snap shot past Dustin Wolf, assisted by Michael Kesselring and Mikhail Sergachev
+   0-1
+P1  13:23 
+Michael Kesselring (UTA) holding against Andrei Kuzmenko (2 minutes)
+   0-1
+P1  03:59 
+Dylan Guenther (UTA) slashing against Kevin Bahl (2 minutes)
+   0-1
+P1  01:01 
+Martin Pospisil (CGY) roughing against Mikhail Sergachev (2 minutes)
+   0-1
+P1  01:01 
+Mikhail Sergachev (UTA) roughing against Martin Pospisil (2 minutes)
+   0-1
+P1  00:02 
+Barrett Hayton (UTA) scores on snap shot past Dustin Wolf, assisted by Nick Schmaltz and Ian Cole
+   0-2
+2nd Period: ShowHide
+P2  16:07 
+Anthony Mantha (CGY) scores on snap shot past Connor Ingram, assisted by Justin Kirkland and MacKenzie Weegar
+   1-2
+P2  15:50 
+Maveric Lamoureux (UTA) scores on slap shot past Dustin Wolf, assisted by Kevin Stenlund and Jack McBain
+   1-3
+P2  05:23 
+Anthony Mantha (CGY) roughing against Ian Cole (2 minutes)
+   1-3
+P2  04:43 
+Blake Coleman (CGY) boarding against Clayton Keller (2 minutes)
+   1-3
+P2  03:28 
+Mikhail Sergachev (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Nick Schmaltz
+   1-4
+3rd Period: ShowHide
+P3  19:39 
+Dylan Guenther (UTA) holding against Andrei Kuzmenko (2 minutes)
+   1-4
+P3  15:07 
+Nazem Kadri (CGY) cross-checking against Juuso Valimaki (2 minutes)
+   1-4
+P3  14:47 
+Clayton Keller (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Mikhail Sergachev
+   1-5
+P3  13:21 
+MacKenzie Weegar (CGY) tripping against Lawson Crouse (2 minutes)
+   1-5
+1st Period: ShowHide
+P1  15:19 
+Alexander Kerfoot (UTA) scores on snap shot past Dustin Wolf, assisted by Michael Kesselring and Mikhail Sergachev
+   0-1
+P1  13:23 
+Michael Kesselring (UTA) holding against Andrei Kuzmenko (2 minutes)
+   0-1
+P1  03:59 
+Dylan Guenther (UTA) slashing against Kevin Bahl (2 minutes)
+   0-1
+P1  01:01 
+Martin Pospisil (CGY) roughing against Mikhail Sergachev (2 minutes)
+   0-1
+P1  01:01 
+Mikhail Sergachev (UTA) roughing against Martin Pospisil (2 minutes)
+   0-1
+P1  00:02 
+Barrett Hayton (UTA) scores on snap shot past Dustin Wolf, assisted by Nick Schmaltz and Ian Cole
+   0-2
+P1  15:19 
+Alexander Kerfoot (UTA) scores on snap shot past Dustin Wolf, assisted by Michael Kesselring and Mikhail Sergachev
+   0-1
+P1  13:23 
+Michael Kesselring (UTA) holding against Andrei Kuzmenko (2 minutes)
+   0-1
+P1  03:59 
+Dylan Guenther (UTA) slashing against Kevin Bahl (2 minutes)
+   0-1
+P1  01:01 
+Martin Pospisil (CGY) roughing against Mikhail Sergachev (2 minutes)
+   0-1
+P1  01:01 
+Mikhail Sergachev (UTA) roughing against Martin Pospisil (2 minutes)
+   0-1
+P1  00:02 
+Barrett Hayton (UTA) scores on snap shot past Dustin Wolf, assisted by Nick Schmaltz and Ian Cole
+   0-2
+P1  15:19
+Alexander Kerfoot (UTA) scores on snap shot past Dustin Wolf, assisted by Michael Kesselring and Mikhail Sergachev
+0-1
+P1  13:23
+Michael Kesselring (UTA) holding against Andrei Kuzmenko (2 minutes)
+0-1
+P1  03:59
+Dylan Guenther (UTA) slashing against Kevin Bahl (2 minutes)
+0-1
+P1  01:01
+Martin Pospisil (CGY) roughing against Mikhail Sergachev (2 minutes)
+0-1
+P1  01:01
+Mikhail Sergachev (UTA) roughing against Martin Pospisil (2 minutes)
+0-1
+P1  00:02
+Barrett Hayton (UTA) scores on snap shot past Dustin Wolf, assisted by Nick Schmaltz and Ian Cole
+0-2
+2nd Period: ShowHide
+P2  16:07 
+Anthony Mantha (CGY) scores on snap shot past Connor Ingram, assisted by Justin Kirkland and MacKenzie Weegar
+   1-2
+P2  15:50 
+Maveric Lamoureux (UTA) scores on slap shot past Dustin Wolf, assisted by Kevin Stenlund and Jack McBain
+   1-3
+P2  05:23 
+Anthony Mantha (CGY) roughing against Ian Cole (2 minutes)
+   1-3
+P2  04:43 
+Blake Coleman (CGY) boarding against Clayton Keller (2 minutes)
+   1-3
+P2  03:28 
+Mikhail Sergachev (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Nick Schmaltz
+   1-4
+P2  16:07 
+Anthony Mantha (CGY) scores on snap shot past Connor Ingram, assisted by Justin Kirkland and MacKenzie Weegar
+   1-2
+P2  15:50 
+Maveric Lamoureux (UTA) scores on slap shot past Dustin Wolf, assisted by Kevin Stenlund and Jack McBain
+   1-3
+P2  05:23 
+Anthony Mantha (CGY) roughing against Ian Cole (2 minutes)
+   1-3
+P2  04:43 
+Blake Coleman (CGY) boarding against Clayton Keller (2 minutes)
+   1-3
+P2  03:28 
+Mikhail Sergachev (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Nick Schmaltz
+   1-4
+P2  16:07
+Anthony Mantha (CGY) scores on snap shot past Connor Ingram, assisted by Justin Kirkland and MacKenzie Weegar
+1-2
+P2  15:50
+Maveric Lamoureux (UTA) scores on slap shot past Dustin Wolf, assisted by Kevin Stenlund and Jack McBain
+1-3
+P2  05:23
+Anthony Mantha (CGY) roughing against Ian Cole (2 minutes)
+1-3
+P2  04:43
+Blake Coleman (CGY) boarding against Clayton Keller (2 minutes)
+1-3
+P2  03:28
+Mikhail Sergachev (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Nick Schmaltz
+1-4
+3rd Period: ShowHide
+P3  19:39 
+Dylan Guenther (UTA) holding against Andrei Kuzmenko (2 minutes)
+   1-4
+P3  15:07 
+Nazem Kadri (CGY) cross-checking against Juuso Valimaki (2 minutes)
+   1-4
+P3  14:47 
+Clayton Keller (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Mikhail Sergachev
+   1-5
+P3  13:21 
+MacKenzie Weegar (CGY) tripping against Lawson Crouse (2 minutes)
+   1-5
+P3  19:39 
+Dylan Guenther (UTA) holding against Andrei Kuzmenko (2 minutes)
+   1-4
+P3  15:07 
+Nazem Kadri (CGY) cross-checking against Juuso Valimaki (2 minutes)
+   1-4
+P3  14:47 
+Clayton Keller (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Mikhail Sergachev
+   1-5
+P3  13:21 
+MacKenzie Weegar (CGY) tripping against Lawson Crouse (2 minutes)
+   1-5
+P3  19:39
+Dylan Guenther (UTA) holding against Andrei Kuzmenko (2 minutes)
+1-4
+P3  15:07
+Nazem Kadri (CGY) cross-checking against Juuso Valimaki (2 minutes)
+1-4
+P3  14:47
+Clayton Keller (UTA) scores power-play goal on snap shot past Dustin Wolf, assisted by Dylan Guenther and Mikhail Sergachev
+1-5
+P3  13:21
+MacKenzie Weegar (CGY) tripping against Lawson Crouse (2 minutes)
+1-5
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  16:20   0  0   -1   2   0   0   0   2 10/17Blake Coleman C  13:45   0  0   -1   0   2   2   0   0   0/0Samuel Honzek L  10:52   0  0   -1   0   1   0   1   1   0/0Jonathan Huberdeau C  16:42   0  0    0   3   2   0   0   0   0/3Nazem Kadri C  17:22   0  0   -1   4   1   2   0   2  5/16Justin Kirkland C  11:53   0  1    1   0   2   0   0   0  6/14Andrei Kuzmenko L  14:50   0  0   -1   2   0   0   0   1   0/0Ryan Lomberg L  11:43   0  0    0   1   2   0   0   2   0/0Anthony Mantha R  15:28   1  0    1   1   2   2   0   0   0/1Martin Pospisil C  12:03   0  0    0   4   0   2   1   0   0/0Yegor Sharangovich C  17:33   0  0   -1   2   0   0   0   1  6/14Connor Zary C  17:47   0  0   -1   2   0   0   0   1   0/1Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:39   0  0   -1   2   1   0   0   1   0/0Kevin Bahl D  20:22   0  0    0   3   1   0   0   3   0/0Tyson Barrie D  14:33   0  0   -1   1   1   0   0   0   0/0Jake Bean D  14:06   0  0   -2   1   1   0   0   1   0/0Brayden Pachal D  20:26   0  0    0   2   4   0   0   2   0/0MacKenzie Weegar D  22:21   0  1    0   1   2   2   2   3   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  22  10   4  20 27/66
+                                        40.9%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  60:00   5  23/28  16/19   7/9   0/0     0
+              .821   .842  .778 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  14:49   0  0    1   3   2   0   0   0  7/14Logan Cooley C  15:44   0  0    0   2   0   0   0   2  6/15Lawson Crouse L  15:31   0  0    0   0   2   0   1   2   0/0Dylan Guenther R  13:35   0  2    0   2   1   4   0   1   0/0Barrett Hayton C  16:45   1  0    1   5   2   0   0   2  8/10Clayton Keller R  19:33   1  0    1   2   0   0   2   0   0/3Alexander Kerfoot C  16:19   1  0    1   2   0   0   0   0   2/2Matias Maccelli L  16:40   0  0    0   3   0   0   0   0   0/0Jack McBain C  14:42   0  1    0   1   1   0   0   1   3/4Nick Schmaltz C  18:51   0  2    1   3   0   0   2   2   1/3Kevin Stenlund C  13:59   0  1    0   1   1   0   1   0 12/15Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:55   0  1    0   0   1   0   0   3   0/0Michael Kesselring D  13:33   0  1    1   1   1   2   0   2   0/0Vladislav Kolyachonok D  12:27   0  0   -1   0   1   0   2   0   0/0Maveric Lamoureux D  16:08   1  0    2   1   0   0   0   0   0/0Olli Maatta D  20:06   0  0    1   0   0   0   0   1   0/0Mikhail Sergachev D  22:46   1  2    1   1   1   2   1   1   0/0Juuso Valimaki D  11:37   0  0    0   1   0   0   0   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       28  13   8   9  17 39/66
+                                        59.1%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  60:00   1  30/31  24/25   6/6   0/0     0
+              .968   .960 1.000
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  16:20   0  0   -1   2   0   0   0   2 10/17Blake Coleman C  13:45   0  0   -1   0   2   2   0   0   0/0Samuel Honzek L  10:52   0  0   -1   0   1   0   1   1   0/0Jonathan Huberdeau C  16:42   0  0    0   3   2   0   0   0   0/3Nazem Kadri C  17:22   0  0   -1   4   1   2   0   2  5/16Justin Kirkland C  11:53   0  1    1   0   2   0   0   0  6/14Andrei Kuzmenko L  14:50   0  0   -1   2   0   0   0   1   0/0Ryan Lomberg L  11:43   0  0    0   1   2   0   0   2   0/0Anthony Mantha R  15:28   1  0    1   1   2   2   0   0   0/1Martin Pospisil C  12:03   0  0    0   4   0   2   1   0   0/0Yegor Sharangovich C  17:33   0  0   -1   2   0   0   0   1  6/14Connor Zary C  17:47   0  0   -1   2   0   0   0   1   0/1
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+16:20   0  0   -1   2   0   0   0   2 10/17
+Blake Coleman C
+13:45   0  0   -1   0   2   2   0   0   0/0
+Samuel Honzek L
+10:52   0  0   -1   0   1   0   1   1   0/0
+Jonathan Huberdeau C
+16:42   0  0    0   3   2   0   0   0   0/3
+Nazem Kadri C
+17:22   0  0   -1   4   1   2   0   2  5/16
+Justin Kirkland C
+11:53   0  1    1   0   2   0   0   0  6/14
+Andrei Kuzmenko L
+14:50   0  0   -1   2   0   0   0   1   0/0
+Ryan Lomberg L
+11:43   0  0    0   1   2   0   0   2   0/0
+Anthony Mantha R
+15:28   1  0    1   1   2   2   0   0   0/1
+Martin Pospisil C
+12:03   0  0    0   4   0   2   1   0   0/0
+Yegor Sharangovich C
+17:33   0  0   -1   2   0   0   0   1  6/14
+Connor Zary C
+17:47   0  0   -1   2   0   0   0   1   0/1
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:39   0  0   -1   2   1   0   0   1   0/0Kevin Bahl D  20:22   0  0    0   3   1   0   0   3   0/0Tyson Barrie D  14:33   0  0   -1   1   1   0   0   0   0/0Jake Bean D  14:06   0  0   -2   1   1   0   0   1   0/0Brayden Pachal D  20:26   0  0    0   2   4   0   0   2   0/0MacKenzie Weegar D  22:21   0  1    0   1   2   2   2   3   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+23:39   0  0   -1   2   1   0   0   1   0/0
+Kevin Bahl D
+20:22   0  0    0   3   1   0   0   3   0/0
+Tyson Barrie D
+14:33   0  0   -1   1   1   0   0   0   0/0
+Jake Bean D
+14:06   0  0   -2   1   1   0   0   1   0/0
+Brayden Pachal D
+20:26   0  0    0   2   4   0   0   2   0/0
+MacKenzie Weegar D
+22:21   0  1    0   1   2   2   2   3   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  22  10   4  20 27/66
+                                        40.9%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  60:00   5  23/28  16/19   7/9   0/0     0
+              .821   .842  .778
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dustin Wolf G
+60:00   5  23/28  16/19   7/9   0/0     0
+              .821   .842  .778
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  14:49   0  0    1   3   2   0   0   0  7/14Logan Cooley C  15:44   0  0    0   2   0   0   0   2  6/15Lawson Crouse L  15:31   0  0    0   0   2   0   1   2   0/0Dylan Guenther R  13:35   0  2    0   2   1   4   0   1   0/0Barrett Hayton C  16:45   1  0    1   5   2   0   0   2  8/10Clayton Keller R  19:33   1  0    1   2   0   0   2   0   0/3Alexander Kerfoot C  16:19   1  0    1   2   0   0   0   0   2/2Matias Maccelli L  16:40   0  0    0   3   0   0   0   0   0/0Jack McBain C  14:42   0  1    0   1   1   0   0   1   3/4Nick Schmaltz C  18:51   0  2    1   3   0   0   2   2   1/3Kevin Stenlund C  13:59   0  1    0   1   1   0   1   0 12/15
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nick Bjugstad C
+14:49   0  0    1   3   2   0   0   0  7/14
+Logan Cooley C
+15:44   0  0    0   2   0   0   0   2  6/15
+Lawson Crouse L
+15:31   0  0    0   0   2   0   1   2   0/0
+Dylan Guenther R
+13:35   0  2    0   2   1   4   0   1   0/0
+Barrett Hayton C
+16:45   1  0    1   5   2   0   0   2  8/10
+Clayton Keller R
+19:33   1  0    1   2   0   0   2   0   0/3
+Alexander Kerfoot C
+16:19   1  0    1   2   0   0   0   0   2/2
+Matias Maccelli L
+16:40   0  0    0   3   0   0   0   0   0/0
+Jack McBain C
+14:42   0  1    0   1   1   0   0   1   3/4
+Nick Schmaltz C
+18:51   0  2    1   3   0   0   2   2   1/3
+Kevin Stenlund C
+13:59   0  1    0   1   1   0   1   0 12/15
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:55   0  1    0   0   1   0   0   3   0/0Michael Kesselring D  13:33   0  1    1   1   1   2   0   2   0/0Vladislav Kolyachonok D  12:27   0  0   -1   0   1   0   2   0   0/0Maveric Lamoureux D  16:08   1  0    2   1   0   0   0   0   0/0Olli Maatta D  20:06   0  0    1   0   0   0   0   1   0/0Mikhail Sergachev D  22:46   1  2    1   1   1   2   1   1   0/0Juuso Valimaki D  11:37   0  0    0   1   0   0   0   0   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ian Cole D
+18:55   0  1    0   0   1   0   0   3   0/0
+Michael Kesselring D
+13:33   0  1    1   1   1   2   0   2   0/0
+Vladislav Kolyachonok D
+12:27   0  0   -1   0   1   0   2   0   0/0
+Maveric Lamoureux D
+16:08   1  0    2   1   0   0   0   0   0/0
+Olli Maatta D
+20:06   0  0    1   0   0   0   0   1   0/0
+Mikhail Sergachev D
+22:46   1  2    1   1   1   2   1   1   0/0
+Juuso Valimaki D
+11:37   0  0    0   1   0   0   0   0   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       28  13   8   9  17 39/66
+                                        59.1%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  60:00   1  30/31  24/25   6/6   0/0     0
+              .968   .960 1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+60:00   1  30/31  24/25   6/6   0/0     0
+              .968   .960 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

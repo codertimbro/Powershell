@@ -1,0 +1,307 @@
+< Oct. 28 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Calgary
+Flames5-3-1Final0 - 5Vegas
+Golden Knights7-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CGY   0  0  0    0  
+VGK   1  1  3    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:21 
+Alex Pietrangelo (VGK) scores on wrist shot past Dan Vladar, assisted by Alexander Holtz and William Karlsson
+   0-1
+2nd Period: ShowHide
+P2  16:30 
+Mark Stone (VGK) scores on slap shot past Dan Vladar, assisted by Jack Eichel
+   0-2
+P2  13:57 
+Justin Kirkland (CGY) cross-checking against William Karlsson (2 minutes)
+   0-2
+P2  06:06 
+Kevin Bahl (CGY) illegal check to head against Cole Schwindt (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  17:41 
+Keegan Kolesar (VGK) scores on tip-in past Dan Vladar, assisted by Cole Schwindt and Nicolas Roy
+   0-3
+P3  09:39 
+Jack Eichel (VGK) tripping against Justin Kirkland (2 minutes)
+   0-3
+P3  06:01 
+Keegan Kolesar (VGK) scores on snap shot past Dan Vladar, assisted by Nicolas Roy
+   0-4
+P3  05:46 
+Nicolas Roy (VGK) scores on wrist shot past Dan Vladar, assisted by Keegan Kolesar and Cole Schwindt
+   0-5
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  16:07   0  0   -1   1   1   0   0   0  6/19Blake Coleman C  16:48   0  0   -1   2   1   0   0   4   0/0Jonathan Huberdeau C  16:47   0  0   -1   1   3   0   0   0   0/0Nazem Kadri C  17:38   0  0   -3   0   3   0   2   1 10/21Justin Kirkland C  09:25   0  0   -2   0   2   2   1   2   0/1Andrei Kuzmenko L  11:57   0  0   -1   0   0   0   1   1   0/0Ryan Lomberg L  12:04   0  0   -2   0   0   0   1   0   0/0Anthony Mantha R  14:27   0  0    0   0   0   0   1   0   0/0Martin Pospisil C  16:25   0  0   -1   2   0   0   0   2  4/10Kevin Rooney C  10:24   0  0   -1   0   1   0   0   0   3/7Yegor Sharangovich C  15:39   0  0   -1   3   2   0   1   1   3/4Connor Zary C  19:06   0  0   -1   3   0   0   1   0   1/2Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:40   0  0   -3   1   6   0   0   0   0/0Kevin Bahl D  23:03   0  0   -2   0   4   2   0   0   0/0Joel Hanley D  14:43   0  0   -2   1   2   0   0   1   0/0Daniil Miromanov D  18:35   0  0    0   0   0   0   1   1   0/0Brayden Pachal D  14:33   0  0   -2   1   2   0   0   2   0/0MacKenzie Weegar D  22:39   0  0   -1   1   0   0   2   3   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       16  27   4  11  18 27/64
+                                        42.2%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:00   5  33/38  28/33   5/5   0/0     0
+              .868   .848 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  15:36   0  0    1   1   2   0   2   0   1/2Pavel Dorofeyev L  17:00   0  0    0   3   0   0   2   1   0/0Jack Eichel C  19:42   0  1    1   4   0   2   0   2  8/15Tomas Hertl C  16:59   0  0    0   1   3   0   1   0 11/15Alexander Holtz R  13:34   0  1    1   1   1   0   0   0   0/1Brett Howden C  17:11   0  0    0   4   1   0   1   1   3/3William Karlsson C  14:21   0  1    1   3   2   0   2   1  9/14Keegan Kolesar R  10:33   2  1    3   4   0   0   0   0   0/0Tanner Pearson L  15:19   0  0    1   0   0   0   1   1   0/1Nicolas Roy C  13:52   1  2    3   4   2   0   2   0  5/13Cole Schwindt R  09:02   0  2    3   0   1   0   0   0   0/0Mark Stone R  18:07   1  0    1   3   0   0   1   0   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Hanifin D  21:18   0  0    3   2   1   0   1   2   0/0Kaedan Korczak D  15:31   0  0    1   0   3   0   1   2   0/0Brayden McNabb D  18:39   0  0    1   1   4   0   0   3   0/0Alex Pietrangelo D  19:54   1  0    3   4   1   0   1   0   0/0Shea Theodore D  22:11   0  0    1   2   1   0   0   1   0/0Zach Whitecloud D  19:11   0  0    1   1   3   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       38  25   2  15  15 37/64
+                                        57.8%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   0  16/16  13/13   3/3   0/0     0
+             1.000  1.000 1.000
+Calgary
+Flames5-3-1Final0 - 5Vegas
+Golden Knights7-2-1
+Calgary
+Flames5-3-1
+Final0 - 5
+Vegas
+Golden Knights7-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CGY   0  0  0    0  
+VGK   1  1  3    5
+1st Period: ShowHide
+P1  13:21 
+Alex Pietrangelo (VGK) scores on wrist shot past Dan Vladar, assisted by Alexander Holtz and William Karlsson
+   0-1
+2nd Period: ShowHide
+P2  16:30 
+Mark Stone (VGK) scores on slap shot past Dan Vladar, assisted by Jack Eichel
+   0-2
+P2  13:57 
+Justin Kirkland (CGY) cross-checking against William Karlsson (2 minutes)
+   0-2
+P2  06:06 
+Kevin Bahl (CGY) illegal check to head against Cole Schwindt (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  17:41 
+Keegan Kolesar (VGK) scores on tip-in past Dan Vladar, assisted by Cole Schwindt and Nicolas Roy
+   0-3
+P3  09:39 
+Jack Eichel (VGK) tripping against Justin Kirkland (2 minutes)
+   0-3
+P3  06:01 
+Keegan Kolesar (VGK) scores on snap shot past Dan Vladar, assisted by Nicolas Roy
+   0-4
+P3  05:46 
+Nicolas Roy (VGK) scores on wrist shot past Dan Vladar, assisted by Keegan Kolesar and Cole Schwindt
+   0-5
+1st Period: ShowHide
+P1  13:21 
+Alex Pietrangelo (VGK) scores on wrist shot past Dan Vladar, assisted by Alexander Holtz and William Karlsson
+   0-1
+P1  13:21 
+Alex Pietrangelo (VGK) scores on wrist shot past Dan Vladar, assisted by Alexander Holtz and William Karlsson
+   0-1
+P1  13:21
+Alex Pietrangelo (VGK) scores on wrist shot past Dan Vladar, assisted by Alexander Holtz and William Karlsson
+0-1
+2nd Period: ShowHide
+P2  16:30 
+Mark Stone (VGK) scores on slap shot past Dan Vladar, assisted by Jack Eichel
+   0-2
+P2  13:57 
+Justin Kirkland (CGY) cross-checking against William Karlsson (2 minutes)
+   0-2
+P2  06:06 
+Kevin Bahl (CGY) illegal check to head against Cole Schwindt (2 minutes)
+   0-2
+P2  16:30 
+Mark Stone (VGK) scores on slap shot past Dan Vladar, assisted by Jack Eichel
+   0-2
+P2  13:57 
+Justin Kirkland (CGY) cross-checking against William Karlsson (2 minutes)
+   0-2
+P2  06:06 
+Kevin Bahl (CGY) illegal check to head against Cole Schwindt (2 minutes)
+   0-2
+P2  16:30
+Mark Stone (VGK) scores on slap shot past Dan Vladar, assisted by Jack Eichel
+0-2
+P2  13:57
+Justin Kirkland (CGY) cross-checking against William Karlsson (2 minutes)
+0-2
+P2  06:06
+Kevin Bahl (CGY) illegal check to head against Cole Schwindt (2 minutes)
+0-2
+3rd Period: ShowHide
+P3  17:41 
+Keegan Kolesar (VGK) scores on tip-in past Dan Vladar, assisted by Cole Schwindt and Nicolas Roy
+   0-3
+P3  09:39 
+Jack Eichel (VGK) tripping against Justin Kirkland (2 minutes)
+   0-3
+P3  06:01 
+Keegan Kolesar (VGK) scores on snap shot past Dan Vladar, assisted by Nicolas Roy
+   0-4
+P3  05:46 
+Nicolas Roy (VGK) scores on wrist shot past Dan Vladar, assisted by Keegan Kolesar and Cole Schwindt
+   0-5
+P3  17:41 
+Keegan Kolesar (VGK) scores on tip-in past Dan Vladar, assisted by Cole Schwindt and Nicolas Roy
+   0-3
+P3  09:39 
+Jack Eichel (VGK) tripping against Justin Kirkland (2 minutes)
+   0-3
+P3  06:01 
+Keegan Kolesar (VGK) scores on snap shot past Dan Vladar, assisted by Nicolas Roy
+   0-4
+P3  05:46 
+Nicolas Roy (VGK) scores on wrist shot past Dan Vladar, assisted by Keegan Kolesar and Cole Schwindt
+   0-5
+P3  17:41
+Keegan Kolesar (VGK) scores on tip-in past Dan Vladar, assisted by Cole Schwindt and Nicolas Roy
+0-3
+P3  09:39
+Jack Eichel (VGK) tripping against Justin Kirkland (2 minutes)
+0-3
+P3  06:01
+Keegan Kolesar (VGK) scores on snap shot past Dan Vladar, assisted by Nicolas Roy
+0-4
+P3  05:46
+Nicolas Roy (VGK) scores on wrist shot past Dan Vladar, assisted by Keegan Kolesar and Cole Schwindt
+0-5
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  16:07   0  0   -1   1   1   0   0   0  6/19Blake Coleman C  16:48   0  0   -1   2   1   0   0   4   0/0Jonathan Huberdeau C  16:47   0  0   -1   1   3   0   0   0   0/0Nazem Kadri C  17:38   0  0   -3   0   3   0   2   1 10/21Justin Kirkland C  09:25   0  0   -2   0   2   2   1   2   0/1Andrei Kuzmenko L  11:57   0  0   -1   0   0   0   1   1   0/0Ryan Lomberg L  12:04   0  0   -2   0   0   0   1   0   0/0Anthony Mantha R  14:27   0  0    0   0   0   0   1   0   0/0Martin Pospisil C  16:25   0  0   -1   2   0   0   0   2  4/10Kevin Rooney C  10:24   0  0   -1   0   1   0   0   0   3/7Yegor Sharangovich C  15:39   0  0   -1   3   2   0   1   1   3/4Connor Zary C  19:06   0  0   -1   3   0   0   1   0   1/2Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:40   0  0   -3   1   6   0   0   0   0/0Kevin Bahl D  23:03   0  0   -2   0   4   2   0   0   0/0Joel Hanley D  14:43   0  0   -2   1   2   0   0   1   0/0Daniil Miromanov D  18:35   0  0    0   0   0   0   1   1   0/0Brayden Pachal D  14:33   0  0   -2   1   2   0   0   2   0/0MacKenzie Weegar D  22:39   0  0   -1   1   0   0   2   3   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       16  27   4  11  18 27/64
+                                        42.2%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:00   5  33/38  28/33   5/5   0/0     0
+              .868   .848 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  15:36   0  0    1   1   2   0   2   0   1/2Pavel Dorofeyev L  17:00   0  0    0   3   0   0   2   1   0/0Jack Eichel C  19:42   0  1    1   4   0   2   0   2  8/15Tomas Hertl C  16:59   0  0    0   1   3   0   1   0 11/15Alexander Holtz R  13:34   0  1    1   1   1   0   0   0   0/1Brett Howden C  17:11   0  0    0   4   1   0   1   1   3/3William Karlsson C  14:21   0  1    1   3   2   0   2   1  9/14Keegan Kolesar R  10:33   2  1    3   4   0   0   0   0   0/0Tanner Pearson L  15:19   0  0    1   0   0   0   1   1   0/1Nicolas Roy C  13:52   1  2    3   4   2   0   2   0  5/13Cole Schwindt R  09:02   0  2    3   0   1   0   0   0   0/0Mark Stone R  18:07   1  0    1   3   0   0   1   0   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Hanifin D  21:18   0  0    3   2   1   0   1   2   0/0Kaedan Korczak D  15:31   0  0    1   0   3   0   1   2   0/0Brayden McNabb D  18:39   0  0    1   1   4   0   0   3   0/0Alex Pietrangelo D  19:54   1  0    3   4   1   0   1   0   0/0Shea Theodore D  22:11   0  0    1   2   1   0   0   1   0/0Zach Whitecloud D  19:11   0  0    1   1   3   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       38  25   2  15  15 37/64
+                                        57.8%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   0  16/16  13/13   3/3   0/0     0
+             1.000  1.000 1.000
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  16:07   0  0   -1   1   1   0   0   0  6/19Blake Coleman C  16:48   0  0   -1   2   1   0   0   4   0/0Jonathan Huberdeau C  16:47   0  0   -1   1   3   0   0   0   0/0Nazem Kadri C  17:38   0  0   -3   0   3   0   2   1 10/21Justin Kirkland C  09:25   0  0   -2   0   2   2   1   2   0/1Andrei Kuzmenko L  11:57   0  0   -1   0   0   0   1   1   0/0Ryan Lomberg L  12:04   0  0   -2   0   0   0   1   0   0/0Anthony Mantha R  14:27   0  0    0   0   0   0   1   0   0/0Martin Pospisil C  16:25   0  0   -1   2   0   0   0   2  4/10Kevin Rooney C  10:24   0  0   -1   0   1   0   0   0   3/7Yegor Sharangovich C  15:39   0  0   -1   3   2   0   1   1   3/4Connor Zary C  19:06   0  0   -1   3   0   0   1   0   1/2
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+16:07   0  0   -1   1   1   0   0   0  6/19
+Blake Coleman C
+16:48   0  0   -1   2   1   0   0   4   0/0
+Jonathan Huberdeau C
+16:47   0  0   -1   1   3   0   0   0   0/0
+Nazem Kadri C
+17:38   0  0   -3   0   3   0   2   1 10/21
+Justin Kirkland C
+09:25   0  0   -2   0   2   2   1   2   0/1
+Andrei Kuzmenko L
+11:57   0  0   -1   0   0   0   1   1   0/0
+Ryan Lomberg L
+12:04   0  0   -2   0   0   0   1   0   0/0
+Anthony Mantha R
+14:27   0  0    0   0   0   0   1   0   0/0
+Martin Pospisil C
+16:25   0  0   -1   2   0   0   0   2  4/10
+Kevin Rooney C
+10:24   0  0   -1   0   1   0   0   0   3/7
+Yegor Sharangovich C
+15:39   0  0   -1   3   2   0   1   1   3/4
+Connor Zary C
+19:06   0  0   -1   3   0   0   1   0   1/2
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:40   0  0   -3   1   6   0   0   0   0/0Kevin Bahl D  23:03   0  0   -2   0   4   2   0   0   0/0Joel Hanley D  14:43   0  0   -2   1   2   0   0   1   0/0Daniil Miromanov D  18:35   0  0    0   0   0   0   1   1   0/0Brayden Pachal D  14:33   0  0   -2   1   2   0   0   2   0/0MacKenzie Weegar D  22:39   0  0   -1   1   0   0   2   3   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+25:40   0  0   -3   1   6   0   0   0   0/0
+Kevin Bahl D
+23:03   0  0   -2   0   4   2   0   0   0/0
+Joel Hanley D
+14:43   0  0   -2   1   2   0   0   1   0/0
+Daniil Miromanov D
+18:35   0  0    0   0   0   0   1   1   0/0
+Brayden Pachal D
+14:33   0  0   -2   1   2   0   0   2   0/0
+MacKenzie Weegar D
+22:39   0  0   -1   1   0   0   2   3   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       16  27   4  11  18 27/64
+                                        42.2%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:00   5  33/38  28/33   5/5   0/0     0
+              .868   .848 1.000
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dan Vladar G
+60:00   5  33/38  28/33   5/5   0/0     0
+              .868   .848 1.000
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  15:36   0  0    1   1   2   0   2   0   1/2Pavel Dorofeyev L  17:00   0  0    0   3   0   0   2   1   0/0Jack Eichel C  19:42   0  1    1   4   0   2   0   2  8/15Tomas Hertl C  16:59   0  0    0   1   3   0   1   0 11/15Alexander Holtz R  13:34   0  1    1   1   1   0   0   0   0/1Brett Howden C  17:11   0  0    0   4   1   0   1   1   3/3William Karlsson C  14:21   0  1    1   3   2   0   2   1  9/14Keegan Kolesar R  10:33   2  1    3   4   0   0   0   0   0/0Tanner Pearson L  15:19   0  0    1   0   0   0   1   1   0/1Nicolas Roy C  13:52   1  2    3   4   2   0   2   0  5/13Cole Schwindt R  09:02   0  2    3   0   1   0   0   0   0/0Mark Stone R  18:07   1  0    1   3   0   0   1   0   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+15:36   0  0    1   1   2   0   2   0   1/2
+Pavel Dorofeyev L
+17:00   0  0    0   3   0   0   2   1   0/0
+Jack Eichel C
+19:42   0  1    1   4   0   2   0   2  8/15
+Tomas Hertl C
+16:59   0  0    0   1   3   0   1   0 11/15
+Alexander Holtz R
+13:34   0  1    1   1   1   0   0   0   0/1
+Brett Howden C
+17:11   0  0    0   4   1   0   1   1   3/3
+William Karlsson C
+14:21   0  1    1   3   2   0   2   1  9/14
+Keegan Kolesar R
+10:33   2  1    3   4   0   0   0   0   0/0
+Tanner Pearson L
+15:19   0  0    1   0   0   0   1   1   0/1
+Nicolas Roy C
+13:52   1  2    3   4   2   0   2   0  5/13
+Cole Schwindt R
+09:02   0  2    3   0   1   0   0   0   0/0
+Mark Stone R
+18:07   1  0    1   3   0   0   1   0   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Hanifin D  21:18   0  0    3   2   1   0   1   2   0/0Kaedan Korczak D  15:31   0  0    1   0   3   0   1   2   0/0Brayden McNabb D  18:39   0  0    1   1   4   0   0   3   0/0Alex Pietrangelo D  19:54   1  0    3   4   1   0   1   0   0/0Shea Theodore D  22:11   0  0    1   2   1   0   0   1   0/0Zach Whitecloud D  19:11   0  0    1   1   3   0   0   1   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Hanifin D
+21:18   0  0    3   2   1   0   1   2   0/0
+Kaedan Korczak D
+15:31   0  0    1   0   3   0   1   2   0/0
+Brayden McNabb D
+18:39   0  0    1   1   4   0   0   3   0/0
+Alex Pietrangelo D
+19:54   1  0    3   4   1   0   1   0   0/0
+Shea Theodore D
+22:11   0  0    1   2   1   0   0   1   0/0
+Zach Whitecloud D
+19:11   0  0    1   1   3   0   0   1   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       38  25   2  15  15 37/64
+                                        57.8%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   0  16/16  13/13   3/3   0/0     0
+             1.000  1.000 1.000
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Adin Hill G
+60:00   0  16/16  13/13   3/3   0/0     0
+             1.000  1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

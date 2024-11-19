@@ -1,0 +1,427 @@
+< Nov. 3 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Chicago
+Blackhawks5-7-1Final4 - 2Anaheim
+Ducks4-5-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CHI   2  1  1    4  
+ANA   0  0  2    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  10:00 
+Lukas Reichel (CHI) hooking against Troy Terry (2 minutes)
+   0-0
+P1  07:03 
+Isaak Phillips (CHI) scores on snap shot past Lukas Dostal, assisted by Connor Bedard and Taylor Hall
+   1-0
+P1  04:56 
+Alex Killorn (ANA) tripping against Lukas Reichel (2 minutes)
+   1-0
+P1  03:16 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Taylor Hall and Alex Vlasic
+   2-0
+2nd Period: ShowHide
+P2  14:49 
+Philipp Kurashev (CHI) tripping against Brian Dumoulin (2 minutes)
+   2-0
+P2  08:35 
+Nolan Allan (CHI) cross-checking against Brock McGinn (2 minutes)
+   2-0
+P2  02:33 
+Jackson LaCombe (ANA) interference against Tyler Bertuzzi (2 minutes)
+   2-0
+P2  01:55 
+Seth Jones (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Connor Bedard and Lukas Reichel
+   3-0
+P2  01:07 
+Patrick Maroon (CHI) fighting against Ross Johnston (5 minutes)
+   3-0
+P2  01:07 
+Ross Johnston (ANA) fighting against Patrick Maroon (5 minutes)
+   3-0
+P2  01:07 
+Craig Smith (CHI) misconduct (10 minutes)
+   3-0
+3rd Period: ShowHide
+P3  14:40 
+Nolan Allan (CHI) holding against Mason McTavish (2 minutes)
+   3-0
+P3  09:44 
+Brock McGinn (ANA) scores on snap shot past Arvid Soderblom, assisted by Ross Johnston
+   3-1
+P3  02:17 
+Ryan Donato (CHI) scores on tip-in past Lukas Dostal, assisted by Connor Bedard and Philipp Kurashev
+   4-1
+P3  01:32 
+Taylor Hall (CHI) hooking against Olen Zellweger (2 minutes)
+   4-1
+P3  00:04 
+Mason McTavish (ANA) scores goal with extra attacker on snap shot past Arvid Soderblom, assisted by Troy Terry and Ryan Strome
+   4-2
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  17:41   0  3    2   5   1   0   1   0   2/8Tyler Bertuzzi L  15:06   0  0    1   2   2   0   0   1   0/0Jason Dickinson C  17:17   0  0   -1   1   2   0   0   0  3/13Ryan Donato C  13:46   1  0    1   4   1   0   1   2   5/7Nick Foligno L  17:16   0  0    0   0   1   0   0   1  9/14Taylor Hall L  14:07   0  2    1   4   1   2   1   0   1/1Philipp Kurashev C  14:48   0  1    1   1   0   2   0   0   1/1Patrick Maroon L  10:20   0  0    0   1   0   5   0   0   1/2Ilya Mikheyev R  15:55   0  0   -1   1   0   0   0   0   0/0Lukas Reichel L  13:20   0  1    0   1   0   2   0   0   4/7Craig Smith C  08:25   0  0    0   4   0  10   2   1   0/0Teuvo Teravainen C  14:44   1  0   -1   1   2   0   0   0   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:33   0  0    0   0   1   4   0   1   0/0Seth Jones D  24:40   1  0    0   1   4   0   1   0   0/0Wyatt Kaiser D  18:41   0  0    0   0   1   0   0   2   0/0Connor Murphy D  24:03   0  0    0   0   4   0   0   1   0/0Isaak Phillips D  11:40   1  0    1   1   2   0   0   1   0/0Alex Vlasic D  25:14   0  1    1   2   5   0   0   2   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       29  27  25   6  12 26/53
+                                        49.1%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArvid Soderblom G  59:56   2  37/39  30/31   7/8   0/0     0
+              .949   .968  .875 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  16:08   0  0    0   1   0   0   0   1   3/3Robby Fabbri C  13:08   0  0   -1   1   0   0   0   1   3/4Cutter Gauthier L  17:43   0  0    0   2   0   0   0   4   1/1Ross Johnston L  07:29   0  1    1   1   1   5   0   0   0/0Alex Killorn L  18:05   0  0    0   4   2   2   0   0   0/0Isac Lundestrom C  09:30   0  0    0   1   2   0   0   0   3/8Brock McGinn L  09:16   1  0    0   1   0   0   2   0   0/0Mason McTavish C  19:40   1  0   -1   3   0   0   0   1 10/18Ryan Strome C  18:04   0  1    0   6   0   0   1   3  4/10Troy Terry R  20:35   0  1   -1   3   1   0   1   0   0/1Frank Vatrano R  20:28   0  0   -1   4   0   0   1   1   0/1Trevor Zegras C  18:27   0  0    0   2   0   0   0   0   3/7Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  17:54   0  0   -1   3   1   0   0   0   0/0Cam Fowler D  22:11   0  0    1   1   1   0   0   1   0/0Radko Gudas D  14:29   0  0   -1   0   2   0   0   1   0/0Jackson LaCombe D  15:21   0  0   -1   0   1   2   1   0   0/0Pavel Mintyukov D  18:41   0  0   -1   3   0   0   0   0   0/0Olen Zellweger D  22:01   0  0    1   3   0   0   0   3   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       39  11   9   6  16 27/53
+                                        50.9%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  58:32   4  25/29  20/22   5/7   0/0     0
+              .862   .909  .714
+Chicago
+Blackhawks5-7-1Final4 - 2Anaheim
+Ducks4-5-2
+Chicago
+Blackhawks5-7-1
+Final4 - 2
+Anaheim
+Ducks4-5-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CHI   2  1  1    4  
+ANA   0  0  2    2
+1st Period: ShowHide
+P1  10:00 
+Lukas Reichel (CHI) hooking against Troy Terry (2 minutes)
+   0-0
+P1  07:03 
+Isaak Phillips (CHI) scores on snap shot past Lukas Dostal, assisted by Connor Bedard and Taylor Hall
+   1-0
+P1  04:56 
+Alex Killorn (ANA) tripping against Lukas Reichel (2 minutes)
+   1-0
+P1  03:16 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Taylor Hall and Alex Vlasic
+   2-0
+2nd Period: ShowHide
+P2  14:49 
+Philipp Kurashev (CHI) tripping against Brian Dumoulin (2 minutes)
+   2-0
+P2  08:35 
+Nolan Allan (CHI) cross-checking against Brock McGinn (2 minutes)
+   2-0
+P2  02:33 
+Jackson LaCombe (ANA) interference against Tyler Bertuzzi (2 minutes)
+   2-0
+P2  01:55 
+Seth Jones (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Connor Bedard and Lukas Reichel
+   3-0
+P2  01:07 
+Patrick Maroon (CHI) fighting against Ross Johnston (5 minutes)
+   3-0
+P2  01:07 
+Ross Johnston (ANA) fighting against Patrick Maroon (5 minutes)
+   3-0
+P2  01:07 
+Craig Smith (CHI) misconduct (10 minutes)
+   3-0
+3rd Period: ShowHide
+P3  14:40 
+Nolan Allan (CHI) holding against Mason McTavish (2 minutes)
+   3-0
+P3  09:44 
+Brock McGinn (ANA) scores on snap shot past Arvid Soderblom, assisted by Ross Johnston
+   3-1
+P3  02:17 
+Ryan Donato (CHI) scores on tip-in past Lukas Dostal, assisted by Connor Bedard and Philipp Kurashev
+   4-1
+P3  01:32 
+Taylor Hall (CHI) hooking against Olen Zellweger (2 minutes)
+   4-1
+P3  00:04 
+Mason McTavish (ANA) scores goal with extra attacker on snap shot past Arvid Soderblom, assisted by Troy Terry and Ryan Strome
+   4-2
+1st Period: ShowHide
+P1  10:00 
+Lukas Reichel (CHI) hooking against Troy Terry (2 minutes)
+   0-0
+P1  07:03 
+Isaak Phillips (CHI) scores on snap shot past Lukas Dostal, assisted by Connor Bedard and Taylor Hall
+   1-0
+P1  04:56 
+Alex Killorn (ANA) tripping against Lukas Reichel (2 minutes)
+   1-0
+P1  03:16 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Taylor Hall and Alex Vlasic
+   2-0
+P1  10:00 
+Lukas Reichel (CHI) hooking against Troy Terry (2 minutes)
+   0-0
+P1  07:03 
+Isaak Phillips (CHI) scores on snap shot past Lukas Dostal, assisted by Connor Bedard and Taylor Hall
+   1-0
+P1  04:56 
+Alex Killorn (ANA) tripping against Lukas Reichel (2 minutes)
+   1-0
+P1  03:16 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Taylor Hall and Alex Vlasic
+   2-0
+P1  10:00
+Lukas Reichel (CHI) hooking against Troy Terry (2 minutes)
+0-0
+P1  07:03
+Isaak Phillips (CHI) scores on snap shot past Lukas Dostal, assisted by Connor Bedard and Taylor Hall
+1-0
+P1  04:56
+Alex Killorn (ANA) tripping against Lukas Reichel (2 minutes)
+1-0
+P1  03:16
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Taylor Hall and Alex Vlasic
+2-0
+2nd Period: ShowHide
+P2  14:49 
+Philipp Kurashev (CHI) tripping against Brian Dumoulin (2 minutes)
+   2-0
+P2  08:35 
+Nolan Allan (CHI) cross-checking against Brock McGinn (2 minutes)
+   2-0
+P2  02:33 
+Jackson LaCombe (ANA) interference against Tyler Bertuzzi (2 minutes)
+   2-0
+P2  01:55 
+Seth Jones (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Connor Bedard and Lukas Reichel
+   3-0
+P2  01:07 
+Patrick Maroon (CHI) fighting against Ross Johnston (5 minutes)
+   3-0
+P2  01:07 
+Ross Johnston (ANA) fighting against Patrick Maroon (5 minutes)
+   3-0
+P2  01:07 
+Craig Smith (CHI) misconduct (10 minutes)
+   3-0
+P2  14:49 
+Philipp Kurashev (CHI) tripping against Brian Dumoulin (2 minutes)
+   2-0
+P2  08:35 
+Nolan Allan (CHI) cross-checking against Brock McGinn (2 minutes)
+   2-0
+P2  02:33 
+Jackson LaCombe (ANA) interference against Tyler Bertuzzi (2 minutes)
+   2-0
+P2  01:55 
+Seth Jones (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Connor Bedard and Lukas Reichel
+   3-0
+P2  01:07 
+Patrick Maroon (CHI) fighting against Ross Johnston (5 minutes)
+   3-0
+P2  01:07 
+Ross Johnston (ANA) fighting against Patrick Maroon (5 minutes)
+   3-0
+P2  01:07 
+Craig Smith (CHI) misconduct (10 minutes)
+   3-0
+P2  14:49
+Philipp Kurashev (CHI) tripping against Brian Dumoulin (2 minutes)
+2-0
+P2  08:35
+Nolan Allan (CHI) cross-checking against Brock McGinn (2 minutes)
+2-0
+P2  02:33
+Jackson LaCombe (ANA) interference against Tyler Bertuzzi (2 minutes)
+2-0
+P2  01:55
+Seth Jones (CHI) scores power-play goal on slap shot past Lukas Dostal, assisted by Connor Bedard and Lukas Reichel
+3-0
+P2  01:07
+Patrick Maroon (CHI) fighting against Ross Johnston (5 minutes)
+3-0
+P2  01:07
+Ross Johnston (ANA) fighting against Patrick Maroon (5 minutes)
+3-0
+P2  01:07
+Craig Smith (CHI) misconduct (10 minutes)
+3-0
+3rd Period: ShowHide
+P3  14:40 
+Nolan Allan (CHI) holding against Mason McTavish (2 minutes)
+   3-0
+P3  09:44 
+Brock McGinn (ANA) scores on snap shot past Arvid Soderblom, assisted by Ross Johnston
+   3-1
+P3  02:17 
+Ryan Donato (CHI) scores on tip-in past Lukas Dostal, assisted by Connor Bedard and Philipp Kurashev
+   4-1
+P3  01:32 
+Taylor Hall (CHI) hooking against Olen Zellweger (2 minutes)
+   4-1
+P3  00:04 
+Mason McTavish (ANA) scores goal with extra attacker on snap shot past Arvid Soderblom, assisted by Troy Terry and Ryan Strome
+   4-2
+P3  14:40 
+Nolan Allan (CHI) holding against Mason McTavish (2 minutes)
+   3-0
+P3  09:44 
+Brock McGinn (ANA) scores on snap shot past Arvid Soderblom, assisted by Ross Johnston
+   3-1
+P3  02:17 
+Ryan Donato (CHI) scores on tip-in past Lukas Dostal, assisted by Connor Bedard and Philipp Kurashev
+   4-1
+P3  01:32 
+Taylor Hall (CHI) hooking against Olen Zellweger (2 minutes)
+   4-1
+P3  00:04 
+Mason McTavish (ANA) scores goal with extra attacker on snap shot past Arvid Soderblom, assisted by Troy Terry and Ryan Strome
+   4-2
+P3  14:40
+Nolan Allan (CHI) holding against Mason McTavish (2 minutes)
+3-0
+P3  09:44
+Brock McGinn (ANA) scores on snap shot past Arvid Soderblom, assisted by Ross Johnston
+3-1
+P3  02:17
+Ryan Donato (CHI) scores on tip-in past Lukas Dostal, assisted by Connor Bedard and Philipp Kurashev
+4-1
+P3  01:32
+Taylor Hall (CHI) hooking against Olen Zellweger (2 minutes)
+4-1
+P3  00:04
+Mason McTavish (ANA) scores goal with extra attacker on snap shot past Arvid Soderblom, assisted by Troy Terry and Ryan Strome
+4-2
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  17:41   0  3    2   5   1   0   1   0   2/8Tyler Bertuzzi L  15:06   0  0    1   2   2   0   0   1   0/0Jason Dickinson C  17:17   0  0   -1   1   2   0   0   0  3/13Ryan Donato C  13:46   1  0    1   4   1   0   1   2   5/7Nick Foligno L  17:16   0  0    0   0   1   0   0   1  9/14Taylor Hall L  14:07   0  2    1   4   1   2   1   0   1/1Philipp Kurashev C  14:48   0  1    1   1   0   2   0   0   1/1Patrick Maroon L  10:20   0  0    0   1   0   5   0   0   1/2Ilya Mikheyev R  15:55   0  0   -1   1   0   0   0   0   0/0Lukas Reichel L  13:20   0  1    0   1   0   2   0   0   4/7Craig Smith C  08:25   0  0    0   4   0  10   2   1   0/0Teuvo Teravainen C  14:44   1  0   -1   1   2   0   0   0   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:33   0  0    0   0   1   4   0   1   0/0Seth Jones D  24:40   1  0    0   1   4   0   1   0   0/0Wyatt Kaiser D  18:41   0  0    0   0   1   0   0   2   0/0Connor Murphy D  24:03   0  0    0   0   4   0   0   1   0/0Isaak Phillips D  11:40   1  0    1   1   2   0   0   1   0/0Alex Vlasic D  25:14   0  1    1   2   5   0   0   2   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       29  27  25   6  12 26/53
+                                        49.1%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArvid Soderblom G  59:56   2  37/39  30/31   7/8   0/0     0
+              .949   .968  .875 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  16:08   0  0    0   1   0   0   0   1   3/3Robby Fabbri C  13:08   0  0   -1   1   0   0   0   1   3/4Cutter Gauthier L  17:43   0  0    0   2   0   0   0   4   1/1Ross Johnston L  07:29   0  1    1   1   1   5   0   0   0/0Alex Killorn L  18:05   0  0    0   4   2   2   0   0   0/0Isac Lundestrom C  09:30   0  0    0   1   2   0   0   0   3/8Brock McGinn L  09:16   1  0    0   1   0   0   2   0   0/0Mason McTavish C  19:40   1  0   -1   3   0   0   0   1 10/18Ryan Strome C  18:04   0  1    0   6   0   0   1   3  4/10Troy Terry R  20:35   0  1   -1   3   1   0   1   0   0/1Frank Vatrano R  20:28   0  0   -1   4   0   0   1   1   0/1Trevor Zegras C  18:27   0  0    0   2   0   0   0   0   3/7Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  17:54   0  0   -1   3   1   0   0   0   0/0Cam Fowler D  22:11   0  0    1   1   1   0   0   1   0/0Radko Gudas D  14:29   0  0   -1   0   2   0   0   1   0/0Jackson LaCombe D  15:21   0  0   -1   0   1   2   1   0   0/0Pavel Mintyukov D  18:41   0  0   -1   3   0   0   0   0   0/0Olen Zellweger D  22:01   0  0    1   3   0   0   0   3   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       39  11   9   6  16 27/53
+                                        50.9%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  58:32   4  25/29  20/22   5/7   0/0     0
+              .862   .909  .714
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  17:41   0  3    2   5   1   0   1   0   2/8Tyler Bertuzzi L  15:06   0  0    1   2   2   0   0   1   0/0Jason Dickinson C  17:17   0  0   -1   1   2   0   0   0  3/13Ryan Donato C  13:46   1  0    1   4   1   0   1   2   5/7Nick Foligno L  17:16   0  0    0   0   1   0   0   1  9/14Taylor Hall L  14:07   0  2    1   4   1   2   1   0   1/1Philipp Kurashev C  14:48   0  1    1   1   0   2   0   0   1/1Patrick Maroon L  10:20   0  0    0   1   0   5   0   0   1/2Ilya Mikheyev R  15:55   0  0   -1   1   0   0   0   0   0/0Lukas Reichel L  13:20   0  1    0   1   0   2   0   0   4/7Craig Smith C  08:25   0  0    0   4   0  10   2   1   0/0Teuvo Teravainen C  14:44   1  0   -1   1   2   0   0   0   0/0
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Connor Bedard C
+17:41   0  3    2   5   1   0   1   0   2/8
+Tyler Bertuzzi L
+15:06   0  0    1   2   2   0   0   1   0/0
+Jason Dickinson C
+17:17   0  0   -1   1   2   0   0   0  3/13
+Ryan Donato C
+13:46   1  0    1   4   1   0   1   2   5/7
+Nick Foligno L
+17:16   0  0    0   0   1   0   0   1  9/14
+Taylor Hall L
+14:07   0  2    1   4   1   2   1   0   1/1
+Philipp Kurashev C
+14:48   0  1    1   1   0   2   0   0   1/1
+Patrick Maroon L
+10:20   0  0    0   1   0   5   0   0   1/2
+Ilya Mikheyev R
+15:55   0  0   -1   1   0   0   0   0   0/0
+Lukas Reichel L
+13:20   0  1    0   1   0   2   0   0   4/7
+Craig Smith C
+08:25   0  0    0   4   0  10   2   1   0/0
+Teuvo Teravainen C
+14:44   1  0   -1   1   2   0   0   0   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:33   0  0    0   0   1   4   0   1   0/0Seth Jones D  24:40   1  0    0   1   4   0   1   0   0/0Wyatt Kaiser D  18:41   0  0    0   0   1   0   0   2   0/0Connor Murphy D  24:03   0  0    0   0   4   0   0   1   0/0Isaak Phillips D  11:40   1  0    1   1   2   0   0   1   0/0Alex Vlasic D  25:14   0  1    1   2   5   0   0   2   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nolan Allan D
+13:33   0  0    0   0   1   4   0   1   0/0
+Seth Jones D
+24:40   1  0    0   1   4   0   1   0   0/0
+Wyatt Kaiser D
+18:41   0  0    0   0   1   0   0   2   0/0
+Connor Murphy D
+24:03   0  0    0   0   4   0   0   1   0/0
+Isaak Phillips D
+11:40   1  0    1   1   2   0   0   1   0/0
+Alex Vlasic D
+25:14   0  1    1   2   5   0   0   2   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       29  27  25   6  12 26/53
+                                        49.1%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArvid Soderblom G  59:56   2  37/39  30/31   7/8   0/0     0
+              .949   .968  .875
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Arvid Soderblom G
+59:56   2  37/39  30/31   7/8   0/0     0
+              .949   .968  .875
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  16:08   0  0    0   1   0   0   0   1   3/3Robby Fabbri C  13:08   0  0   -1   1   0   0   0   1   3/4Cutter Gauthier L  17:43   0  0    0   2   0   0   0   4   1/1Ross Johnston L  07:29   0  1    1   1   1   5   0   0   0/0Alex Killorn L  18:05   0  0    0   4   2   2   0   0   0/0Isac Lundestrom C  09:30   0  0    0   1   2   0   0   0   3/8Brock McGinn L  09:16   1  0    0   1   0   0   2   0   0/0Mason McTavish C  19:40   1  0   -1   3   0   0   0   1 10/18Ryan Strome C  18:04   0  1    0   6   0   0   1   3  4/10Troy Terry R  20:35   0  1   -1   3   1   0   1   0   0/1Frank Vatrano R  20:28   0  0   -1   4   0   0   1   1   0/1Trevor Zegras C  18:27   0  0    0   2   0   0   0   0   3/7
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Leo Carlsson C
+16:08   0  0    0   1   0   0   0   1   3/3
+Robby Fabbri C
+13:08   0  0   -1   1   0   0   0   1   3/4
+Cutter Gauthier L
+17:43   0  0    0   2   0   0   0   4   1/1
+Ross Johnston L
+07:29   0  1    1   1   1   5   0   0   0/0
+Alex Killorn L
+18:05   0  0    0   4   2   2   0   0   0/0
+Isac Lundestrom C
+09:30   0  0    0   1   2   0   0   0   3/8
+Brock McGinn L
+09:16   1  0    0   1   0   0   2   0   0/0
+Mason McTavish C
+19:40   1  0   -1   3   0   0   0   1 10/18
+Ryan Strome C
+18:04   0  1    0   6   0   0   1   3  4/10
+Troy Terry R
+20:35   0  1   -1   3   1   0   1   0   0/1
+Frank Vatrano R
+20:28   0  0   -1   4   0   0   1   1   0/1
+Trevor Zegras C
+18:27   0  0    0   2   0   0   0   0   3/7
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  17:54   0  0   -1   3   1   0   0   0   0/0Cam Fowler D  22:11   0  0    1   1   1   0   0   1   0/0Radko Gudas D  14:29   0  0   -1   0   2   0   0   1   0/0Jackson LaCombe D  15:21   0  0   -1   0   1   2   1   0   0/0Pavel Mintyukov D  18:41   0  0   -1   3   0   0   0   0   0/0Olen Zellweger D  22:01   0  0    1   3   0   0   0   3   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brian Dumoulin D
+17:54   0  0   -1   3   1   0   0   0   0/0
+Cam Fowler D
+22:11   0  0    1   1   1   0   0   1   0/0
+Radko Gudas D
+14:29   0  0   -1   0   2   0   0   1   0/0
+Jackson LaCombe D
+15:21   0  0   -1   0   1   2   1   0   0/0
+Pavel Mintyukov D
+18:41   0  0   -1   3   0   0   0   0   0/0
+Olen Zellweger D
+22:01   0  0    1   3   0   0   0   3   0/0
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       39  11   9   6  16 27/53
+                                        50.9%
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  58:32   4  25/29  20/22   5/7   0/0     0
+              .862   .909  .714
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Lukas Dostal G
+58:32   4  25/29  20/22   5/7   0/0     0
+              .862   .909  .714
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

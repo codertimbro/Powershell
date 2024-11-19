@@ -1,0 +1,487 @@
+< Oct. 31 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Boston
+Bruins4-6-1Final2 - 8Carolina
+Hurricanes7-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+BOS   1  1  0    2  
+CAR   4  2  2    8
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:32 
+Jack Roslovic (CAR) scores goal with extra attacker on snap shot past Jeremy Swayman, assisted by Sebastian Aho and Andrei Svechnikov
+   0-1
+P1  10:06 
+Jesperi Kotkaniemi (CAR) high-sticking against Max Jones (4 minutes)
+   0-1
+P1  07:17 
+Jalen Chatfield (CAR) interference against Brad Marchand (2 minutes)
+   0-1
+P1  06:49 
+Brad Marchand (BOS) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by David Pastrnak and Elias Lindholm
+   1-1
+P1  06:35 
+CAR penalty, unsportsmanlike conduct on bench (2 minutes), served by Martin Necas
+   1-1
+P1  04:20 
+Cole Koepke (BOS) interference against Jackson Blake (2 minutes)
+   1-1
+P1  02:46 
+Andrei Svechnikov (CAR) scores power-play goal on tip-in past Jeremy Swayman, assisted by Shayne Gostisbehere and Martin Necas
+   1-2
+P1  02:08 
+Jackson Blake (CAR) scores on tip-in past Jeremy Swayman, assisted by Dmitry Orlov and William Carrier
+   1-3
+P1  02:01 
+Mark Kastelic (BOS) high-sticking against Jaccob Slavin (2 minutes)
+   1-3
+P1  01:54 
+Martin Necas (CAR) scores power-play goal on snap shot past Jeremy Swayman, assisted by Seth Jarvis and Shayne Gostisbehere
+   1-4
+P1  00:16 
+Mason Lohrei (BOS) goalkeeper interference against Pyotr Kochetkov (2 minutes)
+   1-4
+2nd Period: ShowHide
+P2  16:22 
+Hampus Lindholm (BOS) scores on wrist shot past Pyotr Kochetkov, assisted by Mark Kastelic and David Pastrnak
+   2-4
+P2  12:55 
+John Beecher (BOS) high-sticking against Jackson Blake (2 minutes)
+   2-4
+P2  11:09 
+Andrei Svechnikov (CAR) scores power-play goal on poke past Jeremy Swayman, assisted by Seth Jarvis and Martin Necas
+   2-5
+P2  10:28 
+Jack Roslovic (CAR) scores on snap shot past Jeremy Swayman, assisted by Jordan Martinook
+   2-6
+P2  01:49 
+Nikita Zadorov (BOS) high-sticking against Dmitry Orlov (2 minutes)
+   2-6
+3rd Period: ShowHide
+P3  18:11 
+Seth Jarvis (CAR) holding against Cole Koepke (2 minutes)
+   2-6
+P3  12:24 
+Sean Walker (CAR) scores on snap shot past Joonas Korpisalo
+   2-7
+P3  07:47 
+Jesperi Kotkaniemi (CAR) scores on wrist shot past Joonas Korpisalo, assisted by Martin Necas
+   2-8
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:11   0  0   -2   0   1   2   0   0  7/11Justin Brazeau R  15:37   0  0   -2   0   0   0   1   1   0/2Charlie Coyle C  18:17   0  0   -1   2   0   0   0   0   6/9Trent Frederic C  12:54   0  0   -2   1   0   0   0   1   1/3Max Jones L  14:33   0  0   -3   0   0   0   0   1   0/0Mark Kastelic C  14:30   0  1    1   0   2   2   0   0  5/10Cole Koepke L  13:09   0  0    0   1   1   2   1   1   0/0Elias Lindholm C  15:21   0  1    0   0   1   0   0   0 14/22Brad Marchand L  15:03   1  0    0   3   1   0   0   0   0/0David Pastrnak R  15:23   0  2   -1   3   0   0   0   0   0/0Matthew Poitras C  14:58   0  0   -2   0   0   0   1   0   4/9Pavel Zacha C  14:10   0  0    0   3   1   0   0   1   4/7Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:55   0  0   -1   0   4   0   1   1   0/0Hampus Lindholm D  19:53   1  0   -1   2   0   0   1   3   0/0Mason Lohrei D  19:05   0  0   -1   0   0   2   1   1   0/0Charlie McAvoy D  20:25   0  0   -2   0   1   0   0   1   0/0Andrew Peeke D  20:46   0  0   -2   0   3   0   0   2   0/0Nikita Zadorov D  16:23   0  0   -1   0   0   2   0   0   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       15  15  10   6  13 41/73
+                                        56.2%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  30:28   2  13/15  12/14   1/1   0/0     0
+              .867   .857 1.000 Jeremy Swayman G  29:32   6  16/22  10/13   4/7   2/2     0
+              .727   .769  .571 1.000 Bruins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          8  29/37  22/27   5/8   2/2     0
+              .784   .815  .625 1.000 
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:03   0  1    0   2   0   0   0   2   2/9Jackson Blake R  12:00   1  0    2   1   2   0   1   0   1/3William Carrier L  12:36   0  1    2   2   0   0   0   0   0/1Jack Drury C  14:32   0  0    2   1   2   0   0   0 10/16Seth Jarvis C  18:08   0  2    0   3   0   2   1   4   2/6Jesperi Kotkaniemi C  13:31   1  0    1   1   0   4   0   1  6/13Jordan Martinook L  14:42   0  1    1   1   0   0   1   0   0/1Martin Necas C  19:00   1  3    2   2   0   0   0   1   1/3Eric Robinson L  13:37   0  0    1   0   2   0   1   0   0/0Jack Roslovic C  11:50   2  0    1   6   0   0   0   1   3/4Jordan Staal C  14:19   0  0    1   1   0   0   1   0  7/17Andrei Svechnikov R  15:22   2  1    0   4   0   0   0   2   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  19:02   0  0    1   3   0   0   2   3   0/0Jalen Chatfield D  18:56   0  0    1   2   2   2   0   2   0/0Shayne Gostisbehere D  18:29   0  2    1   1   0   0   1   2   0/0Dmitry Orlov D  20:11   0  1    2   5   0   0   0   0   0/0Jaccob Slavin D  20:45   0  0    1   1   1   0   1   0   0/0Sean Walker D  15:47   1  0    2   1   0   0   2   1   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          8 12       37   9   8  11  19 32/73
+                                        43.8%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  59:53   2  13/15    8/9   4/5   1/1     0
+              .867   .889  .800 1.000
+Boston
+Bruins4-6-1Final2 - 8Carolina
+Hurricanes7-2-0
+Boston
+Bruins4-6-1
+Final2 - 8
+Carolina
+Hurricanes7-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+BOS   1  1  0    2  
+CAR   4  2  2    8
+1st Period: ShowHide
+P1  13:32 
+Jack Roslovic (CAR) scores goal with extra attacker on snap shot past Jeremy Swayman, assisted by Sebastian Aho and Andrei Svechnikov
+   0-1
+P1  10:06 
+Jesperi Kotkaniemi (CAR) high-sticking against Max Jones (4 minutes)
+   0-1
+P1  07:17 
+Jalen Chatfield (CAR) interference against Brad Marchand (2 minutes)
+   0-1
+P1  06:49 
+Brad Marchand (BOS) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by David Pastrnak and Elias Lindholm
+   1-1
+P1  06:35 
+CAR penalty, unsportsmanlike conduct on bench (2 minutes), served by Martin Necas
+   1-1
+P1  04:20 
+Cole Koepke (BOS) interference against Jackson Blake (2 minutes)
+   1-1
+P1  02:46 
+Andrei Svechnikov (CAR) scores power-play goal on tip-in past Jeremy Swayman, assisted by Shayne Gostisbehere and Martin Necas
+   1-2
+P1  02:08 
+Jackson Blake (CAR) scores on tip-in past Jeremy Swayman, assisted by Dmitry Orlov and William Carrier
+   1-3
+P1  02:01 
+Mark Kastelic (BOS) high-sticking against Jaccob Slavin (2 minutes)
+   1-3
+P1  01:54 
+Martin Necas (CAR) scores power-play goal on snap shot past Jeremy Swayman, assisted by Seth Jarvis and Shayne Gostisbehere
+   1-4
+P1  00:16 
+Mason Lohrei (BOS) goalkeeper interference against Pyotr Kochetkov (2 minutes)
+   1-4
+2nd Period: ShowHide
+P2  16:22 
+Hampus Lindholm (BOS) scores on wrist shot past Pyotr Kochetkov, assisted by Mark Kastelic and David Pastrnak
+   2-4
+P2  12:55 
+John Beecher (BOS) high-sticking against Jackson Blake (2 minutes)
+   2-4
+P2  11:09 
+Andrei Svechnikov (CAR) scores power-play goal on poke past Jeremy Swayman, assisted by Seth Jarvis and Martin Necas
+   2-5
+P2  10:28 
+Jack Roslovic (CAR) scores on snap shot past Jeremy Swayman, assisted by Jordan Martinook
+   2-6
+P2  01:49 
+Nikita Zadorov (BOS) high-sticking against Dmitry Orlov (2 minutes)
+   2-6
+3rd Period: ShowHide
+P3  18:11 
+Seth Jarvis (CAR) holding against Cole Koepke (2 minutes)
+   2-6
+P3  12:24 
+Sean Walker (CAR) scores on snap shot past Joonas Korpisalo
+   2-7
+P3  07:47 
+Jesperi Kotkaniemi (CAR) scores on wrist shot past Joonas Korpisalo, assisted by Martin Necas
+   2-8
+1st Period: ShowHide
+P1  13:32 
+Jack Roslovic (CAR) scores goal with extra attacker on snap shot past Jeremy Swayman, assisted by Sebastian Aho and Andrei Svechnikov
+   0-1
+P1  10:06 
+Jesperi Kotkaniemi (CAR) high-sticking against Max Jones (4 minutes)
+   0-1
+P1  07:17 
+Jalen Chatfield (CAR) interference against Brad Marchand (2 minutes)
+   0-1
+P1  06:49 
+Brad Marchand (BOS) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by David Pastrnak and Elias Lindholm
+   1-1
+P1  06:35 
+CAR penalty, unsportsmanlike conduct on bench (2 minutes), served by Martin Necas
+   1-1
+P1  04:20 
+Cole Koepke (BOS) interference against Jackson Blake (2 minutes)
+   1-1
+P1  02:46 
+Andrei Svechnikov (CAR) scores power-play goal on tip-in past Jeremy Swayman, assisted by Shayne Gostisbehere and Martin Necas
+   1-2
+P1  02:08 
+Jackson Blake (CAR) scores on tip-in past Jeremy Swayman, assisted by Dmitry Orlov and William Carrier
+   1-3
+P1  02:01 
+Mark Kastelic (BOS) high-sticking against Jaccob Slavin (2 minutes)
+   1-3
+P1  01:54 
+Martin Necas (CAR) scores power-play goal on snap shot past Jeremy Swayman, assisted by Seth Jarvis and Shayne Gostisbehere
+   1-4
+P1  00:16 
+Mason Lohrei (BOS) goalkeeper interference against Pyotr Kochetkov (2 minutes)
+   1-4
+P1  13:32 
+Jack Roslovic (CAR) scores goal with extra attacker on snap shot past Jeremy Swayman, assisted by Sebastian Aho and Andrei Svechnikov
+   0-1
+P1  10:06 
+Jesperi Kotkaniemi (CAR) high-sticking against Max Jones (4 minutes)
+   0-1
+P1  07:17 
+Jalen Chatfield (CAR) interference against Brad Marchand (2 minutes)
+   0-1
+P1  06:49 
+Brad Marchand (BOS) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by David Pastrnak and Elias Lindholm
+   1-1
+P1  06:35 
+CAR penalty, unsportsmanlike conduct on bench (2 minutes), served by Martin Necas
+   1-1
+P1  04:20 
+Cole Koepke (BOS) interference against Jackson Blake (2 minutes)
+   1-1
+P1  02:46 
+Andrei Svechnikov (CAR) scores power-play goal on tip-in past Jeremy Swayman, assisted by Shayne Gostisbehere and Martin Necas
+   1-2
+P1  02:08 
+Jackson Blake (CAR) scores on tip-in past Jeremy Swayman, assisted by Dmitry Orlov and William Carrier
+   1-3
+P1  02:01 
+Mark Kastelic (BOS) high-sticking against Jaccob Slavin (2 minutes)
+   1-3
+P1  01:54 
+Martin Necas (CAR) scores power-play goal on snap shot past Jeremy Swayman, assisted by Seth Jarvis and Shayne Gostisbehere
+   1-4
+P1  00:16 
+Mason Lohrei (BOS) goalkeeper interference against Pyotr Kochetkov (2 minutes)
+   1-4
+P1  13:32
+Jack Roslovic (CAR) scores goal with extra attacker on snap shot past Jeremy Swayman, assisted by Sebastian Aho and Andrei Svechnikov
+0-1
+P1  10:06
+Jesperi Kotkaniemi (CAR) high-sticking against Max Jones (4 minutes)
+0-1
+P1  07:17
+Jalen Chatfield (CAR) interference against Brad Marchand (2 minutes)
+0-1
+P1  06:49
+Brad Marchand (BOS) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by David Pastrnak and Elias Lindholm
+1-1
+P1  06:35
+CAR penalty, unsportsmanlike conduct on bench (2 minutes), served by Martin Necas
+1-1
+P1  04:20
+Cole Koepke (BOS) interference against Jackson Blake (2 minutes)
+1-1
+P1  02:46
+Andrei Svechnikov (CAR) scores power-play goal on tip-in past Jeremy Swayman, assisted by Shayne Gostisbehere and Martin Necas
+1-2
+P1  02:08
+Jackson Blake (CAR) scores on tip-in past Jeremy Swayman, assisted by Dmitry Orlov and William Carrier
+1-3
+P1  02:01
+Mark Kastelic (BOS) high-sticking against Jaccob Slavin (2 minutes)
+1-3
+P1  01:54
+Martin Necas (CAR) scores power-play goal on snap shot past Jeremy Swayman, assisted by Seth Jarvis and Shayne Gostisbehere
+1-4
+P1  00:16
+Mason Lohrei (BOS) goalkeeper interference against Pyotr Kochetkov (2 minutes)
+1-4
+2nd Period: ShowHide
+P2  16:22 
+Hampus Lindholm (BOS) scores on wrist shot past Pyotr Kochetkov, assisted by Mark Kastelic and David Pastrnak
+   2-4
+P2  12:55 
+John Beecher (BOS) high-sticking against Jackson Blake (2 minutes)
+   2-4
+P2  11:09 
+Andrei Svechnikov (CAR) scores power-play goal on poke past Jeremy Swayman, assisted by Seth Jarvis and Martin Necas
+   2-5
+P2  10:28 
+Jack Roslovic (CAR) scores on snap shot past Jeremy Swayman, assisted by Jordan Martinook
+   2-6
+P2  01:49 
+Nikita Zadorov (BOS) high-sticking against Dmitry Orlov (2 minutes)
+   2-6
+P2  16:22 
+Hampus Lindholm (BOS) scores on wrist shot past Pyotr Kochetkov, assisted by Mark Kastelic and David Pastrnak
+   2-4
+P2  12:55 
+John Beecher (BOS) high-sticking against Jackson Blake (2 minutes)
+   2-4
+P2  11:09 
+Andrei Svechnikov (CAR) scores power-play goal on poke past Jeremy Swayman, assisted by Seth Jarvis and Martin Necas
+   2-5
+P2  10:28 
+Jack Roslovic (CAR) scores on snap shot past Jeremy Swayman, assisted by Jordan Martinook
+   2-6
+P2  01:49 
+Nikita Zadorov (BOS) high-sticking against Dmitry Orlov (2 minutes)
+   2-6
+P2  16:22
+Hampus Lindholm (BOS) scores on wrist shot past Pyotr Kochetkov, assisted by Mark Kastelic and David Pastrnak
+2-4
+P2  12:55
+John Beecher (BOS) high-sticking against Jackson Blake (2 minutes)
+2-4
+P2  11:09
+Andrei Svechnikov (CAR) scores power-play goal on poke past Jeremy Swayman, assisted by Seth Jarvis and Martin Necas
+2-5
+P2  10:28
+Jack Roslovic (CAR) scores on snap shot past Jeremy Swayman, assisted by Jordan Martinook
+2-6
+P2  01:49
+Nikita Zadorov (BOS) high-sticking against Dmitry Orlov (2 minutes)
+2-6
+3rd Period: ShowHide
+P3  18:11 
+Seth Jarvis (CAR) holding against Cole Koepke (2 minutes)
+   2-6
+P3  12:24 
+Sean Walker (CAR) scores on snap shot past Joonas Korpisalo
+   2-7
+P3  07:47 
+Jesperi Kotkaniemi (CAR) scores on wrist shot past Joonas Korpisalo, assisted by Martin Necas
+   2-8
+P3  18:11 
+Seth Jarvis (CAR) holding against Cole Koepke (2 minutes)
+   2-6
+P3  12:24 
+Sean Walker (CAR) scores on snap shot past Joonas Korpisalo
+   2-7
+P3  07:47 
+Jesperi Kotkaniemi (CAR) scores on wrist shot past Joonas Korpisalo, assisted by Martin Necas
+   2-8
+P3  18:11
+Seth Jarvis (CAR) holding against Cole Koepke (2 minutes)
+2-6
+P3  12:24
+Sean Walker (CAR) scores on snap shot past Joonas Korpisalo
+2-7
+P3  07:47
+Jesperi Kotkaniemi (CAR) scores on wrist shot past Joonas Korpisalo, assisted by Martin Necas
+2-8
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:11   0  0   -2   0   1   2   0   0  7/11Justin Brazeau R  15:37   0  0   -2   0   0   0   1   1   0/2Charlie Coyle C  18:17   0  0   -1   2   0   0   0   0   6/9Trent Frederic C  12:54   0  0   -2   1   0   0   0   1   1/3Max Jones L  14:33   0  0   -3   0   0   0   0   1   0/0Mark Kastelic C  14:30   0  1    1   0   2   2   0   0  5/10Cole Koepke L  13:09   0  0    0   1   1   2   1   1   0/0Elias Lindholm C  15:21   0  1    0   0   1   0   0   0 14/22Brad Marchand L  15:03   1  0    0   3   1   0   0   0   0/0David Pastrnak R  15:23   0  2   -1   3   0   0   0   0   0/0Matthew Poitras C  14:58   0  0   -2   0   0   0   1   0   4/9Pavel Zacha C  14:10   0  0    0   3   1   0   0   1   4/7Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:55   0  0   -1   0   4   0   1   1   0/0Hampus Lindholm D  19:53   1  0   -1   2   0   0   1   3   0/0Mason Lohrei D  19:05   0  0   -1   0   0   2   1   1   0/0Charlie McAvoy D  20:25   0  0   -2   0   1   0   0   1   0/0Andrew Peeke D  20:46   0  0   -2   0   3   0   0   2   0/0Nikita Zadorov D  16:23   0  0   -1   0   0   2   0   0   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       15  15  10   6  13 41/73
+                                        56.2%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  30:28   2  13/15  12/14   1/1   0/0     0
+              .867   .857 1.000 Jeremy Swayman G  29:32   6  16/22  10/13   4/7   2/2     0
+              .727   .769  .571 1.000 Bruins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          8  29/37  22/27   5/8   2/2     0
+              .784   .815  .625 1.000 
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:03   0  1    0   2   0   0   0   2   2/9Jackson Blake R  12:00   1  0    2   1   2   0   1   0   1/3William Carrier L  12:36   0  1    2   2   0   0   0   0   0/1Jack Drury C  14:32   0  0    2   1   2   0   0   0 10/16Seth Jarvis C  18:08   0  2    0   3   0   2   1   4   2/6Jesperi Kotkaniemi C  13:31   1  0    1   1   0   4   0   1  6/13Jordan Martinook L  14:42   0  1    1   1   0   0   1   0   0/1Martin Necas C  19:00   1  3    2   2   0   0   0   1   1/3Eric Robinson L  13:37   0  0    1   0   2   0   1   0   0/0Jack Roslovic C  11:50   2  0    1   6   0   0   0   1   3/4Jordan Staal C  14:19   0  0    1   1   0   0   1   0  7/17Andrei Svechnikov R  15:22   2  1    0   4   0   0   0   2   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  19:02   0  0    1   3   0   0   2   3   0/0Jalen Chatfield D  18:56   0  0    1   2   2   2   0   2   0/0Shayne Gostisbehere D  18:29   0  2    1   1   0   0   1   2   0/0Dmitry Orlov D  20:11   0  1    2   5   0   0   0   0   0/0Jaccob Slavin D  20:45   0  0    1   1   1   0   1   0   0/0Sean Walker D  15:47   1  0    2   1   0   0   2   1   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          8 12       37   9   8  11  19 32/73
+                                        43.8%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  59:53   2  13/15    8/9   4/5   1/1     0
+              .867   .889  .800 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:11   0  0   -2   0   1   2   0   0  7/11Justin Brazeau R  15:37   0  0   -2   0   0   0   1   1   0/2Charlie Coyle C  18:17   0  0   -1   2   0   0   0   0   6/9Trent Frederic C  12:54   0  0   -2   1   0   0   0   1   1/3Max Jones L  14:33   0  0   -3   0   0   0   0   1   0/0Mark Kastelic C  14:30   0  1    1   0   2   2   0   0  5/10Cole Koepke L  13:09   0  0    0   1   1   2   1   1   0/0Elias Lindholm C  15:21   0  1    0   0   1   0   0   0 14/22Brad Marchand L  15:03   1  0    0   3   1   0   0   0   0/0David Pastrnak R  15:23   0  2   -1   3   0   0   0   0   0/0Matthew Poitras C  14:58   0  0   -2   0   0   0   1   0   4/9Pavel Zacha C  14:10   0  0    0   3   1   0   0   1   4/7
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+13:11   0  0   -2   0   1   2   0   0  7/11
+Justin Brazeau R
+15:37   0  0   -2   0   0   0   1   1   0/2
+Charlie Coyle C
+18:17   0  0   -1   2   0   0   0   0   6/9
+Trent Frederic C
+12:54   0  0   -2   1   0   0   0   1   1/3
+Max Jones L
+14:33   0  0   -3   0   0   0   0   1   0/0
+Mark Kastelic C
+14:30   0  1    1   0   2   2   0   0  5/10
+Cole Koepke L
+13:09   0  0    0   1   1   2   1   1   0/0
+Elias Lindholm C
+15:21   0  1    0   0   1   0   0   0 14/22
+Brad Marchand L
+15:03   1  0    0   3   1   0   0   0   0/0
+David Pastrnak R
+15:23   0  2   -1   3   0   0   0   0   0/0
+Matthew Poitras C
+14:58   0  0   -2   0   0   0   1   0   4/9
+Pavel Zacha C
+14:10   0  0    0   3   1   0   0   1   4/7
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:55   0  0   -1   0   4   0   1   1   0/0Hampus Lindholm D  19:53   1  0   -1   2   0   0   1   3   0/0Mason Lohrei D  19:05   0  0   -1   0   0   2   1   1   0/0Charlie McAvoy D  20:25   0  0   -2   0   1   0   0   1   0/0Andrew Peeke D  20:46   0  0   -2   0   3   0   0   2   0/0Nikita Zadorov D  16:23   0  0   -1   0   0   2   0   0   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+18:55   0  0   -1   0   4   0   1   1   0/0
+Hampus Lindholm D
+19:53   1  0   -1   2   0   0   1   3   0/0
+Mason Lohrei D
+19:05   0  0   -1   0   0   2   1   1   0/0
+Charlie McAvoy D
+20:25   0  0   -2   0   1   0   0   1   0/0
+Andrew Peeke D
+20:46   0  0   -2   0   3   0   0   2   0/0
+Nikita Zadorov D
+16:23   0  0   -1   0   0   2   0   0   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       15  15  10   6  13 41/73
+                                        56.2%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  30:28   2  13/15  12/14   1/1   0/0     0
+              .867   .857 1.000 Jeremy Swayman G  29:32   6  16/22  10/13   4/7   2/2     0
+              .727   .769  .571 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joonas Korpisalo G
+30:28   2  13/15  12/14   1/1   0/0     0
+              .867   .857 1.000
+Jeremy Swayman G
+29:32   6  16/22  10/13   4/7   2/2     0
+              .727   .769  .571 1.000
+Bruins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          8  29/37  22/27   5/8   2/2     0
+              .784   .815  .625 1.000
+Bruins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:03   0  1    0   2   0   0   0   2   2/9Jackson Blake R  12:00   1  0    2   1   2   0   1   0   1/3William Carrier L  12:36   0  1    2   2   0   0   0   0   0/1Jack Drury C  14:32   0  0    2   1   2   0   0   0 10/16Seth Jarvis C  18:08   0  2    0   3   0   2   1   4   2/6Jesperi Kotkaniemi C  13:31   1  0    1   1   0   4   0   1  6/13Jordan Martinook L  14:42   0  1    1   1   0   0   1   0   0/1Martin Necas C  19:00   1  3    2   2   0   0   0   1   1/3Eric Robinson L  13:37   0  0    1   0   2   0   1   0   0/0Jack Roslovic C  11:50   2  0    1   6   0   0   0   1   3/4Jordan Staal C  14:19   0  0    1   1   0   0   1   0  7/17Andrei Svechnikov R  15:22   2  1    0   4   0   0   0   2   0/0
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sebastian Aho C
+18:03   0  1    0   2   0   0   0   2   2/9
+Jackson Blake R
+12:00   1  0    2   1   2   0   1   0   1/3
+William Carrier L
+12:36   0  1    2   2   0   0   0   0   0/1
+Jack Drury C
+14:32   0  0    2   1   2   0   0   0 10/16
+Seth Jarvis C
+18:08   0  2    0   3   0   2   1   4   2/6
+Jesperi Kotkaniemi C
+13:31   1  0    1   1   0   4   0   1  6/13
+Jordan Martinook L
+14:42   0  1    1   1   0   0   1   0   0/1
+Martin Necas C
+19:00   1  3    2   2   0   0   0   1   1/3
+Eric Robinson L
+13:37   0  0    1   0   2   0   1   0   0/0
+Jack Roslovic C
+11:50   2  0    1   6   0   0   0   1   3/4
+Jordan Staal C
+14:19   0  0    1   1   0   0   1   0  7/17
+Andrei Svechnikov R
+15:22   2  1    0   4   0   0   0   2   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  19:02   0  0    1   3   0   0   2   3   0/0Jalen Chatfield D  18:56   0  0    1   2   2   2   0   2   0/0Shayne Gostisbehere D  18:29   0  2    1   1   0   0   1   2   0/0Dmitry Orlov D  20:11   0  1    2   5   0   0   0   0   0/0Jaccob Slavin D  20:45   0  0    1   1   1   0   1   0   0/0Sean Walker D  15:47   1  0    2   1   0   0   2   1   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brent Burns D
+19:02   0  0    1   3   0   0   2   3   0/0
+Jalen Chatfield D
+18:56   0  0    1   2   2   2   0   2   0/0
+Shayne Gostisbehere D
+18:29   0  2    1   1   0   0   1   2   0/0
+Dmitry Orlov D
+20:11   0  1    2   5   0   0   0   0   0/0
+Jaccob Slavin D
+20:45   0  0    1   1   1   0   1   0   0/0
+Sean Walker D
+15:47   1  0    2   1   0   0   2   1   0/0
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          8 12       37   9   8  11  19 32/73
+                                        43.8%
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  59:53   2  13/15    8/9   4/5   1/1     0
+              .867   .889  .800 1.000
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Pyotr Kochetkov G
+59:53   2  13/15    8/9   4/5   1/1     0
+              .867   .889  .800 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

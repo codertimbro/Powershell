@@ -1,0 +1,487 @@
+< Oct. 26 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Minnesota
+Wild5-1-2Final5 - 7Philadelphia
+Flyers2-5-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+MIN   0  3  2    5  
+PHI   2  1  4    7
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:42 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Rasmus Ristolainen and Travis Konecny
+   0-1
+P1  16:09 
+Nick Seeler (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Matvei Michkov
+   0-2
+P1  05:05 
+Joel Farabee (PHI) high-sticking against Brock Faber (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  19:35 
+Scott Laughton (PHI) tripping against Marcus Johansson (2 minutes)
+   0-2
+P2  18:00 
+Garnet Hathaway (PHI) roughing against Joel Eriksson Ek (2 minutes)
+   0-2
+P2  05:06 
+Brock Faber (MIN) scores on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Joel Eriksson Ek
+   1-2
+P2  04:33 
+Marcus Foligno (MIN) scores on wrist shot past Samuel Ersson, assisted by Declan Chisholm
+   2-2
+P2  01:44 
+Matvei Michkov (PHI) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Sean Couturier and Owen Tippett
+   2-3
+P2  00:51 
+PHI penalty, too many men on the ice (2 minutes), served by Joel Farabee
+   2-3
+P2  00:04 
+Joel Eriksson Ek (MIN) scores power-play goal on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Matt Boldy
+   3-3
+3rd Period: ShowHide
+P3  17:42 
+Marcus Foligno (MIN) scores on tip-in past Samuel Ersson, assisted by Zach Bogosian and Jonas Brodin
+   4-3
+P3  15:45 
+Marco Rossi (MIN) hooking against Tyson Foerster (2 minutes)
+   4-3
+P3  15:05 
+Travis Konecny (PHI) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Morgan Frost and Owen Tippett
+   4-4
+P3  11:34 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Nick Seeler
+   4-5
+P3  06:32 
+Jake Middleton (MIN) scores on wrist shot past Samuel Ersson
+   5-5
+P3  02:24 
+Rasmus Ristolainen (PHI) scores on backhand shot past Filip Gustavsson, assisted by Sean Couturier and Travis Konecny
+   5-6
+P3  02:03 
+Garnet Hathaway (PHI) hooking against Mats Zuccarello (2 minutes)
+   5-6
+P3  02:03 
+Mats Zuccarello (MIN) roughing against Scott Laughton (2 minutes)
+   5-6
+P3  01:00 
+Sean Couturier (PHI) scores on empty net, assisted by Noah Cates and Travis Sanheim
+   5-7
+P3  00:29 
+Matt Boldy (MIN) slashing against Travis Sanheim (2 minutes)
+   5-7
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  22:58   0  1   -3   9   3   2   1   1   1/1Joel Eriksson Ek C  21:09   1  1   -1   3   0   0   1   0 12/22Marcus Foligno L  12:34   2  0    2   3   3   0   0   1   0/0Frederick Gaudreau C  14:59   0  0    2   1   0   0   0   0  9/16Marcus Johansson L  17:26   0  0   -2   0   0   0   0   1   0/0Kirill Kaprizov L  24:36   0  2    0   3   0   0   0   0   0/0Marat Khusnutdinov C  08:25   0  0   -2   0   2   0   0   1   3/7Jakub Lauko C  07:46   0  0   -2   0   1   0   0   1   0/1Liam Ohgren L  06:46   0  0   -1   0   0   0   0   1   0/0Marco Rossi C  18:00   0  0   -2   0   1   2   1   1   2/6Yakov Trenin C  12:10   0  0    2   0   0   0   0   0   0/0Mats Zuccarello R  19:41   0  0    0   1   0   2   1   1   0/2Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  17:50   0  1   -3   0   2   0   0   0   0/0Jonas Brodin D  20:45   0  1   -3   2   1   0   0   2   0/0Declan Chisholm D  14:15   0  1    0   0   0   0   0   2   0/0Brock Faber D  26:48   1  0    1   2   0   0   1   1   0/0Jon Merrill D  12:50   0  0    0   0   1   0   0   0   0/0Jake Middleton D  19:37   1  0    2   2   0   0   0   2   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       26  14   6   5  15 27/55
+                                        49.1%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  58:16   6  16/22  16/21   0/1   0/0     0
+              .727   .762  .000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Cates L  07:52   0  1    1   0   0   0   0   0   4/7Sean Couturier C  17:32   3  2    5   5   1   0   0   1 11/14Nicolas Deslauriers L  06:15   0  0    0   0   0   0   0   0   0/0Joel Farabee L  15:59   0  0    0   1   1   2   0   2   0/1Tyson Foerster R  11:54   0  0   -1   0   1   0   0   0   0/0Morgan Frost C  11:00   0  1   -2   0   0   0   0   0   6/9Garnet Hathaway R  15:14   0  0   -2   0   0   4   0   0   0/1Travis Konecny R  19:45   1  4    4   4   1   0   1   1   0/0Scott Laughton C  17:37   0  0    0   1   0   2   0   0  4/10Matvei Michkov R  17:45   1  1    4   1   0   0   0   2   0/1Ryan Poehling C  17:02   0  0   -1   0   3   0   0   1  3/12Owen Tippett R  14:34   0  2   -2   3   1   0   0   0   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  18:16   0  0    2   1   1   0   0   3   0/0Erik Johnson D  14:41   0  0   -1   1   1   0   0   0   0/0Rasmus Ristolainen D  25:23   1  1    0   2   2   0   1   1   0/0Travis Sanheim D  27:49   0  1    0   3   3   0   1   1   0/0Nick Seeler D  18:39   1  1    3   1   2   0   1   1   0/0Egor Zamula D  14:12   0  0    0   0   5   0   0   2   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          7 14       23  22   8   4  15 28/55
+                                        50.9%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:44   5  21/26  11/15 10/11   0/0     0
+              .808   .733  .909
+Minnesota
+Wild5-1-2Final5 - 7Philadelphia
+Flyers2-5-1
+Minnesota
+Wild5-1-2
+Final5 - 7
+Philadelphia
+Flyers2-5-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+MIN   0  3  2    5  
+PHI   2  1  4    7
+1st Period: ShowHide
+P1  18:42 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Rasmus Ristolainen and Travis Konecny
+   0-1
+P1  16:09 
+Nick Seeler (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Matvei Michkov
+   0-2
+P1  05:05 
+Joel Farabee (PHI) high-sticking against Brock Faber (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  19:35 
+Scott Laughton (PHI) tripping against Marcus Johansson (2 minutes)
+   0-2
+P2  18:00 
+Garnet Hathaway (PHI) roughing against Joel Eriksson Ek (2 minutes)
+   0-2
+P2  05:06 
+Brock Faber (MIN) scores on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Joel Eriksson Ek
+   1-2
+P2  04:33 
+Marcus Foligno (MIN) scores on wrist shot past Samuel Ersson, assisted by Declan Chisholm
+   2-2
+P2  01:44 
+Matvei Michkov (PHI) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Sean Couturier and Owen Tippett
+   2-3
+P2  00:51 
+PHI penalty, too many men on the ice (2 minutes), served by Joel Farabee
+   2-3
+P2  00:04 
+Joel Eriksson Ek (MIN) scores power-play goal on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Matt Boldy
+   3-3
+3rd Period: ShowHide
+P3  17:42 
+Marcus Foligno (MIN) scores on tip-in past Samuel Ersson, assisted by Zach Bogosian and Jonas Brodin
+   4-3
+P3  15:45 
+Marco Rossi (MIN) hooking against Tyson Foerster (2 minutes)
+   4-3
+P3  15:05 
+Travis Konecny (PHI) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Morgan Frost and Owen Tippett
+   4-4
+P3  11:34 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Nick Seeler
+   4-5
+P3  06:32 
+Jake Middleton (MIN) scores on wrist shot past Samuel Ersson
+   5-5
+P3  02:24 
+Rasmus Ristolainen (PHI) scores on backhand shot past Filip Gustavsson, assisted by Sean Couturier and Travis Konecny
+   5-6
+P3  02:03 
+Garnet Hathaway (PHI) hooking against Mats Zuccarello (2 minutes)
+   5-6
+P3  02:03 
+Mats Zuccarello (MIN) roughing against Scott Laughton (2 minutes)
+   5-6
+P3  01:00 
+Sean Couturier (PHI) scores on empty net, assisted by Noah Cates and Travis Sanheim
+   5-7
+P3  00:29 
+Matt Boldy (MIN) slashing against Travis Sanheim (2 minutes)
+   5-7
+1st Period: ShowHide
+P1  18:42 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Rasmus Ristolainen and Travis Konecny
+   0-1
+P1  16:09 
+Nick Seeler (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Matvei Michkov
+   0-2
+P1  05:05 
+Joel Farabee (PHI) high-sticking against Brock Faber (2 minutes)
+   0-2
+P1  18:42 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Rasmus Ristolainen and Travis Konecny
+   0-1
+P1  16:09 
+Nick Seeler (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Matvei Michkov
+   0-2
+P1  05:05 
+Joel Farabee (PHI) high-sticking against Brock Faber (2 minutes)
+   0-2
+P1  18:42
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Rasmus Ristolainen and Travis Konecny
+0-1
+P1  16:09
+Nick Seeler (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Matvei Michkov
+0-2
+P1  05:05
+Joel Farabee (PHI) high-sticking against Brock Faber (2 minutes)
+0-2
+2nd Period: ShowHide
+P2  19:35 
+Scott Laughton (PHI) tripping against Marcus Johansson (2 minutes)
+   0-2
+P2  18:00 
+Garnet Hathaway (PHI) roughing against Joel Eriksson Ek (2 minutes)
+   0-2
+P2  05:06 
+Brock Faber (MIN) scores on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Joel Eriksson Ek
+   1-2
+P2  04:33 
+Marcus Foligno (MIN) scores on wrist shot past Samuel Ersson, assisted by Declan Chisholm
+   2-2
+P2  01:44 
+Matvei Michkov (PHI) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Sean Couturier and Owen Tippett
+   2-3
+P2  00:51 
+PHI penalty, too many men on the ice (2 minutes), served by Joel Farabee
+   2-3
+P2  00:04 
+Joel Eriksson Ek (MIN) scores power-play goal on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Matt Boldy
+   3-3
+P2  19:35 
+Scott Laughton (PHI) tripping against Marcus Johansson (2 minutes)
+   0-2
+P2  18:00 
+Garnet Hathaway (PHI) roughing against Joel Eriksson Ek (2 minutes)
+   0-2
+P2  05:06 
+Brock Faber (MIN) scores on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Joel Eriksson Ek
+   1-2
+P2  04:33 
+Marcus Foligno (MIN) scores on wrist shot past Samuel Ersson, assisted by Declan Chisholm
+   2-2
+P2  01:44 
+Matvei Michkov (PHI) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Sean Couturier and Owen Tippett
+   2-3
+P2  00:51 
+PHI penalty, too many men on the ice (2 minutes), served by Joel Farabee
+   2-3
+P2  00:04 
+Joel Eriksson Ek (MIN) scores power-play goal on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Matt Boldy
+   3-3
+P2  19:35
+Scott Laughton (PHI) tripping against Marcus Johansson (2 minutes)
+0-2
+P2  18:00
+Garnet Hathaway (PHI) roughing against Joel Eriksson Ek (2 minutes)
+0-2
+P2  05:06
+Brock Faber (MIN) scores on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Joel Eriksson Ek
+1-2
+P2  04:33
+Marcus Foligno (MIN) scores on wrist shot past Samuel Ersson, assisted by Declan Chisholm
+2-2
+P2  01:44
+Matvei Michkov (PHI) scores goal with extra attacker on wrist shot past Filip Gustavsson, assisted by Sean Couturier and Owen Tippett
+2-3
+P2  00:51
+PHI penalty, too many men on the ice (2 minutes), served by Joel Farabee
+2-3
+P2  00:04
+Joel Eriksson Ek (MIN) scores power-play goal on wrist shot past Samuel Ersson, assisted by Kirill Kaprizov and Matt Boldy
+3-3
+3rd Period: ShowHide
+P3  17:42 
+Marcus Foligno (MIN) scores on tip-in past Samuel Ersson, assisted by Zach Bogosian and Jonas Brodin
+   4-3
+P3  15:45 
+Marco Rossi (MIN) hooking against Tyson Foerster (2 minutes)
+   4-3
+P3  15:05 
+Travis Konecny (PHI) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Morgan Frost and Owen Tippett
+   4-4
+P3  11:34 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Nick Seeler
+   4-5
+P3  06:32 
+Jake Middleton (MIN) scores on wrist shot past Samuel Ersson
+   5-5
+P3  02:24 
+Rasmus Ristolainen (PHI) scores on backhand shot past Filip Gustavsson, assisted by Sean Couturier and Travis Konecny
+   5-6
+P3  02:03 
+Garnet Hathaway (PHI) hooking against Mats Zuccarello (2 minutes)
+   5-6
+P3  02:03 
+Mats Zuccarello (MIN) roughing against Scott Laughton (2 minutes)
+   5-6
+P3  01:00 
+Sean Couturier (PHI) scores on empty net, assisted by Noah Cates and Travis Sanheim
+   5-7
+P3  00:29 
+Matt Boldy (MIN) slashing against Travis Sanheim (2 minutes)
+   5-7
+P3  17:42 
+Marcus Foligno (MIN) scores on tip-in past Samuel Ersson, assisted by Zach Bogosian and Jonas Brodin
+   4-3
+P3  15:45 
+Marco Rossi (MIN) hooking against Tyson Foerster (2 minutes)
+   4-3
+P3  15:05 
+Travis Konecny (PHI) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Morgan Frost and Owen Tippett
+   4-4
+P3  11:34 
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Nick Seeler
+   4-5
+P3  06:32 
+Jake Middleton (MIN) scores on wrist shot past Samuel Ersson
+   5-5
+P3  02:24 
+Rasmus Ristolainen (PHI) scores on backhand shot past Filip Gustavsson, assisted by Sean Couturier and Travis Konecny
+   5-6
+P3  02:03 
+Garnet Hathaway (PHI) hooking against Mats Zuccarello (2 minutes)
+   5-6
+P3  02:03 
+Mats Zuccarello (MIN) roughing against Scott Laughton (2 minutes)
+   5-6
+P3  01:00 
+Sean Couturier (PHI) scores on empty net, assisted by Noah Cates and Travis Sanheim
+   5-7
+P3  00:29 
+Matt Boldy (MIN) slashing against Travis Sanheim (2 minutes)
+   5-7
+P3  17:42
+Marcus Foligno (MIN) scores on tip-in past Samuel Ersson, assisted by Zach Bogosian and Jonas Brodin
+4-3
+P3  15:45
+Marco Rossi (MIN) hooking against Tyson Foerster (2 minutes)
+4-3
+P3  15:05
+Travis Konecny (PHI) scores power-play goal on wrist shot past Filip Gustavsson, assisted by Morgan Frost and Owen Tippett
+4-4
+P3  11:34
+Sean Couturier (PHI) scores on wrist shot past Filip Gustavsson, assisted by Travis Konecny and Nick Seeler
+4-5
+P3  06:32
+Jake Middleton (MIN) scores on wrist shot past Samuel Ersson
+5-5
+P3  02:24
+Rasmus Ristolainen (PHI) scores on backhand shot past Filip Gustavsson, assisted by Sean Couturier and Travis Konecny
+5-6
+P3  02:03
+Garnet Hathaway (PHI) hooking against Mats Zuccarello (2 minutes)
+5-6
+P3  02:03
+Mats Zuccarello (MIN) roughing against Scott Laughton (2 minutes)
+5-6
+P3  01:00
+Sean Couturier (PHI) scores on empty net, assisted by Noah Cates and Travis Sanheim
+5-7
+P3  00:29
+Matt Boldy (MIN) slashing against Travis Sanheim (2 minutes)
+5-7
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  22:58   0  1   -3   9   3   2   1   1   1/1Joel Eriksson Ek C  21:09   1  1   -1   3   0   0   1   0 12/22Marcus Foligno L  12:34   2  0    2   3   3   0   0   1   0/0Frederick Gaudreau C  14:59   0  0    2   1   0   0   0   0  9/16Marcus Johansson L  17:26   0  0   -2   0   0   0   0   1   0/0Kirill Kaprizov L  24:36   0  2    0   3   0   0   0   0   0/0Marat Khusnutdinov C  08:25   0  0   -2   0   2   0   0   1   3/7Jakub Lauko C  07:46   0  0   -2   0   1   0   0   1   0/1Liam Ohgren L  06:46   0  0   -1   0   0   0   0   1   0/0Marco Rossi C  18:00   0  0   -2   0   1   2   1   1   2/6Yakov Trenin C  12:10   0  0    2   0   0   0   0   0   0/0Mats Zuccarello R  19:41   0  0    0   1   0   2   1   1   0/2Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  17:50   0  1   -3   0   2   0   0   0   0/0Jonas Brodin D  20:45   0  1   -3   2   1   0   0   2   0/0Declan Chisholm D  14:15   0  1    0   0   0   0   0   2   0/0Brock Faber D  26:48   1  0    1   2   0   0   1   1   0/0Jon Merrill D  12:50   0  0    0   0   1   0   0   0   0/0Jake Middleton D  19:37   1  0    2   2   0   0   0   2   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       26  14   6   5  15 27/55
+                                        49.1%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  58:16   6  16/22  16/21   0/1   0/0     0
+              .727   .762  .000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Cates L  07:52   0  1    1   0   0   0   0   0   4/7Sean Couturier C  17:32   3  2    5   5   1   0   0   1 11/14Nicolas Deslauriers L  06:15   0  0    0   0   0   0   0   0   0/0Joel Farabee L  15:59   0  0    0   1   1   2   0   2   0/1Tyson Foerster R  11:54   0  0   -1   0   1   0   0   0   0/0Morgan Frost C  11:00   0  1   -2   0   0   0   0   0   6/9Garnet Hathaway R  15:14   0  0   -2   0   0   4   0   0   0/1Travis Konecny R  19:45   1  4    4   4   1   0   1   1   0/0Scott Laughton C  17:37   0  0    0   1   0   2   0   0  4/10Matvei Michkov R  17:45   1  1    4   1   0   0   0   2   0/1Ryan Poehling C  17:02   0  0   -1   0   3   0   0   1  3/12Owen Tippett R  14:34   0  2   -2   3   1   0   0   0   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  18:16   0  0    2   1   1   0   0   3   0/0Erik Johnson D  14:41   0  0   -1   1   1   0   0   0   0/0Rasmus Ristolainen D  25:23   1  1    0   2   2   0   1   1   0/0Travis Sanheim D  27:49   0  1    0   3   3   0   1   1   0/0Nick Seeler D  18:39   1  1    3   1   2   0   1   1   0/0Egor Zamula D  14:12   0  0    0   0   5   0   0   2   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          7 14       23  22   8   4  15 28/55
+                                        50.9%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:44   5  21/26  11/15 10/11   0/0     0
+              .808   .733  .909
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  22:58   0  1   -3   9   3   2   1   1   1/1Joel Eriksson Ek C  21:09   1  1   -1   3   0   0   1   0 12/22Marcus Foligno L  12:34   2  0    2   3   3   0   0   1   0/0Frederick Gaudreau C  14:59   0  0    2   1   0   0   0   0  9/16Marcus Johansson L  17:26   0  0   -2   0   0   0   0   1   0/0Kirill Kaprizov L  24:36   0  2    0   3   0   0   0   0   0/0Marat Khusnutdinov C  08:25   0  0   -2   0   2   0   0   1   3/7Jakub Lauko C  07:46   0  0   -2   0   1   0   0   1   0/1Liam Ohgren L  06:46   0  0   -1   0   0   0   0   1   0/0Marco Rossi C  18:00   0  0   -2   0   1   2   1   1   2/6Yakov Trenin C  12:10   0  0    2   0   0   0   0   0   0/0Mats Zuccarello R  19:41   0  0    0   1   0   2   1   1   0/2
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Boldy L
+22:58   0  1   -3   9   3   2   1   1   1/1
+Joel Eriksson Ek C
+21:09   1  1   -1   3   0   0   1   0 12/22
+Marcus Foligno L
+12:34   2  0    2   3   3   0   0   1   0/0
+Frederick Gaudreau C
+14:59   0  0    2   1   0   0   0   0  9/16
+Marcus Johansson L
+17:26   0  0   -2   0   0   0   0   1   0/0
+Kirill Kaprizov L
+24:36   0  2    0   3   0   0   0   0   0/0
+Marat Khusnutdinov C
+08:25   0  0   -2   0   2   0   0   1   3/7
+Jakub Lauko C
+07:46   0  0   -2   0   1   0   0   1   0/1
+Liam Ohgren L
+06:46   0  0   -1   0   0   0   0   1   0/0
+Marco Rossi C
+18:00   0  0   -2   0   1   2   1   1   2/6
+Yakov Trenin C
+12:10   0  0    2   0   0   0   0   0   0/0
+Mats Zuccarello R
+19:41   0  0    0   1   0   2   1   1   0/2
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  17:50   0  1   -3   0   2   0   0   0   0/0Jonas Brodin D  20:45   0  1   -3   2   1   0   0   2   0/0Declan Chisholm D  14:15   0  1    0   0   0   0   0   2   0/0Brock Faber D  26:48   1  0    1   2   0   0   1   1   0/0Jon Merrill D  12:50   0  0    0   0   1   0   0   0   0/0Jake Middleton D  19:37   1  0    2   2   0   0   0   2   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Bogosian D
+17:50   0  1   -3   0   2   0   0   0   0/0
+Jonas Brodin D
+20:45   0  1   -3   2   1   0   0   2   0/0
+Declan Chisholm D
+14:15   0  1    0   0   0   0   0   2   0/0
+Brock Faber D
+26:48   1  0    1   2   0   0   1   1   0/0
+Jon Merrill D
+12:50   0  0    0   0   1   0   0   0   0/0
+Jake Middleton D
+19:37   1  0    2   2   0   0   0   2   0/0
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       26  14   6   5  15 27/55
+                                        49.1%
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  58:16   6  16/22  16/21   0/1   0/0     0
+              .727   .762  .000
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Filip Gustavsson G
+58:16   6  16/22  16/21   0/1   0/0     0
+              .727   .762  .000
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Cates L  07:52   0  1    1   0   0   0   0   0   4/7Sean Couturier C  17:32   3  2    5   5   1   0   0   1 11/14Nicolas Deslauriers L  06:15   0  0    0   0   0   0   0   0   0/0Joel Farabee L  15:59   0  0    0   1   1   2   0   2   0/1Tyson Foerster R  11:54   0  0   -1   0   1   0   0   0   0/0Morgan Frost C  11:00   0  1   -2   0   0   0   0   0   6/9Garnet Hathaway R  15:14   0  0   -2   0   0   4   0   0   0/1Travis Konecny R  19:45   1  4    4   4   1   0   1   1   0/0Scott Laughton C  17:37   0  0    0   1   0   2   0   0  4/10Matvei Michkov R  17:45   1  1    4   1   0   0   0   2   0/1Ryan Poehling C  17:02   0  0   -1   0   3   0   0   1  3/12Owen Tippett R  14:34   0  2   -2   3   1   0   0   0   0/0
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Cates L
+07:52   0  1    1   0   0   0   0   0   4/7
+Sean Couturier C
+17:32   3  2    5   5   1   0   0   1 11/14
+Nicolas Deslauriers L
+06:15   0  0    0   0   0   0   0   0   0/0
+Joel Farabee L
+15:59   0  0    0   1   1   2   0   2   0/1
+Tyson Foerster R
+11:54   0  0   -1   0   1   0   0   0   0/0
+Morgan Frost C
+11:00   0  1   -2   0   0   0   0   0   6/9
+Garnet Hathaway R
+15:14   0  0   -2   0   0   4   0   0   0/1
+Travis Konecny R
+19:45   1  4    4   4   1   0   1   1   0/0
+Scott Laughton C
+17:37   0  0    0   1   0   2   0   0  4/10
+Matvei Michkov R
+17:45   1  1    4   1   0   0   0   2   0/1
+Ryan Poehling C
+17:02   0  0   -1   0   3   0   0   1  3/12
+Owen Tippett R
+14:34   0  2   -2   3   1   0   0   0   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  18:16   0  0    2   1   1   0   0   3   0/0Erik Johnson D  14:41   0  0   -1   1   1   0   0   0   0/0Rasmus Ristolainen D  25:23   1  1    0   2   2   0   1   1   0/0Travis Sanheim D  27:49   0  1    0   3   3   0   1   1   0/0Nick Seeler D  18:39   1  1    3   1   2   0   1   1   0/0Egor Zamula D  14:12   0  0    0   0   5   0   0   2   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Drysdale D
+18:16   0  0    2   1   1   0   0   3   0/0
+Erik Johnson D
+14:41   0  0   -1   1   1   0   0   0   0/0
+Rasmus Ristolainen D
+25:23   1  1    0   2   2   0   1   1   0/0
+Travis Sanheim D
+27:49   0  1    0   3   3   0   1   1   0/0
+Nick Seeler D
+18:39   1  1    3   1   2   0   1   1   0/0
+Egor Zamula D
+14:12   0  0    0   0   5   0   0   2   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          7 14       23  22   8   4  15 28/55
+                                        50.9%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:44   5  21/26  11/15 10/11   0/0     0
+              .808   .733  .909
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Samuel Ersson G
+59:44   5  21/26  11/15 10/11   0/0     0
+              .808   .733  .909
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

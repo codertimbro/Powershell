@@ -1,0 +1,340 @@
+< Oct. 27 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Edmonton
+Oilers4-4-1Final/OT3 - 2Detroit
+Red Wings4-4-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+EDM   0  1  1  1    3  
+DET   1  1  0  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:32 
+J.T. Compher (DET) scores on wrist shot past Calvin Pickard, assisted by Patrick Kane and Andrew Copp
+   0-1
+P1  04:39 
+Joe Veleno (DET) fighting against Corey Perry (5 minutes)
+   0-1
+P1  04:39 
+Corey Perry (EDM) fighting against Joe Veleno (5 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:18 
+Dylan Larkin (DET) interference against Connor McDavid (2 minutes)
+   0-1
+P2  11:14 
+Leon Draisaitl (EDM) scores on snap shot past Cam Talbot, assisted by Connor McDavid and Evan Bouchard
+   1-1
+P2  10:32 
+Andrew Copp (DET) scores on tip-in past Calvin Pickard, assisted by Jeff Petry and Patrick Kane
+   1-2
+3rd Period: ShowHide
+P3  15:51 
+Darnell Nurse (EDM) tripping against Jonatan Berggren (2 minutes)
+   1-2
+P3  09:13 
+Evan Bouchard (EDM) scores on slap shot past Cam Talbot, assisted by Leon Draisaitl and Mattias Ekholm
+   2-2
+P3  01:51 
+Andrew Copp (DET) tripping against Mattias Janmark (2 minutes)
+   2-2
+Overtime: ShowHide
+OT  04:42 
+Leon Draisaitl (EDM) scores on tip-in past Cam Talbot, assisted by Mattias Ekholm and Connor McDavid
+   3-2
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:45   0  0   -2   2   0   0   0   4   0/1Connor Brown R  12:39   0  0    0   3   1   0   0   1   0/0Leon Draisaitl C  21:10   2  1    1   7   1   0   0   0  8/21Adam Henrique C  12:55   0  0    0   1   0   0   0   0  4/10Zach Hyman L  19:03   0  0    2   2   2   0   0   0   0/0Mattias Janmark C  11:44   0  0    0   0   0   0   0   0   1/2Connor McDavid C  22:49   0  2    3   4   0   0   0   1  4/10Ryan Nugent-Hopkins C  17:31   0  0    0   2   0   0   0   0   2/4Corey Perry R  11:26   0  0    0   0   0   5   0   1   0/0Vasily Podkolzin R  11:25   0  0   -2   0   0   0   0   0   0/1Derek Ryan C  09:14   0  0    0   0   3   0   0   0   4/9Jeff Skinner L  15:00   0  0    0   5   0   0   0   4   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  25:13   1  1    3   3   4   0   0   2   0/0Mattias Ekholm D  23:49   0  2    3   1   1   0   0   2   0/0Ty Emberson D  12:30   0  0    0   1   2   0   0   0   0/0Brett Kulak D  20:04   0  0   -1   1   1   0   0   0   0/0Darnell Nurse D  21:45   0  0   -2   1   0   2   1   2   0/0Troy Stecher D  14:14   0  0   -1   1   2   0   0   0   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       34  17   7   1  17 23/58
+                                        39.7%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  60:14   2  24/26  22/24   1/1   1/1     0
+              .923   .917 1.000 1.000 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  14:06   0  0   -2   4   0   0   0   0   0/2J.T. Compher L  18:08   1  0    1   1   2   0   0   1  4/13Andrew Copp C  16:44   1  1    1   2   1   2   0   0   8/9Alex DeBrincat R  16:59   0  0    0   2   1   0   0   0   0/0Christian Fischer R  12:49   0  0    0   2   1   0   0   0   1/1Patrick Kane R  15:23   0  2    2   1   0   0   0   1   0/0Marco Kasper C  13:56   0  0   -1   2   1   0   0   0  7/10Dylan Larkin C  18:39   0  0   -1   4   0   2   0   0  8/13Michael Rasmussen C  11:32   0  0    0   0   0   0   0   0   0/0Lucas Raymond L  16:13   0  0    0   0   1   0   0   3   0/0Vladimir Tarasenko R  12:34   0  0   -2   0   1   0   0   1   0/0Joe Veleno C  11:21   0  0    0   1   0   5   0   0  7/10Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  18:28   0  0    1   1   0   0   0   3   0/0Simon Edvinsson D  24:40   0  0   -1   3   2   0   1   1   0/0Albert Johansson D  15:06   0  0   -1   0   2   0   0   0   0/0Olli Maatta D  17:32   0  0   -1   2   1   0   0   1   0/0Jeff Petry D  18:06   0  1    2   0   4   0   0   0   0/0Moritz Seider D  24:56   0  0   -2   1   3   0   0   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  20   9   1  11 35/58
+                                        60.3%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:18   3  31/34  30/33   1/1   0/0     0
+              .912   .909 1.000
+Edmonton
+Oilers4-4-1Final/OT3 - 2Detroit
+Red Wings4-4-1
+Edmonton
+Oilers4-4-1
+Final/OT3 - 2
+Detroit
+Red Wings4-4-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+EDM   0  1  1  1    3  
+DET   1  1  0  0    2
+1st Period: ShowHide
+P1  16:32 
+J.T. Compher (DET) scores on wrist shot past Calvin Pickard, assisted by Patrick Kane and Andrew Copp
+   0-1
+P1  04:39 
+Joe Veleno (DET) fighting against Corey Perry (5 minutes)
+   0-1
+P1  04:39 
+Corey Perry (EDM) fighting against Joe Veleno (5 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:18 
+Dylan Larkin (DET) interference against Connor McDavid (2 minutes)
+   0-1
+P2  11:14 
+Leon Draisaitl (EDM) scores on snap shot past Cam Talbot, assisted by Connor McDavid and Evan Bouchard
+   1-1
+P2  10:32 
+Andrew Copp (DET) scores on tip-in past Calvin Pickard, assisted by Jeff Petry and Patrick Kane
+   1-2
+3rd Period: ShowHide
+P3  15:51 
+Darnell Nurse (EDM) tripping against Jonatan Berggren (2 minutes)
+   1-2
+P3  09:13 
+Evan Bouchard (EDM) scores on slap shot past Cam Talbot, assisted by Leon Draisaitl and Mattias Ekholm
+   2-2
+P3  01:51 
+Andrew Copp (DET) tripping against Mattias Janmark (2 minutes)
+   2-2
+Overtime: ShowHide
+OT  04:42 
+Leon Draisaitl (EDM) scores on tip-in past Cam Talbot, assisted by Mattias Ekholm and Connor McDavid
+   3-2
+1st Period: ShowHide
+P1  16:32 
+J.T. Compher (DET) scores on wrist shot past Calvin Pickard, assisted by Patrick Kane and Andrew Copp
+   0-1
+P1  04:39 
+Joe Veleno (DET) fighting against Corey Perry (5 minutes)
+   0-1
+P1  04:39 
+Corey Perry (EDM) fighting against Joe Veleno (5 minutes)
+   0-1
+P1  16:32 
+J.T. Compher (DET) scores on wrist shot past Calvin Pickard, assisted by Patrick Kane and Andrew Copp
+   0-1
+P1  04:39 
+Joe Veleno (DET) fighting against Corey Perry (5 minutes)
+   0-1
+P1  04:39 
+Corey Perry (EDM) fighting against Joe Veleno (5 minutes)
+   0-1
+P1  16:32
+J.T. Compher (DET) scores on wrist shot past Calvin Pickard, assisted by Patrick Kane and Andrew Copp
+0-1
+P1  04:39
+Joe Veleno (DET) fighting against Corey Perry (5 minutes)
+0-1
+P1  04:39
+Corey Perry (EDM) fighting against Joe Veleno (5 minutes)
+0-1
+2nd Period: ShowHide
+P2  14:18 
+Dylan Larkin (DET) interference against Connor McDavid (2 minutes)
+   0-1
+P2  11:14 
+Leon Draisaitl (EDM) scores on snap shot past Cam Talbot, assisted by Connor McDavid and Evan Bouchard
+   1-1
+P2  10:32 
+Andrew Copp (DET) scores on tip-in past Calvin Pickard, assisted by Jeff Petry and Patrick Kane
+   1-2
+P2  14:18 
+Dylan Larkin (DET) interference against Connor McDavid (2 minutes)
+   0-1
+P2  11:14 
+Leon Draisaitl (EDM) scores on snap shot past Cam Talbot, assisted by Connor McDavid and Evan Bouchard
+   1-1
+P2  10:32 
+Andrew Copp (DET) scores on tip-in past Calvin Pickard, assisted by Jeff Petry and Patrick Kane
+   1-2
+P2  14:18
+Dylan Larkin (DET) interference against Connor McDavid (2 minutes)
+0-1
+P2  11:14
+Leon Draisaitl (EDM) scores on snap shot past Cam Talbot, assisted by Connor McDavid and Evan Bouchard
+1-1
+P2  10:32
+Andrew Copp (DET) scores on tip-in past Calvin Pickard, assisted by Jeff Petry and Patrick Kane
+1-2
+3rd Period: ShowHide
+P3  15:51 
+Darnell Nurse (EDM) tripping against Jonatan Berggren (2 minutes)
+   1-2
+P3  09:13 
+Evan Bouchard (EDM) scores on slap shot past Cam Talbot, assisted by Leon Draisaitl and Mattias Ekholm
+   2-2
+P3  01:51 
+Andrew Copp (DET) tripping against Mattias Janmark (2 minutes)
+   2-2
+P3  15:51 
+Darnell Nurse (EDM) tripping against Jonatan Berggren (2 minutes)
+   1-2
+P3  09:13 
+Evan Bouchard (EDM) scores on slap shot past Cam Talbot, assisted by Leon Draisaitl and Mattias Ekholm
+   2-2
+P3  01:51 
+Andrew Copp (DET) tripping against Mattias Janmark (2 minutes)
+   2-2
+P3  15:51
+Darnell Nurse (EDM) tripping against Jonatan Berggren (2 minutes)
+1-2
+P3  09:13
+Evan Bouchard (EDM) scores on slap shot past Cam Talbot, assisted by Leon Draisaitl and Mattias Ekholm
+2-2
+P3  01:51
+Andrew Copp (DET) tripping against Mattias Janmark (2 minutes)
+2-2
+Overtime: ShowHide
+OT  04:42 
+Leon Draisaitl (EDM) scores on tip-in past Cam Talbot, assisted by Mattias Ekholm and Connor McDavid
+   3-2
+OT  04:42 
+Leon Draisaitl (EDM) scores on tip-in past Cam Talbot, assisted by Mattias Ekholm and Connor McDavid
+   3-2
+OT  04:42
+Leon Draisaitl (EDM) scores on tip-in past Cam Talbot, assisted by Mattias Ekholm and Connor McDavid
+3-2
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:45   0  0   -2   2   0   0   0   4   0/1Connor Brown R  12:39   0  0    0   3   1   0   0   1   0/0Leon Draisaitl C  21:10   2  1    1   7   1   0   0   0  8/21Adam Henrique C  12:55   0  0    0   1   0   0   0   0  4/10Zach Hyman L  19:03   0  0    2   2   2   0   0   0   0/0Mattias Janmark C  11:44   0  0    0   0   0   0   0   0   1/2Connor McDavid C  22:49   0  2    3   4   0   0   0   1  4/10Ryan Nugent-Hopkins C  17:31   0  0    0   2   0   0   0   0   2/4Corey Perry R  11:26   0  0    0   0   0   5   0   1   0/0Vasily Podkolzin R  11:25   0  0   -2   0   0   0   0   0   0/1Derek Ryan C  09:14   0  0    0   0   3   0   0   0   4/9Jeff Skinner L  15:00   0  0    0   5   0   0   0   4   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  25:13   1  1    3   3   4   0   0   2   0/0Mattias Ekholm D  23:49   0  2    3   1   1   0   0   2   0/0Ty Emberson D  12:30   0  0    0   1   2   0   0   0   0/0Brett Kulak D  20:04   0  0   -1   1   1   0   0   0   0/0Darnell Nurse D  21:45   0  0   -2   1   0   2   1   2   0/0Troy Stecher D  14:14   0  0   -1   1   2   0   0   0   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       34  17   7   1  17 23/58
+                                        39.7%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  60:14   2  24/26  22/24   1/1   1/1     0
+              .923   .917 1.000 1.000 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  14:06   0  0   -2   4   0   0   0   0   0/2J.T. Compher L  18:08   1  0    1   1   2   0   0   1  4/13Andrew Copp C  16:44   1  1    1   2   1   2   0   0   8/9Alex DeBrincat R  16:59   0  0    0   2   1   0   0   0   0/0Christian Fischer R  12:49   0  0    0   2   1   0   0   0   1/1Patrick Kane R  15:23   0  2    2   1   0   0   0   1   0/0Marco Kasper C  13:56   0  0   -1   2   1   0   0   0  7/10Dylan Larkin C  18:39   0  0   -1   4   0   2   0   0  8/13Michael Rasmussen C  11:32   0  0    0   0   0   0   0   0   0/0Lucas Raymond L  16:13   0  0    0   0   1   0   0   3   0/0Vladimir Tarasenko R  12:34   0  0   -2   0   1   0   0   1   0/0Joe Veleno C  11:21   0  0    0   1   0   5   0   0  7/10Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  18:28   0  0    1   1   0   0   0   3   0/0Simon Edvinsson D  24:40   0  0   -1   3   2   0   1   1   0/0Albert Johansson D  15:06   0  0   -1   0   2   0   0   0   0/0Olli Maatta D  17:32   0  0   -1   2   1   0   0   1   0/0Jeff Petry D  18:06   0  1    2   0   4   0   0   0   0/0Moritz Seider D  24:56   0  0   -2   1   3   0   0   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  20   9   1  11 35/58
+                                        60.3%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:18   3  31/34  30/33   1/1   0/0     0
+              .912   .909 1.000
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:45   0  0   -2   2   0   0   0   4   0/1Connor Brown R  12:39   0  0    0   3   1   0   0   1   0/0Leon Draisaitl C  21:10   2  1    1   7   1   0   0   0  8/21Adam Henrique C  12:55   0  0    0   1   0   0   0   0  4/10Zach Hyman L  19:03   0  0    2   2   2   0   0   0   0/0Mattias Janmark C  11:44   0  0    0   0   0   0   0   0   1/2Connor McDavid C  22:49   0  2    3   4   0   0   0   1  4/10Ryan Nugent-Hopkins C  17:31   0  0    0   2   0   0   0   0   2/4Corey Perry R  11:26   0  0    0   0   0   5   0   1   0/0Vasily Podkolzin R  11:25   0  0   -2   0   0   0   0   0   0/1Derek Ryan C  09:14   0  0    0   0   3   0   0   0   4/9Jeff Skinner L  15:00   0  0    0   5   0   0   0   4   0/0
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Viktor Arvidsson L
+16:45   0  0   -2   2   0   0   0   4   0/1
+Connor Brown R
+12:39   0  0    0   3   1   0   0   1   0/0
+Leon Draisaitl C
+21:10   2  1    1   7   1   0   0   0  8/21
+Adam Henrique C
+12:55   0  0    0   1   0   0   0   0  4/10
+Zach Hyman L
+19:03   0  0    2   2   2   0   0   0   0/0
+Mattias Janmark C
+11:44   0  0    0   0   0   0   0   0   1/2
+Connor McDavid C
+22:49   0  2    3   4   0   0   0   1  4/10
+Ryan Nugent-Hopkins C
+17:31   0  0    0   2   0   0   0   0   2/4
+Corey Perry R
+11:26   0  0    0   0   0   5   0   1   0/0
+Vasily Podkolzin R
+11:25   0  0   -2   0   0   0   0   0   0/1
+Derek Ryan C
+09:14   0  0    0   0   3   0   0   0   4/9
+Jeff Skinner L
+15:00   0  0    0   5   0   0   0   4   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  25:13   1  1    3   3   4   0   0   2   0/0Mattias Ekholm D  23:49   0  2    3   1   1   0   0   2   0/0Ty Emberson D  12:30   0  0    0   1   2   0   0   0   0/0Brett Kulak D  20:04   0  0   -1   1   1   0   0   0   0/0Darnell Nurse D  21:45   0  0   -2   1   0   2   1   2   0/0Troy Stecher D  14:14   0  0   -1   1   2   0   0   0   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Evan Bouchard D
+25:13   1  1    3   3   4   0   0   2   0/0
+Mattias Ekholm D
+23:49   0  2    3   1   1   0   0   2   0/0
+Ty Emberson D
+12:30   0  0    0   1   2   0   0   0   0/0
+Brett Kulak D
+20:04   0  0   -1   1   1   0   0   0   0/0
+Darnell Nurse D
+21:45   0  0   -2   1   0   2   1   2   0/0
+Troy Stecher D
+14:14   0  0   -1   1   2   0   0   0   0/0
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       34  17   7   1  17 23/58
+                                        39.7%
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  60:14   2  24/26  22/24   1/1   1/1     0
+              .923   .917 1.000 1.000
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Calvin Pickard G
+60:14   2  24/26  22/24   1/1   1/1     0
+              .923   .917 1.000 1.000
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  14:06   0  0   -2   4   0   0   0   0   0/2J.T. Compher L  18:08   1  0    1   1   2   0   0   1  4/13Andrew Copp C  16:44   1  1    1   2   1   2   0   0   8/9Alex DeBrincat R  16:59   0  0    0   2   1   0   0   0   0/0Christian Fischer R  12:49   0  0    0   2   1   0   0   0   1/1Patrick Kane R  15:23   0  2    2   1   0   0   0   1   0/0Marco Kasper C  13:56   0  0   -1   2   1   0   0   0  7/10Dylan Larkin C  18:39   0  0   -1   4   0   2   0   0  8/13Michael Rasmussen C  11:32   0  0    0   0   0   0   0   0   0/0Lucas Raymond L  16:13   0  0    0   0   1   0   0   3   0/0Vladimir Tarasenko R  12:34   0  0   -2   0   1   0   0   1   0/0Joe Veleno C  11:21   0  0    0   1   0   5   0   0  7/10
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+14:06   0  0   -2   4   0   0   0   0   0/2
+J.T. Compher L
+18:08   1  0    1   1   2   0   0   1  4/13
+Andrew Copp C
+16:44   1  1    1   2   1   2   0   0   8/9
+Alex DeBrincat R
+16:59   0  0    0   2   1   0   0   0   0/0
+Christian Fischer R
+12:49   0  0    0   2   1   0   0   0   1/1
+Patrick Kane R
+15:23   0  2    2   1   0   0   0   1   0/0
+Marco Kasper C
+13:56   0  0   -1   2   1   0   0   0  7/10
+Dylan Larkin C
+18:39   0  0   -1   4   0   2   0   0  8/13
+Michael Rasmussen C
+11:32   0  0    0   0   0   0   0   0   0/0
+Lucas Raymond L
+16:13   0  0    0   0   1   0   0   3   0/0
+Vladimir Tarasenko R
+12:34   0  0   -2   0   1   0   0   1   0/0
+Joe Veleno C
+11:21   0  0    0   1   0   5   0   0  7/10
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  18:28   0  0    1   1   0   0   0   3   0/0Simon Edvinsson D  24:40   0  0   -1   3   2   0   1   1   0/0Albert Johansson D  15:06   0  0   -1   0   2   0   0   0   0/0Olli Maatta D  17:32   0  0   -1   2   1   0   0   1   0/0Jeff Petry D  18:06   0  1    2   0   4   0   0   0   0/0Moritz Seider D  24:56   0  0   -2   1   3   0   0   0   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+18:28   0  0    1   1   0   0   0   3   0/0
+Simon Edvinsson D
+24:40   0  0   -1   3   2   0   1   1   0/0
+Albert Johansson D
+15:06   0  0   -1   0   2   0   0   0   0/0
+Olli Maatta D
+17:32   0  0   -1   2   1   0   0   1   0/0
+Jeff Petry D
+18:06   0  1    2   0   4   0   0   0   0/0
+Moritz Seider D
+24:56   0  0   -2   1   3   0   0   0   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  20   9   1  11 35/58
+                                        60.3%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:18   3  31/34  30/33   1/1   0/0     0
+              .912   .909 1.000
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cam Talbot G
+60:18   3  31/34  30/33   1/1   0/0     0
+              .912   .909 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

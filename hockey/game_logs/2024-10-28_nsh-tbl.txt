@@ -1,0 +1,370 @@
+< Oct. 28 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Nashville
+Predators3-5-1Final/OT2 - 3Tampa Bay
+Lightning6-3-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+NSH   0  2  0  0    2  
+TBL   2  0  0  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  10:11 
+Brayden Point (TBL) scores on backhand shot past Juuse Saros, assisted by Jake Guentzel
+   0-1
+P1  07:38 
+Colton Sissons (NSH) slashing against Mitchell Chaffee (2 minutes)
+   0-1
+P1  04:26 
+Michael Eyssimont (TBL) tripping against Tommy Novak (2 minutes)
+   0-1
+P1  03:11 
+Filip Forsberg (NSH) holding against Anthony Cirelli (2 minutes)
+   0-1
+P1  00:36 
+Mitchell Chaffee (TBL) scores on wrist shot past Juuse Saros, assisted by Brayden Point
+   0-2
+2nd Period: ShowHide
+P2  11:04 
+J.J. Moser (TBL) interference against Luke Evangelista (2 minutes)
+   0-2
+P2  09:41 
+Ryan O'Reilly (NSH) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Jonathan Marchessault and Steven Stamkos
+   1-2
+P2  06:56 
+J.J. Moser (TBL) high-sticking against Steven Stamkos (2 minutes)
+   1-2
+P2  01:20 
+Gustav Nyquist (NSH) scores on wrist shot past Andrei Vasilevskiy, assisted by Steven Stamkos and Brady Skjei
+   2-2
+P2  00:07 
+Victor Hedman (TBL) hooking against Filip Forsberg (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  14:26 
+Zachary L'Heureux (NSH) tripping against Nick Perbix (2 minutes)
+   2-2
+Overtime: ShowHide
+OT  01:38 
+Nick Paul (TBL) scores on wrist shot past Juuse Saros, assisted by Jake Guentzel
+   2-3
+Box Score:
+ 
+Back to Top
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  11:13   0  0    0   5   0   0   0   0   0/0Filip Forsberg L  20:00   0  0   -3   2   1   2   0   1   0/0Mark Jankowski C  11:07   0  0    0   1   0   0   0   0   3/3Zachary L'Heureux L  08:31   0  0    0   0   1   2   0   0   0/0Jonathan Marchessault R  17:34   0  1   -1   1   1   0   0   1   0/1Michael McCarron R  12:32   0  0    0   0   0   0   0   0   0/6Tommy Novak C  14:08   0  0   -2   3   1   0   0   0   4/6Gustav Nyquist C  19:21   1  0    1   2   1   0   1   1   0/0Ryan O'Reilly C  21:31   1  0   -1   3   0   0   0   1 11/23Colton Sissons C  15:17   0  0    1   2   0   2   0   0 13/19Cole Smith L  14:53   0  0    0   0   2   0   0   1   0/1Steven Stamkos C  21:02   0  2    0   6   0   0   0   1   1/5Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  22:36   0  0    0   3   4   0   0   0   0/0Dante Fabbro D  11:32   0  0    0   1   1   0   0   3   0/0Roman Josi D  28:22   0  0   -2   6   1   0   0   2   0/0Jeremy Lauzon D  20:59   0  0    0   0   4   0   0   0   0/0Luke Schenn D  14:06   0  0   -1   2   4   0   0   1   0/0Brady Skjei D  19:22   0  1    0   0   0   0   0   1   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  21   6   1  13 32/64
+                                        50.0%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  63:22   3  24/27  19/22   4/4   1/1     0
+              .889   .864 1.000 1.000 
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  08:37   0  0    0   2   1   0   0   0   0/0Mitchell Chaffee R  11:44   1  0    1   1   0   0   0   0   0/0Anthony Cirelli C  18:23   0  0   -1   3   2   0   0   0  6/14Michael Eyssimont C  11:00   0  0    0   1   0   2   0   0   0/0Conor Geekie C  12:44   0  0    0   1   3   0   0   0   0/0Zemgus Girgensons C  11:21   0  0    0   2   0   0   0   0   0/0Luke Glendening C  11:14   0  0    0   1   0   0   0   0 11/15Jake Guentzel C  18:30   0  2    1   4   0   0   0   1   3/4Brandon Hagel L  22:58   0  0    1   1   1   0   0   2   0/0Nikita Kucherov R  21:44   0  0    0   3   0   0   0   2   0/0Nick Paul L  13:33   1  0    1   2   1   0   0   0  2/10Brayden Point C  22:30   1  1    2   3   0   0   0   0 10/21Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  21:18   0  0    0   0   2   0   1   1   0/0Victor Hedman D  22:54   0  0    1   1   0   2   0   2   0/0Emil Lilleberg D  16:10   0  0   -1   1   0   0   0   0   0/0Ryan McDonagh D  21:24   0  0    2   0   3   0   0   2   0/0J.J. Moser D  20:25   0  0    1   0   1   4   0   0   0/0Nick Perbix D  16:14   0  0    0   1   0   0   0   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       27  14   8   1  10 32/64
+                                        50.0%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  63:22   2  35/37  24/25  9/10   2/2     0
+              .946   .960  .900 1.000
+Nashville
+Predators3-5-1Final/OT2 - 3Tampa Bay
+Lightning6-3-0
+Nashville
+Predators3-5-1
+Final/OT2 - 3
+Tampa Bay
+Lightning6-3-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+NSH   0  2  0  0    2  
+TBL   2  0  0  1    3
+1st Period: ShowHide
+P1  10:11 
+Brayden Point (TBL) scores on backhand shot past Juuse Saros, assisted by Jake Guentzel
+   0-1
+P1  07:38 
+Colton Sissons (NSH) slashing against Mitchell Chaffee (2 minutes)
+   0-1
+P1  04:26 
+Michael Eyssimont (TBL) tripping against Tommy Novak (2 minutes)
+   0-1
+P1  03:11 
+Filip Forsberg (NSH) holding against Anthony Cirelli (2 minutes)
+   0-1
+P1  00:36 
+Mitchell Chaffee (TBL) scores on wrist shot past Juuse Saros, assisted by Brayden Point
+   0-2
+2nd Period: ShowHide
+P2  11:04 
+J.J. Moser (TBL) interference against Luke Evangelista (2 minutes)
+   0-2
+P2  09:41 
+Ryan O'Reilly (NSH) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Jonathan Marchessault and Steven Stamkos
+   1-2
+P2  06:56 
+J.J. Moser (TBL) high-sticking against Steven Stamkos (2 minutes)
+   1-2
+P2  01:20 
+Gustav Nyquist (NSH) scores on wrist shot past Andrei Vasilevskiy, assisted by Steven Stamkos and Brady Skjei
+   2-2
+P2  00:07 
+Victor Hedman (TBL) hooking against Filip Forsberg (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  14:26 
+Zachary L'Heureux (NSH) tripping against Nick Perbix (2 minutes)
+   2-2
+Overtime: ShowHide
+OT  01:38 
+Nick Paul (TBL) scores on wrist shot past Juuse Saros, assisted by Jake Guentzel
+   2-3
+1st Period: ShowHide
+P1  10:11 
+Brayden Point (TBL) scores on backhand shot past Juuse Saros, assisted by Jake Guentzel
+   0-1
+P1  07:38 
+Colton Sissons (NSH) slashing against Mitchell Chaffee (2 minutes)
+   0-1
+P1  04:26 
+Michael Eyssimont (TBL) tripping against Tommy Novak (2 minutes)
+   0-1
+P1  03:11 
+Filip Forsberg (NSH) holding against Anthony Cirelli (2 minutes)
+   0-1
+P1  00:36 
+Mitchell Chaffee (TBL) scores on wrist shot past Juuse Saros, assisted by Brayden Point
+   0-2
+P1  10:11 
+Brayden Point (TBL) scores on backhand shot past Juuse Saros, assisted by Jake Guentzel
+   0-1
+P1  07:38 
+Colton Sissons (NSH) slashing against Mitchell Chaffee (2 minutes)
+   0-1
+P1  04:26 
+Michael Eyssimont (TBL) tripping against Tommy Novak (2 minutes)
+   0-1
+P1  03:11 
+Filip Forsberg (NSH) holding against Anthony Cirelli (2 minutes)
+   0-1
+P1  00:36 
+Mitchell Chaffee (TBL) scores on wrist shot past Juuse Saros, assisted by Brayden Point
+   0-2
+P1  10:11
+Brayden Point (TBL) scores on backhand shot past Juuse Saros, assisted by Jake Guentzel
+0-1
+P1  07:38
+Colton Sissons (NSH) slashing against Mitchell Chaffee (2 minutes)
+0-1
+P1  04:26
+Michael Eyssimont (TBL) tripping against Tommy Novak (2 minutes)
+0-1
+P1  03:11
+Filip Forsberg (NSH) holding against Anthony Cirelli (2 minutes)
+0-1
+P1  00:36
+Mitchell Chaffee (TBL) scores on wrist shot past Juuse Saros, assisted by Brayden Point
+0-2
+2nd Period: ShowHide
+P2  11:04 
+J.J. Moser (TBL) interference against Luke Evangelista (2 minutes)
+   0-2
+P2  09:41 
+Ryan O'Reilly (NSH) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Jonathan Marchessault and Steven Stamkos
+   1-2
+P2  06:56 
+J.J. Moser (TBL) high-sticking against Steven Stamkos (2 minutes)
+   1-2
+P2  01:20 
+Gustav Nyquist (NSH) scores on wrist shot past Andrei Vasilevskiy, assisted by Steven Stamkos and Brady Skjei
+   2-2
+P2  00:07 
+Victor Hedman (TBL) hooking against Filip Forsberg (2 minutes)
+   2-2
+P2  11:04 
+J.J. Moser (TBL) interference against Luke Evangelista (2 minutes)
+   0-2
+P2  09:41 
+Ryan O'Reilly (NSH) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Jonathan Marchessault and Steven Stamkos
+   1-2
+P2  06:56 
+J.J. Moser (TBL) high-sticking against Steven Stamkos (2 minutes)
+   1-2
+P2  01:20 
+Gustav Nyquist (NSH) scores on wrist shot past Andrei Vasilevskiy, assisted by Steven Stamkos and Brady Skjei
+   2-2
+P2  00:07 
+Victor Hedman (TBL) hooking against Filip Forsberg (2 minutes)
+   2-2
+P2  11:04
+J.J. Moser (TBL) interference against Luke Evangelista (2 minutes)
+0-2
+P2  09:41
+Ryan O'Reilly (NSH) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Jonathan Marchessault and Steven Stamkos
+1-2
+P2  06:56
+J.J. Moser (TBL) high-sticking against Steven Stamkos (2 minutes)
+1-2
+P2  01:20
+Gustav Nyquist (NSH) scores on wrist shot past Andrei Vasilevskiy, assisted by Steven Stamkos and Brady Skjei
+2-2
+P2  00:07
+Victor Hedman (TBL) hooking against Filip Forsberg (2 minutes)
+2-2
+3rd Period: ShowHide
+P3  14:26 
+Zachary L'Heureux (NSH) tripping against Nick Perbix (2 minutes)
+   2-2
+P3  14:26 
+Zachary L'Heureux (NSH) tripping against Nick Perbix (2 minutes)
+   2-2
+P3  14:26
+Zachary L'Heureux (NSH) tripping against Nick Perbix (2 minutes)
+2-2
+Overtime: ShowHide
+OT  01:38 
+Nick Paul (TBL) scores on wrist shot past Juuse Saros, assisted by Jake Guentzel
+   2-3
+OT  01:38 
+Nick Paul (TBL) scores on wrist shot past Juuse Saros, assisted by Jake Guentzel
+   2-3
+OT  01:38
+Nick Paul (TBL) scores on wrist shot past Juuse Saros, assisted by Jake Guentzel
+2-3
+Box Score:
+ 
+Back to Top
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  11:13   0  0    0   5   0   0   0   0   0/0Filip Forsberg L  20:00   0  0   -3   2   1   2   0   1   0/0Mark Jankowski C  11:07   0  0    0   1   0   0   0   0   3/3Zachary L'Heureux L  08:31   0  0    0   0   1   2   0   0   0/0Jonathan Marchessault R  17:34   0  1   -1   1   1   0   0   1   0/1Michael McCarron R  12:32   0  0    0   0   0   0   0   0   0/6Tommy Novak C  14:08   0  0   -2   3   1   0   0   0   4/6Gustav Nyquist C  19:21   1  0    1   2   1   0   1   1   0/0Ryan O'Reilly C  21:31   1  0   -1   3   0   0   0   1 11/23Colton Sissons C  15:17   0  0    1   2   0   2   0   0 13/19Cole Smith L  14:53   0  0    0   0   2   0   0   1   0/1Steven Stamkos C  21:02   0  2    0   6   0   0   0   1   1/5Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  22:36   0  0    0   3   4   0   0   0   0/0Dante Fabbro D  11:32   0  0    0   1   1   0   0   3   0/0Roman Josi D  28:22   0  0   -2   6   1   0   0   2   0/0Jeremy Lauzon D  20:59   0  0    0   0   4   0   0   0   0/0Luke Schenn D  14:06   0  0   -1   2   4   0   0   1   0/0Brady Skjei D  19:22   0  1    0   0   0   0   0   1   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  21   6   1  13 32/64
+                                        50.0%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  63:22   3  24/27  19/22   4/4   1/1     0
+              .889   .864 1.000 1.000 
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  08:37   0  0    0   2   1   0   0   0   0/0Mitchell Chaffee R  11:44   1  0    1   1   0   0   0   0   0/0Anthony Cirelli C  18:23   0  0   -1   3   2   0   0   0  6/14Michael Eyssimont C  11:00   0  0    0   1   0   2   0   0   0/0Conor Geekie C  12:44   0  0    0   1   3   0   0   0   0/0Zemgus Girgensons C  11:21   0  0    0   2   0   0   0   0   0/0Luke Glendening C  11:14   0  0    0   1   0   0   0   0 11/15Jake Guentzel C  18:30   0  2    1   4   0   0   0   1   3/4Brandon Hagel L  22:58   0  0    1   1   1   0   0   2   0/0Nikita Kucherov R  21:44   0  0    0   3   0   0   0   2   0/0Nick Paul L  13:33   1  0    1   2   1   0   0   0  2/10Brayden Point C  22:30   1  1    2   3   0   0   0   0 10/21Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  21:18   0  0    0   0   2   0   1   1   0/0Victor Hedman D  22:54   0  0    1   1   0   2   0   2   0/0Emil Lilleberg D  16:10   0  0   -1   1   0   0   0   0   0/0Ryan McDonagh D  21:24   0  0    2   0   3   0   0   2   0/0J.J. Moser D  20:25   0  0    1   0   1   4   0   0   0/0Nick Perbix D  16:14   0  0    0   1   0   0   0   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       27  14   8   1  10 32/64
+                                        50.0%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  63:22   2  35/37  24/25  9/10   2/2     0
+              .946   .960  .900 1.000
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  11:13   0  0    0   5   0   0   0   0   0/0Filip Forsberg L  20:00   0  0   -3   2   1   2   0   1   0/0Mark Jankowski C  11:07   0  0    0   1   0   0   0   0   3/3Zachary L'Heureux L  08:31   0  0    0   0   1   2   0   0   0/0Jonathan Marchessault R  17:34   0  1   -1   1   1   0   0   1   0/1Michael McCarron R  12:32   0  0    0   0   0   0   0   0   0/6Tommy Novak C  14:08   0  0   -2   3   1   0   0   0   4/6Gustav Nyquist C  19:21   1  0    1   2   1   0   1   1   0/0Ryan O'Reilly C  21:31   1  0   -1   3   0   0   0   1 11/23Colton Sissons C  15:17   0  0    1   2   0   2   0   0 13/19Cole Smith L  14:53   0  0    0   0   2   0   0   1   0/1Steven Stamkos C  21:02   0  2    0   6   0   0   0   1   1/5
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+11:13   0  0    0   5   0   0   0   0   0/0
+Filip Forsberg L
+20:00   0  0   -3   2   1   2   0   1   0/0
+Mark Jankowski C
+11:07   0  0    0   1   0   0   0   0   3/3
+Zachary L'Heureux L
+08:31   0  0    0   0   1   2   0   0   0/0
+Jonathan Marchessault R
+17:34   0  1   -1   1   1   0   0   1   0/1
+Michael McCarron R
+12:32   0  0    0   0   0   0   0   0   0/6
+Tommy Novak C
+14:08   0  0   -2   3   1   0   0   0   4/6
+Gustav Nyquist C
+19:21   1  0    1   2   1   0   1   1   0/0
+Ryan O'Reilly C
+21:31   1  0   -1   3   0   0   0   1 11/23
+Colton Sissons C
+15:17   0  0    1   2   0   2   0   0 13/19
+Cole Smith L
+14:53   0  0    0   0   2   0   0   1   0/1
+Steven Stamkos C
+21:02   0  2    0   6   0   0   0   1   1/5
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  22:36   0  0    0   3   4   0   0   0   0/0Dante Fabbro D  11:32   0  0    0   1   1   0   0   3   0/0Roman Josi D  28:22   0  0   -2   6   1   0   0   2   0/0Jeremy Lauzon D  20:59   0  0    0   0   4   0   0   0   0/0Luke Schenn D  14:06   0  0   -1   2   4   0   0   1   0/0Brady Skjei D  19:22   0  1    0   0   0   0   0   1   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+22:36   0  0    0   3   4   0   0   0   0/0
+Dante Fabbro D
+11:32   0  0    0   1   1   0   0   3   0/0
+Roman Josi D
+28:22   0  0   -2   6   1   0   0   2   0/0
+Jeremy Lauzon D
+20:59   0  0    0   0   4   0   0   0   0/0
+Luke Schenn D
+14:06   0  0   -1   2   4   0   0   1   0/0
+Brady Skjei D
+19:22   0  1    0   0   0   0   0   1   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  21   6   1  13 32/64
+                                        50.0%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  63:22   3  24/27  19/22   4/4   1/1     0
+              .889   .864 1.000 1.000
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Juuse Saros G
+63:22   3  24/27  19/22   4/4   1/1     0
+              .889   .864 1.000 1.000
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCam Atkinson R  08:37   0  0    0   2   1   0   0   0   0/0Mitchell Chaffee R  11:44   1  0    1   1   0   0   0   0   0/0Anthony Cirelli C  18:23   0  0   -1   3   2   0   0   0  6/14Michael Eyssimont C  11:00   0  0    0   1   0   2   0   0   0/0Conor Geekie C  12:44   0  0    0   1   3   0   0   0   0/0Zemgus Girgensons C  11:21   0  0    0   2   0   0   0   0   0/0Luke Glendening C  11:14   0  0    0   1   0   0   0   0 11/15Jake Guentzel C  18:30   0  2    1   4   0   0   0   1   3/4Brandon Hagel L  22:58   0  0    1   1   1   0   0   2   0/0Nikita Kucherov R  21:44   0  0    0   3   0   0   0   2   0/0Nick Paul L  13:33   1  0    1   2   1   0   0   0  2/10Brayden Point C  22:30   1  1    2   3   0   0   0   0 10/21
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cam Atkinson R
+08:37   0  0    0   2   1   0   0   0   0/0
+Mitchell Chaffee R
+11:44   1  0    1   1   0   0   0   0   0/0
+Anthony Cirelli C
+18:23   0  0   -1   3   2   0   0   0  6/14
+Michael Eyssimont C
+11:00   0  0    0   1   0   2   0   0   0/0
+Conor Geekie C
+12:44   0  0    0   1   3   0   0   0   0/0
+Zemgus Girgensons C
+11:21   0  0    0   2   0   0   0   0   0/0
+Luke Glendening C
+11:14   0  0    0   1   0   0   0   0 11/15
+Jake Guentzel C
+18:30   0  2    1   4   0   0   0   1   3/4
+Brandon Hagel L
+22:58   0  0    1   1   1   0   0   2   0/0
+Nikita Kucherov R
+21:44   0  0    0   3   0   0   0   2   0/0
+Nick Paul L
+13:33   1  0    1   2   1   0   0   0  2/10
+Brayden Point C
+22:30   1  1    2   3   0   0   0   0 10/21
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  21:18   0  0    0   0   2   0   1   1   0/0Victor Hedman D  22:54   0  0    1   1   0   2   0   2   0/0Emil Lilleberg D  16:10   0  0   -1   1   0   0   0   0   0/0Ryan McDonagh D  21:24   0  0    2   0   3   0   0   2   0/0J.J. Moser D  20:25   0  0    1   0   1   4   0   0   0/0Nick Perbix D  16:14   0  0    0   1   0   0   0   0   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+21:18   0  0    0   0   2   0   1   1   0/0
+Victor Hedman D
+22:54   0  0    1   1   0   2   0   2   0/0
+Emil Lilleberg D
+16:10   0  0   -1   1   0   0   0   0   0/0
+Ryan McDonagh D
+21:24   0  0    2   0   3   0   0   2   0/0
+J.J. Moser D
+20:25   0  0    1   0   1   4   0   0   0/0
+Nick Perbix D
+16:14   0  0    0   1   0   0   0   0   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       27  14   8   1  10 32/64
+                                        50.0%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  63:22   2  35/37  24/25  9/10   2/2     0
+              .946   .960  .900 1.000
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Andrei Vasilevskiy G
+63:22   2  35/37  24/25  9/10   2/2     0
+              .946   .960  .900 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,457 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Dallas
+Stars7-4-0Final2 - 4Florida
+Panthers9-3-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+DAL   0  2  0    2  
+FLA   1  1  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  11:19 
+Aaron Ekblad (FLA) slashing against Brendan Smith (2 minutes)
+   0-0
+P1  05:15 
+Evan Rodrigues (FLA) scores on tip-in past Casey DeSmith, assisted by Niko Mikkola and Sam Reinhart
+   0-1
+P1  04:14 
+Mason Marchment (DAL) boarding against Nate Schmidt (2 minutes), served by Mavrik Bourque
+   0-1
+P1  04:14 
+Sam Bennett (FLA) roughing against Mathew Dumba (2 minutes)
+   0-1
+P1  04:14 
+Mathew Dumba (DAL) roughing against Sam Bennett (2 minutes)
+   0-1
+P1  04:14 
+Mason Marchment (DAL) fighting against Nate Schmidt (5 minutes)
+   0-1
+P1  04:14 
+Nate Schmidt (FLA) fighting against Mason Marchment (5 minutes)
+   0-1
+2nd Period: ShowHide
+P2  19:22 
+Aaron Ekblad (FLA) holding against Mavrik Bourque (2 minutes)
+   0-1
+P2  11:48 
+Esa Lindell (DAL) hooking against Dmitry Kulikov (2 minutes)
+   0-1
+P2  11:13 
+Matthew Tkachuk (FLA) scores power-play goal on tip-in past Casey DeSmith, assisted by Uvis Balinskis and Aleksander Barkov
+   0-2
+P2  09:26 
+Aleksander Barkov (FLA) hooking against Logan Stankoven (2 minutes)
+   0-2
+P2  08:38 
+Evgenii Dadonov (DAL) scores power-play goal on wrist shot past Spencer Knight, assisted by Wyatt Johnston and Matt Duchene
+   1-2
+P2  08:04 
+Matt Duchene (DAL) scores on backhand shot past Spencer Knight, assisted by Miro Heiskanen and Thomas Harley
+   2-2
+P2  05:34 
+Jason Robertson (DAL) hooking against Eetu Luostarinen (2 minutes)
+   2-2
+P2  04:06 
+Matthew Tkachuk (FLA) roughing against Esa Lindell (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  17:28 
+A.J. Greer (FLA) scores on wrist shot past Casey DeSmith, assisted by Tomas Nosek
+   2-3
+P3  15:39 
+Mason Marchment (DAL) hooking against Sam Bennett (2 minutes)
+   2-3
+P3  01:00 
+Sam Reinhart (FLA) scores on empty net, assisted by Eetu Luostarinen
+   2-4
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:47   0  0   -1   3   0   0   0   2   1/4Colin Blackwell C  11:52   0  0   -1   1   0   0   0   0  3/10Mavrik Bourque C  09:57   0  0    0   0   0   0   0   1   1/1Oskar Bäck C  09:29   0  0   -1   1   0   0   0   4   1/2Evgenii Dadonov R  16:31   1  0    0   2   0   0   1   1   0/0Matt Duchene C  15:14   1  1   -1   2   1   0   0   2 10/13Roope Hintz C  17:25   0  0   -1   1   2   0   0   2   1/2Wyatt Johnston C  19:48   0  1    0   2   1   0   0   1  6/13Mason Marchment L  12:40   0  0    0   0   0   9   0   0   0/0Jason Robertson L  19:30   0  0    0   1   0   2   1   4   0/0Logan Stankoven C  17:38   0  0   -1   5   1   0   1   1   2/3Sam Steel C  12:39   0  0   -1   0   0   0   0   2   4/6Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  16:05   0  0    0   2   1   2   0   3   0/0Thomas Harley D  24:20   0  1    0   1   0   0   1   3   0/0Miro Heiskanen D  25:32   0  1    0   2   2   0   1   1   0/0Esa Lindell D  20:44   0  0   -2   2   0   2   0   4   0/0Ilya Lyubushkin D  15:10   0  0   -2   0   1   0   0   0   0/0Brendan Smith D  12:45   0  0    0   0   1   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  10  15   5  32 29/54
+                                        53.7%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:19   3  21/24  12/14   8/9   1/1     0
+              .875   .857  .889 1.000 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  20:13   0  1    2   0   0   2   1   1  6/11Sam Bennett C  12:34   0  0   -1   4   0   2   0   3  8/12Jesper Boqvist C  10:54   0  0    0   1   3   0   1   0   0/1A.J. Greer L  10:26   1  0    1   1   0   0   0   2   0/0Anton Lundell C  17:46   0  0    0   1   2   0   0   0  5/12Eetu Luostarinen C  13:39   0  1    1   0   2   0   0   2   0/0Tomas Nosek L  11:35   0  1    1   0   1   0   0   0  4/10Sam Reinhart C  21:29   1  1    2   4   0   0   1   0   1/6Evan Rodrigues C  14:27   1  0    1   2   0   0   0   0   1/1Mackie Samoskevich R  09:50   0  0    1   0   0   0   0   1   0/0Matthew Tkachuk L  17:25   1  0   -1   4   0   2   0   2   0/0Carter Verhaeghe C  17:21   0  0   -1   3   1   0   1   0   0/1Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  18:28   0  1    0   0   0   0   2   1   0/0Aaron Ekblad D  18:55   0  0   -1   1   1   4   1   1   0/0Gustav Forsling D  20:49   0  0   -1   2   1   0   0   1   0/0Dmitry Kulikov D  22:23   0  0    3   1   2   0   0   1   0/0Niko Mikkola D  21:48   0  1    3   1   2   0   1   1   0/0Nate Schmidt D  13:36   0  0    0   0   1   5   0   0   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       25  16  15   8  16 25/54
+                                        46.3%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  59:34   2  23/25  18/19   4/5   1/1     0
+              .920   .947  .800 1.000
+Dallas
+Stars7-4-0Final2 - 4Florida
+Panthers9-3-1
+Dallas
+Stars7-4-0
+Final2 - 4
+Florida
+Panthers9-3-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+DAL   0  2  0    2  
+FLA   1  1  2    4
+1st Period: ShowHide
+P1  11:19 
+Aaron Ekblad (FLA) slashing against Brendan Smith (2 minutes)
+   0-0
+P1  05:15 
+Evan Rodrigues (FLA) scores on tip-in past Casey DeSmith, assisted by Niko Mikkola and Sam Reinhart
+   0-1
+P1  04:14 
+Mason Marchment (DAL) boarding against Nate Schmidt (2 minutes), served by Mavrik Bourque
+   0-1
+P1  04:14 
+Sam Bennett (FLA) roughing against Mathew Dumba (2 minutes)
+   0-1
+P1  04:14 
+Mathew Dumba (DAL) roughing against Sam Bennett (2 minutes)
+   0-1
+P1  04:14 
+Mason Marchment (DAL) fighting against Nate Schmidt (5 minutes)
+   0-1
+P1  04:14 
+Nate Schmidt (FLA) fighting against Mason Marchment (5 minutes)
+   0-1
+2nd Period: ShowHide
+P2  19:22 
+Aaron Ekblad (FLA) holding against Mavrik Bourque (2 minutes)
+   0-1
+P2  11:48 
+Esa Lindell (DAL) hooking against Dmitry Kulikov (2 minutes)
+   0-1
+P2  11:13 
+Matthew Tkachuk (FLA) scores power-play goal on tip-in past Casey DeSmith, assisted by Uvis Balinskis and Aleksander Barkov
+   0-2
+P2  09:26 
+Aleksander Barkov (FLA) hooking against Logan Stankoven (2 minutes)
+   0-2
+P2  08:38 
+Evgenii Dadonov (DAL) scores power-play goal on wrist shot past Spencer Knight, assisted by Wyatt Johnston and Matt Duchene
+   1-2
+P2  08:04 
+Matt Duchene (DAL) scores on backhand shot past Spencer Knight, assisted by Miro Heiskanen and Thomas Harley
+   2-2
+P2  05:34 
+Jason Robertson (DAL) hooking against Eetu Luostarinen (2 minutes)
+   2-2
+P2  04:06 
+Matthew Tkachuk (FLA) roughing against Esa Lindell (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  17:28 
+A.J. Greer (FLA) scores on wrist shot past Casey DeSmith, assisted by Tomas Nosek
+   2-3
+P3  15:39 
+Mason Marchment (DAL) hooking against Sam Bennett (2 minutes)
+   2-3
+P3  01:00 
+Sam Reinhart (FLA) scores on empty net, assisted by Eetu Luostarinen
+   2-4
+1st Period: ShowHide
+P1  11:19 
+Aaron Ekblad (FLA) slashing against Brendan Smith (2 minutes)
+   0-0
+P1  05:15 
+Evan Rodrigues (FLA) scores on tip-in past Casey DeSmith, assisted by Niko Mikkola and Sam Reinhart
+   0-1
+P1  04:14 
+Mason Marchment (DAL) boarding against Nate Schmidt (2 minutes), served by Mavrik Bourque
+   0-1
+P1  04:14 
+Sam Bennett (FLA) roughing against Mathew Dumba (2 minutes)
+   0-1
+P1  04:14 
+Mathew Dumba (DAL) roughing against Sam Bennett (2 minutes)
+   0-1
+P1  04:14 
+Mason Marchment (DAL) fighting against Nate Schmidt (5 minutes)
+   0-1
+P1  04:14 
+Nate Schmidt (FLA) fighting against Mason Marchment (5 minutes)
+   0-1
+P1  11:19 
+Aaron Ekblad (FLA) slashing against Brendan Smith (2 minutes)
+   0-0
+P1  05:15 
+Evan Rodrigues (FLA) scores on tip-in past Casey DeSmith, assisted by Niko Mikkola and Sam Reinhart
+   0-1
+P1  04:14 
+Mason Marchment (DAL) boarding against Nate Schmidt (2 minutes), served by Mavrik Bourque
+   0-1
+P1  04:14 
+Sam Bennett (FLA) roughing against Mathew Dumba (2 minutes)
+   0-1
+P1  04:14 
+Mathew Dumba (DAL) roughing against Sam Bennett (2 minutes)
+   0-1
+P1  04:14 
+Mason Marchment (DAL) fighting against Nate Schmidt (5 minutes)
+   0-1
+P1  04:14 
+Nate Schmidt (FLA) fighting against Mason Marchment (5 minutes)
+   0-1
+P1  11:19
+Aaron Ekblad (FLA) slashing against Brendan Smith (2 minutes)
+0-0
+P1  05:15
+Evan Rodrigues (FLA) scores on tip-in past Casey DeSmith, assisted by Niko Mikkola and Sam Reinhart
+0-1
+P1  04:14
+Mason Marchment (DAL) boarding against Nate Schmidt (2 minutes), served by Mavrik Bourque
+0-1
+P1  04:14
+Sam Bennett (FLA) roughing against Mathew Dumba (2 minutes)
+0-1
+P1  04:14
+Mathew Dumba (DAL) roughing against Sam Bennett (2 minutes)
+0-1
+P1  04:14
+Mason Marchment (DAL) fighting against Nate Schmidt (5 minutes)
+0-1
+P1  04:14
+Nate Schmidt (FLA) fighting against Mason Marchment (5 minutes)
+0-1
+2nd Period: ShowHide
+P2  19:22 
+Aaron Ekblad (FLA) holding against Mavrik Bourque (2 minutes)
+   0-1
+P2  11:48 
+Esa Lindell (DAL) hooking against Dmitry Kulikov (2 minutes)
+   0-1
+P2  11:13 
+Matthew Tkachuk (FLA) scores power-play goal on tip-in past Casey DeSmith, assisted by Uvis Balinskis and Aleksander Barkov
+   0-2
+P2  09:26 
+Aleksander Barkov (FLA) hooking against Logan Stankoven (2 minutes)
+   0-2
+P2  08:38 
+Evgenii Dadonov (DAL) scores power-play goal on wrist shot past Spencer Knight, assisted by Wyatt Johnston and Matt Duchene
+   1-2
+P2  08:04 
+Matt Duchene (DAL) scores on backhand shot past Spencer Knight, assisted by Miro Heiskanen and Thomas Harley
+   2-2
+P2  05:34 
+Jason Robertson (DAL) hooking against Eetu Luostarinen (2 minutes)
+   2-2
+P2  04:06 
+Matthew Tkachuk (FLA) roughing against Esa Lindell (2 minutes)
+   2-2
+P2  19:22 
+Aaron Ekblad (FLA) holding against Mavrik Bourque (2 minutes)
+   0-1
+P2  11:48 
+Esa Lindell (DAL) hooking against Dmitry Kulikov (2 minutes)
+   0-1
+P2  11:13 
+Matthew Tkachuk (FLA) scores power-play goal on tip-in past Casey DeSmith, assisted by Uvis Balinskis and Aleksander Barkov
+   0-2
+P2  09:26 
+Aleksander Barkov (FLA) hooking against Logan Stankoven (2 minutes)
+   0-2
+P2  08:38 
+Evgenii Dadonov (DAL) scores power-play goal on wrist shot past Spencer Knight, assisted by Wyatt Johnston and Matt Duchene
+   1-2
+P2  08:04 
+Matt Duchene (DAL) scores on backhand shot past Spencer Knight, assisted by Miro Heiskanen and Thomas Harley
+   2-2
+P2  05:34 
+Jason Robertson (DAL) hooking against Eetu Luostarinen (2 minutes)
+   2-2
+P2  04:06 
+Matthew Tkachuk (FLA) roughing against Esa Lindell (2 minutes)
+   2-2
+P2  19:22
+Aaron Ekblad (FLA) holding against Mavrik Bourque (2 minutes)
+0-1
+P2  11:48
+Esa Lindell (DAL) hooking against Dmitry Kulikov (2 minutes)
+0-1
+P2  11:13
+Matthew Tkachuk (FLA) scores power-play goal on tip-in past Casey DeSmith, assisted by Uvis Balinskis and Aleksander Barkov
+0-2
+P2  09:26
+Aleksander Barkov (FLA) hooking against Logan Stankoven (2 minutes)
+0-2
+P2  08:38
+Evgenii Dadonov (DAL) scores power-play goal on wrist shot past Spencer Knight, assisted by Wyatt Johnston and Matt Duchene
+1-2
+P2  08:04
+Matt Duchene (DAL) scores on backhand shot past Spencer Knight, assisted by Miro Heiskanen and Thomas Harley
+2-2
+P2  05:34
+Jason Robertson (DAL) hooking against Eetu Luostarinen (2 minutes)
+2-2
+P2  04:06
+Matthew Tkachuk (FLA) roughing against Esa Lindell (2 minutes)
+2-2
+3rd Period: ShowHide
+P3  17:28 
+A.J. Greer (FLA) scores on wrist shot past Casey DeSmith, assisted by Tomas Nosek
+   2-3
+P3  15:39 
+Mason Marchment (DAL) hooking against Sam Bennett (2 minutes)
+   2-3
+P3  01:00 
+Sam Reinhart (FLA) scores on empty net, assisted by Eetu Luostarinen
+   2-4
+P3  17:28 
+A.J. Greer (FLA) scores on wrist shot past Casey DeSmith, assisted by Tomas Nosek
+   2-3
+P3  15:39 
+Mason Marchment (DAL) hooking against Sam Bennett (2 minutes)
+   2-3
+P3  01:00 
+Sam Reinhart (FLA) scores on empty net, assisted by Eetu Luostarinen
+   2-4
+P3  17:28
+A.J. Greer (FLA) scores on wrist shot past Casey DeSmith, assisted by Tomas Nosek
+2-3
+P3  15:39
+Mason Marchment (DAL) hooking against Sam Bennett (2 minutes)
+2-3
+P3  01:00
+Sam Reinhart (FLA) scores on empty net, assisted by Eetu Luostarinen
+2-4
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:47   0  0   -1   3   0   0   0   2   1/4Colin Blackwell C  11:52   0  0   -1   1   0   0   0   0  3/10Mavrik Bourque C  09:57   0  0    0   0   0   0   0   1   1/1Oskar Bäck C  09:29   0  0   -1   1   0   0   0   4   1/2Evgenii Dadonov R  16:31   1  0    0   2   0   0   1   1   0/0Matt Duchene C  15:14   1  1   -1   2   1   0   0   2 10/13Roope Hintz C  17:25   0  0   -1   1   2   0   0   2   1/2Wyatt Johnston C  19:48   0  1    0   2   1   0   0   1  6/13Mason Marchment L  12:40   0  0    0   0   0   9   0   0   0/0Jason Robertson L  19:30   0  0    0   1   0   2   1   4   0/0Logan Stankoven C  17:38   0  0   -1   5   1   0   1   1   2/3Sam Steel C  12:39   0  0   -1   0   0   0   0   2   4/6Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  16:05   0  0    0   2   1   2   0   3   0/0Thomas Harley D  24:20   0  1    0   1   0   0   1   3   0/0Miro Heiskanen D  25:32   0  1    0   2   2   0   1   1   0/0Esa Lindell D  20:44   0  0   -2   2   0   2   0   4   0/0Ilya Lyubushkin D  15:10   0  0   -2   0   1   0   0   0   0/0Brendan Smith D  12:45   0  0    0   0   1   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  10  15   5  32 29/54
+                                        53.7%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:19   3  21/24  12/14   8/9   1/1     0
+              .875   .857  .889 1.000 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  20:13   0  1    2   0   0   2   1   1  6/11Sam Bennett C  12:34   0  0   -1   4   0   2   0   3  8/12Jesper Boqvist C  10:54   0  0    0   1   3   0   1   0   0/1A.J. Greer L  10:26   1  0    1   1   0   0   0   2   0/0Anton Lundell C  17:46   0  0    0   1   2   0   0   0  5/12Eetu Luostarinen C  13:39   0  1    1   0   2   0   0   2   0/0Tomas Nosek L  11:35   0  1    1   0   1   0   0   0  4/10Sam Reinhart C  21:29   1  1    2   4   0   0   1   0   1/6Evan Rodrigues C  14:27   1  0    1   2   0   0   0   0   1/1Mackie Samoskevich R  09:50   0  0    1   0   0   0   0   1   0/0Matthew Tkachuk L  17:25   1  0   -1   4   0   2   0   2   0/0Carter Verhaeghe C  17:21   0  0   -1   3   1   0   1   0   0/1Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  18:28   0  1    0   0   0   0   2   1   0/0Aaron Ekblad D  18:55   0  0   -1   1   1   4   1   1   0/0Gustav Forsling D  20:49   0  0   -1   2   1   0   0   1   0/0Dmitry Kulikov D  22:23   0  0    3   1   2   0   0   1   0/0Niko Mikkola D  21:48   0  1    3   1   2   0   1   1   0/0Nate Schmidt D  13:36   0  0    0   0   1   5   0   0   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       25  16  15   8  16 25/54
+                                        46.3%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  59:34   2  23/25  18/19   4/5   1/1     0
+              .920   .947  .800 1.000
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:47   0  0   -1   3   0   0   0   2   1/4Colin Blackwell C  11:52   0  0   -1   1   0   0   0   0  3/10Mavrik Bourque C  09:57   0  0    0   0   0   0   0   1   1/1Oskar Bäck C  09:29   0  0   -1   1   0   0   0   4   1/2Evgenii Dadonov R  16:31   1  0    0   2   0   0   1   1   0/0Matt Duchene C  15:14   1  1   -1   2   1   0   0   2 10/13Roope Hintz C  17:25   0  0   -1   1   2   0   0   2   1/2Wyatt Johnston C  19:48   0  1    0   2   1   0   0   1  6/13Mason Marchment L  12:40   0  0    0   0   0   9   0   0   0/0Jason Robertson L  19:30   0  0    0   1   0   2   1   4   0/0Logan Stankoven C  17:38   0  0   -1   5   1   0   1   1   2/3Sam Steel C  12:39   0  0   -1   0   0   0   0   2   4/6
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Benn L
+16:47   0  0   -1   3   0   0   0   2   1/4
+Colin Blackwell C
+11:52   0  0   -1   1   0   0   0   0  3/10
+Mavrik Bourque C
+09:57   0  0    0   0   0   0   0   1   1/1
+Oskar Bäck C
+09:29   0  0   -1   1   0   0   0   4   1/2
+Evgenii Dadonov R
+16:31   1  0    0   2   0   0   1   1   0/0
+Matt Duchene C
+15:14   1  1   -1   2   1   0   0   2 10/13
+Roope Hintz C
+17:25   0  0   -1   1   2   0   0   2   1/2
+Wyatt Johnston C
+19:48   0  1    0   2   1   0   0   1  6/13
+Mason Marchment L
+12:40   0  0    0   0   0   9   0   0   0/0
+Jason Robertson L
+19:30   0  0    0   1   0   2   1   4   0/0
+Logan Stankoven C
+17:38   0  0   -1   5   1   0   1   1   2/3
+Sam Steel C
+12:39   0  0   -1   0   0   0   0   2   4/6
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  16:05   0  0    0   2   1   2   0   3   0/0Thomas Harley D  24:20   0  1    0   1   0   0   1   3   0/0Miro Heiskanen D  25:32   0  1    0   2   2   0   1   1   0/0Esa Lindell D  20:44   0  0   -2   2   0   2   0   4   0/0Ilya Lyubushkin D  15:10   0  0   -2   0   1   0   0   0   0/0Brendan Smith D  12:45   0  0    0   0   1   0   0   1   0/0
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Dumba D
+16:05   0  0    0   2   1   2   0   3   0/0
+Thomas Harley D
+24:20   0  1    0   1   0   0   1   3   0/0
+Miro Heiskanen D
+25:32   0  1    0   2   2   0   1   1   0/0
+Esa Lindell D
+20:44   0  0   -2   2   0   2   0   4   0/0
+Ilya Lyubushkin D
+15:10   0  0   -2   0   1   0   0   0   0/0
+Brendan Smith D
+12:45   0  0    0   0   1   0   0   1   0/0
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  10  15   5  32 29/54
+                                        53.7%
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:19   3  21/24  12/14   8/9   1/1     0
+              .875   .857  .889 1.000
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Casey DeSmith G
+59:19   3  21/24  12/14   8/9   1/1     0
+              .875   .857  .889 1.000
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  20:13   0  1    2   0   0   2   1   1  6/11Sam Bennett C  12:34   0  0   -1   4   0   2   0   3  8/12Jesper Boqvist C  10:54   0  0    0   1   3   0   1   0   0/1A.J. Greer L  10:26   1  0    1   1   0   0   0   2   0/0Anton Lundell C  17:46   0  0    0   1   2   0   0   0  5/12Eetu Luostarinen C  13:39   0  1    1   0   2   0   0   2   0/0Tomas Nosek L  11:35   0  1    1   0   1   0   0   0  4/10Sam Reinhart C  21:29   1  1    2   4   0   0   1   0   1/6Evan Rodrigues C  14:27   1  0    1   2   0   0   0   0   1/1Mackie Samoskevich R  09:50   0  0    1   0   0   0   0   1   0/0Matthew Tkachuk L  17:25   1  0   -1   4   0   2   0   2   0/0Carter Verhaeghe C  17:21   0  0   -1   3   1   0   1   0   0/1
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Aleksander Barkov C
+20:13   0  1    2   0   0   2   1   1  6/11
+Sam Bennett C
+12:34   0  0   -1   4   0   2   0   3  8/12
+Jesper Boqvist C
+10:54   0  0    0   1   3   0   1   0   0/1
+A.J. Greer L
+10:26   1  0    1   1   0   0   0   2   0/0
+Anton Lundell C
+17:46   0  0    0   1   2   0   0   0  5/12
+Eetu Luostarinen C
+13:39   0  1    1   0   2   0   0   2   0/0
+Tomas Nosek L
+11:35   0  1    1   0   1   0   0   0  4/10
+Sam Reinhart C
+21:29   1  1    2   4   0   0   1   0   1/6
+Evan Rodrigues C
+14:27   1  0    1   2   0   0   0   0   1/1
+Mackie Samoskevich R
+09:50   0  0    1   0   0   0   0   1   0/0
+Matthew Tkachuk L
+17:25   1  0   -1   4   0   2   0   2   0/0
+Carter Verhaeghe C
+17:21   0  0   -1   3   1   0   1   0   0/1
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  18:28   0  1    0   0   0   0   2   1   0/0Aaron Ekblad D  18:55   0  0   -1   1   1   4   1   1   0/0Gustav Forsling D  20:49   0  0   -1   2   1   0   0   1   0/0Dmitry Kulikov D  22:23   0  0    3   1   2   0   0   1   0/0Niko Mikkola D  21:48   0  1    3   1   2   0   1   1   0/0Nate Schmidt D  13:36   0  0    0   0   1   5   0   0   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+18:28   0  1    0   0   0   0   2   1   0/0
+Aaron Ekblad D
+18:55   0  0   -1   1   1   4   1   1   0/0
+Gustav Forsling D
+20:49   0  0   -1   2   1   0   0   1   0/0
+Dmitry Kulikov D
+22:23   0  0    3   1   2   0   0   1   0/0
+Niko Mikkola D
+21:48   0  1    3   1   2   0   1   1   0/0
+Nate Schmidt D
+13:36   0  0    0   0   1   5   0   0   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       25  16  15   8  16 25/54
+                                        46.3%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  59:34   2  23/25  18/19   4/5   1/1     0
+              .920   .947  .800 1.000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Spencer Knight G
+59:34   2  23/25  18/19   4/5   1/1     0
+              .920   .947  .800 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

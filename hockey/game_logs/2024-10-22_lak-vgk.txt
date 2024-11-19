@@ -1,0 +1,367 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Los Angeles
+Kings3-2-2Final1 - 6Vegas
+Golden Knights4-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+LAK   0  1  0    1  
+VGK   3  0  3    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:02 
+Zach Whitecloud (VGK) high-sticking against Warren Foegele (2 minutes)
+   0-0
+P1  11:36 
+Joel Edmundson (LAK) slashing against Mark Stone (2 minutes)
+   0-0
+P1  10:53 
+Tomas Hertl (VGK) scores power-play goal on backhand shot past David Rittich, assisted by Mark Stone and Jack Eichel
+   0-1
+P1  06:23 
+Andre Lee (LAK) holding against Cole Schwindt (2 minutes)
+   0-1
+P1  06:09 
+Mark Stone (VGK) scores power-play goal on tip-in past David Rittich, assisted by Tomas Hertl and Noah Hanifin
+   0-2
+P1  04:48 
+Pavel Dorofeyev (VGK) scores on wrist shot past David Rittich, assisted by Tomas Hertl and Kaedan Korczak
+   0-3
+2nd Period: ShowHide
+P2  07:02 
+Alex Pietrangelo (VGK) holding against Mikey Anderson (2 minutes)
+   0-3
+P2  05:06 
+Nicolas Hague (VGK) high-sticking against Quinton Byfield (4 minutes)
+   0-3
+P2  00:53 
+Warren Foegele (LAK) scores on wrist shot past Ilya Samsonov, assisted by Joel Edmundson and Jordan Spence
+   1-3
+3rd Period: ShowHide
+P3  17:01 
+Alexander Holtz (VGK) scores on snap shot past David Rittich, assisted by Alex Pietrangelo
+   1-4
+P3  11:34 
+Tomas Hertl (VGK) scores on wrist shot past David Rittich, assisted by Alex Pietrangelo and Pavel Dorofeyev
+   1-5
+P3  06:35 
+Ivan Barbashev (VGK) scores on snap shot past David Rittich, assisted by Mark Stone and Alex Pietrangelo
+   1-6
+Box Score:
+ 
+Back to Top
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:00   0  0   -1   2   0   0   0   2   1/3Phillip Danault C  16:36   0  0   -1   0   0   0   0   1   4/8Kevin Fiala L  18:24   0  0   -2   0   0   0   2   0   0/3Warren Foegele L  14:40   1  0    0   5   0   0   1   3   1/2Tanner Jeannot L  12:29   0  0   -1   3   2   0   0   0   0/0Adrian Kempe R  17:34   0  0    0   2   0   0   0   0   0/0Anze Kopitar C  18:55   0  0    0   0   0   0   1   0  9/19Alex Laferriere R  17:39   0  0    0   3   0   0   0   0   0/3Andre Lee L  12:13   0  0   -1   2   3   2   0   0   0/0Trevor Lewis C  11:20   0  0   -1   1   0   0   0   0   1/4Trevor Moore L  17:03   0  0   -2   2   0   0   0   0   0/0Alex Turcotte C  15:23   0  0    0   2   1   0   0   2   2/8Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:49   0  0    0   3   1   0   0   2   0/0Brandt Clarke D  22:00   0  0   -3   1   2   0   0   3   0/0Joel Edmundson D  16:22   0  1   -2   3   1   2   0   1   0/0Andreas Englund D  11:21   0  0   -1   1   1   0   0   2   0/0Vladislav Gavrikov D  21:18   0  0    0   2   1   0   2   0   0/0Jordan Spence D  19:10   0  1    0   1   1   0   0   1   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       33  13   4   6  17 18/50
+                                        36.0%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  59:47   6  24/30  21/25   3/5   0/0     0
+              .800   .840  .600 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  12:34   1  0    0   4   0   0   1   0   0/0Brendan Brisson C  12:15   0  0    1   1   0   0   0   0   0/0Pavel Dorofeyev L  15:23   1  1    2   4   0   0   0   3   0/0Jack Eichel C  16:23   0  1    1   2   0   0   0   1  9/16Tomas Hertl C  15:21   2  2    2   5   2   0   0   0  9/10Alexander Holtz R  11:05   1  0    1   1   0   0   0   1   0/1Brett Howden C  16:54   0  0    2   0   3   0   0   1   2/3Keegan Kolesar R  15:34   0  0   -1   1   1   0   0   0   0/0Tanner Pearson L  14:04   0  0    0   1   0   0   0   1   0/0Nicolas Roy C  16:14   0  0   -1   1   0   0   2   0  6/13Cole Schwindt R  11:24   0  0    1   1   2   0   0   0   6/7Mark Stone R  15:21   1  2    1   4   0   0   0   1   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  19:21   0  0    0   0   2   4   1   0   0/0Noah Hanifin D  21:27   0  1    2   3   1   0   0   2   0/0Kaedan Korczak D  17:22   0  1    1   0   3   0   0   0   0/0Brayden McNabb D  21:48   0  0    1   0   1   0   0   3   0/0Alex Pietrangelo D  20:54   0  3    2   2   3   2   1   1   0/0Zach Whitecloud D  18:36   0  0    0   0   5   2   0   0   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       30  23   8   5  14 32/50
+                                        64.0%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   1  32/33  27/28   5/5   0/0     0
+              .970   .964 1.000
+Los Angeles
+Kings3-2-2Final1 - 6Vegas
+Golden Knights4-2-1
+Los Angeles
+Kings3-2-2
+Final1 - 6
+Vegas
+Golden Knights4-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+LAK   0  1  0    1  
+VGK   3  0  3    6
+1st Period: ShowHide
+P1  15:02 
+Zach Whitecloud (VGK) high-sticking against Warren Foegele (2 minutes)
+   0-0
+P1  11:36 
+Joel Edmundson (LAK) slashing against Mark Stone (2 minutes)
+   0-0
+P1  10:53 
+Tomas Hertl (VGK) scores power-play goal on backhand shot past David Rittich, assisted by Mark Stone and Jack Eichel
+   0-1
+P1  06:23 
+Andre Lee (LAK) holding against Cole Schwindt (2 minutes)
+   0-1
+P1  06:09 
+Mark Stone (VGK) scores power-play goal on tip-in past David Rittich, assisted by Tomas Hertl and Noah Hanifin
+   0-2
+P1  04:48 
+Pavel Dorofeyev (VGK) scores on wrist shot past David Rittich, assisted by Tomas Hertl and Kaedan Korczak
+   0-3
+2nd Period: ShowHide
+P2  07:02 
+Alex Pietrangelo (VGK) holding against Mikey Anderson (2 minutes)
+   0-3
+P2  05:06 
+Nicolas Hague (VGK) high-sticking against Quinton Byfield (4 minutes)
+   0-3
+P2  00:53 
+Warren Foegele (LAK) scores on wrist shot past Ilya Samsonov, assisted by Joel Edmundson and Jordan Spence
+   1-3
+3rd Period: ShowHide
+P3  17:01 
+Alexander Holtz (VGK) scores on snap shot past David Rittich, assisted by Alex Pietrangelo
+   1-4
+P3  11:34 
+Tomas Hertl (VGK) scores on wrist shot past David Rittich, assisted by Alex Pietrangelo and Pavel Dorofeyev
+   1-5
+P3  06:35 
+Ivan Barbashev (VGK) scores on snap shot past David Rittich, assisted by Mark Stone and Alex Pietrangelo
+   1-6
+1st Period: ShowHide
+P1  15:02 
+Zach Whitecloud (VGK) high-sticking against Warren Foegele (2 minutes)
+   0-0
+P1  11:36 
+Joel Edmundson (LAK) slashing against Mark Stone (2 minutes)
+   0-0
+P1  10:53 
+Tomas Hertl (VGK) scores power-play goal on backhand shot past David Rittich, assisted by Mark Stone and Jack Eichel
+   0-1
+P1  06:23 
+Andre Lee (LAK) holding against Cole Schwindt (2 minutes)
+   0-1
+P1  06:09 
+Mark Stone (VGK) scores power-play goal on tip-in past David Rittich, assisted by Tomas Hertl and Noah Hanifin
+   0-2
+P1  04:48 
+Pavel Dorofeyev (VGK) scores on wrist shot past David Rittich, assisted by Tomas Hertl and Kaedan Korczak
+   0-3
+P1  15:02 
+Zach Whitecloud (VGK) high-sticking against Warren Foegele (2 minutes)
+   0-0
+P1  11:36 
+Joel Edmundson (LAK) slashing against Mark Stone (2 minutes)
+   0-0
+P1  10:53 
+Tomas Hertl (VGK) scores power-play goal on backhand shot past David Rittich, assisted by Mark Stone and Jack Eichel
+   0-1
+P1  06:23 
+Andre Lee (LAK) holding against Cole Schwindt (2 minutes)
+   0-1
+P1  06:09 
+Mark Stone (VGK) scores power-play goal on tip-in past David Rittich, assisted by Tomas Hertl and Noah Hanifin
+   0-2
+P1  04:48 
+Pavel Dorofeyev (VGK) scores on wrist shot past David Rittich, assisted by Tomas Hertl and Kaedan Korczak
+   0-3
+P1  15:02
+Zach Whitecloud (VGK) high-sticking against Warren Foegele (2 minutes)
+0-0
+P1  11:36
+Joel Edmundson (LAK) slashing against Mark Stone (2 minutes)
+0-0
+P1  10:53
+Tomas Hertl (VGK) scores power-play goal on backhand shot past David Rittich, assisted by Mark Stone and Jack Eichel
+0-1
+P1  06:23
+Andre Lee (LAK) holding against Cole Schwindt (2 minutes)
+0-1
+P1  06:09
+Mark Stone (VGK) scores power-play goal on tip-in past David Rittich, assisted by Tomas Hertl and Noah Hanifin
+0-2
+P1  04:48
+Pavel Dorofeyev (VGK) scores on wrist shot past David Rittich, assisted by Tomas Hertl and Kaedan Korczak
+0-3
+2nd Period: ShowHide
+P2  07:02 
+Alex Pietrangelo (VGK) holding against Mikey Anderson (2 minutes)
+   0-3
+P2  05:06 
+Nicolas Hague (VGK) high-sticking against Quinton Byfield (4 minutes)
+   0-3
+P2  00:53 
+Warren Foegele (LAK) scores on wrist shot past Ilya Samsonov, assisted by Joel Edmundson and Jordan Spence
+   1-3
+P2  07:02 
+Alex Pietrangelo (VGK) holding against Mikey Anderson (2 minutes)
+   0-3
+P2  05:06 
+Nicolas Hague (VGK) high-sticking against Quinton Byfield (4 minutes)
+   0-3
+P2  00:53 
+Warren Foegele (LAK) scores on wrist shot past Ilya Samsonov, assisted by Joel Edmundson and Jordan Spence
+   1-3
+P2  07:02
+Alex Pietrangelo (VGK) holding against Mikey Anderson (2 minutes)
+0-3
+P2  05:06
+Nicolas Hague (VGK) high-sticking against Quinton Byfield (4 minutes)
+0-3
+P2  00:53
+Warren Foegele (LAK) scores on wrist shot past Ilya Samsonov, assisted by Joel Edmundson and Jordan Spence
+1-3
+3rd Period: ShowHide
+P3  17:01 
+Alexander Holtz (VGK) scores on snap shot past David Rittich, assisted by Alex Pietrangelo
+   1-4
+P3  11:34 
+Tomas Hertl (VGK) scores on wrist shot past David Rittich, assisted by Alex Pietrangelo and Pavel Dorofeyev
+   1-5
+P3  06:35 
+Ivan Barbashev (VGK) scores on snap shot past David Rittich, assisted by Mark Stone and Alex Pietrangelo
+   1-6
+P3  17:01 
+Alexander Holtz (VGK) scores on snap shot past David Rittich, assisted by Alex Pietrangelo
+   1-4
+P3  11:34 
+Tomas Hertl (VGK) scores on wrist shot past David Rittich, assisted by Alex Pietrangelo and Pavel Dorofeyev
+   1-5
+P3  06:35 
+Ivan Barbashev (VGK) scores on snap shot past David Rittich, assisted by Mark Stone and Alex Pietrangelo
+   1-6
+P3  17:01
+Alexander Holtz (VGK) scores on snap shot past David Rittich, assisted by Alex Pietrangelo
+1-4
+P3  11:34
+Tomas Hertl (VGK) scores on wrist shot past David Rittich, assisted by Alex Pietrangelo and Pavel Dorofeyev
+1-5
+P3  06:35
+Ivan Barbashev (VGK) scores on snap shot past David Rittich, assisted by Mark Stone and Alex Pietrangelo
+1-6
+Box Score:
+ 
+Back to Top
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:00   0  0   -1   2   0   0   0   2   1/3Phillip Danault C  16:36   0  0   -1   0   0   0   0   1   4/8Kevin Fiala L  18:24   0  0   -2   0   0   0   2   0   0/3Warren Foegele L  14:40   1  0    0   5   0   0   1   3   1/2Tanner Jeannot L  12:29   0  0   -1   3   2   0   0   0   0/0Adrian Kempe R  17:34   0  0    0   2   0   0   0   0   0/0Anze Kopitar C  18:55   0  0    0   0   0   0   1   0  9/19Alex Laferriere R  17:39   0  0    0   3   0   0   0   0   0/3Andre Lee L  12:13   0  0   -1   2   3   2   0   0   0/0Trevor Lewis C  11:20   0  0   -1   1   0   0   0   0   1/4Trevor Moore L  17:03   0  0   -2   2   0   0   0   0   0/0Alex Turcotte C  15:23   0  0    0   2   1   0   0   2   2/8Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:49   0  0    0   3   1   0   0   2   0/0Brandt Clarke D  22:00   0  0   -3   1   2   0   0   3   0/0Joel Edmundson D  16:22   0  1   -2   3   1   2   0   1   0/0Andreas Englund D  11:21   0  0   -1   1   1   0   0   2   0/0Vladislav Gavrikov D  21:18   0  0    0   2   1   0   2   0   0/0Jordan Spence D  19:10   0  1    0   1   1   0   0   1   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       33  13   4   6  17 18/50
+                                        36.0%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  59:47   6  24/30  21/25   3/5   0/0     0
+              .800   .840  .600 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  12:34   1  0    0   4   0   0   1   0   0/0Brendan Brisson C  12:15   0  0    1   1   0   0   0   0   0/0Pavel Dorofeyev L  15:23   1  1    2   4   0   0   0   3   0/0Jack Eichel C  16:23   0  1    1   2   0   0   0   1  9/16Tomas Hertl C  15:21   2  2    2   5   2   0   0   0  9/10Alexander Holtz R  11:05   1  0    1   1   0   0   0   1   0/1Brett Howden C  16:54   0  0    2   0   3   0   0   1   2/3Keegan Kolesar R  15:34   0  0   -1   1   1   0   0   0   0/0Tanner Pearson L  14:04   0  0    0   1   0   0   0   1   0/0Nicolas Roy C  16:14   0  0   -1   1   0   0   2   0  6/13Cole Schwindt R  11:24   0  0    1   1   2   0   0   0   6/7Mark Stone R  15:21   1  2    1   4   0   0   0   1   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  19:21   0  0    0   0   2   4   1   0   0/0Noah Hanifin D  21:27   0  1    2   3   1   0   0   2   0/0Kaedan Korczak D  17:22   0  1    1   0   3   0   0   0   0/0Brayden McNabb D  21:48   0  0    1   0   1   0   0   3   0/0Alex Pietrangelo D  20:54   0  3    2   2   3   2   1   1   0/0Zach Whitecloud D  18:36   0  0    0   0   5   2   0   0   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       30  23   8   5  14 32/50
+                                        64.0%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   1  32/33  27/28   5/5   0/0     0
+              .970   .964 1.000
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  15:00   0  0   -1   2   0   0   0   2   1/3Phillip Danault C  16:36   0  0   -1   0   0   0   0   1   4/8Kevin Fiala L  18:24   0  0   -2   0   0   0   2   0   0/3Warren Foegele L  14:40   1  0    0   5   0   0   1   3   1/2Tanner Jeannot L  12:29   0  0   -1   3   2   0   0   0   0/0Adrian Kempe R  17:34   0  0    0   2   0   0   0   0   0/0Anze Kopitar C  18:55   0  0    0   0   0   0   1   0  9/19Alex Laferriere R  17:39   0  0    0   3   0   0   0   0   0/3Andre Lee L  12:13   0  0   -1   2   3   2   0   0   0/0Trevor Lewis C  11:20   0  0   -1   1   0   0   0   0   1/4Trevor Moore L  17:03   0  0   -2   2   0   0   0   0   0/0Alex Turcotte C  15:23   0  0    0   2   1   0   0   2   2/8
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Quinton Byfield R
+15:00   0  0   -1   2   0   0   0   2   1/3
+Phillip Danault C
+16:36   0  0   -1   0   0   0   0   1   4/8
+Kevin Fiala L
+18:24   0  0   -2   0   0   0   2   0   0/3
+Warren Foegele L
+14:40   1  0    0   5   0   0   1   3   1/2
+Tanner Jeannot L
+12:29   0  0   -1   3   2   0   0   0   0/0
+Adrian Kempe R
+17:34   0  0    0   2   0   0   0   0   0/0
+Anze Kopitar C
+18:55   0  0    0   0   0   0   1   0  9/19
+Alex Laferriere R
+17:39   0  0    0   3   0   0   0   0   0/3
+Andre Lee L
+12:13   0  0   -1   2   3   2   0   0   0/0
+Trevor Lewis C
+11:20   0  0   -1   1   0   0   0   0   1/4
+Trevor Moore L
+17:03   0  0   -2   2   0   0   0   0   0/0
+Alex Turcotte C
+15:23   0  0    0   2   1   0   0   2   2/8
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  21:49   0  0    0   3   1   0   0   2   0/0Brandt Clarke D  22:00   0  0   -3   1   2   0   0   3   0/0Joel Edmundson D  16:22   0  1   -2   3   1   2   0   1   0/0Andreas Englund D  11:21   0  0   -1   1   1   0   0   2   0/0Vladislav Gavrikov D  21:18   0  0    0   2   1   0   2   0   0/0Jordan Spence D  19:10   0  1    0   1   1   0   0   1   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikey Anderson D
+21:49   0  0    0   3   1   0   0   2   0/0
+Brandt Clarke D
+22:00   0  0   -3   1   2   0   0   3   0/0
+Joel Edmundson D
+16:22   0  1   -2   3   1   2   0   1   0/0
+Andreas Englund D
+11:21   0  0   -1   1   1   0   0   2   0/0
+Vladislav Gavrikov D
+21:18   0  0    0   2   1   0   2   0   0/0
+Jordan Spence D
+19:10   0  1    0   1   1   0   0   1   0/0
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       33  13   4   6  17 18/50
+                                        36.0%
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  59:47   6  24/30  21/25   3/5   0/0     0
+              .800   .840  .600
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+David Rittich G
+59:47   6  24/30  21/25   3/5   0/0     0
+              .800   .840  .600
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  12:34   1  0    0   4   0   0   1   0   0/0Brendan Brisson C  12:15   0  0    1   1   0   0   0   0   0/0Pavel Dorofeyev L  15:23   1  1    2   4   0   0   0   3   0/0Jack Eichel C  16:23   0  1    1   2   0   0   0   1  9/16Tomas Hertl C  15:21   2  2    2   5   2   0   0   0  9/10Alexander Holtz R  11:05   1  0    1   1   0   0   0   1   0/1Brett Howden C  16:54   0  0    2   0   3   0   0   1   2/3Keegan Kolesar R  15:34   0  0   -1   1   1   0   0   0   0/0Tanner Pearson L  14:04   0  0    0   1   0   0   0   1   0/0Nicolas Roy C  16:14   0  0   -1   1   0   0   2   0  6/13Cole Schwindt R  11:24   0  0    1   1   2   0   0   0   6/7Mark Stone R  15:21   1  2    1   4   0   0   0   1   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+12:34   1  0    0   4   0   0   1   0   0/0
+Brendan Brisson C
+12:15   0  0    1   1   0   0   0   0   0/0
+Pavel Dorofeyev L
+15:23   1  1    2   4   0   0   0   3   0/0
+Jack Eichel C
+16:23   0  1    1   2   0   0   0   1  9/16
+Tomas Hertl C
+15:21   2  2    2   5   2   0   0   0  9/10
+Alexander Holtz R
+11:05   1  0    1   1   0   0   0   1   0/1
+Brett Howden C
+16:54   0  0    2   0   3   0   0   1   2/3
+Keegan Kolesar R
+15:34   0  0   -1   1   1   0   0   0   0/0
+Tanner Pearson L
+14:04   0  0    0   1   0   0   0   1   0/0
+Nicolas Roy C
+16:14   0  0   -1   1   0   0   2   0  6/13
+Cole Schwindt R
+11:24   0  0    1   1   2   0   0   0   6/7
+Mark Stone R
+15:21   1  2    1   4   0   0   0   1   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  19:21   0  0    0   0   2   4   1   0   0/0Noah Hanifin D  21:27   0  1    2   3   1   0   0   2   0/0Kaedan Korczak D  17:22   0  1    1   0   3   0   0   0   0/0Brayden McNabb D  21:48   0  0    1   0   1   0   0   3   0/0Alex Pietrangelo D  20:54   0  3    2   2   3   2   1   1   0/0Zach Whitecloud D  18:36   0  0    0   0   5   2   0   0   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Hague D
+19:21   0  0    0   0   2   4   1   0   0/0
+Noah Hanifin D
+21:27   0  1    2   3   1   0   0   2   0/0
+Kaedan Korczak D
+17:22   0  1    1   0   3   0   0   0   0/0
+Brayden McNabb D
+21:48   0  0    1   0   1   0   0   3   0/0
+Alex Pietrangelo D
+20:54   0  3    2   2   3   2   1   1   0/0
+Zach Whitecloud D
+18:36   0  0    0   0   5   2   0   0   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          6 11       30  23   8   5  14 32/50
+                                        64.0%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   1  32/33  27/28   5/5   0/0     0
+              .970   .964 1.000
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Samsonov G
+60:00   1  32/33  27/28   5/5   0/0     0
+              .970   .964 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

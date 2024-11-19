@@ -1,0 +1,340 @@
+< Oct. 24 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Winnipeg
+Jets7-0-0Final/OT4 - 3Seattle
+Kraken4-3-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+WPG   0  2  1  1    4  
+SEA   1  0  2  0    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:33 
+Matty Beniers (SEA) scores on wrist shot past Connor Hellebuyck
+   0-1
+P1  07:46 
+Dylan DeMelo (WPG) interference against Jared McCann (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  16:04 
+Nino Niederreiter (WPG) scores on deflection past Joey Daccord, assisted by Mason Appleton and Adam Lowry
+   1-1
+P2  04:55 
+Gabriel Vilardi (WPG) scores on wrist shot past Joey Daccord, assisted by Mark Scheifele and Kyle Connor
+   2-1
+P2  04:41 
+Adam Lowry (WPG) slashing against Eeli Tolvanen (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  17:42 
+Tye Kartye (SEA) high-sticking against Colin Miller (2 minutes)
+   2-1
+P3  15:39 
+Nino Niederreiter (WPG) scores on wrist shot past Joey Daccord, assisted by Cole Perfetti and Neal Pionk
+   3-1
+P3  08:59 
+Jordan Eberle (SEA) scores on backhand shot past Connor Hellebuyck, assisted by Jared McCann and Matty Beniers
+   3-2
+P3  03:22 
+Matty Beniers (SEA) scores on tip-in past Connor Hellebuyck, assisted by Brandon Montour and Jared McCann
+   3-3
+Overtime: ShowHide
+OT  03:34 
+Nikolaj Ehlers (WPG) scores goal with extra attacker on wrist shot past Joey Daccord, assisted by Kyle Connor and Mark Scheifele
+   4-3
+Box Score:
+ 
+Back to Top
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:44   0  1    0   3   1   0   0   1   0/0Morgan Barron C  11:35   0  0    0   1   1   0   2   1   0/0Kyle Connor L  19:48   0  2    0   1   1   0   0   2   0/1Nikolaj Ehlers L  17:11   1  0    1   3   0   0   0   0   0/0Alex Iafallo L  11:07   0  0    1   0   0   0   0   1   0/0Rasmus Kupari C  10:53   0  0   -1   0   2   0   0   0  7/14Adam Lowry C  14:19   0  1    0   2   1   2   1   0 13/23Vladislav Namestnikov C  15:28   0  0    0   1   0   0   1   0  8/16Nino Niederreiter R  12:06   2  0    2   3   0   0   0   0   0/0Cole Perfetti C  14:15   0  1    1   4   0   0   0   0   1/1Mark Scheifele C  21:30   0  2    0   2   0   0   0   1 11/20Gabriel Vilardi C  18:40   1  0   -1   3   2   0   0   0   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:52   0  0    0   0   1   2   1   1   0/0Colin Miller D  13:28   0  0    1   2   0   0   0   0   0/0Josh Morrissey D  27:36   0  0    0   2   2   0   0   0   0/0Neal Pionk D  21:28   0  1    0   6   3   0   0   2   0/0Dylan Samberg D  20:36   0  0   -1   3   2   0   1   3   0/0Logan Stanley D  14:49   0  0    1   0   1   0   0   0   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       36  17   4   6  12 40/75
+                                        53.3%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  61:19   3  29/32  27/30   2/2   0/0     0
+              .906   .900 1.000 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:23   2  1    2   2   1   0   0   0 10/20Oliver Bjorkstrand R  14:06   0  0   -1   2   0   0   0   0   0/1Andre Burakovsky L  13:56   0  0   -1   1   3   0   0   0   0/0Jordan Eberle R  19:26   1  0    3   5   4   0   0   0   1/2Yanni Gourde C  14:55   0  0    0   4   1   0   0   0  7/13Tye Kartye L  08:46   0  0   -2   1   0   2   0   0   0/0Jared McCann L  17:48   0  2    2   3   0   0   2   0   0/0Jaden Schwartz C  17:31   0  0   -1   2   1   0   0   0   0/1Chandler Stephenson C  20:02   0  0   -2   0   0   0   0   1 13/26Brandon Tanev L  13:51   0  0   -1   3   2   0   0   1   0/0Eeli Tolvanen R  13:13   0  0    0   0   0   0   0   0   0/0Shane Wright C  12:55   0  0   -1   0   0   0   0   2  4/12Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  17:50   0  0    0   0   0   0   0   1   0/0Ryker Evans D  21:51   0  0    0   3   0   0   0   0   0/0Adam Larsson D  20:23   0  0   -1   1   1   0   0   0   0/0Joshua Mahura D  10:30   0  0    0   0   1   0   0   1   0/0Brandon Montour D  26:52   0  1    0   1   1   0   0   2   0/0Jamie Oleksiak D  20:20   0  0    0   4   2   0   0   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       32  17   2   2   9 35/75
+                                        46.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  61:06   4  32/36  29/33   3/3   0/0     0
+              .889   .879 1.000
+Winnipeg
+Jets7-0-0Final/OT4 - 3Seattle
+Kraken4-3-1
+Winnipeg
+Jets7-0-0
+Final/OT4 - 3
+Seattle
+Kraken4-3-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+WPG   0  2  1  1    4  
+SEA   1  0  2  0    3
+1st Period: ShowHide
+P1  08:33 
+Matty Beniers (SEA) scores on wrist shot past Connor Hellebuyck
+   0-1
+P1  07:46 
+Dylan DeMelo (WPG) interference against Jared McCann (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  16:04 
+Nino Niederreiter (WPG) scores on deflection past Joey Daccord, assisted by Mason Appleton and Adam Lowry
+   1-1
+P2  04:55 
+Gabriel Vilardi (WPG) scores on wrist shot past Joey Daccord, assisted by Mark Scheifele and Kyle Connor
+   2-1
+P2  04:41 
+Adam Lowry (WPG) slashing against Eeli Tolvanen (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  17:42 
+Tye Kartye (SEA) high-sticking against Colin Miller (2 minutes)
+   2-1
+P3  15:39 
+Nino Niederreiter (WPG) scores on wrist shot past Joey Daccord, assisted by Cole Perfetti and Neal Pionk
+   3-1
+P3  08:59 
+Jordan Eberle (SEA) scores on backhand shot past Connor Hellebuyck, assisted by Jared McCann and Matty Beniers
+   3-2
+P3  03:22 
+Matty Beniers (SEA) scores on tip-in past Connor Hellebuyck, assisted by Brandon Montour and Jared McCann
+   3-3
+Overtime: ShowHide
+OT  03:34 
+Nikolaj Ehlers (WPG) scores goal with extra attacker on wrist shot past Joey Daccord, assisted by Kyle Connor and Mark Scheifele
+   4-3
+1st Period: ShowHide
+P1  08:33 
+Matty Beniers (SEA) scores on wrist shot past Connor Hellebuyck
+   0-1
+P1  07:46 
+Dylan DeMelo (WPG) interference against Jared McCann (2 minutes)
+   0-1
+P1  08:33 
+Matty Beniers (SEA) scores on wrist shot past Connor Hellebuyck
+   0-1
+P1  07:46 
+Dylan DeMelo (WPG) interference against Jared McCann (2 minutes)
+   0-1
+P1  08:33
+Matty Beniers (SEA) scores on wrist shot past Connor Hellebuyck
+0-1
+P1  07:46
+Dylan DeMelo (WPG) interference against Jared McCann (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  16:04 
+Nino Niederreiter (WPG) scores on deflection past Joey Daccord, assisted by Mason Appleton and Adam Lowry
+   1-1
+P2  04:55 
+Gabriel Vilardi (WPG) scores on wrist shot past Joey Daccord, assisted by Mark Scheifele and Kyle Connor
+   2-1
+P2  04:41 
+Adam Lowry (WPG) slashing against Eeli Tolvanen (2 minutes)
+   2-1
+P2  16:04 
+Nino Niederreiter (WPG) scores on deflection past Joey Daccord, assisted by Mason Appleton and Adam Lowry
+   1-1
+P2  04:55 
+Gabriel Vilardi (WPG) scores on wrist shot past Joey Daccord, assisted by Mark Scheifele and Kyle Connor
+   2-1
+P2  04:41 
+Adam Lowry (WPG) slashing against Eeli Tolvanen (2 minutes)
+   2-1
+P2  16:04
+Nino Niederreiter (WPG) scores on deflection past Joey Daccord, assisted by Mason Appleton and Adam Lowry
+1-1
+P2  04:55
+Gabriel Vilardi (WPG) scores on wrist shot past Joey Daccord, assisted by Mark Scheifele and Kyle Connor
+2-1
+P2  04:41
+Adam Lowry (WPG) slashing against Eeli Tolvanen (2 minutes)
+2-1
+3rd Period: ShowHide
+P3  17:42 
+Tye Kartye (SEA) high-sticking against Colin Miller (2 minutes)
+   2-1
+P3  15:39 
+Nino Niederreiter (WPG) scores on wrist shot past Joey Daccord, assisted by Cole Perfetti and Neal Pionk
+   3-1
+P3  08:59 
+Jordan Eberle (SEA) scores on backhand shot past Connor Hellebuyck, assisted by Jared McCann and Matty Beniers
+   3-2
+P3  03:22 
+Matty Beniers (SEA) scores on tip-in past Connor Hellebuyck, assisted by Brandon Montour and Jared McCann
+   3-3
+P3  17:42 
+Tye Kartye (SEA) high-sticking against Colin Miller (2 minutes)
+   2-1
+P3  15:39 
+Nino Niederreiter (WPG) scores on wrist shot past Joey Daccord, assisted by Cole Perfetti and Neal Pionk
+   3-1
+P3  08:59 
+Jordan Eberle (SEA) scores on backhand shot past Connor Hellebuyck, assisted by Jared McCann and Matty Beniers
+   3-2
+P3  03:22 
+Matty Beniers (SEA) scores on tip-in past Connor Hellebuyck, assisted by Brandon Montour and Jared McCann
+   3-3
+P3  17:42
+Tye Kartye (SEA) high-sticking against Colin Miller (2 minutes)
+2-1
+P3  15:39
+Nino Niederreiter (WPG) scores on wrist shot past Joey Daccord, assisted by Cole Perfetti and Neal Pionk
+3-1
+P3  08:59
+Jordan Eberle (SEA) scores on backhand shot past Connor Hellebuyck, assisted by Jared McCann and Matty Beniers
+3-2
+P3  03:22
+Matty Beniers (SEA) scores on tip-in past Connor Hellebuyck, assisted by Brandon Montour and Jared McCann
+3-3
+Overtime: ShowHide
+OT  03:34 
+Nikolaj Ehlers (WPG) scores goal with extra attacker on wrist shot past Joey Daccord, assisted by Kyle Connor and Mark Scheifele
+   4-3
+OT  03:34 
+Nikolaj Ehlers (WPG) scores goal with extra attacker on wrist shot past Joey Daccord, assisted by Kyle Connor and Mark Scheifele
+   4-3
+OT  03:34
+Nikolaj Ehlers (WPG) scores goal with extra attacker on wrist shot past Joey Daccord, assisted by Kyle Connor and Mark Scheifele
+4-3
+Box Score:
+ 
+Back to Top
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:44   0  1    0   3   1   0   0   1   0/0Morgan Barron C  11:35   0  0    0   1   1   0   2   1   0/0Kyle Connor L  19:48   0  2    0   1   1   0   0   2   0/1Nikolaj Ehlers L  17:11   1  0    1   3   0   0   0   0   0/0Alex Iafallo L  11:07   0  0    1   0   0   0   0   1   0/0Rasmus Kupari C  10:53   0  0   -1   0   2   0   0   0  7/14Adam Lowry C  14:19   0  1    0   2   1   2   1   0 13/23Vladislav Namestnikov C  15:28   0  0    0   1   0   0   1   0  8/16Nino Niederreiter R  12:06   2  0    2   3   0   0   0   0   0/0Cole Perfetti C  14:15   0  1    1   4   0   0   0   0   1/1Mark Scheifele C  21:30   0  2    0   2   0   0   0   1 11/20Gabriel Vilardi C  18:40   1  0   -1   3   2   0   0   0   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:52   0  0    0   0   1   2   1   1   0/0Colin Miller D  13:28   0  0    1   2   0   0   0   0   0/0Josh Morrissey D  27:36   0  0    0   2   2   0   0   0   0/0Neal Pionk D  21:28   0  1    0   6   3   0   0   2   0/0Dylan Samberg D  20:36   0  0   -1   3   2   0   1   3   0/0Logan Stanley D  14:49   0  0    1   0   1   0   0   0   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       36  17   4   6  12 40/75
+                                        53.3%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  61:19   3  29/32  27/30   2/2   0/0     0
+              .906   .900 1.000 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:23   2  1    2   2   1   0   0   0 10/20Oliver Bjorkstrand R  14:06   0  0   -1   2   0   0   0   0   0/1Andre Burakovsky L  13:56   0  0   -1   1   3   0   0   0   0/0Jordan Eberle R  19:26   1  0    3   5   4   0   0   0   1/2Yanni Gourde C  14:55   0  0    0   4   1   0   0   0  7/13Tye Kartye L  08:46   0  0   -2   1   0   2   0   0   0/0Jared McCann L  17:48   0  2    2   3   0   0   2   0   0/0Jaden Schwartz C  17:31   0  0   -1   2   1   0   0   0   0/1Chandler Stephenson C  20:02   0  0   -2   0   0   0   0   1 13/26Brandon Tanev L  13:51   0  0   -1   3   2   0   0   1   0/0Eeli Tolvanen R  13:13   0  0    0   0   0   0   0   0   0/0Shane Wright C  12:55   0  0   -1   0   0   0   0   2  4/12Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  17:50   0  0    0   0   0   0   0   1   0/0Ryker Evans D  21:51   0  0    0   3   0   0   0   0   0/0Adam Larsson D  20:23   0  0   -1   1   1   0   0   0   0/0Joshua Mahura D  10:30   0  0    0   0   1   0   0   1   0/0Brandon Montour D  26:52   0  1    0   1   1   0   0   2   0/0Jamie Oleksiak D  20:20   0  0    0   4   2   0   0   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       32  17   2   2   9 35/75
+                                        46.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  61:06   4  32/36  29/33   3/3   0/0     0
+              .889   .879 1.000
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:44   0  1    0   3   1   0   0   1   0/0Morgan Barron C  11:35   0  0    0   1   1   0   2   1   0/0Kyle Connor L  19:48   0  2    0   1   1   0   0   2   0/1Nikolaj Ehlers L  17:11   1  0    1   3   0   0   0   0   0/0Alex Iafallo L  11:07   0  0    1   0   0   0   0   1   0/0Rasmus Kupari C  10:53   0  0   -1   0   2   0   0   0  7/14Adam Lowry C  14:19   0  1    0   2   1   2   1   0 13/23Vladislav Namestnikov C  15:28   0  0    0   1   0   0   1   0  8/16Nino Niederreiter R  12:06   2  0    2   3   0   0   0   0   0/0Cole Perfetti C  14:15   0  1    1   4   0   0   0   0   1/1Mark Scheifele C  21:30   0  2    0   2   0   0   0   1 11/20Gabriel Vilardi C  18:40   1  0   -1   3   2   0   0   0   0/0
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mason Appleton C
+13:44   0  1    0   3   1   0   0   1   0/0
+Morgan Barron C
+11:35   0  0    0   1   1   0   2   1   0/0
+Kyle Connor L
+19:48   0  2    0   1   1   0   0   2   0/1
+Nikolaj Ehlers L
+17:11   1  0    1   3   0   0   0   0   0/0
+Alex Iafallo L
+11:07   0  0    1   0   0   0   0   1   0/0
+Rasmus Kupari C
+10:53   0  0   -1   0   2   0   0   0  7/14
+Adam Lowry C
+14:19   0  1    0   2   1   2   1   0 13/23
+Vladislav Namestnikov C
+15:28   0  0    0   1   0   0   1   0  8/16
+Nino Niederreiter R
+12:06   2  0    2   3   0   0   0   0   0/0
+Cole Perfetti C
+14:15   0  1    1   4   0   0   0   0   1/1
+Mark Scheifele C
+21:30   0  2    0   2   0   0   0   1 11/20
+Gabriel Vilardi C
+18:40   1  0   -1   3   2   0   0   0   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:52   0  0    0   0   1   2   1   1   0/0Colin Miller D  13:28   0  0    1   2   0   0   0   0   0/0Josh Morrissey D  27:36   0  0    0   2   2   0   0   0   0/0Neal Pionk D  21:28   0  1    0   6   3   0   0   2   0/0Dylan Samberg D  20:36   0  0   -1   3   2   0   1   3   0/0Logan Stanley D  14:49   0  0    1   0   1   0   0   0   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dylan DeMelo D
+21:52   0  0    0   0   1   2   1   1   0/0
+Colin Miller D
+13:28   0  0    1   2   0   0   0   0   0/0
+Josh Morrissey D
+27:36   0  0    0   2   2   0   0   0   0/0
+Neal Pionk D
+21:28   0  1    0   6   3   0   0   2   0/0
+Dylan Samberg D
+20:36   0  0   -1   3   2   0   1   3   0/0
+Logan Stanley D
+14:49   0  0    1   0   1   0   0   0   0/0
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       36  17   4   6  12 40/75
+                                        53.3%
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  61:19   3  29/32  27/30   2/2   0/0     0
+              .906   .900 1.000
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Hellebuyck G
+61:19   3  29/32  27/30   2/2   0/0     0
+              .906   .900 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:23   2  1    2   2   1   0   0   0 10/20Oliver Bjorkstrand R  14:06   0  0   -1   2   0   0   0   0   0/1Andre Burakovsky L  13:56   0  0   -1   1   3   0   0   0   0/0Jordan Eberle R  19:26   1  0    3   5   4   0   0   0   1/2Yanni Gourde C  14:55   0  0    0   4   1   0   0   0  7/13Tye Kartye L  08:46   0  0   -2   1   0   2   0   0   0/0Jared McCann L  17:48   0  2    2   3   0   0   2   0   0/0Jaden Schwartz C  17:31   0  0   -1   2   1   0   0   0   0/1Chandler Stephenson C  20:02   0  0   -2   0   0   0   0   1 13/26Brandon Tanev L  13:51   0  0   -1   3   2   0   0   1   0/0Eeli Tolvanen R  13:13   0  0    0   0   0   0   0   0   0/0Shane Wright C  12:55   0  0   -1   0   0   0   0   2  4/12
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+18:23   2  1    2   2   1   0   0   0 10/20
+Oliver Bjorkstrand R
+14:06   0  0   -1   2   0   0   0   0   0/1
+Andre Burakovsky L
+13:56   0  0   -1   1   3   0   0   0   0/0
+Jordan Eberle R
+19:26   1  0    3   5   4   0   0   0   1/2
+Yanni Gourde C
+14:55   0  0    0   4   1   0   0   0  7/13
+Tye Kartye L
+08:46   0  0   -2   1   0   2   0   0   0/0
+Jared McCann L
+17:48   0  2    2   3   0   0   2   0   0/0
+Jaden Schwartz C
+17:31   0  0   -1   2   1   0   0   0   0/1
+Chandler Stephenson C
+20:02   0  0   -2   0   0   0   0   1 13/26
+Brandon Tanev L
+13:51   0  0   -1   3   2   0   0   1   0/0
+Eeli Tolvanen R
+13:13   0  0    0   0   0   0   0   0   0/0
+Shane Wright C
+12:55   0  0   -1   0   0   0   0   2  4/12
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  17:50   0  0    0   0   0   0   0   1   0/0Ryker Evans D  21:51   0  0    0   3   0   0   0   0   0/0Adam Larsson D  20:23   0  0   -1   1   1   0   0   0   0/0Joshua Mahura D  10:30   0  0    0   0   1   0   0   1   0/0Brandon Montour D  26:52   0  1    0   1   1   0   0   2   0/0Jamie Oleksiak D  20:20   0  0    0   4   2   0   0   1   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+17:50   0  0    0   0   0   0   0   1   0/0
+Ryker Evans D
+21:51   0  0    0   3   0   0   0   0   0/0
+Adam Larsson D
+20:23   0  0   -1   1   1   0   0   0   0/0
+Joshua Mahura D
+10:30   0  0    0   0   1   0   0   1   0/0
+Brandon Montour D
+26:52   0  1    0   1   1   0   0   2   0/0
+Jamie Oleksiak D
+20:20   0  0    0   4   2   0   0   1   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       32  17   2   2   9 35/75
+                                        46.7%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  61:06   4  32/36  29/33   3/3   0/0     0
+              .889   .879 1.000
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joey Daccord G
+61:06   4  32/36  29/33   3/3   0/0     0
+              .889   .879 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

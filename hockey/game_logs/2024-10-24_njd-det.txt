@@ -1,0 +1,532 @@
+< Oct. 24 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New Jersey
+Devils5-4-1Final3 - 5Detroit
+Red Wings4-3-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NJD   1  1  1    3  
+DET   2  0  3    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:05 
+Moritz Seider (DET) slashing against Paul Cotter (2 minutes)
+   0-0
+P1  07:49 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jesper Bratt
+   1-0
+P1  05:00 
+Johnathan Kovacevic (NJD) holding against Vladimir Tarasenko (2 minutes)
+   1-0
+P1  01:51 
+Christian Fischer (DET) scores on wrist shot past Jacob Markstrom, assisted by Andrew Copp
+   1-1
+P1  01:26 
+Alex DeBrincat (DET) scores on wrist shot past Jacob Markstrom
+   1-2
+P1  00:00 
+NJD penalty, too many men on the ice (2 minutes), served by Tomas Tatar
+   1-2
+2nd Period: ShowHide
+P2  16:33 
+Dylan Larkin (DET) elbowing against Paul Cotter (2 minutes)
+   1-2
+P2  15:01 
+Erik Haula (NJD) scores power-play goal on tip-in past Cam Talbot, assisted by Timo Meier and Luke Hughes
+   2-2
+P2  14:06 
+Patrick Kane (DET) high-sticking against Jonas Siegenthaler (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  10:50 
+Brenden Dillon (NJD) roughing against Christian Fischer (2 minutes), served by Tomas Tatar
+   2-2
+P3  10:50 
+Christian Fischer (DET) fighting against Brenden Dillon (5 minutes)
+   2-2
+P3  10:50 
+Brenden Dillon (NJD) fighting against Christian Fischer (5 minutes)
+   2-2
+P3  10:14 
+Dylan Larkin (DET) scores power-play goal on tip-in past Jacob Markstrom, assisted by Patrick Kane and Lucas Raymond
+   2-3
+P3  08:43 
+Ben Chiarot (DET) hooking against Nico Hischier (2 minutes), served by Jonatan Berggren
+   2-3
+P3  08:43 
+Timo Meier (NJD) roughing against Lucas Raymond (2 minutes)
+   2-3
+P3  08:43 
+Lucas Raymond (DET) roughing against Timo Meier (2 minutes)
+   2-3
+P3  08:43 
+Johnathan Kovacevic (NJD) fighting against Ben Chiarot (5 minutes)
+   2-3
+P3  08:43 
+Ben Chiarot (DET) fighting against Johnathan Kovacevic (5 minutes)
+   2-3
+P3  08:19 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jack Hughes and Dougie Hamilton
+   3-3
+P3  03:54 
+Dawson Mercer (NJD) cross-checking against Olli Maatta (2 minutes)
+   3-3
+P3  03:32 
+Patrick Kane (DET) scores power-play goal on snap shot past Jacob Markstrom, assisted by Lucas Raymond and Alex DeBrincat
+   3-4
+P3  02:37 
+Jeff Petry (DET) tripping against Paul Cotter (2 minutes)
+   3-4
+P3  00:12 
+Michael Rasmussen (DET) scores on empty net, assisted by Simon Edvinsson
+   3-5
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  10:56   0  0    0   0   3   0   0   0   0/0Jesper Bratt L  19:51   0  1   -1   2   2   0   1   1   0/0Paul Cotter C  11:38   0  0   -2   3   0   0   2   0   0/1Erik Haula L  11:49   1  0   -1   1   1   0   3   0   5/8Nico Hischier C  20:35   2  0    0   8   0   0   1   0 17/32Jack Hughes C  22:59   0  1   -2   8   0   0   0   0   2/7Curtis Lazar C  09:57   0  0    0   1   2   0   0   0   3/6Timo Meier R  17:06   0  1   -1   2   1   2   0   0   0/0Dawson Mercer C  17:36   0  0    0   0   3   2   0   1   0/1Stefan Noesen R  15:22   0  0   -3   1   1   0   0   2   1/1Ondrej Palat L  13:47   0  0    0   2   3   0   2   1   0/0Tomas Tatar L  11:17   0  0   -1   1   0   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  16:31   0  0    0   0   0   7   0   1   0/0Dougie Hamilton D  24:28   0  1   -1   6   2   0   0   0   0/0Luke Hughes D  15:11   0  1   -1   0   1   0   0   1   0/0Johnathan Kovacevic D  18:54   0  0   -1   1   1   7   2   0   0/0Brett Pesce D  17:33   0  0   -1   3   0   0   0   1   0/0Jonas Siegenthaler D  21:14   0  0   -1   1   2   0   1   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       40  22  18  12   9 28/56
+                                        50.0%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:22   4  15/19  12/14   3/5   0/0     0
+              .789   .857  .600 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:26   0  0    0   1   0   0   2   0   0/0Andrew Copp C  13:40   0  1    2   1   1   0   2   1  9/14Alex DeBrincat R  19:01   1  1    1   3   0   0   0   0   0/0Christian Fischer R  10:37   1  0    2   1   0   5   0   0   0/0Patrick Kane R  18:38   1  1    0   3   0   2   1   0   0/0Marco Kasper C  18:44   0  0    0   1   3   0   0   0  3/10Dylan Larkin C  23:00   1  0    1   3   0   2   3   1 13/26Michael Rasmussen C  14:40   1  0    1   1   1   0   0   0   2/3Lucas Raymond L  20:27   0  2    1   0   0   2   0   1   0/0Vladimir Tarasenko R  15:59   0  0    0   0   0   0   0   1   0/0Joe Veleno C  11:07   0  0    1   1   0   0   0   1   1/3Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  15:07   0  0    0   1   3   7   0   0   0/0Simon Edvinsson D  20:15   0  1    1   0   4   0   0   0   0/0Erik Gustafsson D  12:15   0  0    0   0   0   0   0   0   0/0Justin Holl D  13:16   0  0    2   2   0   0   0   2   0/0Olli Maatta D  13:34   0  0    2   0   0   0   1   1   0/0Jeff Petry D  16:11   0  0    0   1   2   2   1   1   0/0Moritz Seider D  24:51   0  0    1   1   3   2   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       20  17  22  10  10 28/56
+                                        50.0%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   3  37/40  34/34   3/6   0/0     0
+              .925  1.000  .500
+New Jersey
+Devils5-4-1Final3 - 5Detroit
+Red Wings4-3-0
+New Jersey
+Devils5-4-1
+Final3 - 5
+Detroit
+Red Wings4-3-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NJD   1  1  1    3  
+DET   2  0  3    5
+1st Period: ShowHide
+P1  08:05 
+Moritz Seider (DET) slashing against Paul Cotter (2 minutes)
+   0-0
+P1  07:49 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jesper Bratt
+   1-0
+P1  05:00 
+Johnathan Kovacevic (NJD) holding against Vladimir Tarasenko (2 minutes)
+   1-0
+P1  01:51 
+Christian Fischer (DET) scores on wrist shot past Jacob Markstrom, assisted by Andrew Copp
+   1-1
+P1  01:26 
+Alex DeBrincat (DET) scores on wrist shot past Jacob Markstrom
+   1-2
+P1  00:00 
+NJD penalty, too many men on the ice (2 minutes), served by Tomas Tatar
+   1-2
+2nd Period: ShowHide
+P2  16:33 
+Dylan Larkin (DET) elbowing against Paul Cotter (2 minutes)
+   1-2
+P2  15:01 
+Erik Haula (NJD) scores power-play goal on tip-in past Cam Talbot, assisted by Timo Meier and Luke Hughes
+   2-2
+P2  14:06 
+Patrick Kane (DET) high-sticking against Jonas Siegenthaler (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  10:50 
+Brenden Dillon (NJD) roughing against Christian Fischer (2 minutes), served by Tomas Tatar
+   2-2
+P3  10:50 
+Christian Fischer (DET) fighting against Brenden Dillon (5 minutes)
+   2-2
+P3  10:50 
+Brenden Dillon (NJD) fighting against Christian Fischer (5 minutes)
+   2-2
+P3  10:14 
+Dylan Larkin (DET) scores power-play goal on tip-in past Jacob Markstrom, assisted by Patrick Kane and Lucas Raymond
+   2-3
+P3  08:43 
+Ben Chiarot (DET) hooking against Nico Hischier (2 minutes), served by Jonatan Berggren
+   2-3
+P3  08:43 
+Timo Meier (NJD) roughing against Lucas Raymond (2 minutes)
+   2-3
+P3  08:43 
+Lucas Raymond (DET) roughing against Timo Meier (2 minutes)
+   2-3
+P3  08:43 
+Johnathan Kovacevic (NJD) fighting against Ben Chiarot (5 minutes)
+   2-3
+P3  08:43 
+Ben Chiarot (DET) fighting against Johnathan Kovacevic (5 minutes)
+   2-3
+P3  08:19 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jack Hughes and Dougie Hamilton
+   3-3
+P3  03:54 
+Dawson Mercer (NJD) cross-checking against Olli Maatta (2 minutes)
+   3-3
+P3  03:32 
+Patrick Kane (DET) scores power-play goal on snap shot past Jacob Markstrom, assisted by Lucas Raymond and Alex DeBrincat
+   3-4
+P3  02:37 
+Jeff Petry (DET) tripping against Paul Cotter (2 minutes)
+   3-4
+P3  00:12 
+Michael Rasmussen (DET) scores on empty net, assisted by Simon Edvinsson
+   3-5
+1st Period: ShowHide
+P1  08:05 
+Moritz Seider (DET) slashing against Paul Cotter (2 minutes)
+   0-0
+P1  07:49 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jesper Bratt
+   1-0
+P1  05:00 
+Johnathan Kovacevic (NJD) holding against Vladimir Tarasenko (2 minutes)
+   1-0
+P1  01:51 
+Christian Fischer (DET) scores on wrist shot past Jacob Markstrom, assisted by Andrew Copp
+   1-1
+P1  01:26 
+Alex DeBrincat (DET) scores on wrist shot past Jacob Markstrom
+   1-2
+P1  00:00 
+NJD penalty, too many men on the ice (2 minutes), served by Tomas Tatar
+   1-2
+P1  08:05 
+Moritz Seider (DET) slashing against Paul Cotter (2 minutes)
+   0-0
+P1  07:49 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jesper Bratt
+   1-0
+P1  05:00 
+Johnathan Kovacevic (NJD) holding against Vladimir Tarasenko (2 minutes)
+   1-0
+P1  01:51 
+Christian Fischer (DET) scores on wrist shot past Jacob Markstrom, assisted by Andrew Copp
+   1-1
+P1  01:26 
+Alex DeBrincat (DET) scores on wrist shot past Jacob Markstrom
+   1-2
+P1  00:00 
+NJD penalty, too many men on the ice (2 minutes), served by Tomas Tatar
+   1-2
+P1  08:05
+Moritz Seider (DET) slashing against Paul Cotter (2 minutes)
+0-0
+P1  07:49
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jesper Bratt
+1-0
+P1  05:00
+Johnathan Kovacevic (NJD) holding against Vladimir Tarasenko (2 minutes)
+1-0
+P1  01:51
+Christian Fischer (DET) scores on wrist shot past Jacob Markstrom, assisted by Andrew Copp
+1-1
+P1  01:26
+Alex DeBrincat (DET) scores on wrist shot past Jacob Markstrom
+1-2
+P1  00:00
+NJD penalty, too many men on the ice (2 minutes), served by Tomas Tatar
+1-2
+2nd Period: ShowHide
+P2  16:33 
+Dylan Larkin (DET) elbowing against Paul Cotter (2 minutes)
+   1-2
+P2  15:01 
+Erik Haula (NJD) scores power-play goal on tip-in past Cam Talbot, assisted by Timo Meier and Luke Hughes
+   2-2
+P2  14:06 
+Patrick Kane (DET) high-sticking against Jonas Siegenthaler (2 minutes)
+   2-2
+P2  16:33 
+Dylan Larkin (DET) elbowing against Paul Cotter (2 minutes)
+   1-2
+P2  15:01 
+Erik Haula (NJD) scores power-play goal on tip-in past Cam Talbot, assisted by Timo Meier and Luke Hughes
+   2-2
+P2  14:06 
+Patrick Kane (DET) high-sticking against Jonas Siegenthaler (2 minutes)
+   2-2
+P2  16:33
+Dylan Larkin (DET) elbowing against Paul Cotter (2 minutes)
+1-2
+P2  15:01
+Erik Haula (NJD) scores power-play goal on tip-in past Cam Talbot, assisted by Timo Meier and Luke Hughes
+2-2
+P2  14:06
+Patrick Kane (DET) high-sticking against Jonas Siegenthaler (2 minutes)
+2-2
+3rd Period: ShowHide
+P3  10:50 
+Brenden Dillon (NJD) roughing against Christian Fischer (2 minutes), served by Tomas Tatar
+   2-2
+P3  10:50 
+Christian Fischer (DET) fighting against Brenden Dillon (5 minutes)
+   2-2
+P3  10:50 
+Brenden Dillon (NJD) fighting against Christian Fischer (5 minutes)
+   2-2
+P3  10:14 
+Dylan Larkin (DET) scores power-play goal on tip-in past Jacob Markstrom, assisted by Patrick Kane and Lucas Raymond
+   2-3
+P3  08:43 
+Ben Chiarot (DET) hooking against Nico Hischier (2 minutes), served by Jonatan Berggren
+   2-3
+P3  08:43 
+Timo Meier (NJD) roughing against Lucas Raymond (2 minutes)
+   2-3
+P3  08:43 
+Lucas Raymond (DET) roughing against Timo Meier (2 minutes)
+   2-3
+P3  08:43 
+Johnathan Kovacevic (NJD) fighting against Ben Chiarot (5 minutes)
+   2-3
+P3  08:43 
+Ben Chiarot (DET) fighting against Johnathan Kovacevic (5 minutes)
+   2-3
+P3  08:19 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jack Hughes and Dougie Hamilton
+   3-3
+P3  03:54 
+Dawson Mercer (NJD) cross-checking against Olli Maatta (2 minutes)
+   3-3
+P3  03:32 
+Patrick Kane (DET) scores power-play goal on snap shot past Jacob Markstrom, assisted by Lucas Raymond and Alex DeBrincat
+   3-4
+P3  02:37 
+Jeff Petry (DET) tripping against Paul Cotter (2 minutes)
+   3-4
+P3  00:12 
+Michael Rasmussen (DET) scores on empty net, assisted by Simon Edvinsson
+   3-5
+P3  10:50 
+Brenden Dillon (NJD) roughing against Christian Fischer (2 minutes), served by Tomas Tatar
+   2-2
+P3  10:50 
+Christian Fischer (DET) fighting against Brenden Dillon (5 minutes)
+   2-2
+P3  10:50 
+Brenden Dillon (NJD) fighting against Christian Fischer (5 minutes)
+   2-2
+P3  10:14 
+Dylan Larkin (DET) scores power-play goal on tip-in past Jacob Markstrom, assisted by Patrick Kane and Lucas Raymond
+   2-3
+P3  08:43 
+Ben Chiarot (DET) hooking against Nico Hischier (2 minutes), served by Jonatan Berggren
+   2-3
+P3  08:43 
+Timo Meier (NJD) roughing against Lucas Raymond (2 minutes)
+   2-3
+P3  08:43 
+Lucas Raymond (DET) roughing against Timo Meier (2 minutes)
+   2-3
+P3  08:43 
+Johnathan Kovacevic (NJD) fighting against Ben Chiarot (5 minutes)
+   2-3
+P3  08:43 
+Ben Chiarot (DET) fighting against Johnathan Kovacevic (5 minutes)
+   2-3
+P3  08:19 
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jack Hughes and Dougie Hamilton
+   3-3
+P3  03:54 
+Dawson Mercer (NJD) cross-checking against Olli Maatta (2 minutes)
+   3-3
+P3  03:32 
+Patrick Kane (DET) scores power-play goal on snap shot past Jacob Markstrom, assisted by Lucas Raymond and Alex DeBrincat
+   3-4
+P3  02:37 
+Jeff Petry (DET) tripping against Paul Cotter (2 minutes)
+   3-4
+P3  00:12 
+Michael Rasmussen (DET) scores on empty net, assisted by Simon Edvinsson
+   3-5
+P3  10:50
+Brenden Dillon (NJD) roughing against Christian Fischer (2 minutes), served by Tomas Tatar
+2-2
+P3  10:50
+Christian Fischer (DET) fighting against Brenden Dillon (5 minutes)
+2-2
+P3  10:50
+Brenden Dillon (NJD) fighting against Christian Fischer (5 minutes)
+2-2
+P3  10:14
+Dylan Larkin (DET) scores power-play goal on tip-in past Jacob Markstrom, assisted by Patrick Kane and Lucas Raymond
+2-3
+P3  08:43
+Ben Chiarot (DET) hooking against Nico Hischier (2 minutes), served by Jonatan Berggren
+2-3
+P3  08:43
+Timo Meier (NJD) roughing against Lucas Raymond (2 minutes)
+2-3
+P3  08:43
+Lucas Raymond (DET) roughing against Timo Meier (2 minutes)
+2-3
+P3  08:43
+Johnathan Kovacevic (NJD) fighting against Ben Chiarot (5 minutes)
+2-3
+P3  08:43
+Ben Chiarot (DET) fighting against Johnathan Kovacevic (5 minutes)
+2-3
+P3  08:19
+Nico Hischier (NJD) scores power-play goal on snap shot past Cam Talbot, assisted by Jack Hughes and Dougie Hamilton
+3-3
+P3  03:54
+Dawson Mercer (NJD) cross-checking against Olli Maatta (2 minutes)
+3-3
+P3  03:32
+Patrick Kane (DET) scores power-play goal on snap shot past Jacob Markstrom, assisted by Lucas Raymond and Alex DeBrincat
+3-4
+P3  02:37
+Jeff Petry (DET) tripping against Paul Cotter (2 minutes)
+3-4
+P3  00:12
+Michael Rasmussen (DET) scores on empty net, assisted by Simon Edvinsson
+3-5
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  10:56   0  0    0   0   3   0   0   0   0/0Jesper Bratt L  19:51   0  1   -1   2   2   0   1   1   0/0Paul Cotter C  11:38   0  0   -2   3   0   0   2   0   0/1Erik Haula L  11:49   1  0   -1   1   1   0   3   0   5/8Nico Hischier C  20:35   2  0    0   8   0   0   1   0 17/32Jack Hughes C  22:59   0  1   -2   8   0   0   0   0   2/7Curtis Lazar C  09:57   0  0    0   1   2   0   0   0   3/6Timo Meier R  17:06   0  1   -1   2   1   2   0   0   0/0Dawson Mercer C  17:36   0  0    0   0   3   2   0   1   0/1Stefan Noesen R  15:22   0  0   -3   1   1   0   0   2   1/1Ondrej Palat L  13:47   0  0    0   2   3   0   2   1   0/0Tomas Tatar L  11:17   0  0   -1   1   0   0   0   0   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  16:31   0  0    0   0   0   7   0   1   0/0Dougie Hamilton D  24:28   0  1   -1   6   2   0   0   0   0/0Luke Hughes D  15:11   0  1   -1   0   1   0   0   1   0/0Johnathan Kovacevic D  18:54   0  0   -1   1   1   7   2   0   0/0Brett Pesce D  17:33   0  0   -1   3   0   0   0   1   0/0Jonas Siegenthaler D  21:14   0  0   -1   1   2   0   1   1   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       40  22  18  12   9 28/56
+                                        50.0%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:22   4  15/19  12/14   3/5   0/0     0
+              .789   .857  .600 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:26   0  0    0   1   0   0   2   0   0/0Andrew Copp C  13:40   0  1    2   1   1   0   2   1  9/14Alex DeBrincat R  19:01   1  1    1   3   0   0   0   0   0/0Christian Fischer R  10:37   1  0    2   1   0   5   0   0   0/0Patrick Kane R  18:38   1  1    0   3   0   2   1   0   0/0Marco Kasper C  18:44   0  0    0   1   3   0   0   0  3/10Dylan Larkin C  23:00   1  0    1   3   0   2   3   1 13/26Michael Rasmussen C  14:40   1  0    1   1   1   0   0   0   2/3Lucas Raymond L  20:27   0  2    1   0   0   2   0   1   0/0Vladimir Tarasenko R  15:59   0  0    0   0   0   0   0   1   0/0Joe Veleno C  11:07   0  0    1   1   0   0   0   1   1/3Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  15:07   0  0    0   1   3   7   0   0   0/0Simon Edvinsson D  20:15   0  1    1   0   4   0   0   0   0/0Erik Gustafsson D  12:15   0  0    0   0   0   0   0   0   0/0Justin Holl D  13:16   0  0    2   2   0   0   0   2   0/0Olli Maatta D  13:34   0  0    2   0   0   0   1   1   0/0Jeff Petry D  16:11   0  0    0   1   2   2   1   1   0/0Moritz Seider D  24:51   0  0    1   1   3   2   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       20  17  22  10  10 28/56
+                                        50.0%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   3  37/40  34/34   3/6   0/0     0
+              .925  1.000  .500
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  10:56   0  0    0   0   3   0   0   0   0/0Jesper Bratt L  19:51   0  1   -1   2   2   0   1   1   0/0Paul Cotter C  11:38   0  0   -2   3   0   0   2   0   0/1Erik Haula L  11:49   1  0   -1   1   1   0   3   0   5/8Nico Hischier C  20:35   2  0    0   8   0   0   1   0 17/32Jack Hughes C  22:59   0  1   -2   8   0   0   0   0   2/7Curtis Lazar C  09:57   0  0    0   1   2   0   0   0   3/6Timo Meier R  17:06   0  1   -1   2   1   2   0   0   0/0Dawson Mercer C  17:36   0  0    0   0   3   2   0   1   0/1Stefan Noesen R  15:22   0  0   -3   1   1   0   0   2   1/1Ondrej Palat L  13:47   0  0    0   2   3   0   2   1   0/0Tomas Tatar L  11:17   0  0   -1   1   0   0   0   0   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+10:56   0  0    0   0   3   0   0   0   0/0
+Jesper Bratt L
+19:51   0  1   -1   2   2   0   1   1   0/0
+Paul Cotter C
+11:38   0  0   -2   3   0   0   2   0   0/1
+Erik Haula L
+11:49   1  0   -1   1   1   0   3   0   5/8
+Nico Hischier C
+20:35   2  0    0   8   0   0   1   0 17/32
+Jack Hughes C
+22:59   0  1   -2   8   0   0   0   0   2/7
+Curtis Lazar C
+09:57   0  0    0   1   2   0   0   0   3/6
+Timo Meier R
+17:06   0  1   -1   2   1   2   0   0   0/0
+Dawson Mercer C
+17:36   0  0    0   0   3   2   0   1   0/1
+Stefan Noesen R
+15:22   0  0   -3   1   1   0   0   2   1/1
+Ondrej Palat L
+13:47   0  0    0   2   3   0   2   1   0/0
+Tomas Tatar L
+11:17   0  0   -1   1   0   0   0   0   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrenden Dillon D  16:31   0  0    0   0   0   7   0   1   0/0Dougie Hamilton D  24:28   0  1   -1   6   2   0   0   0   0/0Luke Hughes D  15:11   0  1   -1   0   1   0   0   1   0/0Johnathan Kovacevic D  18:54   0  0   -1   1   1   7   2   0   0/0Brett Pesce D  17:33   0  0   -1   3   0   0   0   1   0/0Jonas Siegenthaler D  21:14   0  0   -1   1   2   0   1   1   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brenden Dillon D
+16:31   0  0    0   0   0   7   0   1   0/0
+Dougie Hamilton D
+24:28   0  1   -1   6   2   0   0   0   0/0
+Luke Hughes D
+15:11   0  1   -1   0   1   0   0   1   0/0
+Johnathan Kovacevic D
+18:54   0  0   -1   1   1   7   2   0   0/0
+Brett Pesce D
+17:33   0  0   -1   3   0   0   0   1   0/0
+Jonas Siegenthaler D
+21:14   0  0   -1   1   2   0   1   1   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       40  22  18  12   9 28/56
+                                        50.0%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:22   4  15/19  12/14   3/5   0/0     0
+              .789   .857  .600
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+58:22   4  15/19  12/14   3/5   0/0     0
+              .789   .857  .600
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:26   0  0    0   1   0   0   2   0   0/0Andrew Copp C  13:40   0  1    2   1   1   0   2   1  9/14Alex DeBrincat R  19:01   1  1    1   3   0   0   0   0   0/0Christian Fischer R  10:37   1  0    2   1   0   5   0   0   0/0Patrick Kane R  18:38   1  1    0   3   0   2   1   0   0/0Marco Kasper C  18:44   0  0    0   1   3   0   0   0  3/10Dylan Larkin C  23:00   1  0    1   3   0   2   3   1 13/26Michael Rasmussen C  14:40   1  0    1   1   1   0   0   0   2/3Lucas Raymond L  20:27   0  2    1   0   0   2   0   1   0/0Vladimir Tarasenko R  15:59   0  0    0   0   0   0   0   1   0/0Joe Veleno C  11:07   0  0    1   1   0   0   0   1   1/3
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+12:26   0  0    0   1   0   0   2   0   0/0
+Andrew Copp C
+13:40   0  1    2   1   1   0   2   1  9/14
+Alex DeBrincat R
+19:01   1  1    1   3   0   0   0   0   0/0
+Christian Fischer R
+10:37   1  0    2   1   0   5   0   0   0/0
+Patrick Kane R
+18:38   1  1    0   3   0   2   1   0   0/0
+Marco Kasper C
+18:44   0  0    0   1   3   0   0   0  3/10
+Dylan Larkin C
+23:00   1  0    1   3   0   2   3   1 13/26
+Michael Rasmussen C
+14:40   1  0    1   1   1   0   0   0   2/3
+Lucas Raymond L
+20:27   0  2    1   0   0   2   0   1   0/0
+Vladimir Tarasenko R
+15:59   0  0    0   0   0   0   0   1   0/0
+Joe Veleno C
+11:07   0  0    1   1   0   0   0   1   1/3
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  15:07   0  0    0   1   3   7   0   0   0/0Simon Edvinsson D  20:15   0  1    1   0   4   0   0   0   0/0Erik Gustafsson D  12:15   0  0    0   0   0   0   0   0   0/0Justin Holl D  13:16   0  0    2   2   0   0   0   2   0/0Olli Maatta D  13:34   0  0    2   0   0   0   1   1   0/0Jeff Petry D  16:11   0  0    0   1   2   2   1   1   0/0Moritz Seider D  24:51   0  0    1   1   3   2   0   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+15:07   0  0    0   1   3   7   0   0   0/0
+Simon Edvinsson D
+20:15   0  1    1   0   4   0   0   0   0/0
+Erik Gustafsson D
+12:15   0  0    0   0   0   0   0   0   0/0
+Justin Holl D
+13:16   0  0    2   2   0   0   0   2   0/0
+Olli Maatta D
+13:34   0  0    2   0   0   0   1   1   0/0
+Jeff Petry D
+16:11   0  0    0   1   2   2   1   1   0/0
+Moritz Seider D
+24:51   0  0    1   1   3   2   0   1   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       20  17  22  10  10 28/56
+                                        50.0%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   3  37/40  34/34   3/6   0/0     0
+              .925  1.000  .500
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cam Talbot G
+60:00   3  37/40  34/34   3/6   0/0     0
+              .925  1.000  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

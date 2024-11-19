@@ -1,0 +1,337 @@
+< Oct. 31 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Seattle
+Kraken5-5-1Final1 - 4Toronto
+Maple Leafs6-4-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SEA   0  0  1    1  
+TOR   1  2  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:29 
+Auston Matthews (TOR) tripping against Ryker Evans (2 minutes)
+   0-0
+P1  13:07 
+Matty Beniers (SEA) holding against Matthew Knies (2 minutes)
+   0-0
+P1  00:05 
+Matthew Knies (TOR) scores on snap shot past Joey Daccord, assisted by Mitch Marner and Auston Matthews
+   0-1
+2nd Period: ShowHide
+P2  18:21 
+William Nylander (TOR) scores on wrist shot past Joey Daccord, assisted by Morgan Rielly and John Tavares
+   0-2
+P2  15:58 
+Matthew Knies (TOR) holding the stick against Brandon Tanev (2 minutes)
+   0-2
+P2  10:36 
+William Nylander (TOR) scores on snap shot past Joey Daccord, assisted by John Tavares and Max Pacioretty
+   0-3
+P2  03:13 
+William Nylander (TOR) closing hand on puck (2 minutes)
+   0-3
+3rd Period: ShowHide
+P3  11:24 
+Adam Larsson (SEA) interference against Nicholas Robertson (2 minutes)
+   0-3
+P3  03:28 
+Eeli Tolvanen (SEA) scores goal with extra attacker on wrist shot past Joseph Woll, assisted by Ryker Evans and Matty Beniers
+   1-3
+P3  01:43 
+Auston Matthews (TOR) scores on empty net
+   1-4
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  16:55   0  1    0   1   1   2   0   0  3/16Oliver Bjorkstrand R  16:46   0  0   -1   4   2   0   1   3   0/0Andre Burakovsky L  13:30   0  0   -2   0   1   0   0   1   1/1Jordan Eberle R  17:59   0  0   -2   2   1   0   0   0   0/0Yanni Gourde C  15:19   0  0   -1   0   3   0   0   0  6/12Tye Kartye L  10:44   0  0    0   1   0   0   0   1   0/1Jared McCann L  18:37   0  0   -2   5   0   0   0   1   0/1Jaden Schwartz C  17:49   0  0    0   2   1   0   1   1   0/0Chandler Stephenson C  18:31   0  0   -2   1   0   0   0   1 11/19Brandon Tanev L  14:20   0  0    0   0   2   0   0   0   0/0Eeli Tolvanen R  14:43   1  0    0   2   1   0   0   0   0/0Shane Wright C  13:09   0  0    1   1   1   0   0   5   3/4Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  19:10   0  0   -2   0   0   0   0   1   0/0Ryker Evans D  25:31   0  1   -1   1   4   0   0   0   0/0Cale Fleury D  11:47   0  0    0   1   2   0   2   1   0/0Adam Larsson D  21:39   0  0   -1   1   2   2   0   0   0/0Joshua Mahura D  13:03   0  0    0   1   0   0   1   0   0/0Jamie Oleksiak D  20:01   0  0   -2   2   2   0   0   3   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  23   4   5  18 24/54
+                                        44.4%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  56:27   3  26/29  22/25   4/4   0/0     0
+              .897   .880 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  14:07   0  0    0   1   0   0   1   2  7/15Pontus Holmberg R  08:08   0  0   -1   2   0   0   0   0   0/0David Kampf C  12:43   0  0    0   1   0   0   1   1   2/4Matthew Knies L  18:30   1  0    0   2   1   2   0   2   0/0Steven Lorentz C  10:05   0  0   -1   0   0   0   1   0   0/1Mitch Marner R  20:46   0  1    2   1   1   0   0   2   0/1Auston Matthews C  19:50   1  1    2   4   2   2   0   0 11/17Bobby McMann C  14:54   0  0    1   3   1   0   1   1   0/0William Nylander R  17:34   2  0    2   6   0   2   0   0   0/1Max Pacioretty L  14:22   0  1    2   1   0   0   0   0   1/1Nicholas Robertson L  11:36   0  0    0   1   1   0   1   1   0/0John Tavares C  15:01   0  2    2   3   0   0   0   1  9/14Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  13:35   0  0    0   1   2   0   0   0   0/0Oliver Ekman-Larsson D  21:29   0  0    1   3   1   0   1   3   0/0Jake McCabe D  23:37   0  0    0   1   2   0   0   4   0/0Morgan Rielly D  20:48   0  1    3   0   2   0   0   2   0/0Chris Tanev D  19:42   0  0    1   0   2   0   0   0   0/0Conor Timmins D  17:31   0  0    1   0   0   0   0   3   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       30  15   6   6  22 30/54
+                                        55.6%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoseph Woll G  59:42   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+Seattle
+Kraken5-5-1Final1 - 4Toronto
+Maple Leafs6-4-1
+Seattle
+Kraken5-5-1
+Final1 - 4
+Toronto
+Maple Leafs6-4-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SEA   0  0  1    1  
+TOR   1  2  1    4
+1st Period: ShowHide
+P1  14:29 
+Auston Matthews (TOR) tripping against Ryker Evans (2 minutes)
+   0-0
+P1  13:07 
+Matty Beniers (SEA) holding against Matthew Knies (2 minutes)
+   0-0
+P1  00:05 
+Matthew Knies (TOR) scores on snap shot past Joey Daccord, assisted by Mitch Marner and Auston Matthews
+   0-1
+2nd Period: ShowHide
+P2  18:21 
+William Nylander (TOR) scores on wrist shot past Joey Daccord, assisted by Morgan Rielly and John Tavares
+   0-2
+P2  15:58 
+Matthew Knies (TOR) holding the stick against Brandon Tanev (2 minutes)
+   0-2
+P2  10:36 
+William Nylander (TOR) scores on snap shot past Joey Daccord, assisted by John Tavares and Max Pacioretty
+   0-3
+P2  03:13 
+William Nylander (TOR) closing hand on puck (2 minutes)
+   0-3
+3rd Period: ShowHide
+P3  11:24 
+Adam Larsson (SEA) interference against Nicholas Robertson (2 minutes)
+   0-3
+P3  03:28 
+Eeli Tolvanen (SEA) scores goal with extra attacker on wrist shot past Joseph Woll, assisted by Ryker Evans and Matty Beniers
+   1-3
+P3  01:43 
+Auston Matthews (TOR) scores on empty net
+   1-4
+1st Period: ShowHide
+P1  14:29 
+Auston Matthews (TOR) tripping against Ryker Evans (2 minutes)
+   0-0
+P1  13:07 
+Matty Beniers (SEA) holding against Matthew Knies (2 minutes)
+   0-0
+P1  00:05 
+Matthew Knies (TOR) scores on snap shot past Joey Daccord, assisted by Mitch Marner and Auston Matthews
+   0-1
+P1  14:29 
+Auston Matthews (TOR) tripping against Ryker Evans (2 minutes)
+   0-0
+P1  13:07 
+Matty Beniers (SEA) holding against Matthew Knies (2 minutes)
+   0-0
+P1  00:05 
+Matthew Knies (TOR) scores on snap shot past Joey Daccord, assisted by Mitch Marner and Auston Matthews
+   0-1
+P1  14:29
+Auston Matthews (TOR) tripping against Ryker Evans (2 minutes)
+0-0
+P1  13:07
+Matty Beniers (SEA) holding against Matthew Knies (2 minutes)
+0-0
+P1  00:05
+Matthew Knies (TOR) scores on snap shot past Joey Daccord, assisted by Mitch Marner and Auston Matthews
+0-1
+2nd Period: ShowHide
+P2  18:21 
+William Nylander (TOR) scores on wrist shot past Joey Daccord, assisted by Morgan Rielly and John Tavares
+   0-2
+P2  15:58 
+Matthew Knies (TOR) holding the stick against Brandon Tanev (2 minutes)
+   0-2
+P2  10:36 
+William Nylander (TOR) scores on snap shot past Joey Daccord, assisted by John Tavares and Max Pacioretty
+   0-3
+P2  03:13 
+William Nylander (TOR) closing hand on puck (2 minutes)
+   0-3
+P2  18:21 
+William Nylander (TOR) scores on wrist shot past Joey Daccord, assisted by Morgan Rielly and John Tavares
+   0-2
+P2  15:58 
+Matthew Knies (TOR) holding the stick against Brandon Tanev (2 minutes)
+   0-2
+P2  10:36 
+William Nylander (TOR) scores on snap shot past Joey Daccord, assisted by John Tavares and Max Pacioretty
+   0-3
+P2  03:13 
+William Nylander (TOR) closing hand on puck (2 minutes)
+   0-3
+P2  18:21
+William Nylander (TOR) scores on wrist shot past Joey Daccord, assisted by Morgan Rielly and John Tavares
+0-2
+P2  15:58
+Matthew Knies (TOR) holding the stick against Brandon Tanev (2 minutes)
+0-2
+P2  10:36
+William Nylander (TOR) scores on snap shot past Joey Daccord, assisted by John Tavares and Max Pacioretty
+0-3
+P2  03:13
+William Nylander (TOR) closing hand on puck (2 minutes)
+0-3
+3rd Period: ShowHide
+P3  11:24 
+Adam Larsson (SEA) interference against Nicholas Robertson (2 minutes)
+   0-3
+P3  03:28 
+Eeli Tolvanen (SEA) scores goal with extra attacker on wrist shot past Joseph Woll, assisted by Ryker Evans and Matty Beniers
+   1-3
+P3  01:43 
+Auston Matthews (TOR) scores on empty net
+   1-4
+P3  11:24 
+Adam Larsson (SEA) interference against Nicholas Robertson (2 minutes)
+   0-3
+P3  03:28 
+Eeli Tolvanen (SEA) scores goal with extra attacker on wrist shot past Joseph Woll, assisted by Ryker Evans and Matty Beniers
+   1-3
+P3  01:43 
+Auston Matthews (TOR) scores on empty net
+   1-4
+P3  11:24
+Adam Larsson (SEA) interference against Nicholas Robertson (2 minutes)
+0-3
+P3  03:28
+Eeli Tolvanen (SEA) scores goal with extra attacker on wrist shot past Joseph Woll, assisted by Ryker Evans and Matty Beniers
+1-3
+P3  01:43
+Auston Matthews (TOR) scores on empty net
+1-4
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  16:55   0  1    0   1   1   2   0   0  3/16Oliver Bjorkstrand R  16:46   0  0   -1   4   2   0   1   3   0/0Andre Burakovsky L  13:30   0  0   -2   0   1   0   0   1   1/1Jordan Eberle R  17:59   0  0   -2   2   1   0   0   0   0/0Yanni Gourde C  15:19   0  0   -1   0   3   0   0   0  6/12Tye Kartye L  10:44   0  0    0   1   0   0   0   1   0/1Jared McCann L  18:37   0  0   -2   5   0   0   0   1   0/1Jaden Schwartz C  17:49   0  0    0   2   1   0   1   1   0/0Chandler Stephenson C  18:31   0  0   -2   1   0   0   0   1 11/19Brandon Tanev L  14:20   0  0    0   0   2   0   0   0   0/0Eeli Tolvanen R  14:43   1  0    0   2   1   0   0   0   0/0Shane Wright C  13:09   0  0    1   1   1   0   0   5   3/4Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  19:10   0  0   -2   0   0   0   0   1   0/0Ryker Evans D  25:31   0  1   -1   1   4   0   0   0   0/0Cale Fleury D  11:47   0  0    0   1   2   0   2   1   0/0Adam Larsson D  21:39   0  0   -1   1   2   2   0   0   0/0Joshua Mahura D  13:03   0  0    0   1   0   0   1   0   0/0Jamie Oleksiak D  20:01   0  0   -2   2   2   0   0   3   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  23   4   5  18 24/54
+                                        44.4%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  56:27   3  26/29  22/25   4/4   0/0     0
+              .897   .880 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  14:07   0  0    0   1   0   0   1   2  7/15Pontus Holmberg R  08:08   0  0   -1   2   0   0   0   0   0/0David Kampf C  12:43   0  0    0   1   0   0   1   1   2/4Matthew Knies L  18:30   1  0    0   2   1   2   0   2   0/0Steven Lorentz C  10:05   0  0   -1   0   0   0   1   0   0/1Mitch Marner R  20:46   0  1    2   1   1   0   0   2   0/1Auston Matthews C  19:50   1  1    2   4   2   2   0   0 11/17Bobby McMann C  14:54   0  0    1   3   1   0   1   1   0/0William Nylander R  17:34   2  0    2   6   0   2   0   0   0/1Max Pacioretty L  14:22   0  1    2   1   0   0   0   0   1/1Nicholas Robertson L  11:36   0  0    0   1   1   0   1   1   0/0John Tavares C  15:01   0  2    2   3   0   0   0   1  9/14Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  13:35   0  0    0   1   2   0   0   0   0/0Oliver Ekman-Larsson D  21:29   0  0    1   3   1   0   1   3   0/0Jake McCabe D  23:37   0  0    0   1   2   0   0   4   0/0Morgan Rielly D  20:48   0  1    3   0   2   0   0   2   0/0Chris Tanev D  19:42   0  0    1   0   2   0   0   0   0/0Conor Timmins D  17:31   0  0    1   0   0   0   0   3   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       30  15   6   6  22 30/54
+                                        55.6%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoseph Woll G  59:42   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  16:55   0  1    0   1   1   2   0   0  3/16Oliver Bjorkstrand R  16:46   0  0   -1   4   2   0   1   3   0/0Andre Burakovsky L  13:30   0  0   -2   0   1   0   0   1   1/1Jordan Eberle R  17:59   0  0   -2   2   1   0   0   0   0/0Yanni Gourde C  15:19   0  0   -1   0   3   0   0   0  6/12Tye Kartye L  10:44   0  0    0   1   0   0   0   1   0/1Jared McCann L  18:37   0  0   -2   5   0   0   0   1   0/1Jaden Schwartz C  17:49   0  0    0   2   1   0   1   1   0/0Chandler Stephenson C  18:31   0  0   -2   1   0   0   0   1 11/19Brandon Tanev L  14:20   0  0    0   0   2   0   0   0   0/0Eeli Tolvanen R  14:43   1  0    0   2   1   0   0   0   0/0Shane Wright C  13:09   0  0    1   1   1   0   0   5   3/4
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+16:55   0  1    0   1   1   2   0   0  3/16
+Oliver Bjorkstrand R
+16:46   0  0   -1   4   2   0   1   3   0/0
+Andre Burakovsky L
+13:30   0  0   -2   0   1   0   0   1   1/1
+Jordan Eberle R
+17:59   0  0   -2   2   1   0   0   0   0/0
+Yanni Gourde C
+15:19   0  0   -1   0   3   0   0   0  6/12
+Tye Kartye L
+10:44   0  0    0   1   0   0   0   1   0/1
+Jared McCann L
+18:37   0  0   -2   5   0   0   0   1   0/1
+Jaden Schwartz C
+17:49   0  0    0   2   1   0   1   1   0/0
+Chandler Stephenson C
+18:31   0  0   -2   1   0   0   0   1 11/19
+Brandon Tanev L
+14:20   0  0    0   0   2   0   0   0   0/0
+Eeli Tolvanen R
+14:43   1  0    0   2   1   0   0   0   0/0
+Shane Wright C
+13:09   0  0    1   1   1   0   0   5   3/4
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  19:10   0  0   -2   0   0   0   0   1   0/0Ryker Evans D  25:31   0  1   -1   1   4   0   0   0   0/0Cale Fleury D  11:47   0  0    0   1   2   0   2   1   0/0Adam Larsson D  21:39   0  0   -1   1   2   2   0   0   0/0Joshua Mahura D  13:03   0  0    0   1   0   0   1   0   0/0Jamie Oleksiak D  20:01   0  0   -2   2   2   0   0   3   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+19:10   0  0   -2   0   0   0   0   1   0/0
+Ryker Evans D
+25:31   0  1   -1   1   4   0   0   0   0/0
+Cale Fleury D
+11:47   0  0    0   1   2   0   2   1   0/0
+Adam Larsson D
+21:39   0  0   -1   1   2   2   0   0   0/0
+Joshua Mahura D
+13:03   0  0    0   1   0   0   1   0   0/0
+Jamie Oleksiak D
+20:01   0  0   -2   2   2   0   0   3   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  23   4   5  18 24/54
+                                        44.4%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  56:27   3  26/29  22/25   4/4   0/0     0
+              .897   .880 1.000
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joey Daccord G
+56:27   3  26/29  22/25   4/4   0/0     0
+              .897   .880 1.000
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  14:07   0  0    0   1   0   0   1   2  7/15Pontus Holmberg R  08:08   0  0   -1   2   0   0   0   0   0/0David Kampf C  12:43   0  0    0   1   0   0   1   1   2/4Matthew Knies L  18:30   1  0    0   2   1   2   0   2   0/0Steven Lorentz C  10:05   0  0   -1   0   0   0   1   0   0/1Mitch Marner R  20:46   0  1    2   1   1   0   0   2   0/1Auston Matthews C  19:50   1  1    2   4   2   2   0   0 11/17Bobby McMann C  14:54   0  0    1   3   1   0   1   1   0/0William Nylander R  17:34   2  0    2   6   0   2   0   0   0/1Max Pacioretty L  14:22   0  1    2   1   0   0   0   0   1/1Nicholas Robertson L  11:36   0  0    0   1   1   0   1   1   0/0John Tavares C  15:01   0  2    2   3   0   0   0   1  9/14
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Max Domi C
+14:07   0  0    0   1   0   0   1   2  7/15
+Pontus Holmberg R
+08:08   0  0   -1   2   0   0   0   0   0/0
+David Kampf C
+12:43   0  0    0   1   0   0   1   1   2/4
+Matthew Knies L
+18:30   1  0    0   2   1   2   0   2   0/0
+Steven Lorentz C
+10:05   0  0   -1   0   0   0   1   0   0/1
+Mitch Marner R
+20:46   0  1    2   1   1   0   0   2   0/1
+Auston Matthews C
+19:50   1  1    2   4   2   2   0   0 11/17
+Bobby McMann C
+14:54   0  0    1   3   1   0   1   1   0/0
+William Nylander R
+17:34   2  0    2   6   0   2   0   0   0/1
+Max Pacioretty L
+14:22   0  1    2   1   0   0   0   0   1/1
+Nicholas Robertson L
+11:36   0  0    0   1   1   0   1   1   0/0
+John Tavares C
+15:01   0  2    2   3   0   0   0   1  9/14
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  13:35   0  0    0   1   2   0   0   0   0/0Oliver Ekman-Larsson D  21:29   0  0    1   3   1   0   1   3   0/0Jake McCabe D  23:37   0  0    0   1   2   0   0   4   0/0Morgan Rielly D  20:48   0  1    3   0   2   0   0   2   0/0Chris Tanev D  19:42   0  0    1   0   2   0   0   0   0/0Conor Timmins D  17:31   0  0    1   0   0   0   0   3   0/0
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Simon Benoit D
+13:35   0  0    0   1   2   0   0   0   0/0
+Oliver Ekman-Larsson D
+21:29   0  0    1   3   1   0   1   3   0/0
+Jake McCabe D
+23:37   0  0    0   1   2   0   0   4   0/0
+Morgan Rielly D
+20:48   0  1    3   0   2   0   0   2   0/0
+Chris Tanev D
+19:42   0  0    1   0   2   0   0   0   0/0
+Conor Timmins D
+17:31   0  0    1   0   0   0   0   3   0/0
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       30  15   6   6  22 30/54
+                                        55.6%
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoseph Woll G  59:42   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joseph Woll G
+59:42   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

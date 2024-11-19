@@ -1,0 +1,442 @@
+< Oct. 25 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Nashville
+Predators2-5-0Final3 - 2Chicago
+Blackhawks2-5-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NSH   0  2  1    3  
+CHI   1  1  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:05 
+Craig Smith (CHI) scores on tip-in past Juuse Saros, assisted by Lukas Reichel and Nolan Allan
+   0-1
+P1  16:23 
+Brady Skjei (NSH) slashing against Nick Foligno (2 minutes)
+   0-1
+P1  09:48 
+Michael McCarron (NSH) fighting against Patrick Maroon (5 minutes)
+   0-1
+P1  09:48 
+Patrick Maroon (CHI) fighting against Michael McCarron (5 minutes)
+   0-1
+P1  01:17 
+Connor Murphy (CHI) hooking against Filip Forsberg (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:46 
+Connor Bedard (CHI) scores on snap shot past Juuse Saros, assisted by Alex Vlasic and Connor Murphy
+   0-2
+P2  12:47 
+Nolan Allan (CHI) holding against Roman Josi (2 minutes)
+   0-2
+P2  09:02 
+Marc Del Gaizo (NSH) slashing against Petr Mrazek (2 minutes)
+   0-2
+P2  06:19 
+Filip Forsberg (NSH) scores on wrist shot past Petr Mrazek, assisted by Gustav Nyquist and Alexandre Carrier
+   1-2
+P2  06:10 
+Cole Smith (NSH) high-sticking against Wyatt Kaiser (2 minutes)
+   1-2
+P2  04:16 
+Michael McCarron (NSH) hooking against Craig Smith (2 minutes)
+   1-2
+P2  03:01 
+Gustav Nyquist (NSH) scores short-handed goal on wrist shot past Petr Mrazek, assisted by Alexandre Carrier and Cole Smith
+   2-2
+P2  01:44 
+Jason Dickinson (CHI) interference against Alexandre Carrier (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  15:29 
+Ilya Mikheyev (CHI) tripping against Tommy Novak (2 minutes)
+   2-2
+P3  08:41 
+Wyatt Kaiser (CHI) tripping against Alexandre Carrier (2 minutes)
+   2-2
+P3  06:53 
+Brady Skjei (NSH) scores power-play goal on wrist shot past Petr Mrazek, assisted by Tommy Novak and Luke Evangelista
+   3-2
+P3  05:29 
+Luke Evangelista (NSH) hooking against Philipp Kurashev (2 minutes)
+   3-2
+Box Score:
+ 
+Back to Top
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  11:46   0  1   -1   2   0   2   1   1   0/0Filip Forsberg L  19:10   1  0    1   7   0   0   1   1   0/0Mark Jankowski C  14:27   0  0   -1   1   0   0   0   0   5/7Zachary L'Heureux L  08:20   0  0   -1   1   0   0   0   1   0/0Jonathan Marchessault R  18:02   0  0    0   4   2   0   0   0   0/0Michael McCarron R  12:01   0  0   -1   1   1   7   0   0  5/11Tommy Novak C  10:45   0  1    0   2   1   0   1   0   4/5Gustav Nyquist C  14:55   1  1    2   1   1   0   0   0   0/0Ryan O'Reilly C  19:14   0  0    0   1   1   0   0   1  6/14Colton Sissons C  18:47   0  0    0   0   2   0   1   0 11/17Cole Smith L  12:51   0  1    0   2   0   2   0   0   0/0Steven Stamkos C  18:25   0  0    0   1   0   0   1   1   5/8Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  21:14   0  2    0   1   1   0   0   1   0/0Marc Del Gaizo D  11:15   0  0    1   2   2   2   0   0   0/0Roman Josi D  25:56   0  0    0   3   1   0   1   1   0/0Jeremy Lauzon D  19:08   0  0    0   0   1   0   0   2   0/0Luke Schenn D  13:36   0  0    0   2   1   0   0   0   0/0Brady Skjei D  20:10   1  0   -1   3   2   2   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       34  16  15   7   9 36/62
+                                        58.1%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  59:58   2  27/29  18/20   9/9   0/0     0
+              .931   .900 1.000 
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  21:13   1  0   -1   4   0   0   0   0   4/9Tyler Bertuzzi L  15:48   0  0   -1   4   1   0   1   0   0/0Jason Dickinson C  16:32   0  0    0   1   1   2   1   0  9/16Ryan Donato C  09:54   0  0    0   1   0   0   0   0   0/0Nick Foligno L  20:52   0  0    0   1   0   0   0   0  9/19Taylor Hall L  13:55   0  0   -1   4   2   0   1   1   3/3Philipp Kurashev C  12:21   0  0    0   0   0   0   0   1   1/7Patrick Maroon L  08:31   0  0    1   0   0   5   0   1   0/0Ilya Mikheyev R  16:19   0  0    0   4   0   2   1   0   0/0Lukas Reichel L  14:04   0  1    1   1   1   0   0   0   0/7Craig Smith C  12:03   1  0    1   2   4   0   0   0   0/0Teuvo Teravainen C  22:15   0  0   -1   2   1   0   0   1   0/1Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  11:28   0  1    0   0   0   2   0   0   0/0TJ Brodie D  10:25   0  0    0   0   0   0   0   1   0/0Seth Jones D  28:05   0  0   -1   3   1   0   1   2   0/0Wyatt Kaiser D  15:38   0  0    0   1   4   2   0   2   0/0Connor Murphy D  17:26   0  1    1   1   1   2   0   2   0/0Alex Vlasic D  25:24   0  1    1   0   0   0   3   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       29  16  15   8  12 26/62
+                                        41.9%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  57:59   3  31/34  24/25   6/7   1/2     0
+              .912   .960  .857  .500
+Nashville
+Predators2-5-0Final3 - 2Chicago
+Blackhawks2-5-1
+Nashville
+Predators2-5-0
+Final3 - 2
+Chicago
+Blackhawks2-5-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NSH   0  2  1    3  
+CHI   1  1  0    2
+1st Period: ShowHide
+P1  17:05 
+Craig Smith (CHI) scores on tip-in past Juuse Saros, assisted by Lukas Reichel and Nolan Allan
+   0-1
+P1  16:23 
+Brady Skjei (NSH) slashing against Nick Foligno (2 minutes)
+   0-1
+P1  09:48 
+Michael McCarron (NSH) fighting against Patrick Maroon (5 minutes)
+   0-1
+P1  09:48 
+Patrick Maroon (CHI) fighting against Michael McCarron (5 minutes)
+   0-1
+P1  01:17 
+Connor Murphy (CHI) hooking against Filip Forsberg (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:46 
+Connor Bedard (CHI) scores on snap shot past Juuse Saros, assisted by Alex Vlasic and Connor Murphy
+   0-2
+P2  12:47 
+Nolan Allan (CHI) holding against Roman Josi (2 minutes)
+   0-2
+P2  09:02 
+Marc Del Gaizo (NSH) slashing against Petr Mrazek (2 minutes)
+   0-2
+P2  06:19 
+Filip Forsberg (NSH) scores on wrist shot past Petr Mrazek, assisted by Gustav Nyquist and Alexandre Carrier
+   1-2
+P2  06:10 
+Cole Smith (NSH) high-sticking against Wyatt Kaiser (2 minutes)
+   1-2
+P2  04:16 
+Michael McCarron (NSH) hooking against Craig Smith (2 minutes)
+   1-2
+P2  03:01 
+Gustav Nyquist (NSH) scores short-handed goal on wrist shot past Petr Mrazek, assisted by Alexandre Carrier and Cole Smith
+   2-2
+P2  01:44 
+Jason Dickinson (CHI) interference against Alexandre Carrier (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  15:29 
+Ilya Mikheyev (CHI) tripping against Tommy Novak (2 minutes)
+   2-2
+P3  08:41 
+Wyatt Kaiser (CHI) tripping against Alexandre Carrier (2 minutes)
+   2-2
+P3  06:53 
+Brady Skjei (NSH) scores power-play goal on wrist shot past Petr Mrazek, assisted by Tommy Novak and Luke Evangelista
+   3-2
+P3  05:29 
+Luke Evangelista (NSH) hooking against Philipp Kurashev (2 minutes)
+   3-2
+1st Period: ShowHide
+P1  17:05 
+Craig Smith (CHI) scores on tip-in past Juuse Saros, assisted by Lukas Reichel and Nolan Allan
+   0-1
+P1  16:23 
+Brady Skjei (NSH) slashing against Nick Foligno (2 minutes)
+   0-1
+P1  09:48 
+Michael McCarron (NSH) fighting against Patrick Maroon (5 minutes)
+   0-1
+P1  09:48 
+Patrick Maroon (CHI) fighting against Michael McCarron (5 minutes)
+   0-1
+P1  01:17 
+Connor Murphy (CHI) hooking against Filip Forsberg (2 minutes)
+   0-1
+P1  17:05 
+Craig Smith (CHI) scores on tip-in past Juuse Saros, assisted by Lukas Reichel and Nolan Allan
+   0-1
+P1  16:23 
+Brady Skjei (NSH) slashing against Nick Foligno (2 minutes)
+   0-1
+P1  09:48 
+Michael McCarron (NSH) fighting against Patrick Maroon (5 minutes)
+   0-1
+P1  09:48 
+Patrick Maroon (CHI) fighting against Michael McCarron (5 minutes)
+   0-1
+P1  01:17 
+Connor Murphy (CHI) hooking against Filip Forsberg (2 minutes)
+   0-1
+P1  17:05
+Craig Smith (CHI) scores on tip-in past Juuse Saros, assisted by Lukas Reichel and Nolan Allan
+0-1
+P1  16:23
+Brady Skjei (NSH) slashing against Nick Foligno (2 minutes)
+0-1
+P1  09:48
+Michael McCarron (NSH) fighting against Patrick Maroon (5 minutes)
+0-1
+P1  09:48
+Patrick Maroon (CHI) fighting against Michael McCarron (5 minutes)
+0-1
+P1  01:17
+Connor Murphy (CHI) hooking against Filip Forsberg (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  14:46 
+Connor Bedard (CHI) scores on snap shot past Juuse Saros, assisted by Alex Vlasic and Connor Murphy
+   0-2
+P2  12:47 
+Nolan Allan (CHI) holding against Roman Josi (2 minutes)
+   0-2
+P2  09:02 
+Marc Del Gaizo (NSH) slashing against Petr Mrazek (2 minutes)
+   0-2
+P2  06:19 
+Filip Forsberg (NSH) scores on wrist shot past Petr Mrazek, assisted by Gustav Nyquist and Alexandre Carrier
+   1-2
+P2  06:10 
+Cole Smith (NSH) high-sticking against Wyatt Kaiser (2 minutes)
+   1-2
+P2  04:16 
+Michael McCarron (NSH) hooking against Craig Smith (2 minutes)
+   1-2
+P2  03:01 
+Gustav Nyquist (NSH) scores short-handed goal on wrist shot past Petr Mrazek, assisted by Alexandre Carrier and Cole Smith
+   2-2
+P2  01:44 
+Jason Dickinson (CHI) interference against Alexandre Carrier (2 minutes)
+   2-2
+P2  14:46 
+Connor Bedard (CHI) scores on snap shot past Juuse Saros, assisted by Alex Vlasic and Connor Murphy
+   0-2
+P2  12:47 
+Nolan Allan (CHI) holding against Roman Josi (2 minutes)
+   0-2
+P2  09:02 
+Marc Del Gaizo (NSH) slashing against Petr Mrazek (2 minutes)
+   0-2
+P2  06:19 
+Filip Forsberg (NSH) scores on wrist shot past Petr Mrazek, assisted by Gustav Nyquist and Alexandre Carrier
+   1-2
+P2  06:10 
+Cole Smith (NSH) high-sticking against Wyatt Kaiser (2 minutes)
+   1-2
+P2  04:16 
+Michael McCarron (NSH) hooking against Craig Smith (2 minutes)
+   1-2
+P2  03:01 
+Gustav Nyquist (NSH) scores short-handed goal on wrist shot past Petr Mrazek, assisted by Alexandre Carrier and Cole Smith
+   2-2
+P2  01:44 
+Jason Dickinson (CHI) interference against Alexandre Carrier (2 minutes)
+   2-2
+P2  14:46
+Connor Bedard (CHI) scores on snap shot past Juuse Saros, assisted by Alex Vlasic and Connor Murphy
+0-2
+P2  12:47
+Nolan Allan (CHI) holding against Roman Josi (2 minutes)
+0-2
+P2  09:02
+Marc Del Gaizo (NSH) slashing against Petr Mrazek (2 minutes)
+0-2
+P2  06:19
+Filip Forsberg (NSH) scores on wrist shot past Petr Mrazek, assisted by Gustav Nyquist and Alexandre Carrier
+1-2
+P2  06:10
+Cole Smith (NSH) high-sticking against Wyatt Kaiser (2 minutes)
+1-2
+P2  04:16
+Michael McCarron (NSH) hooking against Craig Smith (2 minutes)
+1-2
+P2  03:01
+Gustav Nyquist (NSH) scores short-handed goal on wrist shot past Petr Mrazek, assisted by Alexandre Carrier and Cole Smith
+2-2
+P2  01:44
+Jason Dickinson (CHI) interference against Alexandre Carrier (2 minutes)
+2-2
+3rd Period: ShowHide
+P3  15:29 
+Ilya Mikheyev (CHI) tripping against Tommy Novak (2 minutes)
+   2-2
+P3  08:41 
+Wyatt Kaiser (CHI) tripping against Alexandre Carrier (2 minutes)
+   2-2
+P3  06:53 
+Brady Skjei (NSH) scores power-play goal on wrist shot past Petr Mrazek, assisted by Tommy Novak and Luke Evangelista
+   3-2
+P3  05:29 
+Luke Evangelista (NSH) hooking against Philipp Kurashev (2 minutes)
+   3-2
+P3  15:29 
+Ilya Mikheyev (CHI) tripping against Tommy Novak (2 minutes)
+   2-2
+P3  08:41 
+Wyatt Kaiser (CHI) tripping against Alexandre Carrier (2 minutes)
+   2-2
+P3  06:53 
+Brady Skjei (NSH) scores power-play goal on wrist shot past Petr Mrazek, assisted by Tommy Novak and Luke Evangelista
+   3-2
+P3  05:29 
+Luke Evangelista (NSH) hooking against Philipp Kurashev (2 minutes)
+   3-2
+P3  15:29
+Ilya Mikheyev (CHI) tripping against Tommy Novak (2 minutes)
+2-2
+P3  08:41
+Wyatt Kaiser (CHI) tripping against Alexandre Carrier (2 minutes)
+2-2
+P3  06:53
+Brady Skjei (NSH) scores power-play goal on wrist shot past Petr Mrazek, assisted by Tommy Novak and Luke Evangelista
+3-2
+P3  05:29
+Luke Evangelista (NSH) hooking against Philipp Kurashev (2 minutes)
+3-2
+Box Score:
+ 
+Back to Top
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  11:46   0  1   -1   2   0   2   1   1   0/0Filip Forsberg L  19:10   1  0    1   7   0   0   1   1   0/0Mark Jankowski C  14:27   0  0   -1   1   0   0   0   0   5/7Zachary L'Heureux L  08:20   0  0   -1   1   0   0   0   1   0/0Jonathan Marchessault R  18:02   0  0    0   4   2   0   0   0   0/0Michael McCarron R  12:01   0  0   -1   1   1   7   0   0  5/11Tommy Novak C  10:45   0  1    0   2   1   0   1   0   4/5Gustav Nyquist C  14:55   1  1    2   1   1   0   0   0   0/0Ryan O'Reilly C  19:14   0  0    0   1   1   0   0   1  6/14Colton Sissons C  18:47   0  0    0   0   2   0   1   0 11/17Cole Smith L  12:51   0  1    0   2   0   2   0   0   0/0Steven Stamkos C  18:25   0  0    0   1   0   0   1   1   5/8Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  21:14   0  2    0   1   1   0   0   1   0/0Marc Del Gaizo D  11:15   0  0    1   2   2   2   0   0   0/0Roman Josi D  25:56   0  0    0   3   1   0   1   1   0/0Jeremy Lauzon D  19:08   0  0    0   0   1   0   0   2   0/0Luke Schenn D  13:36   0  0    0   2   1   0   0   0   0/0Brady Skjei D  20:10   1  0   -1   3   2   2   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       34  16  15   7   9 36/62
+                                        58.1%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  59:58   2  27/29  18/20   9/9   0/0     0
+              .931   .900 1.000 
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  21:13   1  0   -1   4   0   0   0   0   4/9Tyler Bertuzzi L  15:48   0  0   -1   4   1   0   1   0   0/0Jason Dickinson C  16:32   0  0    0   1   1   2   1   0  9/16Ryan Donato C  09:54   0  0    0   1   0   0   0   0   0/0Nick Foligno L  20:52   0  0    0   1   0   0   0   0  9/19Taylor Hall L  13:55   0  0   -1   4   2   0   1   1   3/3Philipp Kurashev C  12:21   0  0    0   0   0   0   0   1   1/7Patrick Maroon L  08:31   0  0    1   0   0   5   0   1   0/0Ilya Mikheyev R  16:19   0  0    0   4   0   2   1   0   0/0Lukas Reichel L  14:04   0  1    1   1   1   0   0   0   0/7Craig Smith C  12:03   1  0    1   2   4   0   0   0   0/0Teuvo Teravainen C  22:15   0  0   -1   2   1   0   0   1   0/1Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  11:28   0  1    0   0   0   2   0   0   0/0TJ Brodie D  10:25   0  0    0   0   0   0   0   1   0/0Seth Jones D  28:05   0  0   -1   3   1   0   1   2   0/0Wyatt Kaiser D  15:38   0  0    0   1   4   2   0   2   0/0Connor Murphy D  17:26   0  1    1   1   1   2   0   2   0/0Alex Vlasic D  25:24   0  1    1   0   0   0   3   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       29  16  15   8  12 26/62
+                                        41.9%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  57:59   3  31/34  24/25   6/7   1/2     0
+              .912   .960  .857  .500
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  11:46   0  1   -1   2   0   2   1   1   0/0Filip Forsberg L  19:10   1  0    1   7   0   0   1   1   0/0Mark Jankowski C  14:27   0  0   -1   1   0   0   0   0   5/7Zachary L'Heureux L  08:20   0  0   -1   1   0   0   0   1   0/0Jonathan Marchessault R  18:02   0  0    0   4   2   0   0   0   0/0Michael McCarron R  12:01   0  0   -1   1   1   7   0   0  5/11Tommy Novak C  10:45   0  1    0   2   1   0   1   0   4/5Gustav Nyquist C  14:55   1  1    2   1   1   0   0   0   0/0Ryan O'Reilly C  19:14   0  0    0   1   1   0   0   1  6/14Colton Sissons C  18:47   0  0    0   0   2   0   1   0 11/17Cole Smith L  12:51   0  1    0   2   0   2   0   0   0/0Steven Stamkos C  18:25   0  0    0   1   0   0   1   1   5/8
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+11:46   0  1   -1   2   0   2   1   1   0/0
+Filip Forsberg L
+19:10   1  0    1   7   0   0   1   1   0/0
+Mark Jankowski C
+14:27   0  0   -1   1   0   0   0   0   5/7
+Zachary L'Heureux L
+08:20   0  0   -1   1   0   0   0   1   0/0
+Jonathan Marchessault R
+18:02   0  0    0   4   2   0   0   0   0/0
+Michael McCarron R
+12:01   0  0   -1   1   1   7   0   0  5/11
+Tommy Novak C
+10:45   0  1    0   2   1   0   1   0   4/5
+Gustav Nyquist C
+14:55   1  1    2   1   1   0   0   0   0/0
+Ryan O'Reilly C
+19:14   0  0    0   1   1   0   0   1  6/14
+Colton Sissons C
+18:47   0  0    0   0   2   0   1   0 11/17
+Cole Smith L
+12:51   0  1    0   2   0   2   0   0   0/0
+Steven Stamkos C
+18:25   0  0    0   1   0   0   1   1   5/8
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  21:14   0  2    0   1   1   0   0   1   0/0Marc Del Gaizo D  11:15   0  0    1   2   2   2   0   0   0/0Roman Josi D  25:56   0  0    0   3   1   0   1   1   0/0Jeremy Lauzon D  19:08   0  0    0   0   1   0   0   2   0/0Luke Schenn D  13:36   0  0    0   2   1   0   0   0   0/0Brady Skjei D  20:10   1  0   -1   3   2   2   1   0   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+21:14   0  2    0   1   1   0   0   1   0/0
+Marc Del Gaizo D
+11:15   0  0    1   2   2   2   0   0   0/0
+Roman Josi D
+25:56   0  0    0   3   1   0   1   1   0/0
+Jeremy Lauzon D
+19:08   0  0    0   0   1   0   0   2   0/0
+Luke Schenn D
+13:36   0  0    0   2   1   0   0   0   0/0
+Brady Skjei D
+20:10   1  0   -1   3   2   2   1   0   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       34  16  15   7   9 36/62
+                                        58.1%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  59:58   2  27/29  18/20   9/9   0/0     0
+              .931   .900 1.000
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Juuse Saros G
+59:58   2  27/29  18/20   9/9   0/0     0
+              .931   .900 1.000
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Bedard C  21:13   1  0   -1   4   0   0   0   0   4/9Tyler Bertuzzi L  15:48   0  0   -1   4   1   0   1   0   0/0Jason Dickinson C  16:32   0  0    0   1   1   2   1   0  9/16Ryan Donato C  09:54   0  0    0   1   0   0   0   0   0/0Nick Foligno L  20:52   0  0    0   1   0   0   0   0  9/19Taylor Hall L  13:55   0  0   -1   4   2   0   1   1   3/3Philipp Kurashev C  12:21   0  0    0   0   0   0   0   1   1/7Patrick Maroon L  08:31   0  0    1   0   0   5   0   1   0/0Ilya Mikheyev R  16:19   0  0    0   4   0   2   1   0   0/0Lukas Reichel L  14:04   0  1    1   1   1   0   0   0   0/7Craig Smith C  12:03   1  0    1   2   4   0   0   0   0/0Teuvo Teravainen C  22:15   0  0   -1   2   1   0   0   1   0/1
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Connor Bedard C
+21:13   1  0   -1   4   0   0   0   0   4/9
+Tyler Bertuzzi L
+15:48   0  0   -1   4   1   0   1   0   0/0
+Jason Dickinson C
+16:32   0  0    0   1   1   2   1   0  9/16
+Ryan Donato C
+09:54   0  0    0   1   0   0   0   0   0/0
+Nick Foligno L
+20:52   0  0    0   1   0   0   0   0  9/19
+Taylor Hall L
+13:55   0  0   -1   4   2   0   1   1   3/3
+Philipp Kurashev C
+12:21   0  0    0   0   0   0   0   1   1/7
+Patrick Maroon L
+08:31   0  0    1   0   0   5   0   1   0/0
+Ilya Mikheyev R
+16:19   0  0    0   4   0   2   1   0   0/0
+Lukas Reichel L
+14:04   0  1    1   1   1   0   0   0   0/7
+Craig Smith C
+12:03   1  0    1   2   4   0   0   0   0/0
+Teuvo Teravainen C
+22:15   0  0   -1   2   1   0   0   1   0/1
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  11:28   0  1    0   0   0   2   0   0   0/0TJ Brodie D  10:25   0  0    0   0   0   0   0   1   0/0Seth Jones D  28:05   0  0   -1   3   1   0   1   2   0/0Wyatt Kaiser D  15:38   0  0    0   1   4   2   0   2   0/0Connor Murphy D  17:26   0  1    1   1   1   2   0   2   0/0Alex Vlasic D  25:24   0  1    1   0   0   0   3   1   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nolan Allan D
+11:28   0  1    0   0   0   2   0   0   0/0
+TJ Brodie D
+10:25   0  0    0   0   0   0   0   1   0/0
+Seth Jones D
+28:05   0  0   -1   3   1   0   1   2   0/0
+Wyatt Kaiser D
+15:38   0  0    0   1   4   2   0   2   0/0
+Connor Murphy D
+17:26   0  1    1   1   1   2   0   2   0/0
+Alex Vlasic D
+25:24   0  1    1   0   0   0   3   1   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       29  16  15   8  12 26/62
+                                        41.9%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  57:59   3  31/34  24/25   6/7   1/2     0
+              .912   .960  .857  .500
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Petr Mrazek G
+57:59   3  31/34  24/25   6/7   1/2     0
+              .912   .960  .857  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

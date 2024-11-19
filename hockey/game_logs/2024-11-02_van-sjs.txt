@@ -1,0 +1,322 @@
+< Nov. 2 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Vancouver
+Canucks5-2-3Final3 - 2San Jose
+Sharks3-8-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+VAN   0  1  2    3  
+SJS   0  1  1    2
+Goals and Penalties: ShowHide
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  17:23 
+Nico Sturm (SJS) scores on snap shot past Kevin Lankinen, assisted by Luke Kunin
+   0-1
+P2  05:19 
+Pius Suter (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Nils Hoglander
+   1-1
+3rd Period: ShowHide
+P3  16:56 
+Danil Gushchin (SJS) tripping against Quinn Hughes (2 minutes)
+   1-1
+P3  14:56 
+J.T. Miller (VAN) interference against Ethan Cardwell (2 minutes)
+   1-1
+P3  10:50 
+Barclay Goodrow (SJS) cross-checking against Elias Pettersson (2 minutes)
+   1-1
+P3  06:58 
+Filip Hronek (VAN) interference against Tyler Toffoli (2 minutes)
+   1-1
+P3  04:22 
+Jake DeBrusk (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Quinn Hughes and Filip Hronek
+   2-1
+P3  01:17 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past Kevin Lankinen, assisted by Tyler Toffoli and William Eklund
+   2-2
+P3  00:26 
+Pius Suter (VAN) scores on slap shot past Mackenzie Blackwood, assisted by Conor Garland and Carson Soucy
+   3-2
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  11:35   0  0    0   0   0   0   0   1   0/0Teddy Blueger C  14:31   0  0   -1   0   0   0   0   2   4/9Brock Boeser R  18:30   0  0    0   2   0   0   1   0   0/0Jake DeBrusk L  14:35   1  0    0   2   0   0   0   1   0/1Conor Garland R  20:06   0  1    2   1   0   0   1   2   0/0Danton Heinen L  14:46   0  0   -1   1   0   0   0   2   0/0Nils Hoglander L  10:14   0  1    1   0   0   0   0   2   0/0J.T. Miller C  19:26   0  0    0   1   0   2   0   0  5/10Elias Pettersson C  19:39   0  0    1   1   4   0   0   0  7/12Kiefer Sherwood L  12:53   0  0   -1   1   1   0   1   0   0/1Daniel Sprong R  10:38   0  0    0   2   0   0   0   1   0/1Pius Suter C  12:39   2  0    2   3   0   0   0   0   3/5Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  10:47   0  0    0   1   0   0   0   0   0/0Derek Forbort D  15:18   0  0   -1   0   0   0   0   4   0/0Filip Hronek D  24:49   0  1    2   1   0   2   0   2   0/0Quinn Hughes D  25:57   0  1    0   6   1   0   0   2   0/0Tyler Myers D  20:46   0  0    0   3   4   0   1   2   0/0Carson Soucy D  18:52   0  1    1   2   3   0   1   4   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       27  13   4   5  25 19/39
+                                        48.7%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  59:59   2  21/23  21/23   0/0   0/0     0
+              .913   .913 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEthan Cardwell R  16:23   0  0   -2   1   1   0   0   3   0/0William Eklund L  19:56   0  1    0   1   0   0   0   2   0/0Barclay Goodrow C  14:57   0  0    0   1   0   2   2   3   1/1Mikael Granlund C  22:08   1  0   -1   3   0   0   0   3  6/11Carl Grundstrom R  08:08   0  0    0   2   0   0   0   0   0/1Danil Gushchin L  10:12   0  0    0   2   0   2   0   0   0/0Luke Kunin C  16:24   0  1    0   1   3   0   0   0   1/2Will Smith C  14:57   0  0    0   0   0   0   0   1   3/5Nico Sturm C  08:50   1  0    0   1   2   0   0   0   2/5Tyler Toffoli C  15:50   0  1    0   0   0   0   1   0   1/1Alexander Wennberg C  17:06   0  0    1   3   0   0   1   0  5/12Fabian Zetterlund L  18:06   0  0    1   0   3   0   1   1   1/1Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  24:12   0  0   -1   0   2   0   0   0   0/0Mario Ferraro D  21:00   0  0   -1   0   2   0   0   1   0/0Timothy Liljegren D  16:57   0  0    2   1   1   0   0   2   0/0Jan Rutta D  18:30   0  0   -1   4   3   0   0   0   0/0Henry Thrun D  12:57   0  0    0   0   3   0   1   0   0/0Jake Walman D  20:35   0  0   -2   3   2   0   0   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  22   4   6  16 20/39
+                                        51.3%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  58:52   3  24/27  21/24   2/2   1/1     0
+              .889   .875 1.000 1.000
+Vancouver
+Canucks5-2-3Final3 - 2San Jose
+Sharks3-8-2
+Vancouver
+Canucks5-2-3
+Final3 - 2
+San Jose
+Sharks3-8-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+VAN   0  1  2    3  
+SJS   0  1  1    2
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  17:23 
+Nico Sturm (SJS) scores on snap shot past Kevin Lankinen, assisted by Luke Kunin
+   0-1
+P2  05:19 
+Pius Suter (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Nils Hoglander
+   1-1
+3rd Period: ShowHide
+P3  16:56 
+Danil Gushchin (SJS) tripping against Quinn Hughes (2 minutes)
+   1-1
+P3  14:56 
+J.T. Miller (VAN) interference against Ethan Cardwell (2 minutes)
+   1-1
+P3  10:50 
+Barclay Goodrow (SJS) cross-checking against Elias Pettersson (2 minutes)
+   1-1
+P3  06:58 
+Filip Hronek (VAN) interference against Tyler Toffoli (2 minutes)
+   1-1
+P3  04:22 
+Jake DeBrusk (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Quinn Hughes and Filip Hronek
+   2-1
+P3  01:17 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past Kevin Lankinen, assisted by Tyler Toffoli and William Eklund
+   2-2
+P3  00:26 
+Pius Suter (VAN) scores on slap shot past Mackenzie Blackwood, assisted by Conor Garland and Carson Soucy
+   3-2
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  17:23 
+Nico Sturm (SJS) scores on snap shot past Kevin Lankinen, assisted by Luke Kunin
+   0-1
+P2  05:19 
+Pius Suter (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Nils Hoglander
+   1-1
+P2  17:23 
+Nico Sturm (SJS) scores on snap shot past Kevin Lankinen, assisted by Luke Kunin
+   0-1
+P2  05:19 
+Pius Suter (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Nils Hoglander
+   1-1
+P2  17:23
+Nico Sturm (SJS) scores on snap shot past Kevin Lankinen, assisted by Luke Kunin
+0-1
+P2  05:19
+Pius Suter (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Nils Hoglander
+1-1
+3rd Period: ShowHide
+P3  16:56 
+Danil Gushchin (SJS) tripping against Quinn Hughes (2 minutes)
+   1-1
+P3  14:56 
+J.T. Miller (VAN) interference against Ethan Cardwell (2 minutes)
+   1-1
+P3  10:50 
+Barclay Goodrow (SJS) cross-checking against Elias Pettersson (2 minutes)
+   1-1
+P3  06:58 
+Filip Hronek (VAN) interference against Tyler Toffoli (2 minutes)
+   1-1
+P3  04:22 
+Jake DeBrusk (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Quinn Hughes and Filip Hronek
+   2-1
+P3  01:17 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past Kevin Lankinen, assisted by Tyler Toffoli and William Eklund
+   2-2
+P3  00:26 
+Pius Suter (VAN) scores on slap shot past Mackenzie Blackwood, assisted by Conor Garland and Carson Soucy
+   3-2
+P3  16:56 
+Danil Gushchin (SJS) tripping against Quinn Hughes (2 minutes)
+   1-1
+P3  14:56 
+J.T. Miller (VAN) interference against Ethan Cardwell (2 minutes)
+   1-1
+P3  10:50 
+Barclay Goodrow (SJS) cross-checking against Elias Pettersson (2 minutes)
+   1-1
+P3  06:58 
+Filip Hronek (VAN) interference against Tyler Toffoli (2 minutes)
+   1-1
+P3  04:22 
+Jake DeBrusk (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Quinn Hughes and Filip Hronek
+   2-1
+P3  01:17 
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past Kevin Lankinen, assisted by Tyler Toffoli and William Eklund
+   2-2
+P3  00:26 
+Pius Suter (VAN) scores on slap shot past Mackenzie Blackwood, assisted by Conor Garland and Carson Soucy
+   3-2
+P3  16:56
+Danil Gushchin (SJS) tripping against Quinn Hughes (2 minutes)
+1-1
+P3  14:56
+J.T. Miller (VAN) interference against Ethan Cardwell (2 minutes)
+1-1
+P3  10:50
+Barclay Goodrow (SJS) cross-checking against Elias Pettersson (2 minutes)
+1-1
+P3  06:58
+Filip Hronek (VAN) interference against Tyler Toffoli (2 minutes)
+1-1
+P3  04:22
+Jake DeBrusk (VAN) scores on wrist shot past Mackenzie Blackwood, assisted by Quinn Hughes and Filip Hronek
+2-1
+P3  01:17
+Mikael Granlund (SJS) scores goal with extra attacker on wrist shot past Kevin Lankinen, assisted by Tyler Toffoli and William Eklund
+2-2
+P3  00:26
+Pius Suter (VAN) scores on slap shot past Mackenzie Blackwood, assisted by Conor Garland and Carson Soucy
+3-2
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  11:35   0  0    0   0   0   0   0   1   0/0Teddy Blueger C  14:31   0  0   -1   0   0   0   0   2   4/9Brock Boeser R  18:30   0  0    0   2   0   0   1   0   0/0Jake DeBrusk L  14:35   1  0    0   2   0   0   0   1   0/1Conor Garland R  20:06   0  1    2   1   0   0   1   2   0/0Danton Heinen L  14:46   0  0   -1   1   0   0   0   2   0/0Nils Hoglander L  10:14   0  1    1   0   0   0   0   2   0/0J.T. Miller C  19:26   0  0    0   1   0   2   0   0  5/10Elias Pettersson C  19:39   0  0    1   1   4   0   0   0  7/12Kiefer Sherwood L  12:53   0  0   -1   1   1   0   1   0   0/1Daniel Sprong R  10:38   0  0    0   2   0   0   0   1   0/1Pius Suter C  12:39   2  0    2   3   0   0   0   0   3/5Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  10:47   0  0    0   1   0   0   0   0   0/0Derek Forbort D  15:18   0  0   -1   0   0   0   0   4   0/0Filip Hronek D  24:49   0  1    2   1   0   2   0   2   0/0Quinn Hughes D  25:57   0  1    0   6   1   0   0   2   0/0Tyler Myers D  20:46   0  0    0   3   4   0   1   2   0/0Carson Soucy D  18:52   0  1    1   2   3   0   1   4   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       27  13   4   5  25 19/39
+                                        48.7%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  59:59   2  21/23  21/23   0/0   0/0     0
+              .913   .913 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEthan Cardwell R  16:23   0  0   -2   1   1   0   0   3   0/0William Eklund L  19:56   0  1    0   1   0   0   0   2   0/0Barclay Goodrow C  14:57   0  0    0   1   0   2   2   3   1/1Mikael Granlund C  22:08   1  0   -1   3   0   0   0   3  6/11Carl Grundstrom R  08:08   0  0    0   2   0   0   0   0   0/1Danil Gushchin L  10:12   0  0    0   2   0   2   0   0   0/0Luke Kunin C  16:24   0  1    0   1   3   0   0   0   1/2Will Smith C  14:57   0  0    0   0   0   0   0   1   3/5Nico Sturm C  08:50   1  0    0   1   2   0   0   0   2/5Tyler Toffoli C  15:50   0  1    0   0   0   0   1   0   1/1Alexander Wennberg C  17:06   0  0    1   3   0   0   1   0  5/12Fabian Zetterlund L  18:06   0  0    1   0   3   0   1   1   1/1Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  24:12   0  0   -1   0   2   0   0   0   0/0Mario Ferraro D  21:00   0  0   -1   0   2   0   0   1   0/0Timothy Liljegren D  16:57   0  0    2   1   1   0   0   2   0/0Jan Rutta D  18:30   0  0   -1   4   3   0   0   0   0/0Henry Thrun D  12:57   0  0    0   0   3   0   1   0   0/0Jake Walman D  20:35   0  0   -2   3   2   0   0   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  22   4   6  16 20/39
+                                        51.3%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  58:52   3  24/27  21/24   2/2   1/1     0
+              .889   .875 1.000 1.000
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  11:35   0  0    0   0   0   0   0   1   0/0Teddy Blueger C  14:31   0  0   -1   0   0   0   0   2   4/9Brock Boeser R  18:30   0  0    0   2   0   0   1   0   0/0Jake DeBrusk L  14:35   1  0    0   2   0   0   0   1   0/1Conor Garland R  20:06   0  1    2   1   0   0   1   2   0/0Danton Heinen L  14:46   0  0   -1   1   0   0   0   2   0/0Nils Hoglander L  10:14   0  1    1   0   0   0   0   2   0/0J.T. Miller C  19:26   0  0    0   1   0   2   0   0  5/10Elias Pettersson C  19:39   0  0    1   1   4   0   0   0  7/12Kiefer Sherwood L  12:53   0  0   -1   1   1   0   1   0   0/1Daniel Sprong R  10:38   0  0    0   2   0   0   0   1   0/1Pius Suter C  12:39   2  0    2   3   0   0   0   0   3/5
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Arshdeep Bains L
+11:35   0  0    0   0   0   0   0   1   0/0
+Teddy Blueger C
+14:31   0  0   -1   0   0   0   0   2   4/9
+Brock Boeser R
+18:30   0  0    0   2   0   0   1   0   0/0
+Jake DeBrusk L
+14:35   1  0    0   2   0   0   0   1   0/1
+Conor Garland R
+20:06   0  1    2   1   0   0   1   2   0/0
+Danton Heinen L
+14:46   0  0   -1   1   0   0   0   2   0/0
+Nils Hoglander L
+10:14   0  1    1   0   0   0   0   2   0/0
+J.T. Miller C
+19:26   0  0    0   1   0   2   0   0  5/10
+Elias Pettersson C
+19:39   0  0    1   1   4   0   0   0  7/12
+Kiefer Sherwood L
+12:53   0  0   -1   1   1   0   1   0   0/1
+Daniel Sprong R
+10:38   0  0    0   2   0   0   0   1   0/1
+Pius Suter C
+12:39   2  0    2   3   0   0   0   0   3/5
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  10:47   0  0    0   1   0   0   0   0   0/0Derek Forbort D  15:18   0  0   -1   0   0   0   0   4   0/0Filip Hronek D  24:49   0  1    2   1   0   2   0   2   0/0Quinn Hughes D  25:57   0  1    0   6   1   0   0   2   0/0Tyler Myers D  20:46   0  0    0   3   4   0   1   2   0/0Carson Soucy D  18:52   0  1    1   2   3   0   1   4   0/0
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Brannstrom D
+10:47   0  0    0   1   0   0   0   0   0/0
+Derek Forbort D
+15:18   0  0   -1   0   0   0   0   4   0/0
+Filip Hronek D
+24:49   0  1    2   1   0   2   0   2   0/0
+Quinn Hughes D
+25:57   0  1    0   6   1   0   0   2   0/0
+Tyler Myers D
+20:46   0  0    0   3   4   0   1   2   0/0
+Carson Soucy D
+18:52   0  1    1   2   3   0   1   4   0/0
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       27  13   4   5  25 19/39
+                                        48.7%
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  59:59   2  21/23  21/23   0/0   0/0     0
+              .913   .913
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Kevin Lankinen G
+59:59   2  21/23  21/23   0/0   0/0     0
+              .913   .913
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEthan Cardwell R  16:23   0  0   -2   1   1   0   0   3   0/0William Eklund L  19:56   0  1    0   1   0   0   0   2   0/0Barclay Goodrow C  14:57   0  0    0   1   0   2   2   3   1/1Mikael Granlund C  22:08   1  0   -1   3   0   0   0   3  6/11Carl Grundstrom R  08:08   0  0    0   2   0   0   0   0   0/1Danil Gushchin L  10:12   0  0    0   2   0   2   0   0   0/0Luke Kunin C  16:24   0  1    0   1   3   0   0   0   1/2Will Smith C  14:57   0  0    0   0   0   0   0   1   3/5Nico Sturm C  08:50   1  0    0   1   2   0   0   0   2/5Tyler Toffoli C  15:50   0  1    0   0   0   0   1   0   1/1Alexander Wennberg C  17:06   0  0    1   3   0   0   1   0  5/12Fabian Zetterlund L  18:06   0  0    1   0   3   0   1   1   1/1
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ethan Cardwell R
+16:23   0  0   -2   1   1   0   0   3   0/0
+William Eklund L
+19:56   0  1    0   1   0   0   0   2   0/0
+Barclay Goodrow C
+14:57   0  0    0   1   0   2   2   3   1/1
+Mikael Granlund C
+22:08   1  0   -1   3   0   0   0   3  6/11
+Carl Grundstrom R
+08:08   0  0    0   2   0   0   0   0   0/1
+Danil Gushchin L
+10:12   0  0    0   2   0   2   0   0   0/0
+Luke Kunin C
+16:24   0  1    0   1   3   0   0   0   1/2
+Will Smith C
+14:57   0  0    0   0   0   0   0   1   3/5
+Nico Sturm C
+08:50   1  0    0   1   2   0   0   0   2/5
+Tyler Toffoli C
+15:50   0  1    0   0   0   0   1   0   1/1
+Alexander Wennberg C
+17:06   0  0    1   3   0   0   1   0  5/12
+Fabian Zetterlund L
+18:06   0  0    1   0   3   0   1   1   1/1
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  24:12   0  0   -1   0   2   0   0   0   0/0Mario Ferraro D  21:00   0  0   -1   0   2   0   0   1   0/0Timothy Liljegren D  16:57   0  0    2   1   1   0   0   2   0/0Jan Rutta D  18:30   0  0   -1   4   3   0   0   0   0/0Henry Thrun D  12:57   0  0    0   0   3   0   1   0   0/0Jake Walman D  20:35   0  0   -2   3   2   0   0   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cody Ceci D
+24:12   0  0   -1   0   2   0   0   0   0/0
+Mario Ferraro D
+21:00   0  0   -1   0   2   0   0   1   0/0
+Timothy Liljegren D
+16:57   0  0    2   1   1   0   0   2   0/0
+Jan Rutta D
+18:30   0  0   -1   4   3   0   0   0   0/0
+Henry Thrun D
+12:57   0  0    0   0   3   0   1   0   0/0
+Jake Walman D
+20:35   0  0   -2   3   2   0   0   0   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  22   4   6  16 20/39
+                                        51.3%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  58:52   3  24/27  21/24   2/2   1/1     0
+              .889   .875 1.000 1.000
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Mackenzie Blackwood G
+58:52   3  24/27  21/24   2/2   1/1     0
+              .889   .875 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

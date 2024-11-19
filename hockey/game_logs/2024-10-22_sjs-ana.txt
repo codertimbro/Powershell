@@ -1,0 +1,397 @@
+< Oct. 22 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+San Jose
+Sharks0-5-2Final1 - 3Anaheim
+Ducks3-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SJS   0  0  1    1  
+ANA   0  1  2    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:03 
+Robby Fabbri (ANA) high-sticking against Mario Ferraro (2 minutes)
+   0-0
+P1  16:11 
+Henry Thrun (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  10:47 
+Ty Dellandrea (SJS) tripping against Brian Dumoulin (2 minutes)
+   0-0
+P1  00:43 
+Mikael Granlund (SJS) tripping against Troy Terry (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  13:31 
+Will Smith (SJS) tripping against Olen Zellweger (2 minutes)
+   0-0
+P2  13:04 
+Troy Terry (ANA) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Jackson LaCombe and Cutter Gauthier
+   0-1
+P2  07:27 
+Ryan Strome (ANA) roughing against Jake Walman (2 minutes)
+   0-1
+P2  07:27 
+Jake Walman (SJS) roughing against Ryan Strome (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  16:08 
+Brian Dumoulin (ANA) hooking against William Eklund (2 minutes)
+   0-1
+P3  15:05 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past Lukas Dostal, assisted by William Eklund and Jack Thompson
+   1-1
+P3  14:55 
+Will Smith (SJS) tripping against Isac Lundestrom (2 minutes)
+   1-1
+P3  14:24 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Mackenzie Blackwood, assisted by Cutter Gauthier and Mason McTavish
+   1-2
+P3  12:12 
+Cody Ceci (SJS) hooking against Frank Vatrano (2 minutes)
+   1-2
+P3  01:51 
+Alex Killorn (ANA) scores on empty net
+   1-3
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  13:33   0  0    0   0   0   2   0   0   1/3William Eklund L  20:41   0  1   -1   3   1   0   0   1   0/1Barclay Goodrow C  15:04   0  0    0   3   1   0   0   1   5/5Mikael Granlund C  22:11   1  0   -1   5   1   2   0   1  6/18Danil Gushchin L  12:24   0  0    0   1   1   0   0   0   0/0Klim Kostin C  06:23   0  0    0   0   0   0   0   1   0/1Luke Kunin C  12:17   0  0    0   0   0   0   0   1   3/4Will Smith C  12:56   0  0   -1   3   0   4   0   2   2/3Nico Sturm C  09:16   0  0    0   1   0   0   0   1   4/6Tyler Toffoli C  16:54   0  0   -1   1   0   0   0   0   0/1Alexander Wennberg C  19:33   0  0   -1   0   1   0   0   1 17/28Fabian Zetterlund L  15:06   0  0   -1   2   1   0   0   1   1/1Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  22:21   0  0    0   0   2   2   0   2   0/0Mario Ferraro D  18:20   0  0    0   2   4   0   0   1   0/0Jan Rutta D  15:52   0  0    0   1   1   0   0   1   0/0Jack Thompson D  17:17   0  1    0   2   3   0   0   2   0/0Henry Thrun D  17:57   0  0    0   2   2   2   0   0   0/0Jake Walman D  23:07   0  0    0   2   0   2   0   2   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       28  18  14   0  18 39/71
+                                        54.9%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  57:50   2  37/39  31/31   6/8   0/0     0
+              .949  1.000  .750 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:06   1  0    0   3   1   0   0   1   0/7Robby Fabbri C  14:04   0  0    0   0   1   2   0   2   4/7Cutter Gauthier L  15:44   0  2    0   4   0   0   0   1   0/2Alex Killorn L  16:30   1  0    1   3   2   0   0   1   0/0Brett Leason R  12:36   0  0    1   1   1   0   0   0   1/1Isac Lundestrom C  14:52   0  0    1   3   0   0   0   0  7/12Brock McGinn L  12:01   0  0    0   1   1   0   0   0   0/0Mason McTavish C  16:54   0  1    0   2   2   0   0   2 13/23Ryan Strome C  15:44   0  0    0   3   0   2   0   2  7/17Troy Terry R  16:14   1  0    0   4   1   0   0   1   0/0Frank Vatrano R  16:38   0  0    0   6   1   0   0   1   0/0Trevor Zegras C  15:33   0  0    0   0   0   0   0   2   0/2Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  16:43   0  0    0   3   2   2   0   1   0/0Cam Fowler D  20:04   0  0    0   2   0   0   0   0   0/0Radko Gudas D  16:01   0  0    1   0   6   0   0   4   0/0Jackson LaCombe D  18:24   0  1    1   2   6   0   0   4   0/0Pavel Mintyukov D  18:07   0  0    0   0   0   0   0   0   0/0Olen Zellweger D  21:42   0  0    0   3   2   0   0   3   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       40  26   6   0  25 32/71
+                                        45.1%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:00   1  27/28  23/23   3/4   1/1     0
+              .964  1.000  .750 1.000
+San Jose
+Sharks0-5-2Final1 - 3Anaheim
+Ducks3-2-1
+San Jose
+Sharks0-5-2
+Final1 - 3
+Anaheim
+Ducks3-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SJS   0  0  1    1  
+ANA   0  1  2    3
+1st Period: ShowHide
+P1  19:03 
+Robby Fabbri (ANA) high-sticking against Mario Ferraro (2 minutes)
+   0-0
+P1  16:11 
+Henry Thrun (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  10:47 
+Ty Dellandrea (SJS) tripping against Brian Dumoulin (2 minutes)
+   0-0
+P1  00:43 
+Mikael Granlund (SJS) tripping against Troy Terry (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  13:31 
+Will Smith (SJS) tripping against Olen Zellweger (2 minutes)
+   0-0
+P2  13:04 
+Troy Terry (ANA) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Jackson LaCombe and Cutter Gauthier
+   0-1
+P2  07:27 
+Ryan Strome (ANA) roughing against Jake Walman (2 minutes)
+   0-1
+P2  07:27 
+Jake Walman (SJS) roughing against Ryan Strome (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  16:08 
+Brian Dumoulin (ANA) hooking against William Eklund (2 minutes)
+   0-1
+P3  15:05 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past Lukas Dostal, assisted by William Eklund and Jack Thompson
+   1-1
+P3  14:55 
+Will Smith (SJS) tripping against Isac Lundestrom (2 minutes)
+   1-1
+P3  14:24 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Mackenzie Blackwood, assisted by Cutter Gauthier and Mason McTavish
+   1-2
+P3  12:12 
+Cody Ceci (SJS) hooking against Frank Vatrano (2 minutes)
+   1-2
+P3  01:51 
+Alex Killorn (ANA) scores on empty net
+   1-3
+1st Period: ShowHide
+P1  19:03 
+Robby Fabbri (ANA) high-sticking against Mario Ferraro (2 minutes)
+   0-0
+P1  16:11 
+Henry Thrun (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  10:47 
+Ty Dellandrea (SJS) tripping against Brian Dumoulin (2 minutes)
+   0-0
+P1  00:43 
+Mikael Granlund (SJS) tripping against Troy Terry (2 minutes)
+   0-0
+P1  19:03 
+Robby Fabbri (ANA) high-sticking against Mario Ferraro (2 minutes)
+   0-0
+P1  16:11 
+Henry Thrun (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  10:47 
+Ty Dellandrea (SJS) tripping against Brian Dumoulin (2 minutes)
+   0-0
+P1  00:43 
+Mikael Granlund (SJS) tripping against Troy Terry (2 minutes)
+   0-0
+P1  19:03
+Robby Fabbri (ANA) high-sticking against Mario Ferraro (2 minutes)
+0-0
+P1  16:11
+Henry Thrun (SJS) delaying game - puck over glass (2 minutes)
+0-0
+P1  10:47
+Ty Dellandrea (SJS) tripping against Brian Dumoulin (2 minutes)
+0-0
+P1  00:43
+Mikael Granlund (SJS) tripping against Troy Terry (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  13:31 
+Will Smith (SJS) tripping against Olen Zellweger (2 minutes)
+   0-0
+P2  13:04 
+Troy Terry (ANA) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Jackson LaCombe and Cutter Gauthier
+   0-1
+P2  07:27 
+Ryan Strome (ANA) roughing against Jake Walman (2 minutes)
+   0-1
+P2  07:27 
+Jake Walman (SJS) roughing against Ryan Strome (2 minutes)
+   0-1
+P2  13:31 
+Will Smith (SJS) tripping against Olen Zellweger (2 minutes)
+   0-0
+P2  13:04 
+Troy Terry (ANA) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Jackson LaCombe and Cutter Gauthier
+   0-1
+P2  07:27 
+Ryan Strome (ANA) roughing against Jake Walman (2 minutes)
+   0-1
+P2  07:27 
+Jake Walman (SJS) roughing against Ryan Strome (2 minutes)
+   0-1
+P2  13:31
+Will Smith (SJS) tripping against Olen Zellweger (2 minutes)
+0-0
+P2  13:04
+Troy Terry (ANA) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Jackson LaCombe and Cutter Gauthier
+0-1
+P2  07:27
+Ryan Strome (ANA) roughing against Jake Walman (2 minutes)
+0-1
+P2  07:27
+Jake Walman (SJS) roughing against Ryan Strome (2 minutes)
+0-1
+3rd Period: ShowHide
+P3  16:08 
+Brian Dumoulin (ANA) hooking against William Eklund (2 minutes)
+   0-1
+P3  15:05 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past Lukas Dostal, assisted by William Eklund and Jack Thompson
+   1-1
+P3  14:55 
+Will Smith (SJS) tripping against Isac Lundestrom (2 minutes)
+   1-1
+P3  14:24 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Mackenzie Blackwood, assisted by Cutter Gauthier and Mason McTavish
+   1-2
+P3  12:12 
+Cody Ceci (SJS) hooking against Frank Vatrano (2 minutes)
+   1-2
+P3  01:51 
+Alex Killorn (ANA) scores on empty net
+   1-3
+P3  16:08 
+Brian Dumoulin (ANA) hooking against William Eklund (2 minutes)
+   0-1
+P3  15:05 
+Mikael Granlund (SJS) scores power-play goal on wrist shot past Lukas Dostal, assisted by William Eklund and Jack Thompson
+   1-1
+P3  14:55 
+Will Smith (SJS) tripping against Isac Lundestrom (2 minutes)
+   1-1
+P3  14:24 
+Leo Carlsson (ANA) scores power-play goal on tip-in past Mackenzie Blackwood, assisted by Cutter Gauthier and Mason McTavish
+   1-2
+P3  12:12 
+Cody Ceci (SJS) hooking against Frank Vatrano (2 minutes)
+   1-2
+P3  01:51 
+Alex Killorn (ANA) scores on empty net
+   1-3
+P3  16:08
+Brian Dumoulin (ANA) hooking against William Eklund (2 minutes)
+0-1
+P3  15:05
+Mikael Granlund (SJS) scores power-play goal on wrist shot past Lukas Dostal, assisted by William Eklund and Jack Thompson
+1-1
+P3  14:55
+Will Smith (SJS) tripping against Isac Lundestrom (2 minutes)
+1-1
+P3  14:24
+Leo Carlsson (ANA) scores power-play goal on tip-in past Mackenzie Blackwood, assisted by Cutter Gauthier and Mason McTavish
+1-2
+P3  12:12
+Cody Ceci (SJS) hooking against Frank Vatrano (2 minutes)
+1-2
+P3  01:51
+Alex Killorn (ANA) scores on empty net
+1-3
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  13:33   0  0    0   0   0   2   0   0   1/3William Eklund L  20:41   0  1   -1   3   1   0   0   1   0/1Barclay Goodrow C  15:04   0  0    0   3   1   0   0   1   5/5Mikael Granlund C  22:11   1  0   -1   5   1   2   0   1  6/18Danil Gushchin L  12:24   0  0    0   1   1   0   0   0   0/0Klim Kostin C  06:23   0  0    0   0   0   0   0   1   0/1Luke Kunin C  12:17   0  0    0   0   0   0   0   1   3/4Will Smith C  12:56   0  0   -1   3   0   4   0   2   2/3Nico Sturm C  09:16   0  0    0   1   0   0   0   1   4/6Tyler Toffoli C  16:54   0  0   -1   1   0   0   0   0   0/1Alexander Wennberg C  19:33   0  0   -1   0   1   0   0   1 17/28Fabian Zetterlund L  15:06   0  0   -1   2   1   0   0   1   1/1Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  22:21   0  0    0   0   2   2   0   2   0/0Mario Ferraro D  18:20   0  0    0   2   4   0   0   1   0/0Jan Rutta D  15:52   0  0    0   1   1   0   0   1   0/0Jack Thompson D  17:17   0  1    0   2   3   0   0   2   0/0Henry Thrun D  17:57   0  0    0   2   2   2   0   0   0/0Jake Walman D  23:07   0  0    0   2   0   2   0   2   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       28  18  14   0  18 39/71
+                                        54.9%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  57:50   2  37/39  31/31   6/8   0/0     0
+              .949  1.000  .750 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:06   1  0    0   3   1   0   0   1   0/7Robby Fabbri C  14:04   0  0    0   0   1   2   0   2   4/7Cutter Gauthier L  15:44   0  2    0   4   0   0   0   1   0/2Alex Killorn L  16:30   1  0    1   3   2   0   0   1   0/0Brett Leason R  12:36   0  0    1   1   1   0   0   0   1/1Isac Lundestrom C  14:52   0  0    1   3   0   0   0   0  7/12Brock McGinn L  12:01   0  0    0   1   1   0   0   0   0/0Mason McTavish C  16:54   0  1    0   2   2   0   0   2 13/23Ryan Strome C  15:44   0  0    0   3   0   2   0   2  7/17Troy Terry R  16:14   1  0    0   4   1   0   0   1   0/0Frank Vatrano R  16:38   0  0    0   6   1   0   0   1   0/0Trevor Zegras C  15:33   0  0    0   0   0   0   0   2   0/2Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  16:43   0  0    0   3   2   2   0   1   0/0Cam Fowler D  20:04   0  0    0   2   0   0   0   0   0/0Radko Gudas D  16:01   0  0    1   0   6   0   0   4   0/0Jackson LaCombe D  18:24   0  1    1   2   6   0   0   4   0/0Pavel Mintyukov D  18:07   0  0    0   0   0   0   0   0   0/0Olen Zellweger D  21:42   0  0    0   3   2   0   0   3   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       40  26   6   0  25 32/71
+                                        45.1%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:00   1  27/28  23/23   3/4   1/1     0
+              .964  1.000  .750 1.000
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  13:33   0  0    0   0   0   2   0   0   1/3William Eklund L  20:41   0  1   -1   3   1   0   0   1   0/1Barclay Goodrow C  15:04   0  0    0   3   1   0   0   1   5/5Mikael Granlund C  22:11   1  0   -1   5   1   2   0   1  6/18Danil Gushchin L  12:24   0  0    0   1   1   0   0   0   0/0Klim Kostin C  06:23   0  0    0   0   0   0   0   1   0/1Luke Kunin C  12:17   0  0    0   0   0   0   0   1   3/4Will Smith C  12:56   0  0   -1   3   0   4   0   2   2/3Nico Sturm C  09:16   0  0    0   1   0   0   0   1   4/6Tyler Toffoli C  16:54   0  0   -1   1   0   0   0   0   0/1Alexander Wennberg C  19:33   0  0   -1   0   1   0   0   1 17/28Fabian Zetterlund L  15:06   0  0   -1   2   1   0   0   1   1/1
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ty Dellandrea C
+13:33   0  0    0   0   0   2   0   0   1/3
+William Eklund L
+20:41   0  1   -1   3   1   0   0   1   0/1
+Barclay Goodrow C
+15:04   0  0    0   3   1   0   0   1   5/5
+Mikael Granlund C
+22:11   1  0   -1   5   1   2   0   1  6/18
+Danil Gushchin L
+12:24   0  0    0   1   1   0   0   0   0/0
+Klim Kostin C
+06:23   0  0    0   0   0   0   0   1   0/1
+Luke Kunin C
+12:17   0  0    0   0   0   0   0   1   3/4
+Will Smith C
+12:56   0  0   -1   3   0   4   0   2   2/3
+Nico Sturm C
+09:16   0  0    0   1   0   0   0   1   4/6
+Tyler Toffoli C
+16:54   0  0   -1   1   0   0   0   0   0/1
+Alexander Wennberg C
+19:33   0  0   -1   0   1   0   0   1 17/28
+Fabian Zetterlund L
+15:06   0  0   -1   2   1   0   0   1   1/1
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  22:21   0  0    0   0   2   2   0   2   0/0Mario Ferraro D  18:20   0  0    0   2   4   0   0   1   0/0Jan Rutta D  15:52   0  0    0   1   1   0   0   1   0/0Jack Thompson D  17:17   0  1    0   2   3   0   0   2   0/0Henry Thrun D  17:57   0  0    0   2   2   2   0   0   0/0Jake Walman D  23:07   0  0    0   2   0   2   0   2   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cody Ceci D
+22:21   0  0    0   0   2   2   0   2   0/0
+Mario Ferraro D
+18:20   0  0    0   2   4   0   0   1   0/0
+Jan Rutta D
+15:52   0  0    0   1   1   0   0   1   0/0
+Jack Thompson D
+17:17   0  1    0   2   3   0   0   2   0/0
+Henry Thrun D
+17:57   0  0    0   2   2   2   0   0   0/0
+Jake Walman D
+23:07   0  0    0   2   0   2   0   2   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       28  18  14   0  18 39/71
+                                        54.9%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  57:50   2  37/39  31/31   6/8   0/0     0
+              .949  1.000  .750
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Mackenzie Blackwood G
+57:50   2  37/39  31/31   6/8   0/0     0
+              .949  1.000  .750
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:06   1  0    0   3   1   0   0   1   0/7Robby Fabbri C  14:04   0  0    0   0   1   2   0   2   4/7Cutter Gauthier L  15:44   0  2    0   4   0   0   0   1   0/2Alex Killorn L  16:30   1  0    1   3   2   0   0   1   0/0Brett Leason R  12:36   0  0    1   1   1   0   0   0   1/1Isac Lundestrom C  14:52   0  0    1   3   0   0   0   0  7/12Brock McGinn L  12:01   0  0    0   1   1   0   0   0   0/0Mason McTavish C  16:54   0  1    0   2   2   0   0   2 13/23Ryan Strome C  15:44   0  0    0   3   0   2   0   2  7/17Troy Terry R  16:14   1  0    0   4   1   0   0   1   0/0Frank Vatrano R  16:38   0  0    0   6   1   0   0   1   0/0Trevor Zegras C  15:33   0  0    0   0   0   0   0   2   0/2
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Leo Carlsson C
+17:06   1  0    0   3   1   0   0   1   0/7
+Robby Fabbri C
+14:04   0  0    0   0   1   2   0   2   4/7
+Cutter Gauthier L
+15:44   0  2    0   4   0   0   0   1   0/2
+Alex Killorn L
+16:30   1  0    1   3   2   0   0   1   0/0
+Brett Leason R
+12:36   0  0    1   1   1   0   0   0   1/1
+Isac Lundestrom C
+14:52   0  0    1   3   0   0   0   0  7/12
+Brock McGinn L
+12:01   0  0    0   1   1   0   0   0   0/0
+Mason McTavish C
+16:54   0  1    0   2   2   0   0   2 13/23
+Ryan Strome C
+15:44   0  0    0   3   0   2   0   2  7/17
+Troy Terry R
+16:14   1  0    0   4   1   0   0   1   0/0
+Frank Vatrano R
+16:38   0  0    0   6   1   0   0   1   0/0
+Trevor Zegras C
+15:33   0  0    0   0   0   0   0   2   0/2
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  16:43   0  0    0   3   2   2   0   1   0/0Cam Fowler D  20:04   0  0    0   2   0   0   0   0   0/0Radko Gudas D  16:01   0  0    1   0   6   0   0   4   0/0Jackson LaCombe D  18:24   0  1    1   2   6   0   0   4   0/0Pavel Mintyukov D  18:07   0  0    0   0   0   0   0   0   0/0Olen Zellweger D  21:42   0  0    0   3   2   0   0   3   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brian Dumoulin D
+16:43   0  0    0   3   2   2   0   1   0/0
+Cam Fowler D
+20:04   0  0    0   2   0   0   0   0   0/0
+Radko Gudas D
+16:01   0  0    1   0   6   0   0   4   0/0
+Jackson LaCombe D
+18:24   0  1    1   2   6   0   0   4   0/0
+Pavel Mintyukov D
+18:07   0  0    0   0   0   0   0   0   0/0
+Olen Zellweger D
+21:42   0  0    0   3   2   0   0   3   0/0
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       40  26   6   0  25 32/71
+                                        45.1%
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:00   1  27/28  23/23   3/4   1/1     0
+              .964  1.000  .750 1.000
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Lukas Dostal G
+60:00   1  27/28  23/23   3/4   1/1     0
+              .964  1.000  .750 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .
