@@ -1,0 +1,337 @@
+< Nov. 18 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Edmonton
+Oilers9-8-2Final0 - 3Montreal
+Canadiens7-10-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+EDM   0  0  0    0  
+MTL   0  1  2    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:52 
+Connor Brown (EDM) tripping against Lane Hutson (2 minutes)
+   0-0
+P1  11:04 
+Josh Anderson (MTL) hooking against Connor McDavid (2 minutes)
+   0-0
+P1  03:54 
+Joshua Brown (EDM) roughing against Kirby Dach (2 minutes)
+   0-0
+P1  03:54 
+Kirby Dach (MTL) roughing against Joshua Brown (2 minutes)
+   0-0
+P1  00:47 
+Joel Armia (MTL) high-sticking against Corey Perry (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  15:19 
+Lane Hutson (MTL) hooking against Ryan Nugent-Hopkins (2 minutes)
+   0-0
+P2  00:31 
+Brendan Gallagher (MTL) scores on tip-in past Calvin Pickard, assisted by Mike Matheson
+   0-1
+3rd Period: ShowHide
+P3  14:08 
+Kaiden Guhle (MTL) scores on wrist shot past Calvin Pickard, assisted by Cole Caufield and Jake Evans
+   0-2
+P3  09:08 
+Brett Kulak (EDM) hooking against Juraj Slafkovsky (2 minutes)
+   0-2
+P3  03:08 
+Jake Evans (MTL) scores on empty net, assisted by Nick Suzuki
+   0-3
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Brown R  13:59   0  0   -1   1   2   2   0   3   1/1Leon Draisaitl C  21:48   0  0   -3   2   0   0   1   1  8/12Adam Henrique C  15:55   0  0    0   2   2   0   0   1  7/10Zach Hyman L  19:41   0  0   -2   4   0   0   0   0   0/0Mattias Janmark C  13:11   0  0    0   0   0   0   0   0   0/0Connor McDavid C  22:42   0  0   -2   1   0   0   0   0   1/4Ryan Nugent-Hopkins C  21:08   0  0   -1   5   0   0   0   0   2/4Corey Perry R  13:39   0  0    0   1   1   0   0   0   0/0Vasily Podkolzin R  14:30   0  0    0   2   2   0   0   0   0/0Derek Ryan C  12:35   0  0    0   1   0   0   0   1   3/8Jeff Skinner L  12:19   0  0   -1   3   0   0   1   1   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  22:35   0  0   -3   3   1   0   1   1   0/0Joshua Brown D  11:58   0  0    0   0   0   2   0   0   0/0Travis Dermott D  12:37   0  0    0   0   2   0   0   1   0/0Mattias Ekholm D  21:16   0  0   -3   0   2   0   0   2   0/0Ty Emberson D  13:02   0  0    0   1   1   0   0   1   0/0Brett Kulak D  18:10   0  0    0   4   2   2   0   0   0/0Troy Stecher D  15:27   0  0    0   0   1   0   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       30  16   6   3  13 22/39
+                                        56.4%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  57:28   2  22/24  20/22   2/2   0/0     0
+              .917   .909 1.000 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  13:16   0  0    0   0   0   2   1   0   0/0Joel Armia R  14:38   0  0    1   2   0   2   0   0   0/0Cole Caufield R  13:46   0  1    1   1   1   0   0   1   0/0Lucas Condotta L  08:42   0  0    0   1   0   0   0   0   4/5Kirby Dach C  16:22   0  0    0   2   2   2   0   0   0/0Christian Dvorak C  15:08   0  0    0   1   1   0   0   0   3/9Jake Evans C  17:44   1  1    2   1   0   0   0   1  4/10Brendan Gallagher R  14:21   1  0    1   2   0   0   0   0   0/0Emil Heineman L  09:52   0  0    0   1   0   0   0   0   0/0Alex Newhook C  13:29   0  0    1   1   0   0   0   0   1/6Juraj Slafkovsky L  17:20   0  0    1   2   1   0   2   0   0/0Nick Suzuki C  21:00   0  1    2   4   1   0   1   1   5/9Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOKaiden Guhle D  18:21   1  0    2   4   2   0   0   0   0/0Lane Hutson D  22:17   0  0    0   1   0   2   1   3   0/0Mike Matheson D  24:03   0  1    3   1   1   0   1   1   0/0David Savard D  20:52   0  0    1   0   3   0   0   0   0/0Jayden Struble D  13:39   0  0    0   1   1   0   0   1   0/0Arber Xhekaj D  17:10   0  0    0   0   3   0   0   1   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       25  16   8   6   9 17/39
+                                        43.6%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  60:00   0  30/30  25/25   5/5   0/0     0
+             1.000  1.000 1.000
+Edmonton
+Oilers9-8-2Final0 - 3Montreal
+Canadiens7-10-2
+Edmonton
+Oilers9-8-2
+Final0 - 3
+Montreal
+Canadiens7-10-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+EDM   0  0  0    0  
+MTL   0  1  2    3
+1st Period: ShowHide
+P1  14:52 
+Connor Brown (EDM) tripping against Lane Hutson (2 minutes)
+   0-0
+P1  11:04 
+Josh Anderson (MTL) hooking against Connor McDavid (2 minutes)
+   0-0
+P1  03:54 
+Joshua Brown (EDM) roughing against Kirby Dach (2 minutes)
+   0-0
+P1  03:54 
+Kirby Dach (MTL) roughing against Joshua Brown (2 minutes)
+   0-0
+P1  00:47 
+Joel Armia (MTL) high-sticking against Corey Perry (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  15:19 
+Lane Hutson (MTL) hooking against Ryan Nugent-Hopkins (2 minutes)
+   0-0
+P2  00:31 
+Brendan Gallagher (MTL) scores on tip-in past Calvin Pickard, assisted by Mike Matheson
+   0-1
+3rd Period: ShowHide
+P3  14:08 
+Kaiden Guhle (MTL) scores on wrist shot past Calvin Pickard, assisted by Cole Caufield and Jake Evans
+   0-2
+P3  09:08 
+Brett Kulak (EDM) hooking against Juraj Slafkovsky (2 minutes)
+   0-2
+P3  03:08 
+Jake Evans (MTL) scores on empty net, assisted by Nick Suzuki
+   0-3
+1st Period: ShowHide
+P1  14:52 
+Connor Brown (EDM) tripping against Lane Hutson (2 minutes)
+   0-0
+P1  11:04 
+Josh Anderson (MTL) hooking against Connor McDavid (2 minutes)
+   0-0
+P1  03:54 
+Joshua Brown (EDM) roughing against Kirby Dach (2 minutes)
+   0-0
+P1  03:54 
+Kirby Dach (MTL) roughing against Joshua Brown (2 minutes)
+   0-0
+P1  00:47 
+Joel Armia (MTL) high-sticking against Corey Perry (2 minutes)
+   0-0
+P1  14:52 
+Connor Brown (EDM) tripping against Lane Hutson (2 minutes)
+   0-0
+P1  11:04 
+Josh Anderson (MTL) hooking against Connor McDavid (2 minutes)
+   0-0
+P1  03:54 
+Joshua Brown (EDM) roughing against Kirby Dach (2 minutes)
+   0-0
+P1  03:54 
+Kirby Dach (MTL) roughing against Joshua Brown (2 minutes)
+   0-0
+P1  00:47 
+Joel Armia (MTL) high-sticking against Corey Perry (2 minutes)
+   0-0
+P1  14:52
+Connor Brown (EDM) tripping against Lane Hutson (2 minutes)
+0-0
+P1  11:04
+Josh Anderson (MTL) hooking against Connor McDavid (2 minutes)
+0-0
+P1  03:54
+Joshua Brown (EDM) roughing against Kirby Dach (2 minutes)
+0-0
+P1  03:54
+Kirby Dach (MTL) roughing against Joshua Brown (2 minutes)
+0-0
+P1  00:47
+Joel Armia (MTL) high-sticking against Corey Perry (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  15:19 
+Lane Hutson (MTL) hooking against Ryan Nugent-Hopkins (2 minutes)
+   0-0
+P2  00:31 
+Brendan Gallagher (MTL) scores on tip-in past Calvin Pickard, assisted by Mike Matheson
+   0-1
+P2  15:19 
+Lane Hutson (MTL) hooking against Ryan Nugent-Hopkins (2 minutes)
+   0-0
+P2  00:31 
+Brendan Gallagher (MTL) scores on tip-in past Calvin Pickard, assisted by Mike Matheson
+   0-1
+P2  15:19
+Lane Hutson (MTL) hooking against Ryan Nugent-Hopkins (2 minutes)
+0-0
+P2  00:31
+Brendan Gallagher (MTL) scores on tip-in past Calvin Pickard, assisted by Mike Matheson
+0-1
+3rd Period: ShowHide
+P3  14:08 
+Kaiden Guhle (MTL) scores on wrist shot past Calvin Pickard, assisted by Cole Caufield and Jake Evans
+   0-2
+P3  09:08 
+Brett Kulak (EDM) hooking against Juraj Slafkovsky (2 minutes)
+   0-2
+P3  03:08 
+Jake Evans (MTL) scores on empty net, assisted by Nick Suzuki
+   0-3
+P3  14:08 
+Kaiden Guhle (MTL) scores on wrist shot past Calvin Pickard, assisted by Cole Caufield and Jake Evans
+   0-2
+P3  09:08 
+Brett Kulak (EDM) hooking against Juraj Slafkovsky (2 minutes)
+   0-2
+P3  03:08 
+Jake Evans (MTL) scores on empty net, assisted by Nick Suzuki
+   0-3
+P3  14:08
+Kaiden Guhle (MTL) scores on wrist shot past Calvin Pickard, assisted by Cole Caufield and Jake Evans
+0-2
+P3  09:08
+Brett Kulak (EDM) hooking against Juraj Slafkovsky (2 minutes)
+0-2
+P3  03:08
+Jake Evans (MTL) scores on empty net, assisted by Nick Suzuki
+0-3
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Brown R  13:59   0  0   -1   1   2   2   0   3   1/1Leon Draisaitl C  21:48   0  0   -3   2   0   0   1   1  8/12Adam Henrique C  15:55   0  0    0   2   2   0   0   1  7/10Zach Hyman L  19:41   0  0   -2   4   0   0   0   0   0/0Mattias Janmark C  13:11   0  0    0   0   0   0   0   0   0/0Connor McDavid C  22:42   0  0   -2   1   0   0   0   0   1/4Ryan Nugent-Hopkins C  21:08   0  0   -1   5   0   0   0   0   2/4Corey Perry R  13:39   0  0    0   1   1   0   0   0   0/0Vasily Podkolzin R  14:30   0  0    0   2   2   0   0   0   0/0Derek Ryan C  12:35   0  0    0   1   0   0   0   1   3/8Jeff Skinner L  12:19   0  0   -1   3   0   0   1   1   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  22:35   0  0   -3   3   1   0   1   1   0/0Joshua Brown D  11:58   0  0    0   0   0   2   0   0   0/0Travis Dermott D  12:37   0  0    0   0   2   0   0   1   0/0Mattias Ekholm D  21:16   0  0   -3   0   2   0   0   2   0/0Ty Emberson D  13:02   0  0    0   1   1   0   0   1   0/0Brett Kulak D  18:10   0  0    0   4   2   2   0   0   0/0Troy Stecher D  15:27   0  0    0   0   1   0   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       30  16   6   3  13 22/39
+                                        56.4%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  57:28   2  22/24  20/22   2/2   0/0     0
+              .917   .909 1.000 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  13:16   0  0    0   0   0   2   1   0   0/0Joel Armia R  14:38   0  0    1   2   0   2   0   0   0/0Cole Caufield R  13:46   0  1    1   1   1   0   0   1   0/0Lucas Condotta L  08:42   0  0    0   1   0   0   0   0   4/5Kirby Dach C  16:22   0  0    0   2   2   2   0   0   0/0Christian Dvorak C  15:08   0  0    0   1   1   0   0   0   3/9Jake Evans C  17:44   1  1    2   1   0   0   0   1  4/10Brendan Gallagher R  14:21   1  0    1   2   0   0   0   0   0/0Emil Heineman L  09:52   0  0    0   1   0   0   0   0   0/0Alex Newhook C  13:29   0  0    1   1   0   0   0   0   1/6Juraj Slafkovsky L  17:20   0  0    1   2   1   0   2   0   0/0Nick Suzuki C  21:00   0  1    2   4   1   0   1   1   5/9Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOKaiden Guhle D  18:21   1  0    2   4   2   0   0   0   0/0Lane Hutson D  22:17   0  0    0   1   0   2   1   3   0/0Mike Matheson D  24:03   0  1    3   1   1   0   1   1   0/0David Savard D  20:52   0  0    1   0   3   0   0   0   0/0Jayden Struble D  13:39   0  0    0   1   1   0   0   1   0/0Arber Xhekaj D  17:10   0  0    0   0   3   0   0   1   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       25  16   8   6   9 17/39
+                                        43.6%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  60:00   0  30/30  25/25   5/5   0/0     0
+             1.000  1.000 1.000
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOConnor Brown R  13:59   0  0   -1   1   2   2   0   3   1/1Leon Draisaitl C  21:48   0  0   -3   2   0   0   1   1  8/12Adam Henrique C  15:55   0  0    0   2   2   0   0   1  7/10Zach Hyman L  19:41   0  0   -2   4   0   0   0   0   0/0Mattias Janmark C  13:11   0  0    0   0   0   0   0   0   0/0Connor McDavid C  22:42   0  0   -2   1   0   0   0   0   1/4Ryan Nugent-Hopkins C  21:08   0  0   -1   5   0   0   0   0   2/4Corey Perry R  13:39   0  0    0   1   1   0   0   0   0/0Vasily Podkolzin R  14:30   0  0    0   2   2   0   0   0   0/0Derek Ryan C  12:35   0  0    0   1   0   0   0   1   3/8Jeff Skinner L  12:19   0  0   -1   3   0   0   1   1   0/0
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Connor Brown R
+13:59   0  0   -1   1   2   2   0   3   1/1
+Leon Draisaitl C
+21:48   0  0   -3   2   0   0   1   1  8/12
+Adam Henrique C
+15:55   0  0    0   2   2   0   0   1  7/10
+Zach Hyman L
+19:41   0  0   -2   4   0   0   0   0   0/0
+Mattias Janmark C
+13:11   0  0    0   0   0   0   0   0   0/0
+Connor McDavid C
+22:42   0  0   -2   1   0   0   0   0   1/4
+Ryan Nugent-Hopkins C
+21:08   0  0   -1   5   0   0   0   0   2/4
+Corey Perry R
+13:39   0  0    0   1   1   0   0   0   0/0
+Vasily Podkolzin R
+14:30   0  0    0   2   2   0   0   0   0/0
+Derek Ryan C
+12:35   0  0    0   1   0   0   0   1   3/8
+Jeff Skinner L
+12:19   0  0   -1   3   0   0   1   1   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  22:35   0  0   -3   3   1   0   1   1   0/0Joshua Brown D  11:58   0  0    0   0   0   2   0   0   0/0Travis Dermott D  12:37   0  0    0   0   2   0   0   1   0/0Mattias Ekholm D  21:16   0  0   -3   0   2   0   0   2   0/0Ty Emberson D  13:02   0  0    0   1   1   0   0   1   0/0Brett Kulak D  18:10   0  0    0   4   2   2   0   0   0/0Troy Stecher D  15:27   0  0    0   0   1   0   0   1   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Evan Bouchard D
+22:35   0  0   -3   3   1   0   1   1   0/0
+Joshua Brown D
+11:58   0  0    0   0   0   2   0   0   0/0
+Travis Dermott D
+12:37   0  0    0   0   2   0   0   1   0/0
+Mattias Ekholm D
+21:16   0  0   -3   0   2   0   0   2   0/0
+Ty Emberson D
+13:02   0  0    0   1   1   0   0   1   0/0
+Brett Kulak D
+18:10   0  0    0   4   2   2   0   0   0/0
+Troy Stecher D
+15:27   0  0    0   0   1   0   0   1   0/0
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       30  16   6   3  13 22/39
+                                        56.4%
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  57:28   2  22/24  20/22   2/2   0/0     0
+              .917   .909 1.000
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Calvin Pickard G
+57:28   2  22/24  20/22   2/2   0/0     0
+              .917   .909 1.000
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  13:16   0  0    0   0   0   2   1   0   0/0Joel Armia R  14:38   0  0    1   2   0   2   0   0   0/0Cole Caufield R  13:46   0  1    1   1   1   0   0   1   0/0Lucas Condotta L  08:42   0  0    0   1   0   0   0   0   4/5Kirby Dach C  16:22   0  0    0   2   2   2   0   0   0/0Christian Dvorak C  15:08   0  0    0   1   1   0   0   0   3/9Jake Evans C  17:44   1  1    2   1   0   0   0   1  4/10Brendan Gallagher R  14:21   1  0    1   2   0   0   0   0   0/0Emil Heineman L  09:52   0  0    0   1   0   0   0   0   0/0Alex Newhook C  13:29   0  0    1   1   0   0   0   0   1/6Juraj Slafkovsky L  17:20   0  0    1   2   1   0   2   0   0/0Nick Suzuki C  21:00   0  1    2   4   1   0   1   1   5/9
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+13:16   0  0    0   0   0   2   1   0   0/0
+Joel Armia R
+14:38   0  0    1   2   0   2   0   0   0/0
+Cole Caufield R
+13:46   0  1    1   1   1   0   0   1   0/0
+Lucas Condotta L
+08:42   0  0    0   1   0   0   0   0   4/5
+Kirby Dach C
+16:22   0  0    0   2   2   2   0   0   0/0
+Christian Dvorak C
+15:08   0  0    0   1   1   0   0   0   3/9
+Jake Evans C
+17:44   1  1    2   1   0   0   0   1  4/10
+Brendan Gallagher R
+14:21   1  0    1   2   0   0   0   0   0/0
+Emil Heineman L
+09:52   0  0    0   1   0   0   0   0   0/0
+Alex Newhook C
+13:29   0  0    1   1   0   0   0   0   1/6
+Juraj Slafkovsky L
+17:20   0  0    1   2   1   0   2   0   0/0
+Nick Suzuki C
+21:00   0  1    2   4   1   0   1   1   5/9
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOKaiden Guhle D  18:21   1  0    2   4   2   0   0   0   0/0Lane Hutson D  22:17   0  0    0   1   0   2   1   3   0/0Mike Matheson D  24:03   0  1    3   1   1   0   1   1   0/0David Savard D  20:52   0  0    1   0   3   0   0   0   0/0Jayden Struble D  13:39   0  0    0   1   1   0   0   1   0/0Arber Xhekaj D  17:10   0  0    0   0   3   0   0   1   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Kaiden Guhle D
+18:21   1  0    2   4   2   0   0   0   0/0
+Lane Hutson D
+22:17   0  0    0   1   0   2   1   3   0/0
+Mike Matheson D
+24:03   0  1    3   1   1   0   1   1   0/0
+David Savard D
+20:52   0  0    1   0   3   0   0   0   0/0
+Jayden Struble D
+13:39   0  0    0   1   1   0   0   1   0/0
+Arber Xhekaj D
+17:10   0  0    0   0   3   0   0   1   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       25  16   8   6   9 17/39
+                                        43.6%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  60:00   0  30/30  25/25   5/5   0/0     0
+             1.000  1.000 1.000
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sam Montembeault G
+60:00   0  30/30  25/25   5/5   0/0     0
+             1.000  1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,427 @@
+< Nov. 18 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Colorado
+Avalanche10-9-0Final3 - 2Philadelphia
+Flyers8-9-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+COL   0  2  1    3  
+PHI   0  0  2    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  07:57 
+Mikko Rantanen (COL) slashing against Travis Sanheim (2 minutes)
+   0-0
+P1  07:43 
+Tyson Foerster (PHI) high-sticking against Devon Toews (2 minutes)
+   0-0
+P1  02:40 
+Nathan MacKinnon (COL) holding against Travis Konecny (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  14:27 
+Garnet Hathaway (PHI) interference against Nikolai Kovalenko (2 minutes)
+   0-0
+P2  11:30 
+Cale Makar (COL) scores on wrist shot past Aleksei Kolosov, assisted by Nathan MacKinnon and Devon Toews
+   1-0
+P2  06:08 
+Matvei Michkov (PHI) holding against Valeri Nichushkin (2 minutes)
+   1-0
+P2  04:52 
+Cale Makar (COL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Casey Mittelstadt and Mikko Rantanen
+   2-0
+3rd Period: ShowHide
+P3  17:11 
+Miles Wood (COL) roughing against Owen Tippett (2 minutes)
+   2-0
+P3  17:11 
+Owen Tippett (PHI) roughing against Miles Wood (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) tripping against Travis Sanheim (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) unsportsmanlike conduct (2 minutes)
+   2-0
+P3  13:28 
+Bobby Brink (PHI) high-sticking against Joel Kiviranta (2 minutes)
+   2-0
+P3  12:47 
+Helge Grans (PHI) holding against Cale Makar (2 minutes)
+   2-0
+P3  11:26 
+Casey Mittelstadt (COL) scores on wrist shot past Aleksei Kolosov, assisted by Mikko Rantanen and Jonathan Drouin
+   3-0
+P3  08:12 
+Owen Tippett (PHI) scores on snap shot past Justus Annunen, assisted by Travis Konecny and Travis Sanheim
+   3-1
+P3  06:28 
+Tyson Foerster (PHI) scores on poke past Justus Annunen, assisted by Bobby Brink and Helge Grans
+   3-2
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonathan Drouin L  18:21   0  1    1   0   2   0   1   1   1/4Ivan Ivan C  07:25   0  0    0   2   0   0   0   1   1/4Parker Kelly C  14:42   0  0    0   2   0   0   0   0  7/13Joel Kiviranta L  13:57   0  0    0   2   0   0   0   1   0/0Nikolai Kovalenko R  06:50   0  0    0   0   0   0   0   0   0/0Artturi Lehkonen L  20:03   0  0   -1   1   0   0   1   2   0/2Nathan MacKinnon C  22:39   0  1    0   2   0   6   1   1 11/18Casey Mittelstadt C  14:31   1  1    0   2   0   0   0   0  2/14Valeri Nichushkin R  16:22   0  0    0   2   1   0   0   1   0/0Logan O'Connor R  13:00   0  0    0   1   0   0   0   0   0/0Mikko Rantanen R  18:36   0  2    0   4   1   2   1   2   3/5Miles Wood L  08:34   0  0    0   2   0   2   0   0   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  21:12   0  0   -1   1   3   0   0   0   0/0Oliver Kylington D  10:26   0  0    0   0   0   0   0   0   0/0Cale Makar D  27:04   2  0    1   5   3   0   0   2   0/0Sam Malinski D  15:29   0  0    0   0   1   0   1   2   0/0Josh Manson D  19:38   0  0   -1   1   1   0   0   2   0/0Devon Toews D  21:11   0  1    0   2   1   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       29  13  10   5  15 25/60
+                                        41.7%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   2  24/26  21/23   2/2   1/1     0
+              .923   .913 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  10:19   0  1    0   1   0   2   1   0   0/0Noah Cates L  10:07   0  0    1   0   2   0   0   0   2/7Sean Couturier C  16:57   0  0    0   2   1   0   1   0 14/21Joel Farabee L  16:01   0  0    0   2   3   0   0   0   0/1Tyson Foerster R  16:05   1  0    1   3   2   2   0   0   0/0Garnet Hathaway R  10:27   0  0    0   0   2   2   0   0   1/2Travis Konecny R  23:05   0  1    0   3   0   0   1   3   0/0Scott Laughton C  15:32   0  0   -1   1   1   0   0   1  9/14Matvei Michkov R  19:47   0  0    0   3   0   2   0   0   1/3Ryan Poehling C  12:41   0  0    0   1   2   0   1   0  8/12Anthony Richard C  10:04   0  0    0   1   0   0   0   0   0/0Owen Tippett R  15:30   1  0    0   3   1   2   0   1   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOHelge Grans D  16:11   0  1    2   2   2   2   0   2   0/0Erik Johnson D  15:11   0  0    0   1   1   0   1   1   0/0Rasmus Ristolainen D  22:30   0  0   -1   0   2   0   0   2   0/0Travis Sanheim D  31:07   0  1    0   3   4   0   0   1   0/0Nick Seeler D  15:47   0  0   -1   0   4   0   1   2   0/0Egor Zamula D  13:28   0  0    0   0   3   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  30  12   6  13 35/60
+                                        58.3%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAleksei Kolosov G  57:55   3  26/29  24/26   2/3   0/0     0
+              .897   .923  .667
+Colorado
+Avalanche10-9-0Final3 - 2Philadelphia
+Flyers8-9-2
+Colorado
+Avalanche10-9-0
+Final3 - 2
+Philadelphia
+Flyers8-9-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+COL   0  2  1    3  
+PHI   0  0  2    2
+1st Period: ShowHide
+P1  07:57 
+Mikko Rantanen (COL) slashing against Travis Sanheim (2 minutes)
+   0-0
+P1  07:43 
+Tyson Foerster (PHI) high-sticking against Devon Toews (2 minutes)
+   0-0
+P1  02:40 
+Nathan MacKinnon (COL) holding against Travis Konecny (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  14:27 
+Garnet Hathaway (PHI) interference against Nikolai Kovalenko (2 minutes)
+   0-0
+P2  11:30 
+Cale Makar (COL) scores on wrist shot past Aleksei Kolosov, assisted by Nathan MacKinnon and Devon Toews
+   1-0
+P2  06:08 
+Matvei Michkov (PHI) holding against Valeri Nichushkin (2 minutes)
+   1-0
+P2  04:52 
+Cale Makar (COL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Casey Mittelstadt and Mikko Rantanen
+   2-0
+3rd Period: ShowHide
+P3  17:11 
+Miles Wood (COL) roughing against Owen Tippett (2 minutes)
+   2-0
+P3  17:11 
+Owen Tippett (PHI) roughing against Miles Wood (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) tripping against Travis Sanheim (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) unsportsmanlike conduct (2 minutes)
+   2-0
+P3  13:28 
+Bobby Brink (PHI) high-sticking against Joel Kiviranta (2 minutes)
+   2-0
+P3  12:47 
+Helge Grans (PHI) holding against Cale Makar (2 minutes)
+   2-0
+P3  11:26 
+Casey Mittelstadt (COL) scores on wrist shot past Aleksei Kolosov, assisted by Mikko Rantanen and Jonathan Drouin
+   3-0
+P3  08:12 
+Owen Tippett (PHI) scores on snap shot past Justus Annunen, assisted by Travis Konecny and Travis Sanheim
+   3-1
+P3  06:28 
+Tyson Foerster (PHI) scores on poke past Justus Annunen, assisted by Bobby Brink and Helge Grans
+   3-2
+1st Period: ShowHide
+P1  07:57 
+Mikko Rantanen (COL) slashing against Travis Sanheim (2 minutes)
+   0-0
+P1  07:43 
+Tyson Foerster (PHI) high-sticking against Devon Toews (2 minutes)
+   0-0
+P1  02:40 
+Nathan MacKinnon (COL) holding against Travis Konecny (2 minutes)
+   0-0
+P1  07:57 
+Mikko Rantanen (COL) slashing against Travis Sanheim (2 minutes)
+   0-0
+P1  07:43 
+Tyson Foerster (PHI) high-sticking against Devon Toews (2 minutes)
+   0-0
+P1  02:40 
+Nathan MacKinnon (COL) holding against Travis Konecny (2 minutes)
+   0-0
+P1  07:57
+Mikko Rantanen (COL) slashing against Travis Sanheim (2 minutes)
+0-0
+P1  07:43
+Tyson Foerster (PHI) high-sticking against Devon Toews (2 minutes)
+0-0
+P1  02:40
+Nathan MacKinnon (COL) holding against Travis Konecny (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  14:27 
+Garnet Hathaway (PHI) interference against Nikolai Kovalenko (2 minutes)
+   0-0
+P2  11:30 
+Cale Makar (COL) scores on wrist shot past Aleksei Kolosov, assisted by Nathan MacKinnon and Devon Toews
+   1-0
+P2  06:08 
+Matvei Michkov (PHI) holding against Valeri Nichushkin (2 minutes)
+   1-0
+P2  04:52 
+Cale Makar (COL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Casey Mittelstadt and Mikko Rantanen
+   2-0
+P2  14:27 
+Garnet Hathaway (PHI) interference against Nikolai Kovalenko (2 minutes)
+   0-0
+P2  11:30 
+Cale Makar (COL) scores on wrist shot past Aleksei Kolosov, assisted by Nathan MacKinnon and Devon Toews
+   1-0
+P2  06:08 
+Matvei Michkov (PHI) holding against Valeri Nichushkin (2 minutes)
+   1-0
+P2  04:52 
+Cale Makar (COL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Casey Mittelstadt and Mikko Rantanen
+   2-0
+P2  14:27
+Garnet Hathaway (PHI) interference against Nikolai Kovalenko (2 minutes)
+0-0
+P2  11:30
+Cale Makar (COL) scores on wrist shot past Aleksei Kolosov, assisted by Nathan MacKinnon and Devon Toews
+1-0
+P2  06:08
+Matvei Michkov (PHI) holding against Valeri Nichushkin (2 minutes)
+1-0
+P2  04:52
+Cale Makar (COL) scores power-play goal on wrist shot past Aleksei Kolosov, assisted by Casey Mittelstadt and Mikko Rantanen
+2-0
+3rd Period: ShowHide
+P3  17:11 
+Miles Wood (COL) roughing against Owen Tippett (2 minutes)
+   2-0
+P3  17:11 
+Owen Tippett (PHI) roughing against Miles Wood (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) tripping against Travis Sanheim (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) unsportsmanlike conduct (2 minutes)
+   2-0
+P3  13:28 
+Bobby Brink (PHI) high-sticking against Joel Kiviranta (2 minutes)
+   2-0
+P3  12:47 
+Helge Grans (PHI) holding against Cale Makar (2 minutes)
+   2-0
+P3  11:26 
+Casey Mittelstadt (COL) scores on wrist shot past Aleksei Kolosov, assisted by Mikko Rantanen and Jonathan Drouin
+   3-0
+P3  08:12 
+Owen Tippett (PHI) scores on snap shot past Justus Annunen, assisted by Travis Konecny and Travis Sanheim
+   3-1
+P3  06:28 
+Tyson Foerster (PHI) scores on poke past Justus Annunen, assisted by Bobby Brink and Helge Grans
+   3-2
+P3  17:11 
+Miles Wood (COL) roughing against Owen Tippett (2 minutes)
+   2-0
+P3  17:11 
+Owen Tippett (PHI) roughing against Miles Wood (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) tripping against Travis Sanheim (2 minutes)
+   2-0
+P3  15:19 
+Nathan MacKinnon (COL) unsportsmanlike conduct (2 minutes)
+   2-0
+P3  13:28 
+Bobby Brink (PHI) high-sticking against Joel Kiviranta (2 minutes)
+   2-0
+P3  12:47 
+Helge Grans (PHI) holding against Cale Makar (2 minutes)
+   2-0
+P3  11:26 
+Casey Mittelstadt (COL) scores on wrist shot past Aleksei Kolosov, assisted by Mikko Rantanen and Jonathan Drouin
+   3-0
+P3  08:12 
+Owen Tippett (PHI) scores on snap shot past Justus Annunen, assisted by Travis Konecny and Travis Sanheim
+   3-1
+P3  06:28 
+Tyson Foerster (PHI) scores on poke past Justus Annunen, assisted by Bobby Brink and Helge Grans
+   3-2
+P3  17:11
+Miles Wood (COL) roughing against Owen Tippett (2 minutes)
+2-0
+P3  17:11
+Owen Tippett (PHI) roughing against Miles Wood (2 minutes)
+2-0
+P3  15:19
+Nathan MacKinnon (COL) tripping against Travis Sanheim (2 minutes)
+2-0
+P3  15:19
+Nathan MacKinnon (COL) unsportsmanlike conduct (2 minutes)
+2-0
+P3  13:28
+Bobby Brink (PHI) high-sticking against Joel Kiviranta (2 minutes)
+2-0
+P3  12:47
+Helge Grans (PHI) holding against Cale Makar (2 minutes)
+2-0
+P3  11:26
+Casey Mittelstadt (COL) scores on wrist shot past Aleksei Kolosov, assisted by Mikko Rantanen and Jonathan Drouin
+3-0
+P3  08:12
+Owen Tippett (PHI) scores on snap shot past Justus Annunen, assisted by Travis Konecny and Travis Sanheim
+3-1
+P3  06:28
+Tyson Foerster (PHI) scores on poke past Justus Annunen, assisted by Bobby Brink and Helge Grans
+3-2
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonathan Drouin L  18:21   0  1    1   0   2   0   1   1   1/4Ivan Ivan C  07:25   0  0    0   2   0   0   0   1   1/4Parker Kelly C  14:42   0  0    0   2   0   0   0   0  7/13Joel Kiviranta L  13:57   0  0    0   2   0   0   0   1   0/0Nikolai Kovalenko R  06:50   0  0    0   0   0   0   0   0   0/0Artturi Lehkonen L  20:03   0  0   -1   1   0   0   1   2   0/2Nathan MacKinnon C  22:39   0  1    0   2   0   6   1   1 11/18Casey Mittelstadt C  14:31   1  1    0   2   0   0   0   0  2/14Valeri Nichushkin R  16:22   0  0    0   2   1   0   0   1   0/0Logan O'Connor R  13:00   0  0    0   1   0   0   0   0   0/0Mikko Rantanen R  18:36   0  2    0   4   1   2   1   2   3/5Miles Wood L  08:34   0  0    0   2   0   2   0   0   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  21:12   0  0   -1   1   3   0   0   0   0/0Oliver Kylington D  10:26   0  0    0   0   0   0   0   0   0/0Cale Makar D  27:04   2  0    1   5   3   0   0   2   0/0Sam Malinski D  15:29   0  0    0   0   1   0   1   2   0/0Josh Manson D  19:38   0  0   -1   1   1   0   0   2   0/0Devon Toews D  21:11   0  1    0   2   1   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       29  13  10   5  15 25/60
+                                        41.7%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   2  24/26  21/23   2/2   1/1     0
+              .923   .913 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  10:19   0  1    0   1   0   2   1   0   0/0Noah Cates L  10:07   0  0    1   0   2   0   0   0   2/7Sean Couturier C  16:57   0  0    0   2   1   0   1   0 14/21Joel Farabee L  16:01   0  0    0   2   3   0   0   0   0/1Tyson Foerster R  16:05   1  0    1   3   2   2   0   0   0/0Garnet Hathaway R  10:27   0  0    0   0   2   2   0   0   1/2Travis Konecny R  23:05   0  1    0   3   0   0   1   3   0/0Scott Laughton C  15:32   0  0   -1   1   1   0   0   1  9/14Matvei Michkov R  19:47   0  0    0   3   0   2   0   0   1/3Ryan Poehling C  12:41   0  0    0   1   2   0   1   0  8/12Anthony Richard C  10:04   0  0    0   1   0   0   0   0   0/0Owen Tippett R  15:30   1  0    0   3   1   2   0   1   0/0Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOHelge Grans D  16:11   0  1    2   2   2   2   0   2   0/0Erik Johnson D  15:11   0  0    0   1   1   0   1   1   0/0Rasmus Ristolainen D  22:30   0  0   -1   0   2   0   0   2   0/0Travis Sanheim D  31:07   0  1    0   3   4   0   0   1   0/0Nick Seeler D  15:47   0  0   -1   0   4   0   1   2   0/0Egor Zamula D  13:28   0  0    0   0   3   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  30  12   6  13 35/60
+                                        58.3%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAleksei Kolosov G  57:55   3  26/29  24/26   2/3   0/0     0
+              .897   .923  .667
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonathan Drouin L  18:21   0  1    1   0   2   0   1   1   1/4Ivan Ivan C  07:25   0  0    0   2   0   0   0   1   1/4Parker Kelly C  14:42   0  0    0   2   0   0   0   0  7/13Joel Kiviranta L  13:57   0  0    0   2   0   0   0   1   0/0Nikolai Kovalenko R  06:50   0  0    0   0   0   0   0   0   0/0Artturi Lehkonen L  20:03   0  0   -1   1   0   0   1   2   0/2Nathan MacKinnon C  22:39   0  1    0   2   0   6   1   1 11/18Casey Mittelstadt C  14:31   1  1    0   2   0   0   0   0  2/14Valeri Nichushkin R  16:22   0  0    0   2   1   0   0   1   0/0Logan O'Connor R  13:00   0  0    0   1   0   0   0   0   0/0Mikko Rantanen R  18:36   0  2    0   4   1   2   1   2   3/5Miles Wood L  08:34   0  0    0   2   0   2   0   0   0/0
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonathan Drouin L
+18:21   0  1    1   0   2   0   1   1   1/4
+Ivan Ivan C
+07:25   0  0    0   2   0   0   0   1   1/4
+Parker Kelly C
+14:42   0  0    0   2   0   0   0   0  7/13
+Joel Kiviranta L
+13:57   0  0    0   2   0   0   0   1   0/0
+Nikolai Kovalenko R
+06:50   0  0    0   0   0   0   0   0   0/0
+Artturi Lehkonen L
+20:03   0  0   -1   1   0   0   1   2   0/2
+Nathan MacKinnon C
+22:39   0  1    0   2   0   6   1   1 11/18
+Casey Mittelstadt C
+14:31   1  1    0   2   0   0   0   0  2/14
+Valeri Nichushkin R
+16:22   0  0    0   2   1   0   0   1   0/0
+Logan O'Connor R
+13:00   0  0    0   1   0   0   0   0   0/0
+Mikko Rantanen R
+18:36   0  2    0   4   1   2   1   2   3/5
+Miles Wood L
+08:34   0  0    0   2   0   2   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  21:12   0  0   -1   1   3   0   0   0   0/0Oliver Kylington D  10:26   0  0    0   0   0   0   0   0   0/0Cale Makar D  27:04   2  0    1   5   3   0   0   2   0/0Sam Malinski D  15:29   0  0    0   0   1   0   1   2   0/0Josh Manson D  19:38   0  0   -1   1   1   0   0   2   0/0Devon Toews D  21:11   0  1    0   2   1   0   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+21:12   0  0   -1   1   3   0   0   0   0/0
+Oliver Kylington D
+10:26   0  0    0   0   0   0   0   0   0/0
+Cale Makar D
+27:04   2  0    1   5   3   0   0   2   0/0
+Sam Malinski D
+15:29   0  0    0   0   1   0   1   2   0/0
+Josh Manson D
+19:38   0  0   -1   1   1   0   0   2   0/0
+Devon Toews D
+21:11   0  1    0   2   1   0   0   0   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       29  13  10   5  15 25/60
+                                        41.7%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   2  24/26  21/23   2/2   1/1     0
+              .923   .913 1.000 1.000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Justus Annunen G
+60:00   2  24/26  21/23   2/2   1/1     0
+              .923   .913 1.000 1.000
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  10:19   0  1    0   1   0   2   1   0   0/0Noah Cates L  10:07   0  0    1   0   2   0   0   0   2/7Sean Couturier C  16:57   0  0    0   2   1   0   1   0 14/21Joel Farabee L  16:01   0  0    0   2   3   0   0   0   0/1Tyson Foerster R  16:05   1  0    1   3   2   2   0   0   0/0Garnet Hathaway R  10:27   0  0    0   0   2   2   0   0   1/2Travis Konecny R  23:05   0  1    0   3   0   0   1   3   0/0Scott Laughton C  15:32   0  0   -1   1   1   0   0   1  9/14Matvei Michkov R  19:47   0  0    0   3   0   2   0   0   1/3Ryan Poehling C  12:41   0  0    0   1   2   0   1   0  8/12Anthony Richard C  10:04   0  0    0   1   0   0   0   0   0/0Owen Tippett R  15:30   1  0    0   3   1   2   0   1   0/0
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bobby Brink R
+10:19   0  1    0   1   0   2   1   0   0/0
+Noah Cates L
+10:07   0  0    1   0   2   0   0   0   2/7
+Sean Couturier C
+16:57   0  0    0   2   1   0   1   0 14/21
+Joel Farabee L
+16:01   0  0    0   2   3   0   0   0   0/1
+Tyson Foerster R
+16:05   1  0    1   3   2   2   0   0   0/0
+Garnet Hathaway R
+10:27   0  0    0   0   2   2   0   0   1/2
+Travis Konecny R
+23:05   0  1    0   3   0   0   1   3   0/0
+Scott Laughton C
+15:32   0  0   -1   1   1   0   0   1  9/14
+Matvei Michkov R
+19:47   0  0    0   3   0   2   0   0   1/3
+Ryan Poehling C
+12:41   0  0    0   1   2   0   1   0  8/12
+Anthony Richard C
+10:04   0  0    0   1   0   0   0   0   0/0
+Owen Tippett R
+15:30   1  0    0   3   1   2   0   1   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOHelge Grans D  16:11   0  1    2   2   2   2   0   2   0/0Erik Johnson D  15:11   0  0    0   1   1   0   1   1   0/0Rasmus Ristolainen D  22:30   0  0   -1   0   2   0   0   2   0/0Travis Sanheim D  31:07   0  1    0   3   4   0   0   1   0/0Nick Seeler D  15:47   0  0   -1   0   4   0   1   2   0/0Egor Zamula D  13:28   0  0    0   0   3   0   0   0   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Helge Grans D
+16:11   0  1    2   2   2   2   0   2   0/0
+Erik Johnson D
+15:11   0  0    0   1   1   0   1   1   0/0
+Rasmus Ristolainen D
+22:30   0  0   -1   0   2   0   0   2   0/0
+Travis Sanheim D
+31:07   0  1    0   3   4   0   0   1   0/0
+Nick Seeler D
+15:47   0  0   -1   0   4   0   1   2   0/0
+Egor Zamula D
+13:28   0  0    0   0   3   0   0   0   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  30  12   6  13 35/60
+                                        58.3%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAleksei Kolosov G  57:55   3  26/29  24/26   2/3   0/0     0
+              .897   .923  .667
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Aleksei Kolosov G
+57:55   3  26/29  24/26   2/3   0/0     0
+              .897   .923  .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

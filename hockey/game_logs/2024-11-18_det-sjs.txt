@@ -1,0 +1,430 @@
+< Nov. 18 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Detroit
+Red Wings7-9-2Final/OT4 - 5San Jose
+Sharks6-10-4
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+DET   2  1  1  0    4  
+SJS   1  2  1  1    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  12:32 
+Dylan Larkin (DET) scores on backhand shot past Mackenzie Blackwood, assisted by Simon Edvinsson
+   1-0
+P1  10:58 
+Jeff Petry (DET) holding against Fabian Zetterlund (2 minutes)
+   1-0
+P1  09:32 
+William Eklund (SJS) scores power-play goal on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Jake Walman
+   1-1
+P1  05:45 
+Simon Edvinsson (DET) interference against Mikael Granlund (2 minutes)
+   1-1
+P1  04:44 
+Jake Walman (SJS) interference against Lucas Raymond (2 minutes)
+   1-1
+P1  02:22 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-1
+P1  01:12 
+Marco Kasper (DET) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Erik Gustafsson and Vladimir Tarasenko
+   2-1
+2nd Period: ShowHide
+P2  14:01 
+William Eklund (SJS) scores on wrist shot past Cam Talbot, assisted by Mario Ferraro and Fabian Zetterlund
+   2-2
+P2  11:49 
+Michael Rasmussen (DET) scores on shot past Mackenzie Blackwood
+   3-2
+P2  09:13 
+Erik Gustafsson (DET) tripping against Klim Kostin (2 minutes)
+   3-2
+P2  00:42 
+Tyler Toffoli (SJS) scores on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Ty Dellandrea
+   3-3
+3rd Period: ShowHide
+P3  13:41 
+Luke Kunin (SJS) scores on wrist shot past Cam Talbot, assisted by Carl Grundstrom and Henry Thrun
+   3-4
+P3  05:54 
+Joe Veleno (DET) holding against Jake Walman (2 minutes)
+   3-4
+P3  03:26 
+Ty Dellandrea (SJS) tripping against Erik Gustafsson (2 minutes)
+   3-4
+P3  02:06 
+Alex DeBrincat (DET) scores power-play goal on backhand shot past Mackenzie Blackwood, assisted by Lucas Raymond and Dylan Larkin
+   4-4
+Overtime: ShowHide
+OT  04:14 
+Macklin Celebrini (SJS) scores on wrist shot past Cam Talbot, assisted by Mikael Granlund and Cody Ceci
+   4-5
+Box Score:
+ 
+Back to Top
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:01   0  0   -1   0   1   0   1   0   0/0J.T. Compher L  16:50   0  0   -1   1   0   0   0   2  7/14Andrew Copp C  12:53   0  0    1   2   1   0   0   0  6/14Alex DeBrincat R  15:57   1  0   -2   3   1   0   0   1   1/3Christian Fischer R  13:00   0  0    1   0   2   0   0   0   2/2Patrick Kane R  14:47   0  0   -1   3   0   0   0   0   0/0Marco Kasper C  12:29   1  0    0   1   0   0   0   2  4/10Dylan Larkin C  19:54   1  1   -1   4   2   0   0   2  7/13Michael Rasmussen C  12:22   1  0    1   1   0   0   0   0   0/0Lucas Raymond L  19:09   0  1   -1   1   0   0   0   1   0/1Vladimir Tarasenko R  13:53   0  1    0   1   0   0   0   1   0/0Joe Veleno C  14:01   0  0   -1   1   0   2   0   1   1/5Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  22:00   0  0   -2   0   1   0   2   0   0/0Simon Edvinsson D  23:14   0  1    0   0   1   2   1   2   0/0Erik Gustafsson D  12:24   0  1    0   1   0   2   0   0   0/0Justin Holl D  13:09   0  0    0   0   1   0   0   3   0/0Jeff Petry D  19:54   0  0   -2   0   0   2   1   1   0/0Moritz Seider D  26:55   0  0    1   1   3   0   0   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       20  13   8   5  16 28/62
+                                        45.2%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:46   5  29/34  25/29   4/5   0/0     0
+              .853   .862  .800 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMacklin Celebrini C  18:30   1  0    1   6   0   0   0   4  8/15Ty Dellandrea C  13:35   0  1    0   0   1   2   0   0   5/8William Eklund L  18:11   2  0    0   3   1   0   2   1   0/0Barclay Goodrow C  16:23   0  0    0   1   2   0   0   2   1/1Mikael Granlund C  18:31   0  1    1   1   0   0   0   0  7/12Carl Grundstrom R  08:26   0  1    1   4   0   0   0   0   0/0Klim Kostin C  09:29   0  0    1   2   1   0   0   0   0/1Luke Kunin C  11:56   1  0    1   2   0   0   0   0  5/11Will Smith C  16:42   0  0    0   1   0   0   0   3   3/3Tyler Toffoli C  15:06   1  0    0   4   0   0   0   0   0/0Alexander Wennberg C  18:21   0  2    0   1   0   0   1   0  5/11Fabian Zetterlund L  17:42   0  1    0   0   0   0   0   1   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  23:49   0  1    0   2   0   0   1   2   0/0Mario Ferraro D  22:26   0  1    2   0   1   0   2   4   0/0Timothy Liljegren D  19:55   0  0    2   1   2   0   0   0   0/0Jan Rutta D  14:34   0  0   -1   1   1   0   0   0   0/0Henry Thrun D  13:14   0  1   -1   2   1   0   0   0   0/0Jake Walman D  21:10   0  1    1   3   3   2   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       34  13   4   7  17 34/62
+                                        54.8%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  60:34   4  17/20  13/14   3/5   1/1     0
+              .850   .929  .600 1.000
+Detroit
+Red Wings7-9-2Final/OT4 - 5San Jose
+Sharks6-10-4
+Detroit
+Red Wings7-9-2
+Final/OT4 - 5
+San Jose
+Sharks6-10-4
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+DET   2  1  1  0    4  
+SJS   1  2  1  1    5
+1st Period: ShowHide
+P1  12:32 
+Dylan Larkin (DET) scores on backhand shot past Mackenzie Blackwood, assisted by Simon Edvinsson
+   1-0
+P1  10:58 
+Jeff Petry (DET) holding against Fabian Zetterlund (2 minutes)
+   1-0
+P1  09:32 
+William Eklund (SJS) scores power-play goal on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Jake Walman
+   1-1
+P1  05:45 
+Simon Edvinsson (DET) interference against Mikael Granlund (2 minutes)
+   1-1
+P1  04:44 
+Jake Walman (SJS) interference against Lucas Raymond (2 minutes)
+   1-1
+P1  02:22 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-1
+P1  01:12 
+Marco Kasper (DET) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Erik Gustafsson and Vladimir Tarasenko
+   2-1
+2nd Period: ShowHide
+P2  14:01 
+William Eklund (SJS) scores on wrist shot past Cam Talbot, assisted by Mario Ferraro and Fabian Zetterlund
+   2-2
+P2  11:49 
+Michael Rasmussen (DET) scores on shot past Mackenzie Blackwood
+   3-2
+P2  09:13 
+Erik Gustafsson (DET) tripping against Klim Kostin (2 minutes)
+   3-2
+P2  00:42 
+Tyler Toffoli (SJS) scores on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Ty Dellandrea
+   3-3
+3rd Period: ShowHide
+P3  13:41 
+Luke Kunin (SJS) scores on wrist shot past Cam Talbot, assisted by Carl Grundstrom and Henry Thrun
+   3-4
+P3  05:54 
+Joe Veleno (DET) holding against Jake Walman (2 minutes)
+   3-4
+P3  03:26 
+Ty Dellandrea (SJS) tripping against Erik Gustafsson (2 minutes)
+   3-4
+P3  02:06 
+Alex DeBrincat (DET) scores power-play goal on backhand shot past Mackenzie Blackwood, assisted by Lucas Raymond and Dylan Larkin
+   4-4
+Overtime: ShowHide
+OT  04:14 
+Macklin Celebrini (SJS) scores on wrist shot past Cam Talbot, assisted by Mikael Granlund and Cody Ceci
+   4-5
+1st Period: ShowHide
+P1  12:32 
+Dylan Larkin (DET) scores on backhand shot past Mackenzie Blackwood, assisted by Simon Edvinsson
+   1-0
+P1  10:58 
+Jeff Petry (DET) holding against Fabian Zetterlund (2 minutes)
+   1-0
+P1  09:32 
+William Eklund (SJS) scores power-play goal on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Jake Walman
+   1-1
+P1  05:45 
+Simon Edvinsson (DET) interference against Mikael Granlund (2 minutes)
+   1-1
+P1  04:44 
+Jake Walman (SJS) interference against Lucas Raymond (2 minutes)
+   1-1
+P1  02:22 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-1
+P1  01:12 
+Marco Kasper (DET) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Erik Gustafsson and Vladimir Tarasenko
+   2-1
+P1  12:32 
+Dylan Larkin (DET) scores on backhand shot past Mackenzie Blackwood, assisted by Simon Edvinsson
+   1-0
+P1  10:58 
+Jeff Petry (DET) holding against Fabian Zetterlund (2 minutes)
+   1-0
+P1  09:32 
+William Eklund (SJS) scores power-play goal on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Jake Walman
+   1-1
+P1  05:45 
+Simon Edvinsson (DET) interference against Mikael Granlund (2 minutes)
+   1-1
+P1  04:44 
+Jake Walman (SJS) interference against Lucas Raymond (2 minutes)
+   1-1
+P1  02:22 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-1
+P1  01:12 
+Marco Kasper (DET) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Erik Gustafsson and Vladimir Tarasenko
+   2-1
+P1  12:32
+Dylan Larkin (DET) scores on backhand shot past Mackenzie Blackwood, assisted by Simon Edvinsson
+1-0
+P1  10:58
+Jeff Petry (DET) holding against Fabian Zetterlund (2 minutes)
+1-0
+P1  09:32
+William Eklund (SJS) scores power-play goal on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Jake Walman
+1-1
+P1  05:45
+Simon Edvinsson (DET) interference against Mikael Granlund (2 minutes)
+1-1
+P1  04:44
+Jake Walman (SJS) interference against Lucas Raymond (2 minutes)
+1-1
+P1  02:22
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+1-1
+P1  01:12
+Marco Kasper (DET) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Erik Gustafsson and Vladimir Tarasenko
+2-1
+2nd Period: ShowHide
+P2  14:01 
+William Eklund (SJS) scores on wrist shot past Cam Talbot, assisted by Mario Ferraro and Fabian Zetterlund
+   2-2
+P2  11:49 
+Michael Rasmussen (DET) scores on shot past Mackenzie Blackwood
+   3-2
+P2  09:13 
+Erik Gustafsson (DET) tripping against Klim Kostin (2 minutes)
+   3-2
+P2  00:42 
+Tyler Toffoli (SJS) scores on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Ty Dellandrea
+   3-3
+P2  14:01 
+William Eklund (SJS) scores on wrist shot past Cam Talbot, assisted by Mario Ferraro and Fabian Zetterlund
+   2-2
+P2  11:49 
+Michael Rasmussen (DET) scores on shot past Mackenzie Blackwood
+   3-2
+P2  09:13 
+Erik Gustafsson (DET) tripping against Klim Kostin (2 minutes)
+   3-2
+P2  00:42 
+Tyler Toffoli (SJS) scores on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Ty Dellandrea
+   3-3
+P2  14:01
+William Eklund (SJS) scores on wrist shot past Cam Talbot, assisted by Mario Ferraro and Fabian Zetterlund
+2-2
+P2  11:49
+Michael Rasmussen (DET) scores on shot past Mackenzie Blackwood
+3-2
+P2  09:13
+Erik Gustafsson (DET) tripping against Klim Kostin (2 minutes)
+3-2
+P2  00:42
+Tyler Toffoli (SJS) scores on wrist shot past Cam Talbot, assisted by Alexander Wennberg and Ty Dellandrea
+3-3
+3rd Period: ShowHide
+P3  13:41 
+Luke Kunin (SJS) scores on wrist shot past Cam Talbot, assisted by Carl Grundstrom and Henry Thrun
+   3-4
+P3  05:54 
+Joe Veleno (DET) holding against Jake Walman (2 minutes)
+   3-4
+P3  03:26 
+Ty Dellandrea (SJS) tripping against Erik Gustafsson (2 minutes)
+   3-4
+P3  02:06 
+Alex DeBrincat (DET) scores power-play goal on backhand shot past Mackenzie Blackwood, assisted by Lucas Raymond and Dylan Larkin
+   4-4
+P3  13:41 
+Luke Kunin (SJS) scores on wrist shot past Cam Talbot, assisted by Carl Grundstrom and Henry Thrun
+   3-4
+P3  05:54 
+Joe Veleno (DET) holding against Jake Walman (2 minutes)
+   3-4
+P3  03:26 
+Ty Dellandrea (SJS) tripping against Erik Gustafsson (2 minutes)
+   3-4
+P3  02:06 
+Alex DeBrincat (DET) scores power-play goal on backhand shot past Mackenzie Blackwood, assisted by Lucas Raymond and Dylan Larkin
+   4-4
+P3  13:41
+Luke Kunin (SJS) scores on wrist shot past Cam Talbot, assisted by Carl Grundstrom and Henry Thrun
+3-4
+P3  05:54
+Joe Veleno (DET) holding against Jake Walman (2 minutes)
+3-4
+P3  03:26
+Ty Dellandrea (SJS) tripping against Erik Gustafsson (2 minutes)
+3-4
+P3  02:06
+Alex DeBrincat (DET) scores power-play goal on backhand shot past Mackenzie Blackwood, assisted by Lucas Raymond and Dylan Larkin
+4-4
+Overtime: ShowHide
+OT  04:14 
+Macklin Celebrini (SJS) scores on wrist shot past Cam Talbot, assisted by Mikael Granlund and Cody Ceci
+   4-5
+OT  04:14 
+Macklin Celebrini (SJS) scores on wrist shot past Cam Talbot, assisted by Mikael Granlund and Cody Ceci
+   4-5
+OT  04:14
+Macklin Celebrini (SJS) scores on wrist shot past Cam Talbot, assisted by Mikael Granlund and Cody Ceci
+4-5
+Box Score:
+ 
+Back to Top
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:01   0  0   -1   0   1   0   1   0   0/0J.T. Compher L  16:50   0  0   -1   1   0   0   0   2  7/14Andrew Copp C  12:53   0  0    1   2   1   0   0   0  6/14Alex DeBrincat R  15:57   1  0   -2   3   1   0   0   1   1/3Christian Fischer R  13:00   0  0    1   0   2   0   0   0   2/2Patrick Kane R  14:47   0  0   -1   3   0   0   0   0   0/0Marco Kasper C  12:29   1  0    0   1   0   0   0   2  4/10Dylan Larkin C  19:54   1  1   -1   4   2   0   0   2  7/13Michael Rasmussen C  12:22   1  0    1   1   0   0   0   0   0/0Lucas Raymond L  19:09   0  1   -1   1   0   0   0   1   0/1Vladimir Tarasenko R  13:53   0  1    0   1   0   0   0   1   0/0Joe Veleno C  14:01   0  0   -1   1   0   2   0   1   1/5Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  22:00   0  0   -2   0   1   0   2   0   0/0Simon Edvinsson D  23:14   0  1    0   0   1   2   1   2   0/0Erik Gustafsson D  12:24   0  1    0   1   0   2   0   0   0/0Justin Holl D  13:09   0  0    0   0   1   0   0   3   0/0Jeff Petry D  19:54   0  0   -2   0   0   2   1   1   0/0Moritz Seider D  26:55   0  0    1   1   3   0   0   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       20  13   8   5  16 28/62
+                                        45.2%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:46   5  29/34  25/29   4/5   0/0     0
+              .853   .862  .800 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMacklin Celebrini C  18:30   1  0    1   6   0   0   0   4  8/15Ty Dellandrea C  13:35   0  1    0   0   1   2   0   0   5/8William Eklund L  18:11   2  0    0   3   1   0   2   1   0/0Barclay Goodrow C  16:23   0  0    0   1   2   0   0   2   1/1Mikael Granlund C  18:31   0  1    1   1   0   0   0   0  7/12Carl Grundstrom R  08:26   0  1    1   4   0   0   0   0   0/0Klim Kostin C  09:29   0  0    1   2   1   0   0   0   0/1Luke Kunin C  11:56   1  0    1   2   0   0   0   0  5/11Will Smith C  16:42   0  0    0   1   0   0   0   3   3/3Tyler Toffoli C  15:06   1  0    0   4   0   0   0   0   0/0Alexander Wennberg C  18:21   0  2    0   1   0   0   1   0  5/11Fabian Zetterlund L  17:42   0  1    0   0   0   0   0   1   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  23:49   0  1    0   2   0   0   1   2   0/0Mario Ferraro D  22:26   0  1    2   0   1   0   2   4   0/0Timothy Liljegren D  19:55   0  0    2   1   2   0   0   0   0/0Jan Rutta D  14:34   0  0   -1   1   1   0   0   0   0/0Henry Thrun D  13:14   0  1   -1   2   1   0   0   0   0/0Jake Walman D  21:10   0  1    1   3   3   2   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       34  13   4   7  17 34/62
+                                        54.8%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  60:34   4  17/20  13/14   3/5   1/1     0
+              .850   .929  .600 1.000
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:01   0  0   -1   0   1   0   1   0   0/0J.T. Compher L  16:50   0  0   -1   1   0   0   0   2  7/14Andrew Copp C  12:53   0  0    1   2   1   0   0   0  6/14Alex DeBrincat R  15:57   1  0   -2   3   1   0   0   1   1/3Christian Fischer R  13:00   0  0    1   0   2   0   0   0   2/2Patrick Kane R  14:47   0  0   -1   3   0   0   0   0   0/0Marco Kasper C  12:29   1  0    0   1   0   0   0   2  4/10Dylan Larkin C  19:54   1  1   -1   4   2   0   0   2  7/13Michael Rasmussen C  12:22   1  0    1   1   0   0   0   0   0/0Lucas Raymond L  19:09   0  1   -1   1   0   0   0   1   0/1Vladimir Tarasenko R  13:53   0  1    0   1   0   0   0   1   0/0Joe Veleno C  14:01   0  0   -1   1   0   2   0   1   1/5
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+12:01   0  0   -1   0   1   0   1   0   0/0
+J.T. Compher L
+16:50   0  0   -1   1   0   0   0   2  7/14
+Andrew Copp C
+12:53   0  0    1   2   1   0   0   0  6/14
+Alex DeBrincat R
+15:57   1  0   -2   3   1   0   0   1   1/3
+Christian Fischer R
+13:00   0  0    1   0   2   0   0   0   2/2
+Patrick Kane R
+14:47   0  0   -1   3   0   0   0   0   0/0
+Marco Kasper C
+12:29   1  0    0   1   0   0   0   2  4/10
+Dylan Larkin C
+19:54   1  1   -1   4   2   0   0   2  7/13
+Michael Rasmussen C
+12:22   1  0    1   1   0   0   0   0   0/0
+Lucas Raymond L
+19:09   0  1   -1   1   0   0   0   1   0/1
+Vladimir Tarasenko R
+13:53   0  1    0   1   0   0   0   1   0/0
+Joe Veleno C
+14:01   0  0   -1   1   0   2   0   1   1/5
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  22:00   0  0   -2   0   1   0   2   0   0/0Simon Edvinsson D  23:14   0  1    0   0   1   2   1   2   0/0Erik Gustafsson D  12:24   0  1    0   1   0   2   0   0   0/0Justin Holl D  13:09   0  0    0   0   1   0   0   3   0/0Jeff Petry D  19:54   0  0   -2   0   0   2   1   1   0/0Moritz Seider D  26:55   0  0    1   1   3   0   0   0   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+22:00   0  0   -2   0   1   0   2   0   0/0
+Simon Edvinsson D
+23:14   0  1    0   0   1   2   1   2   0/0
+Erik Gustafsson D
+12:24   0  1    0   1   0   2   0   0   0/0
+Justin Holl D
+13:09   0  0    0   0   1   0   0   3   0/0
+Jeff Petry D
+19:54   0  0   -2   0   0   2   1   1   0/0
+Moritz Seider D
+26:55   0  0    1   1   3   0   0   0   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       20  13   8   5  16 28/62
+                                        45.2%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:46   5  29/34  25/29   4/5   0/0     0
+              .853   .862  .800
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cam Talbot G
+60:46   5  29/34  25/29   4/5   0/0     0
+              .853   .862  .800
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMacklin Celebrini C  18:30   1  0    1   6   0   0   0   4  8/15Ty Dellandrea C  13:35   0  1    0   0   1   2   0   0   5/8William Eklund L  18:11   2  0    0   3   1   0   2   1   0/0Barclay Goodrow C  16:23   0  0    0   1   2   0   0   2   1/1Mikael Granlund C  18:31   0  1    1   1   0   0   0   0  7/12Carl Grundstrom R  08:26   0  1    1   4   0   0   0   0   0/0Klim Kostin C  09:29   0  0    1   2   1   0   0   0   0/1Luke Kunin C  11:56   1  0    1   2   0   0   0   0  5/11Will Smith C  16:42   0  0    0   1   0   0   0   3   3/3Tyler Toffoli C  15:06   1  0    0   4   0   0   0   0   0/0Alexander Wennberg C  18:21   0  2    0   1   0   0   1   0  5/11Fabian Zetterlund L  17:42   0  1    0   0   0   0   0   1   0/0
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Macklin Celebrini C
+18:30   1  0    1   6   0   0   0   4  8/15
+Ty Dellandrea C
+13:35   0  1    0   0   1   2   0   0   5/8
+William Eklund L
+18:11   2  0    0   3   1   0   2   1   0/0
+Barclay Goodrow C
+16:23   0  0    0   1   2   0   0   2   1/1
+Mikael Granlund C
+18:31   0  1    1   1   0   0   0   0  7/12
+Carl Grundstrom R
+08:26   0  1    1   4   0   0   0   0   0/0
+Klim Kostin C
+09:29   0  0    1   2   1   0   0   0   0/1
+Luke Kunin C
+11:56   1  0    1   2   0   0   0   0  5/11
+Will Smith C
+16:42   0  0    0   1   0   0   0   3   3/3
+Tyler Toffoli C
+15:06   1  0    0   4   0   0   0   0   0/0
+Alexander Wennberg C
+18:21   0  2    0   1   0   0   1   0  5/11
+Fabian Zetterlund L
+17:42   0  1    0   0   0   0   0   1   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  23:49   0  1    0   2   0   0   1   2   0/0Mario Ferraro D  22:26   0  1    2   0   1   0   2   4   0/0Timothy Liljegren D  19:55   0  0    2   1   2   0   0   0   0/0Jan Rutta D  14:34   0  0   -1   1   1   0   0   0   0/0Henry Thrun D  13:14   0  1   -1   2   1   0   0   0   0/0Jake Walman D  21:10   0  1    1   3   3   2   1   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cody Ceci D
+23:49   0  1    0   2   0   0   1   2   0/0
+Mario Ferraro D
+22:26   0  1    2   0   1   0   2   4   0/0
+Timothy Liljegren D
+19:55   0  0    2   1   2   0   0   0   0/0
+Jan Rutta D
+14:34   0  0   -1   1   1   0   0   0   0/0
+Henry Thrun D
+13:14   0  1   -1   2   1   0   0   0   0/0
+Jake Walman D
+21:10   0  1    1   3   3   2   1   0   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       34  13   4   7  17 34/62
+                                        54.8%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  60:34   4  17/20  13/14   3/5   1/1     0
+              .850   .929  .600 1.000
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Mackenzie Blackwood G
+60:34   4  17/20  13/14   3/5   1/1     0
+              .850   .929  .600 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

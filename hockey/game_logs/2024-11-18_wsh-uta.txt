@@ -1,0 +1,532 @@
+< Nov. 18 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Washington
+Capitals13-4-1Final6 - 2Utah
+Hockey Club7-8-3
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+WSH   3  1  2    6  
+UTA   1  1  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:55 
+Jack McBain (UTA) scores on snap shot past Charlie Lindgren, assisted by Kevin Stenlund and Ian Cole
+   0-1
+P1  14:55 
+Alex Ovechkin (WSH) hooking against Matias Maccelli (2 minutes)
+   0-1
+P1  12:14 
+Dylan Strome (WSH) scores on wrap-around shot past Connor Ingram
+   1-1
+P1  12:04 
+Nic Dowd (WSH) scores on snap shot past Connor Ingram, assisted by Brandon Duhaime and Taylor Raddysh
+   2-1
+P1  10:58 
+Juuso Valimaki (UTA) interference against Lars Eller (2 minutes)
+   2-1
+P1  08:55 
+Alex Ovechkin (WSH) scores on snap shot past Connor Ingram, assisted by Pierre-Luc Dubois
+   3-1
+P1  05:14 
+WSH penalty, too many men on the ice (2 minutes), served by Alex Ovechkin
+   3-1
+P1  03:39 
+WSH penalty, too many men on the ice (2 minutes), served by Dylan Strome
+   3-1
+P1  00:28 
+WSH penalty, delaying game - unsuccessful challenge (2 minutes), served by Alex Ovechkin
+   3-1
+2nd Period: ShowHide
+P2  16:09 
+Maveric Lamoureux (UTA) holding against Tom Wilson (2 minutes)
+   3-1
+P2  14:26 
+Jack McBain (UTA) tripping against Andrew Mangiapane (2 minutes)
+   3-1
+P2  14:22 
+Alex Ovechkin (WSH) scores power-play goal on slap shot past Connor Ingram, assisted by John Carlson and Dylan Strome
+   4-1
+P2  13:45 
+John Carlson (WSH) interference against Alexander Kerfoot (2 minutes)
+   4-1
+P2  08:16 
+Nick Bjugstad (UTA) scores on snap shot past Charlie Lindgren, assisted by Nick Schmaltz and Clayton Keller
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes), served by Alex Ovechkin
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes)
+   4-2
+P2  05:49 
+Lawson Crouse (UTA) roughing against Tom Wilson (2 minutes)
+   4-2
+3rd Period: ShowHide
+P3  17:21 
+Jakub Vrana (WSH) delaying game - puck over glass (2 minutes)
+   4-2
+P3  12:30 
+Brandon Duhaime (WSH) scores on wrist shot past Karel Vejmelka, assisted by Trevor van Riemsdyk and Lars Eller
+   5-2
+P3  10:04 
+Aliaksei Protas (WSH) scores on snap shot past Karel Vejmelka, assisted by Andrew Mangiapane
+   6-2
+P3  03:09 
+Jack McBain (UTA) fighting against Tom Wilson (5 minutes)
+   6-2
+P3  03:09 
+Tom Wilson (WSH) fighting against Jack McBain (5 minutes)
+   6-2
+Box Score:
+ 
+Back to Top
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:36   1  0    1   3   2   0   1   0 11/18Pierre-Luc Dubois L  15:02   0  1    1   1   1   0   1   0  6/15Brandon Duhaime R  13:57   1  1    1   1   1   0   0   0   0/0Lars Eller C  12:03   0  1    0   3   0   0   0   1  4/11Andrew Mangiapane L  14:35   0  1    1   2   0   0   0   1   0/0Connor McMichael C  16:41   0  0    0   0   1   0   2   1   0/0Alex Ovechkin L  14:06   2  0    2   3   0   2   0   0   0/0Aliaksei Protas C  14:12   1  0    1   2   0   0   1   2   0/0Taylor Raddysh R  11:22   0  1    0   1   0   0   0   1   0/0Dylan Strome C  14:30   1  1    2   2   1   0   0   1  5/12Jakub Vrana L  10:57   0  0    1   0   0   2   1   1   1/1Tom Wilson R  16:57   0  0    0   1   1   9   0   0   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  21:34   0  1    1   3   5   2   0   1   0/0Jakob Chychrun D  18:51   0  0    1   1   2   0   0   1   0/0Martin Fehervary D  20:39   0  0    1   1   0   0   0   1   0/0Matt Roy D  18:12   0  0    0   0   3   0   0   2   0/0Rasmus Sandin D  18:45   0  0    2   0   1   0   0   0   0/0Trevor van Riemsdyk D  18:01   0  1    0   0   4   0   0   0   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       24  22  15   6  13 27/57
+                                        47.4%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  60:00   2  24/26  16/18   7/7   1/1     0
+              .923   .889 1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  10:48   1  0   -2   2   0   0   0   0  3/12Michael Carcone L  11:21   0  0    0   1   0   0   0   1   0/0Logan Cooley C  16:22   0  0   -1   1   0   0   1   2   2/6Lawson Crouse L  16:22   0  0    0   0   0   2   1   0   0/0Dylan Guenther R  18:06   0  0   -1   4   0   0   0   1   2/2Barrett Hayton C  14:08   0  0    0   1   3   0   0   0  7/10Clayton Keller R  20:41   0  1   -1   4   0   0   0   0   0/0Alexander Kerfoot C  19:27   0  0    0   0   1   0   0   0   6/9Matias Maccelli L  16:43   0  0   -1   2   0   0   1   1   1/1Jack McBain C  09:36   1  0    0   2   1   7   0   2   1/3Nick Schmaltz C  20:18   0  1   -2   2   0   0   0   2   2/5Kevin Stenlund C  12:51   0  1    0   2   1   0   0   1   6/9Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  17:37   0  1   -3   0   1   0   1   1   0/0Michael Kesselring D  15:32   0  0    0   2   0   0   0   2   0/0Maveric Lamoureux D  14:49   0  0   -2   1   0   2   1   1   0/0Olli Maatta D  17:12   0  0   -1   1   3   0   0   2   0/0Mikhail Sergachev D  25:04   0  0   -1   1   0   0   4   2   0/0Juuso Valimaki D  17:16   0  0    0   0   0   2   0   1   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  10  13   9  19 30/57
+                                        52.6%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  25:38   4   9/13    2/5   4/5   3/3     0
+              .692   .400  .800 1.000 Karel Vejmelka G  34:22   2   9/11   9/11   0/0   0/0     0
+              .818   .818 Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          6  18/24  11/16   4/5   3/3     0
+              .750   .688  .800 1.000
+Washington
+Capitals13-4-1Final6 - 2Utah
+Hockey Club7-8-3
+Washington
+Capitals13-4-1
+Final6 - 2
+Utah
+Hockey Club7-8-3
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+WSH   3  1  2    6  
+UTA   1  1  0    2
+1st Period: ShowHide
+P1  16:55 
+Jack McBain (UTA) scores on snap shot past Charlie Lindgren, assisted by Kevin Stenlund and Ian Cole
+   0-1
+P1  14:55 
+Alex Ovechkin (WSH) hooking against Matias Maccelli (2 minutes)
+   0-1
+P1  12:14 
+Dylan Strome (WSH) scores on wrap-around shot past Connor Ingram
+   1-1
+P1  12:04 
+Nic Dowd (WSH) scores on snap shot past Connor Ingram, assisted by Brandon Duhaime and Taylor Raddysh
+   2-1
+P1  10:58 
+Juuso Valimaki (UTA) interference against Lars Eller (2 minutes)
+   2-1
+P1  08:55 
+Alex Ovechkin (WSH) scores on snap shot past Connor Ingram, assisted by Pierre-Luc Dubois
+   3-1
+P1  05:14 
+WSH penalty, too many men on the ice (2 minutes), served by Alex Ovechkin
+   3-1
+P1  03:39 
+WSH penalty, too many men on the ice (2 minutes), served by Dylan Strome
+   3-1
+P1  00:28 
+WSH penalty, delaying game - unsuccessful challenge (2 minutes), served by Alex Ovechkin
+   3-1
+2nd Period: ShowHide
+P2  16:09 
+Maveric Lamoureux (UTA) holding against Tom Wilson (2 minutes)
+   3-1
+P2  14:26 
+Jack McBain (UTA) tripping against Andrew Mangiapane (2 minutes)
+   3-1
+P2  14:22 
+Alex Ovechkin (WSH) scores power-play goal on slap shot past Connor Ingram, assisted by John Carlson and Dylan Strome
+   4-1
+P2  13:45 
+John Carlson (WSH) interference against Alexander Kerfoot (2 minutes)
+   4-1
+P2  08:16 
+Nick Bjugstad (UTA) scores on snap shot past Charlie Lindgren, assisted by Nick Schmaltz and Clayton Keller
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes), served by Alex Ovechkin
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes)
+   4-2
+P2  05:49 
+Lawson Crouse (UTA) roughing against Tom Wilson (2 minutes)
+   4-2
+3rd Period: ShowHide
+P3  17:21 
+Jakub Vrana (WSH) delaying game - puck over glass (2 minutes)
+   4-2
+P3  12:30 
+Brandon Duhaime (WSH) scores on wrist shot past Karel Vejmelka, assisted by Trevor van Riemsdyk and Lars Eller
+   5-2
+P3  10:04 
+Aliaksei Protas (WSH) scores on snap shot past Karel Vejmelka, assisted by Andrew Mangiapane
+   6-2
+P3  03:09 
+Jack McBain (UTA) fighting against Tom Wilson (5 minutes)
+   6-2
+P3  03:09 
+Tom Wilson (WSH) fighting against Jack McBain (5 minutes)
+   6-2
+1st Period: ShowHide
+P1  16:55 
+Jack McBain (UTA) scores on snap shot past Charlie Lindgren, assisted by Kevin Stenlund and Ian Cole
+   0-1
+P1  14:55 
+Alex Ovechkin (WSH) hooking against Matias Maccelli (2 minutes)
+   0-1
+P1  12:14 
+Dylan Strome (WSH) scores on wrap-around shot past Connor Ingram
+   1-1
+P1  12:04 
+Nic Dowd (WSH) scores on snap shot past Connor Ingram, assisted by Brandon Duhaime and Taylor Raddysh
+   2-1
+P1  10:58 
+Juuso Valimaki (UTA) interference against Lars Eller (2 minutes)
+   2-1
+P1  08:55 
+Alex Ovechkin (WSH) scores on snap shot past Connor Ingram, assisted by Pierre-Luc Dubois
+   3-1
+P1  05:14 
+WSH penalty, too many men on the ice (2 minutes), served by Alex Ovechkin
+   3-1
+P1  03:39 
+WSH penalty, too many men on the ice (2 minutes), served by Dylan Strome
+   3-1
+P1  00:28 
+WSH penalty, delaying game - unsuccessful challenge (2 minutes), served by Alex Ovechkin
+   3-1
+P1  16:55 
+Jack McBain (UTA) scores on snap shot past Charlie Lindgren, assisted by Kevin Stenlund and Ian Cole
+   0-1
+P1  14:55 
+Alex Ovechkin (WSH) hooking against Matias Maccelli (2 minutes)
+   0-1
+P1  12:14 
+Dylan Strome (WSH) scores on wrap-around shot past Connor Ingram
+   1-1
+P1  12:04 
+Nic Dowd (WSH) scores on snap shot past Connor Ingram, assisted by Brandon Duhaime and Taylor Raddysh
+   2-1
+P1  10:58 
+Juuso Valimaki (UTA) interference against Lars Eller (2 minutes)
+   2-1
+P1  08:55 
+Alex Ovechkin (WSH) scores on snap shot past Connor Ingram, assisted by Pierre-Luc Dubois
+   3-1
+P1  05:14 
+WSH penalty, too many men on the ice (2 minutes), served by Alex Ovechkin
+   3-1
+P1  03:39 
+WSH penalty, too many men on the ice (2 minutes), served by Dylan Strome
+   3-1
+P1  00:28 
+WSH penalty, delaying game - unsuccessful challenge (2 minutes), served by Alex Ovechkin
+   3-1
+P1  16:55
+Jack McBain (UTA) scores on snap shot past Charlie Lindgren, assisted by Kevin Stenlund and Ian Cole
+0-1
+P1  14:55
+Alex Ovechkin (WSH) hooking against Matias Maccelli (2 minutes)
+0-1
+P1  12:14
+Dylan Strome (WSH) scores on wrap-around shot past Connor Ingram
+1-1
+P1  12:04
+Nic Dowd (WSH) scores on snap shot past Connor Ingram, assisted by Brandon Duhaime and Taylor Raddysh
+2-1
+P1  10:58
+Juuso Valimaki (UTA) interference against Lars Eller (2 minutes)
+2-1
+P1  08:55
+Alex Ovechkin (WSH) scores on snap shot past Connor Ingram, assisted by Pierre-Luc Dubois
+3-1
+P1  05:14
+WSH penalty, too many men on the ice (2 minutes), served by Alex Ovechkin
+3-1
+P1  03:39
+WSH penalty, too many men on the ice (2 minutes), served by Dylan Strome
+3-1
+P1  00:28
+WSH penalty, delaying game - unsuccessful challenge (2 minutes), served by Alex Ovechkin
+3-1
+2nd Period: ShowHide
+P2  16:09 
+Maveric Lamoureux (UTA) holding against Tom Wilson (2 minutes)
+   3-1
+P2  14:26 
+Jack McBain (UTA) tripping against Andrew Mangiapane (2 minutes)
+   3-1
+P2  14:22 
+Alex Ovechkin (WSH) scores power-play goal on slap shot past Connor Ingram, assisted by John Carlson and Dylan Strome
+   4-1
+P2  13:45 
+John Carlson (WSH) interference against Alexander Kerfoot (2 minutes)
+   4-1
+P2  08:16 
+Nick Bjugstad (UTA) scores on snap shot past Charlie Lindgren, assisted by Nick Schmaltz and Clayton Keller
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes), served by Alex Ovechkin
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes)
+   4-2
+P2  05:49 
+Lawson Crouse (UTA) roughing against Tom Wilson (2 minutes)
+   4-2
+P2  16:09 
+Maveric Lamoureux (UTA) holding against Tom Wilson (2 minutes)
+   3-1
+P2  14:26 
+Jack McBain (UTA) tripping against Andrew Mangiapane (2 minutes)
+   3-1
+P2  14:22 
+Alex Ovechkin (WSH) scores power-play goal on slap shot past Connor Ingram, assisted by John Carlson and Dylan Strome
+   4-1
+P2  13:45 
+John Carlson (WSH) interference against Alexander Kerfoot (2 minutes)
+   4-1
+P2  08:16 
+Nick Bjugstad (UTA) scores on snap shot past Charlie Lindgren, assisted by Nick Schmaltz and Clayton Keller
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes), served by Alex Ovechkin
+   4-2
+P2  05:49 
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes)
+   4-2
+P2  05:49 
+Lawson Crouse (UTA) roughing against Tom Wilson (2 minutes)
+   4-2
+P2  16:09
+Maveric Lamoureux (UTA) holding against Tom Wilson (2 minutes)
+3-1
+P2  14:26
+Jack McBain (UTA) tripping against Andrew Mangiapane (2 minutes)
+3-1
+P2  14:22
+Alex Ovechkin (WSH) scores power-play goal on slap shot past Connor Ingram, assisted by John Carlson and Dylan Strome
+4-1
+P2  13:45
+John Carlson (WSH) interference against Alexander Kerfoot (2 minutes)
+4-1
+P2  08:16
+Nick Bjugstad (UTA) scores on snap shot past Charlie Lindgren, assisted by Nick Schmaltz and Clayton Keller
+4-2
+P2  05:49
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes), served by Alex Ovechkin
+4-2
+P2  05:49
+Tom Wilson (WSH) roughing against Lawson Crouse (2 minutes)
+4-2
+P2  05:49
+Lawson Crouse (UTA) roughing against Tom Wilson (2 minutes)
+4-2
+3rd Period: ShowHide
+P3  17:21 
+Jakub Vrana (WSH) delaying game - puck over glass (2 minutes)
+   4-2
+P3  12:30 
+Brandon Duhaime (WSH) scores on wrist shot past Karel Vejmelka, assisted by Trevor van Riemsdyk and Lars Eller
+   5-2
+P3  10:04 
+Aliaksei Protas (WSH) scores on snap shot past Karel Vejmelka, assisted by Andrew Mangiapane
+   6-2
+P3  03:09 
+Jack McBain (UTA) fighting against Tom Wilson (5 minutes)
+   6-2
+P3  03:09 
+Tom Wilson (WSH) fighting against Jack McBain (5 minutes)
+   6-2
+P3  17:21 
+Jakub Vrana (WSH) delaying game - puck over glass (2 minutes)
+   4-2
+P3  12:30 
+Brandon Duhaime (WSH) scores on wrist shot past Karel Vejmelka, assisted by Trevor van Riemsdyk and Lars Eller
+   5-2
+P3  10:04 
+Aliaksei Protas (WSH) scores on snap shot past Karel Vejmelka, assisted by Andrew Mangiapane
+   6-2
+P3  03:09 
+Jack McBain (UTA) fighting against Tom Wilson (5 minutes)
+   6-2
+P3  03:09 
+Tom Wilson (WSH) fighting against Jack McBain (5 minutes)
+   6-2
+P3  17:21
+Jakub Vrana (WSH) delaying game - puck over glass (2 minutes)
+4-2
+P3  12:30
+Brandon Duhaime (WSH) scores on wrist shot past Karel Vejmelka, assisted by Trevor van Riemsdyk and Lars Eller
+5-2
+P3  10:04
+Aliaksei Protas (WSH) scores on snap shot past Karel Vejmelka, assisted by Andrew Mangiapane
+6-2
+P3  03:09
+Jack McBain (UTA) fighting against Tom Wilson (5 minutes)
+6-2
+P3  03:09
+Tom Wilson (WSH) fighting against Jack McBain (5 minutes)
+6-2
+Box Score:
+ 
+Back to Top
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:36   1  0    1   3   2   0   1   0 11/18Pierre-Luc Dubois L  15:02   0  1    1   1   1   0   1   0  6/15Brandon Duhaime R  13:57   1  1    1   1   1   0   0   0   0/0Lars Eller C  12:03   0  1    0   3   0   0   0   1  4/11Andrew Mangiapane L  14:35   0  1    1   2   0   0   0   1   0/0Connor McMichael C  16:41   0  0    0   0   1   0   2   1   0/0Alex Ovechkin L  14:06   2  0    2   3   0   2   0   0   0/0Aliaksei Protas C  14:12   1  0    1   2   0   0   1   2   0/0Taylor Raddysh R  11:22   0  1    0   1   0   0   0   1   0/0Dylan Strome C  14:30   1  1    2   2   1   0   0   1  5/12Jakub Vrana L  10:57   0  0    1   0   0   2   1   1   1/1Tom Wilson R  16:57   0  0    0   1   1   9   0   0   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  21:34   0  1    1   3   5   2   0   1   0/0Jakob Chychrun D  18:51   0  0    1   1   2   0   0   1   0/0Martin Fehervary D  20:39   0  0    1   1   0   0   0   1   0/0Matt Roy D  18:12   0  0    0   0   3   0   0   2   0/0Rasmus Sandin D  18:45   0  0    2   0   1   0   0   0   0/0Trevor van Riemsdyk D  18:01   0  1    0   0   4   0   0   0   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       24  22  15   6  13 27/57
+                                        47.4%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  60:00   2  24/26  16/18   7/7   1/1     0
+              .923   .889 1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  10:48   1  0   -2   2   0   0   0   0  3/12Michael Carcone L  11:21   0  0    0   1   0   0   0   1   0/0Logan Cooley C  16:22   0  0   -1   1   0   0   1   2   2/6Lawson Crouse L  16:22   0  0    0   0   0   2   1   0   0/0Dylan Guenther R  18:06   0  0   -1   4   0   0   0   1   2/2Barrett Hayton C  14:08   0  0    0   1   3   0   0   0  7/10Clayton Keller R  20:41   0  1   -1   4   0   0   0   0   0/0Alexander Kerfoot C  19:27   0  0    0   0   1   0   0   0   6/9Matias Maccelli L  16:43   0  0   -1   2   0   0   1   1   1/1Jack McBain C  09:36   1  0    0   2   1   7   0   2   1/3Nick Schmaltz C  20:18   0  1   -2   2   0   0   0   2   2/5Kevin Stenlund C  12:51   0  1    0   2   1   0   0   1   6/9Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  17:37   0  1   -3   0   1   0   1   1   0/0Michael Kesselring D  15:32   0  0    0   2   0   0   0   2   0/0Maveric Lamoureux D  14:49   0  0   -2   1   0   2   1   1   0/0Olli Maatta D  17:12   0  0   -1   1   3   0   0   2   0/0Mikhail Sergachev D  25:04   0  0   -1   1   0   0   4   2   0/0Juuso Valimaki D  17:16   0  0    0   0   0   2   0   1   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  10  13   9  19 30/57
+                                        52.6%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  25:38   4   9/13    2/5   4/5   3/3     0
+              .692   .400  .800 1.000 Karel Vejmelka G  34:22   2   9/11   9/11   0/0   0/0     0
+              .818   .818 Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          6  18/24  11/16   4/5   3/3     0
+              .750   .688  .800 1.000
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  15:36   1  0    1   3   2   0   1   0 11/18Pierre-Luc Dubois L  15:02   0  1    1   1   1   0   1   0  6/15Brandon Duhaime R  13:57   1  1    1   1   1   0   0   0   0/0Lars Eller C  12:03   0  1    0   3   0   0   0   1  4/11Andrew Mangiapane L  14:35   0  1    1   2   0   0   0   1   0/0Connor McMichael C  16:41   0  0    0   0   1   0   2   1   0/0Alex Ovechkin L  14:06   2  0    2   3   0   2   0   0   0/0Aliaksei Protas C  14:12   1  0    1   2   0   0   1   2   0/0Taylor Raddysh R  11:22   0  1    0   1   0   0   0   1   0/0Dylan Strome C  14:30   1  1    2   2   1   0   0   1  5/12Jakub Vrana L  10:57   0  0    1   0   0   2   1   1   1/1Tom Wilson R  16:57   0  0    0   1   1   9   0   0   0/0
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nic Dowd C
+15:36   1  0    1   3   2   0   1   0 11/18
+Pierre-Luc Dubois L
+15:02   0  1    1   1   1   0   1   0  6/15
+Brandon Duhaime R
+13:57   1  1    1   1   1   0   0   0   0/0
+Lars Eller C
+12:03   0  1    0   3   0   0   0   1  4/11
+Andrew Mangiapane L
+14:35   0  1    1   2   0   0   0   1   0/0
+Connor McMichael C
+16:41   0  0    0   0   1   0   2   1   0/0
+Alex Ovechkin L
+14:06   2  0    2   3   0   2   0   0   0/0
+Aliaksei Protas C
+14:12   1  0    1   2   0   0   1   2   0/0
+Taylor Raddysh R
+11:22   0  1    0   1   0   0   0   1   0/0
+Dylan Strome C
+14:30   1  1    2   2   1   0   0   1  5/12
+Jakub Vrana L
+10:57   0  0    1   0   0   2   1   1   1/1
+Tom Wilson R
+16:57   0  0    0   1   1   9   0   0   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  21:34   0  1    1   3   5   2   0   1   0/0Jakob Chychrun D  18:51   0  0    1   1   2   0   0   1   0/0Martin Fehervary D  20:39   0  0    1   1   0   0   0   1   0/0Matt Roy D  18:12   0  0    0   0   3   0   0   2   0/0Rasmus Sandin D  18:45   0  0    2   0   1   0   0   0   0/0Trevor van Riemsdyk D  18:01   0  1    0   0   4   0   0   0   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Carlson D
+21:34   0  1    1   3   5   2   0   1   0/0
+Jakob Chychrun D
+18:51   0  0    1   1   2   0   0   1   0/0
+Martin Fehervary D
+20:39   0  0    1   1   0   0   0   1   0/0
+Matt Roy D
+18:12   0  0    0   0   3   0   0   2   0/0
+Rasmus Sandin D
+18:45   0  0    2   0   1   0   0   0   0/0
+Trevor van Riemsdyk D
+18:01   0  1    0   0   4   0   0   0   0/0
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       24  22  15   6  13 27/57
+                                        47.4%
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  60:00   2  24/26  16/18   7/7   1/1     0
+              .923   .889 1.000 1.000
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Charlie Lindgren G
+60:00   2  24/26  16/18   7/7   1/1     0
+              .923   .889 1.000 1.000
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONick Bjugstad C  10:48   1  0   -2   2   0   0   0   0  3/12Michael Carcone L  11:21   0  0    0   1   0   0   0   1   0/0Logan Cooley C  16:22   0  0   -1   1   0   0   1   2   2/6Lawson Crouse L  16:22   0  0    0   0   0   2   1   0   0/0Dylan Guenther R  18:06   0  0   -1   4   0   0   0   1   2/2Barrett Hayton C  14:08   0  0    0   1   3   0   0   0  7/10Clayton Keller R  20:41   0  1   -1   4   0   0   0   0   0/0Alexander Kerfoot C  19:27   0  0    0   0   1   0   0   0   6/9Matias Maccelli L  16:43   0  0   -1   2   0   0   1   1   1/1Jack McBain C  09:36   1  0    0   2   1   7   0   2   1/3Nick Schmaltz C  20:18   0  1   -2   2   0   0   0   2   2/5Kevin Stenlund C  12:51   0  1    0   2   1   0   0   1   6/9
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nick Bjugstad C
+10:48   1  0   -2   2   0   0   0   0  3/12
+Michael Carcone L
+11:21   0  0    0   1   0   0   0   1   0/0
+Logan Cooley C
+16:22   0  0   -1   1   0   0   1   2   2/6
+Lawson Crouse L
+16:22   0  0    0   0   0   2   1   0   0/0
+Dylan Guenther R
+18:06   0  0   -1   4   0   0   0   1   2/2
+Barrett Hayton C
+14:08   0  0    0   1   3   0   0   0  7/10
+Clayton Keller R
+20:41   0  1   -1   4   0   0   0   0   0/0
+Alexander Kerfoot C
+19:27   0  0    0   0   1   0   0   0   6/9
+Matias Maccelli L
+16:43   0  0   -1   2   0   0   1   1   1/1
+Jack McBain C
+09:36   1  0    0   2   1   7   0   2   1/3
+Nick Schmaltz C
+20:18   0  1   -2   2   0   0   0   2   2/5
+Kevin Stenlund C
+12:51   0  1    0   2   1   0   0   1   6/9
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  17:37   0  1   -3   0   1   0   1   1   0/0Michael Kesselring D  15:32   0  0    0   2   0   0   0   2   0/0Maveric Lamoureux D  14:49   0  0   -2   1   0   2   1   1   0/0Olli Maatta D  17:12   0  0   -1   1   3   0   0   2   0/0Mikhail Sergachev D  25:04   0  0   -1   1   0   0   4   2   0/0Juuso Valimaki D  17:16   0  0    0   0   0   2   0   1   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ian Cole D
+17:37   0  1   -3   0   1   0   1   1   0/0
+Michael Kesselring D
+15:32   0  0    0   2   0   0   0   2   0/0
+Maveric Lamoureux D
+14:49   0  0   -2   1   0   2   1   1   0/0
+Olli Maatta D
+17:12   0  0   -1   1   3   0   0   2   0/0
+Mikhail Sergachev D
+25:04   0  0   -1   1   0   0   4   2   0/0
+Juuso Valimaki D
+17:16   0  0    0   0   0   2   0   1   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       26  10  13   9  19 30/57
+                                        52.6%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  25:38   4   9/13    2/5   4/5   3/3     0
+              .692   .400  .800 1.000 Karel Vejmelka G  34:22   2   9/11   9/11   0/0   0/0     0
+              .818   .818
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+25:38   4   9/13    2/5   4/5   3/3     0
+              .692   .400  .800 1.000
+Karel Vejmelka G
+34:22   2   9/11   9/11   0/0   0/0     0
+              .818   .818
+Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          6  18/24  11/16   4/5   3/3     0
+              .750   .688  .800 1.000
+Hockey Club Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

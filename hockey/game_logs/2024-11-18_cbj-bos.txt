@@ -1,0 +1,457 @@
+< Nov. 18 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Columbus
+Blue Jackets7-9-2Final5 - 1Boston
+Bruins8-9-3
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CBJ   3  0  2    5  
+BOS   0  1  0    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:48 
+Mathieu Olivier (CBJ) fighting against Jeffrey Viel (5 minutes)
+   0-0
+P1  17:48 
+Jeffrey Viel (BOS) fighting against Mathieu Olivier (5 minutes)
+   0-0
+P1  14:43 
+Dmitri Voronkov (CBJ) scores on backhand shot past Jeremy Swayman, assisted by Sean Monahan and Dante Fabbro
+   1-0
+P1  11:19 
+Zach Werenski (CBJ) hooking against Tyler Johnson (2 minutes)
+   1-0
+P1  09:21 
+Mathieu Olivier (CBJ) scores short-handed goal on backhand shot past Jeremy Swayman
+   2-0
+P1  07:07 
+Jeffrey Viel (BOS) boarding against David Jiricek (2 minutes)
+   2-0
+P1  07:07 
+Mathieu Olivier (CBJ) roughing (removing opponent's helmet) against Jeffrey Viel (2 minutes)
+   2-0
+P1  00:32 
+James van Riemsdyk (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Zach Werenski and Adam Fantilli
+   3-0
+2nd Period: ShowHide
+P2  19:52 
+Charlie McAvoy (BOS) interference against Kirill Marchenko (2 minutes)
+   3-0
+P2  18:27 
+Kirill Marchenko (CBJ) tripping against Pavel Zacha (2 minutes)
+   3-0
+P2  13:09 
+Dante Fabbro (CBJ) tripping against Brad Marchand (2 minutes)
+   3-0
+P2  06:54 
+Ivan Provorov (CBJ) interference against Charlie Coyle (2 minutes)
+   3-0
+P2  05:30 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Justin Brazeau and Mason Lohrei
+   3-1
+P2  01:24 
+Dmitri Voronkov (CBJ) high-sticking against Jeffrey Viel (2 minutes)
+   3-1
+P2  00:15 
+Charlie McAvoy (BOS) holding against Sean Monahan (2 minutes)
+   3-1
+3rd Period: ShowHide
+P3  13:02 
+Mathieu Olivier (CBJ) interference against Georgii Merkulov (2 minutes)
+   3-1
+P3  12:41 
+Justin Danforth (CBJ) scores short-handed goal on wrist shot past Jeremy Swayman, assisted by Cole Sillinger
+   4-1
+P3  05:50 
+Yegor Chinakhov (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Sean Monahan
+   5-1
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  14:06   0  0    0   3   2   0   0   1   0/0Yegor Chinakhov R  12:44   1  0    1   1   1   0   0   1   0/0Justin Danforth R  16:31   1  0    1   1   2   0   0   0  8/14Adam Fantilli C  15:18   0  1    2   2   1   0   0   1   4/9Sean Kuraly C  11:19   0  0    0   1   0   0   0   0   1/4Kevin Labanc R  10:45   0  0    1   0   1   0   0   1   0/1Kirill Marchenko R  15:53   0  0    2   3   1   2   0   0   0/1Sean Monahan C  18:49   0  2    2   6   0   0   0   2 10/16Mathieu Olivier R  12:19   1  0    1   1   1   9   0   0   0/0Cole Sillinger C  17:12   0  1    1   1   1   0   1   1  7/13Dmitri Voronkov L  13:41   1  0    1   1   0   2   0   0   0/1James van Riemsdyk L  09:56   1  0    1   3   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  10:02   0  0    0   0   1   0   0   1   0/0Dante Fabbro D  22:09   0  1    2   2   2   2   0   3   0/0David Jiricek D  08:14   0  0    0   0   1   0   0   0   0/0Ivan Provorov D  25:07   0  0    4   1   0   2   0   3   0/0Damon Severson D  26:47   0  0    3   0   5   0   0   2   0/0Zach Werenski D  25:44   0  1    1   3   2   2   0   0   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       29  21  19   1  16 30/59
+                                        50.8%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  60:00   1  28/29  24/24   4/5   0/0     0
+              .966  1.000  .800 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:53   0  0    0   0   0   0   0   0   4/9Justin Brazeau R  13:12   0  1   -3   3   0   0   0   1   0/1Charlie Coyle C  16:43   1  0   -2   4   1   0   0   4  6/13Trent Frederic C  15:36   0  0    0   2   0   0   1   0   1/3Morgan Geekie C  10:58   0  0   -3   3   0   0   1   0   1/4Tyler Johnson C  14:29   0  0    0   3   1   0   0   0   3/5Elias Lindholm C  20:30   0  0   -1   2   1   0   0   1  7/15Brad Marchand L  20:20   0  0   -1   3   0   0   1   0   0/0Georgii Merkulov C  15:20   0  0   -3   2   0   0   0   1   0/1David Pastrnak R  17:56   0  0   -2   0   1   0   0   1   0/0Jeffrey Viel L  08:29   0  0    0   0   0   7   0   2   0/0Pavel Zacha C  17:27   0  0   -2   0   0   0   1   1   7/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  15:21   0  0   -2   0   4   0   0   0   0/0Mason Lohrei D  16:55   0  1   -4   0   0   0   3   2   0/0Charlie McAvoy D  24:40   0  0   -1   3   2   4   0   0   0/0Jordan Oesterle D  16:53   0  0   -1   1   1   0   0   1   0/0Andrew Peeke D  18:55   0  0    0   2   0   0   0   2   0/0Nikita Zadorov D  18:59   0  0    0   1   0   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       29  11  11   7  17 29/59
+                                        49.2%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:24   5  24/29  21/24   1/1   2/4     0
+              .828   .875 1.000  .500
+Columbus
+Blue Jackets7-9-2Final5 - 1Boston
+Bruins8-9-3
+Columbus
+Blue Jackets7-9-2
+Final5 - 1
+Boston
+Bruins8-9-3
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CBJ   3  0  2    5  
+BOS   0  1  0    1
+1st Period: ShowHide
+P1  17:48 
+Mathieu Olivier (CBJ) fighting against Jeffrey Viel (5 minutes)
+   0-0
+P1  17:48 
+Jeffrey Viel (BOS) fighting against Mathieu Olivier (5 minutes)
+   0-0
+P1  14:43 
+Dmitri Voronkov (CBJ) scores on backhand shot past Jeremy Swayman, assisted by Sean Monahan and Dante Fabbro
+   1-0
+P1  11:19 
+Zach Werenski (CBJ) hooking against Tyler Johnson (2 minutes)
+   1-0
+P1  09:21 
+Mathieu Olivier (CBJ) scores short-handed goal on backhand shot past Jeremy Swayman
+   2-0
+P1  07:07 
+Jeffrey Viel (BOS) boarding against David Jiricek (2 minutes)
+   2-0
+P1  07:07 
+Mathieu Olivier (CBJ) roughing (removing opponent's helmet) against Jeffrey Viel (2 minutes)
+   2-0
+P1  00:32 
+James van Riemsdyk (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Zach Werenski and Adam Fantilli
+   3-0
+2nd Period: ShowHide
+P2  19:52 
+Charlie McAvoy (BOS) interference against Kirill Marchenko (2 minutes)
+   3-0
+P2  18:27 
+Kirill Marchenko (CBJ) tripping against Pavel Zacha (2 minutes)
+   3-0
+P2  13:09 
+Dante Fabbro (CBJ) tripping against Brad Marchand (2 minutes)
+   3-0
+P2  06:54 
+Ivan Provorov (CBJ) interference against Charlie Coyle (2 minutes)
+   3-0
+P2  05:30 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Justin Brazeau and Mason Lohrei
+   3-1
+P2  01:24 
+Dmitri Voronkov (CBJ) high-sticking against Jeffrey Viel (2 minutes)
+   3-1
+P2  00:15 
+Charlie McAvoy (BOS) holding against Sean Monahan (2 minutes)
+   3-1
+3rd Period: ShowHide
+P3  13:02 
+Mathieu Olivier (CBJ) interference against Georgii Merkulov (2 minutes)
+   3-1
+P3  12:41 
+Justin Danforth (CBJ) scores short-handed goal on wrist shot past Jeremy Swayman, assisted by Cole Sillinger
+   4-1
+P3  05:50 
+Yegor Chinakhov (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Sean Monahan
+   5-1
+1st Period: ShowHide
+P1  17:48 
+Mathieu Olivier (CBJ) fighting against Jeffrey Viel (5 minutes)
+   0-0
+P1  17:48 
+Jeffrey Viel (BOS) fighting against Mathieu Olivier (5 minutes)
+   0-0
+P1  14:43 
+Dmitri Voronkov (CBJ) scores on backhand shot past Jeremy Swayman, assisted by Sean Monahan and Dante Fabbro
+   1-0
+P1  11:19 
+Zach Werenski (CBJ) hooking against Tyler Johnson (2 minutes)
+   1-0
+P1  09:21 
+Mathieu Olivier (CBJ) scores short-handed goal on backhand shot past Jeremy Swayman
+   2-0
+P1  07:07 
+Jeffrey Viel (BOS) boarding against David Jiricek (2 minutes)
+   2-0
+P1  07:07 
+Mathieu Olivier (CBJ) roughing (removing opponent's helmet) against Jeffrey Viel (2 minutes)
+   2-0
+P1  00:32 
+James van Riemsdyk (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Zach Werenski and Adam Fantilli
+   3-0
+P1  17:48 
+Mathieu Olivier (CBJ) fighting against Jeffrey Viel (5 minutes)
+   0-0
+P1  17:48 
+Jeffrey Viel (BOS) fighting against Mathieu Olivier (5 minutes)
+   0-0
+P1  14:43 
+Dmitri Voronkov (CBJ) scores on backhand shot past Jeremy Swayman, assisted by Sean Monahan and Dante Fabbro
+   1-0
+P1  11:19 
+Zach Werenski (CBJ) hooking against Tyler Johnson (2 minutes)
+   1-0
+P1  09:21 
+Mathieu Olivier (CBJ) scores short-handed goal on backhand shot past Jeremy Swayman
+   2-0
+P1  07:07 
+Jeffrey Viel (BOS) boarding against David Jiricek (2 minutes)
+   2-0
+P1  07:07 
+Mathieu Olivier (CBJ) roughing (removing opponent's helmet) against Jeffrey Viel (2 minutes)
+   2-0
+P1  00:32 
+James van Riemsdyk (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Zach Werenski and Adam Fantilli
+   3-0
+P1  17:48
+Mathieu Olivier (CBJ) fighting against Jeffrey Viel (5 minutes)
+0-0
+P1  17:48
+Jeffrey Viel (BOS) fighting against Mathieu Olivier (5 minutes)
+0-0
+P1  14:43
+Dmitri Voronkov (CBJ) scores on backhand shot past Jeremy Swayman, assisted by Sean Monahan and Dante Fabbro
+1-0
+P1  11:19
+Zach Werenski (CBJ) hooking against Tyler Johnson (2 minutes)
+1-0
+P1  09:21
+Mathieu Olivier (CBJ) scores short-handed goal on backhand shot past Jeremy Swayman
+2-0
+P1  07:07
+Jeffrey Viel (BOS) boarding against David Jiricek (2 minutes)
+2-0
+P1  07:07
+Mathieu Olivier (CBJ) roughing (removing opponent's helmet) against Jeffrey Viel (2 minutes)
+2-0
+P1  00:32
+James van Riemsdyk (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Zach Werenski and Adam Fantilli
+3-0
+2nd Period: ShowHide
+P2  19:52 
+Charlie McAvoy (BOS) interference against Kirill Marchenko (2 minutes)
+   3-0
+P2  18:27 
+Kirill Marchenko (CBJ) tripping against Pavel Zacha (2 minutes)
+   3-0
+P2  13:09 
+Dante Fabbro (CBJ) tripping against Brad Marchand (2 minutes)
+   3-0
+P2  06:54 
+Ivan Provorov (CBJ) interference against Charlie Coyle (2 minutes)
+   3-0
+P2  05:30 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Justin Brazeau and Mason Lohrei
+   3-1
+P2  01:24 
+Dmitri Voronkov (CBJ) high-sticking against Jeffrey Viel (2 minutes)
+   3-1
+P2  00:15 
+Charlie McAvoy (BOS) holding against Sean Monahan (2 minutes)
+   3-1
+P2  19:52 
+Charlie McAvoy (BOS) interference against Kirill Marchenko (2 minutes)
+   3-0
+P2  18:27 
+Kirill Marchenko (CBJ) tripping against Pavel Zacha (2 minutes)
+   3-0
+P2  13:09 
+Dante Fabbro (CBJ) tripping against Brad Marchand (2 minutes)
+   3-0
+P2  06:54 
+Ivan Provorov (CBJ) interference against Charlie Coyle (2 minutes)
+   3-0
+P2  05:30 
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Justin Brazeau and Mason Lohrei
+   3-1
+P2  01:24 
+Dmitri Voronkov (CBJ) high-sticking against Jeffrey Viel (2 minutes)
+   3-1
+P2  00:15 
+Charlie McAvoy (BOS) holding against Sean Monahan (2 minutes)
+   3-1
+P2  19:52
+Charlie McAvoy (BOS) interference against Kirill Marchenko (2 minutes)
+3-0
+P2  18:27
+Kirill Marchenko (CBJ) tripping against Pavel Zacha (2 minutes)
+3-0
+P2  13:09
+Dante Fabbro (CBJ) tripping against Brad Marchand (2 minutes)
+3-0
+P2  06:54
+Ivan Provorov (CBJ) interference against Charlie Coyle (2 minutes)
+3-0
+P2  05:30
+Charlie Coyle (BOS) scores power-play goal on wrist shot past Elvis Merzlikins, assisted by Justin Brazeau and Mason Lohrei
+3-1
+P2  01:24
+Dmitri Voronkov (CBJ) high-sticking against Jeffrey Viel (2 minutes)
+3-1
+P2  00:15
+Charlie McAvoy (BOS) holding against Sean Monahan (2 minutes)
+3-1
+3rd Period: ShowHide
+P3  13:02 
+Mathieu Olivier (CBJ) interference against Georgii Merkulov (2 minutes)
+   3-1
+P3  12:41 
+Justin Danforth (CBJ) scores short-handed goal on wrist shot past Jeremy Swayman, assisted by Cole Sillinger
+   4-1
+P3  05:50 
+Yegor Chinakhov (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Sean Monahan
+   5-1
+P3  13:02 
+Mathieu Olivier (CBJ) interference against Georgii Merkulov (2 minutes)
+   3-1
+P3  12:41 
+Justin Danforth (CBJ) scores short-handed goal on wrist shot past Jeremy Swayman, assisted by Cole Sillinger
+   4-1
+P3  05:50 
+Yegor Chinakhov (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Sean Monahan
+   5-1
+P3  13:02
+Mathieu Olivier (CBJ) interference against Georgii Merkulov (2 minutes)
+3-1
+P3  12:41
+Justin Danforth (CBJ) scores short-handed goal on wrist shot past Jeremy Swayman, assisted by Cole Sillinger
+4-1
+P3  05:50
+Yegor Chinakhov (CBJ) scores on wrist shot past Jeremy Swayman, assisted by Sean Monahan
+5-1
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  14:06   0  0    0   3   2   0   0   1   0/0Yegor Chinakhov R  12:44   1  0    1   1   1   0   0   1   0/0Justin Danforth R  16:31   1  0    1   1   2   0   0   0  8/14Adam Fantilli C  15:18   0  1    2   2   1   0   0   1   4/9Sean Kuraly C  11:19   0  0    0   1   0   0   0   0   1/4Kevin Labanc R  10:45   0  0    1   0   1   0   0   1   0/1Kirill Marchenko R  15:53   0  0    2   3   1   2   0   0   0/1Sean Monahan C  18:49   0  2    2   6   0   0   0   2 10/16Mathieu Olivier R  12:19   1  0    1   1   1   9   0   0   0/0Cole Sillinger C  17:12   0  1    1   1   1   0   1   1  7/13Dmitri Voronkov L  13:41   1  0    1   1   0   2   0   0   0/1James van Riemsdyk L  09:56   1  0    1   3   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  10:02   0  0    0   0   1   0   0   1   0/0Dante Fabbro D  22:09   0  1    2   2   2   2   0   3   0/0David Jiricek D  08:14   0  0    0   0   1   0   0   0   0/0Ivan Provorov D  25:07   0  0    4   1   0   2   0   3   0/0Damon Severson D  26:47   0  0    3   0   5   0   0   2   0/0Zach Werenski D  25:44   0  1    1   3   2   2   0   0   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       29  21  19   1  16 30/59
+                                        50.8%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  60:00   1  28/29  24/24   4/5   0/0     0
+              .966  1.000  .800 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:53   0  0    0   0   0   0   0   0   4/9Justin Brazeau R  13:12   0  1   -3   3   0   0   0   1   0/1Charlie Coyle C  16:43   1  0   -2   4   1   0   0   4  6/13Trent Frederic C  15:36   0  0    0   2   0   0   1   0   1/3Morgan Geekie C  10:58   0  0   -3   3   0   0   1   0   1/4Tyler Johnson C  14:29   0  0    0   3   1   0   0   0   3/5Elias Lindholm C  20:30   0  0   -1   2   1   0   0   1  7/15Brad Marchand L  20:20   0  0   -1   3   0   0   1   0   0/0Georgii Merkulov C  15:20   0  0   -3   2   0   0   0   1   0/1David Pastrnak R  17:56   0  0   -2   0   1   0   0   1   0/0Jeffrey Viel L  08:29   0  0    0   0   0   7   0   2   0/0Pavel Zacha C  17:27   0  0   -2   0   0   0   1   1   7/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  15:21   0  0   -2   0   4   0   0   0   0/0Mason Lohrei D  16:55   0  1   -4   0   0   0   3   2   0/0Charlie McAvoy D  24:40   0  0   -1   3   2   4   0   0   0/0Jordan Oesterle D  16:53   0  0   -1   1   1   0   0   1   0/0Andrew Peeke D  18:55   0  0    0   2   0   0   0   2   0/0Nikita Zadorov D  18:59   0  0    0   1   0   0   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       29  11  11   7  17 29/59
+                                        49.2%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:24   5  24/29  21/24   1/1   2/4     0
+              .828   .875 1.000  .500
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  14:06   0  0    0   3   2   0   0   1   0/0Yegor Chinakhov R  12:44   1  0    1   1   1   0   0   1   0/0Justin Danforth R  16:31   1  0    1   1   2   0   0   0  8/14Adam Fantilli C  15:18   0  1    2   2   1   0   0   1   4/9Sean Kuraly C  11:19   0  0    0   1   0   0   0   0   1/4Kevin Labanc R  10:45   0  0    1   0   1   0   0   1   0/1Kirill Marchenko R  15:53   0  0    2   3   1   2   0   0   0/1Sean Monahan C  18:49   0  2    2   6   0   0   0   2 10/16Mathieu Olivier R  12:19   1  0    1   1   1   9   0   0   0/0Cole Sillinger C  17:12   0  1    1   1   1   0   1   1  7/13Dmitri Voronkov L  13:41   1  0    1   1   0   2   0   0   0/1James van Riemsdyk L  09:56   1  0    1   3   0   0   0   0   0/0
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zachary Aston-Reese C
+14:06   0  0    0   3   2   0   0   1   0/0
+Yegor Chinakhov R
+12:44   1  0    1   1   1   0   0   1   0/0
+Justin Danforth R
+16:31   1  0    1   1   2   0   0   0  8/14
+Adam Fantilli C
+15:18   0  1    2   2   1   0   0   1   4/9
+Sean Kuraly C
+11:19   0  0    0   1   0   0   0   0   1/4
+Kevin Labanc R
+10:45   0  0    1   0   1   0   0   1   0/1
+Kirill Marchenko R
+15:53   0  0    2   3   1   2   0   0   0/1
+Sean Monahan C
+18:49   0  2    2   6   0   0   0   2 10/16
+Mathieu Olivier R
+12:19   1  0    1   1   1   9   0   0   0/0
+Cole Sillinger C
+17:12   0  1    1   1   1   0   1   1  7/13
+Dmitri Voronkov L
+13:41   1  0    1   1   0   2   0   0   0/1
+James van Riemsdyk L
+09:56   1  0    1   3   0   0   0   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  10:02   0  0    0   0   1   0   0   1   0/0Dante Fabbro D  22:09   0  1    2   2   2   2   0   3   0/0David Jiricek D  08:14   0  0    0   0   1   0   0   0   0/0Ivan Provorov D  25:07   0  0    4   1   0   2   0   3   0/0Damon Severson D  26:47   0  0    3   0   5   0   0   2   0/0Zach Werenski D  25:44   0  1    1   3   2   2   0   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+10:02   0  0    0   0   1   0   0   1   0/0
+Dante Fabbro D
+22:09   0  1    2   2   2   2   0   3   0/0
+David Jiricek D
+08:14   0  0    0   0   1   0   0   0   0/0
+Ivan Provorov D
+25:07   0  0    4   1   0   2   0   3   0/0
+Damon Severson D
+26:47   0  0    3   0   5   0   0   2   0/0
+Zach Werenski D
+25:44   0  1    1   3   2   2   0   0   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          5  6       29  21  19   1  16 30/59
+                                        50.8%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  60:00   1  28/29  24/24   4/5   0/0     0
+              .966  1.000  .800
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Elvis Merzlikins G
+60:00   1  28/29  24/24   4/5   0/0     0
+              .966  1.000  .800
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  11:53   0  0    0   0   0   0   0   0   4/9Justin Brazeau R  13:12   0  1   -3   3   0   0   0   1   0/1Charlie Coyle C  16:43   1  0   -2   4   1   0   0   4  6/13Trent Frederic C  15:36   0  0    0   2   0   0   1   0   1/3Morgan Geekie C  10:58   0  0   -3   3   0   0   1   0   1/4Tyler Johnson C  14:29   0  0    0   3   1   0   0   0   3/5Elias Lindholm C  20:30   0  0   -1   2   1   0   0   1  7/15Brad Marchand L  20:20   0  0   -1   3   0   0   1   0   0/0Georgii Merkulov C  15:20   0  0   -3   2   0   0   0   1   0/1David Pastrnak R  17:56   0  0   -2   0   1   0   0   1   0/0Jeffrey Viel L  08:29   0  0    0   0   0   7   0   2   0/0Pavel Zacha C  17:27   0  0   -2   0   0   0   1   1   7/8
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+11:53   0  0    0   0   0   0   0   0   4/9
+Justin Brazeau R
+13:12   0  1   -3   3   0   0   0   1   0/1
+Charlie Coyle C
+16:43   1  0   -2   4   1   0   0   4  6/13
+Trent Frederic C
+15:36   0  0    0   2   0   0   1   0   1/3
+Morgan Geekie C
+10:58   0  0   -3   3   0   0   1   0   1/4
+Tyler Johnson C
+14:29   0  0    0   3   1   0   0   0   3/5
+Elias Lindholm C
+20:30   0  0   -1   2   1   0   0   1  7/15
+Brad Marchand L
+20:20   0  0   -1   3   0   0   1   0   0/0
+Georgii Merkulov C
+15:20   0  0   -3   2   0   0   0   1   0/1
+David Pastrnak R
+17:56   0  0   -2   0   1   0   0   1   0/0
+Jeffrey Viel L
+08:29   0  0    0   0   0   7   0   2   0/0
+Pavel Zacha C
+17:27   0  0   -2   0   0   0   1   1   7/8
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  15:21   0  0   -2   0   4   0   0   0   0/0Mason Lohrei D  16:55   0  1   -4   0   0   0   3   2   0/0Charlie McAvoy D  24:40   0  0   -1   3   2   4   0   0   0/0Jordan Oesterle D  16:53   0  0   -1   1   1   0   0   1   0/0Andrew Peeke D  18:55   0  0    0   2   0   0   0   2   0/0Nikita Zadorov D  18:59   0  0    0   1   0   0   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+15:21   0  0   -2   0   4   0   0   0   0/0
+Mason Lohrei D
+16:55   0  1   -4   0   0   0   3   2   0/0
+Charlie McAvoy D
+24:40   0  0   -1   3   2   4   0   0   0/0
+Jordan Oesterle D
+16:53   0  0   -1   1   1   0   0   1   0/0
+Andrew Peeke D
+18:55   0  0    0   2   0   0   0   2   0/0
+Nikita Zadorov D
+18:59   0  0    0   1   0   0   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       29  11  11   7  17 29/59
+                                        49.2%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  59:24   5  24/29  21/24   1/1   2/4     0
+              .828   .875 1.000  .500
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+59:24   5  24/29  21/24   1/1   2/4     0
+              .828   .875 1.000  .500
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .
