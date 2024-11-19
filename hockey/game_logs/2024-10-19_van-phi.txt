@@ -1,0 +1,322 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Vancouver
+Canucks2-1-2Final3 - 0Philadelphia
+Flyers1-3-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+VAN   1  2  0    3  
+PHI   0  0  0    0
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:51 
+Garnet Hathaway (PHI) high-sticking against J.T. Miller (2 minutes)
+   0-0
+P1  07:10 
+Elias Pettersson (VAN) tripping against Ryan Poehling (2 minutes)
+   0-0
+P1  03:51 
+Nils Hoglander (VAN) scores on wrist shot past Samuel Ersson, assisted by Elias Pettersson and Conor Garland
+   1-0
+P1  03:05 
+Brock Boeser (VAN) high-sticking against Garnet Hathaway (4 minutes), served by Daniel Sprong
+   1-0
+P1  03:05 
+Garnet Hathaway (PHI) tripping against Brock Boeser (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  11:20 
+Brock Boeser (VAN) scores on backhand shot past Samuel Ersson, assisted by Tyler Myers and Jake DeBrusk
+   2-0
+P2  10:30 
+Kiefer Sherwood (VAN) scores on wrist shot past Samuel Ersson, assisted by Teddy Blueger
+   3-0
+P2  00:00 
+Garnet Hathaway (PHI) roughing against Conor Garland (2 minutes)
+   3-0
+3rd Period: ShowHide
+P3  15:08 
+Kiefer Sherwood (VAN) holding against Sean Couturier (2 minutes)
+   3-0
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONils Aman C  09:31   0  0    0   1   0   0   0   0   2/4Teddy Blueger C  15:51   0  1    1   0   0   0   0   1 12/24Brock Boeser R  15:09   1  0    1   2   2   4   1   1   3/7Jake DeBrusk L  16:55   0  1    1   0   0   0   0   1   0/2Conor Garland R  18:26   0  1    1   2   2   0   0   1   0/0Danton Heinen L  13:50   0  0    1   3   0   0   0   0   0/0Nils Hoglander L  15:20   1  0    1   1   0   0   0   1   0/0J.T. Miller C  17:01   0  0    1   1   0   0   0   0   1/2Elias Pettersson C  18:41   0  1    1   2   0   2   1   3  9/15Kiefer Sherwood L  11:52   1  0    1   5   1   2   0   1   0/0Daniel Sprong R  11:41   0  0    0   4   0   0   0   0   0/0Pius Suter C  13:02   0  0    0   2   0   0   1   0   1/3Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  14:16   0  0    1   0   0   0   0   0   0/0Vincent Desharnais D  16:34   0  0    0   0   1   0   0   0   0/0Filip Hronek D  21:38   0  0    2   0   0   0   1   1   0/0Quinn Hughes D  21:36   0  0    1   4   0   0   0   2   0/0Tyler Myers D  22:30   0  1    1   3   3   0   0   0   0/0Carson Soucy D  20:14   0  0    1   2   1   0   0   2   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  10   8   4  14 28/57
+                                        49.1%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  59:53   0  26/26  21/21   3/3   2/2     0
+             1.000  1.000 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  11:38   0  0    0   1   0   0   0   0   0/0Sean Couturier C  15:58   0  0    0   2   0   0   0   0   5/7Joel Farabee L  14:51   0  0   -2   3   1   0   0   1   1/1Tyson Foerster R  13:59   0  0    0   1   0   0   0   0   0/0Morgan Frost C  18:25   0  0   -1   4   1   0   0   2 10/19Garnet Hathaway R  12:24   0  0    0   0   0   6   0   2   0/0Travis Konecny R  20:19   0  0   -2   1   2   0   0   1   1/3Scott Laughton C  15:54   0  0   -2   0   1   0   0   0  3/11Jett Luchanko C  12:23   0  0    0   0   0   0   0   0   3/5Matvei Michkov R  15:49   0  0   -1   1   0   0   0   3   0/0Ryan Poehling C  13:54   0  0    0   0   1   0   0   1  5/10Owen Tippett R  16:26   0  0   -1   4   0   0   0   1   1/1Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  20:50   0  0   -1   1   2   0   0   1   0/0Erik Johnson D  14:08   0  0   -1   0   0   0   0   2   0/0Rasmus Ristolainen D  13:28   0  0   -1   0   3   0   0   2   0/0Travis Sanheim D  22:14   0  0   -1   5   0   0   1   1   0/0Cam York D  22:24   0  0   -1   2   1   0   0   0   0/0Egor Zamula D  21:18   0  0   -1   1   0   0   0   1   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       26  12   6   1  18 29/57
+                                        50.9%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:38   3  29/32  28/31   0/0   1/1     0
+              .906   .903  1.000
+Vancouver
+Canucks2-1-2Final3 - 0Philadelphia
+Flyers1-3-1
+Vancouver
+Canucks2-1-2
+Final3 - 0
+Philadelphia
+Flyers1-3-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+VAN   1  2  0    3  
+PHI   0  0  0    0
+1st Period: ShowHide
+P1  13:51 
+Garnet Hathaway (PHI) high-sticking against J.T. Miller (2 minutes)
+   0-0
+P1  07:10 
+Elias Pettersson (VAN) tripping against Ryan Poehling (2 minutes)
+   0-0
+P1  03:51 
+Nils Hoglander (VAN) scores on wrist shot past Samuel Ersson, assisted by Elias Pettersson and Conor Garland
+   1-0
+P1  03:05 
+Brock Boeser (VAN) high-sticking against Garnet Hathaway (4 minutes), served by Daniel Sprong
+   1-0
+P1  03:05 
+Garnet Hathaway (PHI) tripping against Brock Boeser (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  11:20 
+Brock Boeser (VAN) scores on backhand shot past Samuel Ersson, assisted by Tyler Myers and Jake DeBrusk
+   2-0
+P2  10:30 
+Kiefer Sherwood (VAN) scores on wrist shot past Samuel Ersson, assisted by Teddy Blueger
+   3-0
+P2  00:00 
+Garnet Hathaway (PHI) roughing against Conor Garland (2 minutes)
+   3-0
+3rd Period: ShowHide
+P3  15:08 
+Kiefer Sherwood (VAN) holding against Sean Couturier (2 minutes)
+   3-0
+1st Period: ShowHide
+P1  13:51 
+Garnet Hathaway (PHI) high-sticking against J.T. Miller (2 minutes)
+   0-0
+P1  07:10 
+Elias Pettersson (VAN) tripping against Ryan Poehling (2 minutes)
+   0-0
+P1  03:51 
+Nils Hoglander (VAN) scores on wrist shot past Samuel Ersson, assisted by Elias Pettersson and Conor Garland
+   1-0
+P1  03:05 
+Brock Boeser (VAN) high-sticking against Garnet Hathaway (4 minutes), served by Daniel Sprong
+   1-0
+P1  03:05 
+Garnet Hathaway (PHI) tripping against Brock Boeser (2 minutes)
+   1-0
+P1  13:51 
+Garnet Hathaway (PHI) high-sticking against J.T. Miller (2 minutes)
+   0-0
+P1  07:10 
+Elias Pettersson (VAN) tripping against Ryan Poehling (2 minutes)
+   0-0
+P1  03:51 
+Nils Hoglander (VAN) scores on wrist shot past Samuel Ersson, assisted by Elias Pettersson and Conor Garland
+   1-0
+P1  03:05 
+Brock Boeser (VAN) high-sticking against Garnet Hathaway (4 minutes), served by Daniel Sprong
+   1-0
+P1  03:05 
+Garnet Hathaway (PHI) tripping against Brock Boeser (2 minutes)
+   1-0
+P1  13:51
+Garnet Hathaway (PHI) high-sticking against J.T. Miller (2 minutes)
+0-0
+P1  07:10
+Elias Pettersson (VAN) tripping against Ryan Poehling (2 minutes)
+0-0
+P1  03:51
+Nils Hoglander (VAN) scores on wrist shot past Samuel Ersson, assisted by Elias Pettersson and Conor Garland
+1-0
+P1  03:05
+Brock Boeser (VAN) high-sticking against Garnet Hathaway (4 minutes), served by Daniel Sprong
+1-0
+P1  03:05
+Garnet Hathaway (PHI) tripping against Brock Boeser (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  11:20 
+Brock Boeser (VAN) scores on backhand shot past Samuel Ersson, assisted by Tyler Myers and Jake DeBrusk
+   2-0
+P2  10:30 
+Kiefer Sherwood (VAN) scores on wrist shot past Samuel Ersson, assisted by Teddy Blueger
+   3-0
+P2  00:00 
+Garnet Hathaway (PHI) roughing against Conor Garland (2 minutes)
+   3-0
+P2  11:20 
+Brock Boeser (VAN) scores on backhand shot past Samuel Ersson, assisted by Tyler Myers and Jake DeBrusk
+   2-0
+P2  10:30 
+Kiefer Sherwood (VAN) scores on wrist shot past Samuel Ersson, assisted by Teddy Blueger
+   3-0
+P2  00:00 
+Garnet Hathaway (PHI) roughing against Conor Garland (2 minutes)
+   3-0
+P2  11:20
+Brock Boeser (VAN) scores on backhand shot past Samuel Ersson, assisted by Tyler Myers and Jake DeBrusk
+2-0
+P2  10:30
+Kiefer Sherwood (VAN) scores on wrist shot past Samuel Ersson, assisted by Teddy Blueger
+3-0
+P2  00:00
+Garnet Hathaway (PHI) roughing against Conor Garland (2 minutes)
+3-0
+3rd Period: ShowHide
+P3  15:08 
+Kiefer Sherwood (VAN) holding against Sean Couturier (2 minutes)
+   3-0
+P3  15:08 
+Kiefer Sherwood (VAN) holding against Sean Couturier (2 minutes)
+   3-0
+P3  15:08
+Kiefer Sherwood (VAN) holding against Sean Couturier (2 minutes)
+3-0
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONils Aman C  09:31   0  0    0   1   0   0   0   0   2/4Teddy Blueger C  15:51   0  1    1   0   0   0   0   1 12/24Brock Boeser R  15:09   1  0    1   2   2   4   1   1   3/7Jake DeBrusk L  16:55   0  1    1   0   0   0   0   1   0/2Conor Garland R  18:26   0  1    1   2   2   0   0   1   0/0Danton Heinen L  13:50   0  0    1   3   0   0   0   0   0/0Nils Hoglander L  15:20   1  0    1   1   0   0   0   1   0/0J.T. Miller C  17:01   0  0    1   1   0   0   0   0   1/2Elias Pettersson C  18:41   0  1    1   2   0   2   1   3  9/15Kiefer Sherwood L  11:52   1  0    1   5   1   2   0   1   0/0Daniel Sprong R  11:41   0  0    0   4   0   0   0   0   0/0Pius Suter C  13:02   0  0    0   2   0   0   1   0   1/3Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  14:16   0  0    1   0   0   0   0   0   0/0Vincent Desharnais D  16:34   0  0    0   0   1   0   0   0   0/0Filip Hronek D  21:38   0  0    2   0   0   0   1   1   0/0Quinn Hughes D  21:36   0  0    1   4   0   0   0   2   0/0Tyler Myers D  22:30   0  1    1   3   3   0   0   0   0/0Carson Soucy D  20:14   0  0    1   2   1   0   0   2   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  10   8   4  14 28/57
+                                        49.1%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  59:53   0  26/26  21/21   3/3   2/2     0
+             1.000  1.000 1.000 1.000 
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  11:38   0  0    0   1   0   0   0   0   0/0Sean Couturier C  15:58   0  0    0   2   0   0   0   0   5/7Joel Farabee L  14:51   0  0   -2   3   1   0   0   1   1/1Tyson Foerster R  13:59   0  0    0   1   0   0   0   0   0/0Morgan Frost C  18:25   0  0   -1   4   1   0   0   2 10/19Garnet Hathaway R  12:24   0  0    0   0   0   6   0   2   0/0Travis Konecny R  20:19   0  0   -2   1   2   0   0   1   1/3Scott Laughton C  15:54   0  0   -2   0   1   0   0   0  3/11Jett Luchanko C  12:23   0  0    0   0   0   0   0   0   3/5Matvei Michkov R  15:49   0  0   -1   1   0   0   0   3   0/0Ryan Poehling C  13:54   0  0    0   0   1   0   0   1  5/10Owen Tippett R  16:26   0  0   -1   4   0   0   0   1   1/1Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  20:50   0  0   -1   1   2   0   0   1   0/0Erik Johnson D  14:08   0  0   -1   0   0   0   0   2   0/0Rasmus Ristolainen D  13:28   0  0   -1   0   3   0   0   2   0/0Travis Sanheim D  22:14   0  0   -1   5   0   0   1   1   0/0Cam York D  22:24   0  0   -1   2   1   0   0   0   0/0Egor Zamula D  21:18   0  0   -1   1   0   0   0   1   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       26  12   6   1  18 29/57
+                                        50.9%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:38   3  29/32  28/31   0/0   1/1     0
+              .906   .903  1.000
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONils Aman C  09:31   0  0    0   1   0   0   0   0   2/4Teddy Blueger C  15:51   0  1    1   0   0   0   0   1 12/24Brock Boeser R  15:09   1  0    1   2   2   4   1   1   3/7Jake DeBrusk L  16:55   0  1    1   0   0   0   0   1   0/2Conor Garland R  18:26   0  1    1   2   2   0   0   1   0/0Danton Heinen L  13:50   0  0    1   3   0   0   0   0   0/0Nils Hoglander L  15:20   1  0    1   1   0   0   0   1   0/0J.T. Miller C  17:01   0  0    1   1   0   0   0   0   1/2Elias Pettersson C  18:41   0  1    1   2   0   2   1   3  9/15Kiefer Sherwood L  11:52   1  0    1   5   1   2   0   1   0/0Daniel Sprong R  11:41   0  0    0   4   0   0   0   0   0/0Pius Suter C  13:02   0  0    0   2   0   0   1   0   1/3
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nils Aman C
+09:31   0  0    0   1   0   0   0   0   2/4
+Teddy Blueger C
+15:51   0  1    1   0   0   0   0   1 12/24
+Brock Boeser R
+15:09   1  0    1   2   2   4   1   1   3/7
+Jake DeBrusk L
+16:55   0  1    1   0   0   0   0   1   0/2
+Conor Garland R
+18:26   0  1    1   2   2   0   0   1   0/0
+Danton Heinen L
+13:50   0  0    1   3   0   0   0   0   0/0
+Nils Hoglander L
+15:20   1  0    1   1   0   0   0   1   0/0
+J.T. Miller C
+17:01   0  0    1   1   0   0   0   0   1/2
+Elias Pettersson C
+18:41   0  1    1   2   0   2   1   3  9/15
+Kiefer Sherwood L
+11:52   1  0    1   5   1   2   0   1   0/0
+Daniel Sprong R
+11:41   0  0    0   4   0   0   0   0   0/0
+Pius Suter C
+13:02   0  0    0   2   0   0   1   0   1/3
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  14:16   0  0    1   0   0   0   0   0   0/0Vincent Desharnais D  16:34   0  0    0   0   1   0   0   0   0/0Filip Hronek D  21:38   0  0    2   0   0   0   1   1   0/0Quinn Hughes D  21:36   0  0    1   4   0   0   0   2   0/0Tyler Myers D  22:30   0  1    1   3   3   0   0   0   0/0Carson Soucy D  20:14   0  0    1   2   1   0   0   2   0/0
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Brannstrom D
+14:16   0  0    1   0   0   0   0   0   0/0
+Vincent Desharnais D
+16:34   0  0    0   0   1   0   0   0   0/0
+Filip Hronek D
+21:38   0  0    2   0   0   0   1   1   0/0
+Quinn Hughes D
+21:36   0  0    1   4   0   0   0   2   0/0
+Tyler Myers D
+22:30   0  1    1   3   3   0   0   0   0/0
+Carson Soucy D
+20:14   0  0    1   2   1   0   0   2   0/0
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  10   8   4  14 28/57
+                                        49.1%
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  59:53   0  26/26  21/21   3/3   2/2     0
+             1.000  1.000 1.000 1.000
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Kevin Lankinen G
+59:53   0  26/26  21/21   3/3   2/2     0
+             1.000  1.000 1.000 1.000
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  11:38   0  0    0   1   0   0   0   0   0/0Sean Couturier C  15:58   0  0    0   2   0   0   0   0   5/7Joel Farabee L  14:51   0  0   -2   3   1   0   0   1   1/1Tyson Foerster R  13:59   0  0    0   1   0   0   0   0   0/0Morgan Frost C  18:25   0  0   -1   4   1   0   0   2 10/19Garnet Hathaway R  12:24   0  0    0   0   0   6   0   2   0/0Travis Konecny R  20:19   0  0   -2   1   2   0   0   1   1/3Scott Laughton C  15:54   0  0   -2   0   1   0   0   0  3/11Jett Luchanko C  12:23   0  0    0   0   0   0   0   0   3/5Matvei Michkov R  15:49   0  0   -1   1   0   0   0   3   0/0Ryan Poehling C  13:54   0  0    0   0   1   0   0   1  5/10Owen Tippett R  16:26   0  0   -1   4   0   0   0   1   1/1
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bobby Brink R
+11:38   0  0    0   1   0   0   0   0   0/0
+Sean Couturier C
+15:58   0  0    0   2   0   0   0   0   5/7
+Joel Farabee L
+14:51   0  0   -2   3   1   0   0   1   1/1
+Tyson Foerster R
+13:59   0  0    0   1   0   0   0   0   0/0
+Morgan Frost C
+18:25   0  0   -1   4   1   0   0   2 10/19
+Garnet Hathaway R
+12:24   0  0    0   0   0   6   0   2   0/0
+Travis Konecny R
+20:19   0  0   -2   1   2   0   0   1   1/3
+Scott Laughton C
+15:54   0  0   -2   0   1   0   0   0  3/11
+Jett Luchanko C
+12:23   0  0    0   0   0   0   0   0   3/5
+Matvei Michkov R
+15:49   0  0   -1   1   0   0   0   3   0/0
+Ryan Poehling C
+13:54   0  0    0   0   1   0   0   1  5/10
+Owen Tippett R
+16:26   0  0   -1   4   0   0   0   1   1/1
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  20:50   0  0   -1   1   2   0   0   1   0/0Erik Johnson D  14:08   0  0   -1   0   0   0   0   2   0/0Rasmus Ristolainen D  13:28   0  0   -1   0   3   0   0   2   0/0Travis Sanheim D  22:14   0  0   -1   5   0   0   1   1   0/0Cam York D  22:24   0  0   -1   2   1   0   0   0   0/0Egor Zamula D  21:18   0  0   -1   1   0   0   0   1   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Drysdale D
+20:50   0  0   -1   1   2   0   0   1   0/0
+Erik Johnson D
+14:08   0  0   -1   0   0   0   0   2   0/0
+Rasmus Ristolainen D
+13:28   0  0   -1   0   3   0   0   2   0/0
+Travis Sanheim D
+22:14   0  0   -1   5   0   0   1   1   0/0
+Cam York D
+22:24   0  0   -1   2   1   0   0   0   0/0
+Egor Zamula D
+21:18   0  0   -1   1   0   0   0   1   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       26  12   6   1  18 29/57
+                                        50.9%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  59:38   3  29/32  28/31   0/0   1/1     0
+              .906   .903  1.000
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Samuel Ersson G
+59:38   3  29/32  28/31   0/0   1/1     0
+              .906   .903  1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

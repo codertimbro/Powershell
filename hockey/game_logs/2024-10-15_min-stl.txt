@@ -1,0 +1,352 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Minnesota
+Wild2-0-2Final4 - 1St. Louis
+Blues2-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+MIN   1  1  2    4  
+STL   0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:29 
+Alexey Toropchenko (STL) high-sticking against Brock Faber (2 minutes)
+   0-0
+P1  16:10 
+Ryan Hartman (MIN) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirill Kaprizov and Brock Faber
+   1-0
+P1  03:57 
+Jake Middleton (MIN) tripping against Pavel Buchnevich (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  12:25 
+Frederick Gaudreau (MIN) tripping against Mathieu Joseph (2 minutes)
+   1-0
+P2  12:08 
+Jakub Lauko (MIN) scores short-handed goal on wrist shot past Jordan Binnington, assisted by Marat Khusnutdinov and Jonas Brodin
+   2-0
+P2  09:53 
+Mathieu Joseph (STL) slashing against Jonas Brodin (2 minutes)
+   2-0
+3rd Period: ShowHide
+P3  19:14 
+Marco Rossi (MIN) scores on snap shot past Jordan Binnington, assisted by Mats Zuccarello and Kirill Kaprizov
+   3-0
+P3  18:29 
+Justin Faulk (STL) high-sticking against Liam Ohgren (2 minutes)
+   3-0
+P3  09:50 
+Mathieu Joseph (STL) scores on wrist shot past Filip Gustavsson, assisted by Zack Bolduc and Philip Broberg
+   3-1
+P3  04:03 
+Philip Broberg (STL) high-sticking against Ryan Hartman (4 minutes)
+   3-1
+P3  00:09 
+Filip Gustavsson (MIN) scores on empty net
+   4-1
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  21:48   0  0    0   3   1   0   0   1   4/8Marcus Foligno L  14:52   0  0    0   0   0   0   1   1   0/0Frederick Gaudreau C  13:18   0  0    0   2   0   2   1   0   6/8Ryan Hartman R  14:20   1  0   -1   3   1   0   0   0   0/1Kirill Kaprizov L  27:59   0  2    1   0   1   0   1   0   0/0Marat Khusnutdinov C  14:44   0  1    1   0   1   0   0   1  4/16Jakub Lauko C  09:20   1  0    0   4   2   0   0   1   0/1Liam Ohgren L  12:32   0  0   -1   2   0   0   0   0   0/0Marco Rossi C  16:39   1  0    1   1   1   0   0   0  7/12Yakov Trenin C  13:43   0  0    0   2   1   0   0   0   0/1Mats Zuccarello R  21:14   0  1    1   2   0   0   0   0   0/0Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  15:44   0  0    1   0   0   0   0   2   0/0Jonas Brodin D  22:35   0  1    2   1   3   0   0   3   0/0Declan Chisholm D  14:08   0  0   -1   1   1   0   1   2   0/0Brock Faber D  24:54   0  1    1   1   1   0   0   3   0/0Daemon Hunt D  08:01   0  0    0   2   2   0   1   0   0/0Jon Merrill D  12:13   0  0   -1   0   5   0   0   2   0/0Jake Middleton D  17:56   0  0    0   2   5   2   0   1   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  25   4   5  17 21/47
+                                        44.7%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   1  27/28  18/19   4/4   5/5     0
+              .964   .947 1.000 1.000 
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  10:45   0  1    1   0   0   0   0   0   0/0Pavel Buchnevich L  21:40   0  0   -1   3   0   0   0   0   0/4Radek Faksa C  11:48   0  0    0   2   1   0   1   1   2/7Dylan Holloway L  11:28   0  0    1   2   1   0   0   0   3/4Mathieu Joseph R  10:58   1  0    1   2   1   2   0   2   0/0Jordan Kyrou C  19:46   0  0   -1   5   1   0   0   1   1/1Jake Neighbours L  15:44   0  0   -2   2   1   0   0   1   0/0Brandon Saad L  13:38   0  0   -1   1   0   0   1   1   0/0Brayden Schenn C  15:30   0  0    0   1   2   0   0   1   5/8Robert Thomas C  22:49   0  0   -2   2   1   0   0   0 15/23Alexey Toropchenko R  10:48   0  0    0   0   3   2   0   0   0/0Nathan Walker L  10:59   0  0    0   1   2   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  16:26   0  1    1   1   0   4   1   2   0/0Justin Faulk D  22:15   0  0    0   2   1   2   0   2   0/0Matthew Kessel D  14:25   0  0    0   1   0   0   0   2   0/0Nick Leddy D  20:57   0  0   -1   0   2   0   0   3   0/0Colton Parayko D  24:30   0  0   -1   2   1   0   1   0   0/0Ryan Suter D  18:05   0  0    0   1   2   0   1   0   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       28  19  10   5  16 26/47
+                                        55.3%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:16   3  23/26  20/21   3/4   0/1     0
+              .885   .952  .750  .000
+Minnesota
+Wild2-0-2Final4 - 1St. Louis
+Blues2-2-0
+Minnesota
+Wild2-0-2
+Final4 - 1
+St. Louis
+Blues2-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+MIN   1  1  2    4  
+STL   0  0  1    1
+1st Period: ShowHide
+P1  16:29 
+Alexey Toropchenko (STL) high-sticking against Brock Faber (2 minutes)
+   0-0
+P1  16:10 
+Ryan Hartman (MIN) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirill Kaprizov and Brock Faber
+   1-0
+P1  03:57 
+Jake Middleton (MIN) tripping against Pavel Buchnevich (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  12:25 
+Frederick Gaudreau (MIN) tripping against Mathieu Joseph (2 minutes)
+   1-0
+P2  12:08 
+Jakub Lauko (MIN) scores short-handed goal on wrist shot past Jordan Binnington, assisted by Marat Khusnutdinov and Jonas Brodin
+   2-0
+P2  09:53 
+Mathieu Joseph (STL) slashing against Jonas Brodin (2 minutes)
+   2-0
+3rd Period: ShowHide
+P3  19:14 
+Marco Rossi (MIN) scores on snap shot past Jordan Binnington, assisted by Mats Zuccarello and Kirill Kaprizov
+   3-0
+P3  18:29 
+Justin Faulk (STL) high-sticking against Liam Ohgren (2 minutes)
+   3-0
+P3  09:50 
+Mathieu Joseph (STL) scores on wrist shot past Filip Gustavsson, assisted by Zack Bolduc and Philip Broberg
+   3-1
+P3  04:03 
+Philip Broberg (STL) high-sticking against Ryan Hartman (4 minutes)
+   3-1
+P3  00:09 
+Filip Gustavsson (MIN) scores on empty net
+   4-1
+1st Period: ShowHide
+P1  16:29 
+Alexey Toropchenko (STL) high-sticking against Brock Faber (2 minutes)
+   0-0
+P1  16:10 
+Ryan Hartman (MIN) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirill Kaprizov and Brock Faber
+   1-0
+P1  03:57 
+Jake Middleton (MIN) tripping against Pavel Buchnevich (2 minutes)
+   1-0
+P1  16:29 
+Alexey Toropchenko (STL) high-sticking against Brock Faber (2 minutes)
+   0-0
+P1  16:10 
+Ryan Hartman (MIN) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirill Kaprizov and Brock Faber
+   1-0
+P1  03:57 
+Jake Middleton (MIN) tripping against Pavel Buchnevich (2 minutes)
+   1-0
+P1  16:29
+Alexey Toropchenko (STL) high-sticking against Brock Faber (2 minutes)
+0-0
+P1  16:10
+Ryan Hartman (MIN) scores power-play goal on snap shot past Jordan Binnington, assisted by Kirill Kaprizov and Brock Faber
+1-0
+P1  03:57
+Jake Middleton (MIN) tripping against Pavel Buchnevich (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  12:25 
+Frederick Gaudreau (MIN) tripping against Mathieu Joseph (2 minutes)
+   1-0
+P2  12:08 
+Jakub Lauko (MIN) scores short-handed goal on wrist shot past Jordan Binnington, assisted by Marat Khusnutdinov and Jonas Brodin
+   2-0
+P2  09:53 
+Mathieu Joseph (STL) slashing against Jonas Brodin (2 minutes)
+   2-0
+P2  12:25 
+Frederick Gaudreau (MIN) tripping against Mathieu Joseph (2 minutes)
+   1-0
+P2  12:08 
+Jakub Lauko (MIN) scores short-handed goal on wrist shot past Jordan Binnington, assisted by Marat Khusnutdinov and Jonas Brodin
+   2-0
+P2  09:53 
+Mathieu Joseph (STL) slashing against Jonas Brodin (2 minutes)
+   2-0
+P2  12:25
+Frederick Gaudreau (MIN) tripping against Mathieu Joseph (2 minutes)
+1-0
+P2  12:08
+Jakub Lauko (MIN) scores short-handed goal on wrist shot past Jordan Binnington, assisted by Marat Khusnutdinov and Jonas Brodin
+2-0
+P2  09:53
+Mathieu Joseph (STL) slashing against Jonas Brodin (2 minutes)
+2-0
+3rd Period: ShowHide
+P3  19:14 
+Marco Rossi (MIN) scores on snap shot past Jordan Binnington, assisted by Mats Zuccarello and Kirill Kaprizov
+   3-0
+P3  18:29 
+Justin Faulk (STL) high-sticking against Liam Ohgren (2 minutes)
+   3-0
+P3  09:50 
+Mathieu Joseph (STL) scores on wrist shot past Filip Gustavsson, assisted by Zack Bolduc and Philip Broberg
+   3-1
+P3  04:03 
+Philip Broberg (STL) high-sticking against Ryan Hartman (4 minutes)
+   3-1
+P3  00:09 
+Filip Gustavsson (MIN) scores on empty net
+   4-1
+P3  19:14 
+Marco Rossi (MIN) scores on snap shot past Jordan Binnington, assisted by Mats Zuccarello and Kirill Kaprizov
+   3-0
+P3  18:29 
+Justin Faulk (STL) high-sticking against Liam Ohgren (2 minutes)
+   3-0
+P3  09:50 
+Mathieu Joseph (STL) scores on wrist shot past Filip Gustavsson, assisted by Zack Bolduc and Philip Broberg
+   3-1
+P3  04:03 
+Philip Broberg (STL) high-sticking against Ryan Hartman (4 minutes)
+   3-1
+P3  00:09 
+Filip Gustavsson (MIN) scores on empty net
+   4-1
+P3  19:14
+Marco Rossi (MIN) scores on snap shot past Jordan Binnington, assisted by Mats Zuccarello and Kirill Kaprizov
+3-0
+P3  18:29
+Justin Faulk (STL) high-sticking against Liam Ohgren (2 minutes)
+3-0
+P3  09:50
+Mathieu Joseph (STL) scores on wrist shot past Filip Gustavsson, assisted by Zack Bolduc and Philip Broberg
+3-1
+P3  04:03
+Philip Broberg (STL) high-sticking against Ryan Hartman (4 minutes)
+3-1
+P3  00:09
+Filip Gustavsson (MIN) scores on empty net
+4-1
+Box Score:
+ 
+Back to Top
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  21:48   0  0    0   3   1   0   0   1   4/8Marcus Foligno L  14:52   0  0    0   0   0   0   1   1   0/0Frederick Gaudreau C  13:18   0  0    0   2   0   2   1   0   6/8Ryan Hartman R  14:20   1  0   -1   3   1   0   0   0   0/1Kirill Kaprizov L  27:59   0  2    1   0   1   0   1   0   0/0Marat Khusnutdinov C  14:44   0  1    1   0   1   0   0   1  4/16Jakub Lauko C  09:20   1  0    0   4   2   0   0   1   0/1Liam Ohgren L  12:32   0  0   -1   2   0   0   0   0   0/0Marco Rossi C  16:39   1  0    1   1   1   0   0   0  7/12Yakov Trenin C  13:43   0  0    0   2   1   0   0   0   0/1Mats Zuccarello R  21:14   0  1    1   2   0   0   0   0   0/0Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  15:44   0  0    1   0   0   0   0   2   0/0Jonas Brodin D  22:35   0  1    2   1   3   0   0   3   0/0Declan Chisholm D  14:08   0  0   -1   1   1   0   1   2   0/0Brock Faber D  24:54   0  1    1   1   1   0   0   3   0/0Daemon Hunt D  08:01   0  0    0   2   2   0   1   0   0/0Jon Merrill D  12:13   0  0   -1   0   5   0   0   2   0/0Jake Middleton D  17:56   0  0    0   2   5   2   0   1   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  25   4   5  17 21/47
+                                        44.7%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   1  27/28  18/19   4/4   5/5     0
+              .964   .947 1.000 1.000 
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  10:45   0  1    1   0   0   0   0   0   0/0Pavel Buchnevich L  21:40   0  0   -1   3   0   0   0   0   0/4Radek Faksa C  11:48   0  0    0   2   1   0   1   1   2/7Dylan Holloway L  11:28   0  0    1   2   1   0   0   0   3/4Mathieu Joseph R  10:58   1  0    1   2   1   2   0   2   0/0Jordan Kyrou C  19:46   0  0   -1   5   1   0   0   1   1/1Jake Neighbours L  15:44   0  0   -2   2   1   0   0   1   0/0Brandon Saad L  13:38   0  0   -1   1   0   0   1   1   0/0Brayden Schenn C  15:30   0  0    0   1   2   0   0   1   5/8Robert Thomas C  22:49   0  0   -2   2   1   0   0   0 15/23Alexey Toropchenko R  10:48   0  0    0   0   3   2   0   0   0/0Nathan Walker L  10:59   0  0    0   1   2   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  16:26   0  1    1   1   0   4   1   2   0/0Justin Faulk D  22:15   0  0    0   2   1   2   0   2   0/0Matthew Kessel D  14:25   0  0    0   1   0   0   0   2   0/0Nick Leddy D  20:57   0  0   -1   0   2   0   0   3   0/0Colton Parayko D  24:30   0  0   -1   2   1   0   1   0   0/0Ryan Suter D  18:05   0  0    0   1   2   0   1   0   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       28  19  10   5  16 26/47
+                                        55.3%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:16   3  23/26  20/21   3/4   0/1     0
+              .885   .952  .750  .000
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  21:48   0  0    0   3   1   0   0   1   4/8Marcus Foligno L  14:52   0  0    0   0   0   0   1   1   0/0Frederick Gaudreau C  13:18   0  0    0   2   0   2   1   0   6/8Ryan Hartman R  14:20   1  0   -1   3   1   0   0   0   0/1Kirill Kaprizov L  27:59   0  2    1   0   1   0   1   0   0/0Marat Khusnutdinov C  14:44   0  1    1   0   1   0   0   1  4/16Jakub Lauko C  09:20   1  0    0   4   2   0   0   1   0/1Liam Ohgren L  12:32   0  0   -1   2   0   0   0   0   0/0Marco Rossi C  16:39   1  0    1   1   1   0   0   0  7/12Yakov Trenin C  13:43   0  0    0   2   1   0   0   0   0/1Mats Zuccarello R  21:14   0  1    1   2   0   0   0   0   0/0
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Boldy L
+21:48   0  0    0   3   1   0   0   1   4/8
+Marcus Foligno L
+14:52   0  0    0   0   0   0   1   1   0/0
+Frederick Gaudreau C
+13:18   0  0    0   2   0   2   1   0   6/8
+Ryan Hartman R
+14:20   1  0   -1   3   1   0   0   0   0/1
+Kirill Kaprizov L
+27:59   0  2    1   0   1   0   1   0   0/0
+Marat Khusnutdinov C
+14:44   0  1    1   0   1   0   0   1  4/16
+Jakub Lauko C
+09:20   1  0    0   4   2   0   0   1   0/1
+Liam Ohgren L
+12:32   0  0   -1   2   0   0   0   0   0/0
+Marco Rossi C
+16:39   1  0    1   1   1   0   0   0  7/12
+Yakov Trenin C
+13:43   0  0    0   2   1   0   0   0   0/1
+Mats Zuccarello R
+21:14   0  1    1   2   0   0   0   0   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  15:44   0  0    1   0   0   0   0   2   0/0Jonas Brodin D  22:35   0  1    2   1   3   0   0   3   0/0Declan Chisholm D  14:08   0  0   -1   1   1   0   1   2   0/0Brock Faber D  24:54   0  1    1   1   1   0   0   3   0/0Daemon Hunt D  08:01   0  0    0   2   2   0   1   0   0/0Jon Merrill D  12:13   0  0   -1   0   5   0   0   2   0/0Jake Middleton D  17:56   0  0    0   2   5   2   0   1   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Bogosian D
+15:44   0  0    1   0   0   0   0   2   0/0
+Jonas Brodin D
+22:35   0  1    2   1   3   0   0   3   0/0
+Declan Chisholm D
+14:08   0  0   -1   1   1   0   1   2   0/0
+Brock Faber D
+24:54   0  1    1   1   1   0   0   3   0/0
+Daemon Hunt D
+08:01   0  0    0   2   2   0   1   0   0/0
+Jon Merrill D
+12:13   0  0   -1   0   5   0   0   2   0/0
+Jake Middleton D
+17:56   0  0    0   2   5   2   0   1   0/0
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  25   4   5  17 21/47
+                                        44.7%
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   1  27/28  18/19   4/4   5/5     0
+              .964   .947 1.000 1.000
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Filip Gustavsson G
+60:00   1  27/28  18/19   4/4   5/5     0
+              .964   .947 1.000 1.000
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  10:45   0  1    1   0   0   0   0   0   0/0Pavel Buchnevich L  21:40   0  0   -1   3   0   0   0   0   0/4Radek Faksa C  11:48   0  0    0   2   1   0   1   1   2/7Dylan Holloway L  11:28   0  0    1   2   1   0   0   0   3/4Mathieu Joseph R  10:58   1  0    1   2   1   2   0   2   0/0Jordan Kyrou C  19:46   0  0   -1   5   1   0   0   1   1/1Jake Neighbours L  15:44   0  0   -2   2   1   0   0   1   0/0Brandon Saad L  13:38   0  0   -1   1   0   0   1   1   0/0Brayden Schenn C  15:30   0  0    0   1   2   0   0   1   5/8Robert Thomas C  22:49   0  0   -2   2   1   0   0   0 15/23Alexey Toropchenko R  10:48   0  0    0   0   3   2   0   0   0/0Nathan Walker L  10:59   0  0    0   1   2   0   0   0   0/0
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zack Bolduc C
+10:45   0  1    1   0   0   0   0   0   0/0
+Pavel Buchnevich L
+21:40   0  0   -1   3   0   0   0   0   0/4
+Radek Faksa C
+11:48   0  0    0   2   1   0   1   1   2/7
+Dylan Holloway L
+11:28   0  0    1   2   1   0   0   0   3/4
+Mathieu Joseph R
+10:58   1  0    1   2   1   2   0   2   0/0
+Jordan Kyrou C
+19:46   0  0   -1   5   1   0   0   1   1/1
+Jake Neighbours L
+15:44   0  0   -2   2   1   0   0   1   0/0
+Brandon Saad L
+13:38   0  0   -1   1   0   0   1   1   0/0
+Brayden Schenn C
+15:30   0  0    0   1   2   0   0   1   5/8
+Robert Thomas C
+22:49   0  0   -2   2   1   0   0   0 15/23
+Alexey Toropchenko R
+10:48   0  0    0   0   3   2   0   0   0/0
+Nathan Walker L
+10:59   0  0    0   1   2   0   0   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  16:26   0  1    1   1   0   4   1   2   0/0Justin Faulk D  22:15   0  0    0   2   1   2   0   2   0/0Matthew Kessel D  14:25   0  0    0   1   0   0   0   2   0/0Nick Leddy D  20:57   0  0   -1   0   2   0   0   3   0/0Colton Parayko D  24:30   0  0   -1   2   1   0   1   0   0/0Ryan Suter D  18:05   0  0    0   1   2   0   1   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+16:26   0  1    1   1   0   4   1   2   0/0
+Justin Faulk D
+22:15   0  0    0   2   1   2   0   2   0/0
+Matthew Kessel D
+14:25   0  0    0   1   0   0   0   2   0/0
+Nick Leddy D
+20:57   0  0   -1   0   2   0   0   3   0/0
+Colton Parayko D
+24:30   0  0   -1   2   1   0   1   0   0/0
+Ryan Suter D
+18:05   0  0    0   1   2   0   1   0   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       28  19  10   5  16 26/47
+                                        55.3%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:16   3  23/26  20/21   3/4   0/1     0
+              .885   .952  .750  .000
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jordan Binnington G
+59:16   3  23/26  20/21   3/4   0/1     0
+              .885   .952  .750  .000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,382 @@
+< Oct. 14 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Islanders0-1-13rd 19:324 - 1COL PP 5-4Colorado
+Avalanche0-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NYI   2  2  2    6  
+COL   1  0  1    2
+Goals and Penalties: ShowHide
+3rd Period: ShowHide
+P3  01:12 
+Mathew Barzal (NYI) scores on empty net, assisted by Ryan Pulock
+   6-2
+P3  07:09 
+Nikolai Kovalenko (COL) interference against Brock Nelson (2 minutes)
+   5-2
+P3  13:12 
+Anthony Duclair (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Alexander Romanov and Bo Horvat
+   5-2
+P3  19:21 
+Casey Mittelstadt (COL) scores on snap shot past Ilya Sorokin, assisted by Nathan MacKinnon and Cale Makar
+   4-2
+2nd Period: ShowHide
+P2  01:26 
+Maxim Tsyplakov (NYI) hooking against Miles Wood (2 minutes)
+   4-1
+P2  08:46 
+Brock Nelson (NYI) scores short-handed goal on wrist shot past Alexandar Georgiev
+   4-1
+P2  10:37 
+Alexander Romanov (NYI) interference against Chris Wagner (2 minutes)
+   3-1
+P2  11:35 
+Brock Nelson (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Maxim Tsyplakov and Adam Pelech
+   3-1
+1st Period: ShowHide
+P1  00:00 
+Scott Mayfield (NYI) roughing against Logan O'Connor (2 minutes)
+   2-1
+P1  00:00 
+Logan O'Connor (COL) roughing against Scott Mayfield (2 minutes)
+   2-1
+P1  01:47 
+Kyle Palmieri (NYI) scores on wrist shot past Alexandar Georgiev
+   2-1
+P1  14:27 
+Anders Lee (NYI) scores on snap shot past Alexandar Georgiev, assisted by Simon Holmstrom and Scott Mayfield
+   1-1
+P1  18:59 
+Calum Ritchie (COL) scores on wrist shot past Ilya Sorokin, assisted by Josh Manson
+   0-1
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  17:28   1  0    2   3   1   0   0   1   0/2Casey Cizikas C  11:34   0  0    0   1   1   0   0   0   1/2Anthony Duclair L  14:19   1  0    2   3   0   0   0   2   0/0Simon Holmstrom R  13:25   0  1    0   0   0   0   0   1   0/0Bo Horvat C  16:41   0  1    2   1   0   0   0   1  5/13Anders Lee L  14:28   1  0    1   7   1   0   0   0   0/3Kyle MacLean C  11:42   0  0   -1   0   0   0   0   0 12/15Brock Nelson C  18:23   2  0    3   5   2   0   0   2 15/25Jean-Gabriel Pageau C  14:31   0  0    0   1   1   0   0   2  9/13Kyle Palmieri C  17:34   1  0    3   4   0   0   2   0   0/1Maxim Tsyplakov R  14:40   0  1    0   1   0   2   0   1   0/0Oliver Wahlstrom R  10:18   0  0   -1   2   0   0   0   1   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  20:18   0  0    1   2   3   0   2   1   0/0Scott Mayfield D  17:57   0  1    3   2   3   2   0   2   0/0Adam Pelech D  22:19   0  1    1   2   0   0   0   2   0/0Ryan Pulock D  23:08   0  1    0   1   3   0   1   1   0/0Mike Reilly D  13:39   0  0    2   2   0   0   0   2   0/0Alexander Romanov D  21:44   0  1    1   1   6   2   0   1   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          6  7       38  21   6   5  20 42/74
+                                        56.8%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:52   2  32/34  30/32   0/0   2/2     0
+              .941   .938  1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  21:07   0  0   -2   4   1   0   0   0  5/11Ivan Ivan C  08:42   0  0    0   1   1   0   0   0   2/6Parker Kelly C  14:51   0  0    0   0   0   0   0   2 10/21Joel Kiviranta L  09:56   0  0    0   2   0   0   0   0   0/0Nikolai Kovalenko R  13:31   0  0    0   1   2   2   0   0   0/0Nathan MacKinnon C  23:00   0  1   -3   5   1   0   1   4  8/16Casey Mittelstadt C  20:02   1  0   -3   3   0   0   0   3  4/12Logan O'Connor R  17:23   0  0    0   2   1   2   0   0   0/1Mikko Rantanen R  22:27   0  0   -3   3   0   0   0   2   1/1Calum Ritchie C  13:07   1  0   -2   5   0   0   0   0   1/1Chris Wagner R  06:46   0  0    0   2   0   0   0   0   0/2Miles Wood L  14:15   0  0   -1   1   0   0   0   1   1/3Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  20:48   0  0   -2   0   1   0   0   2   0/0Oliver Kylington D  17:03   0  0   -1   0   4   0   0   1   0/0John Ludvig D  18:03   0  0    0   1   1   0   1   1   0/0Cale Makar D  22:26   0  1   -3   2   1   0   0   1   0/0Sam Malinski D  18:13   0  0    0   1   0   0   0   1   0/0Josh Manson D  17:42   0  1   -1   1   3   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       34  16   4   2  18 32/74
+                                        43.2%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  56:38   5  32/37  30/34   0/0   2/3     0
+              .865   .882   .667
+New York
+Islanders0-1-13rd 19:324 - 1COL PP 5-4Colorado
+Avalanche0-2-0
+New York
+Islanders0-1-1
+3rd 19:324 - 1COL PP 5-4
+Colorado
+Avalanche0-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NYI   2  2  2    6  
+COL   1  0  1    2
+3rd Period: ShowHide
+P3  01:12 
+Mathew Barzal (NYI) scores on empty net, assisted by Ryan Pulock
+   6-2
+P3  07:09 
+Nikolai Kovalenko (COL) interference against Brock Nelson (2 minutes)
+   5-2
+P3  13:12 
+Anthony Duclair (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Alexander Romanov and Bo Horvat
+   5-2
+P3  19:21 
+Casey Mittelstadt (COL) scores on snap shot past Ilya Sorokin, assisted by Nathan MacKinnon and Cale Makar
+   4-2
+2nd Period: ShowHide
+P2  01:26 
+Maxim Tsyplakov (NYI) hooking against Miles Wood (2 minutes)
+   4-1
+P2  08:46 
+Brock Nelson (NYI) scores short-handed goal on wrist shot past Alexandar Georgiev
+   4-1
+P2  10:37 
+Alexander Romanov (NYI) interference against Chris Wagner (2 minutes)
+   3-1
+P2  11:35 
+Brock Nelson (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Maxim Tsyplakov and Adam Pelech
+   3-1
+1st Period: ShowHide
+P1  00:00 
+Scott Mayfield (NYI) roughing against Logan O'Connor (2 minutes)
+   2-1
+P1  00:00 
+Logan O'Connor (COL) roughing against Scott Mayfield (2 minutes)
+   2-1
+P1  01:47 
+Kyle Palmieri (NYI) scores on wrist shot past Alexandar Georgiev
+   2-1
+P1  14:27 
+Anders Lee (NYI) scores on snap shot past Alexandar Georgiev, assisted by Simon Holmstrom and Scott Mayfield
+   1-1
+P1  18:59 
+Calum Ritchie (COL) scores on wrist shot past Ilya Sorokin, assisted by Josh Manson
+   0-1
+3rd Period: ShowHide
+P3  01:12 
+Mathew Barzal (NYI) scores on empty net, assisted by Ryan Pulock
+   6-2
+P3  07:09 
+Nikolai Kovalenko (COL) interference against Brock Nelson (2 minutes)
+   5-2
+P3  13:12 
+Anthony Duclair (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Alexander Romanov and Bo Horvat
+   5-2
+P3  19:21 
+Casey Mittelstadt (COL) scores on snap shot past Ilya Sorokin, assisted by Nathan MacKinnon and Cale Makar
+   4-2
+P3  01:12 
+Mathew Barzal (NYI) scores on empty net, assisted by Ryan Pulock
+   6-2
+P3  07:09 
+Nikolai Kovalenko (COL) interference against Brock Nelson (2 minutes)
+   5-2
+P3  13:12 
+Anthony Duclair (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Alexander Romanov and Bo Horvat
+   5-2
+P3  19:21 
+Casey Mittelstadt (COL) scores on snap shot past Ilya Sorokin, assisted by Nathan MacKinnon and Cale Makar
+   4-2
+P3  01:12
+Mathew Barzal (NYI) scores on empty net, assisted by Ryan Pulock
+6-2
+P3  07:09
+Nikolai Kovalenko (COL) interference against Brock Nelson (2 minutes)
+5-2
+P3  13:12
+Anthony Duclair (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Alexander Romanov and Bo Horvat
+5-2
+P3  19:21
+Casey Mittelstadt (COL) scores on snap shot past Ilya Sorokin, assisted by Nathan MacKinnon and Cale Makar
+4-2
+2nd Period: ShowHide
+P2  01:26 
+Maxim Tsyplakov (NYI) hooking against Miles Wood (2 minutes)
+   4-1
+P2  08:46 
+Brock Nelson (NYI) scores short-handed goal on wrist shot past Alexandar Georgiev
+   4-1
+P2  10:37 
+Alexander Romanov (NYI) interference against Chris Wagner (2 minutes)
+   3-1
+P2  11:35 
+Brock Nelson (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Maxim Tsyplakov and Adam Pelech
+   3-1
+P2  01:26 
+Maxim Tsyplakov (NYI) hooking against Miles Wood (2 minutes)
+   4-1
+P2  08:46 
+Brock Nelson (NYI) scores short-handed goal on wrist shot past Alexandar Georgiev
+   4-1
+P2  10:37 
+Alexander Romanov (NYI) interference against Chris Wagner (2 minutes)
+   3-1
+P2  11:35 
+Brock Nelson (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Maxim Tsyplakov and Adam Pelech
+   3-1
+P2  01:26
+Maxim Tsyplakov (NYI) hooking against Miles Wood (2 minutes)
+4-1
+P2  08:46
+Brock Nelson (NYI) scores short-handed goal on wrist shot past Alexandar Georgiev
+4-1
+P2  10:37
+Alexander Romanov (NYI) interference against Chris Wagner (2 minutes)
+3-1
+P2  11:35
+Brock Nelson (NYI) scores on wrist shot past Alexandar Georgiev, assisted by Maxim Tsyplakov and Adam Pelech
+3-1
+1st Period: ShowHide
+P1  00:00 
+Scott Mayfield (NYI) roughing against Logan O'Connor (2 minutes)
+   2-1
+P1  00:00 
+Logan O'Connor (COL) roughing against Scott Mayfield (2 minutes)
+   2-1
+P1  01:47 
+Kyle Palmieri (NYI) scores on wrist shot past Alexandar Georgiev
+   2-1
+P1  14:27 
+Anders Lee (NYI) scores on snap shot past Alexandar Georgiev, assisted by Simon Holmstrom and Scott Mayfield
+   1-1
+P1  18:59 
+Calum Ritchie (COL) scores on wrist shot past Ilya Sorokin, assisted by Josh Manson
+   0-1
+P1  00:00 
+Scott Mayfield (NYI) roughing against Logan O'Connor (2 minutes)
+   2-1
+P1  00:00 
+Logan O'Connor (COL) roughing against Scott Mayfield (2 minutes)
+   2-1
+P1  01:47 
+Kyle Palmieri (NYI) scores on wrist shot past Alexandar Georgiev
+   2-1
+P1  14:27 
+Anders Lee (NYI) scores on snap shot past Alexandar Georgiev, assisted by Simon Holmstrom and Scott Mayfield
+   1-1
+P1  18:59 
+Calum Ritchie (COL) scores on wrist shot past Ilya Sorokin, assisted by Josh Manson
+   0-1
+P1  00:00
+Scott Mayfield (NYI) roughing against Logan O'Connor (2 minutes)
+2-1
+P1  00:00
+Logan O'Connor (COL) roughing against Scott Mayfield (2 minutes)
+2-1
+P1  01:47
+Kyle Palmieri (NYI) scores on wrist shot past Alexandar Georgiev
+2-1
+P1  14:27
+Anders Lee (NYI) scores on snap shot past Alexandar Georgiev, assisted by Simon Holmstrom and Scott Mayfield
+1-1
+P1  18:59
+Calum Ritchie (COL) scores on wrist shot past Ilya Sorokin, assisted by Josh Manson
+0-1
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  17:28   1  0    2   3   1   0   0   1   0/2Casey Cizikas C  11:34   0  0    0   1   1   0   0   0   1/2Anthony Duclair L  14:19   1  0    2   3   0   0   0   2   0/0Simon Holmstrom R  13:25   0  1    0   0   0   0   0   1   0/0Bo Horvat C  16:41   0  1    2   1   0   0   0   1  5/13Anders Lee L  14:28   1  0    1   7   1   0   0   0   0/3Kyle MacLean C  11:42   0  0   -1   0   0   0   0   0 12/15Brock Nelson C  18:23   2  0    3   5   2   0   0   2 15/25Jean-Gabriel Pageau C  14:31   0  0    0   1   1   0   0   2  9/13Kyle Palmieri C  17:34   1  0    3   4   0   0   2   0   0/1Maxim Tsyplakov R  14:40   0  1    0   1   0   2   0   1   0/0Oliver Wahlstrom R  10:18   0  0   -1   2   0   0   0   1   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  20:18   0  0    1   2   3   0   2   1   0/0Scott Mayfield D  17:57   0  1    3   2   3   2   0   2   0/0Adam Pelech D  22:19   0  1    1   2   0   0   0   2   0/0Ryan Pulock D  23:08   0  1    0   1   3   0   1   1   0/0Mike Reilly D  13:39   0  0    2   2   0   0   0   2   0/0Alexander Romanov D  21:44   0  1    1   1   6   2   0   1   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          6  7       38  21   6   5  20 42/74
+                                        56.8%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:52   2  32/34  30/32   0/0   2/2     0
+              .941   .938  1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  21:07   0  0   -2   4   1   0   0   0  5/11Ivan Ivan C  08:42   0  0    0   1   1   0   0   0   2/6Parker Kelly C  14:51   0  0    0   0   0   0   0   2 10/21Joel Kiviranta L  09:56   0  0    0   2   0   0   0   0   0/0Nikolai Kovalenko R  13:31   0  0    0   1   2   2   0   0   0/0Nathan MacKinnon C  23:00   0  1   -3   5   1   0   1   4  8/16Casey Mittelstadt C  20:02   1  0   -3   3   0   0   0   3  4/12Logan O'Connor R  17:23   0  0    0   2   1   2   0   0   0/1Mikko Rantanen R  22:27   0  0   -3   3   0   0   0   2   1/1Calum Ritchie C  13:07   1  0   -2   5   0   0   0   0   1/1Chris Wagner R  06:46   0  0    0   2   0   0   0   0   0/2Miles Wood L  14:15   0  0   -1   1   0   0   0   1   1/3Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  20:48   0  0   -2   0   1   0   0   2   0/0Oliver Kylington D  17:03   0  0   -1   0   4   0   0   1   0/0John Ludvig D  18:03   0  0    0   1   1   0   1   1   0/0Cale Makar D  22:26   0  1   -3   2   1   0   0   1   0/0Sam Malinski D  18:13   0  0    0   1   0   0   0   1   0/0Josh Manson D  17:42   0  1   -1   1   3   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       34  16   4   2  18 32/74
+                                        43.2%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  56:38   5  32/37  30/34   0/0   2/3     0
+              .865   .882   .667
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  17:28   1  0    2   3   1   0   0   1   0/2Casey Cizikas C  11:34   0  0    0   1   1   0   0   0   1/2Anthony Duclair L  14:19   1  0    2   3   0   0   0   2   0/0Simon Holmstrom R  13:25   0  1    0   0   0   0   0   1   0/0Bo Horvat C  16:41   0  1    2   1   0   0   0   1  5/13Anders Lee L  14:28   1  0    1   7   1   0   0   0   0/3Kyle MacLean C  11:42   0  0   -1   0   0   0   0   0 12/15Brock Nelson C  18:23   2  0    3   5   2   0   0   2 15/25Jean-Gabriel Pageau C  14:31   0  0    0   1   1   0   0   2  9/13Kyle Palmieri C  17:34   1  0    3   4   0   0   2   0   0/1Maxim Tsyplakov R  14:40   0  1    0   1   0   2   0   1   0/0Oliver Wahlstrom R  10:18   0  0   -1   2   0   0   0   1   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Barzal C
+17:28   1  0    2   3   1   0   0   1   0/2
+Casey Cizikas C
+11:34   0  0    0   1   1   0   0   0   1/2
+Anthony Duclair L
+14:19   1  0    2   3   0   0   0   2   0/0
+Simon Holmstrom R
+13:25   0  1    0   0   0   0   0   1   0/0
+Bo Horvat C
+16:41   0  1    2   1   0   0   0   1  5/13
+Anders Lee L
+14:28   1  0    1   7   1   0   0   0   0/3
+Kyle MacLean C
+11:42   0  0   -1   0   0   0   0   0 12/15
+Brock Nelson C
+18:23   2  0    3   5   2   0   0   2 15/25
+Jean-Gabriel Pageau C
+14:31   0  0    0   1   1   0   0   2  9/13
+Kyle Palmieri C
+17:34   1  0    3   4   0   0   2   0   0/1
+Maxim Tsyplakov R
+14:40   0  1    0   1   0   2   0   1   0/0
+Oliver Wahlstrom R
+10:18   0  0   -1   2   0   0   0   1   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  20:18   0  0    1   2   3   0   2   1   0/0Scott Mayfield D  17:57   0  1    3   2   3   2   0   2   0/0Adam Pelech D  22:19   0  1    1   2   0   0   0   2   0/0Ryan Pulock D  23:08   0  1    0   1   3   0   1   1   0/0Mike Reilly D  13:39   0  0    2   2   0   0   0   2   0/0Alexander Romanov D  21:44   0  1    1   1   6   2   0   1   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Dobson D
+20:18   0  0    1   2   3   0   2   1   0/0
+Scott Mayfield D
+17:57   0  1    3   2   3   2   0   2   0/0
+Adam Pelech D
+22:19   0  1    1   2   0   0   0   2   0/0
+Ryan Pulock D
+23:08   0  1    0   1   3   0   1   1   0/0
+Mike Reilly D
+13:39   0  0    2   2   0   0   0   2   0/0
+Alexander Romanov D
+21:44   0  1    1   1   6   2   0   1   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          6  7       38  21   6   5  20 42/74
+                                        56.8%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  59:52   2  32/34  30/32   0/0   2/2     0
+              .941   .938  1.000
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Sorokin G
+59:52   2  32/34  30/32   0/0   2/2     0
+              .941   .938  1.000
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  21:07   0  0   -2   4   1   0   0   0  5/11Ivan Ivan C  08:42   0  0    0   1   1   0   0   0   2/6Parker Kelly C  14:51   0  0    0   0   0   0   0   2 10/21Joel Kiviranta L  09:56   0  0    0   2   0   0   0   0   0/0Nikolai Kovalenko R  13:31   0  0    0   1   2   2   0   0   0/0Nathan MacKinnon C  23:00   0  1   -3   5   1   0   1   4  8/16Casey Mittelstadt C  20:02   1  0   -3   3   0   0   0   3  4/12Logan O'Connor R  17:23   0  0    0   2   1   2   0   0   0/1Mikko Rantanen R  22:27   0  0   -3   3   0   0   0   2   1/1Calum Ritchie C  13:07   1  0   -2   5   0   0   0   0   1/1Chris Wagner R  06:46   0  0    0   2   0   0   0   0   0/2Miles Wood L  14:15   0  0   -1   1   0   0   0   1   1/3
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+21:07   0  0   -2   4   1   0   0   0  5/11
+Ivan Ivan C
+08:42   0  0    0   1   1   0   0   0   2/6
+Parker Kelly C
+14:51   0  0    0   0   0   0   0   2 10/21
+Joel Kiviranta L
+09:56   0  0    0   2   0   0   0   0   0/0
+Nikolai Kovalenko R
+13:31   0  0    0   1   2   2   0   0   0/0
+Nathan MacKinnon C
+23:00   0  1   -3   5   1   0   1   4  8/16
+Casey Mittelstadt C
+20:02   1  0   -3   3   0   0   0   3  4/12
+Logan O'Connor R
+17:23   0  0    0   2   1   2   0   0   0/1
+Mikko Rantanen R
+22:27   0  0   -3   3   0   0   0   2   1/1
+Calum Ritchie C
+13:07   1  0   -2   5   0   0   0   0   1/1
+Chris Wagner R
+06:46   0  0    0   2   0   0   0   0   0/2
+Miles Wood L
+14:15   0  0   -1   1   0   0   0   1   1/3
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  20:48   0  0   -2   0   1   0   0   2   0/0Oliver Kylington D  17:03   0  0   -1   0   4   0   0   1   0/0John Ludvig D  18:03   0  0    0   1   1   0   1   1   0/0Cale Makar D  22:26   0  1   -3   2   1   0   0   1   0/0Sam Malinski D  18:13   0  0    0   1   0   0   0   1   0/0Josh Manson D  17:42   0  1   -1   1   3   0   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+20:48   0  0   -2   0   1   0   0   2   0/0
+Oliver Kylington D
+17:03   0  0   -1   0   4   0   0   1   0/0
+John Ludvig D
+18:03   0  0    0   1   1   0   1   1   0/0
+Cale Makar D
+22:26   0  1   -3   2   1   0   0   1   0/0
+Sam Malinski D
+18:13   0  0    0   1   0   0   0   1   0/0
+Josh Manson D
+17:42   0  1   -1   1   3   0   0   0   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       34  16   4   2  18 32/74
+                                        43.2%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  56:38   5  32/37  30/34   0/0   2/3     0
+              .865   .882   .667
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alexandar Georgiev G
+56:38   5  32/37  30/34   0/0   2/3     0
+              .865   .882   .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

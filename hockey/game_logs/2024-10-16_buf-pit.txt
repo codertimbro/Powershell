@@ -1,0 +1,490 @@
+< Oct. 16 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Buffalo
+Sabres1-3-1Final/OT5 - 6Pittsburgh
+Penguins3-2-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+BUF   3  0  2  0    5  
+PIT   1  2  2  1    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:17 
+Tage Thompson (BUF) scores on wrap-around shot past Tristan Jarry, assisted by Alex Tuch
+   1-0
+P1  16:52 
+Jordan Greenway (BUF) scores on wrist shot past Tristan Jarry, assisted by Jason Zucker
+   2-0
+P1  10:00 
+Ryan McLeod (BUF) high-sticking against Kris Letang (2 minutes)
+   2-0
+P1  08:59 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgeni Malkin and Sidney Crosby
+   2-1
+P1  08:27 
+JJ Peterka (BUF) scores on snap shot past Tristan Jarry, assisted by Bowen Byram and Alex Tuch
+   3-1
+2nd Period: ShowHide
+P2  12:30 
+Marcus Pettersson (PIT) slashing against JJ Peterka (2 minutes)
+   3-1
+P2  11:42 
+Jason Zucker (BUF) hooking against Lars Eller (2 minutes)
+   3-1
+P2  11:23 
+Matt Grzelcyk (PIT) tripping against Alex Tuch (2 minutes)
+   3-1
+P2  10:48 
+Drew O'Connor (PIT) scores short-handed goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Noel Acciari
+   3-2
+P2  10:48 
+BUF penalty, delaying game - unsuccessful challenge (2 minutes), served by JJ Peterka
+   3-2
+P2  04:40 
+Jesse Puljujarvi (PIT) scores on backhand shot past Ukko-Pekka Luukkonen, assisted by Lars Eller and Drew O'Connor
+   3-3
+P2  02:07 
+Alex Tuch (BUF) interference against Kris Letang (2 minutes)
+   3-3
+3rd Period: ShowHide
+P3  18:37 
+Zach Benson (BUF) hooking against Lars Eller (2 minutes)
+   3-3
+P3  16:34 
+Evgeni Malkin (PIT) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sidney Crosby
+   3-4
+P3  09:44 
+JJ Peterka (BUF) scores on wrist shot past Joel Blomqvist, assisted by Henri Jokiharju
+   4-4
+P3  09:04 
+Ryan McLeod (BUF) scores on wrist shot past Joel Blomqvist, assisted by Bowen Byram and Jason Zucker
+   5-4
+P3  00:46 
+Rickard Rakell (PIT) scores goal with extra attacker on backhand shot past Ukko-Pekka Luukkonen, assisted by Bryan Rust and Evgeni Malkin
+   5-5
+Overtime: ShowHide
+OT  04:17 
+Tage Thompson (BUF) tripping against Evgeni Malkin (2 minutes)
+   5-5
+OT  03:22 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Erik Karlsson and Evgeni Malkin
+   5-6
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  10:28   0  0   -2   3   1   2   0   0   1/1Dylan Cozens C  15:51   0  0   -2   3   0   0   0   0  3/11Jordan Greenway L  18:37   1  0    1   2   1   0   0   0   0/1Peyton Krebs C  09:44   0  0   -1   0   0   0   0   1   3/4Sam Lafferty C  08:40   0  0    0   0   0   0   0   0   1/3Beck Malenstyn L  08:59   0  0    0   0   4   0   0   1   0/0Ryan McLeod C  16:45   1  0    1   2   0   2   0   1  7/19JJ Peterka R  18:48   2  0    3   4   0   0   1   0   1/1Jack Quinn R  12:27   0  0   -2   1   0   0   0   3   0/0Tage Thompson C  18:34   1  0    2   3   1   2   0   1  7/19Alex Tuch R  19:28   0  2    2   5   3   2   2   1   1/5Jason Zucker L  15:27   0  2    1   1   1   2   1   1   1/2Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  18:51   0  2    1   0   0   0   0   0   0/0Connor Clifton D  17:32   0  0   -1   0   1   0   0   2   0/0Rasmus Dahlin D  24:58   0  0    1   5   1   0   0   2   0/0Henri Jokiharju D  21:09   0  1    3   1   1   0   1   2   0/0Owen Power D  19:08   0  0    0   2   2   0   1   2   0/0Mattias Samuelsson D  20:27   0  0   -1   1   1   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       33  17  10   6  17 25/66
+                                        37.9%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  61:38   6  37/43  31/34   6/8   0/1     0
+              .860   .912  .750  .000 
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  10:14   0  1    1   2   0   0   1   0   2/3Anthony Beauvillier L  13:09   0  0   -2   3   0   0   0   1   0/0Michael Bunting L  16:17   0  0   -1   2   0   0   0   4   1/1Sidney Crosby C  22:02   1  2    0   3   1   0   1   3 21/31Lars Eller C  13:58   0  1   -1   1   0   0   1   1  6/11Cody Glass C  08:18   0  0    0   1   0   0   1   0   0/4Kevin Hayes R  10:09   0  0    0   1   0   0   0   0   3/3Evgeni Malkin C  22:51   1  3    1   7   2   0   2   1  8/12Drew O'Connor L  13:06   1  1    0   1   1   0   0   0   0/0Jesse Puljujarvi R  13:22   1  0   -1   3   1   0   1   0   0/0Rickard Rakell R  17:32   1  0    0   3   0   0   0   1   0/1Bryan Rust R  21:05   1  1    0   6   0   0   0   3   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  13:27   0  0    1   1   0   0   2   3   0/0Matt Grzelcyk D  20:55   0  0    0   2   2   2   0   0   0/0Erik Karlsson D  26:37   0  1   -1   2   4   0   1   3   0/0Kris Letang D  23:41   0  0   -1   2   1   0   0   1   0/0Marcus Pettersson D  21:29   0  0   -2   1   2   2   0   0   0/0Jack St. Ivany D  14:42   0  0    0   2   0   0   1   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       43  14   4  11  21 41/66
+                                        62.1%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  49:00   2  26/28  22/24   0/0   4/4     0
+              .929   .917  1.000 Tristan Jarry G  11:33   3    2/5    2/5   0/0   0/0     0
+              .400   .400 Penguins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  28/33  24/29   0/0   4/4     0
+              .848   .828  1.000
+Buffalo
+Sabres1-3-1Final/OT5 - 6Pittsburgh
+Penguins3-2-0
+Buffalo
+Sabres1-3-1
+Final/OT5 - 6
+Pittsburgh
+Penguins3-2-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+BUF   3  0  2  0    5  
+PIT   1  2  2  1    6
+1st Period: ShowHide
+P1  19:17 
+Tage Thompson (BUF) scores on wrap-around shot past Tristan Jarry, assisted by Alex Tuch
+   1-0
+P1  16:52 
+Jordan Greenway (BUF) scores on wrist shot past Tristan Jarry, assisted by Jason Zucker
+   2-0
+P1  10:00 
+Ryan McLeod (BUF) high-sticking against Kris Letang (2 minutes)
+   2-0
+P1  08:59 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgeni Malkin and Sidney Crosby
+   2-1
+P1  08:27 
+JJ Peterka (BUF) scores on snap shot past Tristan Jarry, assisted by Bowen Byram and Alex Tuch
+   3-1
+2nd Period: ShowHide
+P2  12:30 
+Marcus Pettersson (PIT) slashing against JJ Peterka (2 minutes)
+   3-1
+P2  11:42 
+Jason Zucker (BUF) hooking against Lars Eller (2 minutes)
+   3-1
+P2  11:23 
+Matt Grzelcyk (PIT) tripping against Alex Tuch (2 minutes)
+   3-1
+P2  10:48 
+Drew O'Connor (PIT) scores short-handed goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Noel Acciari
+   3-2
+P2  10:48 
+BUF penalty, delaying game - unsuccessful challenge (2 minutes), served by JJ Peterka
+   3-2
+P2  04:40 
+Jesse Puljujarvi (PIT) scores on backhand shot past Ukko-Pekka Luukkonen, assisted by Lars Eller and Drew O'Connor
+   3-3
+P2  02:07 
+Alex Tuch (BUF) interference against Kris Letang (2 minutes)
+   3-3
+3rd Period: ShowHide
+P3  18:37 
+Zach Benson (BUF) hooking against Lars Eller (2 minutes)
+   3-3
+P3  16:34 
+Evgeni Malkin (PIT) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sidney Crosby
+   3-4
+P3  09:44 
+JJ Peterka (BUF) scores on wrist shot past Joel Blomqvist, assisted by Henri Jokiharju
+   4-4
+P3  09:04 
+Ryan McLeod (BUF) scores on wrist shot past Joel Blomqvist, assisted by Bowen Byram and Jason Zucker
+   5-4
+P3  00:46 
+Rickard Rakell (PIT) scores goal with extra attacker on backhand shot past Ukko-Pekka Luukkonen, assisted by Bryan Rust and Evgeni Malkin
+   5-5
+Overtime: ShowHide
+OT  04:17 
+Tage Thompson (BUF) tripping against Evgeni Malkin (2 minutes)
+   5-5
+OT  03:22 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Erik Karlsson and Evgeni Malkin
+   5-6
+1st Period: ShowHide
+P1  19:17 
+Tage Thompson (BUF) scores on wrap-around shot past Tristan Jarry, assisted by Alex Tuch
+   1-0
+P1  16:52 
+Jordan Greenway (BUF) scores on wrist shot past Tristan Jarry, assisted by Jason Zucker
+   2-0
+P1  10:00 
+Ryan McLeod (BUF) high-sticking against Kris Letang (2 minutes)
+   2-0
+P1  08:59 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgeni Malkin and Sidney Crosby
+   2-1
+P1  08:27 
+JJ Peterka (BUF) scores on snap shot past Tristan Jarry, assisted by Bowen Byram and Alex Tuch
+   3-1
+P1  19:17 
+Tage Thompson (BUF) scores on wrap-around shot past Tristan Jarry, assisted by Alex Tuch
+   1-0
+P1  16:52 
+Jordan Greenway (BUF) scores on wrist shot past Tristan Jarry, assisted by Jason Zucker
+   2-0
+P1  10:00 
+Ryan McLeod (BUF) high-sticking against Kris Letang (2 minutes)
+   2-0
+P1  08:59 
+Bryan Rust (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgeni Malkin and Sidney Crosby
+   2-1
+P1  08:27 
+JJ Peterka (BUF) scores on snap shot past Tristan Jarry, assisted by Bowen Byram and Alex Tuch
+   3-1
+P1  19:17
+Tage Thompson (BUF) scores on wrap-around shot past Tristan Jarry, assisted by Alex Tuch
+1-0
+P1  16:52
+Jordan Greenway (BUF) scores on wrist shot past Tristan Jarry, assisted by Jason Zucker
+2-0
+P1  10:00
+Ryan McLeod (BUF) high-sticking against Kris Letang (2 minutes)
+2-0
+P1  08:59
+Bryan Rust (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Evgeni Malkin and Sidney Crosby
+2-1
+P1  08:27
+JJ Peterka (BUF) scores on snap shot past Tristan Jarry, assisted by Bowen Byram and Alex Tuch
+3-1
+2nd Period: ShowHide
+P2  12:30 
+Marcus Pettersson (PIT) slashing against JJ Peterka (2 minutes)
+   3-1
+P2  11:42 
+Jason Zucker (BUF) hooking against Lars Eller (2 minutes)
+   3-1
+P2  11:23 
+Matt Grzelcyk (PIT) tripping against Alex Tuch (2 minutes)
+   3-1
+P2  10:48 
+Drew O'Connor (PIT) scores short-handed goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Noel Acciari
+   3-2
+P2  10:48 
+BUF penalty, delaying game - unsuccessful challenge (2 minutes), served by JJ Peterka
+   3-2
+P2  04:40 
+Jesse Puljujarvi (PIT) scores on backhand shot past Ukko-Pekka Luukkonen, assisted by Lars Eller and Drew O'Connor
+   3-3
+P2  02:07 
+Alex Tuch (BUF) interference against Kris Letang (2 minutes)
+   3-3
+P2  12:30 
+Marcus Pettersson (PIT) slashing against JJ Peterka (2 minutes)
+   3-1
+P2  11:42 
+Jason Zucker (BUF) hooking against Lars Eller (2 minutes)
+   3-1
+P2  11:23 
+Matt Grzelcyk (PIT) tripping against Alex Tuch (2 minutes)
+   3-1
+P2  10:48 
+Drew O'Connor (PIT) scores short-handed goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Noel Acciari
+   3-2
+P2  10:48 
+BUF penalty, delaying game - unsuccessful challenge (2 minutes), served by JJ Peterka
+   3-2
+P2  04:40 
+Jesse Puljujarvi (PIT) scores on backhand shot past Ukko-Pekka Luukkonen, assisted by Lars Eller and Drew O'Connor
+   3-3
+P2  02:07 
+Alex Tuch (BUF) interference against Kris Letang (2 minutes)
+   3-3
+P2  12:30
+Marcus Pettersson (PIT) slashing against JJ Peterka (2 minutes)
+3-1
+P2  11:42
+Jason Zucker (BUF) hooking against Lars Eller (2 minutes)
+3-1
+P2  11:23
+Matt Grzelcyk (PIT) tripping against Alex Tuch (2 minutes)
+3-1
+P2  10:48
+Drew O'Connor (PIT) scores short-handed goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Noel Acciari
+3-2
+P2  10:48
+BUF penalty, delaying game - unsuccessful challenge (2 minutes), served by JJ Peterka
+3-2
+P2  04:40
+Jesse Puljujarvi (PIT) scores on backhand shot past Ukko-Pekka Luukkonen, assisted by Lars Eller and Drew O'Connor
+3-3
+P2  02:07
+Alex Tuch (BUF) interference against Kris Letang (2 minutes)
+3-3
+3rd Period: ShowHide
+P3  18:37 
+Zach Benson (BUF) hooking against Lars Eller (2 minutes)
+   3-3
+P3  16:34 
+Evgeni Malkin (PIT) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sidney Crosby
+   3-4
+P3  09:44 
+JJ Peterka (BUF) scores on wrist shot past Joel Blomqvist, assisted by Henri Jokiharju
+   4-4
+P3  09:04 
+Ryan McLeod (BUF) scores on wrist shot past Joel Blomqvist, assisted by Bowen Byram and Jason Zucker
+   5-4
+P3  00:46 
+Rickard Rakell (PIT) scores goal with extra attacker on backhand shot past Ukko-Pekka Luukkonen, assisted by Bryan Rust and Evgeni Malkin
+   5-5
+P3  18:37 
+Zach Benson (BUF) hooking against Lars Eller (2 minutes)
+   3-3
+P3  16:34 
+Evgeni Malkin (PIT) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sidney Crosby
+   3-4
+P3  09:44 
+JJ Peterka (BUF) scores on wrist shot past Joel Blomqvist, assisted by Henri Jokiharju
+   4-4
+P3  09:04 
+Ryan McLeod (BUF) scores on wrist shot past Joel Blomqvist, assisted by Bowen Byram and Jason Zucker
+   5-4
+P3  00:46 
+Rickard Rakell (PIT) scores goal with extra attacker on backhand shot past Ukko-Pekka Luukkonen, assisted by Bryan Rust and Evgeni Malkin
+   5-5
+P3  18:37
+Zach Benson (BUF) hooking against Lars Eller (2 minutes)
+3-3
+P3  16:34
+Evgeni Malkin (PIT) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Sidney Crosby
+3-4
+P3  09:44
+JJ Peterka (BUF) scores on wrist shot past Joel Blomqvist, assisted by Henri Jokiharju
+4-4
+P3  09:04
+Ryan McLeod (BUF) scores on wrist shot past Joel Blomqvist, assisted by Bowen Byram and Jason Zucker
+5-4
+P3  00:46
+Rickard Rakell (PIT) scores goal with extra attacker on backhand shot past Ukko-Pekka Luukkonen, assisted by Bryan Rust and Evgeni Malkin
+5-5
+Overtime: ShowHide
+OT  04:17 
+Tage Thompson (BUF) tripping against Evgeni Malkin (2 minutes)
+   5-5
+OT  03:22 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Erik Karlsson and Evgeni Malkin
+   5-6
+OT  04:17 
+Tage Thompson (BUF) tripping against Evgeni Malkin (2 minutes)
+   5-5
+OT  03:22 
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Erik Karlsson and Evgeni Malkin
+   5-6
+OT  04:17
+Tage Thompson (BUF) tripping against Evgeni Malkin (2 minutes)
+5-5
+OT  03:22
+Sidney Crosby (PIT) scores power-play goal on wrist shot past Ukko-Pekka Luukkonen, assisted by Erik Karlsson and Evgeni Malkin
+5-6
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  10:28   0  0   -2   3   1   2   0   0   1/1Dylan Cozens C  15:51   0  0   -2   3   0   0   0   0  3/11Jordan Greenway L  18:37   1  0    1   2   1   0   0   0   0/1Peyton Krebs C  09:44   0  0   -1   0   0   0   0   1   3/4Sam Lafferty C  08:40   0  0    0   0   0   0   0   0   1/3Beck Malenstyn L  08:59   0  0    0   0   4   0   0   1   0/0Ryan McLeod C  16:45   1  0    1   2   0   2   0   1  7/19JJ Peterka R  18:48   2  0    3   4   0   0   1   0   1/1Jack Quinn R  12:27   0  0   -2   1   0   0   0   3   0/0Tage Thompson C  18:34   1  0    2   3   1   2   0   1  7/19Alex Tuch R  19:28   0  2    2   5   3   2   2   1   1/5Jason Zucker L  15:27   0  2    1   1   1   2   1   1   1/2Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  18:51   0  2    1   0   0   0   0   0   0/0Connor Clifton D  17:32   0  0   -1   0   1   0   0   2   0/0Rasmus Dahlin D  24:58   0  0    1   5   1   0   0   2   0/0Henri Jokiharju D  21:09   0  1    3   1   1   0   1   2   0/0Owen Power D  19:08   0  0    0   2   2   0   1   2   0/0Mattias Samuelsson D  20:27   0  0   -1   1   1   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       33  17  10   6  17 25/66
+                                        37.9%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  61:38   6  37/43  31/34   6/8   0/1     0
+              .860   .912  .750  .000 
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  10:14   0  1    1   2   0   0   1   0   2/3Anthony Beauvillier L  13:09   0  0   -2   3   0   0   0   1   0/0Michael Bunting L  16:17   0  0   -1   2   0   0   0   4   1/1Sidney Crosby C  22:02   1  2    0   3   1   0   1   3 21/31Lars Eller C  13:58   0  1   -1   1   0   0   1   1  6/11Cody Glass C  08:18   0  0    0   1   0   0   1   0   0/4Kevin Hayes R  10:09   0  0    0   1   0   0   0   0   3/3Evgeni Malkin C  22:51   1  3    1   7   2   0   2   1  8/12Drew O'Connor L  13:06   1  1    0   1   1   0   0   0   0/0Jesse Puljujarvi R  13:22   1  0   -1   3   1   0   1   0   0/0Rickard Rakell R  17:32   1  0    0   3   0   0   0   1   0/1Bryan Rust R  21:05   1  1    0   6   0   0   0   3   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  13:27   0  0    1   1   0   0   2   3   0/0Matt Grzelcyk D  20:55   0  0    0   2   2   2   0   0   0/0Erik Karlsson D  26:37   0  1   -1   2   4   0   1   3   0/0Kris Letang D  23:41   0  0   -1   2   1   0   0   1   0/0Marcus Pettersson D  21:29   0  0   -2   1   2   2   0   0   0/0Jack St. Ivany D  14:42   0  0    0   2   0   0   1   0   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       43  14   4  11  21 41/66
+                                        62.1%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  49:00   2  26/28  22/24   0/0   4/4     0
+              .929   .917  1.000 Tristan Jarry G  11:33   3    2/5    2/5   0/0   0/0     0
+              .400   .400 Penguins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  28/33  24/29   0/0   4/4     0
+              .848   .828  1.000
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  10:28   0  0   -2   3   1   2   0   0   1/1Dylan Cozens C  15:51   0  0   -2   3   0   0   0   0  3/11Jordan Greenway L  18:37   1  0    1   2   1   0   0   0   0/1Peyton Krebs C  09:44   0  0   -1   0   0   0   0   1   3/4Sam Lafferty C  08:40   0  0    0   0   0   0   0   0   1/3Beck Malenstyn L  08:59   0  0    0   0   4   0   0   1   0/0Ryan McLeod C  16:45   1  0    1   2   0   2   0   1  7/19JJ Peterka R  18:48   2  0    3   4   0   0   1   0   1/1Jack Quinn R  12:27   0  0   -2   1   0   0   0   3   0/0Tage Thompson C  18:34   1  0    2   3   1   2   0   1  7/19Alex Tuch R  19:28   0  2    2   5   3   2   2   1   1/5Jason Zucker L  15:27   0  2    1   1   1   2   1   1   1/2
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Benson L
+10:28   0  0   -2   3   1   2   0   0   1/1
+Dylan Cozens C
+15:51   0  0   -2   3   0   0   0   0  3/11
+Jordan Greenway L
+18:37   1  0    1   2   1   0   0   0   0/1
+Peyton Krebs C
+09:44   0  0   -1   0   0   0   0   1   3/4
+Sam Lafferty C
+08:40   0  0    0   0   0   0   0   0   1/3
+Beck Malenstyn L
+08:59   0  0    0   0   4   0   0   1   0/0
+Ryan McLeod C
+16:45   1  0    1   2   0   2   0   1  7/19
+JJ Peterka R
+18:48   2  0    3   4   0   0   1   0   1/1
+Jack Quinn R
+12:27   0  0   -2   1   0   0   0   3   0/0
+Tage Thompson C
+18:34   1  0    2   3   1   2   0   1  7/19
+Alex Tuch R
+19:28   0  2    2   5   3   2   2   1   1/5
+Jason Zucker L
+15:27   0  2    1   1   1   2   1   1   1/2
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  18:51   0  2    1   0   0   0   0   0   0/0Connor Clifton D  17:32   0  0   -1   0   1   0   0   2   0/0Rasmus Dahlin D  24:58   0  0    1   5   1   0   0   2   0/0Henri Jokiharju D  21:09   0  1    3   1   1   0   1   2   0/0Owen Power D  19:08   0  0    0   2   2   0   1   2   0/0Mattias Samuelsson D  20:27   0  0   -1   1   1   0   0   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bowen Byram D
+18:51   0  2    1   0   0   0   0   0   0/0
+Connor Clifton D
+17:32   0  0   -1   0   1   0   0   2   0/0
+Rasmus Dahlin D
+24:58   0  0    1   5   1   0   0   2   0/0
+Henri Jokiharju D
+21:09   0  1    3   1   1   0   1   2   0/0
+Owen Power D
+19:08   0  0    0   2   2   0   1   2   0/0
+Mattias Samuelsson D
+20:27   0  0   -1   1   1   0   0   0   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       33  17  10   6  17 25/66
+                                        37.9%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  61:38   6  37/43  31/34   6/8   0/1     0
+              .860   .912  .750  .000
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ukko-Pekka Luukkonen G
+61:38   6  37/43  31/34   6/8   0/1     0
+              .860   .912  .750  .000
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  10:14   0  1    1   2   0   0   1   0   2/3Anthony Beauvillier L  13:09   0  0   -2   3   0   0   0   1   0/0Michael Bunting L  16:17   0  0   -1   2   0   0   0   4   1/1Sidney Crosby C  22:02   1  2    0   3   1   0   1   3 21/31Lars Eller C  13:58   0  1   -1   1   0   0   1   1  6/11Cody Glass C  08:18   0  0    0   1   0   0   1   0   0/4Kevin Hayes R  10:09   0  0    0   1   0   0   0   0   3/3Evgeni Malkin C  22:51   1  3    1   7   2   0   2   1  8/12Drew O'Connor L  13:06   1  1    0   1   1   0   0   0   0/0Jesse Puljujarvi R  13:22   1  0   -1   3   1   0   1   0   0/0Rickard Rakell R  17:32   1  0    0   3   0   0   0   1   0/1Bryan Rust R  21:05   1  1    0   6   0   0   0   3   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+10:14   0  1    1   2   0   0   1   0   2/3
+Anthony Beauvillier L
+13:09   0  0   -2   3   0   0   0   1   0/0
+Michael Bunting L
+16:17   0  0   -1   2   0   0   0   4   1/1
+Sidney Crosby C
+22:02   1  2    0   3   1   0   1   3 21/31
+Lars Eller C
+13:58   0  1   -1   1   0   0   1   1  6/11
+Cody Glass C
+08:18   0  0    0   1   0   0   1   0   0/4
+Kevin Hayes R
+10:09   0  0    0   1   0   0   0   0   3/3
+Evgeni Malkin C
+22:51   1  3    1   7   2   0   2   1  8/12
+Drew O'Connor L
+13:06   1  1    0   1   1   0   0   0   0/0
+Jesse Puljujarvi R
+13:22   1  0   -1   3   1   0   1   0   0/0
+Rickard Rakell R
+17:32   1  0    0   3   0   0   0   1   0/1
+Bryan Rust R
+21:05   1  1    0   6   0   0   0   3   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  13:27   0  0    1   1   0   0   2   3   0/0Matt Grzelcyk D  20:55   0  0    0   2   2   2   0   0   0/0Erik Karlsson D  26:37   0  1   -1   2   4   0   1   3   0/0Kris Letang D  23:41   0  0   -1   2   1   0   0   1   0/0Marcus Pettersson D  21:29   0  0   -2   1   2   2   0   0   0/0Jack St. Ivany D  14:42   0  0    0   2   0   0   1   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+13:27   0  0    1   1   0   0   2   3   0/0
+Matt Grzelcyk D
+20:55   0  0    0   2   2   2   0   0   0/0
+Erik Karlsson D
+26:37   0  1   -1   2   4   0   1   3   0/0
+Kris Letang D
+23:41   0  0   -1   2   1   0   0   1   0/0
+Marcus Pettersson D
+21:29   0  0   -2   1   2   2   0   0   0/0
+Jack St. Ivany D
+14:42   0  0    0   2   0   0   1   0   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       43  14   4  11  21 41/66
+                                        62.1%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  49:00   2  26/28  22/24   0/0   4/4     0
+              .929   .917  1.000 Tristan Jarry G  11:33   3    2/5    2/5   0/0   0/0     0
+              .400   .400
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joel Blomqvist G
+49:00   2  26/28  22/24   0/0   4/4     0
+              .929   .917  1.000
+Tristan Jarry G
+11:33   3    2/5    2/5   0/0   0/0     0
+              .400   .400
+Penguins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  28/33  24/29   0/0   4/4     0
+              .848   .828  1.000
+Penguins Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

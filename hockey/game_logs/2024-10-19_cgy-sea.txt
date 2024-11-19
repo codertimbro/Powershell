@@ -1,0 +1,355 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Calgary
+Flames4-0-1Final/OT1 - 2Seattle
+Kraken4-2-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+CGY   1  0  0  0    1  
+SEA   0  1  0  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:33 
+Matt Coronato (CGY) hooking against Brandon Tanev (2 minutes)
+   0-0
+P1  01:29 
+Joshua Mahura (SEA) slashing against Nazem Kadri (2 minutes)
+   0-0
+P1  00:09 
+Blake Coleman (CGY) scores power-play goal on slap shot past Joey Daccord, assisted by Mikael Backlund
+   1-0
+2nd Period: ShowHide
+P2  18:41 
+Jamie Oleksiak (SEA) interference against Andrei Kuzmenko (2 minutes)
+   1-0
+P2  18:15 
+Nazem Kadri (CGY) high-sticking against Will Borgen (4 minutes)
+   1-0
+P2  09:20 
+Kevin Bahl (CGY) tripping against Brandon Tanev (2 minutes)
+   1-0
+P2  08:07 
+Jonathan Huberdeau (CGY) slashing against Matty Beniers (2 minutes)
+   1-0
+P2  07:35 
+Chandler Stephenson (SEA) scores power-play goal on slap shot past Dan Vladar, assisted by Jared McCann and Jaden Schwartz
+   1-1
+3rd Period: ShowHide
+P3  17:34 
+Andre Burakovsky (SEA) tripping against Jake Bean (2 minutes)
+   1-1
+P3  08:23 
+CGY penalty, too many men on the ice (2 minutes), served by Andrei Kuzmenko
+   1-1
+Overtime: ShowHide
+OT  04:12 
+Jordan Eberle (SEA) scores on wrist shot past Dan Vladar, assisted by Brandon Montour
+   1-2
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  21:09   0  1    0   3   1   0   2   1  6/20Blake Coleman C  19:14   1  0    0   3   1   0   0   1   0/0Matt Coronato R  14:30   0  0    0   1   1   2   0   0   0/0Jonathan Huberdeau C  16:09   0  0   -1   1   1   2   0   1   0/1Nazem Kadri C  17:33   0  0   -1   6   0   4   0   0 14/21Justin Kirkland C  09:21   0  0    0   0   0   0   0   0   5/8Adam Klapka R  06:32   0  0    0   1   1   0   0   0   1/1Andrei Kuzmenko L  17:08   0  0    0   2   2   0   0   1   0/0Ryan Lomberg L  08:43   0  0    0   0   0   0   0   0   0/0Anthony Mantha R  13:43   0  0    0   0   2   0   0   0   0/1Martin Pospisil C  12:46   0  0    0   0   2   0   0   2   0/7Connor Zary C  15:11   0  0    0   1   2   0   0   1   1/2Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:24   0  0   -1   0   4   0   1   1   0/0Kevin Bahl D  22:37   0  0    0   0   0   2   1   3   0/0Tyson Barrie D  18:03   0  0    0   2   0   0   0   1   0/0Jake Bean D  16:14   0  0    0   0   1   0   0   0   0/0Brayden Pachal D  16:23   0  0    0   1   0   0   0   2   0/0MacKenzie Weegar D  19:59   0  0    0   1   2   0   1   2   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       22  20  10   5  16 27/61
+                                        44.3%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:48   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  15:36   0  0    0   1   2   0   0   1  7/11Oliver Bjorkstrand R  16:05   0  0    0   4   2   0   0   2   0/0Andre Burakovsky L  13:21   0  0    0   1   1   2   0   0   0/0Jordan Eberle R  18:03   1  0    1   1   1   0   2   1   0/0Yanni Gourde C  14:04   0  0    0   0   0   0   0   0  4/14Tye Kartye L  07:22   0  0    0   0   0   0   0   0   0/0Jared McCann L  17:35   0  1    0   1   0   0   1   1   1/1Jaden Schwartz C  17:45   0  1    0   1   1   0   0   0   0/0Chandler Stephenson C  23:28   1  0    1   1   0   0   0   2 18/26Brandon Tanev L  13:50   0  0    0   1   0   0   0   1   0/0Eeli Tolvanen R  14:32   0  0    0   1   0   0   0   0   1/1Shane Wright C  13:58   0  0    0   0   0   0   0   2   3/8Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  15:18   0  0    0   0   0   0   0   0   0/0Ryker Evans D  19:33   0  0    0   0   0   0   0   1   0/0Adam Larsson D  17:36   0  0    0   1   0   0   0   0   0/0Joshua Mahura D  13:01   0  0    0   2   0   2   0   2   0/0Brandon Montour D  26:02   0  1    1   6   2   0   0   1   0/0Jamie Oleksiak D  20:22   0  0    0   2   4   2   0   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  13   6   3  15 34/61
+                                        55.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  60:21   1  21/22  18/18   3/4   0/0     0
+              .955  1.000  .750
+Calgary
+Flames4-0-1Final/OT1 - 2Seattle
+Kraken4-2-0
+Calgary
+Flames4-0-1
+Final/OT1 - 2
+Seattle
+Kraken4-2-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+CGY   1  0  0  0    1  
+SEA   0  1  0  1    2
+1st Period: ShowHide
+P1  19:33 
+Matt Coronato (CGY) hooking against Brandon Tanev (2 minutes)
+   0-0
+P1  01:29 
+Joshua Mahura (SEA) slashing against Nazem Kadri (2 minutes)
+   0-0
+P1  00:09 
+Blake Coleman (CGY) scores power-play goal on slap shot past Joey Daccord, assisted by Mikael Backlund
+   1-0
+2nd Period: ShowHide
+P2  18:41 
+Jamie Oleksiak (SEA) interference against Andrei Kuzmenko (2 minutes)
+   1-0
+P2  18:15 
+Nazem Kadri (CGY) high-sticking against Will Borgen (4 minutes)
+   1-0
+P2  09:20 
+Kevin Bahl (CGY) tripping against Brandon Tanev (2 minutes)
+   1-0
+P2  08:07 
+Jonathan Huberdeau (CGY) slashing against Matty Beniers (2 minutes)
+   1-0
+P2  07:35 
+Chandler Stephenson (SEA) scores power-play goal on slap shot past Dan Vladar, assisted by Jared McCann and Jaden Schwartz
+   1-1
+3rd Period: ShowHide
+P3  17:34 
+Andre Burakovsky (SEA) tripping against Jake Bean (2 minutes)
+   1-1
+P3  08:23 
+CGY penalty, too many men on the ice (2 minutes), served by Andrei Kuzmenko
+   1-1
+Overtime: ShowHide
+OT  04:12 
+Jordan Eberle (SEA) scores on wrist shot past Dan Vladar, assisted by Brandon Montour
+   1-2
+1st Period: ShowHide
+P1  19:33 
+Matt Coronato (CGY) hooking against Brandon Tanev (2 minutes)
+   0-0
+P1  01:29 
+Joshua Mahura (SEA) slashing against Nazem Kadri (2 minutes)
+   0-0
+P1  00:09 
+Blake Coleman (CGY) scores power-play goal on slap shot past Joey Daccord, assisted by Mikael Backlund
+   1-0
+P1  19:33 
+Matt Coronato (CGY) hooking against Brandon Tanev (2 minutes)
+   0-0
+P1  01:29 
+Joshua Mahura (SEA) slashing against Nazem Kadri (2 minutes)
+   0-0
+P1  00:09 
+Blake Coleman (CGY) scores power-play goal on slap shot past Joey Daccord, assisted by Mikael Backlund
+   1-0
+P1  19:33
+Matt Coronato (CGY) hooking against Brandon Tanev (2 minutes)
+0-0
+P1  01:29
+Joshua Mahura (SEA) slashing against Nazem Kadri (2 minutes)
+0-0
+P1  00:09
+Blake Coleman (CGY) scores power-play goal on slap shot past Joey Daccord, assisted by Mikael Backlund
+1-0
+2nd Period: ShowHide
+P2  18:41 
+Jamie Oleksiak (SEA) interference against Andrei Kuzmenko (2 minutes)
+   1-0
+P2  18:15 
+Nazem Kadri (CGY) high-sticking against Will Borgen (4 minutes)
+   1-0
+P2  09:20 
+Kevin Bahl (CGY) tripping against Brandon Tanev (2 minutes)
+   1-0
+P2  08:07 
+Jonathan Huberdeau (CGY) slashing against Matty Beniers (2 minutes)
+   1-0
+P2  07:35 
+Chandler Stephenson (SEA) scores power-play goal on slap shot past Dan Vladar, assisted by Jared McCann and Jaden Schwartz
+   1-1
+P2  18:41 
+Jamie Oleksiak (SEA) interference against Andrei Kuzmenko (2 minutes)
+   1-0
+P2  18:15 
+Nazem Kadri (CGY) high-sticking against Will Borgen (4 minutes)
+   1-0
+P2  09:20 
+Kevin Bahl (CGY) tripping against Brandon Tanev (2 minutes)
+   1-0
+P2  08:07 
+Jonathan Huberdeau (CGY) slashing against Matty Beniers (2 minutes)
+   1-0
+P2  07:35 
+Chandler Stephenson (SEA) scores power-play goal on slap shot past Dan Vladar, assisted by Jared McCann and Jaden Schwartz
+   1-1
+P2  18:41
+Jamie Oleksiak (SEA) interference against Andrei Kuzmenko (2 minutes)
+1-0
+P2  18:15
+Nazem Kadri (CGY) high-sticking against Will Borgen (4 minutes)
+1-0
+P2  09:20
+Kevin Bahl (CGY) tripping against Brandon Tanev (2 minutes)
+1-0
+P2  08:07
+Jonathan Huberdeau (CGY) slashing against Matty Beniers (2 minutes)
+1-0
+P2  07:35
+Chandler Stephenson (SEA) scores power-play goal on slap shot past Dan Vladar, assisted by Jared McCann and Jaden Schwartz
+1-1
+3rd Period: ShowHide
+P3  17:34 
+Andre Burakovsky (SEA) tripping against Jake Bean (2 minutes)
+   1-1
+P3  08:23 
+CGY penalty, too many men on the ice (2 minutes), served by Andrei Kuzmenko
+   1-1
+P3  17:34 
+Andre Burakovsky (SEA) tripping against Jake Bean (2 minutes)
+   1-1
+P3  08:23 
+CGY penalty, too many men on the ice (2 minutes), served by Andrei Kuzmenko
+   1-1
+P3  17:34
+Andre Burakovsky (SEA) tripping against Jake Bean (2 minutes)
+1-1
+P3  08:23
+CGY penalty, too many men on the ice (2 minutes), served by Andrei Kuzmenko
+1-1
+Overtime: ShowHide
+OT  04:12 
+Jordan Eberle (SEA) scores on wrist shot past Dan Vladar, assisted by Brandon Montour
+   1-2
+OT  04:12 
+Jordan Eberle (SEA) scores on wrist shot past Dan Vladar, assisted by Brandon Montour
+   1-2
+OT  04:12
+Jordan Eberle (SEA) scores on wrist shot past Dan Vladar, assisted by Brandon Montour
+1-2
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  21:09   0  1    0   3   1   0   2   1  6/20Blake Coleman C  19:14   1  0    0   3   1   0   0   1   0/0Matt Coronato R  14:30   0  0    0   1   1   2   0   0   0/0Jonathan Huberdeau C  16:09   0  0   -1   1   1   2   0   1   0/1Nazem Kadri C  17:33   0  0   -1   6   0   4   0   0 14/21Justin Kirkland C  09:21   0  0    0   0   0   0   0   0   5/8Adam Klapka R  06:32   0  0    0   1   1   0   0   0   1/1Andrei Kuzmenko L  17:08   0  0    0   2   2   0   0   1   0/0Ryan Lomberg L  08:43   0  0    0   0   0   0   0   0   0/0Anthony Mantha R  13:43   0  0    0   0   2   0   0   0   0/1Martin Pospisil C  12:46   0  0    0   0   2   0   0   2   0/7Connor Zary C  15:11   0  0    0   1   2   0   0   1   1/2Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:24   0  0   -1   0   4   0   1   1   0/0Kevin Bahl D  22:37   0  0    0   0   0   2   1   3   0/0Tyson Barrie D  18:03   0  0    0   2   0   0   0   1   0/0Jake Bean D  16:14   0  0    0   0   1   0   0   0   0/0Brayden Pachal D  16:23   0  0    0   1   0   0   0   2   0/0MacKenzie Weegar D  19:59   0  0    0   1   2   0   1   2   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       22  20  10   5  16 27/61
+                                        44.3%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:48   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750 
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  15:36   0  0    0   1   2   0   0   1  7/11Oliver Bjorkstrand R  16:05   0  0    0   4   2   0   0   2   0/0Andre Burakovsky L  13:21   0  0    0   1   1   2   0   0   0/0Jordan Eberle R  18:03   1  0    1   1   1   0   2   1   0/0Yanni Gourde C  14:04   0  0    0   0   0   0   0   0  4/14Tye Kartye L  07:22   0  0    0   0   0   0   0   0   0/0Jared McCann L  17:35   0  1    0   1   0   0   1   1   1/1Jaden Schwartz C  17:45   0  1    0   1   1   0   0   0   0/0Chandler Stephenson C  23:28   1  0    1   1   0   0   0   2 18/26Brandon Tanev L  13:50   0  0    0   1   0   0   0   1   0/0Eeli Tolvanen R  14:32   0  0    0   1   0   0   0   0   1/1Shane Wright C  13:58   0  0    0   0   0   0   0   2   3/8Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  15:18   0  0    0   0   0   0   0   0   0/0Ryker Evans D  19:33   0  0    0   0   0   0   0   1   0/0Adam Larsson D  17:36   0  0    0   1   0   0   0   0   0/0Joshua Mahura D  13:01   0  0    0   2   0   2   0   2   0/0Brandon Montour D  26:02   0  1    1   6   2   0   0   1   0/0Jamie Oleksiak D  20:22   0  0    0   2   4   2   0   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  13   6   3  15 34/61
+                                        55.7%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  60:21   1  21/22  18/18   3/4   0/0     0
+              .955  1.000  .750
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  21:09   0  1    0   3   1   0   2   1  6/20Blake Coleman C  19:14   1  0    0   3   1   0   0   1   0/0Matt Coronato R  14:30   0  0    0   1   1   2   0   0   0/0Jonathan Huberdeau C  16:09   0  0   -1   1   1   2   0   1   0/1Nazem Kadri C  17:33   0  0   -1   6   0   4   0   0 14/21Justin Kirkland C  09:21   0  0    0   0   0   0   0   0   5/8Adam Klapka R  06:32   0  0    0   1   1   0   0   0   1/1Andrei Kuzmenko L  17:08   0  0    0   2   2   0   0   1   0/0Ryan Lomberg L  08:43   0  0    0   0   0   0   0   0   0/0Anthony Mantha R  13:43   0  0    0   0   2   0   0   0   0/1Martin Pospisil C  12:46   0  0    0   0   2   0   0   2   0/7Connor Zary C  15:11   0  0    0   1   2   0   0   1   1/2
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+21:09   0  1    0   3   1   0   2   1  6/20
+Blake Coleman C
+19:14   1  0    0   3   1   0   0   1   0/0
+Matt Coronato R
+14:30   0  0    0   1   1   2   0   0   0/0
+Jonathan Huberdeau C
+16:09   0  0   -1   1   1   2   0   1   0/1
+Nazem Kadri C
+17:33   0  0   -1   6   0   4   0   0 14/21
+Justin Kirkland C
+09:21   0  0    0   0   0   0   0   0   5/8
+Adam Klapka R
+06:32   0  0    0   1   1   0   0   0   1/1
+Andrei Kuzmenko L
+17:08   0  0    0   2   2   0   0   1   0/0
+Ryan Lomberg L
+08:43   0  0    0   0   0   0   0   0   0/0
+Anthony Mantha R
+13:43   0  0    0   0   2   0   0   0   0/1
+Martin Pospisil C
+12:46   0  0    0   0   2   0   0   2   0/7
+Connor Zary C
+15:11   0  0    0   1   2   0   0   1   1/2
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  25:24   0  0   -1   0   4   0   1   1   0/0Kevin Bahl D  22:37   0  0    0   0   0   2   1   3   0/0Tyson Barrie D  18:03   0  0    0   2   0   0   0   1   0/0Jake Bean D  16:14   0  0    0   0   1   0   0   0   0/0Brayden Pachal D  16:23   0  0    0   1   0   0   0   2   0/0MacKenzie Weegar D  19:59   0  0    0   1   2   0   1   2   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+25:24   0  0   -1   0   4   0   1   1   0/0
+Kevin Bahl D
+22:37   0  0    0   0   0   2   1   3   0/0
+Tyson Barrie D
+18:03   0  0    0   2   0   0   0   1   0/0
+Jake Bean D
+16:14   0  0    0   0   1   0   0   0   0/0
+Brayden Pachal D
+16:23   0  0    0   1   0   0   0   2   0/0
+MacKenzie Weegar D
+19:59   0  0    0   1   2   0   1   2   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       22  20  10   5  16 27/61
+                                        44.3%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:48   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dan Vladar G
+60:48   2  21/23  18/19   3/4   0/0     0
+              .913   .947  .750
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  15:36   0  0    0   1   2   0   0   1  7/11Oliver Bjorkstrand R  16:05   0  0    0   4   2   0   0   2   0/0Andre Burakovsky L  13:21   0  0    0   1   1   2   0   0   0/0Jordan Eberle R  18:03   1  0    1   1   1   0   2   1   0/0Yanni Gourde C  14:04   0  0    0   0   0   0   0   0  4/14Tye Kartye L  07:22   0  0    0   0   0   0   0   0   0/0Jared McCann L  17:35   0  1    0   1   0   0   1   1   1/1Jaden Schwartz C  17:45   0  1    0   1   1   0   0   0   0/0Chandler Stephenson C  23:28   1  0    1   1   0   0   0   2 18/26Brandon Tanev L  13:50   0  0    0   1   0   0   0   1   0/0Eeli Tolvanen R  14:32   0  0    0   1   0   0   0   0   1/1Shane Wright C  13:58   0  0    0   0   0   0   0   2   3/8
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+15:36   0  0    0   1   2   0   0   1  7/11
+Oliver Bjorkstrand R
+16:05   0  0    0   4   2   0   0   2   0/0
+Andre Burakovsky L
+13:21   0  0    0   1   1   2   0   0   0/0
+Jordan Eberle R
+18:03   1  0    1   1   1   0   2   1   0/0
+Yanni Gourde C
+14:04   0  0    0   0   0   0   0   0  4/14
+Tye Kartye L
+07:22   0  0    0   0   0   0   0   0   0/0
+Jared McCann L
+17:35   0  1    0   1   0   0   1   1   1/1
+Jaden Schwartz C
+17:45   0  1    0   1   1   0   0   0   0/0
+Chandler Stephenson C
+23:28   1  0    1   1   0   0   0   2 18/26
+Brandon Tanev L
+13:50   0  0    0   1   0   0   0   1   0/0
+Eeli Tolvanen R
+14:32   0  0    0   1   0   0   0   0   1/1
+Shane Wright C
+13:58   0  0    0   0   0   0   0   2   3/8
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  15:18   0  0    0   0   0   0   0   0   0/0Ryker Evans D  19:33   0  0    0   0   0   0   0   1   0/0Adam Larsson D  17:36   0  0    0   1   0   0   0   0   0/0Joshua Mahura D  13:01   0  0    0   2   0   2   0   2   0/0Brandon Montour D  26:02   0  1    1   6   2   0   0   1   0/0Jamie Oleksiak D  20:22   0  0    0   2   4   2   0   1   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+15:18   0  0    0   0   0   0   0   0   0/0
+Ryker Evans D
+19:33   0  0    0   0   0   0   0   1   0/0
+Adam Larsson D
+17:36   0  0    0   1   0   0   0   0   0/0
+Joshua Mahura D
+13:01   0  0    0   2   0   2   0   2   0/0
+Brandon Montour D
+26:02   0  1    1   6   2   0   0   1   0/0
+Jamie Oleksiak D
+20:22   0  0    0   2   4   2   0   1   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  13   6   3  15 34/61
+                                        55.7%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  60:21   1  21/22  18/18   3/4   0/0     0
+              .955  1.000  .750
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joey Daccord G
+60:21   1  21/22  18/18   3/4   0/0     0
+              .955  1.000  .750
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

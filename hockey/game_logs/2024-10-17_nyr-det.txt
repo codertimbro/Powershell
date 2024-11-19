@@ -1,0 +1,502 @@
+< Oct. 17 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Rangers3-0-1Final5 - 2Detroit
+Red Wings1-3-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NYR   2  3  0    5  
+DET   0  1  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:53 
+Vincent Trocheck (NYR) tripping against Dylan Larkin (2 minutes)
+   0-0
+P1  14:35 
+Adam Fox (NYR) slashing against Dylan Larkin (2 minutes)
+   0-0
+P1  11:30 
+Artemi Panarin (NYR) scores on wrist shot past Cam Talbot, assisted by Vincent Trocheck and Alexis Lafrenière
+   1-0
+P1  04:32 
+Alex DeBrincat (DET) tripping against Alexis Lafrenière (2 minutes)
+   1-0
+P1  04:21 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   2-0
+2nd Period: ShowHide
+P2  18:33 
+Moritz Seider (DET) scores on wrist shot past Jonathan Quick, assisted by J.T. Compher and Lucas Raymond
+   2-1
+P2  12:01 
+Jonatan Berggren (DET) holding against Reilly Smith (2 minutes)
+   2-1
+P2  11:14 
+Vincent Trocheck (NYR) scores power-play goal on tip-in past Cam Talbot, assisted by Artemi Panarin and Adam Fox
+   3-1
+P2  09:14 
+Erik Gustafsson (DET) high-sticking against Jonny Brodzinski (2 minutes)
+   3-1
+P2  08:18 
+Artemi Panarin (NYR) scores power-play goal on slap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   4-1
+P2  07:40 
+Victor Mancini (NYR) scores on wrist shot past Cam Talbot, assisted by Kaapo Kakko and Filip Chytil
+   5-1
+P2  05:56 
+Kaapo Kakko (NYR) holding against Christian Fischer (2 minutes)
+   5-1
+P2  05:56 
+Christian Fischer (DET) high-sticking against Zac Jones (2 minutes)
+   5-1
+3rd Period: ShowHide
+P3  17:13 
+Ben Chiarot (DET) roughing against Sam Carrick (2 minutes)
+   5-1
+P3  17:13 
+Sam Carrick (NYR) slashing against Alex Lyon (2 minutes)
+   5-1
+P3  12:59 
+Kaapo Kakko (NYR) tripping against Alex DeBrincat (2 minutes)
+   5-1
+P3  05:34 
+Erik Gustafsson (DET) high-sticking against Adam Edstrom (2 minutes)
+   5-1
+P3  04:52 
+Kaapo Kakko (NYR) goalkeeper interference against Alex Lyon (2 minutes)
+   5-1
+P3  03:19 
+J.T. Compher (DET) scores power-play goal on tip-in past Jonathan Quick, assisted by Ben Chiarot and Erik Gustafsson
+   5-2
+P3  00:26 
+Braden Schneider (NYR) delaying game - puck over glass (2 minutes)
+   5-2
+Box Score:
+ 
+Back to Top
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  11:12   0  0    0   0   0   0   2   1   2/3Sam Carrick C  11:38   0  0    0   2   2   2   0   1  5/11Filip Chytil C  13:17   0  1    1   1   1   0   0   0  9/14Will Cuylle L  14:42   0  0    1   4   1   0   0   1   0/1Adam Edstrom C  09:05   0  0    0   2   2   0   0   0   0/0Kaapo Kakko R  12:39   0  1    1   2   0   6   0   0   0/0Chris Kreider L  14:56   0  0    0   3   0   0   0   0   1/1Alexis Lafrenière L  15:05   0  1    0   2   0   0   1   0   1/1Artemi Panarin L  16:34   3  1    0   4   0   0   0   1   0/0Reilly Smith R  15:24   0  0    0   0   0   0   0   1   0/0Vincent Trocheck C  18:30   1  3    0   2   0   2   1   1 10/17Mika Zibanejad C  18:10   0  0    0   0   2   0   2   2  8/17Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  19:25   0  3    0   0   0   2   0   1   0/0Zac Jones D  15:32   0  0    1   0   1   0   1   1   0/0Victor Mancini D  17:37   1  0    1   2   1   0   0   0   0/0K'Andre Miller D  20:19   0  0   -1   4   1   0   1   1   0/0Braden Schneider D  21:05   0  0    1   2   0   2   0   1   0/0Jacob Trouba D  23:38   0  0    0   4   3   0   0   2   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       34  14  14   8  14 36/65
+                                        55.4%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonathan Quick G  59:13   2  29/31  25/26   4/5   0/0     0
+              .935   .962  .800 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:37   0  0    0   0   0   2   0   1   0/1J.T. Compher L  16:26   1  1    1   2   0   0   0   1  6/11Andrew Copp C  13:34   0  0   -1   0   0   0   1   0  8/18Alex DeBrincat R  17:44   0  0    0   1   0   2   0   0   0/1Christian Fischer R  10:18   0  0   -1   1   1   2   0   0   0/0Patrick Kane R  19:13   0  0    0   4   0   0   0   1   0/0Dylan Larkin C  18:47   0  0    0   2   0   0   0   1 11/22Tyler Motte C  09:33   0  0   -1   2   1   0   2   0   0/2Michael Rasmussen C  13:08   0  0    0   2   1   0   0   1   1/1Lucas Raymond L  15:26   0  1    0   4   1   0   0   0   0/0Vladimir Tarasenko R  15:29   0  0    0   2   1   0   1   2   0/0Joe Veleno C  12:36   0  0   -1   0   0   0   0   1   3/9Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  19:31   0  1   -1   4   2   2   0   1   0/0Simon Edvinsson D  20:55   0  0    0   0   4   0   0   0   0/0Erik Gustafsson D  18:45   0  1    0   2   2   4   0   3   0/0Justin Holl D  16:15   0  0    0   1   1   0   0   3   0/0Olli Maatta D  17:03   0  0   -2   0   1   0   0   3   0/0Moritz Seider D  21:54   1  0    1   4   2   0   1   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       31  17  12   5  18 29/65
+                                        44.6%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  27:32   0  15/15  14/14   1/1   0/0     0
+             1.000  1.000 1.000 Cam Talbot G  32:20   5  14/19  13/15   1/4   0/0     0
+              .737   .867  .250 Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  29/34  27/29   2/5   0/0     0
+              .853   .931  .400
+New York
+Rangers3-0-1Final5 - 2Detroit
+Red Wings1-3-0
+New York
+Rangers3-0-1
+Final5 - 2
+Detroit
+Red Wings1-3-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NYR   2  3  0    5  
+DET   0  1  1    2
+1st Period: ShowHide
+P1  15:53 
+Vincent Trocheck (NYR) tripping against Dylan Larkin (2 minutes)
+   0-0
+P1  14:35 
+Adam Fox (NYR) slashing against Dylan Larkin (2 minutes)
+   0-0
+P1  11:30 
+Artemi Panarin (NYR) scores on wrist shot past Cam Talbot, assisted by Vincent Trocheck and Alexis Lafrenière
+   1-0
+P1  04:32 
+Alex DeBrincat (DET) tripping against Alexis Lafrenière (2 minutes)
+   1-0
+P1  04:21 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   2-0
+2nd Period: ShowHide
+P2  18:33 
+Moritz Seider (DET) scores on wrist shot past Jonathan Quick, assisted by J.T. Compher and Lucas Raymond
+   2-1
+P2  12:01 
+Jonatan Berggren (DET) holding against Reilly Smith (2 minutes)
+   2-1
+P2  11:14 
+Vincent Trocheck (NYR) scores power-play goal on tip-in past Cam Talbot, assisted by Artemi Panarin and Adam Fox
+   3-1
+P2  09:14 
+Erik Gustafsson (DET) high-sticking against Jonny Brodzinski (2 minutes)
+   3-1
+P2  08:18 
+Artemi Panarin (NYR) scores power-play goal on slap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   4-1
+P2  07:40 
+Victor Mancini (NYR) scores on wrist shot past Cam Talbot, assisted by Kaapo Kakko and Filip Chytil
+   5-1
+P2  05:56 
+Kaapo Kakko (NYR) holding against Christian Fischer (2 minutes)
+   5-1
+P2  05:56 
+Christian Fischer (DET) high-sticking against Zac Jones (2 minutes)
+   5-1
+3rd Period: ShowHide
+P3  17:13 
+Ben Chiarot (DET) roughing against Sam Carrick (2 minutes)
+   5-1
+P3  17:13 
+Sam Carrick (NYR) slashing against Alex Lyon (2 minutes)
+   5-1
+P3  12:59 
+Kaapo Kakko (NYR) tripping against Alex DeBrincat (2 minutes)
+   5-1
+P3  05:34 
+Erik Gustafsson (DET) high-sticking against Adam Edstrom (2 minutes)
+   5-1
+P3  04:52 
+Kaapo Kakko (NYR) goalkeeper interference against Alex Lyon (2 minutes)
+   5-1
+P3  03:19 
+J.T. Compher (DET) scores power-play goal on tip-in past Jonathan Quick, assisted by Ben Chiarot and Erik Gustafsson
+   5-2
+P3  00:26 
+Braden Schneider (NYR) delaying game - puck over glass (2 minutes)
+   5-2
+1st Period: ShowHide
+P1  15:53 
+Vincent Trocheck (NYR) tripping against Dylan Larkin (2 minutes)
+   0-0
+P1  14:35 
+Adam Fox (NYR) slashing against Dylan Larkin (2 minutes)
+   0-0
+P1  11:30 
+Artemi Panarin (NYR) scores on wrist shot past Cam Talbot, assisted by Vincent Trocheck and Alexis Lafrenière
+   1-0
+P1  04:32 
+Alex DeBrincat (DET) tripping against Alexis Lafrenière (2 minutes)
+   1-0
+P1  04:21 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   2-0
+P1  15:53 
+Vincent Trocheck (NYR) tripping against Dylan Larkin (2 minutes)
+   0-0
+P1  14:35 
+Adam Fox (NYR) slashing against Dylan Larkin (2 minutes)
+   0-0
+P1  11:30 
+Artemi Panarin (NYR) scores on wrist shot past Cam Talbot, assisted by Vincent Trocheck and Alexis Lafrenière
+   1-0
+P1  04:32 
+Alex DeBrincat (DET) tripping against Alexis Lafrenière (2 minutes)
+   1-0
+P1  04:21 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   2-0
+P1  15:53
+Vincent Trocheck (NYR) tripping against Dylan Larkin (2 minutes)
+0-0
+P1  14:35
+Adam Fox (NYR) slashing against Dylan Larkin (2 minutes)
+0-0
+P1  11:30
+Artemi Panarin (NYR) scores on wrist shot past Cam Talbot, assisted by Vincent Trocheck and Alexis Lafrenière
+1-0
+P1  04:32
+Alex DeBrincat (DET) tripping against Alexis Lafrenière (2 minutes)
+1-0
+P1  04:21
+Artemi Panarin (NYR) scores power-play goal on snap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+2-0
+2nd Period: ShowHide
+P2  18:33 
+Moritz Seider (DET) scores on wrist shot past Jonathan Quick, assisted by J.T. Compher and Lucas Raymond
+   2-1
+P2  12:01 
+Jonatan Berggren (DET) holding against Reilly Smith (2 minutes)
+   2-1
+P2  11:14 
+Vincent Trocheck (NYR) scores power-play goal on tip-in past Cam Talbot, assisted by Artemi Panarin and Adam Fox
+   3-1
+P2  09:14 
+Erik Gustafsson (DET) high-sticking against Jonny Brodzinski (2 minutes)
+   3-1
+P2  08:18 
+Artemi Panarin (NYR) scores power-play goal on slap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   4-1
+P2  07:40 
+Victor Mancini (NYR) scores on wrist shot past Cam Talbot, assisted by Kaapo Kakko and Filip Chytil
+   5-1
+P2  05:56 
+Kaapo Kakko (NYR) holding against Christian Fischer (2 minutes)
+   5-1
+P2  05:56 
+Christian Fischer (DET) high-sticking against Zac Jones (2 minutes)
+   5-1
+P2  18:33 
+Moritz Seider (DET) scores on wrist shot past Jonathan Quick, assisted by J.T. Compher and Lucas Raymond
+   2-1
+P2  12:01 
+Jonatan Berggren (DET) holding against Reilly Smith (2 minutes)
+   2-1
+P2  11:14 
+Vincent Trocheck (NYR) scores power-play goal on tip-in past Cam Talbot, assisted by Artemi Panarin and Adam Fox
+   3-1
+P2  09:14 
+Erik Gustafsson (DET) high-sticking against Jonny Brodzinski (2 minutes)
+   3-1
+P2  08:18 
+Artemi Panarin (NYR) scores power-play goal on slap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+   4-1
+P2  07:40 
+Victor Mancini (NYR) scores on wrist shot past Cam Talbot, assisted by Kaapo Kakko and Filip Chytil
+   5-1
+P2  05:56 
+Kaapo Kakko (NYR) holding against Christian Fischer (2 minutes)
+   5-1
+P2  05:56 
+Christian Fischer (DET) high-sticking against Zac Jones (2 minutes)
+   5-1
+P2  18:33
+Moritz Seider (DET) scores on wrist shot past Jonathan Quick, assisted by J.T. Compher and Lucas Raymond
+2-1
+P2  12:01
+Jonatan Berggren (DET) holding against Reilly Smith (2 minutes)
+2-1
+P2  11:14
+Vincent Trocheck (NYR) scores power-play goal on tip-in past Cam Talbot, assisted by Artemi Panarin and Adam Fox
+3-1
+P2  09:14
+Erik Gustafsson (DET) high-sticking against Jonny Brodzinski (2 minutes)
+3-1
+P2  08:18
+Artemi Panarin (NYR) scores power-play goal on slap shot past Cam Talbot, assisted by Adam Fox and Vincent Trocheck
+4-1
+P2  07:40
+Victor Mancini (NYR) scores on wrist shot past Cam Talbot, assisted by Kaapo Kakko and Filip Chytil
+5-1
+P2  05:56
+Kaapo Kakko (NYR) holding against Christian Fischer (2 minutes)
+5-1
+P2  05:56
+Christian Fischer (DET) high-sticking against Zac Jones (2 minutes)
+5-1
+3rd Period: ShowHide
+P3  17:13 
+Ben Chiarot (DET) roughing against Sam Carrick (2 minutes)
+   5-1
+P3  17:13 
+Sam Carrick (NYR) slashing against Alex Lyon (2 minutes)
+   5-1
+P3  12:59 
+Kaapo Kakko (NYR) tripping against Alex DeBrincat (2 minutes)
+   5-1
+P3  05:34 
+Erik Gustafsson (DET) high-sticking against Adam Edstrom (2 minutes)
+   5-1
+P3  04:52 
+Kaapo Kakko (NYR) goalkeeper interference against Alex Lyon (2 minutes)
+   5-1
+P3  03:19 
+J.T. Compher (DET) scores power-play goal on tip-in past Jonathan Quick, assisted by Ben Chiarot and Erik Gustafsson
+   5-2
+P3  00:26 
+Braden Schneider (NYR) delaying game - puck over glass (2 minutes)
+   5-2
+P3  17:13 
+Ben Chiarot (DET) roughing against Sam Carrick (2 minutes)
+   5-1
+P3  17:13 
+Sam Carrick (NYR) slashing against Alex Lyon (2 minutes)
+   5-1
+P3  12:59 
+Kaapo Kakko (NYR) tripping against Alex DeBrincat (2 minutes)
+   5-1
+P3  05:34 
+Erik Gustafsson (DET) high-sticking against Adam Edstrom (2 minutes)
+   5-1
+P3  04:52 
+Kaapo Kakko (NYR) goalkeeper interference against Alex Lyon (2 minutes)
+   5-1
+P3  03:19 
+J.T. Compher (DET) scores power-play goal on tip-in past Jonathan Quick, assisted by Ben Chiarot and Erik Gustafsson
+   5-2
+P3  00:26 
+Braden Schneider (NYR) delaying game - puck over glass (2 minutes)
+   5-2
+P3  17:13
+Ben Chiarot (DET) roughing against Sam Carrick (2 minutes)
+5-1
+P3  17:13
+Sam Carrick (NYR) slashing against Alex Lyon (2 minutes)
+5-1
+P3  12:59
+Kaapo Kakko (NYR) tripping against Alex DeBrincat (2 minutes)
+5-1
+P3  05:34
+Erik Gustafsson (DET) high-sticking against Adam Edstrom (2 minutes)
+5-1
+P3  04:52
+Kaapo Kakko (NYR) goalkeeper interference against Alex Lyon (2 minutes)
+5-1
+P3  03:19
+J.T. Compher (DET) scores power-play goal on tip-in past Jonathan Quick, assisted by Ben Chiarot and Erik Gustafsson
+5-2
+P3  00:26
+Braden Schneider (NYR) delaying game - puck over glass (2 minutes)
+5-2
+Box Score:
+ 
+Back to Top
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  11:12   0  0    0   0   0   0   2   1   2/3Sam Carrick C  11:38   0  0    0   2   2   2   0   1  5/11Filip Chytil C  13:17   0  1    1   1   1   0   0   0  9/14Will Cuylle L  14:42   0  0    1   4   1   0   0   1   0/1Adam Edstrom C  09:05   0  0    0   2   2   0   0   0   0/0Kaapo Kakko R  12:39   0  1    1   2   0   6   0   0   0/0Chris Kreider L  14:56   0  0    0   3   0   0   0   0   1/1Alexis Lafrenière L  15:05   0  1    0   2   0   0   1   0   1/1Artemi Panarin L  16:34   3  1    0   4   0   0   0   1   0/0Reilly Smith R  15:24   0  0    0   0   0   0   0   1   0/0Vincent Trocheck C  18:30   1  3    0   2   0   2   1   1 10/17Mika Zibanejad C  18:10   0  0    0   0   2   0   2   2  8/17Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  19:25   0  3    0   0   0   2   0   1   0/0Zac Jones D  15:32   0  0    1   0   1   0   1   1   0/0Victor Mancini D  17:37   1  0    1   2   1   0   0   0   0/0K'Andre Miller D  20:19   0  0   -1   4   1   0   1   1   0/0Braden Schneider D  21:05   0  0    1   2   0   2   0   1   0/0Jacob Trouba D  23:38   0  0    0   4   3   0   0   2   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       34  14  14   8  14 36/65
+                                        55.4%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonathan Quick G  59:13   2  29/31  25/26   4/5   0/0     0
+              .935   .962  .800 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:37   0  0    0   0   0   2   0   1   0/1J.T. Compher L  16:26   1  1    1   2   0   0   0   1  6/11Andrew Copp C  13:34   0  0   -1   0   0   0   1   0  8/18Alex DeBrincat R  17:44   0  0    0   1   0   2   0   0   0/1Christian Fischer R  10:18   0  0   -1   1   1   2   0   0   0/0Patrick Kane R  19:13   0  0    0   4   0   0   0   1   0/0Dylan Larkin C  18:47   0  0    0   2   0   0   0   1 11/22Tyler Motte C  09:33   0  0   -1   2   1   0   2   0   0/2Michael Rasmussen C  13:08   0  0    0   2   1   0   0   1   1/1Lucas Raymond L  15:26   0  1    0   4   1   0   0   0   0/0Vladimir Tarasenko R  15:29   0  0    0   2   1   0   1   2   0/0Joe Veleno C  12:36   0  0   -1   0   0   0   0   1   3/9Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  19:31   0  1   -1   4   2   2   0   1   0/0Simon Edvinsson D  20:55   0  0    0   0   4   0   0   0   0/0Erik Gustafsson D  18:45   0  1    0   2   2   4   0   3   0/0Justin Holl D  16:15   0  0    0   1   1   0   0   3   0/0Olli Maatta D  17:03   0  0   -2   0   1   0   0   3   0/0Moritz Seider D  21:54   1  0    1   4   2   0   1   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       31  17  12   5  18 29/65
+                                        44.6%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  27:32   0  15/15  14/14   1/1   0/0     0
+             1.000  1.000 1.000 Cam Talbot G  32:20   5  14/19  13/15   1/4   0/0     0
+              .737   .867  .250 Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  29/34  27/29   2/5   0/0     0
+              .853   .931  .400
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  11:12   0  0    0   0   0   0   2   1   2/3Sam Carrick C  11:38   0  0    0   2   2   2   0   1  5/11Filip Chytil C  13:17   0  1    1   1   1   0   0   0  9/14Will Cuylle L  14:42   0  0    1   4   1   0   0   1   0/1Adam Edstrom C  09:05   0  0    0   2   2   0   0   0   0/0Kaapo Kakko R  12:39   0  1    1   2   0   6   0   0   0/0Chris Kreider L  14:56   0  0    0   3   0   0   0   0   1/1Alexis Lafrenière L  15:05   0  1    0   2   0   0   1   0   1/1Artemi Panarin L  16:34   3  1    0   4   0   0   0   1   0/0Reilly Smith R  15:24   0  0    0   0   0   0   0   1   0/0Vincent Trocheck C  18:30   1  3    0   2   0   2   1   1 10/17Mika Zibanejad C  18:10   0  0    0   0   2   0   2   2  8/17
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonny Brodzinski C
+11:12   0  0    0   0   0   0   2   1   2/3
+Sam Carrick C
+11:38   0  0    0   2   2   2   0   1  5/11
+Filip Chytil C
+13:17   0  1    1   1   1   0   0   0  9/14
+Will Cuylle L
+14:42   0  0    1   4   1   0   0   1   0/1
+Adam Edstrom C
+09:05   0  0    0   2   2   0   0   0   0/0
+Kaapo Kakko R
+12:39   0  1    1   2   0   6   0   0   0/0
+Chris Kreider L
+14:56   0  0    0   3   0   0   0   0   1/1
+Alexis Lafrenière L
+15:05   0  1    0   2   0   0   1   0   1/1
+Artemi Panarin L
+16:34   3  1    0   4   0   0   0   1   0/0
+Reilly Smith R
+15:24   0  0    0   0   0   0   0   1   0/0
+Vincent Trocheck C
+18:30   1  3    0   2   0   2   1   1 10/17
+Mika Zibanejad C
+18:10   0  0    0   0   2   0   2   2  8/17
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  19:25   0  3    0   0   0   2   0   1   0/0Zac Jones D  15:32   0  0    1   0   1   0   1   1   0/0Victor Mancini D  17:37   1  0    1   2   1   0   0   0   0/0K'Andre Miller D  20:19   0  0   -1   4   1   0   1   1   0/0Braden Schneider D  21:05   0  0    1   2   0   2   0   1   0/0Jacob Trouba D  23:38   0  0    0   4   3   0   0   2   0/0
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Adam Fox D
+19:25   0  3    0   0   0   2   0   1   0/0
+Zac Jones D
+15:32   0  0    1   0   1   0   1   1   0/0
+Victor Mancini D
+17:37   1  0    1   2   1   0   0   0   0/0
+K'Andre Miller D
+20:19   0  0   -1   4   1   0   1   1   0/0
+Braden Schneider D
+21:05   0  0    1   2   0   2   0   1   0/0
+Jacob Trouba D
+23:38   0  0    0   4   3   0   0   2   0/0
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       34  14  14   8  14 36/65
+                                        55.4%
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonathan Quick G  59:13   2  29/31  25/26   4/5   0/0     0
+              .935   .962  .800
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jonathan Quick G
+59:13   2  29/31  25/26   4/5   0/0     0
+              .935   .962  .800
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  15:37   0  0    0   0   0   2   0   1   0/1J.T. Compher L  16:26   1  1    1   2   0   0   0   1  6/11Andrew Copp C  13:34   0  0   -1   0   0   0   1   0  8/18Alex DeBrincat R  17:44   0  0    0   1   0   2   0   0   0/1Christian Fischer R  10:18   0  0   -1   1   1   2   0   0   0/0Patrick Kane R  19:13   0  0    0   4   0   0   0   1   0/0Dylan Larkin C  18:47   0  0    0   2   0   0   0   1 11/22Tyler Motte C  09:33   0  0   -1   2   1   0   2   0   0/2Michael Rasmussen C  13:08   0  0    0   2   1   0   0   1   1/1Lucas Raymond L  15:26   0  1    0   4   1   0   0   0   0/0Vladimir Tarasenko R  15:29   0  0    0   2   1   0   1   2   0/0Joe Veleno C  12:36   0  0   -1   0   0   0   0   1   3/9
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+15:37   0  0    0   0   0   2   0   1   0/1
+J.T. Compher L
+16:26   1  1    1   2   0   0   0   1  6/11
+Andrew Copp C
+13:34   0  0   -1   0   0   0   1   0  8/18
+Alex DeBrincat R
+17:44   0  0    0   1   0   2   0   0   0/1
+Christian Fischer R
+10:18   0  0   -1   1   1   2   0   0   0/0
+Patrick Kane R
+19:13   0  0    0   4   0   0   0   1   0/0
+Dylan Larkin C
+18:47   0  0    0   2   0   0   0   1 11/22
+Tyler Motte C
+09:33   0  0   -1   2   1   0   2   0   0/2
+Michael Rasmussen C
+13:08   0  0    0   2   1   0   0   1   1/1
+Lucas Raymond L
+15:26   0  1    0   4   1   0   0   0   0/0
+Vladimir Tarasenko R
+15:29   0  0    0   2   1   0   1   2   0/0
+Joe Veleno C
+12:36   0  0   -1   0   0   0   0   1   3/9
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  19:31   0  1   -1   4   2   2   0   1   0/0Simon Edvinsson D  20:55   0  0    0   0   4   0   0   0   0/0Erik Gustafsson D  18:45   0  1    0   2   2   4   0   3   0/0Justin Holl D  16:15   0  0    0   1   1   0   0   3   0/0Olli Maatta D  17:03   0  0   -2   0   1   0   0   3   0/0Moritz Seider D  21:54   1  0    1   4   2   0   1   0   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+19:31   0  1   -1   4   2   2   0   1   0/0
+Simon Edvinsson D
+20:55   0  0    0   0   4   0   0   0   0/0
+Erik Gustafsson D
+18:45   0  1    0   2   2   4   0   3   0/0
+Justin Holl D
+16:15   0  0    0   1   1   0   0   3   0/0
+Olli Maatta D
+17:03   0  0   -2   0   1   0   0   3   0/0
+Moritz Seider D
+21:54   1  0    1   4   2   0   1   0   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       31  17  12   5  18 29/65
+                                        44.6%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  27:32   0  15/15  14/14   1/1   0/0     0
+             1.000  1.000 1.000 Cam Talbot G  32:20   5  14/19  13/15   1/4   0/0     0
+              .737   .867  .250
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Lyon G
+27:32   0  15/15  14/14   1/1   0/0     0
+             1.000  1.000 1.000
+Cam Talbot G
+32:20   5  14/19  13/15   1/4   0/0     0
+              .737   .867  .250
+Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  29/34  27/29   2/5   0/0     0
+              .853   .931  .400
+Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

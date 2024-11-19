@@ -1,0 +1,472 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Carolina
+Hurricanes2-2-0Final3 - 4St. Louis
+Blues4-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CAR   1  0  2    3  
+STL   0  3  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:39 
+Andrei Svechnikov (CAR) scores on wrist shot past Joel Hofer, assisted by Sebastian Aho and Seth Jarvis
+   1-0
+P1  09:01 
+Jake Neighbours (STL) hooking against Martin Necas (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  17:56 
+Shayne Gostisbehere (CAR) interference against Kasperi Kapanen (2 minutes)
+   1-0
+P2  13:58 
+Shayne Gostisbehere (CAR) hooking against Brandon Saad (2 minutes)
+   1-0
+P2  09:38 
+Mathieu Joseph (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Brayden Schenn and Pierre-Olivier Joseph
+   1-1
+P2  08:25 
+Jake Neighbours (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Zack Bolduc
+   1-2
+P2  06:29 
+Dylan Holloway (STL) scores on poke past Pyotr Kochetkov, assisted by Philip Broberg and Mathieu Joseph
+   1-3
+P2  06:02 
+Sebastian Aho (CAR) cross-checking against Jordan Kyrou (2 minutes)
+   1-3
+P2  06:02 
+Robert Thomas (STL) roughing against Sebastian Aho (2 minutes)
+   1-3
+3rd Period: ShowHide
+P3  18:51 
+Colton Parayko (STL) delaying game - puck over glass (2 minutes)
+   1-3
+P3  18:21 
+Shayne Gostisbehere (CAR) scores power-play goal on wrist shot past Joel Hofer, assisted by Sebastian Aho and Andrei Svechnikov
+   2-3
+P3  17:03 
+Jack Roslovic (CAR) scores on slap shot past Joel Hofer, assisted by Jack Drury and Jaccob Slavin
+   3-3
+P3  15:34 
+Kasperi Kapanen (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Jake Neighbours and Colton Parayko
+   3-4
+P3  14:19 
+Sean Walker (CAR) roughing against Zack Bolduc (2 minutes)
+   3-4
+P3  11:03 
+Pavel Buchnevich (STL) high-sticking against Martin Necas (2 minutes)
+   3-4
+P3  06:14 
+Jaccob Slavin (CAR) delaying game - puck over glass (2 minutes)
+   3-4
+P3  00:00 
+Brayden Schenn (STL) roughing against Andrei Svechnikov (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) cross-checking against Robert Thomas (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) roughing against Brayden Schenn (2 minutes)
+   3-4
+Box Score:
+ 
+Back to Top
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  20:19   0  2    0   3   0   2   0   1  8/15Jackson Blake R  12:53   0  0   -2   5   0   0   0   0   0/1William Carrier L  08:37   0  0    0   0   0   0   0   0   0/0Jack Drury C  14:08   0  1    0   0   0   0   0   0  6/15Seth Jarvis C  21:03   0  1    0   5   0   0   1   0  3/11Jesperi Kotkaniemi C  14:07   0  0   -2   0   0   0   0   2  5/10Jordan Martinook L  13:07   0  0    0   3   0   0   0   2   2/2Martin Necas C  17:23   0  0   -2   3   0   0   1   0   0/1Eric Robinson L  10:58   0  0    0   0   0   0   0   0   0/0Jack Roslovic C  11:45   1  0    0   2   0   0   0   0   0/0Jordan Staal C  12:22   0  0    0   2   0   0   0   0  9/16Andrei Svechnikov R  19:38   1  1    0   8   1   4   0   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  22:51   0  0   -1   1   2   0   0   1   0/0Jalen Chatfield D  18:34   0  0   -1   2   0   0   0   1   0/0Shayne Gostisbehere D  17:48   1  0    0   2   1   4   3   0   0/0Dmitry Orlov D  19:35   0  0   -1   1   0   0   2   0   0/0Jaccob Slavin D  22:00   0  1   -1   2   1   2   2   2   0/0Sean Walker D  14:56   0  0    0   1   1   2   0   1   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       40   6  14   9  11 33/71
+                                        46.5%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  57:56   4  15/19  13/17   1/1   1/1     0
+              .789   .765 1.000 1.000 
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  08:52   0  1    0   0   0   0   0   0   0/0Pavel Buchnevich L  17:59   0  0    2   0   0   2   0   1  4/14Radek Faksa C  10:50   0  0   -1   1   1   0   0   0   7/9Dylan Holloway L  14:40   1  0    1   1   2   0   0   1   0/0Mathieu Joseph R  12:53   1  1    2   1   0   0   0   1   0/0Kasperi Kapanen R  11:52   1  0    1   1   0   0   0   2   0/0Jordan Kyrou C  19:22   0  0   -1   3   1   0   1   2   0/1Jake Neighbours L  13:45   1  1    2   2   0   2   0   0   0/0Brandon Saad L  19:08   0  0    0   2   0   0   1   1   0/0Brayden Schenn C  20:04   0  1    1   3   1   2   0   1 12/21Robert Thomas C  20:58   0  0    0   1   1   2   0   2 15/26Nathan Walker L  09:56   0  0   -1   1   0   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  21:26   0  1    2   0   0   0   1   1   0/0Justin Faulk D  23:47   0  0    0   0   2   0   0   0   0/0Pierre-Olivier Joseph D  10:24   0  1    1   1   0   0   0   2   0/0Matthew Kessel D  09:49   0  0    0   0   1   0   0   2   0/0Colton Parayko D  23:28   0  1    0   0   1   2   0   0   0/0Ryan Suter D  24:17   0  0    1   2   3   0   0   2   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       19  13  10   3  18 38/71
+                                        53.5%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  60:00   3  37/40  33/35   4/5   0/0     0
+              .925   .943  .800
+Carolina
+Hurricanes2-2-0Final3 - 4St. Louis
+Blues4-2-0
+Carolina
+Hurricanes2-2-0
+Final3 - 4
+St. Louis
+Blues4-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CAR   1  0  2    3  
+STL   0  3  1    4
+1st Period: ShowHide
+P1  18:39 
+Andrei Svechnikov (CAR) scores on wrist shot past Joel Hofer, assisted by Sebastian Aho and Seth Jarvis
+   1-0
+P1  09:01 
+Jake Neighbours (STL) hooking against Martin Necas (2 minutes)
+   1-0
+2nd Period: ShowHide
+P2  17:56 
+Shayne Gostisbehere (CAR) interference against Kasperi Kapanen (2 minutes)
+   1-0
+P2  13:58 
+Shayne Gostisbehere (CAR) hooking against Brandon Saad (2 minutes)
+   1-0
+P2  09:38 
+Mathieu Joseph (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Brayden Schenn and Pierre-Olivier Joseph
+   1-1
+P2  08:25 
+Jake Neighbours (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Zack Bolduc
+   1-2
+P2  06:29 
+Dylan Holloway (STL) scores on poke past Pyotr Kochetkov, assisted by Philip Broberg and Mathieu Joseph
+   1-3
+P2  06:02 
+Sebastian Aho (CAR) cross-checking against Jordan Kyrou (2 minutes)
+   1-3
+P2  06:02 
+Robert Thomas (STL) roughing against Sebastian Aho (2 minutes)
+   1-3
+3rd Period: ShowHide
+P3  18:51 
+Colton Parayko (STL) delaying game - puck over glass (2 minutes)
+   1-3
+P3  18:21 
+Shayne Gostisbehere (CAR) scores power-play goal on wrist shot past Joel Hofer, assisted by Sebastian Aho and Andrei Svechnikov
+   2-3
+P3  17:03 
+Jack Roslovic (CAR) scores on slap shot past Joel Hofer, assisted by Jack Drury and Jaccob Slavin
+   3-3
+P3  15:34 
+Kasperi Kapanen (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Jake Neighbours and Colton Parayko
+   3-4
+P3  14:19 
+Sean Walker (CAR) roughing against Zack Bolduc (2 minutes)
+   3-4
+P3  11:03 
+Pavel Buchnevich (STL) high-sticking against Martin Necas (2 minutes)
+   3-4
+P3  06:14 
+Jaccob Slavin (CAR) delaying game - puck over glass (2 minutes)
+   3-4
+P3  00:00 
+Brayden Schenn (STL) roughing against Andrei Svechnikov (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) cross-checking against Robert Thomas (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) roughing against Brayden Schenn (2 minutes)
+   3-4
+1st Period: ShowHide
+P1  18:39 
+Andrei Svechnikov (CAR) scores on wrist shot past Joel Hofer, assisted by Sebastian Aho and Seth Jarvis
+   1-0
+P1  09:01 
+Jake Neighbours (STL) hooking against Martin Necas (2 minutes)
+   1-0
+P1  18:39 
+Andrei Svechnikov (CAR) scores on wrist shot past Joel Hofer, assisted by Sebastian Aho and Seth Jarvis
+   1-0
+P1  09:01 
+Jake Neighbours (STL) hooking against Martin Necas (2 minutes)
+   1-0
+P1  18:39
+Andrei Svechnikov (CAR) scores on wrist shot past Joel Hofer, assisted by Sebastian Aho and Seth Jarvis
+1-0
+P1  09:01
+Jake Neighbours (STL) hooking against Martin Necas (2 minutes)
+1-0
+2nd Period: ShowHide
+P2  17:56 
+Shayne Gostisbehere (CAR) interference against Kasperi Kapanen (2 minutes)
+   1-0
+P2  13:58 
+Shayne Gostisbehere (CAR) hooking against Brandon Saad (2 minutes)
+   1-0
+P2  09:38 
+Mathieu Joseph (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Brayden Schenn and Pierre-Olivier Joseph
+   1-1
+P2  08:25 
+Jake Neighbours (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Zack Bolduc
+   1-2
+P2  06:29 
+Dylan Holloway (STL) scores on poke past Pyotr Kochetkov, assisted by Philip Broberg and Mathieu Joseph
+   1-3
+P2  06:02 
+Sebastian Aho (CAR) cross-checking against Jordan Kyrou (2 minutes)
+   1-3
+P2  06:02 
+Robert Thomas (STL) roughing against Sebastian Aho (2 minutes)
+   1-3
+P2  17:56 
+Shayne Gostisbehere (CAR) interference against Kasperi Kapanen (2 minutes)
+   1-0
+P2  13:58 
+Shayne Gostisbehere (CAR) hooking against Brandon Saad (2 minutes)
+   1-0
+P2  09:38 
+Mathieu Joseph (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Brayden Schenn and Pierre-Olivier Joseph
+   1-1
+P2  08:25 
+Jake Neighbours (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Zack Bolduc
+   1-2
+P2  06:29 
+Dylan Holloway (STL) scores on poke past Pyotr Kochetkov, assisted by Philip Broberg and Mathieu Joseph
+   1-3
+P2  06:02 
+Sebastian Aho (CAR) cross-checking against Jordan Kyrou (2 minutes)
+   1-3
+P2  06:02 
+Robert Thomas (STL) roughing against Sebastian Aho (2 minutes)
+   1-3
+P2  17:56
+Shayne Gostisbehere (CAR) interference against Kasperi Kapanen (2 minutes)
+1-0
+P2  13:58
+Shayne Gostisbehere (CAR) hooking against Brandon Saad (2 minutes)
+1-0
+P2  09:38
+Mathieu Joseph (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Brayden Schenn and Pierre-Olivier Joseph
+1-1
+P2  08:25
+Jake Neighbours (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Zack Bolduc
+1-2
+P2  06:29
+Dylan Holloway (STL) scores on poke past Pyotr Kochetkov, assisted by Philip Broberg and Mathieu Joseph
+1-3
+P2  06:02
+Sebastian Aho (CAR) cross-checking against Jordan Kyrou (2 minutes)
+1-3
+P2  06:02
+Robert Thomas (STL) roughing against Sebastian Aho (2 minutes)
+1-3
+3rd Period: ShowHide
+P3  18:51 
+Colton Parayko (STL) delaying game - puck over glass (2 minutes)
+   1-3
+P3  18:21 
+Shayne Gostisbehere (CAR) scores power-play goal on wrist shot past Joel Hofer, assisted by Sebastian Aho and Andrei Svechnikov
+   2-3
+P3  17:03 
+Jack Roslovic (CAR) scores on slap shot past Joel Hofer, assisted by Jack Drury and Jaccob Slavin
+   3-3
+P3  15:34 
+Kasperi Kapanen (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Jake Neighbours and Colton Parayko
+   3-4
+P3  14:19 
+Sean Walker (CAR) roughing against Zack Bolduc (2 minutes)
+   3-4
+P3  11:03 
+Pavel Buchnevich (STL) high-sticking against Martin Necas (2 minutes)
+   3-4
+P3  06:14 
+Jaccob Slavin (CAR) delaying game - puck over glass (2 minutes)
+   3-4
+P3  00:00 
+Brayden Schenn (STL) roughing against Andrei Svechnikov (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) cross-checking against Robert Thomas (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) roughing against Brayden Schenn (2 minutes)
+   3-4
+P3  18:51 
+Colton Parayko (STL) delaying game - puck over glass (2 minutes)
+   1-3
+P3  18:21 
+Shayne Gostisbehere (CAR) scores power-play goal on wrist shot past Joel Hofer, assisted by Sebastian Aho and Andrei Svechnikov
+   2-3
+P3  17:03 
+Jack Roslovic (CAR) scores on slap shot past Joel Hofer, assisted by Jack Drury and Jaccob Slavin
+   3-3
+P3  15:34 
+Kasperi Kapanen (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Jake Neighbours and Colton Parayko
+   3-4
+P3  14:19 
+Sean Walker (CAR) roughing against Zack Bolduc (2 minutes)
+   3-4
+P3  11:03 
+Pavel Buchnevich (STL) high-sticking against Martin Necas (2 minutes)
+   3-4
+P3  06:14 
+Jaccob Slavin (CAR) delaying game - puck over glass (2 minutes)
+   3-4
+P3  00:00 
+Brayden Schenn (STL) roughing against Andrei Svechnikov (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) cross-checking against Robert Thomas (2 minutes)
+   3-4
+P3  00:00 
+Andrei Svechnikov (CAR) roughing against Brayden Schenn (2 minutes)
+   3-4
+P3  18:51
+Colton Parayko (STL) delaying game - puck over glass (2 minutes)
+1-3
+P3  18:21
+Shayne Gostisbehere (CAR) scores power-play goal on wrist shot past Joel Hofer, assisted by Sebastian Aho and Andrei Svechnikov
+2-3
+P3  17:03
+Jack Roslovic (CAR) scores on slap shot past Joel Hofer, assisted by Jack Drury and Jaccob Slavin
+3-3
+P3  15:34
+Kasperi Kapanen (STL) scores on wrist shot past Pyotr Kochetkov, assisted by Jake Neighbours and Colton Parayko
+3-4
+P3  14:19
+Sean Walker (CAR) roughing against Zack Bolduc (2 minutes)
+3-4
+P3  11:03
+Pavel Buchnevich (STL) high-sticking against Martin Necas (2 minutes)
+3-4
+P3  06:14
+Jaccob Slavin (CAR) delaying game - puck over glass (2 minutes)
+3-4
+P3  00:00
+Brayden Schenn (STL) roughing against Andrei Svechnikov (2 minutes)
+3-4
+P3  00:00
+Andrei Svechnikov (CAR) cross-checking against Robert Thomas (2 minutes)
+3-4
+P3  00:00
+Andrei Svechnikov (CAR) roughing against Brayden Schenn (2 minutes)
+3-4
+Box Score:
+ 
+Back to Top
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  20:19   0  2    0   3   0   2   0   1  8/15Jackson Blake R  12:53   0  0   -2   5   0   0   0   0   0/1William Carrier L  08:37   0  0    0   0   0   0   0   0   0/0Jack Drury C  14:08   0  1    0   0   0   0   0   0  6/15Seth Jarvis C  21:03   0  1    0   5   0   0   1   0  3/11Jesperi Kotkaniemi C  14:07   0  0   -2   0   0   0   0   2  5/10Jordan Martinook L  13:07   0  0    0   3   0   0   0   2   2/2Martin Necas C  17:23   0  0   -2   3   0   0   1   0   0/1Eric Robinson L  10:58   0  0    0   0   0   0   0   0   0/0Jack Roslovic C  11:45   1  0    0   2   0   0   0   0   0/0Jordan Staal C  12:22   0  0    0   2   0   0   0   0  9/16Andrei Svechnikov R  19:38   1  1    0   8   1   4   0   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  22:51   0  0   -1   1   2   0   0   1   0/0Jalen Chatfield D  18:34   0  0   -1   2   0   0   0   1   0/0Shayne Gostisbehere D  17:48   1  0    0   2   1   4   3   0   0/0Dmitry Orlov D  19:35   0  0   -1   1   0   0   2   0   0/0Jaccob Slavin D  22:00   0  1   -1   2   1   2   2   2   0/0Sean Walker D  14:56   0  0    0   1   1   2   0   1   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       40   6  14   9  11 33/71
+                                        46.5%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  57:56   4  15/19  13/17   1/1   1/1     0
+              .789   .765 1.000 1.000 
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  08:52   0  1    0   0   0   0   0   0   0/0Pavel Buchnevich L  17:59   0  0    2   0   0   2   0   1  4/14Radek Faksa C  10:50   0  0   -1   1   1   0   0   0   7/9Dylan Holloway L  14:40   1  0    1   1   2   0   0   1   0/0Mathieu Joseph R  12:53   1  1    2   1   0   0   0   1   0/0Kasperi Kapanen R  11:52   1  0    1   1   0   0   0   2   0/0Jordan Kyrou C  19:22   0  0   -1   3   1   0   1   2   0/1Jake Neighbours L  13:45   1  1    2   2   0   2   0   0   0/0Brandon Saad L  19:08   0  0    0   2   0   0   1   1   0/0Brayden Schenn C  20:04   0  1    1   3   1   2   0   1 12/21Robert Thomas C  20:58   0  0    0   1   1   2   0   2 15/26Nathan Walker L  09:56   0  0   -1   1   0   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  21:26   0  1    2   0   0   0   1   1   0/0Justin Faulk D  23:47   0  0    0   0   2   0   0   0   0/0Pierre-Olivier Joseph D  10:24   0  1    1   1   0   0   0   2   0/0Matthew Kessel D  09:49   0  0    0   0   1   0   0   2   0/0Colton Parayko D  23:28   0  1    0   0   1   2   0   0   0/0Ryan Suter D  24:17   0  0    1   2   3   0   0   2   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       19  13  10   3  18 38/71
+                                        53.5%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  60:00   3  37/40  33/35   4/5   0/0     0
+              .925   .943  .800
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  20:19   0  2    0   3   0   2   0   1  8/15Jackson Blake R  12:53   0  0   -2   5   0   0   0   0   0/1William Carrier L  08:37   0  0    0   0   0   0   0   0   0/0Jack Drury C  14:08   0  1    0   0   0   0   0   0  6/15Seth Jarvis C  21:03   0  1    0   5   0   0   1   0  3/11Jesperi Kotkaniemi C  14:07   0  0   -2   0   0   0   0   2  5/10Jordan Martinook L  13:07   0  0    0   3   0   0   0   2   2/2Martin Necas C  17:23   0  0   -2   3   0   0   1   0   0/1Eric Robinson L  10:58   0  0    0   0   0   0   0   0   0/0Jack Roslovic C  11:45   1  0    0   2   0   0   0   0   0/0Jordan Staal C  12:22   0  0    0   2   0   0   0   0  9/16Andrei Svechnikov R  19:38   1  1    0   8   1   4   0   1   0/0
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sebastian Aho C
+20:19   0  2    0   3   0   2   0   1  8/15
+Jackson Blake R
+12:53   0  0   -2   5   0   0   0   0   0/1
+William Carrier L
+08:37   0  0    0   0   0   0   0   0   0/0
+Jack Drury C
+14:08   0  1    0   0   0   0   0   0  6/15
+Seth Jarvis C
+21:03   0  1    0   5   0   0   1   0  3/11
+Jesperi Kotkaniemi C
+14:07   0  0   -2   0   0   0   0   2  5/10
+Jordan Martinook L
+13:07   0  0    0   3   0   0   0   2   2/2
+Martin Necas C
+17:23   0  0   -2   3   0   0   1   0   0/1
+Eric Robinson L
+10:58   0  0    0   0   0   0   0   0   0/0
+Jack Roslovic C
+11:45   1  0    0   2   0   0   0   0   0/0
+Jordan Staal C
+12:22   0  0    0   2   0   0   0   0  9/16
+Andrei Svechnikov R
+19:38   1  1    0   8   1   4   0   1   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  22:51   0  0   -1   1   2   0   0   1   0/0Jalen Chatfield D  18:34   0  0   -1   2   0   0   0   1   0/0Shayne Gostisbehere D  17:48   1  0    0   2   1   4   3   0   0/0Dmitry Orlov D  19:35   0  0   -1   1   0   0   2   0   0/0Jaccob Slavin D  22:00   0  1   -1   2   1   2   2   2   0/0Sean Walker D  14:56   0  0    0   1   1   2   0   1   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brent Burns D
+22:51   0  0   -1   1   2   0   0   1   0/0
+Jalen Chatfield D
+18:34   0  0   -1   2   0   0   0   1   0/0
+Shayne Gostisbehere D
+17:48   1  0    0   2   1   4   3   0   0/0
+Dmitry Orlov D
+19:35   0  0   -1   1   0   0   2   0   0/0
+Jaccob Slavin D
+22:00   0  1   -1   2   1   2   2   2   0/0
+Sean Walker D
+14:56   0  0    0   1   1   2   0   1   0/0
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       40   6  14   9  11 33/71
+                                        46.5%
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  57:56   4  15/19  13/17   1/1   1/1     0
+              .789   .765 1.000 1.000
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Pyotr Kochetkov G
+57:56   4  15/19  13/17   1/1   1/1     0
+              .789   .765 1.000 1.000
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  08:52   0  1    0   0   0   0   0   0   0/0Pavel Buchnevich L  17:59   0  0    2   0   0   2   0   1  4/14Radek Faksa C  10:50   0  0   -1   1   1   0   0   0   7/9Dylan Holloway L  14:40   1  0    1   1   2   0   0   1   0/0Mathieu Joseph R  12:53   1  1    2   1   0   0   0   1   0/0Kasperi Kapanen R  11:52   1  0    1   1   0   0   0   2   0/0Jordan Kyrou C  19:22   0  0   -1   3   1   0   1   2   0/1Jake Neighbours L  13:45   1  1    2   2   0   2   0   0   0/0Brandon Saad L  19:08   0  0    0   2   0   0   1   1   0/0Brayden Schenn C  20:04   0  1    1   3   1   2   0   1 12/21Robert Thomas C  20:58   0  0    0   1   1   2   0   2 15/26Nathan Walker L  09:56   0  0   -1   1   0   0   0   0   0/0
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zack Bolduc C
+08:52   0  1    0   0   0   0   0   0   0/0
+Pavel Buchnevich L
+17:59   0  0    2   0   0   2   0   1  4/14
+Radek Faksa C
+10:50   0  0   -1   1   1   0   0   0   7/9
+Dylan Holloway L
+14:40   1  0    1   1   2   0   0   1   0/0
+Mathieu Joseph R
+12:53   1  1    2   1   0   0   0   1   0/0
+Kasperi Kapanen R
+11:52   1  0    1   1   0   0   0   2   0/0
+Jordan Kyrou C
+19:22   0  0   -1   3   1   0   1   2   0/1
+Jake Neighbours L
+13:45   1  1    2   2   0   2   0   0   0/0
+Brandon Saad L
+19:08   0  0    0   2   0   0   1   1   0/0
+Brayden Schenn C
+20:04   0  1    1   3   1   2   0   1 12/21
+Robert Thomas C
+20:58   0  0    0   1   1   2   0   2 15/26
+Nathan Walker L
+09:56   0  0   -1   1   0   0   0   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  21:26   0  1    2   0   0   0   1   1   0/0Justin Faulk D  23:47   0  0    0   0   2   0   0   0   0/0Pierre-Olivier Joseph D  10:24   0  1    1   1   0   0   0   2   0/0Matthew Kessel D  09:49   0  0    0   0   1   0   0   2   0/0Colton Parayko D  23:28   0  1    0   0   1   2   0   0   0/0Ryan Suter D  24:17   0  0    1   2   3   0   0   2   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+21:26   0  1    2   0   0   0   1   1   0/0
+Justin Faulk D
+23:47   0  0    0   0   2   0   0   0   0/0
+Pierre-Olivier Joseph D
+10:24   0  1    1   1   0   0   0   2   0/0
+Matthew Kessel D
+09:49   0  0    0   0   1   0   0   2   0/0
+Colton Parayko D
+23:28   0  1    0   0   1   2   0   0   0/0
+Ryan Suter D
+24:17   0  0    1   2   3   0   0   2   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       19  13  10   3  18 38/71
+                                        53.5%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  60:00   3  37/40  33/35   4/5   0/0     0
+              .925   .943  .800
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joel Hofer G
+60:00   3  37/40  33/35   4/5   0/0     0
+              .925   .943  .800
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

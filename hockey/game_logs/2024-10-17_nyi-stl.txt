@@ -1,0 +1,280 @@
+< Oct. 17 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New York
+Islanders1-1-2Final/OT0 - 1St. Louis
+Blues3-2-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+NYI   0  0  0  0    0  
+STL   0  0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  14:58 
+Mathieu Joseph (STL) hooking against Adam Pelech (2 minutes)
+   0-0
+P2  11:49 
+Pierre-Olivier Joseph (STL) high-sticking against Casey Cizikas (2 minutes)
+   0-0
+P2  03:45 
+Mathew Barzal (NYI) high-sticking against Brayden Schenn (2 minutes)
+   0-0
+3rd Period: ShowHide
+P3  18:00 
+Jake Neighbours (STL) roughing against Alexander Romanov (2 minutes)
+   0-0
+P3  18:00 
+Alexander Romanov (NYI) roughing against Jake Neighbours (2 minutes)
+   0-0
+Overtime: ShowHide
+OT  02:56 
+Jake Neighbours (STL) scores on tip-in past Ilya Sorokin, assisted by Philip Broberg and Joel Hofer
+   0-1
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  21:38   0  0   -1   1   2   2   0   2   1/1Casey Cizikas C  09:47   0  0    0   1   2   0   1   0   0/1Anthony Duclair L  17:16   0  0   -1   2   3   0   0   0   0/0Simon Holmstrom R  13:34   0  0    0   0   0   0   1   1   0/0Bo Horvat C  17:30   0  0    0   3   0   0   0   1  6/16Anders Lee L  13:49   0  0    0   4   0   0   0   0   0/0Kyle MacLean C  11:29   0  0    0   1   0   0   0   1   2/2Brock Nelson C  19:35   0  0    0   5   2   0   1   1  8/13Jean-Gabriel Pageau C  14:22   0  0    0   3   0   0   0   0  7/12Kyle Palmieri C  18:28   0  0    0   1   0   0   0   0   0/0Maxim Tsyplakov R  17:51   0  0    0   1   1   0   0   1   0/0Oliver Wahlstrom R  08:30   0  0    0   0   1   0   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  21:37   0  0    0   6   2   0   0   0   0/0Scott Mayfield D  15:01   0  0    0   0   4   0   0   0   0/0Adam Pelech D  22:49   0  0   -1   0   3   0   2   3   0/0Ryan Pulock D  22:31   0  0    0   3   3   0   0   2   0/0Mike Reilly D  14:58   0  0    0   1   0   0   0   0   0/0Alexander Romanov D  21:27   0  0    0   2   1   2   0   1   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       34  24   4   5  13 24/45
+                                        53.3%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  62:04   1  29/30  27/28   1/1   1/1     0
+              .967   .964 1.000 1.000 
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  11:10   0  0    0   0   0   0   0   0   0/0Pavel Buchnevich L  17:58   0  0    0   1   2   0   0   0   3/6Radek Faksa C  11:37   0  0    0   0   0   0   1   0   1/1Dylan Holloway L  14:13   0  0    0   1   1   0   0   0   0/0Mathieu Joseph R  11:34   0  0    0   1   0   2   0   0   0/0Kasperi Kapanen R  09:57   0  0    0   2   0   0   0   1   0/1Jordan Kyrou C  20:20   0  0    0   5   1   0   1   1   0/1Jake Neighbours L  13:44   1  0    1   4   0   2   1   0   0/1Brandon Saad L  18:06   0  0    1   2   0   0   0   0   0/0Brayden Schenn C  18:03   0  0    0   3   0   0   0   2  6/14Robert Thomas C  22:59   0  0    0   3   1   0   0   1 11/21Alexey Toropchenko R  10:03   0  0    0   2   0   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  22:01   0  1    1   1   1   0   0   0   0/0Justin Faulk D  23:58   0  0    0   0   0   0   1   2   0/0Pierre-Olivier Joseph D  10:51   0  0    0   2   1   2   1   0   0/0Matthew Kessel D  11:58   0  0    0   1   3   0   0   2   0/0Colton Parayko D  26:30   0  0    0   1   2   0   0   1   0/0Ryan Suter D  25:10   0  0    0   1   1   0   0   2   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       30  13   6   5  12 21/45
+                                        46.7%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  62:04   0  34/34  30/30   3/3   1/1     0
+             1.000  1.000 1.000 1.000
+New York
+Islanders1-1-2Final/OT0 - 1St. Louis
+Blues3-2-0
+New York
+Islanders1-1-2
+Final/OT0 - 1
+St. Louis
+Blues3-2-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+NYI   0  0  0  0    0  
+STL   0  0  0  1    1
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  14:58 
+Mathieu Joseph (STL) hooking against Adam Pelech (2 minutes)
+   0-0
+P2  11:49 
+Pierre-Olivier Joseph (STL) high-sticking against Casey Cizikas (2 minutes)
+   0-0
+P2  03:45 
+Mathew Barzal (NYI) high-sticking against Brayden Schenn (2 minutes)
+   0-0
+3rd Period: ShowHide
+P3  18:00 
+Jake Neighbours (STL) roughing against Alexander Romanov (2 minutes)
+   0-0
+P3  18:00 
+Alexander Romanov (NYI) roughing against Jake Neighbours (2 minutes)
+   0-0
+Overtime: ShowHide
+OT  02:56 
+Jake Neighbours (STL) scores on tip-in past Ilya Sorokin, assisted by Philip Broberg and Joel Hofer
+   0-1
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  14:58 
+Mathieu Joseph (STL) hooking against Adam Pelech (2 minutes)
+   0-0
+P2  11:49 
+Pierre-Olivier Joseph (STL) high-sticking against Casey Cizikas (2 minutes)
+   0-0
+P2  03:45 
+Mathew Barzal (NYI) high-sticking against Brayden Schenn (2 minutes)
+   0-0
+P2  14:58 
+Mathieu Joseph (STL) hooking against Adam Pelech (2 minutes)
+   0-0
+P2  11:49 
+Pierre-Olivier Joseph (STL) high-sticking against Casey Cizikas (2 minutes)
+   0-0
+P2  03:45 
+Mathew Barzal (NYI) high-sticking against Brayden Schenn (2 minutes)
+   0-0
+P2  14:58
+Mathieu Joseph (STL) hooking against Adam Pelech (2 minutes)
+0-0
+P2  11:49
+Pierre-Olivier Joseph (STL) high-sticking against Casey Cizikas (2 minutes)
+0-0
+P2  03:45
+Mathew Barzal (NYI) high-sticking against Brayden Schenn (2 minutes)
+0-0
+3rd Period: ShowHide
+P3  18:00 
+Jake Neighbours (STL) roughing against Alexander Romanov (2 minutes)
+   0-0
+P3  18:00 
+Alexander Romanov (NYI) roughing against Jake Neighbours (2 minutes)
+   0-0
+P3  18:00 
+Jake Neighbours (STL) roughing against Alexander Romanov (2 minutes)
+   0-0
+P3  18:00 
+Alexander Romanov (NYI) roughing against Jake Neighbours (2 minutes)
+   0-0
+P3  18:00
+Jake Neighbours (STL) roughing against Alexander Romanov (2 minutes)
+0-0
+P3  18:00
+Alexander Romanov (NYI) roughing against Jake Neighbours (2 minutes)
+0-0
+Overtime: ShowHide
+OT  02:56 
+Jake Neighbours (STL) scores on tip-in past Ilya Sorokin, assisted by Philip Broberg and Joel Hofer
+   0-1
+OT  02:56 
+Jake Neighbours (STL) scores on tip-in past Ilya Sorokin, assisted by Philip Broberg and Joel Hofer
+   0-1
+OT  02:56
+Jake Neighbours (STL) scores on tip-in past Ilya Sorokin, assisted by Philip Broberg and Joel Hofer
+0-1
+Box Score:
+ 
+Back to Top
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  21:38   0  0   -1   1   2   2   0   2   1/1Casey Cizikas C  09:47   0  0    0   1   2   0   1   0   0/1Anthony Duclair L  17:16   0  0   -1   2   3   0   0   0   0/0Simon Holmstrom R  13:34   0  0    0   0   0   0   1   1   0/0Bo Horvat C  17:30   0  0    0   3   0   0   0   1  6/16Anders Lee L  13:49   0  0    0   4   0   0   0   0   0/0Kyle MacLean C  11:29   0  0    0   1   0   0   0   1   2/2Brock Nelson C  19:35   0  0    0   5   2   0   1   1  8/13Jean-Gabriel Pageau C  14:22   0  0    0   3   0   0   0   0  7/12Kyle Palmieri C  18:28   0  0    0   1   0   0   0   0   0/0Maxim Tsyplakov R  17:51   0  0    0   1   1   0   0   1   0/0Oliver Wahlstrom R  08:30   0  0    0   0   1   0   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  21:37   0  0    0   6   2   0   0   0   0/0Scott Mayfield D  15:01   0  0    0   0   4   0   0   0   0/0Adam Pelech D  22:49   0  0   -1   0   3   0   2   3   0/0Ryan Pulock D  22:31   0  0    0   3   3   0   0   2   0/0Mike Reilly D  14:58   0  0    0   1   0   0   0   0   0/0Alexander Romanov D  21:27   0  0    0   2   1   2   0   1   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       34  24   4   5  13 24/45
+                                        53.3%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  62:04   1  29/30  27/28   1/1   1/1     0
+              .967   .964 1.000 1.000 
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  11:10   0  0    0   0   0   0   0   0   0/0Pavel Buchnevich L  17:58   0  0    0   1   2   0   0   0   3/6Radek Faksa C  11:37   0  0    0   0   0   0   1   0   1/1Dylan Holloway L  14:13   0  0    0   1   1   0   0   0   0/0Mathieu Joseph R  11:34   0  0    0   1   0   2   0   0   0/0Kasperi Kapanen R  09:57   0  0    0   2   0   0   0   1   0/1Jordan Kyrou C  20:20   0  0    0   5   1   0   1   1   0/1Jake Neighbours L  13:44   1  0    1   4   0   2   1   0   0/1Brandon Saad L  18:06   0  0    1   2   0   0   0   0   0/0Brayden Schenn C  18:03   0  0    0   3   0   0   0   2  6/14Robert Thomas C  22:59   0  0    0   3   1   0   0   1 11/21Alexey Toropchenko R  10:03   0  0    0   2   0   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  22:01   0  1    1   1   1   0   0   0   0/0Justin Faulk D  23:58   0  0    0   0   0   0   1   2   0/0Pierre-Olivier Joseph D  10:51   0  0    0   2   1   2   1   0   0/0Matthew Kessel D  11:58   0  0    0   1   3   0   0   2   0/0Colton Parayko D  26:30   0  0    0   1   2   0   0   1   0/0Ryan Suter D  25:10   0  0    0   1   1   0   0   2   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       30  13   6   5  12 21/45
+                                        46.7%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  62:04   0  34/34  30/30   3/3   1/1     0
+             1.000  1.000 1.000 1.000
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  21:38   0  0   -1   1   2   2   0   2   1/1Casey Cizikas C  09:47   0  0    0   1   2   0   1   0   0/1Anthony Duclair L  17:16   0  0   -1   2   3   0   0   0   0/0Simon Holmstrom R  13:34   0  0    0   0   0   0   1   1   0/0Bo Horvat C  17:30   0  0    0   3   0   0   0   1  6/16Anders Lee L  13:49   0  0    0   4   0   0   0   0   0/0Kyle MacLean C  11:29   0  0    0   1   0   0   0   1   2/2Brock Nelson C  19:35   0  0    0   5   2   0   1   1  8/13Jean-Gabriel Pageau C  14:22   0  0    0   3   0   0   0   0  7/12Kyle Palmieri C  18:28   0  0    0   1   0   0   0   0   0/0Maxim Tsyplakov R  17:51   0  0    0   1   1   0   0   1   0/0Oliver Wahlstrom R  08:30   0  0    0   0   1   0   0   0   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Barzal C
+21:38   0  0   -1   1   2   2   0   2   1/1
+Casey Cizikas C
+09:47   0  0    0   1   2   0   1   0   0/1
+Anthony Duclair L
+17:16   0  0   -1   2   3   0   0   0   0/0
+Simon Holmstrom R
+13:34   0  0    0   0   0   0   1   1   0/0
+Bo Horvat C
+17:30   0  0    0   3   0   0   0   1  6/16
+Anders Lee L
+13:49   0  0    0   4   0   0   0   0   0/0
+Kyle MacLean C
+11:29   0  0    0   1   0   0   0   1   2/2
+Brock Nelson C
+19:35   0  0    0   5   2   0   1   1  8/13
+Jean-Gabriel Pageau C
+14:22   0  0    0   3   0   0   0   0  7/12
+Kyle Palmieri C
+18:28   0  0    0   1   0   0   0   0   0/0
+Maxim Tsyplakov R
+17:51   0  0    0   1   1   0   0   1   0/0
+Oliver Wahlstrom R
+08:30   0  0    0   0   1   0   0   0   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  21:37   0  0    0   6   2   0   0   0   0/0Scott Mayfield D  15:01   0  0    0   0   4   0   0   0   0/0Adam Pelech D  22:49   0  0   -1   0   3   0   2   3   0/0Ryan Pulock D  22:31   0  0    0   3   3   0   0   2   0/0Mike Reilly D  14:58   0  0    0   1   0   0   0   0   0/0Alexander Romanov D  21:27   0  0    0   2   1   2   0   1   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Dobson D
+21:37   0  0    0   6   2   0   0   0   0/0
+Scott Mayfield D
+15:01   0  0    0   0   4   0   0   0   0/0
+Adam Pelech D
+22:49   0  0   -1   0   3   0   2   3   0/0
+Ryan Pulock D
+22:31   0  0    0   3   3   0   0   2   0/0
+Mike Reilly D
+14:58   0  0    0   1   0   0   0   0   0/0
+Alexander Romanov D
+21:27   0  0    0   2   1   2   0   1   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       34  24   4   5  13 24/45
+                                        53.3%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Sorokin G  62:04   1  29/30  27/28   1/1   1/1     0
+              .967   .964 1.000 1.000
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Sorokin G
+62:04   1  29/30  27/28   1/1   1/1     0
+              .967   .964 1.000 1.000
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  11:10   0  0    0   0   0   0   0   0   0/0Pavel Buchnevich L  17:58   0  0    0   1   2   0   0   0   3/6Radek Faksa C  11:37   0  0    0   0   0   0   1   0   1/1Dylan Holloway L  14:13   0  0    0   1   1   0   0   0   0/0Mathieu Joseph R  11:34   0  0    0   1   0   2   0   0   0/0Kasperi Kapanen R  09:57   0  0    0   2   0   0   0   1   0/1Jordan Kyrou C  20:20   0  0    0   5   1   0   1   1   0/1Jake Neighbours L  13:44   1  0    1   4   0   2   1   0   0/1Brandon Saad L  18:06   0  0    1   2   0   0   0   0   0/0Brayden Schenn C  18:03   0  0    0   3   0   0   0   2  6/14Robert Thomas C  22:59   0  0    0   3   1   0   0   1 11/21Alexey Toropchenko R  10:03   0  0    0   2   0   0   0   0   0/0
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zack Bolduc C
+11:10   0  0    0   0   0   0   0   0   0/0
+Pavel Buchnevich L
+17:58   0  0    0   1   2   0   0   0   3/6
+Radek Faksa C
+11:37   0  0    0   0   0   0   1   0   1/1
+Dylan Holloway L
+14:13   0  0    0   1   1   0   0   0   0/0
+Mathieu Joseph R
+11:34   0  0    0   1   0   2   0   0   0/0
+Kasperi Kapanen R
+09:57   0  0    0   2   0   0   0   1   0/1
+Jordan Kyrou C
+20:20   0  0    0   5   1   0   1   1   0/1
+Jake Neighbours L
+13:44   1  0    1   4   0   2   1   0   0/1
+Brandon Saad L
+18:06   0  0    1   2   0   0   0   0   0/0
+Brayden Schenn C
+18:03   0  0    0   3   0   0   0   2  6/14
+Robert Thomas C
+22:59   0  0    0   3   1   0   0   1 11/21
+Alexey Toropchenko R
+10:03   0  0    0   2   0   0   0   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  22:01   0  1    1   1   1   0   0   0   0/0Justin Faulk D  23:58   0  0    0   0   0   0   1   2   0/0Pierre-Olivier Joseph D  10:51   0  0    0   2   1   2   1   0   0/0Matthew Kessel D  11:58   0  0    0   1   3   0   0   2   0/0Colton Parayko D  26:30   0  0    0   1   2   0   0   1   0/0Ryan Suter D  25:10   0  0    0   1   1   0   0   2   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+22:01   0  1    1   1   1   0   0   0   0/0
+Justin Faulk D
+23:58   0  0    0   0   0   0   1   2   0/0
+Pierre-Olivier Joseph D
+10:51   0  0    0   2   1   2   1   0   0/0
+Matthew Kessel D
+11:58   0  0    0   1   3   0   0   2   0/0
+Colton Parayko D
+26:30   0  0    0   1   2   0   0   1   0/0
+Ryan Suter D
+25:10   0  0    0   1   1   0   0   2   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       30  13   6   5  12 21/45
+                                        46.7%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  62:04   0  34/34  30/30   3/3   1/1     0
+             1.000  1.000 1.000 1.000
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joel Hofer G
+62:04   0  34/34  30/30   3/3   1/1     0
+             1.000  1.000 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

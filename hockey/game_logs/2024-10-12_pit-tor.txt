@@ -1,0 +1,382 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Pittsburgh
+Penguins1-2-0Final2 - 4Toronto
+Maple Leafs2-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+PIT   1  0  1    2  
+TOR   0  2  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  09:56 
+Simon Benoit (TOR) tripping against Cody Glass (2 minutes)
+   0-0
+P1  09:02 
+Kris Letang (PIT) scores power-play goal on slap shot past Anthony Stolarz, assisted by Sidney Crosby and Evgeni Malkin
+   1-0
+2nd Period: ShowHide
+P2  19:10 
+William Nylander (TOR) scores on snap shot past Joel Blomqvist, assisted by Max Domi
+   1-1
+P2  17:07 
+Matthew Knies (TOR) scores on wrist shot past Joel Blomqvist, assisted by Morgan Rielly and Mitch Marner
+   1-2
+P2  15:37 
+Bobby McMann (TOR) goalkeeper interference against Joel Blomqvist (2 minutes)
+   1-2
+P2  05:36 
+Max Pacioretty (TOR) hooking against Jack St. Ivany (2 minutes)
+   1-2
+P2  02:37 
+Jack St. Ivany (PIT) interference against Nicholas Robertson (2 minutes)
+   1-2
+P2  00:03 
+Bryan Rust (PIT) tripping against Chris Tanev (2 minutes)
+   1-2
+3rd Period: ShowHide
+P3  17:48 
+Mitch Marner (TOR) scores on snap shot past Joel Blomqvist
+   1-3
+P3  15:16 
+Simon Benoit (TOR) high-sticking against Michael Bunting (2 minutes)
+   1-3
+P3  07:31 
+Rickard Rakell (PIT) scores on wrist shot past Anthony Stolarz, assisted by Evgeni Malkin
+   2-3
+P3  05:34 
+Marcus Pettersson (PIT) hooking against Nicholas Robertson (2 minutes)
+   2-3
+P3  00:22 
+William Nylander (TOR) scores on empty net, assisted by Max Domi
+   2-4
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  13:15   0  0   -1   0   1   0   0   1   1/3Anthony Beauvillier L  13:38   0  0   -1   1   0   0   1   0   0/0Michael Bunting L  14:06   0  0    0   2   1   0   0   0   0/0Sidney Crosby C  21:00   0  1   -2   3   1   0   0   0  8/19Lars Eller C  15:01   0  0    0   3   0   0   0   0  8/13Cody Glass C  12:24   0  0   -1   1   0   0   1   0   0/2Kevin Hayes R  09:22   0  0   -1   0   0   0   0   0   2/2Evgeni Malkin C  18:50   0  2   -1   1   0   0   0   0   3/8Rutger McGroarty R  12:19   0  0    0   0   1   0   1   0   0/0Drew O'Connor L  13:18   0  0    0   2   1   0   1   1   0/0Rickard Rakell R  13:38   1  0   -1   2   0   0   0   0   0/0Bryan Rust R  20:07   0  0   -2   2   3   2   1   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  15:24   0  0    1   0   1   0   2   2   0/0Matt Grzelcyk D  21:58   0  0   -1   1   2   0   1   0   0/0Erik Karlsson D  21:39   0  0   -2   2   1   0   1   0   0/0Kris Letang D  23:49   1  0   -2   2   1   0   0   1   0/0Marcus Pettersson D  18:03   0  0   -2   1   0   2   2   2   0/0Jack St. Ivany D  17:18   0  0    0   0   1   2   1   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  14   6  12   9 22/47
+                                        46.8%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  58:51   3  29/32  23/26   6/6   0/0     0
+              .906   .885 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  16:03   0  2    2   0   0   0   2   0  7/12Pontus Holmberg R  12:14   0  0    0   1   0   0   0   1   2/6David Kampf C  10:03   0  0   -1   2   0   0   0   0   2/6Matthew Knies L  21:06   1  0    4   3   2   0   0   0   0/0Steven Lorentz C  10:00   0  0   -1   0   0   0   1   1   1/1Mitch Marner R  21:36   1  1    2   2   0   0   2   0   0/0Auston Matthews C  21:46   0  0    2   8   2   0   0   3  9/15Bobby McMann C  12:20   0  0    0   3   0   2   2   1   0/1William Nylander R  20:52   2  0    2   4   1   0   0   0   4/6Max Pacioretty L  10:56   0  0    0   0   2   2   0   2   0/0Ryan Reaves R  07:04   0  0   -1   1   2   0   0   1   0/0Nicholas Robertson L  14:00   0  0    0   1   1   0   0   0   0/0Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  12:35   0  0    1   0   0   4   0   1   0/0Oliver Ekman-Larsson D  25:02   0  0   -1   5   0   0   0   2   0/0Jake McCabe D  24:10   0  0    3   0   2   0   0   1   0/0Morgan Rielly D  20:08   0  1    1   2   3   0   0   1   0/0Chris Tanev D  18:42   0  0    3   0   3   0   1   2   0/0Conor Timmins D  14:56   0  0   -1   1   1   0   0   0   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  4       33  19   8   8  16 25/47
+                                        53.2%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  59:33   2  21/23  16/17   4/5   1/1     0
+              .913   .941  .800 1.000
+Pittsburgh
+Penguins1-2-0Final2 - 4Toronto
+Maple Leafs2-1-0
+Pittsburgh
+Penguins1-2-0
+Final2 - 4
+Toronto
+Maple Leafs2-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+PIT   1  0  1    2  
+TOR   0  2  2    4
+1st Period: ShowHide
+P1  09:56 
+Simon Benoit (TOR) tripping against Cody Glass (2 minutes)
+   0-0
+P1  09:02 
+Kris Letang (PIT) scores power-play goal on slap shot past Anthony Stolarz, assisted by Sidney Crosby and Evgeni Malkin
+   1-0
+2nd Period: ShowHide
+P2  19:10 
+William Nylander (TOR) scores on snap shot past Joel Blomqvist, assisted by Max Domi
+   1-1
+P2  17:07 
+Matthew Knies (TOR) scores on wrist shot past Joel Blomqvist, assisted by Morgan Rielly and Mitch Marner
+   1-2
+P2  15:37 
+Bobby McMann (TOR) goalkeeper interference against Joel Blomqvist (2 minutes)
+   1-2
+P2  05:36 
+Max Pacioretty (TOR) hooking against Jack St. Ivany (2 minutes)
+   1-2
+P2  02:37 
+Jack St. Ivany (PIT) interference against Nicholas Robertson (2 minutes)
+   1-2
+P2  00:03 
+Bryan Rust (PIT) tripping against Chris Tanev (2 minutes)
+   1-2
+3rd Period: ShowHide
+P3  17:48 
+Mitch Marner (TOR) scores on snap shot past Joel Blomqvist
+   1-3
+P3  15:16 
+Simon Benoit (TOR) high-sticking against Michael Bunting (2 minutes)
+   1-3
+P3  07:31 
+Rickard Rakell (PIT) scores on wrist shot past Anthony Stolarz, assisted by Evgeni Malkin
+   2-3
+P3  05:34 
+Marcus Pettersson (PIT) hooking against Nicholas Robertson (2 minutes)
+   2-3
+P3  00:22 
+William Nylander (TOR) scores on empty net, assisted by Max Domi
+   2-4
+1st Period: ShowHide
+P1  09:56 
+Simon Benoit (TOR) tripping against Cody Glass (2 minutes)
+   0-0
+P1  09:02 
+Kris Letang (PIT) scores power-play goal on slap shot past Anthony Stolarz, assisted by Sidney Crosby and Evgeni Malkin
+   1-0
+P1  09:56 
+Simon Benoit (TOR) tripping against Cody Glass (2 minutes)
+   0-0
+P1  09:02 
+Kris Letang (PIT) scores power-play goal on slap shot past Anthony Stolarz, assisted by Sidney Crosby and Evgeni Malkin
+   1-0
+P1  09:56
+Simon Benoit (TOR) tripping against Cody Glass (2 minutes)
+0-0
+P1  09:02
+Kris Letang (PIT) scores power-play goal on slap shot past Anthony Stolarz, assisted by Sidney Crosby and Evgeni Malkin
+1-0
+2nd Period: ShowHide
+P2  19:10 
+William Nylander (TOR) scores on snap shot past Joel Blomqvist, assisted by Max Domi
+   1-1
+P2  17:07 
+Matthew Knies (TOR) scores on wrist shot past Joel Blomqvist, assisted by Morgan Rielly and Mitch Marner
+   1-2
+P2  15:37 
+Bobby McMann (TOR) goalkeeper interference against Joel Blomqvist (2 minutes)
+   1-2
+P2  05:36 
+Max Pacioretty (TOR) hooking against Jack St. Ivany (2 minutes)
+   1-2
+P2  02:37 
+Jack St. Ivany (PIT) interference against Nicholas Robertson (2 minutes)
+   1-2
+P2  00:03 
+Bryan Rust (PIT) tripping against Chris Tanev (2 minutes)
+   1-2
+P2  19:10 
+William Nylander (TOR) scores on snap shot past Joel Blomqvist, assisted by Max Domi
+   1-1
+P2  17:07 
+Matthew Knies (TOR) scores on wrist shot past Joel Blomqvist, assisted by Morgan Rielly and Mitch Marner
+   1-2
+P2  15:37 
+Bobby McMann (TOR) goalkeeper interference against Joel Blomqvist (2 minutes)
+   1-2
+P2  05:36 
+Max Pacioretty (TOR) hooking against Jack St. Ivany (2 minutes)
+   1-2
+P2  02:37 
+Jack St. Ivany (PIT) interference against Nicholas Robertson (2 minutes)
+   1-2
+P2  00:03 
+Bryan Rust (PIT) tripping against Chris Tanev (2 minutes)
+   1-2
+P2  19:10
+William Nylander (TOR) scores on snap shot past Joel Blomqvist, assisted by Max Domi
+1-1
+P2  17:07
+Matthew Knies (TOR) scores on wrist shot past Joel Blomqvist, assisted by Morgan Rielly and Mitch Marner
+1-2
+P2  15:37
+Bobby McMann (TOR) goalkeeper interference against Joel Blomqvist (2 minutes)
+1-2
+P2  05:36
+Max Pacioretty (TOR) hooking against Jack St. Ivany (2 minutes)
+1-2
+P2  02:37
+Jack St. Ivany (PIT) interference against Nicholas Robertson (2 minutes)
+1-2
+P2  00:03
+Bryan Rust (PIT) tripping against Chris Tanev (2 minutes)
+1-2
+3rd Period: ShowHide
+P3  17:48 
+Mitch Marner (TOR) scores on snap shot past Joel Blomqvist
+   1-3
+P3  15:16 
+Simon Benoit (TOR) high-sticking against Michael Bunting (2 minutes)
+   1-3
+P3  07:31 
+Rickard Rakell (PIT) scores on wrist shot past Anthony Stolarz, assisted by Evgeni Malkin
+   2-3
+P3  05:34 
+Marcus Pettersson (PIT) hooking against Nicholas Robertson (2 minutes)
+   2-3
+P3  00:22 
+William Nylander (TOR) scores on empty net, assisted by Max Domi
+   2-4
+P3  17:48 
+Mitch Marner (TOR) scores on snap shot past Joel Blomqvist
+   1-3
+P3  15:16 
+Simon Benoit (TOR) high-sticking against Michael Bunting (2 minutes)
+   1-3
+P3  07:31 
+Rickard Rakell (PIT) scores on wrist shot past Anthony Stolarz, assisted by Evgeni Malkin
+   2-3
+P3  05:34 
+Marcus Pettersson (PIT) hooking against Nicholas Robertson (2 minutes)
+   2-3
+P3  00:22 
+William Nylander (TOR) scores on empty net, assisted by Max Domi
+   2-4
+P3  17:48
+Mitch Marner (TOR) scores on snap shot past Joel Blomqvist
+1-3
+P3  15:16
+Simon Benoit (TOR) high-sticking against Michael Bunting (2 minutes)
+1-3
+P3  07:31
+Rickard Rakell (PIT) scores on wrist shot past Anthony Stolarz, assisted by Evgeni Malkin
+2-3
+P3  05:34
+Marcus Pettersson (PIT) hooking against Nicholas Robertson (2 minutes)
+2-3
+P3  00:22
+William Nylander (TOR) scores on empty net, assisted by Max Domi
+2-4
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  13:15   0  0   -1   0   1   0   0   1   1/3Anthony Beauvillier L  13:38   0  0   -1   1   0   0   1   0   0/0Michael Bunting L  14:06   0  0    0   2   1   0   0   0   0/0Sidney Crosby C  21:00   0  1   -2   3   1   0   0   0  8/19Lars Eller C  15:01   0  0    0   3   0   0   0   0  8/13Cody Glass C  12:24   0  0   -1   1   0   0   1   0   0/2Kevin Hayes R  09:22   0  0   -1   0   0   0   0   0   2/2Evgeni Malkin C  18:50   0  2   -1   1   0   0   0   0   3/8Rutger McGroarty R  12:19   0  0    0   0   1   0   1   0   0/0Drew O'Connor L  13:18   0  0    0   2   1   0   1   1   0/0Rickard Rakell R  13:38   1  0   -1   2   0   0   0   0   0/0Bryan Rust R  20:07   0  0   -2   2   3   2   1   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  15:24   0  0    1   0   1   0   2   2   0/0Matt Grzelcyk D  21:58   0  0   -1   1   2   0   1   0   0/0Erik Karlsson D  21:39   0  0   -2   2   1   0   1   0   0/0Kris Letang D  23:49   1  0   -2   2   1   0   0   1   0/0Marcus Pettersson D  18:03   0  0   -2   1   0   2   2   2   0/0Jack St. Ivany D  17:18   0  0    0   0   1   2   1   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  14   6  12   9 22/47
+                                        46.8%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  58:51   3  29/32  23/26   6/6   0/0     0
+              .906   .885 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  16:03   0  2    2   0   0   0   2   0  7/12Pontus Holmberg R  12:14   0  0    0   1   0   0   0   1   2/6David Kampf C  10:03   0  0   -1   2   0   0   0   0   2/6Matthew Knies L  21:06   1  0    4   3   2   0   0   0   0/0Steven Lorentz C  10:00   0  0   -1   0   0   0   1   1   1/1Mitch Marner R  21:36   1  1    2   2   0   0   2   0   0/0Auston Matthews C  21:46   0  0    2   8   2   0   0   3  9/15Bobby McMann C  12:20   0  0    0   3   0   2   2   1   0/1William Nylander R  20:52   2  0    2   4   1   0   0   0   4/6Max Pacioretty L  10:56   0  0    0   0   2   2   0   2   0/0Ryan Reaves R  07:04   0  0   -1   1   2   0   0   1   0/0Nicholas Robertson L  14:00   0  0    0   1   1   0   0   0   0/0Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  12:35   0  0    1   0   0   4   0   1   0/0Oliver Ekman-Larsson D  25:02   0  0   -1   5   0   0   0   2   0/0Jake McCabe D  24:10   0  0    3   0   2   0   0   1   0/0Morgan Rielly D  20:08   0  1    1   2   3   0   0   1   0/0Chris Tanev D  18:42   0  0    3   0   3   0   1   2   0/0Conor Timmins D  14:56   0  0   -1   1   1   0   0   0   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  4       33  19   8   8  16 25/47
+                                        53.2%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  59:33   2  21/23  16/17   4/5   1/1     0
+              .913   .941  .800 1.000
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  13:15   0  0   -1   0   1   0   0   1   1/3Anthony Beauvillier L  13:38   0  0   -1   1   0   0   1   0   0/0Michael Bunting L  14:06   0  0    0   2   1   0   0   0   0/0Sidney Crosby C  21:00   0  1   -2   3   1   0   0   0  8/19Lars Eller C  15:01   0  0    0   3   0   0   0   0  8/13Cody Glass C  12:24   0  0   -1   1   0   0   1   0   0/2Kevin Hayes R  09:22   0  0   -1   0   0   0   0   0   2/2Evgeni Malkin C  18:50   0  2   -1   1   0   0   0   0   3/8Rutger McGroarty R  12:19   0  0    0   0   1   0   1   0   0/0Drew O'Connor L  13:18   0  0    0   2   1   0   1   1   0/0Rickard Rakell R  13:38   1  0   -1   2   0   0   0   0   0/0Bryan Rust R  20:07   0  0   -2   2   3   2   1   0   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+13:15   0  0   -1   0   1   0   0   1   1/3
+Anthony Beauvillier L
+13:38   0  0   -1   1   0   0   1   0   0/0
+Michael Bunting L
+14:06   0  0    0   2   1   0   0   0   0/0
+Sidney Crosby C
+21:00   0  1   -2   3   1   0   0   0  8/19
+Lars Eller C
+15:01   0  0    0   3   0   0   0   0  8/13
+Cody Glass C
+12:24   0  0   -1   1   0   0   1   0   0/2
+Kevin Hayes R
+09:22   0  0   -1   0   0   0   0   0   2/2
+Evgeni Malkin C
+18:50   0  2   -1   1   0   0   0   0   3/8
+Rutger McGroarty R
+12:19   0  0    0   0   1   0   1   0   0/0
+Drew O'Connor L
+13:18   0  0    0   2   1   0   1   1   0/0
+Rickard Rakell R
+13:38   1  0   -1   2   0   0   0   0   0/0
+Bryan Rust R
+20:07   0  0   -2   2   3   2   1   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  15:24   0  0    1   0   1   0   2   2   0/0Matt Grzelcyk D  21:58   0  0   -1   1   2   0   1   0   0/0Erik Karlsson D  21:39   0  0   -2   2   1   0   1   0   0/0Kris Letang D  23:49   1  0   -2   2   1   0   0   1   0/0Marcus Pettersson D  18:03   0  0   -2   1   0   2   2   2   0/0Jack St. Ivany D  17:18   0  0    0   0   1   2   1   2   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+15:24   0  0    1   0   1   0   2   2   0/0
+Matt Grzelcyk D
+21:58   0  0   -1   1   2   0   1   0   0/0
+Erik Karlsson D
+21:39   0  0   -2   2   1   0   1   0   0/0
+Kris Letang D
+23:49   1  0   -2   2   1   0   0   1   0/0
+Marcus Pettersson D
+18:03   0  0   -2   1   0   2   2   2   0/0
+Jack St. Ivany D
+17:18   0  0    0   0   1   2   1   2   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       23  14   6  12   9 22/47
+                                        46.8%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  58:51   3  29/32  23/26   6/6   0/0     0
+              .906   .885 1.000
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joel Blomqvist G
+58:51   3  29/32  23/26   6/6   0/0     0
+              .906   .885 1.000
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  16:03   0  2    2   0   0   0   2   0  7/12Pontus Holmberg R  12:14   0  0    0   1   0   0   0   1   2/6David Kampf C  10:03   0  0   -1   2   0   0   0   0   2/6Matthew Knies L  21:06   1  0    4   3   2   0   0   0   0/0Steven Lorentz C  10:00   0  0   -1   0   0   0   1   1   1/1Mitch Marner R  21:36   1  1    2   2   0   0   2   0   0/0Auston Matthews C  21:46   0  0    2   8   2   0   0   3  9/15Bobby McMann C  12:20   0  0    0   3   0   2   2   1   0/1William Nylander R  20:52   2  0    2   4   1   0   0   0   4/6Max Pacioretty L  10:56   0  0    0   0   2   2   0   2   0/0Ryan Reaves R  07:04   0  0   -1   1   2   0   0   1   0/0Nicholas Robertson L  14:00   0  0    0   1   1   0   0   0   0/0
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Max Domi C
+16:03   0  2    2   0   0   0   2   0  7/12
+Pontus Holmberg R
+12:14   0  0    0   1   0   0   0   1   2/6
+David Kampf C
+10:03   0  0   -1   2   0   0   0   0   2/6
+Matthew Knies L
+21:06   1  0    4   3   2   0   0   0   0/0
+Steven Lorentz C
+10:00   0  0   -1   0   0   0   1   1   1/1
+Mitch Marner R
+21:36   1  1    2   2   0   0   2   0   0/0
+Auston Matthews C
+21:46   0  0    2   8   2   0   0   3  9/15
+Bobby McMann C
+12:20   0  0    0   3   0   2   2   1   0/1
+William Nylander R
+20:52   2  0    2   4   1   0   0   0   4/6
+Max Pacioretty L
+10:56   0  0    0   0   2   2   0   2   0/0
+Ryan Reaves R
+07:04   0  0   -1   1   2   0   0   1   0/0
+Nicholas Robertson L
+14:00   0  0    0   1   1   0   0   0   0/0
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  12:35   0  0    1   0   0   4   0   1   0/0Oliver Ekman-Larsson D  25:02   0  0   -1   5   0   0   0   2   0/0Jake McCabe D  24:10   0  0    3   0   2   0   0   1   0/0Morgan Rielly D  20:08   0  1    1   2   3   0   0   1   0/0Chris Tanev D  18:42   0  0    3   0   3   0   1   2   0/0Conor Timmins D  14:56   0  0   -1   1   1   0   0   0   0/0
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Simon Benoit D
+12:35   0  0    1   0   0   4   0   1   0/0
+Oliver Ekman-Larsson D
+25:02   0  0   -1   5   0   0   0   2   0/0
+Jake McCabe D
+24:10   0  0    3   0   2   0   0   1   0/0
+Morgan Rielly D
+20:08   0  1    1   2   3   0   0   1   0/0
+Chris Tanev D
+18:42   0  0    3   0   3   0   1   2   0/0
+Conor Timmins D
+14:56   0  0   -1   1   1   0   0   0   0/0
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  4       33  19   8   8  16 25/47
+                                        53.2%
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  59:33   2  21/23  16/17   4/5   1/1     0
+              .913   .941  .800 1.000
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Anthony Stolarz G
+59:33   2  21/23  16/17   4/5   1/1     0
+              .913   .941  .800 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

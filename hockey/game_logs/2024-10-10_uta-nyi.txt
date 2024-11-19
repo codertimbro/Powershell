@@ -1,0 +1,430 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Utah
+Hockey Club2-0-0Final/OT5 - 4New York
+Islanders0-0-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+UTA   1  1  2  1    5  
+NYI   1  0  3  0    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  09:46 
+Logan Cooley (UTA) high-sticking against Kyle MacLean (2 minutes)
+   0-0
+P1  08:50 
+Anthony Duclair (NYI) scores power-play goal on deflection past Connor Ingram, assisted by Noah Dobson and Mathew Barzal
+   0-1
+P1  08:50 
+UTA penalty, delaying game - unsuccessful challenge (2 minutes), served by Michael Carcone
+   0-1
+P1  04:50 
+Sean Durzi (UTA) holding against Brock Nelson (2 minutes)
+   0-1
+P1  01:43 
+Alexander Romanov (NYI) interference against Barrett Hayton (2 minutes)
+   0-1
+P1  00:59 
+Lawson Crouse (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Matias Maccelli and Logan Cooley
+   1-1
+2nd Period: ShowHide
+P2  06:53 
+Barrett Hayton (UTA) scores on tip-in past Semyon Varlamov, assisted by Mikhail Sergachev and Clayton Keller
+   2-1
+P2  05:19 
+Michael Kesselring (UTA) hooking against Anthony Duclair (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  18:57 
+Bo Horvat (NYI) scores on slap shot past Connor Ingram, assisted by Anthony Duclair and Noah Dobson
+   2-2
+P3  13:19 
+Kyle Palmieri (NYI) tripping against Clayton Keller (2 minutes)
+   2-2
+P3  13:08 
+Jean-Gabriel Pageau (NYI) scores short-handed goal on backhand shot past Connor Ingram, assisted by Simon Holmstrom
+   2-3
+P3  12:23 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Clayton Keller and Mikhail Sergachev
+   3-3
+P3  10:38 
+Ian Cole (UTA) high-sticking against Anders Lee (4 minutes)
+   3-3
+P3  02:07 
+Maxim Tsyplakov (NYI) scores on snap shot past Connor Ingram, assisted by Brock Nelson and Kyle Palmieri
+   3-4
+P3  01:54 
+Josh Doan (UTA) scores on backhand shot past Semyon Varlamov, assisted by Alex Kerfoot and Lawson Crouse
+   4-4
+Overtime: ShowHide
+OT  02:42 
+Dylan Guenther (UTA) scores on snap shot past Semyon Varlamov, assisted by Sean Durzi and Logan Cooley
+   5-4
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  12:41   0  0    0   1   0   0   0   1   0/0Logan Cooley C  12:14   0  2    0   1   0   2   1   3   2/8Lawson Crouse L  13:06   1  1    1   1   2   0   1   1   0/0Josh Doan R  10:58   1  0    1   1   0   0   0   0   3/6Dylan Guenther R  12:58   2  0   -1   3   1   0   0   0   1/1Barrett Hayton C  18:39   1  0   -1   2   1   0   0   0  9/18Clayton Keller R  20:06   0  2   -1   3   0   0   0   1   1/1Alex Kerfoot C  15:27   0  1    1   3   0   0   0   1   3/7Matias Maccelli L  12:00   0  1    0   1   0   0   0   0   0/0Jack McBain C  10:40   0  0   -1   0   1   0   1   2   2/4Nick Schmaltz C  17:46   0  0   -1   5   0   0   0   0   2/4Kevin Stenlund C  18:05   0  0    0   0   3   0   0   1 13/20Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  20:20   0  0   -1   0   2   4   1   2   0/0Sean Durzi D  25:28   0  1    1   1   4   2   2   3   0/0Michael Kesselring D  17:58   0  0    1   3   0   2   0   2   0/0Vladislav Kolyachonok D  14:53   0  0   -1   0   1   0   0   0   0/0Mikhail Sergachev D  24:59   0  2   -1   1   3   0   2   2   0/0Juuso Valimaki D  17:40   0  0    1   0   2   0   3   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       26  20  10  11  19 36/69
+                                        52.2%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:18   4  23/27  14/16   8/9   1/2     0
+              .852   .875  .889  .500 
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  22:46   0  1    1   1   1   0   0   3   0/0Casey Cizikas C  11:09   0  0   -1   0   0   0   1   0   1/2Anthony Duclair L  19:45   1  1    0   2   1   0   0   0   0/0Simon Holmstrom R  12:13   0  1    1   1   1   0   0   1   0/0Bo Horvat C  20:44   1  0    1   5   1   0   0   0 14/28Anders Lee L  14:26   0  0   -1   3   1   0   0   0   0/1Kyle MacLean C  12:01   0  0   -1   0   0   0   0   0   5/9Brock Nelson C  18:28   0  1    1   2   0   0   0   0  4/15Jean-Gabriel Pageau C  13:05   1  0   -1   1   0   0   0   1  8/13Kyle Palmieri C  16:53   0  1    0   5   2   2   0   0   0/0Maxim Tsyplakov R  20:46   1  0    1   3   0   0   0   1   1/1Oliver Wahlstrom R  10:52   0  0   -1   0   2   0   1   1   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  24:51   0  2   -1   0   3   0   0   0   0/0Scott Mayfield D  13:32   0  0    1   0   1   0   0   0   0/0Adam Pelech D  21:01   0  0    0   0   2   0   0   1   0/0Ryan Pulock D  20:51   0  0    1   0   4   0   0   0   0/0Mike Reilly D  13:53   0  0    1   0   0   0   0   0   0/0Alexander Romanov D  17:58   0  0   -1   4   4   2   0   3   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       27  23   4   2  11 33/69
+                                        47.8%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSemyon Varlamov G  62:18   5  21/26  21/24   0/2   0/0     0
+              .808   .875  .000
+Utah
+Hockey Club2-0-0Final/OT5 - 4New York
+Islanders0-0-1
+Utah
+Hockey Club2-0-0
+Final/OT5 - 4
+New York
+Islanders0-0-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+UTA   1  1  2  1    5  
+NYI   1  0  3  0    4
+1st Period: ShowHide
+P1  09:46 
+Logan Cooley (UTA) high-sticking against Kyle MacLean (2 minutes)
+   0-0
+P1  08:50 
+Anthony Duclair (NYI) scores power-play goal on deflection past Connor Ingram, assisted by Noah Dobson and Mathew Barzal
+   0-1
+P1  08:50 
+UTA penalty, delaying game - unsuccessful challenge (2 minutes), served by Michael Carcone
+   0-1
+P1  04:50 
+Sean Durzi (UTA) holding against Brock Nelson (2 minutes)
+   0-1
+P1  01:43 
+Alexander Romanov (NYI) interference against Barrett Hayton (2 minutes)
+   0-1
+P1  00:59 
+Lawson Crouse (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Matias Maccelli and Logan Cooley
+   1-1
+2nd Period: ShowHide
+P2  06:53 
+Barrett Hayton (UTA) scores on tip-in past Semyon Varlamov, assisted by Mikhail Sergachev and Clayton Keller
+   2-1
+P2  05:19 
+Michael Kesselring (UTA) hooking against Anthony Duclair (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  18:57 
+Bo Horvat (NYI) scores on slap shot past Connor Ingram, assisted by Anthony Duclair and Noah Dobson
+   2-2
+P3  13:19 
+Kyle Palmieri (NYI) tripping against Clayton Keller (2 minutes)
+   2-2
+P3  13:08 
+Jean-Gabriel Pageau (NYI) scores short-handed goal on backhand shot past Connor Ingram, assisted by Simon Holmstrom
+   2-3
+P3  12:23 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Clayton Keller and Mikhail Sergachev
+   3-3
+P3  10:38 
+Ian Cole (UTA) high-sticking against Anders Lee (4 minutes)
+   3-3
+P3  02:07 
+Maxim Tsyplakov (NYI) scores on snap shot past Connor Ingram, assisted by Brock Nelson and Kyle Palmieri
+   3-4
+P3  01:54 
+Josh Doan (UTA) scores on backhand shot past Semyon Varlamov, assisted by Alex Kerfoot and Lawson Crouse
+   4-4
+Overtime: ShowHide
+OT  02:42 
+Dylan Guenther (UTA) scores on snap shot past Semyon Varlamov, assisted by Sean Durzi and Logan Cooley
+   5-4
+1st Period: ShowHide
+P1  09:46 
+Logan Cooley (UTA) high-sticking against Kyle MacLean (2 minutes)
+   0-0
+P1  08:50 
+Anthony Duclair (NYI) scores power-play goal on deflection past Connor Ingram, assisted by Noah Dobson and Mathew Barzal
+   0-1
+P1  08:50 
+UTA penalty, delaying game - unsuccessful challenge (2 minutes), served by Michael Carcone
+   0-1
+P1  04:50 
+Sean Durzi (UTA) holding against Brock Nelson (2 minutes)
+   0-1
+P1  01:43 
+Alexander Romanov (NYI) interference against Barrett Hayton (2 minutes)
+   0-1
+P1  00:59 
+Lawson Crouse (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Matias Maccelli and Logan Cooley
+   1-1
+P1  09:46 
+Logan Cooley (UTA) high-sticking against Kyle MacLean (2 minutes)
+   0-0
+P1  08:50 
+Anthony Duclair (NYI) scores power-play goal on deflection past Connor Ingram, assisted by Noah Dobson and Mathew Barzal
+   0-1
+P1  08:50 
+UTA penalty, delaying game - unsuccessful challenge (2 minutes), served by Michael Carcone
+   0-1
+P1  04:50 
+Sean Durzi (UTA) holding against Brock Nelson (2 minutes)
+   0-1
+P1  01:43 
+Alexander Romanov (NYI) interference against Barrett Hayton (2 minutes)
+   0-1
+P1  00:59 
+Lawson Crouse (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Matias Maccelli and Logan Cooley
+   1-1
+P1  09:46
+Logan Cooley (UTA) high-sticking against Kyle MacLean (2 minutes)
+0-0
+P1  08:50
+Anthony Duclair (NYI) scores power-play goal on deflection past Connor Ingram, assisted by Noah Dobson and Mathew Barzal
+0-1
+P1  08:50
+UTA penalty, delaying game - unsuccessful challenge (2 minutes), served by Michael Carcone
+0-1
+P1  04:50
+Sean Durzi (UTA) holding against Brock Nelson (2 minutes)
+0-1
+P1  01:43
+Alexander Romanov (NYI) interference against Barrett Hayton (2 minutes)
+0-1
+P1  00:59
+Lawson Crouse (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Matias Maccelli and Logan Cooley
+1-1
+2nd Period: ShowHide
+P2  06:53 
+Barrett Hayton (UTA) scores on tip-in past Semyon Varlamov, assisted by Mikhail Sergachev and Clayton Keller
+   2-1
+P2  05:19 
+Michael Kesselring (UTA) hooking against Anthony Duclair (2 minutes)
+   2-1
+P2  06:53 
+Barrett Hayton (UTA) scores on tip-in past Semyon Varlamov, assisted by Mikhail Sergachev and Clayton Keller
+   2-1
+P2  05:19 
+Michael Kesselring (UTA) hooking against Anthony Duclair (2 minutes)
+   2-1
+P2  06:53
+Barrett Hayton (UTA) scores on tip-in past Semyon Varlamov, assisted by Mikhail Sergachev and Clayton Keller
+2-1
+P2  05:19
+Michael Kesselring (UTA) hooking against Anthony Duclair (2 minutes)
+2-1
+3rd Period: ShowHide
+P3  18:57 
+Bo Horvat (NYI) scores on slap shot past Connor Ingram, assisted by Anthony Duclair and Noah Dobson
+   2-2
+P3  13:19 
+Kyle Palmieri (NYI) tripping against Clayton Keller (2 minutes)
+   2-2
+P3  13:08 
+Jean-Gabriel Pageau (NYI) scores short-handed goal on backhand shot past Connor Ingram, assisted by Simon Holmstrom
+   2-3
+P3  12:23 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Clayton Keller and Mikhail Sergachev
+   3-3
+P3  10:38 
+Ian Cole (UTA) high-sticking against Anders Lee (4 minutes)
+   3-3
+P3  02:07 
+Maxim Tsyplakov (NYI) scores on snap shot past Connor Ingram, assisted by Brock Nelson and Kyle Palmieri
+   3-4
+P3  01:54 
+Josh Doan (UTA) scores on backhand shot past Semyon Varlamov, assisted by Alex Kerfoot and Lawson Crouse
+   4-4
+P3  18:57 
+Bo Horvat (NYI) scores on slap shot past Connor Ingram, assisted by Anthony Duclair and Noah Dobson
+   2-2
+P3  13:19 
+Kyle Palmieri (NYI) tripping against Clayton Keller (2 minutes)
+   2-2
+P3  13:08 
+Jean-Gabriel Pageau (NYI) scores short-handed goal on backhand shot past Connor Ingram, assisted by Simon Holmstrom
+   2-3
+P3  12:23 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Clayton Keller and Mikhail Sergachev
+   3-3
+P3  10:38 
+Ian Cole (UTA) high-sticking against Anders Lee (4 minutes)
+   3-3
+P3  02:07 
+Maxim Tsyplakov (NYI) scores on snap shot past Connor Ingram, assisted by Brock Nelson and Kyle Palmieri
+   3-4
+P3  01:54 
+Josh Doan (UTA) scores on backhand shot past Semyon Varlamov, assisted by Alex Kerfoot and Lawson Crouse
+   4-4
+P3  18:57
+Bo Horvat (NYI) scores on slap shot past Connor Ingram, assisted by Anthony Duclair and Noah Dobson
+2-2
+P3  13:19
+Kyle Palmieri (NYI) tripping against Clayton Keller (2 minutes)
+2-2
+P3  13:08
+Jean-Gabriel Pageau (NYI) scores short-handed goal on backhand shot past Connor Ingram, assisted by Simon Holmstrom
+2-3
+P3  12:23
+Dylan Guenther (UTA) scores power-play goal on snap shot past Semyon Varlamov, assisted by Clayton Keller and Mikhail Sergachev
+3-3
+P3  10:38
+Ian Cole (UTA) high-sticking against Anders Lee (4 minutes)
+3-3
+P3  02:07
+Maxim Tsyplakov (NYI) scores on snap shot past Connor Ingram, assisted by Brock Nelson and Kyle Palmieri
+3-4
+P3  01:54
+Josh Doan (UTA) scores on backhand shot past Semyon Varlamov, assisted by Alex Kerfoot and Lawson Crouse
+4-4
+Overtime: ShowHide
+OT  02:42 
+Dylan Guenther (UTA) scores on snap shot past Semyon Varlamov, assisted by Sean Durzi and Logan Cooley
+   5-4
+OT  02:42 
+Dylan Guenther (UTA) scores on snap shot past Semyon Varlamov, assisted by Sean Durzi and Logan Cooley
+   5-4
+OT  02:42
+Dylan Guenther (UTA) scores on snap shot past Semyon Varlamov, assisted by Sean Durzi and Logan Cooley
+5-4
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  12:41   0  0    0   1   0   0   0   1   0/0Logan Cooley C  12:14   0  2    0   1   0   2   1   3   2/8Lawson Crouse L  13:06   1  1    1   1   2   0   1   1   0/0Josh Doan R  10:58   1  0    1   1   0   0   0   0   3/6Dylan Guenther R  12:58   2  0   -1   3   1   0   0   0   1/1Barrett Hayton C  18:39   1  0   -1   2   1   0   0   0  9/18Clayton Keller R  20:06   0  2   -1   3   0   0   0   1   1/1Alex Kerfoot C  15:27   0  1    1   3   0   0   0   1   3/7Matias Maccelli L  12:00   0  1    0   1   0   0   0   0   0/0Jack McBain C  10:40   0  0   -1   0   1   0   1   2   2/4Nick Schmaltz C  17:46   0  0   -1   5   0   0   0   0   2/4Kevin Stenlund C  18:05   0  0    0   0   3   0   0   1 13/20Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  20:20   0  0   -1   0   2   4   1   2   0/0Sean Durzi D  25:28   0  1    1   1   4   2   2   3   0/0Michael Kesselring D  17:58   0  0    1   3   0   2   0   2   0/0Vladislav Kolyachonok D  14:53   0  0   -1   0   1   0   0   0   0/0Mikhail Sergachev D  24:59   0  2   -1   1   3   0   2   2   0/0Juuso Valimaki D  17:40   0  0    1   0   2   0   3   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       26  20  10  11  19 36/69
+                                        52.2%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:18   4  23/27  14/16   8/9   1/2     0
+              .852   .875  .889  .500 
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  22:46   0  1    1   1   1   0   0   3   0/0Casey Cizikas C  11:09   0  0   -1   0   0   0   1   0   1/2Anthony Duclair L  19:45   1  1    0   2   1   0   0   0   0/0Simon Holmstrom R  12:13   0  1    1   1   1   0   0   1   0/0Bo Horvat C  20:44   1  0    1   5   1   0   0   0 14/28Anders Lee L  14:26   0  0   -1   3   1   0   0   0   0/1Kyle MacLean C  12:01   0  0   -1   0   0   0   0   0   5/9Brock Nelson C  18:28   0  1    1   2   0   0   0   0  4/15Jean-Gabriel Pageau C  13:05   1  0   -1   1   0   0   0   1  8/13Kyle Palmieri C  16:53   0  1    0   5   2   2   0   0   0/0Maxim Tsyplakov R  20:46   1  0    1   3   0   0   0   1   1/1Oliver Wahlstrom R  10:52   0  0   -1   0   2   0   1   1   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  24:51   0  2   -1   0   3   0   0   0   0/0Scott Mayfield D  13:32   0  0    1   0   1   0   0   0   0/0Adam Pelech D  21:01   0  0    0   0   2   0   0   1   0/0Ryan Pulock D  20:51   0  0    1   0   4   0   0   0   0/0Mike Reilly D  13:53   0  0    1   0   0   0   0   0   0/0Alexander Romanov D  17:58   0  0   -1   4   4   2   0   3   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       27  23   4   2  11 33/69
+                                        47.8%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSemyon Varlamov G  62:18   5  21/26  21/24   0/2   0/0     0
+              .808   .875  .000
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  12:41   0  0    0   1   0   0   0   1   0/0Logan Cooley C  12:14   0  2    0   1   0   2   1   3   2/8Lawson Crouse L  13:06   1  1    1   1   2   0   1   1   0/0Josh Doan R  10:58   1  0    1   1   0   0   0   0   3/6Dylan Guenther R  12:58   2  0   -1   3   1   0   0   0   1/1Barrett Hayton C  18:39   1  0   -1   2   1   0   0   0  9/18Clayton Keller R  20:06   0  2   -1   3   0   0   0   1   1/1Alex Kerfoot C  15:27   0  1    1   3   0   0   0   1   3/7Matias Maccelli L  12:00   0  1    0   1   0   0   0   0   0/0Jack McBain C  10:40   0  0   -1   0   1   0   1   2   2/4Nick Schmaltz C  17:46   0  0   -1   5   0   0   0   0   2/4Kevin Stenlund C  18:05   0  0    0   0   3   0   0   1 13/20
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Carcone L
+12:41   0  0    0   1   0   0   0   1   0/0
+Logan Cooley C
+12:14   0  2    0   1   0   2   1   3   2/8
+Lawson Crouse L
+13:06   1  1    1   1   2   0   1   1   0/0
+Josh Doan R
+10:58   1  0    1   1   0   0   0   0   3/6
+Dylan Guenther R
+12:58   2  0   -1   3   1   0   0   0   1/1
+Barrett Hayton C
+18:39   1  0   -1   2   1   0   0   0  9/18
+Clayton Keller R
+20:06   0  2   -1   3   0   0   0   1   1/1
+Alex Kerfoot C
+15:27   0  1    1   3   0   0   0   1   3/7
+Matias Maccelli L
+12:00   0  1    0   1   0   0   0   0   0/0
+Jack McBain C
+10:40   0  0   -1   0   1   0   1   2   2/4
+Nick Schmaltz C
+17:46   0  0   -1   5   0   0   0   0   2/4
+Kevin Stenlund C
+18:05   0  0    0   0   3   0   0   1 13/20
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  20:20   0  0   -1   0   2   4   1   2   0/0Sean Durzi D  25:28   0  1    1   1   4   2   2   3   0/0Michael Kesselring D  17:58   0  0    1   3   0   2   0   2   0/0Vladislav Kolyachonok D  14:53   0  0   -1   0   1   0   0   0   0/0Mikhail Sergachev D  24:59   0  2   -1   1   3   0   2   2   0/0Juuso Valimaki D  17:40   0  0    1   0   2   0   3   0   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ian Cole D
+20:20   0  0   -1   0   2   4   1   2   0/0
+Sean Durzi D
+25:28   0  1    1   1   4   2   2   3   0/0
+Michael Kesselring D
+17:58   0  0    1   3   0   2   0   2   0/0
+Vladislav Kolyachonok D
+14:53   0  0   -1   0   1   0   0   0   0/0
+Mikhail Sergachev D
+24:59   0  2   -1   1   3   0   2   2   0/0
+Juuso Valimaki D
+17:40   0  0    1   0   2   0   3   0   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       26  20  10  11  19 36/69
+                                        52.2%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:18   4  23/27  14/16   8/9   1/2     0
+              .852   .875  .889  .500
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+62:18   4  23/27  14/16   8/9   1/2     0
+              .852   .875  .889  .500
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  22:46   0  1    1   1   1   0   0   3   0/0Casey Cizikas C  11:09   0  0   -1   0   0   0   1   0   1/2Anthony Duclair L  19:45   1  1    0   2   1   0   0   0   0/0Simon Holmstrom R  12:13   0  1    1   1   1   0   0   1   0/0Bo Horvat C  20:44   1  0    1   5   1   0   0   0 14/28Anders Lee L  14:26   0  0   -1   3   1   0   0   0   0/1Kyle MacLean C  12:01   0  0   -1   0   0   0   0   0   5/9Brock Nelson C  18:28   0  1    1   2   0   0   0   0  4/15Jean-Gabriel Pageau C  13:05   1  0   -1   1   0   0   0   1  8/13Kyle Palmieri C  16:53   0  1    0   5   2   2   0   0   0/0Maxim Tsyplakov R  20:46   1  0    1   3   0   0   0   1   1/1Oliver Wahlstrom R  10:52   0  0   -1   0   2   0   1   1   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Barzal C
+22:46   0  1    1   1   1   0   0   3   0/0
+Casey Cizikas C
+11:09   0  0   -1   0   0   0   1   0   1/2
+Anthony Duclair L
+19:45   1  1    0   2   1   0   0   0   0/0
+Simon Holmstrom R
+12:13   0  1    1   1   1   0   0   1   0/0
+Bo Horvat C
+20:44   1  0    1   5   1   0   0   0 14/28
+Anders Lee L
+14:26   0  0   -1   3   1   0   0   0   0/1
+Kyle MacLean C
+12:01   0  0   -1   0   0   0   0   0   5/9
+Brock Nelson C
+18:28   0  1    1   2   0   0   0   0  4/15
+Jean-Gabriel Pageau C
+13:05   1  0   -1   1   0   0   0   1  8/13
+Kyle Palmieri C
+16:53   0  1    0   5   2   2   0   0   0/0
+Maxim Tsyplakov R
+20:46   1  0    1   3   0   0   0   1   1/1
+Oliver Wahlstrom R
+10:52   0  0   -1   0   2   0   1   1   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  24:51   0  2   -1   0   3   0   0   0   0/0Scott Mayfield D  13:32   0  0    1   0   1   0   0   0   0/0Adam Pelech D  21:01   0  0    0   0   2   0   0   1   0/0Ryan Pulock D  20:51   0  0    1   0   4   0   0   0   0/0Mike Reilly D  13:53   0  0    1   0   0   0   0   0   0/0Alexander Romanov D  17:58   0  0   -1   4   4   2   0   3   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Dobson D
+24:51   0  2   -1   0   3   0   0   0   0/0
+Scott Mayfield D
+13:32   0  0    1   0   1   0   0   0   0/0
+Adam Pelech D
+21:01   0  0    0   0   2   0   0   1   0/0
+Ryan Pulock D
+20:51   0  0    1   0   4   0   0   0   0/0
+Mike Reilly D
+13:53   0  0    1   0   0   0   0   0   0/0
+Alexander Romanov D
+17:58   0  0   -1   4   4   2   0   3   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       27  23   4   2  11 33/69
+                                        47.8%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSemyon Varlamov G  62:18   5  21/26  21/24   0/2   0/0     0
+              .808   .875  .000
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Semyon Varlamov G
+62:18   5  21/26  21/24   0/2   0/0     0
+              .808   .875  .000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

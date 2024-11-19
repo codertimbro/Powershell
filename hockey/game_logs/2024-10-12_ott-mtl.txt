@@ -1,0 +1,427 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Ottawa
+Senators1-1-0Final1 - 4Montreal
+Canadiens2-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+OTT   0  0  1    1  
+MTL   2  0  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:21 
+Lane Hutson (MTL) holding against Drake Batherson (2 minutes)
+   0-0
+P1  11:22 
+Brady Tkachuk (OTT) elbowing against Kirby Dach (2 minutes)
+   0-0
+P1  09:23 
+Emil Heineman (MTL) scores power-play goal on snap shot past Linus Ullmark, assisted by Christian Dvorak and Lane Hutson
+   0-1
+P1  07:38 
+Artem Zub (OTT) cross-checking against Josh Anderson (2 minutes)
+   0-1
+P1  04:57 
+Cole Caufield (MTL) scores on wrist shot past Linus Ullmark, assisted by Mike Matheson and Juraj Slafkovsky
+   0-2
+P1  03:56 
+Justin Barron (MTL) interference against Zack MacEwen (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  16:36 
+Emil Heineman (MTL) roughing against Tyler Kleven (2 minutes)
+   0-2
+P2  16:36 
+Tyler Kleven (OTT) cross-checking against Emil Heineman (2 minutes), served by David Perron
+   0-2
+P2  09:27 
+Josh Anderson (MTL) tripping against Drake Batherson (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  18:31 
+Brady Tkachuk (OTT) slashing against Alex Newhook (2 minutes)
+   0-2
+P3  18:00 
+Jake Sanderson (OTT) tripping on breakaway against Mike Matheson results in penalty shot
+   0-2
+P3  16:10 
+Alex Newhook (MTL) scores on snap shot past Linus Ullmark, assisted by Lane Hutson and Kaiden Guhle
+   0-3
+P3  14:30 
+Tim Stützle (OTT) scores on wrist shot past Sam Montembeault, assisted by Brady Tkachuk and Nick Jensen
+   1-3
+P3  12:17 
+Cole Caufield (MTL) scores on backhand shot past Linus Ullmark, assisted by Nick Suzuki and Juraj Slafkovsky
+   1-4
+P3  11:23 
+OTT penalty, too many men on the ice (2 minutes), served by Brady Tkachuk
+   1-4
+P3  06:30 
+Josh Anderson (MTL) cross-checking against Artem Zub (2 minutes)
+   1-4
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  14:23   0  0    0   2   0   0   0   1   2/2Drake Batherson R  15:51   0  0    0   1   0   0   1   0   1/1Nick Cousins C  08:51   0  0    0   0   0   0   0   0   0/0Claude Giroux R  16:18   0  0   -1   0   0   0   0   0   5/8Noah Gregor L  13:59   0  0    0   3   1   0   0   1   0/1Ridly Greig C  12:59   0  0   -1   0   1   0   1   1   1/2Zack MacEwen R  05:41   0  0    0   1   1   0   1   1   0/0Josh Norris C  20:25   0  0   -1   0   1   0   0   0  9/17David Perron L  16:12   0  0    0   1   1   0   0   3   0/0Shane Pinto C  19:37   0  0    0   3   0   0   1   0  7/14Tim Stützle C  19:56   1  0   -1   2   0   0   0   1   0/6Brady Tkachuk L  18:38   0  1   -2   1   0   4   0   1   0/4Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Chabot D  23:36   0  0   -2   4   0   0   0   3   0/0Travis Hamonic D  12:09   0  0    0   1   1   0   0   0   0/0Nick Jensen D  18:30   0  1   -2   2   1   0   0   2   0/0Tyler Kleven D  10:57   0  0    0   2   1   2   1   1   0/0Jake Sanderson D  27:36   0  0    0   1   4   0   1   1   0/0Artem Zub D  18:02   0  0    0   1   1   2   0   0   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  13   8   6  16 25/55
+                                        45.5%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  56:21   4  22/26  15/18   7/8   0/0     0
+              .846   .833  .875 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  14:59   0  0    0   1   2   4   0   0   0/1Joel Armia R  15:25   0  0    0   2   1   0   0   1   0/0Cole Caufield R  17:23   2  0    2   3   1   0   0   1   0/0Kirby Dach C  14:09   0  0    0   6   2   0   0   2   0/1Christian Dvorak C  13:50   0  1    0   0   1   0   0   1   2/6Jake Evans C  14:42   0  0   -1   1   2   0   0   0 10/15Brendan Gallagher R  16:07   0  0   -1   2   1   0   0   1   0/0Emil Heineman L  09:27   1  0    0   2   1   2   0   0   0/1Oliver Kapanen C  14:10   0  0    1   0   0   0   0   0   2/5Alex Newhook C  14:29   1  0    1   1   0   0   0   0   3/6Juraj Slafkovsky L  13:38   0  2    2   1   0   0   0   1   0/0Nick Suzuki C  19:10   0  1    2   3   0   0   1   0 13/20Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  16:56   0  0    0   1   1   2   0   0   0/0Kaiden Guhle D  21:21   0  1    2   0   8   0   0   1   0/0Lane Hutson D  18:35   0  2    1   1   0   2   1   0   0/0Mike Matheson D  25:40   0  1    1   2   1   0   1   2   0/0David Savard D  15:46   0  0    0   0   3   0   0   2   0/0Arber Xhekaj D  14:13   0  0    0   0   0   0   0   2   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       26  24  10   3  14 30/55
+                                        54.5%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  60:00   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+Ottawa
+Senators1-1-0Final1 - 4Montreal
+Canadiens2-1-0
+Ottawa
+Senators1-1-0
+Final1 - 4
+Montreal
+Canadiens2-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+OTT   0  0  1    1  
+MTL   2  0  2    4
+1st Period: ShowHide
+P1  16:21 
+Lane Hutson (MTL) holding against Drake Batherson (2 minutes)
+   0-0
+P1  11:22 
+Brady Tkachuk (OTT) elbowing against Kirby Dach (2 minutes)
+   0-0
+P1  09:23 
+Emil Heineman (MTL) scores power-play goal on snap shot past Linus Ullmark, assisted by Christian Dvorak and Lane Hutson
+   0-1
+P1  07:38 
+Artem Zub (OTT) cross-checking against Josh Anderson (2 minutes)
+   0-1
+P1  04:57 
+Cole Caufield (MTL) scores on wrist shot past Linus Ullmark, assisted by Mike Matheson and Juraj Slafkovsky
+   0-2
+P1  03:56 
+Justin Barron (MTL) interference against Zack MacEwen (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  16:36 
+Emil Heineman (MTL) roughing against Tyler Kleven (2 minutes)
+   0-2
+P2  16:36 
+Tyler Kleven (OTT) cross-checking against Emil Heineman (2 minutes), served by David Perron
+   0-2
+P2  09:27 
+Josh Anderson (MTL) tripping against Drake Batherson (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  18:31 
+Brady Tkachuk (OTT) slashing against Alex Newhook (2 minutes)
+   0-2
+P3  18:00 
+Jake Sanderson (OTT) tripping on breakaway against Mike Matheson results in penalty shot
+   0-2
+P3  16:10 
+Alex Newhook (MTL) scores on snap shot past Linus Ullmark, assisted by Lane Hutson and Kaiden Guhle
+   0-3
+P3  14:30 
+Tim Stützle (OTT) scores on wrist shot past Sam Montembeault, assisted by Brady Tkachuk and Nick Jensen
+   1-3
+P3  12:17 
+Cole Caufield (MTL) scores on backhand shot past Linus Ullmark, assisted by Nick Suzuki and Juraj Slafkovsky
+   1-4
+P3  11:23 
+OTT penalty, too many men on the ice (2 minutes), served by Brady Tkachuk
+   1-4
+P3  06:30 
+Josh Anderson (MTL) cross-checking against Artem Zub (2 minutes)
+   1-4
+1st Period: ShowHide
+P1  16:21 
+Lane Hutson (MTL) holding against Drake Batherson (2 minutes)
+   0-0
+P1  11:22 
+Brady Tkachuk (OTT) elbowing against Kirby Dach (2 minutes)
+   0-0
+P1  09:23 
+Emil Heineman (MTL) scores power-play goal on snap shot past Linus Ullmark, assisted by Christian Dvorak and Lane Hutson
+   0-1
+P1  07:38 
+Artem Zub (OTT) cross-checking against Josh Anderson (2 minutes)
+   0-1
+P1  04:57 
+Cole Caufield (MTL) scores on wrist shot past Linus Ullmark, assisted by Mike Matheson and Juraj Slafkovsky
+   0-2
+P1  03:56 
+Justin Barron (MTL) interference against Zack MacEwen (2 minutes)
+   0-2
+P1  16:21 
+Lane Hutson (MTL) holding against Drake Batherson (2 minutes)
+   0-0
+P1  11:22 
+Brady Tkachuk (OTT) elbowing against Kirby Dach (2 minutes)
+   0-0
+P1  09:23 
+Emil Heineman (MTL) scores power-play goal on snap shot past Linus Ullmark, assisted by Christian Dvorak and Lane Hutson
+   0-1
+P1  07:38 
+Artem Zub (OTT) cross-checking against Josh Anderson (2 minutes)
+   0-1
+P1  04:57 
+Cole Caufield (MTL) scores on wrist shot past Linus Ullmark, assisted by Mike Matheson and Juraj Slafkovsky
+   0-2
+P1  03:56 
+Justin Barron (MTL) interference against Zack MacEwen (2 minutes)
+   0-2
+P1  16:21
+Lane Hutson (MTL) holding against Drake Batherson (2 minutes)
+0-0
+P1  11:22
+Brady Tkachuk (OTT) elbowing against Kirby Dach (2 minutes)
+0-0
+P1  09:23
+Emil Heineman (MTL) scores power-play goal on snap shot past Linus Ullmark, assisted by Christian Dvorak and Lane Hutson
+0-1
+P1  07:38
+Artem Zub (OTT) cross-checking against Josh Anderson (2 minutes)
+0-1
+P1  04:57
+Cole Caufield (MTL) scores on wrist shot past Linus Ullmark, assisted by Mike Matheson and Juraj Slafkovsky
+0-2
+P1  03:56
+Justin Barron (MTL) interference against Zack MacEwen (2 minutes)
+0-2
+2nd Period: ShowHide
+P2  16:36 
+Emil Heineman (MTL) roughing against Tyler Kleven (2 minutes)
+   0-2
+P2  16:36 
+Tyler Kleven (OTT) cross-checking against Emil Heineman (2 minutes), served by David Perron
+   0-2
+P2  09:27 
+Josh Anderson (MTL) tripping against Drake Batherson (2 minutes)
+   0-2
+P2  16:36 
+Emil Heineman (MTL) roughing against Tyler Kleven (2 minutes)
+   0-2
+P2  16:36 
+Tyler Kleven (OTT) cross-checking against Emil Heineman (2 minutes), served by David Perron
+   0-2
+P2  09:27 
+Josh Anderson (MTL) tripping against Drake Batherson (2 minutes)
+   0-2
+P2  16:36
+Emil Heineman (MTL) roughing against Tyler Kleven (2 minutes)
+0-2
+P2  16:36
+Tyler Kleven (OTT) cross-checking against Emil Heineman (2 minutes), served by David Perron
+0-2
+P2  09:27
+Josh Anderson (MTL) tripping against Drake Batherson (2 minutes)
+0-2
+3rd Period: ShowHide
+P3  18:31 
+Brady Tkachuk (OTT) slashing against Alex Newhook (2 minutes)
+   0-2
+P3  18:00 
+Jake Sanderson (OTT) tripping on breakaway against Mike Matheson results in penalty shot
+   0-2
+P3  16:10 
+Alex Newhook (MTL) scores on snap shot past Linus Ullmark, assisted by Lane Hutson and Kaiden Guhle
+   0-3
+P3  14:30 
+Tim Stützle (OTT) scores on wrist shot past Sam Montembeault, assisted by Brady Tkachuk and Nick Jensen
+   1-3
+P3  12:17 
+Cole Caufield (MTL) scores on backhand shot past Linus Ullmark, assisted by Nick Suzuki and Juraj Slafkovsky
+   1-4
+P3  11:23 
+OTT penalty, too many men on the ice (2 minutes), served by Brady Tkachuk
+   1-4
+P3  06:30 
+Josh Anderson (MTL) cross-checking against Artem Zub (2 minutes)
+   1-4
+P3  18:31 
+Brady Tkachuk (OTT) slashing against Alex Newhook (2 minutes)
+   0-2
+P3  18:00 
+Jake Sanderson (OTT) tripping on breakaway against Mike Matheson results in penalty shot
+   0-2
+P3  16:10 
+Alex Newhook (MTL) scores on snap shot past Linus Ullmark, assisted by Lane Hutson and Kaiden Guhle
+   0-3
+P3  14:30 
+Tim Stützle (OTT) scores on wrist shot past Sam Montembeault, assisted by Brady Tkachuk and Nick Jensen
+   1-3
+P3  12:17 
+Cole Caufield (MTL) scores on backhand shot past Linus Ullmark, assisted by Nick Suzuki and Juraj Slafkovsky
+   1-4
+P3  11:23 
+OTT penalty, too many men on the ice (2 minutes), served by Brady Tkachuk
+   1-4
+P3  06:30 
+Josh Anderson (MTL) cross-checking against Artem Zub (2 minutes)
+   1-4
+P3  18:31
+Brady Tkachuk (OTT) slashing against Alex Newhook (2 minutes)
+0-2
+P3  18:00
+Jake Sanderson (OTT) tripping on breakaway against Mike Matheson results in penalty shot
+0-2
+P3  16:10
+Alex Newhook (MTL) scores on snap shot past Linus Ullmark, assisted by Lane Hutson and Kaiden Guhle
+0-3
+P3  14:30
+Tim Stützle (OTT) scores on wrist shot past Sam Montembeault, assisted by Brady Tkachuk and Nick Jensen
+1-3
+P3  12:17
+Cole Caufield (MTL) scores on backhand shot past Linus Ullmark, assisted by Nick Suzuki and Juraj Slafkovsky
+1-4
+P3  11:23
+OTT penalty, too many men on the ice (2 minutes), served by Brady Tkachuk
+1-4
+P3  06:30
+Josh Anderson (MTL) cross-checking against Artem Zub (2 minutes)
+1-4
+Box Score:
+ 
+Back to Top
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  14:23   0  0    0   2   0   0   0   1   2/2Drake Batherson R  15:51   0  0    0   1   0   0   1   0   1/1Nick Cousins C  08:51   0  0    0   0   0   0   0   0   0/0Claude Giroux R  16:18   0  0   -1   0   0   0   0   0   5/8Noah Gregor L  13:59   0  0    0   3   1   0   0   1   0/1Ridly Greig C  12:59   0  0   -1   0   1   0   1   1   1/2Zack MacEwen R  05:41   0  0    0   1   1   0   1   1   0/0Josh Norris C  20:25   0  0   -1   0   1   0   0   0  9/17David Perron L  16:12   0  0    0   1   1   0   0   3   0/0Shane Pinto C  19:37   0  0    0   3   0   0   1   0  7/14Tim Stützle C  19:56   1  0   -1   2   0   0   0   1   0/6Brady Tkachuk L  18:38   0  1   -2   1   0   4   0   1   0/4Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Chabot D  23:36   0  0   -2   4   0   0   0   3   0/0Travis Hamonic D  12:09   0  0    0   1   1   0   0   0   0/0Nick Jensen D  18:30   0  1   -2   2   1   0   0   2   0/0Tyler Kleven D  10:57   0  0    0   2   1   2   1   1   0/0Jake Sanderson D  27:36   0  0    0   1   4   0   1   1   0/0Artem Zub D  18:02   0  0    0   1   1   2   0   0   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  13   8   6  16 25/55
+                                        45.5%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  56:21   4  22/26  15/18   7/8   0/0     0
+              .846   .833  .875 
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  14:59   0  0    0   1   2   4   0   0   0/1Joel Armia R  15:25   0  0    0   2   1   0   0   1   0/0Cole Caufield R  17:23   2  0    2   3   1   0   0   1   0/0Kirby Dach C  14:09   0  0    0   6   2   0   0   2   0/1Christian Dvorak C  13:50   0  1    0   0   1   0   0   1   2/6Jake Evans C  14:42   0  0   -1   1   2   0   0   0 10/15Brendan Gallagher R  16:07   0  0   -1   2   1   0   0   1   0/0Emil Heineman L  09:27   1  0    0   2   1   2   0   0   0/1Oliver Kapanen C  14:10   0  0    1   0   0   0   0   0   2/5Alex Newhook C  14:29   1  0    1   1   0   0   0   0   3/6Juraj Slafkovsky L  13:38   0  2    2   1   0   0   0   1   0/0Nick Suzuki C  19:10   0  1    2   3   0   0   1   0 13/20Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  16:56   0  0    0   1   1   2   0   0   0/0Kaiden Guhle D  21:21   0  1    2   0   8   0   0   1   0/0Lane Hutson D  18:35   0  2    1   1   0   2   1   0   0/0Mike Matheson D  25:40   0  1    1   2   1   0   1   2   0/0David Savard D  15:46   0  0    0   0   3   0   0   2   0/0Arber Xhekaj D  14:13   0  0    0   0   0   0   0   2   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       26  24  10   3  14 30/55
+                                        54.5%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  60:00   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  14:23   0  0    0   2   0   0   0   1   2/2Drake Batherson R  15:51   0  0    0   1   0   0   1   0   1/1Nick Cousins C  08:51   0  0    0   0   0   0   0   0   0/0Claude Giroux R  16:18   0  0   -1   0   0   0   0   0   5/8Noah Gregor L  13:59   0  0    0   3   1   0   0   1   0/1Ridly Greig C  12:59   0  0   -1   0   1   0   1   1   1/2Zack MacEwen R  05:41   0  0    0   1   1   0   1   1   0/0Josh Norris C  20:25   0  0   -1   0   1   0   0   0  9/17David Perron L  16:12   0  0    0   1   1   0   0   3   0/0Shane Pinto C  19:37   0  0    0   3   0   0   1   0  7/14Tim Stützle C  19:56   1  0   -1   2   0   0   0   1   0/6Brady Tkachuk L  18:38   0  1   -2   1   0   4   0   1   0/4
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+14:23   0  0    0   2   0   0   0   1   2/2
+Drake Batherson R
+15:51   0  0    0   1   0   0   1   0   1/1
+Nick Cousins C
+08:51   0  0    0   0   0   0   0   0   0/0
+Claude Giroux R
+16:18   0  0   -1   0   0   0   0   0   5/8
+Noah Gregor L
+13:59   0  0    0   3   1   0   0   1   0/1
+Ridly Greig C
+12:59   0  0   -1   0   1   0   1   1   1/2
+Zack MacEwen R
+05:41   0  0    0   1   1   0   1   1   0/0
+Josh Norris C
+20:25   0  0   -1   0   1   0   0   0  9/17
+David Perron L
+16:12   0  0    0   1   1   0   0   3   0/0
+Shane Pinto C
+19:37   0  0    0   3   0   0   1   0  7/14
+Tim Stützle C
+19:56   1  0   -1   2   0   0   0   1   0/6
+Brady Tkachuk L
+18:38   0  1   -2   1   0   4   0   1   0/4
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Chabot D  23:36   0  0   -2   4   0   0   0   3   0/0Travis Hamonic D  12:09   0  0    0   1   1   0   0   0   0/0Nick Jensen D  18:30   0  1   -2   2   1   0   0   2   0/0Tyler Kleven D  10:57   0  0    0   2   1   2   1   1   0/0Jake Sanderson D  27:36   0  0    0   1   4   0   1   1   0/0Artem Zub D  18:02   0  0    0   1   1   2   0   0   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Thomas Chabot D
+23:36   0  0   -2   4   0   0   0   3   0/0
+Travis Hamonic D
+12:09   0  0    0   1   1   0   0   0   0/0
+Nick Jensen D
+18:30   0  1   -2   2   1   0   0   2   0/0
+Tyler Kleven D
+10:57   0  0    0   2   1   2   1   1   0/0
+Jake Sanderson D
+27:36   0  0    0   1   4   0   1   1   0/0
+Artem Zub D
+18:02   0  0    0   1   1   2   0   0   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       25  13   8   6  16 25/55
+                                        45.5%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  56:21   4  22/26  15/18   7/8   0/0     0
+              .846   .833  .875
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Linus Ullmark G
+56:21   4  22/26  15/18   7/8   0/0     0
+              .846   .833  .875
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  14:59   0  0    0   1   2   4   0   0   0/1Joel Armia R  15:25   0  0    0   2   1   0   0   1   0/0Cole Caufield R  17:23   2  0    2   3   1   0   0   1   0/0Kirby Dach C  14:09   0  0    0   6   2   0   0   2   0/1Christian Dvorak C  13:50   0  1    0   0   1   0   0   1   2/6Jake Evans C  14:42   0  0   -1   1   2   0   0   0 10/15Brendan Gallagher R  16:07   0  0   -1   2   1   0   0   1   0/0Emil Heineman L  09:27   1  0    0   2   1   2   0   0   0/1Oliver Kapanen C  14:10   0  0    1   0   0   0   0   0   2/5Alex Newhook C  14:29   1  0    1   1   0   0   0   0   3/6Juraj Slafkovsky L  13:38   0  2    2   1   0   0   0   1   0/0Nick Suzuki C  19:10   0  1    2   3   0   0   1   0 13/20
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+14:59   0  0    0   1   2   4   0   0   0/1
+Joel Armia R
+15:25   0  0    0   2   1   0   0   1   0/0
+Cole Caufield R
+17:23   2  0    2   3   1   0   0   1   0/0
+Kirby Dach C
+14:09   0  0    0   6   2   0   0   2   0/1
+Christian Dvorak C
+13:50   0  1    0   0   1   0   0   1   2/6
+Jake Evans C
+14:42   0  0   -1   1   2   0   0   0 10/15
+Brendan Gallagher R
+16:07   0  0   -1   2   1   0   0   1   0/0
+Emil Heineman L
+09:27   1  0    0   2   1   2   0   0   0/1
+Oliver Kapanen C
+14:10   0  0    1   0   0   0   0   0   2/5
+Alex Newhook C
+14:29   1  0    1   1   0   0   0   0   3/6
+Juraj Slafkovsky L
+13:38   0  2    2   1   0   0   0   1   0/0
+Nick Suzuki C
+19:10   0  1    2   3   0   0   1   0 13/20
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  16:56   0  0    0   1   1   2   0   0   0/0Kaiden Guhle D  21:21   0  1    2   0   8   0   0   1   0/0Lane Hutson D  18:35   0  2    1   1   0   2   1   0   0/0Mike Matheson D  25:40   0  1    1   2   1   0   1   2   0/0David Savard D  15:46   0  0    0   0   3   0   0   2   0/0Arber Xhekaj D  14:13   0  0    0   0   0   0   0   2   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Justin Barron D
+16:56   0  0    0   1   1   2   0   0   0/0
+Kaiden Guhle D
+21:21   0  1    2   0   8   0   0   1   0/0
+Lane Hutson D
+18:35   0  2    1   1   0   2   1   0   0/0
+Mike Matheson D
+25:40   0  1    1   2   1   0   1   2   0/0
+David Savard D
+15:46   0  0    0   0   3   0   0   2   0/0
+Arber Xhekaj D
+14:13   0  0    0   0   0   0   0   2   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       26  24  10   3  14 30/55
+                                        54.5%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSam Montembeault G  60:00   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sam Montembeault G
+60:00   1  24/25  21/22   3/3   0/0     0
+              .960   .955 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,442 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Pittsburgh
+Penguins1-1-0Final6 - 3Detroit
+Red Wings0-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+PIT   1  3  2    6  
+DET   1  1  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:14 
+Alex DeBrincat (DET) scores on slap shot past Joel Blomqvist, assisted by Lucas Raymond and Dylan Larkin
+   0-1
+P1  11:36 
+Lars Eller (PIT) high-sticking against Moritz Seider (2 minutes)
+   0-1
+P1  04:58 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Sidney Crosby and Jesse Puljujarvi
+   1-1
+P1  02:59 
+Kris Letang (PIT) hooking against Alex DeBrincat (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  17:05 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Marcus Pettersson and Sidney Crosby
+   2-1
+P2  16:07 
+Drew O'Connor (PIT) scores on wrist shot past Ville Husso, assisted by Evgeni Malkin and Erik Karlsson
+   3-1
+P2  14:32 
+Marcus Pettersson (PIT) scores on wrist shot past Ville Husso
+   4-1
+P2  12:10 
+Andrew Copp (DET) cross-checking against Anthony Beauvillier (2 minutes)
+   4-1
+P2  09:32 
+Cody Glass (PIT) high-sticking against Ben Chiarot (2 minutes)
+   4-1
+P2  07:28 
+Vladimir Tarasenko (DET) scores on snap shot past Joel Blomqvist, assisted by Moritz Seider and Alex DeBrincat
+   4-2
+3rd Period: ShowHide
+P3  19:06 
+Simon Edvinsson (DET) interference against Cody Glass (2 minutes)
+   4-2
+P3  18:18 
+Erik Karlsson (PIT) scores power-play goal on wrist shot past Cam Talbot, assisted by Kris Letang and Evgeni Malkin
+   5-2
+P3  13:33 
+Kris Letang (PIT) slashing against Vladimir Tarasenko (2 minutes)
+   5-2
+P3  13:12 
+Noel Acciari (PIT) high-sticking against Dylan Larkin (2 minutes)
+   5-2
+P3  11:47 
+Alex DeBrincat (DET) scores power-play goal on slap shot past Joel Blomqvist, assisted by Erik Gustafsson and Lucas Raymond
+   5-3
+P3  07:39 
+Kevin Hayes (PIT) scores on snap shot past Cam Talbot, assisted by Cody Glass
+   6-3
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  12:19   0  0    1   1   1   2   1   0   4/4Anthony Beauvillier L  14:52   2  0    3   2   0   0   0   0   0/0Michael Bunting L  13:48   0  0    0   1   0   0   0   0   0/0Sidney Crosby C  18:09   0  2    3   4   0   0   0   2 16/30Lars Eller C  15:35   0  0   -1   0   1   2   0   0  6/12Cody Glass C  12:34   0  1    0   1   0   2   0   1   2/3Kevin Hayes R  12:03   1  0    0   3   0   0   0   0   3/6Evgeni Malkin C  16:06   0  2    0   3   1   0   0   0  6/12Rutger McGroarty R  10:12   0  0    0   1   0   0   0   0   0/0Drew O'Connor L  16:49   1  0    0   3   1   0   0   0   0/2Jesse Puljujarvi R  12:12   0  1    1   0   0   0   0   0   0/0Rickard Rakell R  17:15   0  0    2   1   0   0   0   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  14:26   0  0    1   1   3   0   0   2   0/0Matt Grzelcyk D  19:31   0  0    1   0   2   0   1   1   0/0Erik Karlsson D  20:07   1  1    2   2   2   0   0   1   0/0Kris Letang D  21:02   0  1    1   1   0   4   0   1   0/0Marcus Pettersson D  24:22   1  1    1   4   3   0   0   3   0/0Jack St. Ivany D  19:06   0  0    0   0   2   0   2   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       28  16  10   4  13 37/69
+                                        53.6%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  59:46   3  29/32  21/23   8/9   0/0     0
+              .906   .913  .889 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  11:53   0  0    1   1   1   0   0   1   0/0J.T. Compher L  17:10   0  0   -1   0   0   0   0   1  2/14Andrew Copp C  14:03   0  0   -1   2   0   2   0   0  9/17Alex DeBrincat R  20:09   2  1   -2   5   0   0   0   0   0/0Christian Fischer R  13:34   0  0   -1   0   1   0   1   1   0/0Patrick Kane R  17:45   0  0   -1   3   0   0   0   0   0/0Dylan Larkin C  21:13   0  1   -2   1   1   0   0   0 15/29Tyler Motte C  11:03   0  0    0   2   1   0   2   1   0/0Michael Rasmussen C  13:31   0  0    1   2   3   0   0   1   1/3Lucas Raymond L  19:33   0  2   -2   1   0   0   2   0   0/0Vladimir Tarasenko R  13:50   1  0    0   4   0   0   0   1   0/0Joe Veleno C  11:37   0  0    0   0   1   0   0   2   5/6Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  18:03   0  0   -2   1   2   0   0   1   0/0Simon Edvinsson D  19:18   0  0   -2   3   0   2   0   0   0/0Erik Gustafsson D  20:11   0  1   -2   3   1   0   0   1   0/0Olli Maatta D  18:02   0  0    0   0   2   0   0   1   0/0Jeff Petry D  09:34   0  0   -1   1   0   0   0   2   0/0Moritz Seider D  26:43   0  1    0   3   1   0   2   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       32  14   4   7  14 32/69
+                                        46.4%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVille Husso G  25:28   4  10/14  10/14   0/0   0/0     0
+              .714   .714 Cam Talbot G  34:32   2  12/14  10/11   2/3   0/0     0
+              .857   .909  .667 Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          6  22/28  20/25   2/3   0/0     0
+              .786   .800  .667
+Pittsburgh
+Penguins1-1-0Final6 - 3Detroit
+Red Wings0-1-0
+Pittsburgh
+Penguins1-1-0
+Final6 - 3
+Detroit
+Red Wings0-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+PIT   1  3  2    6  
+DET   1  1  1    3
+1st Period: ShowHide
+P1  16:14 
+Alex DeBrincat (DET) scores on slap shot past Joel Blomqvist, assisted by Lucas Raymond and Dylan Larkin
+   0-1
+P1  11:36 
+Lars Eller (PIT) high-sticking against Moritz Seider (2 minutes)
+   0-1
+P1  04:58 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Sidney Crosby and Jesse Puljujarvi
+   1-1
+P1  02:59 
+Kris Letang (PIT) hooking against Alex DeBrincat (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  17:05 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Marcus Pettersson and Sidney Crosby
+   2-1
+P2  16:07 
+Drew O'Connor (PIT) scores on wrist shot past Ville Husso, assisted by Evgeni Malkin and Erik Karlsson
+   3-1
+P2  14:32 
+Marcus Pettersson (PIT) scores on wrist shot past Ville Husso
+   4-1
+P2  12:10 
+Andrew Copp (DET) cross-checking against Anthony Beauvillier (2 minutes)
+   4-1
+P2  09:32 
+Cody Glass (PIT) high-sticking against Ben Chiarot (2 minutes)
+   4-1
+P2  07:28 
+Vladimir Tarasenko (DET) scores on snap shot past Joel Blomqvist, assisted by Moritz Seider and Alex DeBrincat
+   4-2
+3rd Period: ShowHide
+P3  19:06 
+Simon Edvinsson (DET) interference against Cody Glass (2 minutes)
+   4-2
+P3  18:18 
+Erik Karlsson (PIT) scores power-play goal on wrist shot past Cam Talbot, assisted by Kris Letang and Evgeni Malkin
+   5-2
+P3  13:33 
+Kris Letang (PIT) slashing against Vladimir Tarasenko (2 minutes)
+   5-2
+P3  13:12 
+Noel Acciari (PIT) high-sticking against Dylan Larkin (2 minutes)
+   5-2
+P3  11:47 
+Alex DeBrincat (DET) scores power-play goal on slap shot past Joel Blomqvist, assisted by Erik Gustafsson and Lucas Raymond
+   5-3
+P3  07:39 
+Kevin Hayes (PIT) scores on snap shot past Cam Talbot, assisted by Cody Glass
+   6-3
+1st Period: ShowHide
+P1  16:14 
+Alex DeBrincat (DET) scores on slap shot past Joel Blomqvist, assisted by Lucas Raymond and Dylan Larkin
+   0-1
+P1  11:36 
+Lars Eller (PIT) high-sticking against Moritz Seider (2 minutes)
+   0-1
+P1  04:58 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Sidney Crosby and Jesse Puljujarvi
+   1-1
+P1  02:59 
+Kris Letang (PIT) hooking against Alex DeBrincat (2 minutes)
+   1-1
+P1  16:14 
+Alex DeBrincat (DET) scores on slap shot past Joel Blomqvist, assisted by Lucas Raymond and Dylan Larkin
+   0-1
+P1  11:36 
+Lars Eller (PIT) high-sticking against Moritz Seider (2 minutes)
+   0-1
+P1  04:58 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Sidney Crosby and Jesse Puljujarvi
+   1-1
+P1  02:59 
+Kris Letang (PIT) hooking against Alex DeBrincat (2 minutes)
+   1-1
+P1  16:14
+Alex DeBrincat (DET) scores on slap shot past Joel Blomqvist, assisted by Lucas Raymond and Dylan Larkin
+0-1
+P1  11:36
+Lars Eller (PIT) high-sticking against Moritz Seider (2 minutes)
+0-1
+P1  04:58
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Sidney Crosby and Jesse Puljujarvi
+1-1
+P1  02:59
+Kris Letang (PIT) hooking against Alex DeBrincat (2 minutes)
+1-1
+2nd Period: ShowHide
+P2  17:05 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Marcus Pettersson and Sidney Crosby
+   2-1
+P2  16:07 
+Drew O'Connor (PIT) scores on wrist shot past Ville Husso, assisted by Evgeni Malkin and Erik Karlsson
+   3-1
+P2  14:32 
+Marcus Pettersson (PIT) scores on wrist shot past Ville Husso
+   4-1
+P2  12:10 
+Andrew Copp (DET) cross-checking against Anthony Beauvillier (2 minutes)
+   4-1
+P2  09:32 
+Cody Glass (PIT) high-sticking against Ben Chiarot (2 minutes)
+   4-1
+P2  07:28 
+Vladimir Tarasenko (DET) scores on snap shot past Joel Blomqvist, assisted by Moritz Seider and Alex DeBrincat
+   4-2
+P2  17:05 
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Marcus Pettersson and Sidney Crosby
+   2-1
+P2  16:07 
+Drew O'Connor (PIT) scores on wrist shot past Ville Husso, assisted by Evgeni Malkin and Erik Karlsson
+   3-1
+P2  14:32 
+Marcus Pettersson (PIT) scores on wrist shot past Ville Husso
+   4-1
+P2  12:10 
+Andrew Copp (DET) cross-checking against Anthony Beauvillier (2 minutes)
+   4-1
+P2  09:32 
+Cody Glass (PIT) high-sticking against Ben Chiarot (2 minutes)
+   4-1
+P2  07:28 
+Vladimir Tarasenko (DET) scores on snap shot past Joel Blomqvist, assisted by Moritz Seider and Alex DeBrincat
+   4-2
+P2  17:05
+Anthony Beauvillier (PIT) scores on wrist shot past Ville Husso, assisted by Marcus Pettersson and Sidney Crosby
+2-1
+P2  16:07
+Drew O'Connor (PIT) scores on wrist shot past Ville Husso, assisted by Evgeni Malkin and Erik Karlsson
+3-1
+P2  14:32
+Marcus Pettersson (PIT) scores on wrist shot past Ville Husso
+4-1
+P2  12:10
+Andrew Copp (DET) cross-checking against Anthony Beauvillier (2 minutes)
+4-1
+P2  09:32
+Cody Glass (PIT) high-sticking against Ben Chiarot (2 minutes)
+4-1
+P2  07:28
+Vladimir Tarasenko (DET) scores on snap shot past Joel Blomqvist, assisted by Moritz Seider and Alex DeBrincat
+4-2
+3rd Period: ShowHide
+P3  19:06 
+Simon Edvinsson (DET) interference against Cody Glass (2 minutes)
+   4-2
+P3  18:18 
+Erik Karlsson (PIT) scores power-play goal on wrist shot past Cam Talbot, assisted by Kris Letang and Evgeni Malkin
+   5-2
+P3  13:33 
+Kris Letang (PIT) slashing against Vladimir Tarasenko (2 minutes)
+   5-2
+P3  13:12 
+Noel Acciari (PIT) high-sticking against Dylan Larkin (2 minutes)
+   5-2
+P3  11:47 
+Alex DeBrincat (DET) scores power-play goal on slap shot past Joel Blomqvist, assisted by Erik Gustafsson and Lucas Raymond
+   5-3
+P3  07:39 
+Kevin Hayes (PIT) scores on snap shot past Cam Talbot, assisted by Cody Glass
+   6-3
+P3  19:06 
+Simon Edvinsson (DET) interference against Cody Glass (2 minutes)
+   4-2
+P3  18:18 
+Erik Karlsson (PIT) scores power-play goal on wrist shot past Cam Talbot, assisted by Kris Letang and Evgeni Malkin
+   5-2
+P3  13:33 
+Kris Letang (PIT) slashing against Vladimir Tarasenko (2 minutes)
+   5-2
+P3  13:12 
+Noel Acciari (PIT) high-sticking against Dylan Larkin (2 minutes)
+   5-2
+P3  11:47 
+Alex DeBrincat (DET) scores power-play goal on slap shot past Joel Blomqvist, assisted by Erik Gustafsson and Lucas Raymond
+   5-3
+P3  07:39 
+Kevin Hayes (PIT) scores on snap shot past Cam Talbot, assisted by Cody Glass
+   6-3
+P3  19:06
+Simon Edvinsson (DET) interference against Cody Glass (2 minutes)
+4-2
+P3  18:18
+Erik Karlsson (PIT) scores power-play goal on wrist shot past Cam Talbot, assisted by Kris Letang and Evgeni Malkin
+5-2
+P3  13:33
+Kris Letang (PIT) slashing against Vladimir Tarasenko (2 minutes)
+5-2
+P3  13:12
+Noel Acciari (PIT) high-sticking against Dylan Larkin (2 minutes)
+5-2
+P3  11:47
+Alex DeBrincat (DET) scores power-play goal on slap shot past Joel Blomqvist, assisted by Erik Gustafsson and Lucas Raymond
+5-3
+P3  07:39
+Kevin Hayes (PIT) scores on snap shot past Cam Talbot, assisted by Cody Glass
+6-3
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  12:19   0  0    1   1   1   2   1   0   4/4Anthony Beauvillier L  14:52   2  0    3   2   0   0   0   0   0/0Michael Bunting L  13:48   0  0    0   1   0   0   0   0   0/0Sidney Crosby C  18:09   0  2    3   4   0   0   0   2 16/30Lars Eller C  15:35   0  0   -1   0   1   2   0   0  6/12Cody Glass C  12:34   0  1    0   1   0   2   0   1   2/3Kevin Hayes R  12:03   1  0    0   3   0   0   0   0   3/6Evgeni Malkin C  16:06   0  2    0   3   1   0   0   0  6/12Rutger McGroarty R  10:12   0  0    0   1   0   0   0   0   0/0Drew O'Connor L  16:49   1  0    0   3   1   0   0   0   0/2Jesse Puljujarvi R  12:12   0  1    1   0   0   0   0   0   0/0Rickard Rakell R  17:15   0  0    2   1   0   0   0   0   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  14:26   0  0    1   1   3   0   0   2   0/0Matt Grzelcyk D  19:31   0  0    1   0   2   0   1   1   0/0Erik Karlsson D  20:07   1  1    2   2   2   0   0   1   0/0Kris Letang D  21:02   0  1    1   1   0   4   0   1   0/0Marcus Pettersson D  24:22   1  1    1   4   3   0   0   3   0/0Jack St. Ivany D  19:06   0  0    0   0   2   0   2   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       28  16  10   4  13 37/69
+                                        53.6%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  59:46   3  29/32  21/23   8/9   0/0     0
+              .906   .913  .889 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  11:53   0  0    1   1   1   0   0   1   0/0J.T. Compher L  17:10   0  0   -1   0   0   0   0   1  2/14Andrew Copp C  14:03   0  0   -1   2   0   2   0   0  9/17Alex DeBrincat R  20:09   2  1   -2   5   0   0   0   0   0/0Christian Fischer R  13:34   0  0   -1   0   1   0   1   1   0/0Patrick Kane R  17:45   0  0   -1   3   0   0   0   0   0/0Dylan Larkin C  21:13   0  1   -2   1   1   0   0   0 15/29Tyler Motte C  11:03   0  0    0   2   1   0   2   1   0/0Michael Rasmussen C  13:31   0  0    1   2   3   0   0   1   1/3Lucas Raymond L  19:33   0  2   -2   1   0   0   2   0   0/0Vladimir Tarasenko R  13:50   1  0    0   4   0   0   0   1   0/0Joe Veleno C  11:37   0  0    0   0   1   0   0   2   5/6Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  18:03   0  0   -2   1   2   0   0   1   0/0Simon Edvinsson D  19:18   0  0   -2   3   0   2   0   0   0/0Erik Gustafsson D  20:11   0  1   -2   3   1   0   0   1   0/0Olli Maatta D  18:02   0  0    0   0   2   0   0   1   0/0Jeff Petry D  09:34   0  0   -1   1   0   0   0   2   0/0Moritz Seider D  26:43   0  1    0   3   1   0   2   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       32  14   4   7  14 32/69
+                                        46.4%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVille Husso G  25:28   4  10/14  10/14   0/0   0/0     0
+              .714   .714 Cam Talbot G  34:32   2  12/14  10/11   2/3   0/0     0
+              .857   .909  .667 Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          6  22/28  20/25   2/3   0/0     0
+              .786   .800  .667
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  12:19   0  0    1   1   1   2   1   0   4/4Anthony Beauvillier L  14:52   2  0    3   2   0   0   0   0   0/0Michael Bunting L  13:48   0  0    0   1   0   0   0   0   0/0Sidney Crosby C  18:09   0  2    3   4   0   0   0   2 16/30Lars Eller C  15:35   0  0   -1   0   1   2   0   0  6/12Cody Glass C  12:34   0  1    0   1   0   2   0   1   2/3Kevin Hayes R  12:03   1  0    0   3   0   0   0   0   3/6Evgeni Malkin C  16:06   0  2    0   3   1   0   0   0  6/12Rutger McGroarty R  10:12   0  0    0   1   0   0   0   0   0/0Drew O'Connor L  16:49   1  0    0   3   1   0   0   0   0/2Jesse Puljujarvi R  12:12   0  1    1   0   0   0   0   0   0/0Rickard Rakell R  17:15   0  0    2   1   0   0   0   0   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+12:19   0  0    1   1   1   2   1   0   4/4
+Anthony Beauvillier L
+14:52   2  0    3   2   0   0   0   0   0/0
+Michael Bunting L
+13:48   0  0    0   1   0   0   0   0   0/0
+Sidney Crosby C
+18:09   0  2    3   4   0   0   0   2 16/30
+Lars Eller C
+15:35   0  0   -1   0   1   2   0   0  6/12
+Cody Glass C
+12:34   0  1    0   1   0   2   0   1   2/3
+Kevin Hayes R
+12:03   1  0    0   3   0   0   0   0   3/6
+Evgeni Malkin C
+16:06   0  2    0   3   1   0   0   0  6/12
+Rutger McGroarty R
+10:12   0  0    0   1   0   0   0   0   0/0
+Drew O'Connor L
+16:49   1  0    0   3   1   0   0   0   0/2
+Jesse Puljujarvi R
+12:12   0  1    1   0   0   0   0   0   0/0
+Rickard Rakell R
+17:15   0  0    2   1   0   0   0   0   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  14:26   0  0    1   1   3   0   0   2   0/0Matt Grzelcyk D  19:31   0  0    1   0   2   0   1   1   0/0Erik Karlsson D  20:07   1  1    2   2   2   0   0   1   0/0Kris Letang D  21:02   0  1    1   1   0   4   0   1   0/0Marcus Pettersson D  24:22   1  1    1   4   3   0   0   3   0/0Jack St. Ivany D  19:06   0  0    0   0   2   0   2   2   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+14:26   0  0    1   1   3   0   0   2   0/0
+Matt Grzelcyk D
+19:31   0  0    1   0   2   0   1   1   0/0
+Erik Karlsson D
+20:07   1  1    2   2   2   0   0   1   0/0
+Kris Letang D
+21:02   0  1    1   1   0   4   0   1   0/0
+Marcus Pettersson D
+24:22   1  1    1   4   3   0   0   3   0/0
+Jack St. Ivany D
+19:06   0  0    0   0   2   0   2   2   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       28  16  10   4  13 37/69
+                                        53.6%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Blomqvist G  59:46   3  29/32  21/23   8/9   0/0     0
+              .906   .913  .889
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joel Blomqvist G
+59:46   3  29/32  21/23   8/9   0/0     0
+              .906   .913  .889
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  11:53   0  0    1   1   1   0   0   1   0/0J.T. Compher L  17:10   0  0   -1   0   0   0   0   1  2/14Andrew Copp C  14:03   0  0   -1   2   0   2   0   0  9/17Alex DeBrincat R  20:09   2  1   -2   5   0   0   0   0   0/0Christian Fischer R  13:34   0  0   -1   0   1   0   1   1   0/0Patrick Kane R  17:45   0  0   -1   3   0   0   0   0   0/0Dylan Larkin C  21:13   0  1   -2   1   1   0   0   0 15/29Tyler Motte C  11:03   0  0    0   2   1   0   2   1   0/0Michael Rasmussen C  13:31   0  0    1   2   3   0   0   1   1/3Lucas Raymond L  19:33   0  2   -2   1   0   0   2   0   0/0Vladimir Tarasenko R  13:50   1  0    0   4   0   0   0   1   0/0Joe Veleno C  11:37   0  0    0   0   1   0   0   2   5/6
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+11:53   0  0    1   1   1   0   0   1   0/0
+J.T. Compher L
+17:10   0  0   -1   0   0   0   0   1  2/14
+Andrew Copp C
+14:03   0  0   -1   2   0   2   0   0  9/17
+Alex DeBrincat R
+20:09   2  1   -2   5   0   0   0   0   0/0
+Christian Fischer R
+13:34   0  0   -1   0   1   0   1   1   0/0
+Patrick Kane R
+17:45   0  0   -1   3   0   0   0   0   0/0
+Dylan Larkin C
+21:13   0  1   -2   1   1   0   0   0 15/29
+Tyler Motte C
+11:03   0  0    0   2   1   0   2   1   0/0
+Michael Rasmussen C
+13:31   0  0    1   2   3   0   0   1   1/3
+Lucas Raymond L
+19:33   0  2   -2   1   0   0   2   0   0/0
+Vladimir Tarasenko R
+13:50   1  0    0   4   0   0   0   1   0/0
+Joe Veleno C
+11:37   0  0    0   0   1   0   0   2   5/6
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  18:03   0  0   -2   1   2   0   0   1   0/0Simon Edvinsson D  19:18   0  0   -2   3   0   2   0   0   0/0Erik Gustafsson D  20:11   0  1   -2   3   1   0   0   1   0/0Olli Maatta D  18:02   0  0    0   0   2   0   0   1   0/0Jeff Petry D  09:34   0  0   -1   1   0   0   0   2   0/0Moritz Seider D  26:43   0  1    0   3   1   0   2   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+18:03   0  0   -2   1   2   0   0   1   0/0
+Simon Edvinsson D
+19:18   0  0   -2   3   0   2   0   0   0/0
+Erik Gustafsson D
+20:11   0  1   -2   3   1   0   0   1   0/0
+Olli Maatta D
+18:02   0  0    0   0   2   0   0   1   0/0
+Jeff Petry D
+09:34   0  0   -1   1   0   0   0   2   0/0
+Moritz Seider D
+26:43   0  1    0   3   1   0   2   1   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       32  14   4   7  14 32/69
+                                        46.4%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVille Husso G  25:28   4  10/14  10/14   0/0   0/0     0
+              .714   .714 Cam Talbot G  34:32   2  12/14  10/11   2/3   0/0     0
+              .857   .909  .667
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ville Husso G
+25:28   4  10/14  10/14   0/0   0/0     0
+              .714   .714
+Cam Talbot G
+34:32   2  12/14  10/11   2/3   0/0     0
+              .857   .909  .667
+Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          6  22/28  20/25   2/3   0/0     0
+              .786   .800  .667
+Red Wings Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

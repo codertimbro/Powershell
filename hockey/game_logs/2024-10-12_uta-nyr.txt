@@ -1,0 +1,550 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Utah
+Hockey Club3-0-0Final/OT6 - 5New York
+Rangers1-0-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+UTA   1  4  0  1    6  
+NYR   1  3  1  0    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:17 
+Barrett Hayton (UTA) scores on snap shot past Igor Shesterkin, assisted by Clayton Keller and Nick Schmaltz
+   1-0
+P1  11:22 
+Artemi Panarin (NYR) scores on wrist shot past Connor Ingram, assisted by Alexis Lafrenière
+   1-1
+2nd Period: ShowHide
+P2  18:12 
+Jack McBain (UTA) scores on backhand shot past Igor Shesterkin, assisted by Vladislav Kolyachonok and Logan Cooley
+   2-1
+P2  17:53 
+Kevin Stenlund (UTA) goalkeeper interference against Igor Shesterkin (2 minutes)
+   2-1
+P2  16:09 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Connor Ingram, assisted by Adam Fox and Vincent Trocheck
+   2-2
+P2  15:06 
+NYR penalty, delaying game - unsuccessful challenge (2 minutes), served by Matt Rempe
+   2-2
+P2  14:51 
+Connor Ingram (UTA) holding against Chris Kreider (2 minutes), served by Barrett Hayton
+   2-2
+P2  13:58 
+Clayton Keller (UTA) scores on snap shot past Igor Shesterkin, assisted by Alex Kerfoot
+   3-2
+P2  11:22 
+Kevin Stenlund (UTA) scores on wrist shot past Igor Shesterkin, assisted by Matias Maccelli
+   4-2
+P2  10:42 
+K'Andre Miller (NYR) scores on wrist shot past Connor Ingram, assisted by Adam Fox
+   4-3
+P2  10:37 
+Michael Kesselring (UTA) fighting against Sam Carrick (5 minutes)
+   4-3
+P2  10:37 
+Sam Carrick (NYR) fighting against Michael Kesselring (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) fighting against Adam Edstrom (5 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) fighting against Jack McBain (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) game misconduct (10 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) game misconduct (10 minutes)
+   4-3
+P2  08:33 
+Will Cuylle (NYR) goalkeeper interference against Connor Ingram (2 minutes)
+   4-3
+P2  07:23 
+K'Andre Miller (NYR) high-sticking against Logan Cooley (2 minutes)
+   4-3
+P2  06:01 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Igor Shesterkin, assisted by Nick Schmaltz and Barrett Hayton
+   5-3
+P2  02:01 
+Braden Schneider (NYR) scores on wrist shot past Connor Ingram, assisted by Jacob Trouba and Will Cuylle
+   5-4
+3rd Period: ShowHide
+P3  18:05 
+Ian Cole (UTA) hooking against Artemi Panarin (2 minutes)
+   5-4
+P3  07:04 
+Will Cuylle (NYR) scores on deflection past Connor Ingram, assisted by Adam Fox and Kaapo Kakko
+   5-5
+P3  06:34 
+Vincent Trocheck (NYR) hooking against Michael Carcone (2 minutes)
+   5-5
+Overtime: ShowHide
+OT  00:55 
+Clayton Keller (UTA) scores on backhand shot past Igor Shesterkin
+   6-5
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  10:31   0  0   -1   0   0   0   0   0   0/0Logan Cooley C  15:03   0  1    0   1   2   0   0   1   3/8Lawson Crouse L  15:47   0  0    0   1   1   0   0   1   1/1Josh Doan R  18:40   0  0    0   2   1   0   0   0   1/7Dylan Guenther R  15:45   1  0    1   3   0   0   0   0   0/0Barrett Hayton C  18:28   1  1   -1   5   0   0   0   0 10/19Clayton Keller R  19:09   2  1    2   3   0   0   0   1   0/2Alex Kerfoot C  16:03   0  1    1   0   0   0   1   1   2/7Matias Maccelli L  13:48   0  1   -1   3   0   0   3   1   0/0Jack McBain C  06:00   1  0    1   1   0  15   0   1   0/1Nick Schmaltz C  21:58   0  2    0   1   1   0   0   2   0/2Kevin Stenlund C  15:12   1  0   -1   2   0   2   0   1 11/18Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  21:00   0  0    1   2   2   2   1   2   0/0Sean Durzi D  29:12   0  0    1   1   4   0   1   3   0/0Michael Kesselring D  18:19   0  0   -1   0   1   5   0   1   0/0Vladislav Kolyachonok D  05:04   0  1   -1   1   0   0   0   0   0/0Mikhail Sergachev D  28:48   0  0    1   0   3   0   0   4   0/0Juuso Valimaki D  17:44   0  0    0   0   2   0   0   3   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       26  17  24   6  22 28/65
+                                        43.1%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  64:05   5  29/34  25/29   3/4   1/1     2
+              .853   .862  .750 1.000 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  04:35   0  0    1   0   0   5   0   0   2/5Filip Chytil C  12:57   0  0    3   1   1   0   0   0   2/9Will Cuylle L  12:12   1  1    3   3   1   2   1   1   0/0Adam Edstrom C  01:52   0  0    0   1   0  15   0   0   0/0Kaapo Kakko R  12:19   0  1    3   1   0   0   0   1   0/0Chris Kreider L  21:21   0  0   -2   2   0   0   1   1   3/6Alexis Lafrenière L  23:41   0  1   -2   2   0   0   0   3   0/1Artemi Panarin L  24:17   2  0   -1   4   1   0   0   2   0/0Matt Rempe C  03:40   0  0    0   0   0   0   0   0   0/1Reilly Smith R  19:01   0  0   -1   4   0   0   0   1   0/0Vincent Trocheck C  24:56   0  1   -1   3   0   2   0   4 15/23Mika Zibanejad C  23:54   0  0   -4   1   1   0   0   1 15/20Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  23:34   0  3    1   0   1   0   1   2   0/0Zac Jones D  15:26   0  0    1   1   0   0   0   0   0/0Victor Mancini D  14:54   0  0    0   2   3   0   0   1   0/0K'Andre Miller D  26:59   1  0    0   3   3   2   0   1   0/0Braden Schneider D  18:39   1  0   -1   4   0   0   0   2   0/0Jacob Trouba D  20:39   0  1   -2   2   2   0   1   2   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       34  13  26   4  22 37/65
+                                        56.9%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  64:02   6  20/26  16/21   4/5   0/0     0
+              .769   .762  .800
+Utah
+Hockey Club3-0-0Final/OT6 - 5New York
+Rangers1-0-1
+Utah
+Hockey Club3-0-0
+Final/OT6 - 5
+New York
+Rangers1-0-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+UTA   1  4  0  1    6  
+NYR   1  3  1  0    5
+1st Period: ShowHide
+P1  16:17 
+Barrett Hayton (UTA) scores on snap shot past Igor Shesterkin, assisted by Clayton Keller and Nick Schmaltz
+   1-0
+P1  11:22 
+Artemi Panarin (NYR) scores on wrist shot past Connor Ingram, assisted by Alexis Lafrenière
+   1-1
+2nd Period: ShowHide
+P2  18:12 
+Jack McBain (UTA) scores on backhand shot past Igor Shesterkin, assisted by Vladislav Kolyachonok and Logan Cooley
+   2-1
+P2  17:53 
+Kevin Stenlund (UTA) goalkeeper interference against Igor Shesterkin (2 minutes)
+   2-1
+P2  16:09 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Connor Ingram, assisted by Adam Fox and Vincent Trocheck
+   2-2
+P2  15:06 
+NYR penalty, delaying game - unsuccessful challenge (2 minutes), served by Matt Rempe
+   2-2
+P2  14:51 
+Connor Ingram (UTA) holding against Chris Kreider (2 minutes), served by Barrett Hayton
+   2-2
+P2  13:58 
+Clayton Keller (UTA) scores on snap shot past Igor Shesterkin, assisted by Alex Kerfoot
+   3-2
+P2  11:22 
+Kevin Stenlund (UTA) scores on wrist shot past Igor Shesterkin, assisted by Matias Maccelli
+   4-2
+P2  10:42 
+K'Andre Miller (NYR) scores on wrist shot past Connor Ingram, assisted by Adam Fox
+   4-3
+P2  10:37 
+Michael Kesselring (UTA) fighting against Sam Carrick (5 minutes)
+   4-3
+P2  10:37 
+Sam Carrick (NYR) fighting against Michael Kesselring (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) fighting against Adam Edstrom (5 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) fighting against Jack McBain (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) game misconduct (10 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) game misconduct (10 minutes)
+   4-3
+P2  08:33 
+Will Cuylle (NYR) goalkeeper interference against Connor Ingram (2 minutes)
+   4-3
+P2  07:23 
+K'Andre Miller (NYR) high-sticking against Logan Cooley (2 minutes)
+   4-3
+P2  06:01 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Igor Shesterkin, assisted by Nick Schmaltz and Barrett Hayton
+   5-3
+P2  02:01 
+Braden Schneider (NYR) scores on wrist shot past Connor Ingram, assisted by Jacob Trouba and Will Cuylle
+   5-4
+3rd Period: ShowHide
+P3  18:05 
+Ian Cole (UTA) hooking against Artemi Panarin (2 minutes)
+   5-4
+P3  07:04 
+Will Cuylle (NYR) scores on deflection past Connor Ingram, assisted by Adam Fox and Kaapo Kakko
+   5-5
+P3  06:34 
+Vincent Trocheck (NYR) hooking against Michael Carcone (2 minutes)
+   5-5
+Overtime: ShowHide
+OT  00:55 
+Clayton Keller (UTA) scores on backhand shot past Igor Shesterkin
+   6-5
+1st Period: ShowHide
+P1  16:17 
+Barrett Hayton (UTA) scores on snap shot past Igor Shesterkin, assisted by Clayton Keller and Nick Schmaltz
+   1-0
+P1  11:22 
+Artemi Panarin (NYR) scores on wrist shot past Connor Ingram, assisted by Alexis Lafrenière
+   1-1
+P1  16:17 
+Barrett Hayton (UTA) scores on snap shot past Igor Shesterkin, assisted by Clayton Keller and Nick Schmaltz
+   1-0
+P1  11:22 
+Artemi Panarin (NYR) scores on wrist shot past Connor Ingram, assisted by Alexis Lafrenière
+   1-1
+P1  16:17
+Barrett Hayton (UTA) scores on snap shot past Igor Shesterkin, assisted by Clayton Keller and Nick Schmaltz
+1-0
+P1  11:22
+Artemi Panarin (NYR) scores on wrist shot past Connor Ingram, assisted by Alexis Lafrenière
+1-1
+2nd Period: ShowHide
+P2  18:12 
+Jack McBain (UTA) scores on backhand shot past Igor Shesterkin, assisted by Vladislav Kolyachonok and Logan Cooley
+   2-1
+P2  17:53 
+Kevin Stenlund (UTA) goalkeeper interference against Igor Shesterkin (2 minutes)
+   2-1
+P2  16:09 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Connor Ingram, assisted by Adam Fox and Vincent Trocheck
+   2-2
+P2  15:06 
+NYR penalty, delaying game - unsuccessful challenge (2 minutes), served by Matt Rempe
+   2-2
+P2  14:51 
+Connor Ingram (UTA) holding against Chris Kreider (2 minutes), served by Barrett Hayton
+   2-2
+P2  13:58 
+Clayton Keller (UTA) scores on snap shot past Igor Shesterkin, assisted by Alex Kerfoot
+   3-2
+P2  11:22 
+Kevin Stenlund (UTA) scores on wrist shot past Igor Shesterkin, assisted by Matias Maccelli
+   4-2
+P2  10:42 
+K'Andre Miller (NYR) scores on wrist shot past Connor Ingram, assisted by Adam Fox
+   4-3
+P2  10:37 
+Michael Kesselring (UTA) fighting against Sam Carrick (5 minutes)
+   4-3
+P2  10:37 
+Sam Carrick (NYR) fighting against Michael Kesselring (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) fighting against Adam Edstrom (5 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) fighting against Jack McBain (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) game misconduct (10 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) game misconduct (10 minutes)
+   4-3
+P2  08:33 
+Will Cuylle (NYR) goalkeeper interference against Connor Ingram (2 minutes)
+   4-3
+P2  07:23 
+K'Andre Miller (NYR) high-sticking against Logan Cooley (2 minutes)
+   4-3
+P2  06:01 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Igor Shesterkin, assisted by Nick Schmaltz and Barrett Hayton
+   5-3
+P2  02:01 
+Braden Schneider (NYR) scores on wrist shot past Connor Ingram, assisted by Jacob Trouba and Will Cuylle
+   5-4
+P2  18:12 
+Jack McBain (UTA) scores on backhand shot past Igor Shesterkin, assisted by Vladislav Kolyachonok and Logan Cooley
+   2-1
+P2  17:53 
+Kevin Stenlund (UTA) goalkeeper interference against Igor Shesterkin (2 minutes)
+   2-1
+P2  16:09 
+Artemi Panarin (NYR) scores power-play goal on snap shot past Connor Ingram, assisted by Adam Fox and Vincent Trocheck
+   2-2
+P2  15:06 
+NYR penalty, delaying game - unsuccessful challenge (2 minutes), served by Matt Rempe
+   2-2
+P2  14:51 
+Connor Ingram (UTA) holding against Chris Kreider (2 minutes), served by Barrett Hayton
+   2-2
+P2  13:58 
+Clayton Keller (UTA) scores on snap shot past Igor Shesterkin, assisted by Alex Kerfoot
+   3-2
+P2  11:22 
+Kevin Stenlund (UTA) scores on wrist shot past Igor Shesterkin, assisted by Matias Maccelli
+   4-2
+P2  10:42 
+K'Andre Miller (NYR) scores on wrist shot past Connor Ingram, assisted by Adam Fox
+   4-3
+P2  10:37 
+Michael Kesselring (UTA) fighting against Sam Carrick (5 minutes)
+   4-3
+P2  10:37 
+Sam Carrick (NYR) fighting against Michael Kesselring (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) fighting against Adam Edstrom (5 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) fighting against Jack McBain (5 minutes)
+   4-3
+P2  10:37 
+Jack McBain (UTA) game misconduct (10 minutes)
+   4-3
+P2  10:37 
+Adam Edstrom (NYR) game misconduct (10 minutes)
+   4-3
+P2  08:33 
+Will Cuylle (NYR) goalkeeper interference against Connor Ingram (2 minutes)
+   4-3
+P2  07:23 
+K'Andre Miller (NYR) high-sticking against Logan Cooley (2 minutes)
+   4-3
+P2  06:01 
+Dylan Guenther (UTA) scores power-play goal on snap shot past Igor Shesterkin, assisted by Nick Schmaltz and Barrett Hayton
+   5-3
+P2  02:01 
+Braden Schneider (NYR) scores on wrist shot past Connor Ingram, assisted by Jacob Trouba and Will Cuylle
+   5-4
+P2  18:12
+Jack McBain (UTA) scores on backhand shot past Igor Shesterkin, assisted by Vladislav Kolyachonok and Logan Cooley
+2-1
+P2  17:53
+Kevin Stenlund (UTA) goalkeeper interference against Igor Shesterkin (2 minutes)
+2-1
+P2  16:09
+Artemi Panarin (NYR) scores power-play goal on snap shot past Connor Ingram, assisted by Adam Fox and Vincent Trocheck
+2-2
+P2  15:06
+NYR penalty, delaying game - unsuccessful challenge (2 minutes), served by Matt Rempe
+2-2
+P2  14:51
+Connor Ingram (UTA) holding against Chris Kreider (2 minutes), served by Barrett Hayton
+2-2
+P2  13:58
+Clayton Keller (UTA) scores on snap shot past Igor Shesterkin, assisted by Alex Kerfoot
+3-2
+P2  11:22
+Kevin Stenlund (UTA) scores on wrist shot past Igor Shesterkin, assisted by Matias Maccelli
+4-2
+P2  10:42
+K'Andre Miller (NYR) scores on wrist shot past Connor Ingram, assisted by Adam Fox
+4-3
+P2  10:37
+Michael Kesselring (UTA) fighting against Sam Carrick (5 minutes)
+4-3
+P2  10:37
+Sam Carrick (NYR) fighting against Michael Kesselring (5 minutes)
+4-3
+P2  10:37
+Jack McBain (UTA) fighting against Adam Edstrom (5 minutes)
+4-3
+P2  10:37
+Adam Edstrom (NYR) fighting against Jack McBain (5 minutes)
+4-3
+P2  10:37
+Jack McBain (UTA) game misconduct (10 minutes)
+4-3
+P2  10:37
+Adam Edstrom (NYR) game misconduct (10 minutes)
+4-3
+P2  08:33
+Will Cuylle (NYR) goalkeeper interference against Connor Ingram (2 minutes)
+4-3
+P2  07:23
+K'Andre Miller (NYR) high-sticking against Logan Cooley (2 minutes)
+4-3
+P2  06:01
+Dylan Guenther (UTA) scores power-play goal on snap shot past Igor Shesterkin, assisted by Nick Schmaltz and Barrett Hayton
+5-3
+P2  02:01
+Braden Schneider (NYR) scores on wrist shot past Connor Ingram, assisted by Jacob Trouba and Will Cuylle
+5-4
+3rd Period: ShowHide
+P3  18:05 
+Ian Cole (UTA) hooking against Artemi Panarin (2 minutes)
+   5-4
+P3  07:04 
+Will Cuylle (NYR) scores on deflection past Connor Ingram, assisted by Adam Fox and Kaapo Kakko
+   5-5
+P3  06:34 
+Vincent Trocheck (NYR) hooking against Michael Carcone (2 minutes)
+   5-5
+P3  18:05 
+Ian Cole (UTA) hooking against Artemi Panarin (2 minutes)
+   5-4
+P3  07:04 
+Will Cuylle (NYR) scores on deflection past Connor Ingram, assisted by Adam Fox and Kaapo Kakko
+   5-5
+P3  06:34 
+Vincent Trocheck (NYR) hooking against Michael Carcone (2 minutes)
+   5-5
+P3  18:05
+Ian Cole (UTA) hooking against Artemi Panarin (2 minutes)
+5-4
+P3  07:04
+Will Cuylle (NYR) scores on deflection past Connor Ingram, assisted by Adam Fox and Kaapo Kakko
+5-5
+P3  06:34
+Vincent Trocheck (NYR) hooking against Michael Carcone (2 minutes)
+5-5
+Overtime: ShowHide
+OT  00:55 
+Clayton Keller (UTA) scores on backhand shot past Igor Shesterkin
+   6-5
+OT  00:55 
+Clayton Keller (UTA) scores on backhand shot past Igor Shesterkin
+   6-5
+OT  00:55
+Clayton Keller (UTA) scores on backhand shot past Igor Shesterkin
+6-5
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  10:31   0  0   -1   0   0   0   0   0   0/0Logan Cooley C  15:03   0  1    0   1   2   0   0   1   3/8Lawson Crouse L  15:47   0  0    0   1   1   0   0   1   1/1Josh Doan R  18:40   0  0    0   2   1   0   0   0   1/7Dylan Guenther R  15:45   1  0    1   3   0   0   0   0   0/0Barrett Hayton C  18:28   1  1   -1   5   0   0   0   0 10/19Clayton Keller R  19:09   2  1    2   3   0   0   0   1   0/2Alex Kerfoot C  16:03   0  1    1   0   0   0   1   1   2/7Matias Maccelli L  13:48   0  1   -1   3   0   0   3   1   0/0Jack McBain C  06:00   1  0    1   1   0  15   0   1   0/1Nick Schmaltz C  21:58   0  2    0   1   1   0   0   2   0/2Kevin Stenlund C  15:12   1  0   -1   2   0   2   0   1 11/18Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  21:00   0  0    1   2   2   2   1   2   0/0Sean Durzi D  29:12   0  0    1   1   4   0   1   3   0/0Michael Kesselring D  18:19   0  0   -1   0   1   5   0   1   0/0Vladislav Kolyachonok D  05:04   0  1   -1   1   0   0   0   0   0/0Mikhail Sergachev D  28:48   0  0    1   0   3   0   0   4   0/0Juuso Valimaki D  17:44   0  0    0   0   2   0   0   3   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       26  17  24   6  22 28/65
+                                        43.1%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  64:05   5  29/34  25/29   3/4   1/1     2
+              .853   .862  .750 1.000 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  04:35   0  0    1   0   0   5   0   0   2/5Filip Chytil C  12:57   0  0    3   1   1   0   0   0   2/9Will Cuylle L  12:12   1  1    3   3   1   2   1   1   0/0Adam Edstrom C  01:52   0  0    0   1   0  15   0   0   0/0Kaapo Kakko R  12:19   0  1    3   1   0   0   0   1   0/0Chris Kreider L  21:21   0  0   -2   2   0   0   1   1   3/6Alexis Lafrenière L  23:41   0  1   -2   2   0   0   0   3   0/1Artemi Panarin L  24:17   2  0   -1   4   1   0   0   2   0/0Matt Rempe C  03:40   0  0    0   0   0   0   0   0   0/1Reilly Smith R  19:01   0  0   -1   4   0   0   0   1   0/0Vincent Trocheck C  24:56   0  1   -1   3   0   2   0   4 15/23Mika Zibanejad C  23:54   0  0   -4   1   1   0   0   1 15/20Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  23:34   0  3    1   0   1   0   1   2   0/0Zac Jones D  15:26   0  0    1   1   0   0   0   0   0/0Victor Mancini D  14:54   0  0    0   2   3   0   0   1   0/0K'Andre Miller D  26:59   1  0    0   3   3   2   0   1   0/0Braden Schneider D  18:39   1  0   -1   4   0   0   0   2   0/0Jacob Trouba D  20:39   0  1   -2   2   2   0   1   2   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       34  13  26   4  22 37/65
+                                        56.9%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  64:02   6  20/26  16/21   4/5   0/0     0
+              .769   .762  .800
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  10:31   0  0   -1   0   0   0   0   0   0/0Logan Cooley C  15:03   0  1    0   1   2   0   0   1   3/8Lawson Crouse L  15:47   0  0    0   1   1   0   0   1   1/1Josh Doan R  18:40   0  0    0   2   1   0   0   0   1/7Dylan Guenther R  15:45   1  0    1   3   0   0   0   0   0/0Barrett Hayton C  18:28   1  1   -1   5   0   0   0   0 10/19Clayton Keller R  19:09   2  1    2   3   0   0   0   1   0/2Alex Kerfoot C  16:03   0  1    1   0   0   0   1   1   2/7Matias Maccelli L  13:48   0  1   -1   3   0   0   3   1   0/0Jack McBain C  06:00   1  0    1   1   0  15   0   1   0/1Nick Schmaltz C  21:58   0  2    0   1   1   0   0   2   0/2Kevin Stenlund C  15:12   1  0   -1   2   0   2   0   1 11/18
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Carcone L
+10:31   0  0   -1   0   0   0   0   0   0/0
+Logan Cooley C
+15:03   0  1    0   1   2   0   0   1   3/8
+Lawson Crouse L
+15:47   0  0    0   1   1   0   0   1   1/1
+Josh Doan R
+18:40   0  0    0   2   1   0   0   0   1/7
+Dylan Guenther R
+15:45   1  0    1   3   0   0   0   0   0/0
+Barrett Hayton C
+18:28   1  1   -1   5   0   0   0   0 10/19
+Clayton Keller R
+19:09   2  1    2   3   0   0   0   1   0/2
+Alex Kerfoot C
+16:03   0  1    1   0   0   0   1   1   2/7
+Matias Maccelli L
+13:48   0  1   -1   3   0   0   3   1   0/0
+Jack McBain C
+06:00   1  0    1   1   0  15   0   1   0/1
+Nick Schmaltz C
+21:58   0  2    0   1   1   0   0   2   0/2
+Kevin Stenlund C
+15:12   1  0   -1   2   0   2   0   1 11/18
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  21:00   0  0    1   2   2   2   1   2   0/0Sean Durzi D  29:12   0  0    1   1   4   0   1   3   0/0Michael Kesselring D  18:19   0  0   -1   0   1   5   0   1   0/0Vladislav Kolyachonok D  05:04   0  1   -1   1   0   0   0   0   0/0Mikhail Sergachev D  28:48   0  0    1   0   3   0   0   4   0/0Juuso Valimaki D  17:44   0  0    0   0   2   0   0   3   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ian Cole D
+21:00   0  0    1   2   2   2   1   2   0/0
+Sean Durzi D
+29:12   0  0    1   1   4   0   1   3   0/0
+Michael Kesselring D
+18:19   0  0   -1   0   1   5   0   1   0/0
+Vladislav Kolyachonok D
+05:04   0  1   -1   1   0   0   0   0   0/0
+Mikhail Sergachev D
+28:48   0  0    1   0   3   0   0   4   0/0
+Juuso Valimaki D
+17:44   0  0    0   0   2   0   0   3   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          6  8       26  17  24   6  22 28/65
+                                        43.1%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  64:05   5  29/34  25/29   3/4   1/1     2
+              .853   .862  .750 1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+64:05   5  29/34  25/29   3/4   1/1     2
+              .853   .862  .750 1.000
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Carrick C  04:35   0  0    1   0   0   5   0   0   2/5Filip Chytil C  12:57   0  0    3   1   1   0   0   0   2/9Will Cuylle L  12:12   1  1    3   3   1   2   1   1   0/0Adam Edstrom C  01:52   0  0    0   1   0  15   0   0   0/0Kaapo Kakko R  12:19   0  1    3   1   0   0   0   1   0/0Chris Kreider L  21:21   0  0   -2   2   0   0   1   1   3/6Alexis Lafrenière L  23:41   0  1   -2   2   0   0   0   3   0/1Artemi Panarin L  24:17   2  0   -1   4   1   0   0   2   0/0Matt Rempe C  03:40   0  0    0   0   0   0   0   0   0/1Reilly Smith R  19:01   0  0   -1   4   0   0   0   1   0/0Vincent Trocheck C  24:56   0  1   -1   3   0   2   0   4 15/23Mika Zibanejad C  23:54   0  0   -4   1   1   0   0   1 15/20
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Carrick C
+04:35   0  0    1   0   0   5   0   0   2/5
+Filip Chytil C
+12:57   0  0    3   1   1   0   0   0   2/9
+Will Cuylle L
+12:12   1  1    3   3   1   2   1   1   0/0
+Adam Edstrom C
+01:52   0  0    0   1   0  15   0   0   0/0
+Kaapo Kakko R
+12:19   0  1    3   1   0   0   0   1   0/0
+Chris Kreider L
+21:21   0  0   -2   2   0   0   1   1   3/6
+Alexis Lafrenière L
+23:41   0  1   -2   2   0   0   0   3   0/1
+Artemi Panarin L
+24:17   2  0   -1   4   1   0   0   2   0/0
+Matt Rempe C
+03:40   0  0    0   0   0   0   0   0   0/1
+Reilly Smith R
+19:01   0  0   -1   4   0   0   0   1   0/0
+Vincent Trocheck C
+24:56   0  1   -1   3   0   2   0   4 15/23
+Mika Zibanejad C
+23:54   0  0   -4   1   1   0   0   1 15/20
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  23:34   0  3    1   0   1   0   1   2   0/0Zac Jones D  15:26   0  0    1   1   0   0   0   0   0/0Victor Mancini D  14:54   0  0    0   2   3   0   0   1   0/0K'Andre Miller D  26:59   1  0    0   3   3   2   0   1   0/0Braden Schneider D  18:39   1  0   -1   4   0   0   0   2   0/0Jacob Trouba D  20:39   0  1   -2   2   2   0   1   2   0/0
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Adam Fox D
+23:34   0  3    1   0   1   0   1   2   0/0
+Zac Jones D
+15:26   0  0    1   1   0   0   0   0   0/0
+Victor Mancini D
+14:54   0  0    0   2   3   0   0   1   0/0
+K'Andre Miller D
+26:59   1  0    0   3   3   2   0   1   0/0
+Braden Schneider D
+18:39   1  0   -1   4   0   0   0   2   0/0
+Jacob Trouba D
+20:39   0  1   -2   2   2   0   1   2   0/0
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       34  13  26   4  22 37/65
+                                        56.9%
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  64:02   6  20/26  16/21   4/5   0/0     0
+              .769   .762  .800
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Igor Shesterkin G
+64:02   6  20/26  16/21   4/5   0/0     0
+              .769   .762  .800
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

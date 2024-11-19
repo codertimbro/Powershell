@@ -1,0 +1,490 @@
+< Oct. 16 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Utah
+Hockey Club3-1-1Final/OT4 - 5Anaheim
+Ducks2-1-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+UTA   2  0  2  0    4  
+ANA   1  2  1  1    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:20 
+Troy Terry (ANA) scores on snap shot past Connor Ingram, assisted by Ryan Strome and Frank Vatrano
+   0-1
+P1  14:24 
+Lawson Crouse (UTA) hooking against Leo Carlsson (2 minutes)
+   0-1
+P1  11:06 
+Jack McBain (UTA) scores on tip-in past Lukas Dostal, assisted by Mikhail Sergachev and Michael Kesselring
+   1-1
+P1  08:15 
+Cutter Gauthier (ANA) tripping against Nick Schmaltz (2 minutes)
+   1-1
+P1  06:35 
+Barrett Hayton (UTA) scores power-play goal on tip-in past Lukas Dostal, assisted by Nick Schmaltz and Dylan Guenther
+   2-1
+P1  04:16 
+Nick Schmaltz (UTA) holding against Brett Leason (2 minutes)
+   2-1
+P1  00:00 
+Cam Fowler (ANA) tripping against Dylan Guenther (2 minutes)
+   2-1
+2nd Period: ShowHide
+P2  11:54 
+Robby Fabbri (ANA) scores on backhand shot past Connor Ingram, assisted by Trevor Zegras and Mason McTavish
+   2-2
+P2  03:08 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brian Dumoulin and Mason McTavish
+   2-3
+P2  02:01 
+Jack McBain (UTA) roughing against Radko Gudas (2 minutes)
+   2-3
+3rd Period: ShowHide
+P3  17:48 
+Kevin Stenlund (UTA) tripping against Alex Killorn (2 minutes)
+   2-3
+P3  16:56 
+Robert Bortuzzo (UTA) tripping against Mason McTavish (2 minutes), served by Josh Doan
+   2-3
+P3  14:39 
+Michael Kesselring (UTA) scores on wrist shot past Lukas Dostal, assisted by Jack McBain and Josh Doan
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  09:10 
+Clayton Keller (UTA) scores on backhand shot past Lukas Dostal, assisted by Nick Schmaltz
+   4-3
+P3  05:05 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brock McGinn and Leo Carlsson
+   4-4
+Overtime: ShowHide
+OT  04:06 
+Leo Carlsson (ANA) scores on wrist shot past Connor Ingram
+   4-5
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  10:45   0  0   -1   1   0   0   0   0   0/1Logan Cooley C  13:00   0  0    0   3   2   0   1   1   4/7Lawson Crouse L  15:10   0  0    0   1   2   2   0   0   0/0Josh Doan R  12:17   0  1    0   1   1   4   0   1   4/5Dylan Guenther R  14:54   0  1    0   4   0   0   0   0   0/0Barrett Hayton C  17:08   1  0    0   1   2   0   0   1 18/24Clayton Keller R  18:46   1  0   -1   3   0   0   2   1   0/0Alexander Kerfoot C  16:59   0  0   -1   3   2   0   1   2  5/16Matias Maccelli L  12:25   0  0   -1   2   0   0   0   0   0/0Jack McBain C  13:01   1  1    1   1   0   2   0   0   5/7Nick Schmaltz C  18:48   0  2   -1   5   1   2   1   1   1/1Kevin Stenlund C  12:07   0  0   -1   2   0   2   0   0   5/7Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  10:02   0  0   -2   0   1   2   0   1   0/0Ian Cole D  24:46   0  0   -2   0   4   0   1   2   0/0Michael Kesselring D  21:58   1  1    3   1   2   0   0   3   0/0Vladislav Kolyachonok D  10:14   0  0   -2   0   0   0   0   1   0/0Mikhail Sergachev D  27:52   0  1    1   1   4   0   0   1   0/0Juuso Valimaki D  22:30   0  0   -1   1   1   0   0   4   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       30  22  14   6  19 42/68
+                                        61.8%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  60:54   5  29/34  25/30   3/3   1/1     0
+              .853   .833 1.000 1.000 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  19:41   1  1    2   4   0   0   0   0  5/16Robby Fabbri C  17:23   1  0    1   2   0   0   0   1   0/3Cutter Gauthier L  12:49   0  0   -1   2   2   2   0   1   0/0Alex Killorn L  17:15   0  0    0   0   0   0   0   0   0/0Brett Leason R  10:04   0  0    0   1   0   0   0   0   0/1Isac Lundestrom C  11:18   0  0    0   1   1   0   0   1  6/16Brock McGinn L  12:58   0  1    1   2   0   0   0   1   0/0Mason McTavish C  18:49   0  2    1   3   0   0   0   0  9/15Ryan Strome C  15:58   0  1   -1   3   0   0   2   2  6/15Troy Terry R  18:18   1  0    1   2   0   0   1   2   0/2Frank Vatrano R  15:49   0  1    0   0   2   0   0   1   0/0Trevor Zegras C  18:01   0  1    1   5   0   0   1   1   0/0Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  18:45   0  1    1   2   3   0   0   0   0/0Cam Fowler D  18:39   0  0   -1   1   2   2   0   2   0/0Radko Gudas D  18:08   0  0    1   0   4   4   0   3   0/0Tristan Luneau D  13:51   0  0   -1   1   3   0   0   1   0/0Pavel Mintyukov D  21:55   2  0    2   2   3   0   0   4   0/0Olen Zellweger D  19:25   0  0    1   3   0   0   2   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       34  20   8   6  21 26/68
+                                        38.2%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:50   4  26/30  20/23   6/7   0/0     0
+              .867   .870  .857
+Utah
+Hockey Club3-1-1Final/OT4 - 5Anaheim
+Ducks2-1-0
+Utah
+Hockey Club3-1-1
+Final/OT4 - 5
+Anaheim
+Ducks2-1-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+UTA   2  0  2  0    4  
+ANA   1  2  1  1    5
+1st Period: ShowHide
+P1  15:20 
+Troy Terry (ANA) scores on snap shot past Connor Ingram, assisted by Ryan Strome and Frank Vatrano
+   0-1
+P1  14:24 
+Lawson Crouse (UTA) hooking against Leo Carlsson (2 minutes)
+   0-1
+P1  11:06 
+Jack McBain (UTA) scores on tip-in past Lukas Dostal, assisted by Mikhail Sergachev and Michael Kesselring
+   1-1
+P1  08:15 
+Cutter Gauthier (ANA) tripping against Nick Schmaltz (2 minutes)
+   1-1
+P1  06:35 
+Barrett Hayton (UTA) scores power-play goal on tip-in past Lukas Dostal, assisted by Nick Schmaltz and Dylan Guenther
+   2-1
+P1  04:16 
+Nick Schmaltz (UTA) holding against Brett Leason (2 minutes)
+   2-1
+P1  00:00 
+Cam Fowler (ANA) tripping against Dylan Guenther (2 minutes)
+   2-1
+2nd Period: ShowHide
+P2  11:54 
+Robby Fabbri (ANA) scores on backhand shot past Connor Ingram, assisted by Trevor Zegras and Mason McTavish
+   2-2
+P2  03:08 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brian Dumoulin and Mason McTavish
+   2-3
+P2  02:01 
+Jack McBain (UTA) roughing against Radko Gudas (2 minutes)
+   2-3
+3rd Period: ShowHide
+P3  17:48 
+Kevin Stenlund (UTA) tripping against Alex Killorn (2 minutes)
+   2-3
+P3  16:56 
+Robert Bortuzzo (UTA) tripping against Mason McTavish (2 minutes), served by Josh Doan
+   2-3
+P3  14:39 
+Michael Kesselring (UTA) scores on wrist shot past Lukas Dostal, assisted by Jack McBain and Josh Doan
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  09:10 
+Clayton Keller (UTA) scores on backhand shot past Lukas Dostal, assisted by Nick Schmaltz
+   4-3
+P3  05:05 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brock McGinn and Leo Carlsson
+   4-4
+Overtime: ShowHide
+OT  04:06 
+Leo Carlsson (ANA) scores on wrist shot past Connor Ingram
+   4-5
+1st Period: ShowHide
+P1  15:20 
+Troy Terry (ANA) scores on snap shot past Connor Ingram, assisted by Ryan Strome and Frank Vatrano
+   0-1
+P1  14:24 
+Lawson Crouse (UTA) hooking against Leo Carlsson (2 minutes)
+   0-1
+P1  11:06 
+Jack McBain (UTA) scores on tip-in past Lukas Dostal, assisted by Mikhail Sergachev and Michael Kesselring
+   1-1
+P1  08:15 
+Cutter Gauthier (ANA) tripping against Nick Schmaltz (2 minutes)
+   1-1
+P1  06:35 
+Barrett Hayton (UTA) scores power-play goal on tip-in past Lukas Dostal, assisted by Nick Schmaltz and Dylan Guenther
+   2-1
+P1  04:16 
+Nick Schmaltz (UTA) holding against Brett Leason (2 minutes)
+   2-1
+P1  00:00 
+Cam Fowler (ANA) tripping against Dylan Guenther (2 minutes)
+   2-1
+P1  15:20 
+Troy Terry (ANA) scores on snap shot past Connor Ingram, assisted by Ryan Strome and Frank Vatrano
+   0-1
+P1  14:24 
+Lawson Crouse (UTA) hooking against Leo Carlsson (2 minutes)
+   0-1
+P1  11:06 
+Jack McBain (UTA) scores on tip-in past Lukas Dostal, assisted by Mikhail Sergachev and Michael Kesselring
+   1-1
+P1  08:15 
+Cutter Gauthier (ANA) tripping against Nick Schmaltz (2 minutes)
+   1-1
+P1  06:35 
+Barrett Hayton (UTA) scores power-play goal on tip-in past Lukas Dostal, assisted by Nick Schmaltz and Dylan Guenther
+   2-1
+P1  04:16 
+Nick Schmaltz (UTA) holding against Brett Leason (2 minutes)
+   2-1
+P1  00:00 
+Cam Fowler (ANA) tripping against Dylan Guenther (2 minutes)
+   2-1
+P1  15:20
+Troy Terry (ANA) scores on snap shot past Connor Ingram, assisted by Ryan Strome and Frank Vatrano
+0-1
+P1  14:24
+Lawson Crouse (UTA) hooking against Leo Carlsson (2 minutes)
+0-1
+P1  11:06
+Jack McBain (UTA) scores on tip-in past Lukas Dostal, assisted by Mikhail Sergachev and Michael Kesselring
+1-1
+P1  08:15
+Cutter Gauthier (ANA) tripping against Nick Schmaltz (2 minutes)
+1-1
+P1  06:35
+Barrett Hayton (UTA) scores power-play goal on tip-in past Lukas Dostal, assisted by Nick Schmaltz and Dylan Guenther
+2-1
+P1  04:16
+Nick Schmaltz (UTA) holding against Brett Leason (2 minutes)
+2-1
+P1  00:00
+Cam Fowler (ANA) tripping against Dylan Guenther (2 minutes)
+2-1
+2nd Period: ShowHide
+P2  11:54 
+Robby Fabbri (ANA) scores on backhand shot past Connor Ingram, assisted by Trevor Zegras and Mason McTavish
+   2-2
+P2  03:08 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brian Dumoulin and Mason McTavish
+   2-3
+P2  02:01 
+Jack McBain (UTA) roughing against Radko Gudas (2 minutes)
+   2-3
+P2  11:54 
+Robby Fabbri (ANA) scores on backhand shot past Connor Ingram, assisted by Trevor Zegras and Mason McTavish
+   2-2
+P2  03:08 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brian Dumoulin and Mason McTavish
+   2-3
+P2  02:01 
+Jack McBain (UTA) roughing against Radko Gudas (2 minutes)
+   2-3
+P2  11:54
+Robby Fabbri (ANA) scores on backhand shot past Connor Ingram, assisted by Trevor Zegras and Mason McTavish
+2-2
+P2  03:08
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brian Dumoulin and Mason McTavish
+2-3
+P2  02:01
+Jack McBain (UTA) roughing against Radko Gudas (2 minutes)
+2-3
+3rd Period: ShowHide
+P3  17:48 
+Kevin Stenlund (UTA) tripping against Alex Killorn (2 minutes)
+   2-3
+P3  16:56 
+Robert Bortuzzo (UTA) tripping against Mason McTavish (2 minutes), served by Josh Doan
+   2-3
+P3  14:39 
+Michael Kesselring (UTA) scores on wrist shot past Lukas Dostal, assisted by Jack McBain and Josh Doan
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  09:10 
+Clayton Keller (UTA) scores on backhand shot past Lukas Dostal, assisted by Nick Schmaltz
+   4-3
+P3  05:05 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brock McGinn and Leo Carlsson
+   4-4
+P3  17:48 
+Kevin Stenlund (UTA) tripping against Alex Killorn (2 minutes)
+   2-3
+P3  16:56 
+Robert Bortuzzo (UTA) tripping against Mason McTavish (2 minutes), served by Josh Doan
+   2-3
+P3  14:39 
+Michael Kesselring (UTA) scores on wrist shot past Lukas Dostal, assisted by Jack McBain and Josh Doan
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+   3-3
+P3  12:19 
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+   3-3
+P3  09:10 
+Clayton Keller (UTA) scores on backhand shot past Lukas Dostal, assisted by Nick Schmaltz
+   4-3
+P3  05:05 
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brock McGinn and Leo Carlsson
+   4-4
+P3  17:48
+Kevin Stenlund (UTA) tripping against Alex Killorn (2 minutes)
+2-3
+P3  16:56
+Robert Bortuzzo (UTA) tripping against Mason McTavish (2 minutes), served by Josh Doan
+2-3
+P3  14:39
+Michael Kesselring (UTA) scores on wrist shot past Lukas Dostal, assisted by Jack McBain and Josh Doan
+3-3
+P3  12:19
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+3-3
+P3  12:19
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+3-3
+P3  12:19
+Josh Doan (UTA) roughing against Radko Gudas (2 minutes)
+3-3
+P3  12:19
+Radko Gudas (ANA) roughing against Josh Doan (2 minutes)
+3-3
+P3  09:10
+Clayton Keller (UTA) scores on backhand shot past Lukas Dostal, assisted by Nick Schmaltz
+4-3
+P3  05:05
+Pavel Mintyukov (ANA) scores on wrist shot past Connor Ingram, assisted by Brock McGinn and Leo Carlsson
+4-4
+Overtime: ShowHide
+OT  04:06 
+Leo Carlsson (ANA) scores on wrist shot past Connor Ingram
+   4-5
+OT  04:06 
+Leo Carlsson (ANA) scores on wrist shot past Connor Ingram
+   4-5
+OT  04:06
+Leo Carlsson (ANA) scores on wrist shot past Connor Ingram
+4-5
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  10:45   0  0   -1   1   0   0   0   0   0/1Logan Cooley C  13:00   0  0    0   3   2   0   1   1   4/7Lawson Crouse L  15:10   0  0    0   1   2   2   0   0   0/0Josh Doan R  12:17   0  1    0   1   1   4   0   1   4/5Dylan Guenther R  14:54   0  1    0   4   0   0   0   0   0/0Barrett Hayton C  17:08   1  0    0   1   2   0   0   1 18/24Clayton Keller R  18:46   1  0   -1   3   0   0   2   1   0/0Alexander Kerfoot C  16:59   0  0   -1   3   2   0   1   2  5/16Matias Maccelli L  12:25   0  0   -1   2   0   0   0   0   0/0Jack McBain C  13:01   1  1    1   1   0   2   0   0   5/7Nick Schmaltz C  18:48   0  2   -1   5   1   2   1   1   1/1Kevin Stenlund C  12:07   0  0   -1   2   0   2   0   0   5/7Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  10:02   0  0   -2   0   1   2   0   1   0/0Ian Cole D  24:46   0  0   -2   0   4   0   1   2   0/0Michael Kesselring D  21:58   1  1    3   1   2   0   0   3   0/0Vladislav Kolyachonok D  10:14   0  0   -2   0   0   0   0   1   0/0Mikhail Sergachev D  27:52   0  1    1   1   4   0   0   1   0/0Juuso Valimaki D  22:30   0  0   -1   1   1   0   0   4   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       30  22  14   6  19 42/68
+                                        61.8%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  60:54   5  29/34  25/30   3/3   1/1     0
+              .853   .833 1.000 1.000 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  19:41   1  1    2   4   0   0   0   0  5/16Robby Fabbri C  17:23   1  0    1   2   0   0   0   1   0/3Cutter Gauthier L  12:49   0  0   -1   2   2   2   0   1   0/0Alex Killorn L  17:15   0  0    0   0   0   0   0   0   0/0Brett Leason R  10:04   0  0    0   1   0   0   0   0   0/1Isac Lundestrom C  11:18   0  0    0   1   1   0   0   1  6/16Brock McGinn L  12:58   0  1    1   2   0   0   0   1   0/0Mason McTavish C  18:49   0  2    1   3   0   0   0   0  9/15Ryan Strome C  15:58   0  1   -1   3   0   0   2   2  6/15Troy Terry R  18:18   1  0    1   2   0   0   1   2   0/2Frank Vatrano R  15:49   0  1    0   0   2   0   0   1   0/0Trevor Zegras C  18:01   0  1    1   5   0   0   1   1   0/0Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  18:45   0  1    1   2   3   0   0   0   0/0Cam Fowler D  18:39   0  0   -1   1   2   2   0   2   0/0Radko Gudas D  18:08   0  0    1   0   4   4   0   3   0/0Tristan Luneau D  13:51   0  0   -1   1   3   0   0   1   0/0Pavel Mintyukov D  21:55   2  0    2   2   3   0   0   4   0/0Olen Zellweger D  19:25   0  0    1   3   0   0   2   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       34  20   8   6  21 26/68
+                                        38.2%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:50   4  26/30  20/23   6/7   0/0     0
+              .867   .870  .857
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Carcone L  10:45   0  0   -1   1   0   0   0   0   0/1Logan Cooley C  13:00   0  0    0   3   2   0   1   1   4/7Lawson Crouse L  15:10   0  0    0   1   2   2   0   0   0/0Josh Doan R  12:17   0  1    0   1   1   4   0   1   4/5Dylan Guenther R  14:54   0  1    0   4   0   0   0   0   0/0Barrett Hayton C  17:08   1  0    0   1   2   0   0   1 18/24Clayton Keller R  18:46   1  0   -1   3   0   0   2   1   0/0Alexander Kerfoot C  16:59   0  0   -1   3   2   0   1   2  5/16Matias Maccelli L  12:25   0  0   -1   2   0   0   0   0   0/0Jack McBain C  13:01   1  1    1   1   0   2   0   0   5/7Nick Schmaltz C  18:48   0  2   -1   5   1   2   1   1   1/1Kevin Stenlund C  12:07   0  0   -1   2   0   2   0   0   5/7
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Carcone L
+10:45   0  0   -1   1   0   0   0   0   0/1
+Logan Cooley C
+13:00   0  0    0   3   2   0   1   1   4/7
+Lawson Crouse L
+15:10   0  0    0   1   2   2   0   0   0/0
+Josh Doan R
+12:17   0  1    0   1   1   4   0   1   4/5
+Dylan Guenther R
+14:54   0  1    0   4   0   0   0   0   0/0
+Barrett Hayton C
+17:08   1  0    0   1   2   0   0   1 18/24
+Clayton Keller R
+18:46   1  0   -1   3   0   0   2   1   0/0
+Alexander Kerfoot C
+16:59   0  0   -1   3   2   0   1   2  5/16
+Matias Maccelli L
+12:25   0  0   -1   2   0   0   0   0   0/0
+Jack McBain C
+13:01   1  1    1   1   0   2   0   0   5/7
+Nick Schmaltz C
+18:48   0  2   -1   5   1   2   1   1   1/1
+Kevin Stenlund C
+12:07   0  0   -1   2   0   2   0   0   5/7
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  10:02   0  0   -2   0   1   2   0   1   0/0Ian Cole D  24:46   0  0   -2   0   4   0   1   2   0/0Michael Kesselring D  21:58   1  1    3   1   2   0   0   3   0/0Vladislav Kolyachonok D  10:14   0  0   -2   0   0   0   0   1   0/0Mikhail Sergachev D  27:52   0  1    1   1   4   0   0   1   0/0Juuso Valimaki D  22:30   0  0   -1   1   1   0   0   4   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Robert Bortuzzo D
+10:02   0  0   -2   0   1   2   0   1   0/0
+Ian Cole D
+24:46   0  0   -2   0   4   0   1   2   0/0
+Michael Kesselring D
+21:58   1  1    3   1   2   0   0   3   0/0
+Vladislav Kolyachonok D
+10:14   0  0   -2   0   0   0   0   1   0/0
+Mikhail Sergachev D
+27:52   0  1    1   1   4   0   0   1   0/0
+Juuso Valimaki D
+22:30   0  0   -1   1   1   0   0   4   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       30  22  14   6  19 42/68
+                                        61.8%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  60:54   5  29/34  25/30   3/3   1/1     0
+              .853   .833 1.000 1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+60:54   5  29/34  25/30   3/3   1/1     0
+              .853   .833 1.000 1.000
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  19:41   1  1    2   4   0   0   0   0  5/16Robby Fabbri C  17:23   1  0    1   2   0   0   0   1   0/3Cutter Gauthier L  12:49   0  0   -1   2   2   2   0   1   0/0Alex Killorn L  17:15   0  0    0   0   0   0   0   0   0/0Brett Leason R  10:04   0  0    0   1   0   0   0   0   0/1Isac Lundestrom C  11:18   0  0    0   1   1   0   0   1  6/16Brock McGinn L  12:58   0  1    1   2   0   0   0   1   0/0Mason McTavish C  18:49   0  2    1   3   0   0   0   0  9/15Ryan Strome C  15:58   0  1   -1   3   0   0   2   2  6/15Troy Terry R  18:18   1  0    1   2   0   0   1   2   0/2Frank Vatrano R  15:49   0  1    0   0   2   0   0   1   0/0Trevor Zegras C  18:01   0  1    1   5   0   0   1   1   0/0
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Leo Carlsson C
+19:41   1  1    2   4   0   0   0   0  5/16
+Robby Fabbri C
+17:23   1  0    1   2   0   0   0   1   0/3
+Cutter Gauthier L
+12:49   0  0   -1   2   2   2   0   1   0/0
+Alex Killorn L
+17:15   0  0    0   0   0   0   0   0   0/0
+Brett Leason R
+10:04   0  0    0   1   0   0   0   0   0/1
+Isac Lundestrom C
+11:18   0  0    0   1   1   0   0   1  6/16
+Brock McGinn L
+12:58   0  1    1   2   0   0   0   1   0/0
+Mason McTavish C
+18:49   0  2    1   3   0   0   0   0  9/15
+Ryan Strome C
+15:58   0  1   -1   3   0   0   2   2  6/15
+Troy Terry R
+18:18   1  0    1   2   0   0   1   2   0/2
+Frank Vatrano R
+15:49   0  1    0   0   2   0   0   1   0/0
+Trevor Zegras C
+18:01   0  1    1   5   0   0   1   1   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  18:45   0  1    1   2   3   0   0   0   0/0Cam Fowler D  18:39   0  0   -1   1   2   2   0   2   0/0Radko Gudas D  18:08   0  0    1   0   4   4   0   3   0/0Tristan Luneau D  13:51   0  0   -1   1   3   0   0   1   0/0Pavel Mintyukov D  21:55   2  0    2   2   3   0   0   4   0/0Olen Zellweger D  19:25   0  0    1   3   0   0   2   1   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brian Dumoulin D
+18:45   0  1    1   2   3   0   0   0   0/0
+Cam Fowler D
+18:39   0  0   -1   1   2   2   0   2   0/0
+Radko Gudas D
+18:08   0  0    1   0   4   4   0   3   0/0
+Tristan Luneau D
+13:51   0  0   -1   1   3   0   0   1   0/0
+Pavel Mintyukov D
+21:55   2  0    2   2   3   0   0   4   0/0
+Olen Zellweger D
+19:25   0  0    1   3   0   0   2   1   0/0
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       34  20   8   6  21 26/68
+                                        38.2%
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  60:50   4  26/30  20/23   6/7   0/0     0
+              .867   .870  .857
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Lukas Dostal G
+60:50   4  26/30  20/23   6/7   0/0     0
+              .867   .870  .857
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

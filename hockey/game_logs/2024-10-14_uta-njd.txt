@@ -1,0 +1,397 @@
+< Oct. 14 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Utah
+Hockey Club3-1-0Final0 - 3New Jersey
+Devils4-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+UTA   0  0  0    0  
+NJD   0  2  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  11:37 
+Ian Cole (UTA) interference against Dougie Hamilton (2 minutes)
+   0-0
+P1  08:40 
+Johnathan Kovacevic (NJD) tripping against Barrett Hayton (2 minutes)
+   0-0
+P1  00:49 
+Dougie Hamilton (NJD) roughing against Logan Cooley (2 minutes)
+   0-0
+P1  00:29 
+Mikhail Sergachev (UTA) tripping against Nico Hischier (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:46 
+Seamus Casey (NJD) scores power-play goal on wrist shot past Karel Vejmelka, assisted by Nico Hischier
+   0-1
+P2  16:48 
+Ian Cole (UTA) high-sticking against Nico Hischier (2 minutes)
+   0-1
+P2  11:47 
+Stefan Noesen (NJD) scores on backhand shot past Karel Vejmelka, assisted by Seamus Casey
+   0-2
+P2  11:17 
+Tomas Tatar (NJD) holding against Mikhail Sergachev (2 minutes)
+   0-2
+P2  05:48 
+UTA penalty, too many men on the ice (2 minutes), served by Liam O'Brien
+   0-2
+P2  00:17 
+Lawson Crouse (UTA) roughing against Dougie Hamilton (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  15:41 
+Paul Cotter (NJD) interference against Kevin Stenlund (2 minutes)
+   0-2
+P3  11:05 
+Juuso Valimaki (UTA) high-sticking against Tomas Tatar (2 minutes)
+   0-2
+P3  09:47 
+Nico Hischier (NJD) scores power-play goal on snap shot past Karel Vejmelka, assisted by Jack Hughes and Jesper Bratt
+   0-3
+P3  02:31 
+Josh Doan (UTA) hooking against Johnathan Kovacevic (2 minutes)
+   0-3
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  15:26   0  0    0   3   1   0   0   1   2/4Lawson Crouse L  14:19   0  0    0   3   1   2   0   2   0/0Josh Doan R  15:46   0  0    0   0   1   2   1   0   2/3Dylan Guenther R  13:48   0  0    0   1   0   0   1   2   0/0Barrett Hayton C  14:37   0  0    0   1   1   0   0   0  6/11Clayton Keller R  16:59   0  0    0   3   1   0   0   1   0/0Alex Kerfoot C  15:31   0  0    0   3   1   0   0   2   5/6Matias Maccelli L  13:18   0  0   -1   0   1   0   0   1   0/0Jack McBain C  11:59   0  0    0   0   0   0   1   1   0/1Liam O'Brien C  08:52   0  0   -1   0   1   0   0   2   0/0Nick Schmaltz C  17:52   0  0    0   0   1   0   1   2   0/2Kevin Stenlund C  17:31   0  0   -1   0   3   0   1   0 10/17Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:11   0  0   -1   0   4   4   0   0   0/0Sean Durzi D  09:09   0  0    0   1   2   0   0   1   0/0Michael Kesselring D  20:03   0  0    0   2   1   0   0   1   0/0Vladislav Kolyachonok D  15:57   0  0   -1   0   2   0   0   0   0/0Mikhail Sergachev D  28:25   0  0    0   2   1   2   0   0   0/0Juuso Valimaki D  21:12   0  0    0   1   2   2   1   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  24  12   6  16 25/44
+                                        56.8%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKarel Vejmelka G  58:11   3  30/33  15/16 14/16   1/1     0
+              .909   .938  .875 1.000 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  11:57   0  0    0   1   0   0   0   0   0/0Jesper Bratt L  17:33   0  1    0   4   0   0   0   0   0/0Paul Cotter C  14:03   0  0    1   1   0   2   0   0   0/1Erik Haula L  15:50   0  0    1   1   0   0   0   0  5/12Nico Hischier C  19:25   1  1    0   5   2   0   0   0 10/19Jack Hughes C  21:08   0  1    0   3   1   0   0   0   1/2Curtis Lazar C  12:27   0  0    0   1   0   0   0   0   3/8Timo Meier R  17:07   0  0    0   3   1   0   0   0   0/0Dawson Mercer C  13:56   0  0    0   2   0   0   2   1   0/1Stefan Noesen R  14:56   1  0    1   2   1   0   0   1   0/0Ondrej Palat L  11:38   0  0    0   2   0   0   0   0   0/0Tomas Tatar L  11:24   0  0    0   1   0   2   0   3   0/1Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  14:09   1  1    1   1   1   0   0   1   0/0Brenden Dillon D  17:44   0  0    0   0   2   0   0   0   0/0Dougie Hamilton D  23:06   0  0    0   4   0   2   0   2   0/0Johnathan Kovacevic D  20:01   0  0    0   0   0   2   0   0   0/0Simon Nemec D  18:25   0  0    1   1   0   0   0   0   0/0Jonas Siegenthaler D  17:11   0  0    0   1   1   0   1   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       33   9   8   3  10 19/44
+                                        43.2%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  60:00   0  20/20  16/16   2/2   2/2     0
+             1.000  1.000 1.000 1.000
+Utah
+Hockey Club3-1-0Final0 - 3New Jersey
+Devils4-1-0
+Utah
+Hockey Club3-1-0
+Final0 - 3
+New Jersey
+Devils4-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+UTA   0  0  0    0  
+NJD   0  2  1    3
+1st Period: ShowHide
+P1  11:37 
+Ian Cole (UTA) interference against Dougie Hamilton (2 minutes)
+   0-0
+P1  08:40 
+Johnathan Kovacevic (NJD) tripping against Barrett Hayton (2 minutes)
+   0-0
+P1  00:49 
+Dougie Hamilton (NJD) roughing against Logan Cooley (2 minutes)
+   0-0
+P1  00:29 
+Mikhail Sergachev (UTA) tripping against Nico Hischier (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:46 
+Seamus Casey (NJD) scores power-play goal on wrist shot past Karel Vejmelka, assisted by Nico Hischier
+   0-1
+P2  16:48 
+Ian Cole (UTA) high-sticking against Nico Hischier (2 minutes)
+   0-1
+P2  11:47 
+Stefan Noesen (NJD) scores on backhand shot past Karel Vejmelka, assisted by Seamus Casey
+   0-2
+P2  11:17 
+Tomas Tatar (NJD) holding against Mikhail Sergachev (2 minutes)
+   0-2
+P2  05:48 
+UTA penalty, too many men on the ice (2 minutes), served by Liam O'Brien
+   0-2
+P2  00:17 
+Lawson Crouse (UTA) roughing against Dougie Hamilton (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  15:41 
+Paul Cotter (NJD) interference against Kevin Stenlund (2 minutes)
+   0-2
+P3  11:05 
+Juuso Valimaki (UTA) high-sticking against Tomas Tatar (2 minutes)
+   0-2
+P3  09:47 
+Nico Hischier (NJD) scores power-play goal on snap shot past Karel Vejmelka, assisted by Jack Hughes and Jesper Bratt
+   0-3
+P3  02:31 
+Josh Doan (UTA) hooking against Johnathan Kovacevic (2 minutes)
+   0-3
+1st Period: ShowHide
+P1  11:37 
+Ian Cole (UTA) interference against Dougie Hamilton (2 minutes)
+   0-0
+P1  08:40 
+Johnathan Kovacevic (NJD) tripping against Barrett Hayton (2 minutes)
+   0-0
+P1  00:49 
+Dougie Hamilton (NJD) roughing against Logan Cooley (2 minutes)
+   0-0
+P1  00:29 
+Mikhail Sergachev (UTA) tripping against Nico Hischier (2 minutes)
+   0-0
+P1  11:37 
+Ian Cole (UTA) interference against Dougie Hamilton (2 minutes)
+   0-0
+P1  08:40 
+Johnathan Kovacevic (NJD) tripping against Barrett Hayton (2 minutes)
+   0-0
+P1  00:49 
+Dougie Hamilton (NJD) roughing against Logan Cooley (2 minutes)
+   0-0
+P1  00:29 
+Mikhail Sergachev (UTA) tripping against Nico Hischier (2 minutes)
+   0-0
+P1  11:37
+Ian Cole (UTA) interference against Dougie Hamilton (2 minutes)
+0-0
+P1  08:40
+Johnathan Kovacevic (NJD) tripping against Barrett Hayton (2 minutes)
+0-0
+P1  00:49
+Dougie Hamilton (NJD) roughing against Logan Cooley (2 minutes)
+0-0
+P1  00:29
+Mikhail Sergachev (UTA) tripping against Nico Hischier (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  18:46 
+Seamus Casey (NJD) scores power-play goal on wrist shot past Karel Vejmelka, assisted by Nico Hischier
+   0-1
+P2  16:48 
+Ian Cole (UTA) high-sticking against Nico Hischier (2 minutes)
+   0-1
+P2  11:47 
+Stefan Noesen (NJD) scores on backhand shot past Karel Vejmelka, assisted by Seamus Casey
+   0-2
+P2  11:17 
+Tomas Tatar (NJD) holding against Mikhail Sergachev (2 minutes)
+   0-2
+P2  05:48 
+UTA penalty, too many men on the ice (2 minutes), served by Liam O'Brien
+   0-2
+P2  00:17 
+Lawson Crouse (UTA) roughing against Dougie Hamilton (2 minutes)
+   0-2
+P2  18:46 
+Seamus Casey (NJD) scores power-play goal on wrist shot past Karel Vejmelka, assisted by Nico Hischier
+   0-1
+P2  16:48 
+Ian Cole (UTA) high-sticking against Nico Hischier (2 minutes)
+   0-1
+P2  11:47 
+Stefan Noesen (NJD) scores on backhand shot past Karel Vejmelka, assisted by Seamus Casey
+   0-2
+P2  11:17 
+Tomas Tatar (NJD) holding against Mikhail Sergachev (2 minutes)
+   0-2
+P2  05:48 
+UTA penalty, too many men on the ice (2 minutes), served by Liam O'Brien
+   0-2
+P2  00:17 
+Lawson Crouse (UTA) roughing against Dougie Hamilton (2 minutes)
+   0-2
+P2  18:46
+Seamus Casey (NJD) scores power-play goal on wrist shot past Karel Vejmelka, assisted by Nico Hischier
+0-1
+P2  16:48
+Ian Cole (UTA) high-sticking against Nico Hischier (2 minutes)
+0-1
+P2  11:47
+Stefan Noesen (NJD) scores on backhand shot past Karel Vejmelka, assisted by Seamus Casey
+0-2
+P2  11:17
+Tomas Tatar (NJD) holding against Mikhail Sergachev (2 minutes)
+0-2
+P2  05:48
+UTA penalty, too many men on the ice (2 minutes), served by Liam O'Brien
+0-2
+P2  00:17
+Lawson Crouse (UTA) roughing against Dougie Hamilton (2 minutes)
+0-2
+3rd Period: ShowHide
+P3  15:41 
+Paul Cotter (NJD) interference against Kevin Stenlund (2 minutes)
+   0-2
+P3  11:05 
+Juuso Valimaki (UTA) high-sticking against Tomas Tatar (2 minutes)
+   0-2
+P3  09:47 
+Nico Hischier (NJD) scores power-play goal on snap shot past Karel Vejmelka, assisted by Jack Hughes and Jesper Bratt
+   0-3
+P3  02:31 
+Josh Doan (UTA) hooking against Johnathan Kovacevic (2 minutes)
+   0-3
+P3  15:41 
+Paul Cotter (NJD) interference against Kevin Stenlund (2 minutes)
+   0-2
+P3  11:05 
+Juuso Valimaki (UTA) high-sticking against Tomas Tatar (2 minutes)
+   0-2
+P3  09:47 
+Nico Hischier (NJD) scores power-play goal on snap shot past Karel Vejmelka, assisted by Jack Hughes and Jesper Bratt
+   0-3
+P3  02:31 
+Josh Doan (UTA) hooking against Johnathan Kovacevic (2 minutes)
+   0-3
+P3  15:41
+Paul Cotter (NJD) interference against Kevin Stenlund (2 minutes)
+0-2
+P3  11:05
+Juuso Valimaki (UTA) high-sticking against Tomas Tatar (2 minutes)
+0-2
+P3  09:47
+Nico Hischier (NJD) scores power-play goal on snap shot past Karel Vejmelka, assisted by Jack Hughes and Jesper Bratt
+0-3
+P3  02:31
+Josh Doan (UTA) hooking against Johnathan Kovacevic (2 minutes)
+0-3
+Box Score:
+ 
+Back to Top
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  15:26   0  0    0   3   1   0   0   1   2/4Lawson Crouse L  14:19   0  0    0   3   1   2   0   2   0/0Josh Doan R  15:46   0  0    0   0   1   2   1   0   2/3Dylan Guenther R  13:48   0  0    0   1   0   0   1   2   0/0Barrett Hayton C  14:37   0  0    0   1   1   0   0   0  6/11Clayton Keller R  16:59   0  0    0   3   1   0   0   1   0/0Alex Kerfoot C  15:31   0  0    0   3   1   0   0   2   5/6Matias Maccelli L  13:18   0  0   -1   0   1   0   0   1   0/0Jack McBain C  11:59   0  0    0   0   0   0   1   1   0/1Liam O'Brien C  08:52   0  0   -1   0   1   0   0   2   0/0Nick Schmaltz C  17:52   0  0    0   0   1   0   1   2   0/2Kevin Stenlund C  17:31   0  0   -1   0   3   0   1   0 10/17Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:11   0  0   -1   0   4   4   0   0   0/0Sean Durzi D  09:09   0  0    0   1   2   0   0   1   0/0Michael Kesselring D  20:03   0  0    0   2   1   0   0   1   0/0Vladislav Kolyachonok D  15:57   0  0   -1   0   2   0   0   0   0/0Mikhail Sergachev D  28:25   0  0    0   2   1   2   0   0   0/0Juuso Valimaki D  21:12   0  0    0   1   2   2   1   0   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  24  12   6  16 25/44
+                                        56.8%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKarel Vejmelka G  58:11   3  30/33  15/16 14/16   1/1     0
+              .909   .938  .875 1.000 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  11:57   0  0    0   1   0   0   0   0   0/0Jesper Bratt L  17:33   0  1    0   4   0   0   0   0   0/0Paul Cotter C  14:03   0  0    1   1   0   2   0   0   0/1Erik Haula L  15:50   0  0    1   1   0   0   0   0  5/12Nico Hischier C  19:25   1  1    0   5   2   0   0   0 10/19Jack Hughes C  21:08   0  1    0   3   1   0   0   0   1/2Curtis Lazar C  12:27   0  0    0   1   0   0   0   0   3/8Timo Meier R  17:07   0  0    0   3   1   0   0   0   0/0Dawson Mercer C  13:56   0  0    0   2   0   0   2   1   0/1Stefan Noesen R  14:56   1  0    1   2   1   0   0   1   0/0Ondrej Palat L  11:38   0  0    0   2   0   0   0   0   0/0Tomas Tatar L  11:24   0  0    0   1   0   2   0   3   0/1Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  14:09   1  1    1   1   1   0   0   1   0/0Brenden Dillon D  17:44   0  0    0   0   2   0   0   0   0/0Dougie Hamilton D  23:06   0  0    0   4   0   2   0   2   0/0Johnathan Kovacevic D  20:01   0  0    0   0   0   2   0   0   0/0Simon Nemec D  18:25   0  0    1   1   0   0   0   0   0/0Jonas Siegenthaler D  17:11   0  0    0   1   1   0   1   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       33   9   8   3  10 19/44
+                                        43.2%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  60:00   0  20/20  16/16   2/2   2/2     0
+             1.000  1.000 1.000 1.000
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  15:26   0  0    0   3   1   0   0   1   2/4Lawson Crouse L  14:19   0  0    0   3   1   2   0   2   0/0Josh Doan R  15:46   0  0    0   0   1   2   1   0   2/3Dylan Guenther R  13:48   0  0    0   1   0   0   1   2   0/0Barrett Hayton C  14:37   0  0    0   1   1   0   0   0  6/11Clayton Keller R  16:59   0  0    0   3   1   0   0   1   0/0Alex Kerfoot C  15:31   0  0    0   3   1   0   0   2   5/6Matias Maccelli L  13:18   0  0   -1   0   1   0   0   1   0/0Jack McBain C  11:59   0  0    0   0   0   0   1   1   0/1Liam O'Brien C  08:52   0  0   -1   0   1   0   0   2   0/0Nick Schmaltz C  17:52   0  0    0   0   1   0   1   2   0/2Kevin Stenlund C  17:31   0  0   -1   0   3   0   1   0 10/17
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Logan Cooley C
+15:26   0  0    0   3   1   0   0   1   2/4
+Lawson Crouse L
+14:19   0  0    0   3   1   2   0   2   0/0
+Josh Doan R
+15:46   0  0    0   0   1   2   1   0   2/3
+Dylan Guenther R
+13:48   0  0    0   1   0   0   1   2   0/0
+Barrett Hayton C
+14:37   0  0    0   1   1   0   0   0  6/11
+Clayton Keller R
+16:59   0  0    0   3   1   0   0   1   0/0
+Alex Kerfoot C
+15:31   0  0    0   3   1   0   0   2   5/6
+Matias Maccelli L
+13:18   0  0   -1   0   1   0   0   1   0/0
+Jack McBain C
+11:59   0  0    0   0   0   0   1   1   0/1
+Liam O'Brien C
+08:52   0  0   -1   0   1   0   0   2   0/0
+Nick Schmaltz C
+17:52   0  0    0   0   1   0   1   2   0/2
+Kevin Stenlund C
+17:31   0  0   -1   0   3   0   1   0 10/17
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIan Cole D  18:11   0  0   -1   0   4   4   0   0   0/0Sean Durzi D  09:09   0  0    0   1   2   0   0   1   0/0Michael Kesselring D  20:03   0  0    0   2   1   0   0   1   0/0Vladislav Kolyachonok D  15:57   0  0   -1   0   2   0   0   0   0/0Mikhail Sergachev D  28:25   0  0    0   2   1   2   0   0   0/0Juuso Valimaki D  21:12   0  0    0   1   2   2   1   0   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ian Cole D
+18:11   0  0   -1   0   4   4   0   0   0/0
+Sean Durzi D
+09:09   0  0    0   1   2   0   0   1   0/0
+Michael Kesselring D
+20:03   0  0    0   2   1   0   0   1   0/0
+Vladislav Kolyachonok D
+15:57   0  0   -1   0   2   0   0   0   0/0
+Mikhail Sergachev D
+28:25   0  0    0   2   1   2   0   0   0/0
+Juuso Valimaki D
+21:12   0  0    0   1   2   2   1   0   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       20  24  12   6  16 25/44
+                                        56.8%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKarel Vejmelka G  58:11   3  30/33  15/16 14/16   1/1     0
+              .909   .938  .875 1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Karel Vejmelka G
+58:11   3  30/33  15/16 14/16   1/1     0
+              .909   .938  .875 1.000
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  11:57   0  0    0   1   0   0   0   0   0/0Jesper Bratt L  17:33   0  1    0   4   0   0   0   0   0/0Paul Cotter C  14:03   0  0    1   1   0   2   0   0   0/1Erik Haula L  15:50   0  0    1   1   0   0   0   0  5/12Nico Hischier C  19:25   1  1    0   5   2   0   0   0 10/19Jack Hughes C  21:08   0  1    0   3   1   0   0   0   1/2Curtis Lazar C  12:27   0  0    0   1   0   0   0   0   3/8Timo Meier R  17:07   0  0    0   3   1   0   0   0   0/0Dawson Mercer C  13:56   0  0    0   2   0   0   2   1   0/1Stefan Noesen R  14:56   1  0    1   2   1   0   0   1   0/0Ondrej Palat L  11:38   0  0    0   2   0   0   0   0   0/0Tomas Tatar L  11:24   0  0    0   1   0   2   0   3   0/1
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+11:57   0  0    0   1   0   0   0   0   0/0
+Jesper Bratt L
+17:33   0  1    0   4   0   0   0   0   0/0
+Paul Cotter C
+14:03   0  0    1   1   0   2   0   0   0/1
+Erik Haula L
+15:50   0  0    1   1   0   0   0   0  5/12
+Nico Hischier C
+19:25   1  1    0   5   2   0   0   0 10/19
+Jack Hughes C
+21:08   0  1    0   3   1   0   0   0   1/2
+Curtis Lazar C
+12:27   0  0    0   1   0   0   0   0   3/8
+Timo Meier R
+17:07   0  0    0   3   1   0   0   0   0/0
+Dawson Mercer C
+13:56   0  0    0   2   0   0   2   1   0/1
+Stefan Noesen R
+14:56   1  0    1   2   1   0   0   1   0/0
+Ondrej Palat L
+11:38   0  0    0   2   0   0   0   0   0/0
+Tomas Tatar L
+11:24   0  0    0   1   0   2   0   3   0/1
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  14:09   1  1    1   1   1   0   0   1   0/0Brenden Dillon D  17:44   0  0    0   0   2   0   0   0   0/0Dougie Hamilton D  23:06   0  0    0   4   0   2   0   2   0/0Johnathan Kovacevic D  20:01   0  0    0   0   0   2   0   0   0/0Simon Nemec D  18:25   0  0    1   1   0   0   0   0   0/0Jonas Siegenthaler D  17:11   0  0    0   1   1   0   1   2   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Seamus Casey D
+14:09   1  1    1   1   1   0   0   1   0/0
+Brenden Dillon D
+17:44   0  0    0   0   2   0   0   0   0/0
+Dougie Hamilton D
+23:06   0  0    0   4   0   2   0   2   0/0
+Johnathan Kovacevic D
+20:01   0  0    0   0   0   2   0   0   0/0
+Simon Nemec D
+18:25   0  0    1   1   0   0   0   0   0/0
+Jonas Siegenthaler D
+17:11   0  0    0   1   1   0   1   2   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       33   9   8   3  10 19/44
+                                        43.2%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Allen G  60:00   0  20/20  16/16   2/2   2/2     0
+             1.000  1.000 1.000 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jake Allen G
+60:00   0  20/20  16/16   2/2   2/2     0
+             1.000  1.000 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

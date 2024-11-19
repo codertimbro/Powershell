@@ -1,0 +1,529 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Montreal
+Canadiens2-3-1Final/SO3 - 4New York
+Islanders2-1-2
+Shootout Goals & Penalties Box Score
+      1  2  3   SO    T  
+-----------------------  
+MTL   1  1  1    0    3  
+NYI   2  0  1    1    4
+Shootout:
+
+  0-0  
+Mathew Barzal backhand shot hits left post
+Cole Caufield wrist shot saved by Semyon Varlamov
+  0-0  
+
+
+  0-0  
+Maxim Tsyplakov misses backhand shot wide right
+Nick Suzuki wrist shot saved by Semyon Varlamov
+  0-0  
+
+
+  0-0  
+Bo Horvat wrist shot saved by Cayden Primeau
+Lane Hutson wrist shot saved by Semyon Varlamov
+  0-0  
+
+
+  0-1  
+Kyle Palmieri scores on wrist shot
+Oliver Kapanen scores on snap shot
+  1-1  
+
+
+  1-2  
+Simon Holmstrom scores on wrist shot
+Emil Heineman scores on wrist shot
+  2-2  
+
+
+  2-2  
+Jean-Gabriel Pageau wrist shot saved by Cayden Primeau
+Alex Newhook wrist shot saved by Semyon Varlamov
+  2-2  
+
+
+  2-2  
+Brock Nelson wrist shot saved by Cayden Primeau
+Mike Matheson misses wrist shot wide left
+  2-2  
+
+
+  2-2  
+Alexander Romanov wrist shot saved by Cayden Primeau
+Juraj Slafkovsky backhand shot saved by Semyon Varlamov
+  2-2  
+
+
+  2-3  
+Noah Dobson scores on wrist shot
+Logan Mailloux misses backhand shot wide left
+  2-3  
+
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  07:11 
+Lane Hutson (MTL) hooking against Anthony Duclair (2 minutes)
+   0-0
+P1  05:28 
+Bo Horvat (NYI) scores power-play goal on snap shot past Cayden Primeau, assisted by Mathew Barzal and Noah Dobson
+   0-1
+P1  03:02 
+Kyle Palmieri (NYI) scores on wrist shot past Cayden Primeau, assisted by Noah Dobson and Maxim Tsyplakov
+   0-2
+P1  00:09 
+Maxim Tsyplakov (NYI) high-sticking against Oliver Kapanen (2 minutes)
+   0-2
+P1  00:04 
+Cole Caufield (MTL) scores power-play goal on snap shot past Semyon Varlamov, assisted by Mike Matheson and Juraj Slafkovsky
+   1-2
+2nd Period: ShowHide
+P2  19:01 
+Logan Mailloux (MTL) scores on wrist shot past Semyon Varlamov, assisted by Jake Evans and Josh Anderson
+   2-2
+P2  01:48 
+Kirby Dach (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  18:14 
+Logan Mailloux (MTL) tripping against Mathew Barzal (2 minutes)
+   2-2
+P3  13:13 
+Joel Armia (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+P3  07:13 
+Justin Barron (MTL) high-sticking against Jean-Gabriel Pageau (2 minutes)
+   2-2
+P3  04:36 
+Anders Lee (NYI) scores on backhand shot past Cayden Primeau, assisted by Jean-Gabriel Pageau and Adam Pelech
+   2-3
+P3  02:10 
+Cole Caufield (MTL) scores on wrist shot past Semyon Varlamov, assisted by Juraj Slafkovsky and Nick Suzuki
+   3-3
+Overtime: ShowHide
+OT  03:33 
+Kirby Dach (MTL) high-sticking against Kyle Palmieri (2 minutes)
+   3-3
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:45   0  1    1   0   4   0   1   1   0/0Joel Armia R  16:00   0  0   -1   3   0   2   0   2   0/0Cole Caufield R  14:36   2  0    0   3   0   0   0   2   1/1Kirby Dach C  13:47   0  0   -1   2   2   4   1   1   2/4Christian Dvorak C  16:36   0  0    0   1   0   0   0   1  6/13Jake Evans C  19:14   0  1    1   3   1   0   0   2  9/20Brendan Gallagher R  12:50   0  0    1   2   0   0   1   0   0/0Emil Heineman L  10:36   0  0    0   1   0   0   1   0   0/0Oliver Kapanen C  11:32   0  0    0   1   1   0   0   1   3/4Alex Newhook C  12:14   0  0   -1   1   0   0   0   0   2/4Juraj Slafkovsky L  15:57   0  2    0   1   2   0   0   0   0/0Nick Suzuki C  18:51   0  1    0   2   0   0   0   0   3/9Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  22:21   0  0   -1   1   0   2   0   0   0/0Lane Hutson D  24:10   0  0    2   1   2   2   0   2   0/0Logan Mailloux D  19:03   1  0    1   1   1   2   0   1   0/0Mike Matheson D  28:10   0  1    0   1   5   0   1   2   0/0David Savard D  20:35   0  0   -1   0   5   0   0   1   0/0Jayden Struble D  14:33   0  0   -1   0   3   0   0   0   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       24  26  12   5  16 26/55
+                                        47.3%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  65:00   3  33/36  26/28   7/8   0/0     0
+              .917   .929  .875 
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  26:29   0  1    0   2   1   0   1   2   0/0Casey Cizikas C  09:46   0  0    0   2   1   0   0   1   2/2Anthony Duclair L  15:07   0  0    0   1   0   0   0   2   0/0Julien Gauthier R  07:42   0  0    0   0   0   0   0   0   0/0Simon Holmstrom R  14:57   0  0    0   0   1   0   0   1   0/0Bo Horvat C  25:47   1  0    0   3   0   0   2   0  9/17Anders Lee L  18:25   1  0    1   5   1   0   0   0   0/0Kyle MacLean C  08:13   0  0    0   0   0   0   0   0   3/7Brock Nelson C  21:08   0  0   -1   4   0   0   1   1  7/14Jean-Gabriel Pageau C  16:41   0  1    1   2   0   0   0   0  8/15Kyle Palmieri C  20:17   1  0    0   3   1   0   1   0   0/0Maxim Tsyplakov R  17:41   0  1   -1   1   0   2   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  29:24   0  2    2   7   2   0   1   1   0/0Scott Mayfield D  14:33   0  0   -1   1   0   0   0   1   0/0Adam Pelech D  17:39   0  1   -1   1   1   0   0   1   0/0Ryan Pulock D  18:57   0  0   -1   2   0   0   0   1   0/0Mike Reilly D  15:14   0  0   -1   1   1   0   0   1   0/0Alexander Romanov D  21:12   0  0    2   1   1   0   0   1   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       36  10   2   6  13 29/55
+                                        52.7%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSemyon Varlamov G  64:16   3  21/24  19/21   0/1   2/2     0
+              .875   .905  .000 1.000
+Montreal
+Canadiens2-3-1Final/SO3 - 4New York
+Islanders2-1-2
+Montreal
+Canadiens2-3-1
+Final/SO3 - 4
+New York
+Islanders2-1-2
+Shootout Goals & Penalties Box Score
+1  2  3   SO    T  
+-----------------------  
+MTL   1  1  1    0    3  
+NYI   2  0  1    1    4
+Shootout:
+0-0  
+Mathew Barzal backhand shot hits left post
+Cole Caufield wrist shot saved by Semyon Varlamov
+  0-0  
+
+
+  0-0  
+Maxim Tsyplakov misses backhand shot wide right
+Nick Suzuki wrist shot saved by Semyon Varlamov
+  0-0  
+
+
+  0-0  
+Bo Horvat wrist shot saved by Cayden Primeau
+Lane Hutson wrist shot saved by Semyon Varlamov
+  0-0  
+
+
+  0-1  
+Kyle Palmieri scores on wrist shot
+Oliver Kapanen scores on snap shot
+  1-1  
+
+
+  1-2  
+Simon Holmstrom scores on wrist shot
+Emil Heineman scores on wrist shot
+  2-2  
+
+
+  2-2  
+Jean-Gabriel Pageau wrist shot saved by Cayden Primeau
+Alex Newhook wrist shot saved by Semyon Varlamov
+  2-2  
+
+
+  2-2  
+Brock Nelson wrist shot saved by Cayden Primeau
+Mike Matheson misses wrist shot wide left
+  2-2  
+
+
+  2-2  
+Alexander Romanov wrist shot saved by Cayden Primeau
+Juraj Slafkovsky backhand shot saved by Semyon Varlamov
+  2-2  
+
+
+  2-3  
+Noah Dobson scores on wrist shot
+Logan Mailloux misses backhand shot wide left
+  2-3
+0-0
+Mathew Barzal backhand shot hits left post
+Cole Caufield wrist shot saved by Semyon Varlamov
+0-0
+0-0
+Maxim Tsyplakov misses backhand shot wide right
+Nick Suzuki wrist shot saved by Semyon Varlamov
+0-0
+0-0
+Bo Horvat wrist shot saved by Cayden Primeau
+Lane Hutson wrist shot saved by Semyon Varlamov
+0-0
+0-1
+Kyle Palmieri scores on wrist shot
+Oliver Kapanen scores on snap shot
+1-1
+1-2
+Simon Holmstrom scores on wrist shot
+Emil Heineman scores on wrist shot
+2-2
+2-2
+Jean-Gabriel Pageau wrist shot saved by Cayden Primeau
+Alex Newhook wrist shot saved by Semyon Varlamov
+2-2
+2-2
+Brock Nelson wrist shot saved by Cayden Primeau
+Mike Matheson misses wrist shot wide left
+2-2
+2-2
+Alexander Romanov wrist shot saved by Cayden Primeau
+Juraj Slafkovsky backhand shot saved by Semyon Varlamov
+2-2
+2-3
+Noah Dobson scores on wrist shot
+Logan Mailloux misses backhand shot wide left
+2-3
+1st Period: ShowHide
+P1  07:11 
+Lane Hutson (MTL) hooking against Anthony Duclair (2 minutes)
+   0-0
+P1  05:28 
+Bo Horvat (NYI) scores power-play goal on snap shot past Cayden Primeau, assisted by Mathew Barzal and Noah Dobson
+   0-1
+P1  03:02 
+Kyle Palmieri (NYI) scores on wrist shot past Cayden Primeau, assisted by Noah Dobson and Maxim Tsyplakov
+   0-2
+P1  00:09 
+Maxim Tsyplakov (NYI) high-sticking against Oliver Kapanen (2 minutes)
+   0-2
+P1  00:04 
+Cole Caufield (MTL) scores power-play goal on snap shot past Semyon Varlamov, assisted by Mike Matheson and Juraj Slafkovsky
+   1-2
+2nd Period: ShowHide
+P2  19:01 
+Logan Mailloux (MTL) scores on wrist shot past Semyon Varlamov, assisted by Jake Evans and Josh Anderson
+   2-2
+P2  01:48 
+Kirby Dach (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  18:14 
+Logan Mailloux (MTL) tripping against Mathew Barzal (2 minutes)
+   2-2
+P3  13:13 
+Joel Armia (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+P3  07:13 
+Justin Barron (MTL) high-sticking against Jean-Gabriel Pageau (2 minutes)
+   2-2
+P3  04:36 
+Anders Lee (NYI) scores on backhand shot past Cayden Primeau, assisted by Jean-Gabriel Pageau and Adam Pelech
+   2-3
+P3  02:10 
+Cole Caufield (MTL) scores on wrist shot past Semyon Varlamov, assisted by Juraj Slafkovsky and Nick Suzuki
+   3-3
+Overtime: ShowHide
+OT  03:33 
+Kirby Dach (MTL) high-sticking against Kyle Palmieri (2 minutes)
+   3-3
+1st Period: ShowHide
+P1  07:11 
+Lane Hutson (MTL) hooking against Anthony Duclair (2 minutes)
+   0-0
+P1  05:28 
+Bo Horvat (NYI) scores power-play goal on snap shot past Cayden Primeau, assisted by Mathew Barzal and Noah Dobson
+   0-1
+P1  03:02 
+Kyle Palmieri (NYI) scores on wrist shot past Cayden Primeau, assisted by Noah Dobson and Maxim Tsyplakov
+   0-2
+P1  00:09 
+Maxim Tsyplakov (NYI) high-sticking against Oliver Kapanen (2 minutes)
+   0-2
+P1  00:04 
+Cole Caufield (MTL) scores power-play goal on snap shot past Semyon Varlamov, assisted by Mike Matheson and Juraj Slafkovsky
+   1-2
+P1  07:11 
+Lane Hutson (MTL) hooking against Anthony Duclair (2 minutes)
+   0-0
+P1  05:28 
+Bo Horvat (NYI) scores power-play goal on snap shot past Cayden Primeau, assisted by Mathew Barzal and Noah Dobson
+   0-1
+P1  03:02 
+Kyle Palmieri (NYI) scores on wrist shot past Cayden Primeau, assisted by Noah Dobson and Maxim Tsyplakov
+   0-2
+P1  00:09 
+Maxim Tsyplakov (NYI) high-sticking against Oliver Kapanen (2 minutes)
+   0-2
+P1  00:04 
+Cole Caufield (MTL) scores power-play goal on snap shot past Semyon Varlamov, assisted by Mike Matheson and Juraj Slafkovsky
+   1-2
+P1  07:11
+Lane Hutson (MTL) hooking against Anthony Duclair (2 minutes)
+0-0
+P1  05:28
+Bo Horvat (NYI) scores power-play goal on snap shot past Cayden Primeau, assisted by Mathew Barzal and Noah Dobson
+0-1
+P1  03:02
+Kyle Palmieri (NYI) scores on wrist shot past Cayden Primeau, assisted by Noah Dobson and Maxim Tsyplakov
+0-2
+P1  00:09
+Maxim Tsyplakov (NYI) high-sticking against Oliver Kapanen (2 minutes)
+0-2
+P1  00:04
+Cole Caufield (MTL) scores power-play goal on snap shot past Semyon Varlamov, assisted by Mike Matheson and Juraj Slafkovsky
+1-2
+2nd Period: ShowHide
+P2  19:01 
+Logan Mailloux (MTL) scores on wrist shot past Semyon Varlamov, assisted by Jake Evans and Josh Anderson
+   2-2
+P2  01:48 
+Kirby Dach (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+P2  19:01 
+Logan Mailloux (MTL) scores on wrist shot past Semyon Varlamov, assisted by Jake Evans and Josh Anderson
+   2-2
+P2  01:48 
+Kirby Dach (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+P2  19:01
+Logan Mailloux (MTL) scores on wrist shot past Semyon Varlamov, assisted by Jake Evans and Josh Anderson
+2-2
+P2  01:48
+Kirby Dach (MTL) tripping against Kyle Palmieri (2 minutes)
+2-2
+3rd Period: ShowHide
+P3  18:14 
+Logan Mailloux (MTL) tripping against Mathew Barzal (2 minutes)
+   2-2
+P3  13:13 
+Joel Armia (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+P3  07:13 
+Justin Barron (MTL) high-sticking against Jean-Gabriel Pageau (2 minutes)
+   2-2
+P3  04:36 
+Anders Lee (NYI) scores on backhand shot past Cayden Primeau, assisted by Jean-Gabriel Pageau and Adam Pelech
+   2-3
+P3  02:10 
+Cole Caufield (MTL) scores on wrist shot past Semyon Varlamov, assisted by Juraj Slafkovsky and Nick Suzuki
+   3-3
+P3  18:14 
+Logan Mailloux (MTL) tripping against Mathew Barzal (2 minutes)
+   2-2
+P3  13:13 
+Joel Armia (MTL) tripping against Kyle Palmieri (2 minutes)
+   2-2
+P3  07:13 
+Justin Barron (MTL) high-sticking against Jean-Gabriel Pageau (2 minutes)
+   2-2
+P3  04:36 
+Anders Lee (NYI) scores on backhand shot past Cayden Primeau, assisted by Jean-Gabriel Pageau and Adam Pelech
+   2-3
+P3  02:10 
+Cole Caufield (MTL) scores on wrist shot past Semyon Varlamov, assisted by Juraj Slafkovsky and Nick Suzuki
+   3-3
+P3  18:14
+Logan Mailloux (MTL) tripping against Mathew Barzal (2 minutes)
+2-2
+P3  13:13
+Joel Armia (MTL) tripping against Kyle Palmieri (2 minutes)
+2-2
+P3  07:13
+Justin Barron (MTL) high-sticking against Jean-Gabriel Pageau (2 minutes)
+2-2
+P3  04:36
+Anders Lee (NYI) scores on backhand shot past Cayden Primeau, assisted by Jean-Gabriel Pageau and Adam Pelech
+2-3
+P3  02:10
+Cole Caufield (MTL) scores on wrist shot past Semyon Varlamov, assisted by Juraj Slafkovsky and Nick Suzuki
+3-3
+Overtime: ShowHide
+OT  03:33 
+Kirby Dach (MTL) high-sticking against Kyle Palmieri (2 minutes)
+   3-3
+OT  03:33 
+Kirby Dach (MTL) high-sticking against Kyle Palmieri (2 minutes)
+   3-3
+OT  03:33
+Kirby Dach (MTL) high-sticking against Kyle Palmieri (2 minutes)
+3-3
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:45   0  1    1   0   4   0   1   1   0/0Joel Armia R  16:00   0  0   -1   3   0   2   0   2   0/0Cole Caufield R  14:36   2  0    0   3   0   0   0   2   1/1Kirby Dach C  13:47   0  0   -1   2   2   4   1   1   2/4Christian Dvorak C  16:36   0  0    0   1   0   0   0   1  6/13Jake Evans C  19:14   0  1    1   3   1   0   0   2  9/20Brendan Gallagher R  12:50   0  0    1   2   0   0   1   0   0/0Emil Heineman L  10:36   0  0    0   1   0   0   1   0   0/0Oliver Kapanen C  11:32   0  0    0   1   1   0   0   1   3/4Alex Newhook C  12:14   0  0   -1   1   0   0   0   0   2/4Juraj Slafkovsky L  15:57   0  2    0   1   2   0   0   0   0/0Nick Suzuki C  18:51   0  1    0   2   0   0   0   0   3/9Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  22:21   0  0   -1   1   0   2   0   0   0/0Lane Hutson D  24:10   0  0    2   1   2   2   0   2   0/0Logan Mailloux D  19:03   1  0    1   1   1   2   0   1   0/0Mike Matheson D  28:10   0  1    0   1   5   0   1   2   0/0David Savard D  20:35   0  0   -1   0   5   0   0   1   0/0Jayden Struble D  14:33   0  0   -1   0   3   0   0   0   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       24  26  12   5  16 26/55
+                                        47.3%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  65:00   3  33/36  26/28   7/8   0/0     0
+              .917   .929  .875 
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  26:29   0  1    0   2   1   0   1   2   0/0Casey Cizikas C  09:46   0  0    0   2   1   0   0   1   2/2Anthony Duclair L  15:07   0  0    0   1   0   0   0   2   0/0Julien Gauthier R  07:42   0  0    0   0   0   0   0   0   0/0Simon Holmstrom R  14:57   0  0    0   0   1   0   0   1   0/0Bo Horvat C  25:47   1  0    0   3   0   0   2   0  9/17Anders Lee L  18:25   1  0    1   5   1   0   0   0   0/0Kyle MacLean C  08:13   0  0    0   0   0   0   0   0   3/7Brock Nelson C  21:08   0  0   -1   4   0   0   1   1  7/14Jean-Gabriel Pageau C  16:41   0  1    1   2   0   0   0   0  8/15Kyle Palmieri C  20:17   1  0    0   3   1   0   1   0   0/0Maxim Tsyplakov R  17:41   0  1   -1   1   0   2   0   0   0/0Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  29:24   0  2    2   7   2   0   1   1   0/0Scott Mayfield D  14:33   0  0   -1   1   0   0   0   1   0/0Adam Pelech D  17:39   0  1   -1   1   1   0   0   1   0/0Ryan Pulock D  18:57   0  0   -1   2   0   0   0   1   0/0Mike Reilly D  15:14   0  0   -1   1   1   0   0   1   0/0Alexander Romanov D  21:12   0  0    2   1   1   0   0   1   0/0Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       36  10   2   6  13 29/55
+                                        52.7%Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSemyon Varlamov G  64:16   3  21/24  19/21   0/1   2/2     0
+              .875   .905  .000 1.000
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:45   0  1    1   0   4   0   1   1   0/0Joel Armia R  16:00   0  0   -1   3   0   2   0   2   0/0Cole Caufield R  14:36   2  0    0   3   0   0   0   2   1/1Kirby Dach C  13:47   0  0   -1   2   2   4   1   1   2/4Christian Dvorak C  16:36   0  0    0   1   0   0   0   1  6/13Jake Evans C  19:14   0  1    1   3   1   0   0   2  9/20Brendan Gallagher R  12:50   0  0    1   2   0   0   1   0   0/0Emil Heineman L  10:36   0  0    0   1   0   0   1   0   0/0Oliver Kapanen C  11:32   0  0    0   1   1   0   0   1   3/4Alex Newhook C  12:14   0  0   -1   1   0   0   0   0   2/4Juraj Slafkovsky L  15:57   0  2    0   1   2   0   0   0   0/0Nick Suzuki C  18:51   0  1    0   2   0   0   0   0   3/9
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+15:45   0  1    1   0   4   0   1   1   0/0
+Joel Armia R
+16:00   0  0   -1   3   0   2   0   2   0/0
+Cole Caufield R
+14:36   2  0    0   3   0   0   0   2   1/1
+Kirby Dach C
+13:47   0  0   -1   2   2   4   1   1   2/4
+Christian Dvorak C
+16:36   0  0    0   1   0   0   0   1  6/13
+Jake Evans C
+19:14   0  1    1   3   1   0   0   2  9/20
+Brendan Gallagher R
+12:50   0  0    1   2   0   0   1   0   0/0
+Emil Heineman L
+10:36   0  0    0   1   0   0   1   0   0/0
+Oliver Kapanen C
+11:32   0  0    0   1   1   0   0   1   3/4
+Alex Newhook C
+12:14   0  0   -1   1   0   0   0   0   2/4
+Juraj Slafkovsky L
+15:57   0  2    0   1   2   0   0   0   0/0
+Nick Suzuki C
+18:51   0  1    0   2   0   0   0   0   3/9
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  22:21   0  0   -1   1   0   2   0   0   0/0Lane Hutson D  24:10   0  0    2   1   2   2   0   2   0/0Logan Mailloux D  19:03   1  0    1   1   1   2   0   1   0/0Mike Matheson D  28:10   0  1    0   1   5   0   1   2   0/0David Savard D  20:35   0  0   -1   0   5   0   0   1   0/0Jayden Struble D  14:33   0  0   -1   0   3   0   0   0   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Justin Barron D
+22:21   0  0   -1   1   0   2   0   0   0/0
+Lane Hutson D
+24:10   0  0    2   1   2   2   0   2   0/0
+Logan Mailloux D
+19:03   1  0    1   1   1   2   0   1   0/0
+Mike Matheson D
+28:10   0  1    0   1   5   0   1   2   0/0
+David Savard D
+20:35   0  0   -1   0   5   0   0   1   0/0
+Jayden Struble D
+14:33   0  0   -1   0   3   0   0   0   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       24  26  12   5  16 26/55
+                                        47.3%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  65:00   3  33/36  26/28   7/8   0/0     0
+              .917   .929  .875
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cayden Primeau G
+65:00   3  33/36  26/28   7/8   0/0     0
+              .917   .929  .875
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Barzal C  26:29   0  1    0   2   1   0   1   2   0/0Casey Cizikas C  09:46   0  0    0   2   1   0   0   1   2/2Anthony Duclair L  15:07   0  0    0   1   0   0   0   2   0/0Julien Gauthier R  07:42   0  0    0   0   0   0   0   0   0/0Simon Holmstrom R  14:57   0  0    0   0   1   0   0   1   0/0Bo Horvat C  25:47   1  0    0   3   0   0   2   0  9/17Anders Lee L  18:25   1  0    1   5   1   0   0   0   0/0Kyle MacLean C  08:13   0  0    0   0   0   0   0   0   3/7Brock Nelson C  21:08   0  0   -1   4   0   0   1   1  7/14Jean-Gabriel Pageau C  16:41   0  1    1   2   0   0   0   0  8/15Kyle Palmieri C  20:17   1  0    0   3   1   0   1   0   0/0Maxim Tsyplakov R  17:41   0  1   -1   1   0   2   0   0   0/0
+Islanders Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Barzal C
+26:29   0  1    0   2   1   0   1   2   0/0
+Casey Cizikas C
+09:46   0  0    0   2   1   0   0   1   2/2
+Anthony Duclair L
+15:07   0  0    0   1   0   0   0   2   0/0
+Julien Gauthier R
+07:42   0  0    0   0   0   0   0   0   0/0
+Simon Holmstrom R
+14:57   0  0    0   0   1   0   0   1   0/0
+Bo Horvat C
+25:47   1  0    0   3   0   0   2   0  9/17
+Anders Lee L
+18:25   1  0    1   5   1   0   0   0   0/0
+Kyle MacLean C
+08:13   0  0    0   0   0   0   0   0   3/7
+Brock Nelson C
+21:08   0  0   -1   4   0   0   1   1  7/14
+Jean-Gabriel Pageau C
+16:41   0  1    1   2   0   0   0   0  8/15
+Kyle Palmieri C
+20:17   1  0    0   3   1   0   1   0   0/0
+Maxim Tsyplakov R
+17:41   0  1   -1   1   0   2   0   0   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoah Dobson D  29:24   0  2    2   7   2   0   1   1   0/0Scott Mayfield D  14:33   0  0   -1   1   0   0   0   1   0/0Adam Pelech D  17:39   0  1   -1   1   1   0   0   1   0/0Ryan Pulock D  18:57   0  0   -1   2   0   0   0   1   0/0Mike Reilly D  15:14   0  0   -1   1   1   0   0   1   0/0Alexander Romanov D  21:12   0  0    2   1   1   0   0   1   0/0
+Islanders Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noah Dobson D
+29:24   0  2    2   7   2   0   1   1   0/0
+Scott Mayfield D
+14:33   0  0   -1   1   0   0   0   1   0/0
+Adam Pelech D
+17:39   0  1   -1   1   1   0   0   1   0/0
+Ryan Pulock D
+18:57   0  0   -1   2   0   0   0   1   0/0
+Mike Reilly D
+15:14   0  0   -1   1   1   0   0   1   0/0
+Alexander Romanov D
+21:12   0  0    2   1   1   0   0   1   0/0
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       36  10   2   6  13 29/55
+                                        52.7%
+Islanders Totals:
+          G  A        S   B  PM  TK  GV    FO
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSemyon Varlamov G  64:16   3  21/24  19/21   0/1   2/2     0
+              .875   .905  .000 1.000
+Islanders Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Semyon Varlamov G
+64:16   3  21/24  19/21   0/1   2/2     0
+              .875   .905  .000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

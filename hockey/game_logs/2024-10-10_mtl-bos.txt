@@ -1,0 +1,502 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Montreal
+Canadiens1-1-0Final4 - 6Boston
+Bruins1-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+MTL   2  0  2    4  
+BOS   3  2  1    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  19:36 
+Cayden Primeau (MTL) tripping against Brad Marchand (2 minutes), served by Cole Caufield
+   0-0
+P1  13:24 
+Nikita Zadorov (BOS) holding against Kirby Dach (2 minutes)
+   0-0
+P1  11:34 
+Brendan Gallagher (MTL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Joel Armia and Lane Hutson
+   1-0
+P1  09:02 
+Joel Armia (MTL) tripping against John Beecher (2 minutes)
+   1-0
+P1  08:56 
+Charlie McAvoy (BOS) scores power-play goal on wrist shot past Cayden Primeau, assisted by Brad Marchand and Elias Lindholm
+   1-1
+P1  07:42 
+Cole Caufield (MTL) scores on wrist shot past Jeremy Swayman, assisted by Kaiden Guhle and Lane Hutson
+   2-1
+P1  06:36 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Nikita Zadorov and Cole Koepke
+   2-2
+P1  05:34 
+Trent Frederic (BOS) hooking against Juraj Slafkovsky (2 minutes)
+   2-2
+P1  01:37 
+Elias Lindholm (BOS) scores on tip-in past Cayden Primeau, assisted by Nikita Zadorov and David Pastrnak
+   2-3
+2nd Period: ShowHide
+P2  16:04 
+Lane Hutson (MTL) holding against Charlie Coyle (2 minutes)
+   2-3
+P2  10:22 
+Charlie Coyle (BOS) high-sticking against Joel Armia (2 minutes)
+   2-3
+P2  08:53 
+Mike Matheson (MTL) tripping against Brad Marchand (2 minutes)
+   2-3
+P2  04:04 
+David Pastrnak (BOS) scores on slap shot past Cayden Primeau, assisted by Pavel Zacha and Elias Lindholm
+   2-4
+P2  03:09 
+Cole Koepke (BOS) scores on poke past Cayden Primeau, assisted by John Beecher and Brandon Carlo
+   2-5
+P2  01:59 
+Charlie McAvoy (BOS) tripping against Nick Suzuki (2 minutes)
+   2-5
+3rd Period: ShowHide
+P3  15:54 
+Cole Caufield (MTL) hooking against Hampus Lindholm (2 minutes)
+   2-5
+P3  13:25 
+Charlie McAvoy (BOS) delaying game (2 minutes)
+   2-5
+P3  10:55 
+Josh Anderson (MTL) scores on tip-in past Jeremy Swayman, assisted by Kaiden Guhle and Oliver Kapanen
+   3-5
+P3  04:17 
+Brendan Gallagher (MTL) scores on snap shot past Jeremy Swayman, assisted by Jake Evans and Joel Armia
+   4-5
+P3  04:00 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Cole Koepke and Brandon Carlo
+   4-6
+P3  02:55 
+Brad Marchand (BOS) delaying game - puck over glass (2 minutes)
+   4-6
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:18   1  0    1   2   0   0   0   0   0/0Joel Armia R  14:41   0  2   -2   2   0   2   0   0   0/0Alex Barré-Boulet C  09:58   0  0   -2   0   0   0   0   0   0/0Cole Caufield R  20:02   1  0    0   3   0   2   0   1   0/0Kirby Dach C  17:23   0  0   -2   2   1   0   0   1   1/3Christian Dvorak C  13:09   0  0    0   2   2   0   1   1  6/13Jake Evans C  12:44   0  1    1   0   1   0   0   0  6/13Brendan Gallagher R  15:23   2  0    0   4   0   0   0   1   0/0Oliver Kapanen C  10:22   0  1    0   1   0   0   0   2   3/5Alex Newhook C  14:49   0  0   -2   0   1   0   0   2   3/9Juraj Slafkovsky L  20:37   0  0    1   1   1   0   0   0   0/0Nick Suzuki C  19:50   0  0   -1   2   0   0   0   0 14/23Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  15:58   0  0   -2   1   1   0   0   0   0/0Kaiden Guhle D  21:23   0  2    3   0   3   0   0   1   0/0Lane Hutson D  22:48   0  2    2   1   2   2   1   2   0/0Mike Matheson D  26:08   0  0   -2   1   3   2   4   2   0/0David Savard D  13:19   0  0   -2   1   0   0   0   1   0/0Arber Xhekaj D  10:51   0  0   -3   1   1   0   1   3   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       24  16   8   7  17 33/66
+                                        50.0%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  57:11   6  23/29  17/22   5/6   1/1     2
+              .793   .773  .833 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:38   0  1    3   1   0   0   0   1  5/10Justin Brazeau R  11:49   0  0   -1   1   1   0   0   0   1/2Charlie Coyle C  20:35   0  0   -2   0   4   2   0   2  5/13Trent Frederic C  13:31   0  0   -1   0   1   2   0   2   3/9Morgan Geekie C  15:23   0  0   -1   3   0   0   0   1   1/1Mark Kastelic C  10:43   2  0    3   3   3   0   0   1   5/6Cole Koepke L  07:20   1  2    3   2   0   0   0   0   0/0Elias Lindholm C  18:27   1  2    2   1   2   0   0   0  6/13Brad Marchand L  19:06   0  1   -1   3   2   2   0   1   0/1David Pastrnak R  16:54   1  1    1   6   1   0   0   2   0/0Riley Tufte L  09:21   0  0   -1   0   1   0   0   1   0/0Pavel Zacha C  19:16   0  1    1   2   0   0   1   1  7/11Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:13   0  2    1   0   0   0   0   2   0/0Hampus Lindholm D  23:02   0  0    1   3   2   0   0   0   0/0Charlie McAvoy D  22:56   1  0    1   3   1   4   1   0   0/0Andrew Peeke D  15:13   0  0    0   0   0   0   0   3   0/0Parker Wotherspoon D  12:56   0  0    0   1   0   0   1   0   0/0Nikita Zadorov D  18:47   0  2    1   0   2   2   0   0   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          6 12       29  20  12   3  17 33/66
+                                        50.0%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  60:00   4  20/24  16/19   4/5   0/0     0
+              .833   .842  .800
+Montreal
+Canadiens1-1-0Final4 - 6Boston
+Bruins1-1-0
+Montreal
+Canadiens1-1-0
+Final4 - 6
+Boston
+Bruins1-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+MTL   2  0  2    4  
+BOS   3  2  1    6
+1st Period: ShowHide
+P1  19:36 
+Cayden Primeau (MTL) tripping against Brad Marchand (2 minutes), served by Cole Caufield
+   0-0
+P1  13:24 
+Nikita Zadorov (BOS) holding against Kirby Dach (2 minutes)
+   0-0
+P1  11:34 
+Brendan Gallagher (MTL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Joel Armia and Lane Hutson
+   1-0
+P1  09:02 
+Joel Armia (MTL) tripping against John Beecher (2 minutes)
+   1-0
+P1  08:56 
+Charlie McAvoy (BOS) scores power-play goal on wrist shot past Cayden Primeau, assisted by Brad Marchand and Elias Lindholm
+   1-1
+P1  07:42 
+Cole Caufield (MTL) scores on wrist shot past Jeremy Swayman, assisted by Kaiden Guhle and Lane Hutson
+   2-1
+P1  06:36 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Nikita Zadorov and Cole Koepke
+   2-2
+P1  05:34 
+Trent Frederic (BOS) hooking against Juraj Slafkovsky (2 minutes)
+   2-2
+P1  01:37 
+Elias Lindholm (BOS) scores on tip-in past Cayden Primeau, assisted by Nikita Zadorov and David Pastrnak
+   2-3
+2nd Period: ShowHide
+P2  16:04 
+Lane Hutson (MTL) holding against Charlie Coyle (2 minutes)
+   2-3
+P2  10:22 
+Charlie Coyle (BOS) high-sticking against Joel Armia (2 minutes)
+   2-3
+P2  08:53 
+Mike Matheson (MTL) tripping against Brad Marchand (2 minutes)
+   2-3
+P2  04:04 
+David Pastrnak (BOS) scores on slap shot past Cayden Primeau, assisted by Pavel Zacha and Elias Lindholm
+   2-4
+P2  03:09 
+Cole Koepke (BOS) scores on poke past Cayden Primeau, assisted by John Beecher and Brandon Carlo
+   2-5
+P2  01:59 
+Charlie McAvoy (BOS) tripping against Nick Suzuki (2 minutes)
+   2-5
+3rd Period: ShowHide
+P3  15:54 
+Cole Caufield (MTL) hooking against Hampus Lindholm (2 minutes)
+   2-5
+P3  13:25 
+Charlie McAvoy (BOS) delaying game (2 minutes)
+   2-5
+P3  10:55 
+Josh Anderson (MTL) scores on tip-in past Jeremy Swayman, assisted by Kaiden Guhle and Oliver Kapanen
+   3-5
+P3  04:17 
+Brendan Gallagher (MTL) scores on snap shot past Jeremy Swayman, assisted by Jake Evans and Joel Armia
+   4-5
+P3  04:00 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Cole Koepke and Brandon Carlo
+   4-6
+P3  02:55 
+Brad Marchand (BOS) delaying game - puck over glass (2 minutes)
+   4-6
+1st Period: ShowHide
+P1  19:36 
+Cayden Primeau (MTL) tripping against Brad Marchand (2 minutes), served by Cole Caufield
+   0-0
+P1  13:24 
+Nikita Zadorov (BOS) holding against Kirby Dach (2 minutes)
+   0-0
+P1  11:34 
+Brendan Gallagher (MTL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Joel Armia and Lane Hutson
+   1-0
+P1  09:02 
+Joel Armia (MTL) tripping against John Beecher (2 minutes)
+   1-0
+P1  08:56 
+Charlie McAvoy (BOS) scores power-play goal on wrist shot past Cayden Primeau, assisted by Brad Marchand and Elias Lindholm
+   1-1
+P1  07:42 
+Cole Caufield (MTL) scores on wrist shot past Jeremy Swayman, assisted by Kaiden Guhle and Lane Hutson
+   2-1
+P1  06:36 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Nikita Zadorov and Cole Koepke
+   2-2
+P1  05:34 
+Trent Frederic (BOS) hooking against Juraj Slafkovsky (2 minutes)
+   2-2
+P1  01:37 
+Elias Lindholm (BOS) scores on tip-in past Cayden Primeau, assisted by Nikita Zadorov and David Pastrnak
+   2-3
+P1  19:36 
+Cayden Primeau (MTL) tripping against Brad Marchand (2 minutes), served by Cole Caufield
+   0-0
+P1  13:24 
+Nikita Zadorov (BOS) holding against Kirby Dach (2 minutes)
+   0-0
+P1  11:34 
+Brendan Gallagher (MTL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Joel Armia and Lane Hutson
+   1-0
+P1  09:02 
+Joel Armia (MTL) tripping against John Beecher (2 minutes)
+   1-0
+P1  08:56 
+Charlie McAvoy (BOS) scores power-play goal on wrist shot past Cayden Primeau, assisted by Brad Marchand and Elias Lindholm
+   1-1
+P1  07:42 
+Cole Caufield (MTL) scores on wrist shot past Jeremy Swayman, assisted by Kaiden Guhle and Lane Hutson
+   2-1
+P1  06:36 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Nikita Zadorov and Cole Koepke
+   2-2
+P1  05:34 
+Trent Frederic (BOS) hooking against Juraj Slafkovsky (2 minutes)
+   2-2
+P1  01:37 
+Elias Lindholm (BOS) scores on tip-in past Cayden Primeau, assisted by Nikita Zadorov and David Pastrnak
+   2-3
+P1  19:36
+Cayden Primeau (MTL) tripping against Brad Marchand (2 minutes), served by Cole Caufield
+0-0
+P1  13:24
+Nikita Zadorov (BOS) holding against Kirby Dach (2 minutes)
+0-0
+P1  11:34
+Brendan Gallagher (MTL) scores power-play goal on tip-in past Jeremy Swayman, assisted by Joel Armia and Lane Hutson
+1-0
+P1  09:02
+Joel Armia (MTL) tripping against John Beecher (2 minutes)
+1-0
+P1  08:56
+Charlie McAvoy (BOS) scores power-play goal on wrist shot past Cayden Primeau, assisted by Brad Marchand and Elias Lindholm
+1-1
+P1  07:42
+Cole Caufield (MTL) scores on wrist shot past Jeremy Swayman, assisted by Kaiden Guhle and Lane Hutson
+2-1
+P1  06:36
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Nikita Zadorov and Cole Koepke
+2-2
+P1  05:34
+Trent Frederic (BOS) hooking against Juraj Slafkovsky (2 minutes)
+2-2
+P1  01:37
+Elias Lindholm (BOS) scores on tip-in past Cayden Primeau, assisted by Nikita Zadorov and David Pastrnak
+2-3
+2nd Period: ShowHide
+P2  16:04 
+Lane Hutson (MTL) holding against Charlie Coyle (2 minutes)
+   2-3
+P2  10:22 
+Charlie Coyle (BOS) high-sticking against Joel Armia (2 minutes)
+   2-3
+P2  08:53 
+Mike Matheson (MTL) tripping against Brad Marchand (2 minutes)
+   2-3
+P2  04:04 
+David Pastrnak (BOS) scores on slap shot past Cayden Primeau, assisted by Pavel Zacha and Elias Lindholm
+   2-4
+P2  03:09 
+Cole Koepke (BOS) scores on poke past Cayden Primeau, assisted by John Beecher and Brandon Carlo
+   2-5
+P2  01:59 
+Charlie McAvoy (BOS) tripping against Nick Suzuki (2 minutes)
+   2-5
+P2  16:04 
+Lane Hutson (MTL) holding against Charlie Coyle (2 minutes)
+   2-3
+P2  10:22 
+Charlie Coyle (BOS) high-sticking against Joel Armia (2 minutes)
+   2-3
+P2  08:53 
+Mike Matheson (MTL) tripping against Brad Marchand (2 minutes)
+   2-3
+P2  04:04 
+David Pastrnak (BOS) scores on slap shot past Cayden Primeau, assisted by Pavel Zacha and Elias Lindholm
+   2-4
+P2  03:09 
+Cole Koepke (BOS) scores on poke past Cayden Primeau, assisted by John Beecher and Brandon Carlo
+   2-5
+P2  01:59 
+Charlie McAvoy (BOS) tripping against Nick Suzuki (2 minutes)
+   2-5
+P2  16:04
+Lane Hutson (MTL) holding against Charlie Coyle (2 minutes)
+2-3
+P2  10:22
+Charlie Coyle (BOS) high-sticking against Joel Armia (2 minutes)
+2-3
+P2  08:53
+Mike Matheson (MTL) tripping against Brad Marchand (2 minutes)
+2-3
+P2  04:04
+David Pastrnak (BOS) scores on slap shot past Cayden Primeau, assisted by Pavel Zacha and Elias Lindholm
+2-4
+P2  03:09
+Cole Koepke (BOS) scores on poke past Cayden Primeau, assisted by John Beecher and Brandon Carlo
+2-5
+P2  01:59
+Charlie McAvoy (BOS) tripping against Nick Suzuki (2 minutes)
+2-5
+3rd Period: ShowHide
+P3  15:54 
+Cole Caufield (MTL) hooking against Hampus Lindholm (2 minutes)
+   2-5
+P3  13:25 
+Charlie McAvoy (BOS) delaying game (2 minutes)
+   2-5
+P3  10:55 
+Josh Anderson (MTL) scores on tip-in past Jeremy Swayman, assisted by Kaiden Guhle and Oliver Kapanen
+   3-5
+P3  04:17 
+Brendan Gallagher (MTL) scores on snap shot past Jeremy Swayman, assisted by Jake Evans and Joel Armia
+   4-5
+P3  04:00 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Cole Koepke and Brandon Carlo
+   4-6
+P3  02:55 
+Brad Marchand (BOS) delaying game - puck over glass (2 minutes)
+   4-6
+P3  15:54 
+Cole Caufield (MTL) hooking against Hampus Lindholm (2 minutes)
+   2-5
+P3  13:25 
+Charlie McAvoy (BOS) delaying game (2 minutes)
+   2-5
+P3  10:55 
+Josh Anderson (MTL) scores on tip-in past Jeremy Swayman, assisted by Kaiden Guhle and Oliver Kapanen
+   3-5
+P3  04:17 
+Brendan Gallagher (MTL) scores on snap shot past Jeremy Swayman, assisted by Jake Evans and Joel Armia
+   4-5
+P3  04:00 
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Cole Koepke and Brandon Carlo
+   4-6
+P3  02:55 
+Brad Marchand (BOS) delaying game - puck over glass (2 minutes)
+   4-6
+P3  15:54
+Cole Caufield (MTL) hooking against Hampus Lindholm (2 minutes)
+2-5
+P3  13:25
+Charlie McAvoy (BOS) delaying game (2 minutes)
+2-5
+P3  10:55
+Josh Anderson (MTL) scores on tip-in past Jeremy Swayman, assisted by Kaiden Guhle and Oliver Kapanen
+3-5
+P3  04:17
+Brendan Gallagher (MTL) scores on snap shot past Jeremy Swayman, assisted by Jake Evans and Joel Armia
+4-5
+P3  04:00
+Mark Kastelic (BOS) scores on wrist shot past Cayden Primeau, assisted by Cole Koepke and Brandon Carlo
+4-6
+P3  02:55
+Brad Marchand (BOS) delaying game - puck over glass (2 minutes)
+4-6
+Box Score:
+ 
+Back to Top
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:18   1  0    1   2   0   0   0   0   0/0Joel Armia R  14:41   0  2   -2   2   0   2   0   0   0/0Alex Barré-Boulet C  09:58   0  0   -2   0   0   0   0   0   0/0Cole Caufield R  20:02   1  0    0   3   0   2   0   1   0/0Kirby Dach C  17:23   0  0   -2   2   1   0   0   1   1/3Christian Dvorak C  13:09   0  0    0   2   2   0   1   1  6/13Jake Evans C  12:44   0  1    1   0   1   0   0   0  6/13Brendan Gallagher R  15:23   2  0    0   4   0   0   0   1   0/0Oliver Kapanen C  10:22   0  1    0   1   0   0   0   2   3/5Alex Newhook C  14:49   0  0   -2   0   1   0   0   2   3/9Juraj Slafkovsky L  20:37   0  0    1   1   1   0   0   0   0/0Nick Suzuki C  19:50   0  0   -1   2   0   0   0   0 14/23Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  15:58   0  0   -2   1   1   0   0   0   0/0Kaiden Guhle D  21:23   0  2    3   0   3   0   0   1   0/0Lane Hutson D  22:48   0  2    2   1   2   2   1   2   0/0Mike Matheson D  26:08   0  0   -2   1   3   2   4   2   0/0David Savard D  13:19   0  0   -2   1   0   0   0   1   0/0Arber Xhekaj D  10:51   0  0   -3   1   1   0   1   3   0/0Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       24  16   8   7  17 33/66
+                                        50.0%Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  57:11   6  23/29  17/22   5/6   1/1     2
+              .793   .773  .833 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:38   0  1    3   1   0   0   0   1  5/10Justin Brazeau R  11:49   0  0   -1   1   1   0   0   0   1/2Charlie Coyle C  20:35   0  0   -2   0   4   2   0   2  5/13Trent Frederic C  13:31   0  0   -1   0   1   2   0   2   3/9Morgan Geekie C  15:23   0  0   -1   3   0   0   0   1   1/1Mark Kastelic C  10:43   2  0    3   3   3   0   0   1   5/6Cole Koepke L  07:20   1  2    3   2   0   0   0   0   0/0Elias Lindholm C  18:27   1  2    2   1   2   0   0   0  6/13Brad Marchand L  19:06   0  1   -1   3   2   2   0   1   0/1David Pastrnak R  16:54   1  1    1   6   1   0   0   2   0/0Riley Tufte L  09:21   0  0   -1   0   1   0   0   1   0/0Pavel Zacha C  19:16   0  1    1   2   0   0   1   1  7/11Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:13   0  2    1   0   0   0   0   2   0/0Hampus Lindholm D  23:02   0  0    1   3   2   0   0   0   0/0Charlie McAvoy D  22:56   1  0    1   3   1   4   1   0   0/0Andrew Peeke D  15:13   0  0    0   0   0   0   0   3   0/0Parker Wotherspoon D  12:56   0  0    0   1   0   0   1   0   0/0Nikita Zadorov D  18:47   0  2    1   0   2   2   0   0   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          6 12       29  20  12   3  17 33/66
+                                        50.0%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  60:00   4  20/24  16/19   4/5   0/0     0
+              .833   .842  .800
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJosh Anderson R  15:18   1  0    1   2   0   0   0   0   0/0Joel Armia R  14:41   0  2   -2   2   0   2   0   0   0/0Alex Barré-Boulet C  09:58   0  0   -2   0   0   0   0   0   0/0Cole Caufield R  20:02   1  0    0   3   0   2   0   1   0/0Kirby Dach C  17:23   0  0   -2   2   1   0   0   1   1/3Christian Dvorak C  13:09   0  0    0   2   2   0   1   1  6/13Jake Evans C  12:44   0  1    1   0   1   0   0   0  6/13Brendan Gallagher R  15:23   2  0    0   4   0   0   0   1   0/0Oliver Kapanen C  10:22   0  1    0   1   0   0   0   2   3/5Alex Newhook C  14:49   0  0   -2   0   1   0   0   2   3/9Juraj Slafkovsky L  20:37   0  0    1   1   1   0   0   0   0/0Nick Suzuki C  19:50   0  0   -1   2   0   0   0   0 14/23
+Canadiens Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Josh Anderson R
+15:18   1  0    1   2   0   0   0   0   0/0
+Joel Armia R
+14:41   0  2   -2   2   0   2   0   0   0/0
+Alex Barré-Boulet C
+09:58   0  0   -2   0   0   0   0   0   0/0
+Cole Caufield R
+20:02   1  0    0   3   0   2   0   1   0/0
+Kirby Dach C
+17:23   0  0   -2   2   1   0   0   1   1/3
+Christian Dvorak C
+13:09   0  0    0   2   2   0   1   1  6/13
+Jake Evans C
+12:44   0  1    1   0   1   0   0   0  6/13
+Brendan Gallagher R
+15:23   2  0    0   4   0   0   0   1   0/0
+Oliver Kapanen C
+10:22   0  1    0   1   0   0   0   2   3/5
+Alex Newhook C
+14:49   0  0   -2   0   1   0   0   2   3/9
+Juraj Slafkovsky L
+20:37   0  0    1   1   1   0   0   0   0/0
+Nick Suzuki C
+19:50   0  0   -1   2   0   0   0   0 14/23
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJustin Barron D  15:58   0  0   -2   1   1   0   0   0   0/0Kaiden Guhle D  21:23   0  2    3   0   3   0   0   1   0/0Lane Hutson D  22:48   0  2    2   1   2   2   1   2   0/0Mike Matheson D  26:08   0  0   -2   1   3   2   4   2   0/0David Savard D  13:19   0  0   -2   1   0   0   0   1   0/0Arber Xhekaj D  10:51   0  0   -3   1   1   0   1   3   0/0
+Canadiens Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Justin Barron D
+15:58   0  0   -2   1   1   0   0   0   0/0
+Kaiden Guhle D
+21:23   0  2    3   0   3   0   0   1   0/0
+Lane Hutson D
+22:48   0  2    2   1   2   2   1   2   0/0
+Mike Matheson D
+26:08   0  0   -2   1   3   2   4   2   0/0
+David Savard D
+13:19   0  0   -2   1   0   0   0   1   0/0
+Arber Xhekaj D
+10:51   0  0   -3   1   1   0   1   3   0/0
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       24  16   8   7  17 33/66
+                                        50.0%
+Canadiens Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCayden Primeau G  57:11   6  23/29  17/22   5/6   1/1     2
+              .793   .773  .833 1.000
+Canadiens Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cayden Primeau G
+57:11   6  23/29  17/22   5/6   1/1     2
+              .793   .773  .833 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:38   0  1    3   1   0   0   0   1  5/10Justin Brazeau R  11:49   0  0   -1   1   1   0   0   0   1/2Charlie Coyle C  20:35   0  0   -2   0   4   2   0   2  5/13Trent Frederic C  13:31   0  0   -1   0   1   2   0   2   3/9Morgan Geekie C  15:23   0  0   -1   3   0   0   0   1   1/1Mark Kastelic C  10:43   2  0    3   3   3   0   0   1   5/6Cole Koepke L  07:20   1  2    3   2   0   0   0   0   0/0Elias Lindholm C  18:27   1  2    2   1   2   0   0   0  6/13Brad Marchand L  19:06   0  1   -1   3   2   2   0   1   0/1David Pastrnak R  16:54   1  1    1   6   1   0   0   2   0/0Riley Tufte L  09:21   0  0   -1   0   1   0   0   1   0/0Pavel Zacha C  19:16   0  1    1   2   0   0   1   1  7/11
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+12:38   0  1    3   1   0   0   0   1  5/10
+Justin Brazeau R
+11:49   0  0   -1   1   1   0   0   0   1/2
+Charlie Coyle C
+20:35   0  0   -2   0   4   2   0   2  5/13
+Trent Frederic C
+13:31   0  0   -1   0   1   2   0   2   3/9
+Morgan Geekie C
+15:23   0  0   -1   3   0   0   0   1   1/1
+Mark Kastelic C
+10:43   2  0    3   3   3   0   0   1   5/6
+Cole Koepke L
+07:20   1  2    3   2   0   0   0   0   0/0
+Elias Lindholm C
+18:27   1  2    2   1   2   0   0   0  6/13
+Brad Marchand L
+19:06   0  1   -1   3   2   2   0   1   0/1
+David Pastrnak R
+16:54   1  1    1   6   1   0   0   2   0/0
+Riley Tufte L
+09:21   0  0   -1   0   1   0   0   1   0/0
+Pavel Zacha C
+19:16   0  1    1   2   0   0   1   1  7/11
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:13   0  2    1   0   0   0   0   2   0/0Hampus Lindholm D  23:02   0  0    1   3   2   0   0   0   0/0Charlie McAvoy D  22:56   1  0    1   3   1   4   1   0   0/0Andrew Peeke D  15:13   0  0    0   0   0   0   0   3   0/0Parker Wotherspoon D  12:56   0  0    0   1   0   0   1   0   0/0Nikita Zadorov D  18:47   0  2    1   0   2   2   0   0   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+20:13   0  2    1   0   0   0   0   2   0/0
+Hampus Lindholm D
+23:02   0  0    1   3   2   0   0   0   0/0
+Charlie McAvoy D
+22:56   1  0    1   3   1   4   1   0   0/0
+Andrew Peeke D
+15:13   0  0    0   0   0   0   0   3   0/0
+Parker Wotherspoon D
+12:56   0  0    0   1   0   0   1   0   0/0
+Nikita Zadorov D
+18:47   0  2    1   0   2   2   0   0   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          6 12       29  20  12   3  17 33/66
+                                        50.0%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  60:00   4  20/24  16/19   4/5   0/0     0
+              .833   .842  .800
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+60:00   4  20/24  16/19   4/5   0/0     0
+              .833   .842  .800
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

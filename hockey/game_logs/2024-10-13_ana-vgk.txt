@@ -1,0 +1,322 @@
+< Oct. 13 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Anaheim
+Ducks1-1-0Final1 - 3Vegas
+Golden Knights3-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+ANA   1  0  0    1  
+VGK   1  0  2    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:43 
+Brett Howden (VGK) scores on backhand shot past James Reimer, assisted by Alex Pietrangelo and Keegan Kolesar
+   0-1
+P1  08:11 
+Troy Terry (ANA) scores on snap shot past Ilya Samsonov
+   1-1
+2nd Period: ShowHide
+P2  15:51 
+Trevor Zegras (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P2  03:17 
+Urho Vaakanainen (ANA) interference against Brett Howden (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  15:45 
+Ryan Strome (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P3  14:42 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past James Reimer, assisted by Mark Stone and Jack Eichel
+   1-2
+P3  09:25 
+Brayden McNabb (VGK) hooking against Troy Terry (2 minutes)
+   1-2
+P3  05:51 
+Pavel Dorofeyev (VGK) scores on snap shot past James Reimer, assisted by Keegan Kolesar
+   1-3
+P3  02:21 
+Alex Killorn (ANA) holding against Pavel Dorofeyev (2 minutes)
+   1-3
+Box Score:
+ 
+Back to Top
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  14:56   0  0    0   1   0   0   0   0   2/5Robby Fabbri C  18:02   0  0   -1   3   1   0   0   0   0/1Cutter Gauthier L  14:18   0  0    0   2   0   0   0   1   0/1Alex Killorn L  13:58   0  0    0   1   2   2   0   0   0/0Brett Leason R  14:19   0  0    0   2   1   0   0   0   0/0Isac Lundestrom C  14:33   0  0    0   0   3   0   0   0  5/10Brock McGinn L  10:11   0  0    0   0   2   0   0   0   0/0Mason McTavish C  16:28   0  0   -1   0   2   0   1   1  8/15Ryan Strome C  13:48   0  0    0   5   0   2   0   0  5/11Troy Terry R  13:45   1  0    0   3   1   0   1   0   0/0Frank Vatrano R  14:09   0  0    0   2   1   0   0   1   0/0Trevor Zegras C  16:14   0  0   -1   2   0   2   1   2   0/0Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  20:39   0  0    0   0   2   0   1   0   0/0Cam Fowler D  22:49   0  0   -1   1   1   0   0   1   0/0Radko Gudas D  20:13   0  0    0   1   2   0   0   1   0/0Tristan Luneau D  19:33   0  0   -2   0   1   0   0   2   0/0Pavel Mintyukov D  21:15   0  0    1   0   0   0   1   1   0/0Urho Vaakanainen D  13:47   0  0    0   0   1   2   0   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  0       23  20   8   5  11 20/43
+                                        46.5%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJames Reimer G  60:00   3  29/32  22/24   7/8   0/0     0
+              .906   .917  .875 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  15:30   0  0   -1   2   0   0   0   1   0/0Pavel Dorofeyev L  12:52   1  0    1   5   2   0   0   1   0/0Jack Eichel C  22:39   0  1   -1   1   0   0   1   1  8/14Tomas Hertl C  18:56   1  0    1   2   1   0   0   2 10/16Alexander Holtz R  13:37   0  0    0   1   0   0   0   0   0/0Brett Howden C  14:10   1  0    1   4   0   0   1   0   2/2Keegan Kolesar R  11:34   0  2    2   0   0   0   1   0   0/1Victor Olofsson L  17:01   0  0    0   3   1   0   0   0   0/0Tanner Pearson L  10:32   0  0    0   0   0   0   0   1   0/0Nicolas Roy C  15:52   0  0    1   0   0   0   1   1   1/5Cole Schwindt R  09:24   0  0    0   1   2   0   0   0   2/5Mark Stone R  20:15   0  1   -1   3   2   0   0   1   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  16:46   0  0    0   0   1   0   0   0   0/0Noah Hanifin D  20:49   0  0    0   0   2   0   0   2   0/0Brayden McNabb D  15:31   0  0    1   2   3   2   0   2   0/0Alex Pietrangelo D  21:57   0  1    1   4   2   0   0   3   0/0Shea Theodore D  23:10   0  0    0   2   2   0   0   1   0/0Zach Whitecloud D  17:25   0  0    0   2   1   0   0   2   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  19   2   4  18 23/43
+                                        53.5%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   1  22/23  20/21   2/2   0/0     0
+              .957   .952 1.000
+Anaheim
+Ducks1-1-0Final1 - 3Vegas
+Golden Knights3-0-0
+Anaheim
+Ducks1-1-0
+Final1 - 3
+Vegas
+Golden Knights3-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+ANA   1  0  0    1  
+VGK   1  0  2    3
+1st Period: ShowHide
+P1  13:43 
+Brett Howden (VGK) scores on backhand shot past James Reimer, assisted by Alex Pietrangelo and Keegan Kolesar
+   0-1
+P1  08:11 
+Troy Terry (ANA) scores on snap shot past Ilya Samsonov
+   1-1
+2nd Period: ShowHide
+P2  15:51 
+Trevor Zegras (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P2  03:17 
+Urho Vaakanainen (ANA) interference against Brett Howden (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  15:45 
+Ryan Strome (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P3  14:42 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past James Reimer, assisted by Mark Stone and Jack Eichel
+   1-2
+P3  09:25 
+Brayden McNabb (VGK) hooking against Troy Terry (2 minutes)
+   1-2
+P3  05:51 
+Pavel Dorofeyev (VGK) scores on snap shot past James Reimer, assisted by Keegan Kolesar
+   1-3
+P3  02:21 
+Alex Killorn (ANA) holding against Pavel Dorofeyev (2 minutes)
+   1-3
+1st Period: ShowHide
+P1  13:43 
+Brett Howden (VGK) scores on backhand shot past James Reimer, assisted by Alex Pietrangelo and Keegan Kolesar
+   0-1
+P1  08:11 
+Troy Terry (ANA) scores on snap shot past Ilya Samsonov
+   1-1
+P1  13:43 
+Brett Howden (VGK) scores on backhand shot past James Reimer, assisted by Alex Pietrangelo and Keegan Kolesar
+   0-1
+P1  08:11 
+Troy Terry (ANA) scores on snap shot past Ilya Samsonov
+   1-1
+P1  13:43
+Brett Howden (VGK) scores on backhand shot past James Reimer, assisted by Alex Pietrangelo and Keegan Kolesar
+0-1
+P1  08:11
+Troy Terry (ANA) scores on snap shot past Ilya Samsonov
+1-1
+2nd Period: ShowHide
+P2  15:51 
+Trevor Zegras (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P2  03:17 
+Urho Vaakanainen (ANA) interference against Brett Howden (2 minutes)
+   1-1
+P2  15:51 
+Trevor Zegras (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P2  03:17 
+Urho Vaakanainen (ANA) interference against Brett Howden (2 minutes)
+   1-1
+P2  15:51
+Trevor Zegras (ANA) hooking against Mark Stone (2 minutes)
+1-1
+P2  03:17
+Urho Vaakanainen (ANA) interference against Brett Howden (2 minutes)
+1-1
+3rd Period: ShowHide
+P3  15:45 
+Ryan Strome (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P3  14:42 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past James Reimer, assisted by Mark Stone and Jack Eichel
+   1-2
+P3  09:25 
+Brayden McNabb (VGK) hooking against Troy Terry (2 minutes)
+   1-2
+P3  05:51 
+Pavel Dorofeyev (VGK) scores on snap shot past James Reimer, assisted by Keegan Kolesar
+   1-3
+P3  02:21 
+Alex Killorn (ANA) holding against Pavel Dorofeyev (2 minutes)
+   1-3
+P3  15:45 
+Ryan Strome (ANA) hooking against Mark Stone (2 minutes)
+   1-1
+P3  14:42 
+Tomas Hertl (VGK) scores power-play goal on wrist shot past James Reimer, assisted by Mark Stone and Jack Eichel
+   1-2
+P3  09:25 
+Brayden McNabb (VGK) hooking against Troy Terry (2 minutes)
+   1-2
+P3  05:51 
+Pavel Dorofeyev (VGK) scores on snap shot past James Reimer, assisted by Keegan Kolesar
+   1-3
+P3  02:21 
+Alex Killorn (ANA) holding against Pavel Dorofeyev (2 minutes)
+   1-3
+P3  15:45
+Ryan Strome (ANA) hooking against Mark Stone (2 minutes)
+1-1
+P3  14:42
+Tomas Hertl (VGK) scores power-play goal on wrist shot past James Reimer, assisted by Mark Stone and Jack Eichel
+1-2
+P3  09:25
+Brayden McNabb (VGK) hooking against Troy Terry (2 minutes)
+1-2
+P3  05:51
+Pavel Dorofeyev (VGK) scores on snap shot past James Reimer, assisted by Keegan Kolesar
+1-3
+P3  02:21
+Alex Killorn (ANA) holding against Pavel Dorofeyev (2 minutes)
+1-3
+Box Score:
+ 
+Back to Top
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  14:56   0  0    0   1   0   0   0   0   2/5Robby Fabbri C  18:02   0  0   -1   3   1   0   0   0   0/1Cutter Gauthier L  14:18   0  0    0   2   0   0   0   1   0/1Alex Killorn L  13:58   0  0    0   1   2   2   0   0   0/0Brett Leason R  14:19   0  0    0   2   1   0   0   0   0/0Isac Lundestrom C  14:33   0  0    0   0   3   0   0   0  5/10Brock McGinn L  10:11   0  0    0   0   2   0   0   0   0/0Mason McTavish C  16:28   0  0   -1   0   2   0   1   1  8/15Ryan Strome C  13:48   0  0    0   5   0   2   0   0  5/11Troy Terry R  13:45   1  0    0   3   1   0   1   0   0/0Frank Vatrano R  14:09   0  0    0   2   1   0   0   1   0/0Trevor Zegras C  16:14   0  0   -1   2   0   2   1   2   0/0Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  20:39   0  0    0   0   2   0   1   0   0/0Cam Fowler D  22:49   0  0   -1   1   1   0   0   1   0/0Radko Gudas D  20:13   0  0    0   1   2   0   0   1   0/0Tristan Luneau D  19:33   0  0   -2   0   1   0   0   2   0/0Pavel Mintyukov D  21:15   0  0    1   0   0   0   1   1   0/0Urho Vaakanainen D  13:47   0  0    0   0   1   2   0   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  0       23  20   8   5  11 20/43
+                                        46.5%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJames Reimer G  60:00   3  29/32  22/24   7/8   0/0     0
+              .906   .917  .875 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  15:30   0  0   -1   2   0   0   0   1   0/0Pavel Dorofeyev L  12:52   1  0    1   5   2   0   0   1   0/0Jack Eichel C  22:39   0  1   -1   1   0   0   1   1  8/14Tomas Hertl C  18:56   1  0    1   2   1   0   0   2 10/16Alexander Holtz R  13:37   0  0    0   1   0   0   0   0   0/0Brett Howden C  14:10   1  0    1   4   0   0   1   0   2/2Keegan Kolesar R  11:34   0  2    2   0   0   0   1   0   0/1Victor Olofsson L  17:01   0  0    0   3   1   0   0   0   0/0Tanner Pearson L  10:32   0  0    0   0   0   0   0   1   0/0Nicolas Roy C  15:52   0  0    1   0   0   0   1   1   1/5Cole Schwindt R  09:24   0  0    0   1   2   0   0   0   2/5Mark Stone R  20:15   0  1   -1   3   2   0   0   1   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  16:46   0  0    0   0   1   0   0   0   0/0Noah Hanifin D  20:49   0  0    0   0   2   0   0   2   0/0Brayden McNabb D  15:31   0  0    1   2   3   2   0   2   0/0Alex Pietrangelo D  21:57   0  1    1   4   2   0   0   3   0/0Shea Theodore D  23:10   0  0    0   2   2   0   0   1   0/0Zach Whitecloud D  17:25   0  0    0   2   1   0   0   2   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  19   2   4  18 23/43
+                                        53.5%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   1  22/23  20/21   2/2   0/0     0
+              .957   .952 1.000
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  14:56   0  0    0   1   0   0   0   0   2/5Robby Fabbri C  18:02   0  0   -1   3   1   0   0   0   0/1Cutter Gauthier L  14:18   0  0    0   2   0   0   0   1   0/1Alex Killorn L  13:58   0  0    0   1   2   2   0   0   0/0Brett Leason R  14:19   0  0    0   2   1   0   0   0   0/0Isac Lundestrom C  14:33   0  0    0   0   3   0   0   0  5/10Brock McGinn L  10:11   0  0    0   0   2   0   0   0   0/0Mason McTavish C  16:28   0  0   -1   0   2   0   1   1  8/15Ryan Strome C  13:48   0  0    0   5   0   2   0   0  5/11Troy Terry R  13:45   1  0    0   3   1   0   1   0   0/0Frank Vatrano R  14:09   0  0    0   2   1   0   0   1   0/0Trevor Zegras C  16:14   0  0   -1   2   0   2   1   2   0/0
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Leo Carlsson C
+14:56   0  0    0   1   0   0   0   0   2/5
+Robby Fabbri C
+18:02   0  0   -1   3   1   0   0   0   0/1
+Cutter Gauthier L
+14:18   0  0    0   2   0   0   0   1   0/1
+Alex Killorn L
+13:58   0  0    0   1   2   2   0   0   0/0
+Brett Leason R
+14:19   0  0    0   2   1   0   0   0   0/0
+Isac Lundestrom C
+14:33   0  0    0   0   3   0   0   0  5/10
+Brock McGinn L
+10:11   0  0    0   0   2   0   0   0   0/0
+Mason McTavish C
+16:28   0  0   -1   0   2   0   1   1  8/15
+Ryan Strome C
+13:48   0  0    0   5   0   2   0   0  5/11
+Troy Terry R
+13:45   1  0    0   3   1   0   1   0   0/0
+Frank Vatrano R
+14:09   0  0    0   2   1   0   0   1   0/0
+Trevor Zegras C
+16:14   0  0   -1   2   0   2   1   2   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  20:39   0  0    0   0   2   0   1   0   0/0Cam Fowler D  22:49   0  0   -1   1   1   0   0   1   0/0Radko Gudas D  20:13   0  0    0   1   2   0   0   1   0/0Tristan Luneau D  19:33   0  0   -2   0   1   0   0   2   0/0Pavel Mintyukov D  21:15   0  0    1   0   0   0   1   1   0/0Urho Vaakanainen D  13:47   0  0    0   0   1   2   0   1   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brian Dumoulin D
+20:39   0  0    0   0   2   0   1   0   0/0
+Cam Fowler D
+22:49   0  0   -1   1   1   0   0   1   0/0
+Radko Gudas D
+20:13   0  0    0   1   2   0   0   1   0/0
+Tristan Luneau D
+19:33   0  0   -2   0   1   0   0   2   0/0
+Pavel Mintyukov D
+21:15   0  0    1   0   0   0   1   1   0/0
+Urho Vaakanainen D
+13:47   0  0    0   0   1   2   0   1   0/0
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  0       23  20   8   5  11 20/43
+                                        46.5%
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJames Reimer G  60:00   3  29/32  22/24   7/8   0/0     0
+              .906   .917  .875
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+James Reimer G
+60:00   3  29/32  22/24   7/8   0/0     0
+              .906   .917  .875
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  15:30   0  0   -1   2   0   0   0   1   0/0Pavel Dorofeyev L  12:52   1  0    1   5   2   0   0   1   0/0Jack Eichel C  22:39   0  1   -1   1   0   0   1   1  8/14Tomas Hertl C  18:56   1  0    1   2   1   0   0   2 10/16Alexander Holtz R  13:37   0  0    0   1   0   0   0   0   0/0Brett Howden C  14:10   1  0    1   4   0   0   1   0   2/2Keegan Kolesar R  11:34   0  2    2   0   0   0   1   0   0/1Victor Olofsson L  17:01   0  0    0   3   1   0   0   0   0/0Tanner Pearson L  10:32   0  0    0   0   0   0   0   1   0/0Nicolas Roy C  15:52   0  0    1   0   0   0   1   1   1/5Cole Schwindt R  09:24   0  0    0   1   2   0   0   0   2/5Mark Stone R  20:15   0  1   -1   3   2   0   0   1   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+15:30   0  0   -1   2   0   0   0   1   0/0
+Pavel Dorofeyev L
+12:52   1  0    1   5   2   0   0   1   0/0
+Jack Eichel C
+22:39   0  1   -1   1   0   0   1   1  8/14
+Tomas Hertl C
+18:56   1  0    1   2   1   0   0   2 10/16
+Alexander Holtz R
+13:37   0  0    0   1   0   0   0   0   0/0
+Brett Howden C
+14:10   1  0    1   4   0   0   1   0   2/2
+Keegan Kolesar R
+11:34   0  2    2   0   0   0   1   0   0/1
+Victor Olofsson L
+17:01   0  0    0   3   1   0   0   0   0/0
+Tanner Pearson L
+10:32   0  0    0   0   0   0   0   1   0/0
+Nicolas Roy C
+15:52   0  0    1   0   0   0   1   1   1/5
+Cole Schwindt R
+09:24   0  0    0   1   2   0   0   0   2/5
+Mark Stone R
+20:15   0  1   -1   3   2   0   0   1   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  16:46   0  0    0   0   1   0   0   0   0/0Noah Hanifin D  20:49   0  0    0   0   2   0   0   2   0/0Brayden McNabb D  15:31   0  0    1   2   3   2   0   2   0/0Alex Pietrangelo D  21:57   0  1    1   4   2   0   0   3   0/0Shea Theodore D  23:10   0  0    0   2   2   0   0   1   0/0Zach Whitecloud D  17:25   0  0    0   2   1   0   0   2   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Hague D
+16:46   0  0    0   0   1   0   0   0   0/0
+Noah Hanifin D
+20:49   0  0    0   0   2   0   0   2   0/0
+Brayden McNabb D
+15:31   0  0    1   2   3   2   0   2   0/0
+Alex Pietrangelo D
+21:57   0  1    1   4   2   0   0   3   0/0
+Shea Theodore D
+23:10   0  0    0   2   2   0   0   1   0/0
+Zach Whitecloud D
+17:25   0  0    0   2   1   0   0   2   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  19   2   4  18 23/43
+                                        53.5%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  60:00   1  22/23  20/21   2/2   0/0     0
+              .957   .952 1.000
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Samsonov G
+60:00   1  22/23  20/21   2/2   0/0     0
+              .957   .952 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

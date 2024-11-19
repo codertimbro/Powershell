@@ -1,0 +1,322 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Florida
+Panthers1-1-0Final1 - 3Ottawa
+Senators1-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+FLA   0  1  0    1  
+OTT   2  0  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:08 
+Niko Mikkola (FLA) high-sticking against Shane Pinto (2 minutes)
+   0-0
+P1  14:08 
+Tim Stützle (OTT) scores power-play goal on wrist shot past Sergei Bobrovsky, assisted by Josh Norris and Jake Sanderson
+   0-1
+P1  12:01 
+Adam Gaudette (OTT) tripping against Aaron Ekblad (2 minutes)
+   0-1
+P1  09:18 
+Shane Pinto (OTT) scores on wrist shot past Sergei Bobrovsky
+   0-2
+2nd Period: ShowHide
+P2  15:03 
+Drake Batherson (OTT) tripping against Dmitry Kulikov (2 minutes)
+   0-2
+P2  06:40 
+Niko Mikkola (FLA) interference against Michael Amadio (2 minutes)
+   0-2
+P2  04:12 
+Gustav Forsling (FLA) scores on slap shot past Linus Ullmark, assisted by Sam Bennett and Matthew Tkachuk
+   1-2
+3rd Period: ShowHide
+P3  04:54 
+Aaron Ekblad (FLA) holding against Tim Stützle (2 minutes)
+   1-2
+P3  01:10 
+Tim Stützle (OTT) scores on empty net, assisted by Brady Tkachuk
+   1-3
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  19:09   0  0   -1   1   1   0   0   0  9/16Sam Bennett C  17:56   0  1    0   4   2   0   0   0  6/13Jesper Boqvist C  10:02   0  0    0   0   0   0   0   0   1/5Jonah Gadjovich L  08:13   0  0    0   0   1   0   0   0   0/0A.J. Greer L  09:25   0  0    0   1   0   0   0   1   0/0Anton Lundell C  16:31   0  0   -1   4   0   0   0   0  4/11Eetu Luostarinen C  13:45   0  0   -1   1   1   0   1   0   0/1Sam Reinhart C  20:04   0  0   -1   1   4   0   0   1   2/7Evan Rodrigues C  15:27   0  0   -2   2   1   0   0   2   3/4Mackie Samoskevich R  12:22   0  0    0   3   1   0   0   0   0/0Matthew Tkachuk L  17:27   0  1    0   4   0   0   0   0   0/0Carter Verhaeghe C  20:15   0  0    1   4   0   0   0   2   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  18:20   0  0   -1   1   0   0   0   0   0/0Aaron Ekblad D  22:09   0  0    1   1   0   2   0   2   0/0Gustav Forsling D  23:06   1  0    1   2   1   0   0   3   0/0Dmitry Kulikov D  18:47   0  0   -1   2   0   0   1   0   0/0Niko Mikkola D  18:50   0  0   -1   0   0   4   0   1   0/0Nate Schmidt D  14:38   0  0    0   1   0   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  12   6   2  13 25/57
+                                        43.9%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  58:34   2  28/30  22/23   5/6   1/1     0
+              .933   .957  .833 1.000 
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  13:58   0  0    1   1   0   0   0   1   1/1Drake Batherson R  15:16   0  0    0   1   0   2   0   1   1/1Nick Cousins C  12:09   0  0    0   0   1   0   0   0   0/1Adam Gaudette R  09:23   0  0    0   0   0   2   0   0   3/5Claude Giroux R  17:38   0  0    0   1   1   0   0   1  7/10Noah Gregor L  12:51   0  0    0   1   2   0   0   0   0/0Ridly Greig C  15:07   0  0   -1   0   2   0   0   0   0/0Josh Norris C  18:08   0  1    0   1   1   0   0   1   5/8David Perron L  13:03   0  0    0   4   1   0   0   0   0/0Shane Pinto C  15:59   1  0    0   3   0   0   1   0  9/20Tim Stützle C  19:57   2  0    1   3   1   0   0   2   1/5Brady Tkachuk L  17:47   0  1    1   5   2   0   0   0   5/6Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Chabot D  18:15   0  0    0   3   5   0   0   3   0/0Travis Hamonic D  16:44   0  0    0   0   3   0   0   1   0/0Nick Jensen D  16:49   0  0    2   2   0   0   0   0   0/0Tyler Kleven D  16:54   0  0    0   0   4   0   0   0   0/0Jake Sanderson D  24:48   0  1    0   3   7   0   1   4   0/0Artem Zub D  21:14   0  0    1   3   0   0   0   0   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       31  30   4   2  14 32/57
+                                        56.1%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  60:00   1  31/32  26/27   5/5   0/0     0
+              .969   .963 1.000
+Florida
+Panthers1-1-0Final1 - 3Ottawa
+Senators1-0-0
+Florida
+Panthers1-1-0
+Final1 - 3
+Ottawa
+Senators1-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+FLA   0  1  0    1  
+OTT   2  0  1    3
+1st Period: ShowHide
+P1  15:08 
+Niko Mikkola (FLA) high-sticking against Shane Pinto (2 minutes)
+   0-0
+P1  14:08 
+Tim Stützle (OTT) scores power-play goal on wrist shot past Sergei Bobrovsky, assisted by Josh Norris and Jake Sanderson
+   0-1
+P1  12:01 
+Adam Gaudette (OTT) tripping against Aaron Ekblad (2 minutes)
+   0-1
+P1  09:18 
+Shane Pinto (OTT) scores on wrist shot past Sergei Bobrovsky
+   0-2
+2nd Period: ShowHide
+P2  15:03 
+Drake Batherson (OTT) tripping against Dmitry Kulikov (2 minutes)
+   0-2
+P2  06:40 
+Niko Mikkola (FLA) interference against Michael Amadio (2 minutes)
+   0-2
+P2  04:12 
+Gustav Forsling (FLA) scores on slap shot past Linus Ullmark, assisted by Sam Bennett and Matthew Tkachuk
+   1-2
+3rd Period: ShowHide
+P3  04:54 
+Aaron Ekblad (FLA) holding against Tim Stützle (2 minutes)
+   1-2
+P3  01:10 
+Tim Stützle (OTT) scores on empty net, assisted by Brady Tkachuk
+   1-3
+1st Period: ShowHide
+P1  15:08 
+Niko Mikkola (FLA) high-sticking against Shane Pinto (2 minutes)
+   0-0
+P1  14:08 
+Tim Stützle (OTT) scores power-play goal on wrist shot past Sergei Bobrovsky, assisted by Josh Norris and Jake Sanderson
+   0-1
+P1  12:01 
+Adam Gaudette (OTT) tripping against Aaron Ekblad (2 minutes)
+   0-1
+P1  09:18 
+Shane Pinto (OTT) scores on wrist shot past Sergei Bobrovsky
+   0-2
+P1  15:08 
+Niko Mikkola (FLA) high-sticking against Shane Pinto (2 minutes)
+   0-0
+P1  14:08 
+Tim Stützle (OTT) scores power-play goal on wrist shot past Sergei Bobrovsky, assisted by Josh Norris and Jake Sanderson
+   0-1
+P1  12:01 
+Adam Gaudette (OTT) tripping against Aaron Ekblad (2 minutes)
+   0-1
+P1  09:18 
+Shane Pinto (OTT) scores on wrist shot past Sergei Bobrovsky
+   0-2
+P1  15:08
+Niko Mikkola (FLA) high-sticking against Shane Pinto (2 minutes)
+0-0
+P1  14:08
+Tim Stützle (OTT) scores power-play goal on wrist shot past Sergei Bobrovsky, assisted by Josh Norris and Jake Sanderson
+0-1
+P1  12:01
+Adam Gaudette (OTT) tripping against Aaron Ekblad (2 minutes)
+0-1
+P1  09:18
+Shane Pinto (OTT) scores on wrist shot past Sergei Bobrovsky
+0-2
+2nd Period: ShowHide
+P2  15:03 
+Drake Batherson (OTT) tripping against Dmitry Kulikov (2 minutes)
+   0-2
+P2  06:40 
+Niko Mikkola (FLA) interference against Michael Amadio (2 minutes)
+   0-2
+P2  04:12 
+Gustav Forsling (FLA) scores on slap shot past Linus Ullmark, assisted by Sam Bennett and Matthew Tkachuk
+   1-2
+P2  15:03 
+Drake Batherson (OTT) tripping against Dmitry Kulikov (2 minutes)
+   0-2
+P2  06:40 
+Niko Mikkola (FLA) interference against Michael Amadio (2 minutes)
+   0-2
+P2  04:12 
+Gustav Forsling (FLA) scores on slap shot past Linus Ullmark, assisted by Sam Bennett and Matthew Tkachuk
+   1-2
+P2  15:03
+Drake Batherson (OTT) tripping against Dmitry Kulikov (2 minutes)
+0-2
+P2  06:40
+Niko Mikkola (FLA) interference against Michael Amadio (2 minutes)
+0-2
+P2  04:12
+Gustav Forsling (FLA) scores on slap shot past Linus Ullmark, assisted by Sam Bennett and Matthew Tkachuk
+1-2
+3rd Period: ShowHide
+P3  04:54 
+Aaron Ekblad (FLA) holding against Tim Stützle (2 minutes)
+   1-2
+P3  01:10 
+Tim Stützle (OTT) scores on empty net, assisted by Brady Tkachuk
+   1-3
+P3  04:54 
+Aaron Ekblad (FLA) holding against Tim Stützle (2 minutes)
+   1-2
+P3  01:10 
+Tim Stützle (OTT) scores on empty net, assisted by Brady Tkachuk
+   1-3
+P3  04:54
+Aaron Ekblad (FLA) holding against Tim Stützle (2 minutes)
+1-2
+P3  01:10
+Tim Stützle (OTT) scores on empty net, assisted by Brady Tkachuk
+1-3
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  19:09   0  0   -1   1   1   0   0   0  9/16Sam Bennett C  17:56   0  1    0   4   2   0   0   0  6/13Jesper Boqvist C  10:02   0  0    0   0   0   0   0   0   1/5Jonah Gadjovich L  08:13   0  0    0   0   1   0   0   0   0/0A.J. Greer L  09:25   0  0    0   1   0   0   0   1   0/0Anton Lundell C  16:31   0  0   -1   4   0   0   0   0  4/11Eetu Luostarinen C  13:45   0  0   -1   1   1   0   1   0   0/1Sam Reinhart C  20:04   0  0   -1   1   4   0   0   1   2/7Evan Rodrigues C  15:27   0  0   -2   2   1   0   0   2   3/4Mackie Samoskevich R  12:22   0  0    0   3   1   0   0   0   0/0Matthew Tkachuk L  17:27   0  1    0   4   0   0   0   0   0/0Carter Verhaeghe C  20:15   0  0    1   4   0   0   0   2   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  18:20   0  0   -1   1   0   0   0   0   0/0Aaron Ekblad D  22:09   0  0    1   1   0   2   0   2   0/0Gustav Forsling D  23:06   1  0    1   2   1   0   0   3   0/0Dmitry Kulikov D  18:47   0  0   -1   2   0   0   1   0   0/0Niko Mikkola D  18:50   0  0   -1   0   0   4   0   1   0/0Nate Schmidt D  14:38   0  0    0   1   0   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  12   6   2  13 25/57
+                                        43.9%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  58:34   2  28/30  22/23   5/6   1/1     0
+              .933   .957  .833 1.000 
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  13:58   0  0    1   1   0   0   0   1   1/1Drake Batherson R  15:16   0  0    0   1   0   2   0   1   1/1Nick Cousins C  12:09   0  0    0   0   1   0   0   0   0/1Adam Gaudette R  09:23   0  0    0   0   0   2   0   0   3/5Claude Giroux R  17:38   0  0    0   1   1   0   0   1  7/10Noah Gregor L  12:51   0  0    0   1   2   0   0   0   0/0Ridly Greig C  15:07   0  0   -1   0   2   0   0   0   0/0Josh Norris C  18:08   0  1    0   1   1   0   0   1   5/8David Perron L  13:03   0  0    0   4   1   0   0   0   0/0Shane Pinto C  15:59   1  0    0   3   0   0   1   0  9/20Tim Stützle C  19:57   2  0    1   3   1   0   0   2   1/5Brady Tkachuk L  17:47   0  1    1   5   2   0   0   0   5/6Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Chabot D  18:15   0  0    0   3   5   0   0   3   0/0Travis Hamonic D  16:44   0  0    0   0   3   0   0   1   0/0Nick Jensen D  16:49   0  0    2   2   0   0   0   0   0/0Tyler Kleven D  16:54   0  0    0   0   4   0   0   0   0/0Jake Sanderson D  24:48   0  1    0   3   7   0   1   4   0/0Artem Zub D  21:14   0  0    1   3   0   0   0   0   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       31  30   4   2  14 32/57
+                                        56.1%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  60:00   1  31/32  26/27   5/5   0/0     0
+              .969   .963 1.000
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAleksander Barkov C  19:09   0  0   -1   1   1   0   0   0  9/16Sam Bennett C  17:56   0  1    0   4   2   0   0   0  6/13Jesper Boqvist C  10:02   0  0    0   0   0   0   0   0   1/5Jonah Gadjovich L  08:13   0  0    0   0   1   0   0   0   0/0A.J. Greer L  09:25   0  0    0   1   0   0   0   1   0/0Anton Lundell C  16:31   0  0   -1   4   0   0   0   0  4/11Eetu Luostarinen C  13:45   0  0   -1   1   1   0   1   0   0/1Sam Reinhart C  20:04   0  0   -1   1   4   0   0   1   2/7Evan Rodrigues C  15:27   0  0   -2   2   1   0   0   2   3/4Mackie Samoskevich R  12:22   0  0    0   3   1   0   0   0   0/0Matthew Tkachuk L  17:27   0  1    0   4   0   0   0   0   0/0Carter Verhaeghe C  20:15   0  0    1   4   0   0   0   2   0/0
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Aleksander Barkov C
+19:09   0  0   -1   1   1   0   0   0  9/16
+Sam Bennett C
+17:56   0  1    0   4   2   0   0   0  6/13
+Jesper Boqvist C
+10:02   0  0    0   0   0   0   0   0   1/5
+Jonah Gadjovich L
+08:13   0  0    0   0   1   0   0   0   0/0
+A.J. Greer L
+09:25   0  0    0   1   0   0   0   1   0/0
+Anton Lundell C
+16:31   0  0   -1   4   0   0   0   0  4/11
+Eetu Luostarinen C
+13:45   0  0   -1   1   1   0   1   0   0/1
+Sam Reinhart C
+20:04   0  0   -1   1   4   0   0   1   2/7
+Evan Rodrigues C
+15:27   0  0   -2   2   1   0   0   2   3/4
+Mackie Samoskevich R
+12:22   0  0    0   3   1   0   0   0   0/0
+Matthew Tkachuk L
+17:27   0  1    0   4   0   0   0   0   0/0
+Carter Verhaeghe C
+20:15   0  0    1   4   0   0   0   2   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  18:20   0  0   -1   1   0   0   0   0   0/0Aaron Ekblad D  22:09   0  0    1   1   0   2   0   2   0/0Gustav Forsling D  23:06   1  0    1   2   1   0   0   3   0/0Dmitry Kulikov D  18:47   0  0   -1   2   0   0   1   0   0/0Niko Mikkola D  18:50   0  0   -1   0   0   4   0   1   0/0Nate Schmidt D  14:38   0  0    0   1   0   0   0   1   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+18:20   0  0   -1   1   0   0   0   0   0/0
+Aaron Ekblad D
+22:09   0  0    1   1   0   2   0   2   0/0
+Gustav Forsling D
+23:06   1  0    1   2   1   0   0   3   0/0
+Dmitry Kulikov D
+18:47   0  0   -1   2   0   0   1   0   0/0
+Niko Mikkola D
+18:50   0  0   -1   0   0   4   0   1   0/0
+Nate Schmidt D
+14:38   0  0    0   1   0   0   0   1   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  12   6   2  13 25/57
+                                        43.9%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  58:34   2  28/30  22/23   5/6   1/1     0
+              .933   .957  .833 1.000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sergei Bobrovsky G
+58:34   2  28/30  22/23   5/6   1/1     0
+              .933   .957  .833 1.000
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  13:58   0  0    1   1   0   0   0   1   1/1Drake Batherson R  15:16   0  0    0   1   0   2   0   1   1/1Nick Cousins C  12:09   0  0    0   0   1   0   0   0   0/1Adam Gaudette R  09:23   0  0    0   0   0   2   0   0   3/5Claude Giroux R  17:38   0  0    0   1   1   0   0   1  7/10Noah Gregor L  12:51   0  0    0   1   2   0   0   0   0/0Ridly Greig C  15:07   0  0   -1   0   2   0   0   0   0/0Josh Norris C  18:08   0  1    0   1   1   0   0   1   5/8David Perron L  13:03   0  0    0   4   1   0   0   0   0/0Shane Pinto C  15:59   1  0    0   3   0   0   1   0  9/20Tim Stützle C  19:57   2  0    1   3   1   0   0   2   1/5Brady Tkachuk L  17:47   0  1    1   5   2   0   0   0   5/6
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+13:58   0  0    1   1   0   0   0   1   1/1
+Drake Batherson R
+15:16   0  0    0   1   0   2   0   1   1/1
+Nick Cousins C
+12:09   0  0    0   0   1   0   0   0   0/1
+Adam Gaudette R
+09:23   0  0    0   0   0   2   0   0   3/5
+Claude Giroux R
+17:38   0  0    0   1   1   0   0   1  7/10
+Noah Gregor L
+12:51   0  0    0   1   2   0   0   0   0/0
+Ridly Greig C
+15:07   0  0   -1   0   2   0   0   0   0/0
+Josh Norris C
+18:08   0  1    0   1   1   0   0   1   5/8
+David Perron L
+13:03   0  0    0   4   1   0   0   0   0/0
+Shane Pinto C
+15:59   1  0    0   3   0   0   1   0  9/20
+Tim Stützle C
+19:57   2  0    1   3   1   0   0   2   1/5
+Brady Tkachuk L
+17:47   0  1    1   5   2   0   0   0   5/6
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Chabot D  18:15   0  0    0   3   5   0   0   3   0/0Travis Hamonic D  16:44   0  0    0   0   3   0   0   1   0/0Nick Jensen D  16:49   0  0    2   2   0   0   0   0   0/0Tyler Kleven D  16:54   0  0    0   0   4   0   0   0   0/0Jake Sanderson D  24:48   0  1    0   3   7   0   1   4   0/0Artem Zub D  21:14   0  0    1   3   0   0   0   0   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Thomas Chabot D
+18:15   0  0    0   3   5   0   0   3   0/0
+Travis Hamonic D
+16:44   0  0    0   0   3   0   0   1   0/0
+Nick Jensen D
+16:49   0  0    2   2   0   0   0   0   0/0
+Tyler Kleven D
+16:54   0  0    0   0   4   0   0   0   0/0
+Jake Sanderson D
+24:48   0  1    0   3   7   0   1   4   0/0
+Artem Zub D
+21:14   0  0    1   3   0   0   0   0   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       31  30   4   2  14 32/57
+                                        56.1%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLinus Ullmark G  60:00   1  31/32  26/27   5/5   0/0     0
+              .969   .963 1.000
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Linus Ullmark G
+60:00   1  31/32  26/27   5/5   0/0     0
+              .969   .963 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

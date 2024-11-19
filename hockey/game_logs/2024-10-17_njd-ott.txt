@@ -1,0 +1,322 @@
+< Oct. 17 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New Jersey
+Devils5-2-0Final3 - 1Ottawa
+Senators2-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NJD   0  2  1    3  
+OTT   0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:10 
+Jonas Siegenthaler (NJD) holding the stick against Drake Batherson (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:34 
+Josh Norris (OTT) tripping against Timo Meier (2 minutes)
+   0-0
+P2  17:21 
+Erik Haula (NJD) scores on tip-in past Anton Forsberg, assisted by Johnathan Kovacevic and Timo Meier
+   1-0
+P2  14:43 
+Jonas Siegenthaler (NJD) interference against Brady Tkachuk (2 minutes)
+   1-0
+P2  13:34 
+Nathan Bastian (NJD) scores short-handed goal on snap shot past Anton Forsberg
+   2-0
+P2  09:16 
+Tyler Kleven (OTT) hooking against Curtis Lazar (2 minutes)
+   2-0
+3rd Period: ShowHide
+P3  07:21 
+Paul Cotter (NJD) scores on snap shot past Anton Forsberg, assisted by Dougie Hamilton and Brenden Dillon
+   3-0
+P3  02:41 
+Simon Nemec (NJD) tripping against Michael Amadio (2 minutes)
+   3-0
+P3  01:05 
+Brady Tkachuk (OTT) scores goal with extra attacker on deflection past Jacob Markstrom, assisted by Claude Giroux and Jake Sanderson
+   3-1
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  10:45   1  0    1   2   0   0   0   1   0/0Jesper Bratt L  17:41   0  0    0   2   0   0   1   0   0/0Paul Cotter C  14:16   1  0    1   2   0   0   0   0   1/7Erik Haula L  12:30   1  0    1   2   1   0   1   0   5/9Nico Hischier C  19:53   0  0    1   4   1   0   0   0 13/24Jack Hughes C  20:17   0  0    0   1   1   0   0   2   0/1Curtis Lazar C  12:31   0  0    1   1   0   0   0   1   4/6Timo Meier R  15:58   0  1    1   5   1   0   0   1   0/1Dawson Mercer C  17:39   0  0    2   0   0   0   0   1   0/0Stefan Noesen R  15:08   0  0    0   6   2   0   0   0   0/0Ondrej Palat L  10:52   0  0    0   1   0   0   0   1   0/0Tomas Tatar L  09:58   0  0    0   3   0   0   0   1   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  10:03   0  0    0   0   0   0   0   0   0/0Brenden Dillon D  24:04   0  1    2   0   3   0   0   0   0/0Dougie Hamilton D  21:06   0  1    1   4   1   0   0   1   0/0Johnathan Kovacevic D  24:50   0  1    2   1   2   0   0   3   0/0Simon Nemec D  13:58   0  0    0   0   1   2   1   0   0/0Jonas Siegenthaler D  22:55   0  0    1   1   1   4   0   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       35  14   6   3  14 23/48
+                                        47.9%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  60:00   1  30/31  29/29   1/2   0/0     0
+              .968  1.000  .500 
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:28   0  0   -1   3   1   0   1   1   1/1Drake Batherson R  18:12   0  0   -1   1   0   0   0   0   0/0Nick Cousins C  14:22   0  0   -2   3   1   0   0   0   0/0Adam Gaudette R  08:57   0  0    0   3   0   0   0   2   1/4Claude Giroux R  18:45   0  1   -1   0   0   0   0   2  8/11Noah Gregor L  12:31   0  0    0   3   1   0   0   1   0/0Zack MacEwen R  09:50   0  0    0   0   1   0   0   0   0/0Josh Norris C  16:35   0  0   -1   1   1   2   0   0  8/14David Perron L  12:15   0  0   -2   2   0   0   0   1   0/0Shane Pinto C  17:37   0  0   -2   2   0   0   0   1   2/8Tim Stützle C  20:23   0  0    0   0   1   0   0   1   2/4Brady Tkachuk L  19:05   1  0    0   3   2   0   0   0   3/6Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:55   0  0   -1   2   0   0   0   0   0/0Thomas Chabot D  23:04   0  0   -2   1   5   0   1   2   0/0Travis Hamonic D  18:44   0  0    0   1   2   0   0   3   0/0Nick Jensen D  19:28   0  0   -1   1   2   0   0   0   0/0Tyler Kleven D  14:33   0  0   -1   1   0   2   0   1   0/0Jake Sanderson D  23:26   0  1    0   4   3   0   2   1   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  20   4   4  16 25/48
+                                        52.1%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  57:50   3  32/35  24/26   6/6   2/3     0
+              .914   .923 1.000  .667
+New Jersey
+Devils5-2-0Final3 - 1Ottawa
+Senators2-2-0
+New Jersey
+Devils5-2-0
+Final3 - 1
+Ottawa
+Senators2-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NJD   0  2  1    3  
+OTT   0  0  1    1
+1st Period: ShowHide
+P1  18:10 
+Jonas Siegenthaler (NJD) holding the stick against Drake Batherson (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:34 
+Josh Norris (OTT) tripping against Timo Meier (2 minutes)
+   0-0
+P2  17:21 
+Erik Haula (NJD) scores on tip-in past Anton Forsberg, assisted by Johnathan Kovacevic and Timo Meier
+   1-0
+P2  14:43 
+Jonas Siegenthaler (NJD) interference against Brady Tkachuk (2 minutes)
+   1-0
+P2  13:34 
+Nathan Bastian (NJD) scores short-handed goal on snap shot past Anton Forsberg
+   2-0
+P2  09:16 
+Tyler Kleven (OTT) hooking against Curtis Lazar (2 minutes)
+   2-0
+3rd Period: ShowHide
+P3  07:21 
+Paul Cotter (NJD) scores on snap shot past Anton Forsberg, assisted by Dougie Hamilton and Brenden Dillon
+   3-0
+P3  02:41 
+Simon Nemec (NJD) tripping against Michael Amadio (2 minutes)
+   3-0
+P3  01:05 
+Brady Tkachuk (OTT) scores goal with extra attacker on deflection past Jacob Markstrom, assisted by Claude Giroux and Jake Sanderson
+   3-1
+1st Period: ShowHide
+P1  18:10 
+Jonas Siegenthaler (NJD) holding the stick against Drake Batherson (2 minutes)
+   0-0
+P1  18:10 
+Jonas Siegenthaler (NJD) holding the stick against Drake Batherson (2 minutes)
+   0-0
+P1  18:10
+Jonas Siegenthaler (NJD) holding the stick against Drake Batherson (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  19:34 
+Josh Norris (OTT) tripping against Timo Meier (2 minutes)
+   0-0
+P2  17:21 
+Erik Haula (NJD) scores on tip-in past Anton Forsberg, assisted by Johnathan Kovacevic and Timo Meier
+   1-0
+P2  14:43 
+Jonas Siegenthaler (NJD) interference against Brady Tkachuk (2 minutes)
+   1-0
+P2  13:34 
+Nathan Bastian (NJD) scores short-handed goal on snap shot past Anton Forsberg
+   2-0
+P2  09:16 
+Tyler Kleven (OTT) hooking against Curtis Lazar (2 minutes)
+   2-0
+P2  19:34 
+Josh Norris (OTT) tripping against Timo Meier (2 minutes)
+   0-0
+P2  17:21 
+Erik Haula (NJD) scores on tip-in past Anton Forsberg, assisted by Johnathan Kovacevic and Timo Meier
+   1-0
+P2  14:43 
+Jonas Siegenthaler (NJD) interference against Brady Tkachuk (2 minutes)
+   1-0
+P2  13:34 
+Nathan Bastian (NJD) scores short-handed goal on snap shot past Anton Forsberg
+   2-0
+P2  09:16 
+Tyler Kleven (OTT) hooking against Curtis Lazar (2 minutes)
+   2-0
+P2  19:34
+Josh Norris (OTT) tripping against Timo Meier (2 minutes)
+0-0
+P2  17:21
+Erik Haula (NJD) scores on tip-in past Anton Forsberg, assisted by Johnathan Kovacevic and Timo Meier
+1-0
+P2  14:43
+Jonas Siegenthaler (NJD) interference against Brady Tkachuk (2 minutes)
+1-0
+P2  13:34
+Nathan Bastian (NJD) scores short-handed goal on snap shot past Anton Forsberg
+2-0
+P2  09:16
+Tyler Kleven (OTT) hooking against Curtis Lazar (2 minutes)
+2-0
+3rd Period: ShowHide
+P3  07:21 
+Paul Cotter (NJD) scores on snap shot past Anton Forsberg, assisted by Dougie Hamilton and Brenden Dillon
+   3-0
+P3  02:41 
+Simon Nemec (NJD) tripping against Michael Amadio (2 minutes)
+   3-0
+P3  01:05 
+Brady Tkachuk (OTT) scores goal with extra attacker on deflection past Jacob Markstrom, assisted by Claude Giroux and Jake Sanderson
+   3-1
+P3  07:21 
+Paul Cotter (NJD) scores on snap shot past Anton Forsberg, assisted by Dougie Hamilton and Brenden Dillon
+   3-0
+P3  02:41 
+Simon Nemec (NJD) tripping against Michael Amadio (2 minutes)
+   3-0
+P3  01:05 
+Brady Tkachuk (OTT) scores goal with extra attacker on deflection past Jacob Markstrom, assisted by Claude Giroux and Jake Sanderson
+   3-1
+P3  07:21
+Paul Cotter (NJD) scores on snap shot past Anton Forsberg, assisted by Dougie Hamilton and Brenden Dillon
+3-0
+P3  02:41
+Simon Nemec (NJD) tripping against Michael Amadio (2 minutes)
+3-0
+P3  01:05
+Brady Tkachuk (OTT) scores goal with extra attacker on deflection past Jacob Markstrom, assisted by Claude Giroux and Jake Sanderson
+3-1
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  10:45   1  0    1   2   0   0   0   1   0/0Jesper Bratt L  17:41   0  0    0   2   0   0   1   0   0/0Paul Cotter C  14:16   1  0    1   2   0   0   0   0   1/7Erik Haula L  12:30   1  0    1   2   1   0   1   0   5/9Nico Hischier C  19:53   0  0    1   4   1   0   0   0 13/24Jack Hughes C  20:17   0  0    0   1   1   0   0   2   0/1Curtis Lazar C  12:31   0  0    1   1   0   0   0   1   4/6Timo Meier R  15:58   0  1    1   5   1   0   0   1   0/1Dawson Mercer C  17:39   0  0    2   0   0   0   0   1   0/0Stefan Noesen R  15:08   0  0    0   6   2   0   0   0   0/0Ondrej Palat L  10:52   0  0    0   1   0   0   0   1   0/0Tomas Tatar L  09:58   0  0    0   3   0   0   0   1   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  10:03   0  0    0   0   0   0   0   0   0/0Brenden Dillon D  24:04   0  1    2   0   3   0   0   0   0/0Dougie Hamilton D  21:06   0  1    1   4   1   0   0   1   0/0Johnathan Kovacevic D  24:50   0  1    2   1   2   0   0   3   0/0Simon Nemec D  13:58   0  0    0   0   1   2   1   0   0/0Jonas Siegenthaler D  22:55   0  0    1   1   1   4   0   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       35  14   6   3  14 23/48
+                                        47.9%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  60:00   1  30/31  29/29   1/2   0/0     0
+              .968  1.000  .500 
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:28   0  0   -1   3   1   0   1   1   1/1Drake Batherson R  18:12   0  0   -1   1   0   0   0   0   0/0Nick Cousins C  14:22   0  0   -2   3   1   0   0   0   0/0Adam Gaudette R  08:57   0  0    0   3   0   0   0   2   1/4Claude Giroux R  18:45   0  1   -1   0   0   0   0   2  8/11Noah Gregor L  12:31   0  0    0   3   1   0   0   1   0/0Zack MacEwen R  09:50   0  0    0   0   1   0   0   0   0/0Josh Norris C  16:35   0  0   -1   1   1   2   0   0  8/14David Perron L  12:15   0  0   -2   2   0   0   0   1   0/0Shane Pinto C  17:37   0  0   -2   2   0   0   0   1   2/8Tim Stützle C  20:23   0  0    0   0   1   0   0   1   2/4Brady Tkachuk L  19:05   1  0    0   3   2   0   0   0   3/6Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:55   0  0   -1   2   0   0   0   0   0/0Thomas Chabot D  23:04   0  0   -2   1   5   0   1   2   0/0Travis Hamonic D  18:44   0  0    0   1   2   0   0   3   0/0Nick Jensen D  19:28   0  0   -1   1   2   0   0   0   0/0Tyler Kleven D  14:33   0  0   -1   1   0   2   0   1   0/0Jake Sanderson D  23:26   0  1    0   4   3   0   2   1   0/0Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  20   4   4  16 25/48
+                                        52.1%Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  57:50   3  32/35  24/26   6/6   2/3     0
+              .914   .923 1.000  .667
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  10:45   1  0    1   2   0   0   0   1   0/0Jesper Bratt L  17:41   0  0    0   2   0   0   1   0   0/0Paul Cotter C  14:16   1  0    1   2   0   0   0   0   1/7Erik Haula L  12:30   1  0    1   2   1   0   1   0   5/9Nico Hischier C  19:53   0  0    1   4   1   0   0   0 13/24Jack Hughes C  20:17   0  0    0   1   1   0   0   2   0/1Curtis Lazar C  12:31   0  0    1   1   0   0   0   1   4/6Timo Meier R  15:58   0  1    1   5   1   0   0   1   0/1Dawson Mercer C  17:39   0  0    2   0   0   0   0   1   0/0Stefan Noesen R  15:08   0  0    0   6   2   0   0   0   0/0Ondrej Palat L  10:52   0  0    0   1   0   0   0   1   0/0Tomas Tatar L  09:58   0  0    0   3   0   0   0   1   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+10:45   1  0    1   2   0   0   0   1   0/0
+Jesper Bratt L
+17:41   0  0    0   2   0   0   1   0   0/0
+Paul Cotter C
+14:16   1  0    1   2   0   0   0   0   1/7
+Erik Haula L
+12:30   1  0    1   2   1   0   1   0   5/9
+Nico Hischier C
+19:53   0  0    1   4   1   0   0   0 13/24
+Jack Hughes C
+20:17   0  0    0   1   1   0   0   2   0/1
+Curtis Lazar C
+12:31   0  0    1   1   0   0   0   1   4/6
+Timo Meier R
+15:58   0  1    1   5   1   0   0   1   0/1
+Dawson Mercer C
+17:39   0  0    2   0   0   0   0   1   0/0
+Stefan Noesen R
+15:08   0  0    0   6   2   0   0   0   0/0
+Ondrej Palat L
+10:52   0  0    0   1   0   0   0   1   0/0
+Tomas Tatar L
+09:58   0  0    0   3   0   0   0   1   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  10:03   0  0    0   0   0   0   0   0   0/0Brenden Dillon D  24:04   0  1    2   0   3   0   0   0   0/0Dougie Hamilton D  21:06   0  1    1   4   1   0   0   1   0/0Johnathan Kovacevic D  24:50   0  1    2   1   2   0   0   3   0/0Simon Nemec D  13:58   0  0    0   0   1   2   1   0   0/0Jonas Siegenthaler D  22:55   0  0    1   1   1   4   0   2   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Seamus Casey D
+10:03   0  0    0   0   0   0   0   0   0/0
+Brenden Dillon D
+24:04   0  1    2   0   3   0   0   0   0/0
+Dougie Hamilton D
+21:06   0  1    1   4   1   0   0   1   0/0
+Johnathan Kovacevic D
+24:50   0  1    2   1   2   0   0   3   0/0
+Simon Nemec D
+13:58   0  0    0   0   1   2   1   0   0/0
+Jonas Siegenthaler D
+22:55   0  0    1   1   1   4   0   2   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       35  14   6   3  14 23/48
+                                        47.9%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  60:00   1  30/31  29/29   1/2   0/0     0
+              .968  1.000  .500
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+60:00   1  30/31  29/29   1/2   0/0     0
+              .968  1.000  .500
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMichael Amadio R  15:28   0  0   -1   3   1   0   1   1   1/1Drake Batherson R  18:12   0  0   -1   1   0   0   0   0   0/0Nick Cousins C  14:22   0  0   -2   3   1   0   0   0   0/0Adam Gaudette R  08:57   0  0    0   3   0   0   0   2   1/4Claude Giroux R  18:45   0  1   -1   0   0   0   0   2  8/11Noah Gregor L  12:31   0  0    0   3   1   0   0   1   0/0Zack MacEwen R  09:50   0  0    0   0   1   0   0   0   0/0Josh Norris C  16:35   0  0   -1   1   1   2   0   0  8/14David Perron L  12:15   0  0   -2   2   0   0   0   1   0/0Shane Pinto C  17:37   0  0   -2   2   0   0   0   1   2/8Tim Stützle C  20:23   0  0    0   0   1   0   0   1   2/4Brady Tkachuk L  19:05   1  0    0   3   2   0   0   0   3/6
+Senators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Michael Amadio R
+15:28   0  0   -1   3   1   0   1   1   1/1
+Drake Batherson R
+18:12   0  0   -1   1   0   0   0   0   0/0
+Nick Cousins C
+14:22   0  0   -2   3   1   0   0   0   0/0
+Adam Gaudette R
+08:57   0  0    0   3   0   0   0   2   1/4
+Claude Giroux R
+18:45   0  1   -1   0   0   0   0   2  8/11
+Noah Gregor L
+12:31   0  0    0   3   1   0   0   1   0/0
+Zack MacEwen R
+09:50   0  0    0   0   1   0   0   0   0/0
+Josh Norris C
+16:35   0  0   -1   1   1   2   0   0  8/14
+David Perron L
+12:15   0  0   -2   2   0   0   0   1   0/0
+Shane Pinto C
+17:37   0  0   -2   2   0   0   0   1   2/8
+Tim Stützle C
+20:23   0  0    0   0   1   0   0   1   2/4
+Brady Tkachuk L
+19:05   1  0    0   3   2   0   0   0   3/6
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJacob Bernard-Docker D  14:55   0  0   -1   2   0   0   0   0   0/0Thomas Chabot D  23:04   0  0   -2   1   5   0   1   2   0/0Travis Hamonic D  18:44   0  0    0   1   2   0   0   3   0/0Nick Jensen D  19:28   0  0   -1   1   2   0   0   0   0/0Tyler Kleven D  14:33   0  0   -1   1   0   2   0   1   0/0Jake Sanderson D  23:26   0  1    0   4   3   0   2   1   0/0
+Senators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jacob Bernard-Docker D
+14:55   0  0   -1   2   0   0   0   0   0/0
+Thomas Chabot D
+23:04   0  0   -2   1   5   0   1   2   0/0
+Travis Hamonic D
+18:44   0  0    0   1   2   0   0   3   0/0
+Nick Jensen D
+19:28   0  0   -1   1   2   0   0   0   0/0
+Tyler Kleven D
+14:33   0  0   -1   1   0   2   0   1   0/0
+Jake Sanderson D
+23:26   0  1    0   4   3   0   2   1   0/0
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  20   4   4  16 25/48
+                                        52.1%
+Senators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnton Forsberg G  57:50   3  32/35  24/26   6/6   2/3     0
+              .914   .923 1.000  .667
+Senators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Anton Forsberg G
+57:50   3  32/35  24/26   6/6   2/3     0
+              .914   .923 1.000  .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

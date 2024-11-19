@@ -1,0 +1,367 @@
+< Oct. 17 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Vegas
+Golden Knights3-2-0Final3 - 4Tampa Bay
+Lightning3-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+VGK   2  1  0    3  
+TBL   2  0  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:34 
+Brayden McNabb (VGK) scores on snap shot past Andrei Vasilevskiy, assisted by Mark Stone and Jack Eichel
+   1-0
+P1  09:39 
+Janis Moser (TBL) scores on wrist shot past Adin Hill, assisted by Cameron Atkinson and Emil Lilleberg
+   1-1
+P1  05:54 
+Conor Geekie (TBL) roughing against Brayden McNabb (2 minutes)
+   1-1
+P1  04:40 
+Pavel Dorofeyev (VGK) scores power-play goal on slap shot past Andrei Vasilevskiy, assisted by Shea Theodore and Jack Eichel
+   2-1
+P1  00:13 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Jake Guentzel
+   2-2
+2nd Period: ShowHide
+P2  18:01 
+Ivan Barbashev (VGK) scores on wrist shot past Andrei Vasilevskiy, assisted by Shea Theodore
+   3-2
+P2  10:44 
+Michael Eyssimont (TBL) slashing against Jack Eichel (2 minutes)
+   3-2
+P2  02:13 
+Zach Whitecloud (VGK) slashing against Jake Guentzel (2 minutes)
+   3-2
+P2  01:23 
+VGK penalty, too many men on the ice (2 minutes), served by Brendan Brisson
+   3-2
+3rd Period: ShowHide
+P3  18:52 
+Conor Geekie (TBL) hooking against Pavel Dorofeyev (2 minutes)
+   3-2
+P3  02:22 
+Brandon Hagel (TBL) scores on wrist shot past Adin Hill, assisted by Mitchell Chaffee and Janis Moser
+   3-3
+P3  00:55 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Victor Hedman and Janis Moser
+   3-4
+Box Score:
+ 
+Back to Top
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  16:16   1  0    2   1   1   0   0   1   0/0Brendan Brisson C  09:05   0  0    0   1   0   0   0   0   0/0Pavel Dorofeyev L  18:03   1  0   -1   3   1   0   0   1   0/0Jack Eichel C  22:36   0  2    2   1   2   0   1   0  8/17Tomas Hertl C  19:39   0  0   -2   3   1   0   0   0  7/13Alexander Holtz R  11:31   0  0   -1   3   2   0   0   0   0/0Brett Howden C  13:42   0  0   -2   0   0   0   1   1   3/5Keegan Kolesar R  13:14   0  0   -1   0   1   0   0   1   0/0Tanner Pearson L  14:11   0  0   -2   2   2   0   0   1   0/0Nicolas Roy C  13:16   0  0   -2   0   0   0   0   0   3/6Cole Schwindt R  08:46   0  0    0   1   0   0   0   0   5/5Mark Stone R  21:13   0  1    1   0   0   0   0   0   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  15:03   0  0   -1   0   1   0   0   1   0/0Noah Hanifin D  17:22   0  0   -2   2   2   0   0   0   0/0Brayden McNabb D  20:01   1  0    1   2   2   0   0   0   0/0Alex Pietrangelo D  20:54   0  0   -2   3   2   0   2   1   0/0Shea Theodore D  23:13   0  2   -1   3   3   0   0   3   0/0Zach Whitecloud D  19:12   0  0    1   0   1   2   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       25  21   2   4  11 26/46
+                                        56.5%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  58:43   4  21/25  17/21   4/4   0/0     0
+              .840   .810 1.000 
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  09:11   0  1    1   1   0   0   0   0   0/0Mitchell Chaffee R  09:08   0  1    1   0   0   0   0   0   0/0Anthony Cirelli C  15:12   0  0   -2   1   2   0   0   0  8/11Michael Eyssimont C  10:49   0  0    1   0   0   2   0   2   0/1Conor Geekie C  11:31   0  0    1   0   0   4   0   0   1/5Zemgus Girgensons C  11:00   0  0    0   1   1   0   0   0   0/1Luke Glendening C  11:51   0  0    0   0   1   0   1   1   3/9Jake Guentzel C  20:43   0  1    1   3   1   0   0   1   2/2Brandon Hagel L  16:15   1  0    0   1   0   0   0   1   0/0Nikita Kucherov R  23:06   2  0    2   6   0   0   0   1   0/0Nicholas Paul L  14:52   0  0   -1   2   1   0   0   0   1/3Brayden Point C  21:00   0  0    2   3   1   0   1   0  5/14Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  21:04   0  0   -1   0   1   0   0   0   0/0Victor Hedman D  24:35   0  1    0   3   0   0   0   2   0/0Emil Lilleberg D  12:49   0  1    1   1   1   0   0   0   0/0Ryan McDonagh D  22:53   0  0    1   0   4   0   0   2   0/0Janis Moser D  20:27   1  2    3   3   1   0   0   2   0/0Darren Raddysh D  18:20   0  0    0   0   0   0   0   1   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       25  14   6   2  13 20/46
+                                        43.5%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   3  22/25  18/20   3/4   1/1     0
+              .880   .900  .750 1.000
+Vegas
+Golden Knights3-2-0Final3 - 4Tampa Bay
+Lightning3-0-0
+Vegas
+Golden Knights3-2-0
+Final3 - 4
+Tampa Bay
+Lightning3-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+VGK   2  1  0    3  
+TBL   2  0  2    4
+1st Period: ShowHide
+P1  14:34 
+Brayden McNabb (VGK) scores on snap shot past Andrei Vasilevskiy, assisted by Mark Stone and Jack Eichel
+   1-0
+P1  09:39 
+Janis Moser (TBL) scores on wrist shot past Adin Hill, assisted by Cameron Atkinson and Emil Lilleberg
+   1-1
+P1  05:54 
+Conor Geekie (TBL) roughing against Brayden McNabb (2 minutes)
+   1-1
+P1  04:40 
+Pavel Dorofeyev (VGK) scores power-play goal on slap shot past Andrei Vasilevskiy, assisted by Shea Theodore and Jack Eichel
+   2-1
+P1  00:13 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Jake Guentzel
+   2-2
+2nd Period: ShowHide
+P2  18:01 
+Ivan Barbashev (VGK) scores on wrist shot past Andrei Vasilevskiy, assisted by Shea Theodore
+   3-2
+P2  10:44 
+Michael Eyssimont (TBL) slashing against Jack Eichel (2 minutes)
+   3-2
+P2  02:13 
+Zach Whitecloud (VGK) slashing against Jake Guentzel (2 minutes)
+   3-2
+P2  01:23 
+VGK penalty, too many men on the ice (2 minutes), served by Brendan Brisson
+   3-2
+3rd Period: ShowHide
+P3  18:52 
+Conor Geekie (TBL) hooking against Pavel Dorofeyev (2 minutes)
+   3-2
+P3  02:22 
+Brandon Hagel (TBL) scores on wrist shot past Adin Hill, assisted by Mitchell Chaffee and Janis Moser
+   3-3
+P3  00:55 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Victor Hedman and Janis Moser
+   3-4
+1st Period: ShowHide
+P1  14:34 
+Brayden McNabb (VGK) scores on snap shot past Andrei Vasilevskiy, assisted by Mark Stone and Jack Eichel
+   1-0
+P1  09:39 
+Janis Moser (TBL) scores on wrist shot past Adin Hill, assisted by Cameron Atkinson and Emil Lilleberg
+   1-1
+P1  05:54 
+Conor Geekie (TBL) roughing against Brayden McNabb (2 minutes)
+   1-1
+P1  04:40 
+Pavel Dorofeyev (VGK) scores power-play goal on slap shot past Andrei Vasilevskiy, assisted by Shea Theodore and Jack Eichel
+   2-1
+P1  00:13 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Jake Guentzel
+   2-2
+P1  14:34 
+Brayden McNabb (VGK) scores on snap shot past Andrei Vasilevskiy, assisted by Mark Stone and Jack Eichel
+   1-0
+P1  09:39 
+Janis Moser (TBL) scores on wrist shot past Adin Hill, assisted by Cameron Atkinson and Emil Lilleberg
+   1-1
+P1  05:54 
+Conor Geekie (TBL) roughing against Brayden McNabb (2 minutes)
+   1-1
+P1  04:40 
+Pavel Dorofeyev (VGK) scores power-play goal on slap shot past Andrei Vasilevskiy, assisted by Shea Theodore and Jack Eichel
+   2-1
+P1  00:13 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Jake Guentzel
+   2-2
+P1  14:34
+Brayden McNabb (VGK) scores on snap shot past Andrei Vasilevskiy, assisted by Mark Stone and Jack Eichel
+1-0
+P1  09:39
+Janis Moser (TBL) scores on wrist shot past Adin Hill, assisted by Cameron Atkinson and Emil Lilleberg
+1-1
+P1  05:54
+Conor Geekie (TBL) roughing against Brayden McNabb (2 minutes)
+1-1
+P1  04:40
+Pavel Dorofeyev (VGK) scores power-play goal on slap shot past Andrei Vasilevskiy, assisted by Shea Theodore and Jack Eichel
+2-1
+P1  00:13
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Jake Guentzel
+2-2
+2nd Period: ShowHide
+P2  18:01 
+Ivan Barbashev (VGK) scores on wrist shot past Andrei Vasilevskiy, assisted by Shea Theodore
+   3-2
+P2  10:44 
+Michael Eyssimont (TBL) slashing against Jack Eichel (2 minutes)
+   3-2
+P2  02:13 
+Zach Whitecloud (VGK) slashing against Jake Guentzel (2 minutes)
+   3-2
+P2  01:23 
+VGK penalty, too many men on the ice (2 minutes), served by Brendan Brisson
+   3-2
+P2  18:01 
+Ivan Barbashev (VGK) scores on wrist shot past Andrei Vasilevskiy, assisted by Shea Theodore
+   3-2
+P2  10:44 
+Michael Eyssimont (TBL) slashing against Jack Eichel (2 minutes)
+   3-2
+P2  02:13 
+Zach Whitecloud (VGK) slashing against Jake Guentzel (2 minutes)
+   3-2
+P2  01:23 
+VGK penalty, too many men on the ice (2 minutes), served by Brendan Brisson
+   3-2
+P2  18:01
+Ivan Barbashev (VGK) scores on wrist shot past Andrei Vasilevskiy, assisted by Shea Theodore
+3-2
+P2  10:44
+Michael Eyssimont (TBL) slashing against Jack Eichel (2 minutes)
+3-2
+P2  02:13
+Zach Whitecloud (VGK) slashing against Jake Guentzel (2 minutes)
+3-2
+P2  01:23
+VGK penalty, too many men on the ice (2 minutes), served by Brendan Brisson
+3-2
+3rd Period: ShowHide
+P3  18:52 
+Conor Geekie (TBL) hooking against Pavel Dorofeyev (2 minutes)
+   3-2
+P3  02:22 
+Brandon Hagel (TBL) scores on wrist shot past Adin Hill, assisted by Mitchell Chaffee and Janis Moser
+   3-3
+P3  00:55 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Victor Hedman and Janis Moser
+   3-4
+P3  18:52 
+Conor Geekie (TBL) hooking against Pavel Dorofeyev (2 minutes)
+   3-2
+P3  02:22 
+Brandon Hagel (TBL) scores on wrist shot past Adin Hill, assisted by Mitchell Chaffee and Janis Moser
+   3-3
+P3  00:55 
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Victor Hedman and Janis Moser
+   3-4
+P3  18:52
+Conor Geekie (TBL) hooking against Pavel Dorofeyev (2 minutes)
+3-2
+P3  02:22
+Brandon Hagel (TBL) scores on wrist shot past Adin Hill, assisted by Mitchell Chaffee and Janis Moser
+3-3
+P3  00:55
+Nikita Kucherov (TBL) scores on wrist shot past Adin Hill, assisted by Victor Hedman and Janis Moser
+3-4
+Box Score:
+ 
+Back to Top
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  16:16   1  0    2   1   1   0   0   1   0/0Brendan Brisson C  09:05   0  0    0   1   0   0   0   0   0/0Pavel Dorofeyev L  18:03   1  0   -1   3   1   0   0   1   0/0Jack Eichel C  22:36   0  2    2   1   2   0   1   0  8/17Tomas Hertl C  19:39   0  0   -2   3   1   0   0   0  7/13Alexander Holtz R  11:31   0  0   -1   3   2   0   0   0   0/0Brett Howden C  13:42   0  0   -2   0   0   0   1   1   3/5Keegan Kolesar R  13:14   0  0   -1   0   1   0   0   1   0/0Tanner Pearson L  14:11   0  0   -2   2   2   0   0   1   0/0Nicolas Roy C  13:16   0  0   -2   0   0   0   0   0   3/6Cole Schwindt R  08:46   0  0    0   1   0   0   0   0   5/5Mark Stone R  21:13   0  1    1   0   0   0   0   0   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  15:03   0  0   -1   0   1   0   0   1   0/0Noah Hanifin D  17:22   0  0   -2   2   2   0   0   0   0/0Brayden McNabb D  20:01   1  0    1   2   2   0   0   0   0/0Alex Pietrangelo D  20:54   0  0   -2   3   2   0   2   1   0/0Shea Theodore D  23:13   0  2   -1   3   3   0   0   3   0/0Zach Whitecloud D  19:12   0  0    1   0   1   2   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       25  21   2   4  11 26/46
+                                        56.5%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  58:43   4  21/25  17/21   4/4   0/0     0
+              .840   .810 1.000 
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  09:11   0  1    1   1   0   0   0   0   0/0Mitchell Chaffee R  09:08   0  1    1   0   0   0   0   0   0/0Anthony Cirelli C  15:12   0  0   -2   1   2   0   0   0  8/11Michael Eyssimont C  10:49   0  0    1   0   0   2   0   2   0/1Conor Geekie C  11:31   0  0    1   0   0   4   0   0   1/5Zemgus Girgensons C  11:00   0  0    0   1   1   0   0   0   0/1Luke Glendening C  11:51   0  0    0   0   1   0   1   1   3/9Jake Guentzel C  20:43   0  1    1   3   1   0   0   1   2/2Brandon Hagel L  16:15   1  0    0   1   0   0   0   1   0/0Nikita Kucherov R  23:06   2  0    2   6   0   0   0   1   0/0Nicholas Paul L  14:52   0  0   -1   2   1   0   0   0   1/3Brayden Point C  21:00   0  0    2   3   1   0   1   0  5/14Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  21:04   0  0   -1   0   1   0   0   0   0/0Victor Hedman D  24:35   0  1    0   3   0   0   0   2   0/0Emil Lilleberg D  12:49   0  1    1   1   1   0   0   0   0/0Ryan McDonagh D  22:53   0  0    1   0   4   0   0   2   0/0Janis Moser D  20:27   1  2    3   3   1   0   0   2   0/0Darren Raddysh D  18:20   0  0    0   0   0   0   0   1   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       25  14   6   2  13 20/46
+                                        43.5%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   3  22/25  18/20   3/4   1/1     0
+              .880   .900  .750 1.000
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  16:16   1  0    2   1   1   0   0   1   0/0Brendan Brisson C  09:05   0  0    0   1   0   0   0   0   0/0Pavel Dorofeyev L  18:03   1  0   -1   3   1   0   0   1   0/0Jack Eichel C  22:36   0  2    2   1   2   0   1   0  8/17Tomas Hertl C  19:39   0  0   -2   3   1   0   0   0  7/13Alexander Holtz R  11:31   0  0   -1   3   2   0   0   0   0/0Brett Howden C  13:42   0  0   -2   0   0   0   1   1   3/5Keegan Kolesar R  13:14   0  0   -1   0   1   0   0   1   0/0Tanner Pearson L  14:11   0  0   -2   2   2   0   0   1   0/0Nicolas Roy C  13:16   0  0   -2   0   0   0   0   0   3/6Cole Schwindt R  08:46   0  0    0   1   0   0   0   0   5/5Mark Stone R  21:13   0  1    1   0   0   0   0   0   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+16:16   1  0    2   1   1   0   0   1   0/0
+Brendan Brisson C
+09:05   0  0    0   1   0   0   0   0   0/0
+Pavel Dorofeyev L
+18:03   1  0   -1   3   1   0   0   1   0/0
+Jack Eichel C
+22:36   0  2    2   1   2   0   1   0  8/17
+Tomas Hertl C
+19:39   0  0   -2   3   1   0   0   0  7/13
+Alexander Holtz R
+11:31   0  0   -1   3   2   0   0   0   0/0
+Brett Howden C
+13:42   0  0   -2   0   0   0   1   1   3/5
+Keegan Kolesar R
+13:14   0  0   -1   0   1   0   0   1   0/0
+Tanner Pearson L
+14:11   0  0   -2   2   2   0   0   1   0/0
+Nicolas Roy C
+13:16   0  0   -2   0   0   0   0   0   3/6
+Cole Schwindt R
+08:46   0  0    0   1   0   0   0   0   5/5
+Mark Stone R
+21:13   0  1    1   0   0   0   0   0   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  15:03   0  0   -1   0   1   0   0   1   0/0Noah Hanifin D  17:22   0  0   -2   2   2   0   0   0   0/0Brayden McNabb D  20:01   1  0    1   2   2   0   0   0   0/0Alex Pietrangelo D  20:54   0  0   -2   3   2   0   2   1   0/0Shea Theodore D  23:13   0  2   -1   3   3   0   0   3   0/0Zach Whitecloud D  19:12   0  0    1   0   1   2   0   1   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Hague D
+15:03   0  0   -1   0   1   0   0   1   0/0
+Noah Hanifin D
+17:22   0  0   -2   2   2   0   0   0   0/0
+Brayden McNabb D
+20:01   1  0    1   2   2   0   0   0   0/0
+Alex Pietrangelo D
+20:54   0  0   -2   3   2   0   2   1   0/0
+Shea Theodore D
+23:13   0  2   -1   3   3   0   0   3   0/0
+Zach Whitecloud D
+19:12   0  0    1   0   1   2   0   1   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       25  21   2   4  11 26/46
+                                        56.5%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  58:43   4  21/25  17/21   4/4   0/0     0
+              .840   .810 1.000
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Adin Hill G
+58:43   4  21/25  17/21   4/4   0/0     0
+              .840   .810 1.000
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  09:11   0  1    1   1   0   0   0   0   0/0Mitchell Chaffee R  09:08   0  1    1   0   0   0   0   0   0/0Anthony Cirelli C  15:12   0  0   -2   1   2   0   0   0  8/11Michael Eyssimont C  10:49   0  0    1   0   0   2   0   2   0/1Conor Geekie C  11:31   0  0    1   0   0   4   0   0   1/5Zemgus Girgensons C  11:00   0  0    0   1   1   0   0   0   0/1Luke Glendening C  11:51   0  0    0   0   1   0   1   1   3/9Jake Guentzel C  20:43   0  1    1   3   1   0   0   1   2/2Brandon Hagel L  16:15   1  0    0   1   0   0   0   1   0/0Nikita Kucherov R  23:06   2  0    2   6   0   0   0   1   0/0Nicholas Paul L  14:52   0  0   -1   2   1   0   0   0   1/3Brayden Point C  21:00   0  0    2   3   1   0   1   0  5/14
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cameron Atkinson R
+09:11   0  1    1   1   0   0   0   0   0/0
+Mitchell Chaffee R
+09:08   0  1    1   0   0   0   0   0   0/0
+Anthony Cirelli C
+15:12   0  0   -2   1   2   0   0   0  8/11
+Michael Eyssimont C
+10:49   0  0    1   0   0   2   0   2   0/1
+Conor Geekie C
+11:31   0  0    1   0   0   4   0   0   1/5
+Zemgus Girgensons C
+11:00   0  0    0   1   1   0   0   0   0/1
+Luke Glendening C
+11:51   0  0    0   0   1   0   1   1   3/9
+Jake Guentzel C
+20:43   0  1    1   3   1   0   0   1   2/2
+Brandon Hagel L
+16:15   1  0    0   1   0   0   0   1   0/0
+Nikita Kucherov R
+23:06   2  0    2   6   0   0   0   1   0/0
+Nicholas Paul L
+14:52   0  0   -1   2   1   0   0   0   1/3
+Brayden Point C
+21:00   0  0    2   3   1   0   1   0  5/14
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  21:04   0  0   -1   0   1   0   0   0   0/0Victor Hedman D  24:35   0  1    0   3   0   0   0   2   0/0Emil Lilleberg D  12:49   0  1    1   1   1   0   0   0   0/0Ryan McDonagh D  22:53   0  0    1   0   4   0   0   2   0/0Janis Moser D  20:27   1  2    3   3   1   0   0   2   0/0Darren Raddysh D  18:20   0  0    0   0   0   0   0   1   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+21:04   0  0   -1   0   1   0   0   0   0/0
+Victor Hedman D
+24:35   0  1    0   3   0   0   0   2   0/0
+Emil Lilleberg D
+12:49   0  1    1   1   1   0   0   0   0/0
+Ryan McDonagh D
+22:53   0  0    1   0   4   0   0   2   0/0
+Janis Moser D
+20:27   1  2    3   3   1   0   0   2   0/0
+Darren Raddysh D
+18:20   0  0    0   0   0   0   0   1   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       25  14   6   2  13 20/46
+                                        43.5%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   3  22/25  18/20   3/4   1/1     0
+              .880   .900  .750 1.000
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Andrei Vasilevskiy G
+60:00   3  22/25  18/20   3/4   1/1     0
+              .880   .900  .750 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

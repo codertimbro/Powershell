@@ -1,0 +1,338 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Vegas
+Golden Knights3-2-1Final/OT3 - 4Florida
+Panthers4-2-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+VGK   1  1  1  0    3  
+FLA   0  2  1  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  00:33 
+Tanner Pearson (VGK) scores on snap shot past Sergei Bobrovsky, assisted by Nicolas Roy
+   1-0
+2nd Period: ShowHide
+P2  18:51 
+Sam Reinhart (FLA) scores on snap shot past Ilya Samsonov, assisted by Anton Lundell and Aaron Ekblad
+   1-1
+P2  12:11 
+A.J. Greer (FLA) hooking against Cole Schwindt (2 minutes)
+   1-1
+P2  05:45 
+Keegan Kolesar (VGK) scores on deflection past Sergei Bobrovsky, assisted by Tanner Pearson and Nicolas Roy
+   2-1
+P2  01:46 
+Nicolas Roy (VGK) slashing against A.J. Greer (2 minutes)
+   2-1
+P2  00:40 
+Sam Bennett (FLA) scores power-play goal on tip-in past Ilya Samsonov, assisted by Carter Verhaeghe and Anton Lundell
+   2-2
+3rd Period: ShowHide
+P3  17:51 
+Brayden McNabb (VGK) delaying game - puck over glass (2 minutes)
+   2-2
+P3  12:30 
+Brett Howden (VGK) scores on backhand shot past Sergei Bobrovsky
+   3-2
+P3  07:17 
+Eetu Luostarinen (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Reinhart and Aaron Ekblad
+   3-3
+Overtime: ShowHide
+OT  00:17 
+Gustav Forsling (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Bennett and Sam Reinhart
+   3-4
+Box Score:
+ 
+Back to Top
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:05   0  0   -1   0   0   0   0   0   0/0Brendan Brisson C  09:09   0  0    0   1   0   0   0   0   0/0Pavel Dorofeyev L  16:10   0  0    0   0   2   0   0   1   0/0Jack Eichel C  20:21   0  0   -1   2   2   0   1   0  8/18Tomas Hertl C  18:51   0  0   -1   1   2   0   0   1 12/23Alexander Holtz R  10:14   0  0    0   1   0   0   0   0   0/1Brett Howden C  17:15   1  0    0   3   3   0   0   2   2/2Keegan Kolesar R  16:36   1  0    1   1   1   0   0   1   0/0Tanner Pearson L  15:16   1  1    2   2   0   0   0   0   0/0Nicolas Roy C  18:11   0  2    2   2   0   2   0   2  9/14Cole Schwindt R  09:06   0  0    0   1   1   0   0   1   7/9Mark Stone R  19:28   0  0   -1   1   0   0   1   3   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  19:13   0  0    1   1   2   0   0   5   0/0Noah Hanifin D  22:13   0  0    1   4   4   0   0   0   0/0Brayden McNabb D  18:11   0  0    0   5   1   2   0   1   0/0Alex Pietrangelo D  22:51   0  0    0   0   4   0   0   4   0/0Shea Theodore D  21:37   0  0   -2   1   0   0   1   5   0/0Zach Whitecloud D  19:16   0  0    1   0   6   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       26  28   4   3  27 38/67
+                                        56.7%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  64:43   4  45/49  42/45   3/4   0/0     0
+              .918   .933  .750 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  21:42   1  1    1   5   0   0   0   0  3/13Jesper Boqvist C  16:35   0  0   -1   0   1   0   0   0  7/14Patrick Giles R  06:30   0  0    0   1   1   0   0   1   2/5A.J. Greer L  16:40   0  0   -1   5   2   2   1   1   0/3Anton Lundell C  21:17   0  2    0   3   1   0   0   1  9/15Eetu Luostarinen C  21:47   1  0    0   2   1   0   0   2   0/1Sam Reinhart C  23:55   1  2    2   5   1   0   0   4   4/7Evan Rodrigues C  19:31   0  0    0   3   0   0   1   2   4/9Mackie Samoskevich R  14:28   0  0   -2   2   1   0   0   1   0/0Carter Verhaeghe C  23:04   0  1    0   6   0   0   0   2   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  08:16   0  0    0   0   0   0   2   0   0/0Adam Boqvist D  11:35   0  0   -1   0   0   0   0   2   0/0Aaron Ekblad D  26:37   0  2    1   2   7   0   1   0   0/0Gustav Forsling D  28:07   1  0    2   6   1   0   0   2   0/0Dmitry Kulikov D  19:58   0  0   -1   0   0   0   0   2   0/0Niko Mikkola D  20:49   0  0   -1   6   1   0   0   2   0/0Nate Schmidt D  11:18   0  0   -1   3   0   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       49  17   2   5  23 29/67
+                                        43.3%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  64:43   3  23/26  21/24   2/2   0/0     0
+              .885   .875 1.000
+Vegas
+Golden Knights3-2-1Final/OT3 - 4Florida
+Panthers4-2-1
+Vegas
+Golden Knights3-2-1
+Final/OT3 - 4
+Florida
+Panthers4-2-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+VGK   1  1  1  0    3  
+FLA   0  2  1  1    4
+1st Period: ShowHide
+P1  00:33 
+Tanner Pearson (VGK) scores on snap shot past Sergei Bobrovsky, assisted by Nicolas Roy
+   1-0
+2nd Period: ShowHide
+P2  18:51 
+Sam Reinhart (FLA) scores on snap shot past Ilya Samsonov, assisted by Anton Lundell and Aaron Ekblad
+   1-1
+P2  12:11 
+A.J. Greer (FLA) hooking against Cole Schwindt (2 minutes)
+   1-1
+P2  05:45 
+Keegan Kolesar (VGK) scores on deflection past Sergei Bobrovsky, assisted by Tanner Pearson and Nicolas Roy
+   2-1
+P2  01:46 
+Nicolas Roy (VGK) slashing against A.J. Greer (2 minutes)
+   2-1
+P2  00:40 
+Sam Bennett (FLA) scores power-play goal on tip-in past Ilya Samsonov, assisted by Carter Verhaeghe and Anton Lundell
+   2-2
+3rd Period: ShowHide
+P3  17:51 
+Brayden McNabb (VGK) delaying game - puck over glass (2 minutes)
+   2-2
+P3  12:30 
+Brett Howden (VGK) scores on backhand shot past Sergei Bobrovsky
+   3-2
+P3  07:17 
+Eetu Luostarinen (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Reinhart and Aaron Ekblad
+   3-3
+Overtime: ShowHide
+OT  00:17 
+Gustav Forsling (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Bennett and Sam Reinhart
+   3-4
+1st Period: ShowHide
+P1  00:33 
+Tanner Pearson (VGK) scores on snap shot past Sergei Bobrovsky, assisted by Nicolas Roy
+   1-0
+P1  00:33 
+Tanner Pearson (VGK) scores on snap shot past Sergei Bobrovsky, assisted by Nicolas Roy
+   1-0
+P1  00:33
+Tanner Pearson (VGK) scores on snap shot past Sergei Bobrovsky, assisted by Nicolas Roy
+1-0
+2nd Period: ShowHide
+P2  18:51 
+Sam Reinhart (FLA) scores on snap shot past Ilya Samsonov, assisted by Anton Lundell and Aaron Ekblad
+   1-1
+P2  12:11 
+A.J. Greer (FLA) hooking against Cole Schwindt (2 minutes)
+   1-1
+P2  05:45 
+Keegan Kolesar (VGK) scores on deflection past Sergei Bobrovsky, assisted by Tanner Pearson and Nicolas Roy
+   2-1
+P2  01:46 
+Nicolas Roy (VGK) slashing against A.J. Greer (2 minutes)
+   2-1
+P2  00:40 
+Sam Bennett (FLA) scores power-play goal on tip-in past Ilya Samsonov, assisted by Carter Verhaeghe and Anton Lundell
+   2-2
+P2  18:51 
+Sam Reinhart (FLA) scores on snap shot past Ilya Samsonov, assisted by Anton Lundell and Aaron Ekblad
+   1-1
+P2  12:11 
+A.J. Greer (FLA) hooking against Cole Schwindt (2 minutes)
+   1-1
+P2  05:45 
+Keegan Kolesar (VGK) scores on deflection past Sergei Bobrovsky, assisted by Tanner Pearson and Nicolas Roy
+   2-1
+P2  01:46 
+Nicolas Roy (VGK) slashing against A.J. Greer (2 minutes)
+   2-1
+P2  00:40 
+Sam Bennett (FLA) scores power-play goal on tip-in past Ilya Samsonov, assisted by Carter Verhaeghe and Anton Lundell
+   2-2
+P2  18:51
+Sam Reinhart (FLA) scores on snap shot past Ilya Samsonov, assisted by Anton Lundell and Aaron Ekblad
+1-1
+P2  12:11
+A.J. Greer (FLA) hooking against Cole Schwindt (2 minutes)
+1-1
+P2  05:45
+Keegan Kolesar (VGK) scores on deflection past Sergei Bobrovsky, assisted by Tanner Pearson and Nicolas Roy
+2-1
+P2  01:46
+Nicolas Roy (VGK) slashing against A.J. Greer (2 minutes)
+2-1
+P2  00:40
+Sam Bennett (FLA) scores power-play goal on tip-in past Ilya Samsonov, assisted by Carter Verhaeghe and Anton Lundell
+2-2
+3rd Period: ShowHide
+P3  17:51 
+Brayden McNabb (VGK) delaying game - puck over glass (2 minutes)
+   2-2
+P3  12:30 
+Brett Howden (VGK) scores on backhand shot past Sergei Bobrovsky
+   3-2
+P3  07:17 
+Eetu Luostarinen (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Reinhart and Aaron Ekblad
+   3-3
+P3  17:51 
+Brayden McNabb (VGK) delaying game - puck over glass (2 minutes)
+   2-2
+P3  12:30 
+Brett Howden (VGK) scores on backhand shot past Sergei Bobrovsky
+   3-2
+P3  07:17 
+Eetu Luostarinen (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Reinhart and Aaron Ekblad
+   3-3
+P3  17:51
+Brayden McNabb (VGK) delaying game - puck over glass (2 minutes)
+2-2
+P3  12:30
+Brett Howden (VGK) scores on backhand shot past Sergei Bobrovsky
+3-2
+P3  07:17
+Eetu Luostarinen (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Reinhart and Aaron Ekblad
+3-3
+Overtime: ShowHide
+OT  00:17 
+Gustav Forsling (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Bennett and Sam Reinhart
+   3-4
+OT  00:17 
+Gustav Forsling (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Bennett and Sam Reinhart
+   3-4
+OT  00:17
+Gustav Forsling (FLA) scores on wrist shot past Ilya Samsonov, assisted by Sam Bennett and Sam Reinhart
+3-4
+Box Score:
+ 
+Back to Top
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:05   0  0   -1   0   0   0   0   0   0/0Brendan Brisson C  09:09   0  0    0   1   0   0   0   0   0/0Pavel Dorofeyev L  16:10   0  0    0   0   2   0   0   1   0/0Jack Eichel C  20:21   0  0   -1   2   2   0   1   0  8/18Tomas Hertl C  18:51   0  0   -1   1   2   0   0   1 12/23Alexander Holtz R  10:14   0  0    0   1   0   0   0   0   0/1Brett Howden C  17:15   1  0    0   3   3   0   0   2   2/2Keegan Kolesar R  16:36   1  0    1   1   1   0   0   1   0/0Tanner Pearson L  15:16   1  1    2   2   0   0   0   0   0/0Nicolas Roy C  18:11   0  2    2   2   0   2   0   2  9/14Cole Schwindt R  09:06   0  0    0   1   1   0   0   1   7/9Mark Stone R  19:28   0  0   -1   1   0   0   1   3   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  19:13   0  0    1   1   2   0   0   5   0/0Noah Hanifin D  22:13   0  0    1   4   4   0   0   0   0/0Brayden McNabb D  18:11   0  0    0   5   1   2   0   1   0/0Alex Pietrangelo D  22:51   0  0    0   0   4   0   0   4   0/0Shea Theodore D  21:37   0  0   -2   1   0   0   1   5   0/0Zach Whitecloud D  19:16   0  0    1   0   6   0   0   1   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       26  28   4   3  27 38/67
+                                        56.7%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  64:43   4  45/49  42/45   3/4   0/0     0
+              .918   .933  .750 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  21:42   1  1    1   5   0   0   0   0  3/13Jesper Boqvist C  16:35   0  0   -1   0   1   0   0   0  7/14Patrick Giles R  06:30   0  0    0   1   1   0   0   1   2/5A.J. Greer L  16:40   0  0   -1   5   2   2   1   1   0/3Anton Lundell C  21:17   0  2    0   3   1   0   0   1  9/15Eetu Luostarinen C  21:47   1  0    0   2   1   0   0   2   0/1Sam Reinhart C  23:55   1  2    2   5   1   0   0   4   4/7Evan Rodrigues C  19:31   0  0    0   3   0   0   1   2   4/9Mackie Samoskevich R  14:28   0  0   -2   2   1   0   0   1   0/0Carter Verhaeghe C  23:04   0  1    0   6   0   0   0   2   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  08:16   0  0    0   0   0   0   2   0   0/0Adam Boqvist D  11:35   0  0   -1   0   0   0   0   2   0/0Aaron Ekblad D  26:37   0  2    1   2   7   0   1   0   0/0Gustav Forsling D  28:07   1  0    2   6   1   0   0   2   0/0Dmitry Kulikov D  19:58   0  0   -1   0   0   0   0   2   0/0Niko Mikkola D  20:49   0  0   -1   6   1   0   0   2   0/0Nate Schmidt D  11:18   0  0   -1   3   0   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       49  17   2   5  23 29/67
+                                        43.3%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  64:43   3  23/26  21/24   2/2   0/0     0
+              .885   .875 1.000
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  17:05   0  0   -1   0   0   0   0   0   0/0Brendan Brisson C  09:09   0  0    0   1   0   0   0   0   0/0Pavel Dorofeyev L  16:10   0  0    0   0   2   0   0   1   0/0Jack Eichel C  20:21   0  0   -1   2   2   0   1   0  8/18Tomas Hertl C  18:51   0  0   -1   1   2   0   0   1 12/23Alexander Holtz R  10:14   0  0    0   1   0   0   0   0   0/1Brett Howden C  17:15   1  0    0   3   3   0   0   2   2/2Keegan Kolesar R  16:36   1  0    1   1   1   0   0   1   0/0Tanner Pearson L  15:16   1  1    2   2   0   0   0   0   0/0Nicolas Roy C  18:11   0  2    2   2   0   2   0   2  9/14Cole Schwindt R  09:06   0  0    0   1   1   0   0   1   7/9Mark Stone R  19:28   0  0   -1   1   0   0   1   3   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+17:05   0  0   -1   0   0   0   0   0   0/0
+Brendan Brisson C
+09:09   0  0    0   1   0   0   0   0   0/0
+Pavel Dorofeyev L
+16:10   0  0    0   0   2   0   0   1   0/0
+Jack Eichel C
+20:21   0  0   -1   2   2   0   1   0  8/18
+Tomas Hertl C
+18:51   0  0   -1   1   2   0   0   1 12/23
+Alexander Holtz R
+10:14   0  0    0   1   0   0   0   0   0/1
+Brett Howden C
+17:15   1  0    0   3   3   0   0   2   2/2
+Keegan Kolesar R
+16:36   1  0    1   1   1   0   0   1   0/0
+Tanner Pearson L
+15:16   1  1    2   2   0   0   0   0   0/0
+Nicolas Roy C
+18:11   0  2    2   2   0   2   0   2  9/14
+Cole Schwindt R
+09:06   0  0    0   1   1   0   0   1   7/9
+Mark Stone R
+19:28   0  0   -1   1   0   0   1   3   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  19:13   0  0    1   1   2   0   0   5   0/0Noah Hanifin D  22:13   0  0    1   4   4   0   0   0   0/0Brayden McNabb D  18:11   0  0    0   5   1   2   0   1   0/0Alex Pietrangelo D  22:51   0  0    0   0   4   0   0   4   0/0Shea Theodore D  21:37   0  0   -2   1   0   0   1   5   0/0Zach Whitecloud D  19:16   0  0    1   0   6   0   0   1   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Hague D
+19:13   0  0    1   1   2   0   0   5   0/0
+Noah Hanifin D
+22:13   0  0    1   4   4   0   0   0   0/0
+Brayden McNabb D
+18:11   0  0    0   5   1   2   0   1   0/0
+Alex Pietrangelo D
+22:51   0  0    0   0   4   0   0   4   0/0
+Shea Theodore D
+21:37   0  0   -2   1   0   0   1   5   0/0
+Zach Whitecloud D
+19:16   0  0    1   0   6   0   0   1   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          3  3       26  28   4   3  27 38/67
+                                        56.7%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIlya Samsonov G  64:43   4  45/49  42/45   3/4   0/0     0
+              .918   .933  .750
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ilya Samsonov G
+64:43   4  45/49  42/45   3/4   0/0     0
+              .918   .933  .750
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  21:42   1  1    1   5   0   0   0   0  3/13Jesper Boqvist C  16:35   0  0   -1   0   1   0   0   0  7/14Patrick Giles R  06:30   0  0    0   1   1   0   0   1   2/5A.J. Greer L  16:40   0  0   -1   5   2   2   1   1   0/3Anton Lundell C  21:17   0  2    0   3   1   0   0   1  9/15Eetu Luostarinen C  21:47   1  0    0   2   1   0   0   2   0/1Sam Reinhart C  23:55   1  2    2   5   1   0   0   4   4/7Evan Rodrigues C  19:31   0  0    0   3   0   0   1   2   4/9Mackie Samoskevich R  14:28   0  0   -2   2   1   0   0   1   0/0Carter Verhaeghe C  23:04   0  1    0   6   0   0   0   2   0/0
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Bennett C
+21:42   1  1    1   5   0   0   0   0  3/13
+Jesper Boqvist C
+16:35   0  0   -1   0   1   0   0   0  7/14
+Patrick Giles R
+06:30   0  0    0   1   1   0   0   1   2/5
+A.J. Greer L
+16:40   0  0   -1   5   2   2   1   1   0/3
+Anton Lundell C
+21:17   0  2    0   3   1   0   0   1  9/15
+Eetu Luostarinen C
+21:47   1  0    0   2   1   0   0   2   0/1
+Sam Reinhart C
+23:55   1  2    2   5   1   0   0   4   4/7
+Evan Rodrigues C
+19:31   0  0    0   3   0   0   1   2   4/9
+Mackie Samoskevich R
+14:28   0  0   -2   2   1   0   0   1   0/0
+Carter Verhaeghe C
+23:04   0  1    0   6   0   0   0   2   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  08:16   0  0    0   0   0   0   2   0   0/0Adam Boqvist D  11:35   0  0   -1   0   0   0   0   2   0/0Aaron Ekblad D  26:37   0  2    1   2   7   0   1   0   0/0Gustav Forsling D  28:07   1  0    2   6   1   0   0   2   0/0Dmitry Kulikov D  19:58   0  0   -1   0   0   0   0   2   0/0Niko Mikkola D  20:49   0  0   -1   6   1   0   0   2   0/0Nate Schmidt D  11:18   0  0   -1   3   0   0   0   1   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+08:16   0  0    0   0   0   0   2   0   0/0
+Adam Boqvist D
+11:35   0  0   -1   0   0   0   0   2   0/0
+Aaron Ekblad D
+26:37   0  2    1   2   7   0   1   0   0/0
+Gustav Forsling D
+28:07   1  0    2   6   1   0   0   2   0/0
+Dmitry Kulikov D
+19:58   0  0   -1   0   0   0   0   2   0/0
+Niko Mikkola D
+20:49   0  0   -1   6   1   0   0   2   0/0
+Nate Schmidt D
+11:18   0  0   -1   3   0   0   0   1   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       49  17   2   5  23 29/67
+                                        43.3%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  64:43   3  23/26  21/24   2/2   0/0     0
+              .885   .875 1.000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sergei Bobrovsky G
+64:43   3  23/26  21/24   2/2   0/0     0
+              .885   .875 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

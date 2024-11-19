@@ -1,0 +1,547 @@
+< Oct. 14 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Florida
+Panthers2-2-0Final4 - 3Boston
+Bruins2-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+FLA   2  2  0    4  
+BOS   1  2  0    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:07 
+John Beecher (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and Mason Lohrei
+   0-1
+P1  14:29 
+Pavel Zacha (BOS) hooking against Sam Bennett (2 minutes)
+   0-1
+P1  13:48 
+Adam Boqvist (FLA) tripping against Brad Marchand (2 minutes)
+   0-1
+P1  13:23 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman
+   1-1
+P1  08:37 
+Pavel Zacha (BOS) fighting against A.J. Greer (5 minutes)
+   1-1
+P1  08:37 
+A.J. Greer (FLA) fighting against Pavel Zacha (5 minutes)
+   1-1
+P1  08:15 
+Charlie McAvoy (BOS) cross-checking against Carter Verhaeghe (2 minutes)
+   1-1
+P1  08:09 
+Sam Reinhart (FLA) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Adam Boqvist
+   2-1
+P1  07:06 
+David Pastrnak (BOS) interference against Sam Reinhart (2 minutes)
+   2-1
+P1  07:06 
+Nate Schmidt (FLA) roughing against Brad Marchand (2 minutes)
+   2-1
+P1  07:06 
+Brad Marchand (BOS) roughing against Nate Schmidt (2 minutes)
+   2-1
+P1  04:37 
+Niko Mikkola (FLA) holding against David Pastrnak (2 minutes)
+   2-1
+P1  01:55 
+Nikita Zadorov (BOS) delaying game - puck over glass (2 minutes)
+   2-1
+2nd Period: ShowHide
+P2  14:52 
+Brandon Carlo (BOS) scores on snap shot past Sergei Bobrovsky, assisted by Cole Koepke and Mark Kastelic
+   2-2
+P2  11:51 
+A.J. Greer (FLA) interference against Brandon Carlo (2 minutes)
+   2-2
+P2  10:21 
+Sam Reinhart (FLA) scores short-handed goal on wrist shot past Jeremy Swayman
+   3-2
+P2  07:01 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman, assisted by Gustav Forsling
+   4-2
+P2  05:53 
+Mason Lohrei (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and John Beecher
+   4-3
+3rd Period: ShowHide
+P3  08:58 
+Aaron Ekblad (FLA) tripping against Matthew Poitras (2 minutes)
+   4-3
+P3  00:50 
+David Pastrnak (BOS) slashing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  18:30   0  0   -1   6   0   0   1   2 10/16Jesper Boqvist C  12:37   0  0    0   0   1   0   0   0   4/6Jonah Gadjovich L  08:15   0  0   -1   1   0   0   0   0   0/0Patrick Giles R  09:48   0  0   -1   0   0   0   0   0   1/8A.J. Greer L  09:44   0  0   -1   2   1   7   0   1   1/3Anton Lundell C  19:16   2  0    2   4   0   0   1   0  9/13Eetu Luostarinen C  20:42   0  0    1   0   1   0   0   0   2/2Sam Reinhart C  18:01   2  0    3   2   0   0   0   3   1/8Evan Rodrigues C  18:04   0  0   -1   1   0   0   1   0   0/5Mackie Samoskevich R  12:07   0  0   -1   1   0   0   0   0   0/0Carter Verhaeghe C  19:24   0  0   -1   3   1   4   1   0   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  10:16   0  0   -1   1   0   0   0   0   0/0Adam Boqvist D  11:11   0  1   -1   1   0   2   0   0   0/0Aaron Ekblad D  25:03   0  0    1   3   1   2   0   3   0/0Gustav Forsling D  23:22   0  1    1   1   0   0   2   0   0/0Dmitry Kulikov D  21:22   0  0    0   0   0   0   0   1   0/0Niko Mikkola D  20:13   0  0    0   0   2   2   0   0   0/0Nate Schmidt D  14:05   0  0   -1   0   0   2   0   0   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  2       26   7  19   6  10 28/61
+                                        45.9%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  60:00   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:47   1  1    3   1   1   0   0   0   7/9Justin Brazeau R  12:34   0  0    0   1   0   0   0   0   1/1Charlie Coyle C  14:32   0  0   -2   2   1   0   0   1  5/14Trent Frederic C  12:23   0  0   -3   2   0   0   0   0   4/5Morgan Geekie C  09:33   0  0   -2   0   0   0   0   0   0/0Mark Kastelic C  11:37   0  3    3   0   0   0   0   0   1/5Cole Koepke L  10:01   0  1    2   0   0   0   1   2   0/0Elias Lindholm C  19:54   0  0    0   1   1   0   0   0  6/14Brad Marchand L  21:03   0  0    0   2   0   6   1   0   0/0David Pastrnak R  21:54   0  0    1   2   0   4   0   2   0/0Matthew Poitras C  14:32   0  0   -2   1   0   0   0   0   4/5Pavel Zacha C  19:18   0  0    0   1   0   7   1   0   5/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  14:50   1  0    1   2   2   0   0   1   0/0Hampus Lindholm D  21:00   0  0   -2   1   2   0   1   4   0/0Mason Lohrei D  15:41   1  1    0   2   0   0   0   0   0/0Charlie McAvoy D  26:00   0  0    0   3   1   2   0   0   0/0Andrew Peeke D  18:42   0  0    2   2   1   0   0   2   0/0Nikita Zadorov D  17:24   0  0    0   4   0   2   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       27   9  21   4  13 33/61
+                                        54.1%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  58:19   4  22/26  19/21   3/4   0/1     0
+              .846   .905  .750  .000
+Florida
+Panthers2-2-0Final4 - 3Boston
+Bruins2-2-0
+Florida
+Panthers2-2-0
+Final4 - 3
+Boston
+Bruins2-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+FLA   2  2  0    4  
+BOS   1  2  0    3
+1st Period: ShowHide
+P1  15:07 
+John Beecher (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and Mason Lohrei
+   0-1
+P1  14:29 
+Pavel Zacha (BOS) hooking against Sam Bennett (2 minutes)
+   0-1
+P1  13:48 
+Adam Boqvist (FLA) tripping against Brad Marchand (2 minutes)
+   0-1
+P1  13:23 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman
+   1-1
+P1  08:37 
+Pavel Zacha (BOS) fighting against A.J. Greer (5 minutes)
+   1-1
+P1  08:37 
+A.J. Greer (FLA) fighting against Pavel Zacha (5 minutes)
+   1-1
+P1  08:15 
+Charlie McAvoy (BOS) cross-checking against Carter Verhaeghe (2 minutes)
+   1-1
+P1  08:09 
+Sam Reinhart (FLA) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Adam Boqvist
+   2-1
+P1  07:06 
+David Pastrnak (BOS) interference against Sam Reinhart (2 minutes)
+   2-1
+P1  07:06 
+Nate Schmidt (FLA) roughing against Brad Marchand (2 minutes)
+   2-1
+P1  07:06 
+Brad Marchand (BOS) roughing against Nate Schmidt (2 minutes)
+   2-1
+P1  04:37 
+Niko Mikkola (FLA) holding against David Pastrnak (2 minutes)
+   2-1
+P1  01:55 
+Nikita Zadorov (BOS) delaying game - puck over glass (2 minutes)
+   2-1
+2nd Period: ShowHide
+P2  14:52 
+Brandon Carlo (BOS) scores on snap shot past Sergei Bobrovsky, assisted by Cole Koepke and Mark Kastelic
+   2-2
+P2  11:51 
+A.J. Greer (FLA) interference against Brandon Carlo (2 minutes)
+   2-2
+P2  10:21 
+Sam Reinhart (FLA) scores short-handed goal on wrist shot past Jeremy Swayman
+   3-2
+P2  07:01 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman, assisted by Gustav Forsling
+   4-2
+P2  05:53 
+Mason Lohrei (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and John Beecher
+   4-3
+3rd Period: ShowHide
+P3  08:58 
+Aaron Ekblad (FLA) tripping against Matthew Poitras (2 minutes)
+   4-3
+P3  00:50 
+David Pastrnak (BOS) slashing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+1st Period: ShowHide
+P1  15:07 
+John Beecher (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and Mason Lohrei
+   0-1
+P1  14:29 
+Pavel Zacha (BOS) hooking against Sam Bennett (2 minutes)
+   0-1
+P1  13:48 
+Adam Boqvist (FLA) tripping against Brad Marchand (2 minutes)
+   0-1
+P1  13:23 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman
+   1-1
+P1  08:37 
+Pavel Zacha (BOS) fighting against A.J. Greer (5 minutes)
+   1-1
+P1  08:37 
+A.J. Greer (FLA) fighting against Pavel Zacha (5 minutes)
+   1-1
+P1  08:15 
+Charlie McAvoy (BOS) cross-checking against Carter Verhaeghe (2 minutes)
+   1-1
+P1  08:09 
+Sam Reinhart (FLA) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Adam Boqvist
+   2-1
+P1  07:06 
+David Pastrnak (BOS) interference against Sam Reinhart (2 minutes)
+   2-1
+P1  07:06 
+Nate Schmidt (FLA) roughing against Brad Marchand (2 minutes)
+   2-1
+P1  07:06 
+Brad Marchand (BOS) roughing against Nate Schmidt (2 minutes)
+   2-1
+P1  04:37 
+Niko Mikkola (FLA) holding against David Pastrnak (2 minutes)
+   2-1
+P1  01:55 
+Nikita Zadorov (BOS) delaying game - puck over glass (2 minutes)
+   2-1
+P1  15:07 
+John Beecher (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and Mason Lohrei
+   0-1
+P1  14:29 
+Pavel Zacha (BOS) hooking against Sam Bennett (2 minutes)
+   0-1
+P1  13:48 
+Adam Boqvist (FLA) tripping against Brad Marchand (2 minutes)
+   0-1
+P1  13:23 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman
+   1-1
+P1  08:37 
+Pavel Zacha (BOS) fighting against A.J. Greer (5 minutes)
+   1-1
+P1  08:37 
+A.J. Greer (FLA) fighting against Pavel Zacha (5 minutes)
+   1-1
+P1  08:15 
+Charlie McAvoy (BOS) cross-checking against Carter Verhaeghe (2 minutes)
+   1-1
+P1  08:09 
+Sam Reinhart (FLA) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Adam Boqvist
+   2-1
+P1  07:06 
+David Pastrnak (BOS) interference against Sam Reinhart (2 minutes)
+   2-1
+P1  07:06 
+Nate Schmidt (FLA) roughing against Brad Marchand (2 minutes)
+   2-1
+P1  07:06 
+Brad Marchand (BOS) roughing against Nate Schmidt (2 minutes)
+   2-1
+P1  04:37 
+Niko Mikkola (FLA) holding against David Pastrnak (2 minutes)
+   2-1
+P1  01:55 
+Nikita Zadorov (BOS) delaying game - puck over glass (2 minutes)
+   2-1
+P1  15:07
+John Beecher (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and Mason Lohrei
+0-1
+P1  14:29
+Pavel Zacha (BOS) hooking against Sam Bennett (2 minutes)
+0-1
+P1  13:48
+Adam Boqvist (FLA) tripping against Brad Marchand (2 minutes)
+0-1
+P1  13:23
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman
+1-1
+P1  08:37
+Pavel Zacha (BOS) fighting against A.J. Greer (5 minutes)
+1-1
+P1  08:37
+A.J. Greer (FLA) fighting against Pavel Zacha (5 minutes)
+1-1
+P1  08:15
+Charlie McAvoy (BOS) cross-checking against Carter Verhaeghe (2 minutes)
+1-1
+P1  08:09
+Sam Reinhart (FLA) scores power-play goal on wrist shot past Jeremy Swayman, assisted by Adam Boqvist
+2-1
+P1  07:06
+David Pastrnak (BOS) interference against Sam Reinhart (2 minutes)
+2-1
+P1  07:06
+Nate Schmidt (FLA) roughing against Brad Marchand (2 minutes)
+2-1
+P1  07:06
+Brad Marchand (BOS) roughing against Nate Schmidt (2 minutes)
+2-1
+P1  04:37
+Niko Mikkola (FLA) holding against David Pastrnak (2 minutes)
+2-1
+P1  01:55
+Nikita Zadorov (BOS) delaying game - puck over glass (2 minutes)
+2-1
+2nd Period: ShowHide
+P2  14:52 
+Brandon Carlo (BOS) scores on snap shot past Sergei Bobrovsky, assisted by Cole Koepke and Mark Kastelic
+   2-2
+P2  11:51 
+A.J. Greer (FLA) interference against Brandon Carlo (2 minutes)
+   2-2
+P2  10:21 
+Sam Reinhart (FLA) scores short-handed goal on wrist shot past Jeremy Swayman
+   3-2
+P2  07:01 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman, assisted by Gustav Forsling
+   4-2
+P2  05:53 
+Mason Lohrei (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and John Beecher
+   4-3
+P2  14:52 
+Brandon Carlo (BOS) scores on snap shot past Sergei Bobrovsky, assisted by Cole Koepke and Mark Kastelic
+   2-2
+P2  11:51 
+A.J. Greer (FLA) interference against Brandon Carlo (2 minutes)
+   2-2
+P2  10:21 
+Sam Reinhart (FLA) scores short-handed goal on wrist shot past Jeremy Swayman
+   3-2
+P2  07:01 
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman, assisted by Gustav Forsling
+   4-2
+P2  05:53 
+Mason Lohrei (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and John Beecher
+   4-3
+P2  14:52
+Brandon Carlo (BOS) scores on snap shot past Sergei Bobrovsky, assisted by Cole Koepke and Mark Kastelic
+2-2
+P2  11:51
+A.J. Greer (FLA) interference against Brandon Carlo (2 minutes)
+2-2
+P2  10:21
+Sam Reinhart (FLA) scores short-handed goal on wrist shot past Jeremy Swayman
+3-2
+P2  07:01
+Anton Lundell (FLA) scores on wrist shot past Jeremy Swayman, assisted by Gustav Forsling
+4-2
+P2  05:53
+Mason Lohrei (BOS) scores on wrist shot past Sergei Bobrovsky, assisted by Mark Kastelic and John Beecher
+4-3
+3rd Period: ShowHide
+P3  08:58 
+Aaron Ekblad (FLA) tripping against Matthew Poitras (2 minutes)
+   4-3
+P3  00:50 
+David Pastrnak (BOS) slashing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  08:58 
+Aaron Ekblad (FLA) tripping against Matthew Poitras (2 minutes)
+   4-3
+P3  00:50 
+David Pastrnak (BOS) slashing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  00:50 
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+   4-3
+P3  00:50 
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+   4-3
+P3  08:58
+Aaron Ekblad (FLA) tripping against Matthew Poitras (2 minutes)
+4-3
+P3  00:50
+David Pastrnak (BOS) slashing against Carter Verhaeghe (2 minutes)
+4-3
+P3  00:50
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+4-3
+P3  00:50
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+4-3
+P3  00:50
+Carter Verhaeghe (FLA) roughing against Brad Marchand (2 minutes)
+4-3
+P3  00:50
+Brad Marchand (BOS) roughing against Carter Verhaeghe (2 minutes)
+4-3
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  18:30   0  0   -1   6   0   0   1   2 10/16Jesper Boqvist C  12:37   0  0    0   0   1   0   0   0   4/6Jonah Gadjovich L  08:15   0  0   -1   1   0   0   0   0   0/0Patrick Giles R  09:48   0  0   -1   0   0   0   0   0   1/8A.J. Greer L  09:44   0  0   -1   2   1   7   0   1   1/3Anton Lundell C  19:16   2  0    2   4   0   0   1   0  9/13Eetu Luostarinen C  20:42   0  0    1   0   1   0   0   0   2/2Sam Reinhart C  18:01   2  0    3   2   0   0   0   3   1/8Evan Rodrigues C  18:04   0  0   -1   1   0   0   1   0   0/5Mackie Samoskevich R  12:07   0  0   -1   1   0   0   0   0   0/0Carter Verhaeghe C  19:24   0  0   -1   3   1   4   1   0   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  10:16   0  0   -1   1   0   0   0   0   0/0Adam Boqvist D  11:11   0  1   -1   1   0   2   0   0   0/0Aaron Ekblad D  25:03   0  0    1   3   1   2   0   3   0/0Gustav Forsling D  23:22   0  1    1   1   0   0   2   0   0/0Dmitry Kulikov D  21:22   0  0    0   0   0   0   0   1   0/0Niko Mikkola D  20:13   0  0    0   0   2   2   0   0   0/0Nate Schmidt D  14:05   0  0   -1   0   0   2   0   0   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  2       26   7  19   6  10 28/61
+                                        45.9%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  60:00   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:47   1  1    3   1   1   0   0   0   7/9Justin Brazeau R  12:34   0  0    0   1   0   0   0   0   1/1Charlie Coyle C  14:32   0  0   -2   2   1   0   0   1  5/14Trent Frederic C  12:23   0  0   -3   2   0   0   0   0   4/5Morgan Geekie C  09:33   0  0   -2   0   0   0   0   0   0/0Mark Kastelic C  11:37   0  3    3   0   0   0   0   0   1/5Cole Koepke L  10:01   0  1    2   0   0   0   1   2   0/0Elias Lindholm C  19:54   0  0    0   1   1   0   0   0  6/14Brad Marchand L  21:03   0  0    0   2   0   6   1   0   0/0David Pastrnak R  21:54   0  0    1   2   0   4   0   2   0/0Matthew Poitras C  14:32   0  0   -2   1   0   0   0   0   4/5Pavel Zacha C  19:18   0  0    0   1   0   7   1   0   5/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  14:50   1  0    1   2   2   0   0   1   0/0Hampus Lindholm D  21:00   0  0   -2   1   2   0   1   4   0/0Mason Lohrei D  15:41   1  1    0   2   0   0   0   0   0/0Charlie McAvoy D  26:00   0  0    0   3   1   2   0   0   0/0Andrew Peeke D  18:42   0  0    2   2   1   0   0   2   0/0Nikita Zadorov D  17:24   0  0    0   4   0   2   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       27   9  21   4  13 33/61
+                                        54.1%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  58:19   4  22/26  19/21   3/4   0/1     0
+              .846   .905  .750  .000
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  18:30   0  0   -1   6   0   0   1   2 10/16Jesper Boqvist C  12:37   0  0    0   0   1   0   0   0   4/6Jonah Gadjovich L  08:15   0  0   -1   1   0   0   0   0   0/0Patrick Giles R  09:48   0  0   -1   0   0   0   0   0   1/8A.J. Greer L  09:44   0  0   -1   2   1   7   0   1   1/3Anton Lundell C  19:16   2  0    2   4   0   0   1   0  9/13Eetu Luostarinen C  20:42   0  0    1   0   1   0   0   0   2/2Sam Reinhart C  18:01   2  0    3   2   0   0   0   3   1/8Evan Rodrigues C  18:04   0  0   -1   1   0   0   1   0   0/5Mackie Samoskevich R  12:07   0  0   -1   1   0   0   0   0   0/0Carter Verhaeghe C  19:24   0  0   -1   3   1   4   1   0   0/0
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Bennett C
+18:30   0  0   -1   6   0   0   1   2 10/16
+Jesper Boqvist C
+12:37   0  0    0   0   1   0   0   0   4/6
+Jonah Gadjovich L
+08:15   0  0   -1   1   0   0   0   0   0/0
+Patrick Giles R
+09:48   0  0   -1   0   0   0   0   0   1/8
+A.J. Greer L
+09:44   0  0   -1   2   1   7   0   1   1/3
+Anton Lundell C
+19:16   2  0    2   4   0   0   1   0  9/13
+Eetu Luostarinen C
+20:42   0  0    1   0   1   0   0   0   2/2
+Sam Reinhart C
+18:01   2  0    3   2   0   0   0   3   1/8
+Evan Rodrigues C
+18:04   0  0   -1   1   0   0   1   0   0/5
+Mackie Samoskevich R
+12:07   0  0   -1   1   0   0   0   0   0/0
+Carter Verhaeghe C
+19:24   0  0   -1   3   1   4   1   0   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  10:16   0  0   -1   1   0   0   0   0   0/0Adam Boqvist D  11:11   0  1   -1   1   0   2   0   0   0/0Aaron Ekblad D  25:03   0  0    1   3   1   2   0   3   0/0Gustav Forsling D  23:22   0  1    1   1   0   0   2   0   0/0Dmitry Kulikov D  21:22   0  0    0   0   0   0   0   1   0/0Niko Mikkola D  20:13   0  0    0   0   2   2   0   0   0/0Nate Schmidt D  14:05   0  0   -1   0   0   2   0   0   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+10:16   0  0   -1   1   0   0   0   0   0/0
+Adam Boqvist D
+11:11   0  1   -1   1   0   2   0   0   0/0
+Aaron Ekblad D
+25:03   0  0    1   3   1   2   0   3   0/0
+Gustav Forsling D
+23:22   0  1    1   1   0   0   2   0   0/0
+Dmitry Kulikov D
+21:22   0  0    0   0   0   0   0   1   0/0
+Niko Mikkola D
+20:13   0  0    0   0   2   2   0   0   0/0
+Nate Schmidt D
+14:05   0  0   -1   0   0   2   0   0   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  2       26   7  19   6  10 28/61
+                                        45.9%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  60:00   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sergei Bobrovsky G
+60:00   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:47   1  1    3   1   1   0   0   0   7/9Justin Brazeau R  12:34   0  0    0   1   0   0   0   0   1/1Charlie Coyle C  14:32   0  0   -2   2   1   0   0   1  5/14Trent Frederic C  12:23   0  0   -3   2   0   0   0   0   4/5Morgan Geekie C  09:33   0  0   -2   0   0   0   0   0   0/0Mark Kastelic C  11:37   0  3    3   0   0   0   0   0   1/5Cole Koepke L  10:01   0  1    2   0   0   0   1   2   0/0Elias Lindholm C  19:54   0  0    0   1   1   0   0   0  6/14Brad Marchand L  21:03   0  0    0   2   0   6   1   0   0/0David Pastrnak R  21:54   0  0    1   2   0   4   0   2   0/0Matthew Poitras C  14:32   0  0   -2   1   0   0   0   0   4/5Pavel Zacha C  19:18   0  0    0   1   0   7   1   0   5/8
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+13:47   1  1    3   1   1   0   0   0   7/9
+Justin Brazeau R
+12:34   0  0    0   1   0   0   0   0   1/1
+Charlie Coyle C
+14:32   0  0   -2   2   1   0   0   1  5/14
+Trent Frederic C
+12:23   0  0   -3   2   0   0   0   0   4/5
+Morgan Geekie C
+09:33   0  0   -2   0   0   0   0   0   0/0
+Mark Kastelic C
+11:37   0  3    3   0   0   0   0   0   1/5
+Cole Koepke L
+10:01   0  1    2   0   0   0   1   2   0/0
+Elias Lindholm C
+19:54   0  0    0   1   1   0   0   0  6/14
+Brad Marchand L
+21:03   0  0    0   2   0   6   1   0   0/0
+David Pastrnak R
+21:54   0  0    1   2   0   4   0   2   0/0
+Matthew Poitras C
+14:32   0  0   -2   1   0   0   0   0   4/5
+Pavel Zacha C
+19:18   0  0    0   1   0   7   1   0   5/8
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  14:50   1  0    1   2   2   0   0   1   0/0Hampus Lindholm D  21:00   0  0   -2   1   2   0   1   4   0/0Mason Lohrei D  15:41   1  1    0   2   0   0   0   0   0/0Charlie McAvoy D  26:00   0  0    0   3   1   2   0   0   0/0Andrew Peeke D  18:42   0  0    2   2   1   0   0   2   0/0Nikita Zadorov D  17:24   0  0    0   4   0   2   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+14:50   1  0    1   2   2   0   0   1   0/0
+Hampus Lindholm D
+21:00   0  0   -2   1   2   0   1   4   0/0
+Mason Lohrei D
+15:41   1  1    0   2   0   0   0   0   0/0
+Charlie McAvoy D
+26:00   0  0    0   3   1   2   0   0   0/0
+Andrew Peeke D
+18:42   0  0    2   2   1   0   0   2   0/0
+Nikita Zadorov D
+17:24   0  0    0   4   0   2   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       27   9  21   4  13 33/61
+                                        54.1%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  58:19   4  22/26  19/21   3/4   0/1     0
+              .846   .905  .750  .000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+58:19   4  22/26  19/21   3/4   0/1     0
+              .846   .905  .750  .000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,322 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Chicago
+Blackhawks1-2-1Final1 - 3Calgary
+Flames4-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CHI   1  0  0    1  
+CGY   1  1  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:59 
+Rasmus Andersson (CGY) hooking against Nick Foligno (2 minutes)
+   0-0
+P1  03:59 
+Matt Coronato (CGY) scores on wrist shot past Petr Mrazek, assisted by Justin Kirkland and Rasmus Andersson
+   0-1
+P1  03:49 
+Nick Foligno (CHI) scores on tip-in past Dustin Wolf, assisted by Seth Jones and Alec Martinez
+   1-1
+2nd Period: ShowHide
+P2  14:20 
+Philipp Kurashev (CHI) hooking against Nazem Kadri (2 minutes)
+   1-1
+P2  08:04 
+Connor Bedard (CHI) slashing against Dustin Wolf (2 minutes)
+   1-1
+P2  06:28 
+Andrei Kuzmenko (CGY) scores goal with extra attacker on tip-in past Petr Mrazek, assisted by Jonathan Huberdeau and Connor Zary
+   1-2
+P2  06:28 
+Nick Foligno (CHI) slashing against Jonathan Huberdeau (2 minutes)
+   1-2
+3rd Period: ShowHide
+P3  14:18 
+Brayden Pachal (CGY) high-sticking against Nick Foligno (2 minutes)
+   1-2
+P3  00:39 
+Matt Coronato (CGY) scores on empty net, assisted by Mikael Backlund
+   1-3
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  12:03   0  0    0   1   0   0   1   0   2/2Andreas Athanasiou C  09:12   0  0   -1   3   0   0   0   0  5/10Connor Bedard C  20:14   0  0    0   7   0   2   0   1   3/9Tyler Bertuzzi L  17:37   0  0    0   2   0   0   0   0   0/0Jason Dickinson C  13:24   0  0    0   0   0   0   2   1   3/9Nick Foligno L  18:46   1  0    0   3   1   2   0   0  6/10Taylor Hall L  16:57   0  0   -1   3   0   0   0   1   1/2Philipp Kurashev C  18:06   0  0   -1   0   1   2   1   0 11/22Patrick Maroon L  11:06   0  0   -1   0   0   0   1   0   0/0Ilya Mikheyev R  13:16   0  0    0   1   0   0   0   0   0/0Craig Smith C  09:14   0  0   -1   2   1   0   0   2   1/2Teuvo Teravainen C  20:24   0  0    0   2   0   0   1   2   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTJ Brodie D  15:29   0  0    0   0   3   0   0   1   0/0Seth Jones D  25:25   0  1    0   4   2   0   0   1   0/0Wyatt Kaiser D  18:11   0  0    0   1   1   0   1   1   0/0Alec Martinez D  18:59   0  1    1   1   3   0   0   2   0/0Connor Murphy D  17:17   0  0   -1   1   3   0   1   0   0/0Alex Vlasic D  20:25   0  0   -1   1   4   0   1   0   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  19   6   9  12 32/66
+                                        48.5%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  58:19   2  23/25  19/20   3/4   1/1     0
+              .920   .950  .750 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  18:45   0  1    1   2   0   0   0   2  9/18Blake Coleman C  16:53   0  0    0   4   1   0   0   1   0/1Matt Coronato R  12:46   2  0    2   3   0   0   0   0   0/0Samuel Honzek L  13:48   0  0   -1   0   0   0   0   0   0/0Jonathan Huberdeau C  18:48   0  1    0   0   1   0   0   0   0/0Nazem Kadri C  17:04   0  0   -1   3   0   0   1   1 11/18Justin Kirkland C  11:56   0  1    1   1   3   0   1   0  8/15Andrei Kuzmenko L  13:49   1  0   -1   2   1   0   0   1   0/0Ryan Lomberg L  11:34   0  0    1   1   0   0   0   1   0/0Anthony Mantha R  16:02   0  0    1   1   0   0   1   0   0/1Martin Pospisil C  12:44   0  0    0   1   0   0   0   1  6/13Connor Zary C  17:06   0  1    0   0   1   0   1   4   0/0Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:09   0  1    1   1   3   2   0   4   0/0Kevin Bahl D  20:16   0  0    1   2   4   0   0   0   0/0Jake Bean D  16:47   0  0    0   0   1   0   0   0   0/0Daniil Miromanov D  18:10   0  0    0   0   2   0   1   0   0/0Brayden Pachal D  12:53   0  0    0   1   1   2   0   3   0/0MacKenzie Weegar D  23:58   0  0    0   4   3   0   0   1   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       26  21   4   5  19 34/66
+                                        51.5%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  59:32   1  31/32  27/28   3/3   1/1     0
+              .969   .964 1.000 1.000
+Chicago
+Blackhawks1-2-1Final1 - 3Calgary
+Flames4-0-0
+Chicago
+Blackhawks1-2-1
+Final1 - 3
+Calgary
+Flames4-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CHI   1  0  0    1  
+CGY   1  1  1    3
+1st Period: ShowHide
+P1  08:59 
+Rasmus Andersson (CGY) hooking against Nick Foligno (2 minutes)
+   0-0
+P1  03:59 
+Matt Coronato (CGY) scores on wrist shot past Petr Mrazek, assisted by Justin Kirkland and Rasmus Andersson
+   0-1
+P1  03:49 
+Nick Foligno (CHI) scores on tip-in past Dustin Wolf, assisted by Seth Jones and Alec Martinez
+   1-1
+2nd Period: ShowHide
+P2  14:20 
+Philipp Kurashev (CHI) hooking against Nazem Kadri (2 minutes)
+   1-1
+P2  08:04 
+Connor Bedard (CHI) slashing against Dustin Wolf (2 minutes)
+   1-1
+P2  06:28 
+Andrei Kuzmenko (CGY) scores goal with extra attacker on tip-in past Petr Mrazek, assisted by Jonathan Huberdeau and Connor Zary
+   1-2
+P2  06:28 
+Nick Foligno (CHI) slashing against Jonathan Huberdeau (2 minutes)
+   1-2
+3rd Period: ShowHide
+P3  14:18 
+Brayden Pachal (CGY) high-sticking against Nick Foligno (2 minutes)
+   1-2
+P3  00:39 
+Matt Coronato (CGY) scores on empty net, assisted by Mikael Backlund
+   1-3
+1st Period: ShowHide
+P1  08:59 
+Rasmus Andersson (CGY) hooking against Nick Foligno (2 minutes)
+   0-0
+P1  03:59 
+Matt Coronato (CGY) scores on wrist shot past Petr Mrazek, assisted by Justin Kirkland and Rasmus Andersson
+   0-1
+P1  03:49 
+Nick Foligno (CHI) scores on tip-in past Dustin Wolf, assisted by Seth Jones and Alec Martinez
+   1-1
+P1  08:59 
+Rasmus Andersson (CGY) hooking against Nick Foligno (2 minutes)
+   0-0
+P1  03:59 
+Matt Coronato (CGY) scores on wrist shot past Petr Mrazek, assisted by Justin Kirkland and Rasmus Andersson
+   0-1
+P1  03:49 
+Nick Foligno (CHI) scores on tip-in past Dustin Wolf, assisted by Seth Jones and Alec Martinez
+   1-1
+P1  08:59
+Rasmus Andersson (CGY) hooking against Nick Foligno (2 minutes)
+0-0
+P1  03:59
+Matt Coronato (CGY) scores on wrist shot past Petr Mrazek, assisted by Justin Kirkland and Rasmus Andersson
+0-1
+P1  03:49
+Nick Foligno (CHI) scores on tip-in past Dustin Wolf, assisted by Seth Jones and Alec Martinez
+1-1
+2nd Period: ShowHide
+P2  14:20 
+Philipp Kurashev (CHI) hooking against Nazem Kadri (2 minutes)
+   1-1
+P2  08:04 
+Connor Bedard (CHI) slashing against Dustin Wolf (2 minutes)
+   1-1
+P2  06:28 
+Andrei Kuzmenko (CGY) scores goal with extra attacker on tip-in past Petr Mrazek, assisted by Jonathan Huberdeau and Connor Zary
+   1-2
+P2  06:28 
+Nick Foligno (CHI) slashing against Jonathan Huberdeau (2 minutes)
+   1-2
+P2  14:20 
+Philipp Kurashev (CHI) hooking against Nazem Kadri (2 minutes)
+   1-1
+P2  08:04 
+Connor Bedard (CHI) slashing against Dustin Wolf (2 minutes)
+   1-1
+P2  06:28 
+Andrei Kuzmenko (CGY) scores goal with extra attacker on tip-in past Petr Mrazek, assisted by Jonathan Huberdeau and Connor Zary
+   1-2
+P2  06:28 
+Nick Foligno (CHI) slashing against Jonathan Huberdeau (2 minutes)
+   1-2
+P2  14:20
+Philipp Kurashev (CHI) hooking against Nazem Kadri (2 minutes)
+1-1
+P2  08:04
+Connor Bedard (CHI) slashing against Dustin Wolf (2 minutes)
+1-1
+P2  06:28
+Andrei Kuzmenko (CGY) scores goal with extra attacker on tip-in past Petr Mrazek, assisted by Jonathan Huberdeau and Connor Zary
+1-2
+P2  06:28
+Nick Foligno (CHI) slashing against Jonathan Huberdeau (2 minutes)
+1-2
+3rd Period: ShowHide
+P3  14:18 
+Brayden Pachal (CGY) high-sticking against Nick Foligno (2 minutes)
+   1-2
+P3  00:39 
+Matt Coronato (CGY) scores on empty net, assisted by Mikael Backlund
+   1-3
+P3  14:18 
+Brayden Pachal (CGY) high-sticking against Nick Foligno (2 minutes)
+   1-2
+P3  00:39 
+Matt Coronato (CGY) scores on empty net, assisted by Mikael Backlund
+   1-3
+P3  14:18
+Brayden Pachal (CGY) high-sticking against Nick Foligno (2 minutes)
+1-2
+P3  00:39
+Matt Coronato (CGY) scores on empty net, assisted by Mikael Backlund
+1-3
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  12:03   0  0    0   1   0   0   1   0   2/2Andreas Athanasiou C  09:12   0  0   -1   3   0   0   0   0  5/10Connor Bedard C  20:14   0  0    0   7   0   2   0   1   3/9Tyler Bertuzzi L  17:37   0  0    0   2   0   0   0   0   0/0Jason Dickinson C  13:24   0  0    0   0   0   0   2   1   3/9Nick Foligno L  18:46   1  0    0   3   1   2   0   0  6/10Taylor Hall L  16:57   0  0   -1   3   0   0   0   1   1/2Philipp Kurashev C  18:06   0  0   -1   0   1   2   1   0 11/22Patrick Maroon L  11:06   0  0   -1   0   0   0   1   0   0/0Ilya Mikheyev R  13:16   0  0    0   1   0   0   0   0   0/0Craig Smith C  09:14   0  0   -1   2   1   0   0   2   1/2Teuvo Teravainen C  20:24   0  0    0   2   0   0   1   2   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTJ Brodie D  15:29   0  0    0   0   3   0   0   1   0/0Seth Jones D  25:25   0  1    0   4   2   0   0   1   0/0Wyatt Kaiser D  18:11   0  0    0   1   1   0   1   1   0/0Alec Martinez D  18:59   0  1    1   1   3   0   0   2   0/0Connor Murphy D  17:17   0  0   -1   1   3   0   1   0   0/0Alex Vlasic D  20:25   0  0   -1   1   4   0   1   0   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  19   6   9  12 32/66
+                                        48.5%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  58:19   2  23/25  19/20   3/4   1/1     0
+              .920   .950  .750 1.000 
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  18:45   0  1    1   2   0   0   0   2  9/18Blake Coleman C  16:53   0  0    0   4   1   0   0   1   0/1Matt Coronato R  12:46   2  0    2   3   0   0   0   0   0/0Samuel Honzek L  13:48   0  0   -1   0   0   0   0   0   0/0Jonathan Huberdeau C  18:48   0  1    0   0   1   0   0   0   0/0Nazem Kadri C  17:04   0  0   -1   3   0   0   1   1 11/18Justin Kirkland C  11:56   0  1    1   1   3   0   1   0  8/15Andrei Kuzmenko L  13:49   1  0   -1   2   1   0   0   1   0/0Ryan Lomberg L  11:34   0  0    1   1   0   0   0   1   0/0Anthony Mantha R  16:02   0  0    1   1   0   0   1   0   0/1Martin Pospisil C  12:44   0  0    0   1   0   0   0   1  6/13Connor Zary C  17:06   0  1    0   0   1   0   1   4   0/0Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:09   0  1    1   1   3   2   0   4   0/0Kevin Bahl D  20:16   0  0    1   2   4   0   0   0   0/0Jake Bean D  16:47   0  0    0   0   1   0   0   0   0/0Daniil Miromanov D  18:10   0  0    0   0   2   0   1   0   0/0Brayden Pachal D  12:53   0  0    0   1   1   2   0   3   0/0MacKenzie Weegar D  23:58   0  0    0   4   3   0   0   1   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       26  21   4   5  19 34/66
+                                        51.5%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  59:32   1  31/32  27/28   3/3   1/1     0
+              .969   .964 1.000 1.000
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  12:03   0  0    0   1   0   0   1   0   2/2Andreas Athanasiou C  09:12   0  0   -1   3   0   0   0   0  5/10Connor Bedard C  20:14   0  0    0   7   0   2   0   1   3/9Tyler Bertuzzi L  17:37   0  0    0   2   0   0   0   0   0/0Jason Dickinson C  13:24   0  0    0   0   0   0   2   1   3/9Nick Foligno L  18:46   1  0    0   3   1   2   0   0  6/10Taylor Hall L  16:57   0  0   -1   3   0   0   0   1   1/2Philipp Kurashev C  18:06   0  0   -1   0   1   2   1   0 11/22Patrick Maroon L  11:06   0  0   -1   0   0   0   1   0   0/0Ilya Mikheyev R  13:16   0  0    0   1   0   0   0   0   0/0Craig Smith C  09:14   0  0   -1   2   1   0   0   2   1/2Teuvo Teravainen C  20:24   0  0    0   2   0   0   1   2   0/0
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Joey Anderson R
+12:03   0  0    0   1   0   0   1   0   2/2
+Andreas Athanasiou C
+09:12   0  0   -1   3   0   0   0   0  5/10
+Connor Bedard C
+20:14   0  0    0   7   0   2   0   1   3/9
+Tyler Bertuzzi L
+17:37   0  0    0   2   0   0   0   0   0/0
+Jason Dickinson C
+13:24   0  0    0   0   0   0   2   1   3/9
+Nick Foligno L
+18:46   1  0    0   3   1   2   0   0  6/10
+Taylor Hall L
+16:57   0  0   -1   3   0   0   0   1   1/2
+Philipp Kurashev C
+18:06   0  0   -1   0   1   2   1   0 11/22
+Patrick Maroon L
+11:06   0  0   -1   0   0   0   1   0   0/0
+Ilya Mikheyev R
+13:16   0  0    0   1   0   0   0   0   0/0
+Craig Smith C
+09:14   0  0   -1   2   1   0   0   2   1/2
+Teuvo Teravainen C
+20:24   0  0    0   2   0   0   1   2   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTJ Brodie D  15:29   0  0    0   0   3   0   0   1   0/0Seth Jones D  25:25   0  1    0   4   2   0   0   1   0/0Wyatt Kaiser D  18:11   0  0    0   1   1   0   1   1   0/0Alec Martinez D  18:59   0  1    1   1   3   0   0   2   0/0Connor Murphy D  17:17   0  0   -1   1   3   0   1   0   0/0Alex Vlasic D  20:25   0  0   -1   1   4   0   1   0   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+TJ Brodie D
+15:29   0  0    0   0   3   0   0   1   0/0
+Seth Jones D
+25:25   0  1    0   4   2   0   0   1   0/0
+Wyatt Kaiser D
+18:11   0  0    0   1   1   0   1   1   0/0
+Alec Martinez D
+18:59   0  1    1   1   3   0   0   2   0/0
+Connor Murphy D
+17:17   0  0   -1   1   3   0   1   0   0/0
+Alex Vlasic D
+20:25   0  0   -1   1   4   0   1   0   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  19   6   9  12 32/66
+                                        48.5%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  58:19   2  23/25  19/20   3/4   1/1     0
+              .920   .950  .750 1.000
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Petr Mrazek G
+58:19   2  23/25  19/20   3/4   1/1     0
+              .920   .950  .750 1.000
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  18:45   0  1    1   2   0   0   0   2  9/18Blake Coleman C  16:53   0  0    0   4   1   0   0   1   0/1Matt Coronato R  12:46   2  0    2   3   0   0   0   0   0/0Samuel Honzek L  13:48   0  0   -1   0   0   0   0   0   0/0Jonathan Huberdeau C  18:48   0  1    0   0   1   0   0   0   0/0Nazem Kadri C  17:04   0  0   -1   3   0   0   1   1 11/18Justin Kirkland C  11:56   0  1    1   1   3   0   1   0  8/15Andrei Kuzmenko L  13:49   1  0   -1   2   1   0   0   1   0/0Ryan Lomberg L  11:34   0  0    1   1   0   0   0   1   0/0Anthony Mantha R  16:02   0  0    1   1   0   0   1   0   0/1Martin Pospisil C  12:44   0  0    0   1   0   0   0   1  6/13Connor Zary C  17:06   0  1    0   0   1   0   1   4   0/0
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+18:45   0  1    1   2   0   0   0   2  9/18
+Blake Coleman C
+16:53   0  0    0   4   1   0   0   1   0/1
+Matt Coronato R
+12:46   2  0    2   3   0   0   0   0   0/0
+Samuel Honzek L
+13:48   0  0   -1   0   0   0   0   0   0/0
+Jonathan Huberdeau C
+18:48   0  1    0   0   1   0   0   0   0/0
+Nazem Kadri C
+17:04   0  0   -1   3   0   0   1   1 11/18
+Justin Kirkland C
+11:56   0  1    1   1   3   0   1   0  8/15
+Andrei Kuzmenko L
+13:49   1  0   -1   2   1   0   0   1   0/0
+Ryan Lomberg L
+11:34   0  0    1   1   0   0   0   1   0/0
+Anthony Mantha R
+16:02   0  0    1   1   0   0   1   0   0/1
+Martin Pospisil C
+12:44   0  0    0   1   0   0   0   1  6/13
+Connor Zary C
+17:06   0  1    0   0   1   0   1   4   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  23:09   0  1    1   1   3   2   0   4   0/0Kevin Bahl D  20:16   0  0    1   2   4   0   0   0   0/0Jake Bean D  16:47   0  0    0   0   1   0   0   0   0/0Daniil Miromanov D  18:10   0  0    0   0   2   0   1   0   0/0Brayden Pachal D  12:53   0  0    0   1   1   2   0   3   0/0MacKenzie Weegar D  23:58   0  0    0   4   3   0   0   1   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+23:09   0  1    1   1   3   2   0   4   0/0
+Kevin Bahl D
+20:16   0  0    1   2   4   0   0   0   0/0
+Jake Bean D
+16:47   0  0    0   0   1   0   0   0   0/0
+Daniil Miromanov D
+18:10   0  0    0   0   2   0   1   0   0/0
+Brayden Pachal D
+12:53   0  0    0   1   1   2   0   3   0/0
+MacKenzie Weegar D
+23:58   0  0    0   4   3   0   0   1   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       26  21   4   5  19 34/66
+                                        51.5%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDustin Wolf G  59:32   1  31/32  27/28   3/3   1/1     0
+              .969   .964 1.000 1.000
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dustin Wolf G
+59:32   1  31/32  27/28   3/3   1/1     0
+              .969   .964 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

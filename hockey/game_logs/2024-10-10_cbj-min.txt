@@ -1,0 +1,352 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Columbus
+Blue Jackets0-1-0Final2 - 3Minnesota
+Wild1-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CBJ   0  1  1    2  
+MIN   1  1  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  04:45 
+Marcus Foligno (MIN) tripping against Cole Sillinger (2 minutes)
+   0-0
+P1  04:15 
+Cole Sillinger (CBJ) hooking against Brock Faber (2 minutes)
+   0-0
+P1  02:09 
+Matt Boldy (MIN) scores on wrist shot past Elvis Merzlikins, assisted by Marcus Johansson and Jonas Brodin
+   0-1
+2nd Period: ShowHide
+P2  18:00 
+Kent Johnson (CBJ) scores on wrist shot past Filip Gustavsson, assisted by Cole Sillinger and Damon Severson
+   1-1
+P2  14:09 
+Kent Johnson (CBJ) tripping against Mats Zuccarello (2 minutes)
+   1-1
+P2  11:27 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   1-1
+P2  03:25 
+Joel Eriksson Ek (MIN) scores on snap shot past Elvis Merzlikins, assisted by Marcus Johansson and Matt Boldy
+   1-2
+3rd Period: ShowHide
+P3  11:52 
+Sean Monahan (CBJ) cross-checking against Marcus Johansson (2 minutes)
+   1-2
+P3  10:02 
+Mats Zuccarello (MIN) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Matt Boldy and Kirill Kaprizov
+   1-3
+P3  03:10 
+Jake Middleton (MIN) delaying game - puck over glass (2 minutes)
+   1-3
+P3  02:54 
+Zach Werenski (CBJ) scores power-play goal on slap shot past Filip Gustavsson, assisted by Yegor Chinakhov and Kent Johnson
+   2-3
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  07:33   0  0    0   1   0   0   0   0   0/1Yegor Chinakhov R  20:48   0  1    0   3   0   0   0   1   0/0Adam Fantilli C  15:49   0  0   -1   2   0   0   0   0  4/10Kent Johnson C  18:05   1  1    0   4   0   2   0   1   0/0Sean Kuraly C  11:57   0  0    0   0   0   0   0   1   4/8Kevin Labanc R  12:27   0  0   -1   0   0   0   0   1   0/0Kirill Marchenko R  16:55   0  0    0   2   1   0   0   0   0/0Sean Monahan C  19:35   0  0   -1   4   0   2   0   4 13/24Mathieu Olivier R  12:08   0  0    0   1   1   0   0   1   0/1Mikael Pyyhtia L  15:50   0  0    1   0   1   0   0   1   0/0Cole Sillinger C  16:27   0  1    0   0   0   2   0   0  6/15James van Riemsdyk L  11:42   0  0   -1   0   1   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:43   0  0    1   4   0   0   0   0   0/0Erik Gudbranson D  17:00   0  0   -1   0   1   0   0   1   0/0Jack Johnson D  16:01   0  0   -1   2   1   0   0   0   0/0Ivan Provorov D  19:29   0  0   -1   0   1   0   0   1   0/0Damon Severson D  21:07   0  1    1   3   2   0   1   2   0/0Zach Werenski D  26:56   1  0   -1   7   1   0   0   1   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       33  10   6   1  15 27/59
+                                        45.8%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  58:38   3  23/26  18/20   5/6   0/0     0
+              .885   .900  .833 
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  18:43   1  2    2   3   1   0   0   0   1/1Joel Eriksson Ek C  19:56   1  0    2   3   1   0   0   1 11/20Marcus Foligno L  13:09   0  0    0   0   0   2   0   0   0/0Frederick Gaudreau C  13:04   0  0    0   1   0   0   1   0   5/8Ryan Hartman R  13:55   0  0    0   2   0   0   0   1  7/14Marcus Johansson L  14:28   0  2    2   1   0   0   0   0   0/0Kirill Kaprizov L  18:04   0  1   -1   3   0   0   0   1   0/0Marat Khusnutdinov C  13:37   0  0    0   0   0   0   0   0   1/5Jakub Lauko C  12:14   0  0    0   2   0   0   0   0   0/0Marco Rossi C  14:01   0  0   -1   1   0   0   0   2  6/10Yakov Trenin C  13:05   0  0    0   1   1   0   0   1   0/0Mats Zuccarello R  14:47   1  0   -1   2   0   0   0   1   1/1Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  14:51   0  0    0   3   1   0   0   2   0/0Jonas Brodin D  22:08   0  1    1   0   3   0   1   0   0/0Brock Faber D  24:57   0  0    1   1   1   0   0   0   0/0Jon Merrill D  12:55   0  0    0   0   1   0   0   1   0/0Jake Middleton D  22:14   0  0    0   1   6   2   0   1   0/0Jared Spurgeon D  19:36   0  0    0   2   3   0   0   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  18   4   2  11 32/59
+                                        54.2%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   2  31/33  25/26   5/6   1/1     0
+              .939   .962  .833 1.000
+Columbus
+Blue Jackets0-1-0Final2 - 3Minnesota
+Wild1-0-0
+Columbus
+Blue Jackets0-1-0
+Final2 - 3
+Minnesota
+Wild1-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CBJ   0  1  1    2  
+MIN   1  1  1    3
+1st Period: ShowHide
+P1  04:45 
+Marcus Foligno (MIN) tripping against Cole Sillinger (2 minutes)
+   0-0
+P1  04:15 
+Cole Sillinger (CBJ) hooking against Brock Faber (2 minutes)
+   0-0
+P1  02:09 
+Matt Boldy (MIN) scores on wrist shot past Elvis Merzlikins, assisted by Marcus Johansson and Jonas Brodin
+   0-1
+2nd Period: ShowHide
+P2  18:00 
+Kent Johnson (CBJ) scores on wrist shot past Filip Gustavsson, assisted by Cole Sillinger and Damon Severson
+   1-1
+P2  14:09 
+Kent Johnson (CBJ) tripping against Mats Zuccarello (2 minutes)
+   1-1
+P2  11:27 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   1-1
+P2  03:25 
+Joel Eriksson Ek (MIN) scores on snap shot past Elvis Merzlikins, assisted by Marcus Johansson and Matt Boldy
+   1-2
+3rd Period: ShowHide
+P3  11:52 
+Sean Monahan (CBJ) cross-checking against Marcus Johansson (2 minutes)
+   1-2
+P3  10:02 
+Mats Zuccarello (MIN) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Matt Boldy and Kirill Kaprizov
+   1-3
+P3  03:10 
+Jake Middleton (MIN) delaying game - puck over glass (2 minutes)
+   1-3
+P3  02:54 
+Zach Werenski (CBJ) scores power-play goal on slap shot past Filip Gustavsson, assisted by Yegor Chinakhov and Kent Johnson
+   2-3
+1st Period: ShowHide
+P1  04:45 
+Marcus Foligno (MIN) tripping against Cole Sillinger (2 minutes)
+   0-0
+P1  04:15 
+Cole Sillinger (CBJ) hooking against Brock Faber (2 minutes)
+   0-0
+P1  02:09 
+Matt Boldy (MIN) scores on wrist shot past Elvis Merzlikins, assisted by Marcus Johansson and Jonas Brodin
+   0-1
+P1  04:45 
+Marcus Foligno (MIN) tripping against Cole Sillinger (2 minutes)
+   0-0
+P1  04:15 
+Cole Sillinger (CBJ) hooking against Brock Faber (2 minutes)
+   0-0
+P1  02:09 
+Matt Boldy (MIN) scores on wrist shot past Elvis Merzlikins, assisted by Marcus Johansson and Jonas Brodin
+   0-1
+P1  04:45
+Marcus Foligno (MIN) tripping against Cole Sillinger (2 minutes)
+0-0
+P1  04:15
+Cole Sillinger (CBJ) hooking against Brock Faber (2 minutes)
+0-0
+P1  02:09
+Matt Boldy (MIN) scores on wrist shot past Elvis Merzlikins, assisted by Marcus Johansson and Jonas Brodin
+0-1
+2nd Period: ShowHide
+P2  18:00 
+Kent Johnson (CBJ) scores on wrist shot past Filip Gustavsson, assisted by Cole Sillinger and Damon Severson
+   1-1
+P2  14:09 
+Kent Johnson (CBJ) tripping against Mats Zuccarello (2 minutes)
+   1-1
+P2  11:27 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   1-1
+P2  03:25 
+Joel Eriksson Ek (MIN) scores on snap shot past Elvis Merzlikins, assisted by Marcus Johansson and Matt Boldy
+   1-2
+P2  18:00 
+Kent Johnson (CBJ) scores on wrist shot past Filip Gustavsson, assisted by Cole Sillinger and Damon Severson
+   1-1
+P2  14:09 
+Kent Johnson (CBJ) tripping against Mats Zuccarello (2 minutes)
+   1-1
+P2  11:27 
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+   1-1
+P2  03:25 
+Joel Eriksson Ek (MIN) scores on snap shot past Elvis Merzlikins, assisted by Marcus Johansson and Matt Boldy
+   1-2
+P2  18:00
+Kent Johnson (CBJ) scores on wrist shot past Filip Gustavsson, assisted by Cole Sillinger and Damon Severson
+1-1
+P2  14:09
+Kent Johnson (CBJ) tripping against Mats Zuccarello (2 minutes)
+1-1
+P2  11:27
+MIN penalty, too many men on the ice (2 minutes), served by Marcus Johansson
+1-1
+P2  03:25
+Joel Eriksson Ek (MIN) scores on snap shot past Elvis Merzlikins, assisted by Marcus Johansson and Matt Boldy
+1-2
+3rd Period: ShowHide
+P3  11:52 
+Sean Monahan (CBJ) cross-checking against Marcus Johansson (2 minutes)
+   1-2
+P3  10:02 
+Mats Zuccarello (MIN) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Matt Boldy and Kirill Kaprizov
+   1-3
+P3  03:10 
+Jake Middleton (MIN) delaying game - puck over glass (2 minutes)
+   1-3
+P3  02:54 
+Zach Werenski (CBJ) scores power-play goal on slap shot past Filip Gustavsson, assisted by Yegor Chinakhov and Kent Johnson
+   2-3
+P3  11:52 
+Sean Monahan (CBJ) cross-checking against Marcus Johansson (2 minutes)
+   1-2
+P3  10:02 
+Mats Zuccarello (MIN) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Matt Boldy and Kirill Kaprizov
+   1-3
+P3  03:10 
+Jake Middleton (MIN) delaying game - puck over glass (2 minutes)
+   1-3
+P3  02:54 
+Zach Werenski (CBJ) scores power-play goal on slap shot past Filip Gustavsson, assisted by Yegor Chinakhov and Kent Johnson
+   2-3
+P3  11:52
+Sean Monahan (CBJ) cross-checking against Marcus Johansson (2 minutes)
+1-2
+P3  10:02
+Mats Zuccarello (MIN) scores power-play goal on snap shot past Elvis Merzlikins, assisted by Matt Boldy and Kirill Kaprizov
+1-3
+P3  03:10
+Jake Middleton (MIN) delaying game - puck over glass (2 minutes)
+1-3
+P3  02:54
+Zach Werenski (CBJ) scores power-play goal on slap shot past Filip Gustavsson, assisted by Yegor Chinakhov and Kent Johnson
+2-3
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  07:33   0  0    0   1   0   0   0   0   0/1Yegor Chinakhov R  20:48   0  1    0   3   0   0   0   1   0/0Adam Fantilli C  15:49   0  0   -1   2   0   0   0   0  4/10Kent Johnson C  18:05   1  1    0   4   0   2   0   1   0/0Sean Kuraly C  11:57   0  0    0   0   0   0   0   1   4/8Kevin Labanc R  12:27   0  0   -1   0   0   0   0   1   0/0Kirill Marchenko R  16:55   0  0    0   2   1   0   0   0   0/0Sean Monahan C  19:35   0  0   -1   4   0   2   0   4 13/24Mathieu Olivier R  12:08   0  0    0   1   1   0   0   1   0/1Mikael Pyyhtia L  15:50   0  0    1   0   1   0   0   1   0/0Cole Sillinger C  16:27   0  1    0   0   0   2   0   0  6/15James van Riemsdyk L  11:42   0  0   -1   0   1   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:43   0  0    1   4   0   0   0   0   0/0Erik Gudbranson D  17:00   0  0   -1   0   1   0   0   1   0/0Jack Johnson D  16:01   0  0   -1   2   1   0   0   0   0/0Ivan Provorov D  19:29   0  0   -1   0   1   0   0   1   0/0Damon Severson D  21:07   0  1    1   3   2   0   1   2   0/0Zach Werenski D  26:56   1  0   -1   7   1   0   0   1   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       33  10   6   1  15 27/59
+                                        45.8%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  58:38   3  23/26  18/20   5/6   0/0     0
+              .885   .900  .833 
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  18:43   1  2    2   3   1   0   0   0   1/1Joel Eriksson Ek C  19:56   1  0    2   3   1   0   0   1 11/20Marcus Foligno L  13:09   0  0    0   0   0   2   0   0   0/0Frederick Gaudreau C  13:04   0  0    0   1   0   0   1   0   5/8Ryan Hartman R  13:55   0  0    0   2   0   0   0   1  7/14Marcus Johansson L  14:28   0  2    2   1   0   0   0   0   0/0Kirill Kaprizov L  18:04   0  1   -1   3   0   0   0   1   0/0Marat Khusnutdinov C  13:37   0  0    0   0   0   0   0   0   1/5Jakub Lauko C  12:14   0  0    0   2   0   0   0   0   0/0Marco Rossi C  14:01   0  0   -1   1   0   0   0   2  6/10Yakov Trenin C  13:05   0  0    0   1   1   0   0   1   0/0Mats Zuccarello R  14:47   1  0   -1   2   0   0   0   1   1/1Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  14:51   0  0    0   3   1   0   0   2   0/0Jonas Brodin D  22:08   0  1    1   0   3   0   1   0   0/0Brock Faber D  24:57   0  0    1   1   1   0   0   0   0/0Jon Merrill D  12:55   0  0    0   0   1   0   0   1   0/0Jake Middleton D  22:14   0  0    0   1   6   2   0   1   0/0Jared Spurgeon D  19:36   0  0    0   2   3   0   0   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  18   4   2  11 32/59
+                                        54.2%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   2  31/33  25/26   5/6   1/1     0
+              .939   .962  .833 1.000
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  07:33   0  0    0   1   0   0   0   0   0/1Yegor Chinakhov R  20:48   0  1    0   3   0   0   0   1   0/0Adam Fantilli C  15:49   0  0   -1   2   0   0   0   0  4/10Kent Johnson C  18:05   1  1    0   4   0   2   0   1   0/0Sean Kuraly C  11:57   0  0    0   0   0   0   0   1   4/8Kevin Labanc R  12:27   0  0   -1   0   0   0   0   1   0/0Kirill Marchenko R  16:55   0  0    0   2   1   0   0   0   0/0Sean Monahan C  19:35   0  0   -1   4   0   2   0   4 13/24Mathieu Olivier R  12:08   0  0    0   1   1   0   0   1   0/1Mikael Pyyhtia L  15:50   0  0    1   0   1   0   0   1   0/0Cole Sillinger C  16:27   0  1    0   0   0   2   0   0  6/15James van Riemsdyk L  11:42   0  0   -1   0   1   0   0   0   0/0
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Aston-Reese C
+07:33   0  0    0   1   0   0   0   0   0/1
+Yegor Chinakhov R
+20:48   0  1    0   3   0   0   0   1   0/0
+Adam Fantilli C
+15:49   0  0   -1   2   0   0   0   0  4/10
+Kent Johnson C
+18:05   1  1    0   4   0   2   0   1   0/0
+Sean Kuraly C
+11:57   0  0    0   0   0   0   0   1   4/8
+Kevin Labanc R
+12:27   0  0   -1   0   0   0   0   1   0/0
+Kirill Marchenko R
+16:55   0  0    0   2   1   0   0   0   0/0
+Sean Monahan C
+19:35   0  0   -1   4   0   2   0   4 13/24
+Mathieu Olivier R
+12:08   0  0    0   1   1   0   0   1   0/1
+Mikael Pyyhtia L
+15:50   0  0    1   0   1   0   0   1   0/0
+Cole Sillinger C
+16:27   0  1    0   0   0   2   0   0  6/15
+James van Riemsdyk L
+11:42   0  0   -1   0   1   0   0   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:43   0  0    1   4   0   0   0   0   0/0Erik Gudbranson D  17:00   0  0   -1   0   1   0   0   1   0/0Jack Johnson D  16:01   0  0   -1   2   1   0   0   0   0/0Ivan Provorov D  19:29   0  0   -1   0   1   0   0   1   0/0Damon Severson D  21:07   0  1    1   3   2   0   1   2   0/0Zach Werenski D  26:56   1  0   -1   7   1   0   0   1   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+15:43   0  0    1   4   0   0   0   0   0/0
+Erik Gudbranson D
+17:00   0  0   -1   0   1   0   0   1   0/0
+Jack Johnson D
+16:01   0  0   -1   2   1   0   0   0   0/0
+Ivan Provorov D
+19:29   0  0   -1   0   1   0   0   1   0/0
+Damon Severson D
+21:07   0  1    1   3   2   0   1   2   0/0
+Zach Werenski D
+26:56   1  0   -1   7   1   0   0   1   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       33  10   6   1  15 27/59
+                                        45.8%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  58:38   3  23/26  18/20   5/6   0/0     0
+              .885   .900  .833
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Elvis Merzlikins G
+58:38   3  23/26  18/20   5/6   0/0     0
+              .885   .900  .833
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  18:43   1  2    2   3   1   0   0   0   1/1Joel Eriksson Ek C  19:56   1  0    2   3   1   0   0   1 11/20Marcus Foligno L  13:09   0  0    0   0   0   2   0   0   0/0Frederick Gaudreau C  13:04   0  0    0   1   0   0   1   0   5/8Ryan Hartman R  13:55   0  0    0   2   0   0   0   1  7/14Marcus Johansson L  14:28   0  2    2   1   0   0   0   0   0/0Kirill Kaprizov L  18:04   0  1   -1   3   0   0   0   1   0/0Marat Khusnutdinov C  13:37   0  0    0   0   0   0   0   0   1/5Jakub Lauko C  12:14   0  0    0   2   0   0   0   0   0/0Marco Rossi C  14:01   0  0   -1   1   0   0   0   2  6/10Yakov Trenin C  13:05   0  0    0   1   1   0   0   1   0/0Mats Zuccarello R  14:47   1  0   -1   2   0   0   0   1   1/1
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Boldy L
+18:43   1  2    2   3   1   0   0   0   1/1
+Joel Eriksson Ek C
+19:56   1  0    2   3   1   0   0   1 11/20
+Marcus Foligno L
+13:09   0  0    0   0   0   2   0   0   0/0
+Frederick Gaudreau C
+13:04   0  0    0   1   0   0   1   0   5/8
+Ryan Hartman R
+13:55   0  0    0   2   0   0   0   1  7/14
+Marcus Johansson L
+14:28   0  2    2   1   0   0   0   0   0/0
+Kirill Kaprizov L
+18:04   0  1   -1   3   0   0   0   1   0/0
+Marat Khusnutdinov C
+13:37   0  0    0   0   0   0   0   0   1/5
+Jakub Lauko C
+12:14   0  0    0   2   0   0   0   0   0/0
+Marco Rossi C
+14:01   0  0   -1   1   0   0   0   2  6/10
+Yakov Trenin C
+13:05   0  0    0   1   1   0   0   1   0/0
+Mats Zuccarello R
+14:47   1  0   -1   2   0   0   0   1   1/1
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  14:51   0  0    0   3   1   0   0   2   0/0Jonas Brodin D  22:08   0  1    1   0   3   0   1   0   0/0Brock Faber D  24:57   0  0    1   1   1   0   0   0   0/0Jon Merrill D  12:55   0  0    0   0   1   0   0   1   0/0Jake Middleton D  22:14   0  0    0   1   6   2   0   1   0/0Jared Spurgeon D  19:36   0  0    0   2   3   0   0   0   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Bogosian D
+14:51   0  0    0   3   1   0   0   2   0/0
+Jonas Brodin D
+22:08   0  1    1   0   3   0   1   0   0/0
+Brock Faber D
+24:57   0  0    1   1   1   0   0   0   0/0
+Jon Merrill D
+12:55   0  0    0   0   1   0   0   1   0/0
+Jake Middleton D
+22:14   0  0    0   1   6   2   0   1   0/0
+Jared Spurgeon D
+19:36   0  0    0   2   3   0   0   0   0/0
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       26  18   4   2  11 32/59
+                                        54.2%
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFilip Gustavsson G  60:00   2  31/33  25/26   5/6   1/1     0
+              .939   .962  .833 1.000
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Filip Gustavsson G
+60:00   2  31/33  25/26   5/6   1/1     0
+              .939   .962  .833 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

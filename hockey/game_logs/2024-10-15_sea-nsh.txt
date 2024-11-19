@@ -1,0 +1,427 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Seattle
+Kraken2-2-0Final7 - 3Nashville
+Predators0-3-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SEA   3  0  4    7  
+NSH   2  1  0    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:23 
+Ryker Evans (SEA) scores on wrist shot past Juuse Saros, assisted by Adam Larsson
+   1-0
+P1  12:53 
+Oliver Bjorkstrand (SEA) scores on wrist shot past Juuse Saros, assisted by Chandler Stephenson and Jaden Schwartz
+   2-0
+P1  05:13 
+Michael McCarron (NSH) scores on backhand shot past Joey Daccord, assisted by Juuso Parssinen and Alexandre Carrier
+   2-1
+P1  03:00 
+Tommy Novak (NSH) scores on wrist shot past Joey Daccord, assisted by Mark Jankowski and Luke Evangelista
+   2-2
+P1  00:33 
+Brandon Tanev (SEA) scores on tip-in past Juuse Saros, assisted by Brandon Montour and Yanni Gourde
+   3-2
+P1  00:01 
+Jared McCann (SEA) hooking against Ryan O'Reilly (2 minutes)
+   3-2
+2nd Period: ShowHide
+P2  12:24 
+Filip Forsberg (NSH) slashing against Vince Dunn (2 minutes)
+   3-2
+P2  05:57 
+Luke Evangelista (NSH) high-sticking against Yanni Gourde (2 minutes)
+   3-2
+P2  02:53 
+Jonathan Marchessault (NSH) roughing against Tye Kartye (2 minutes)
+   3-2
+P2  02:53 
+Tye Kartye (SEA) boarding against Jonathan Marchessault (2 minutes)
+   3-2
+P2  02:43 
+Brady Skjei (NSH) scores on wrist shot past Joey Daccord, assisted by Ryan O'Reilly and Filip Forsberg
+   3-3
+P2  01:48 
+Jaden Schwartz (SEA) hooking against Steven Stamkos (2 minutes)
+   3-3
+3rd Period: ShowHide
+P3  18:41 
+Jaden Schwartz (SEA) scores on backhand shot past Juuse Saros, assisted by Oliver Bjorkstrand and Chandler Stephenson
+   4-3
+P3  17:20 
+Jordan Eberle (SEA) scores on snap shot past Juuse Saros, assisted by Jared McCann and Jamie Oleksiak
+   5-3
+P3  08:03 
+Jared McCann (SEA) scores on wrist shot past Juuse Saros, assisted by Matty Beniers and Jamie Oleksiak
+   6-3
+P3  02:04 
+Adam Larsson (SEA) scores on empty net
+   7-3
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:42   0  1    1   4   2   0   0   2  9/17Oliver Bjorkstrand R  13:14   1  1    0   2   0   0   0   1   0/0Andre Burakovsky L  15:06   0  0    0   1   1   0   0   0   0/0Jordan Eberle R  13:58   1  0    2   3   1   0   0   1   0/0Yanni Gourde C  15:59   0  1    1   1   1   0   0   0  3/12Tye Kartye L  13:21   0  0    1   0   0   2   0   1   0/1Jared McCann L  15:44   1  1    2   3   3   2   0   2   0/1Jaden Schwartz C  14:49   1  1    2   1   1   2   1   0   0/0Chandler Stephenson C  17:23   0  2    0   0   0   0   0   2 11/22Brandon Tanev L  14:15   1  0    1   6   0   0   1   0   0/1Eeli Tolvanen R  14:40   0  0    1   0   0   0   0   1   0/1Shane Wright C  12:06   0  0    2   0   1   0   0   2   3/8Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  13:17   0  0   -1   2   2   0   1   1   0/0Vince Dunn D  19:24   0  0    0   3   2   0   0   0   0/0Ryker Evans D  12:48   1  0    0   2   2   0   1   1   0/0Adam Larsson D  21:14   1  1    2   3   0   0   0   0   0/0Brandon Montour D  23:13   0  1    3   3   0   0   1   1   0/0Jamie Oleksiak D  26:01   0  2    4   1   3   0   1   0   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          7 11       35  19   6   6  15 26/63
+                                        41.3%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  59:46   3  30/33  21/24   8/8   1/1     0
+              .909   .875 1.000 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  15:03   0  1    0   3   0   2   1   1   0/0Filip Forsberg L  20:27   0  1    0   5   0   2   2   0   0/0Mark Jankowski C  14:58   0  1    1   0   0   0   0   0   4/7Jonathan Marchessault R  17:28   0  0   -1   4   1   2   0   0   0/0Michael McCarron R  10:14   1  0   -4   1   1   0   0   0  9/12Tommy Novak C  13:20   1  0    0   3   0   0   0   0   0/2Gustav Nyquist C  18:30   0  0   -1   2   1   0   1   1   0/0Ryan O'Reilly C  22:29   0  1   -1   2   2   0   0   1 11/19Juuso Parssinen C  05:54   0  1   -3   0   0   0   0   0   0/0Colton Sissons C  13:35   0  0   -3   0   1   0   0   1   4/6Cole Smith L  12:22   0  0   -2   1   1   0   0   0   0/0Steven Stamkos C  17:52   0  0   -1   2   0   0   0   0  9/17Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  17:43   0  1    0   0   2   0   1   0   0/0Dante Fabbro D  15:03   0  0   -1   2   0   0   0   2   0/0Roman Josi D  27:02   0  0   -2   2   0   0   0   3   0/0Jeremy Lauzon D  17:59   0  0   -2   1   0   0   0   0   0/0Luke Schenn D  14:05   0  0   -1   0   1   0   0   2   0/0Brady Skjei D  22:51   1  0   -1   5   1   0   0   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       33  11   6   5  14 37/63
+                                        58.7%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  57:05   6  28/34  21/27   5/5   2/2     0
+              .824   .778 1.000 1.000
+Seattle
+Kraken2-2-0Final7 - 3Nashville
+Predators0-3-0
+Seattle
+Kraken2-2-0
+Final7 - 3
+Nashville
+Predators0-3-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SEA   3  0  4    7  
+NSH   2  1  0    3
+1st Period: ShowHide
+P1  16:23 
+Ryker Evans (SEA) scores on wrist shot past Juuse Saros, assisted by Adam Larsson
+   1-0
+P1  12:53 
+Oliver Bjorkstrand (SEA) scores on wrist shot past Juuse Saros, assisted by Chandler Stephenson and Jaden Schwartz
+   2-0
+P1  05:13 
+Michael McCarron (NSH) scores on backhand shot past Joey Daccord, assisted by Juuso Parssinen and Alexandre Carrier
+   2-1
+P1  03:00 
+Tommy Novak (NSH) scores on wrist shot past Joey Daccord, assisted by Mark Jankowski and Luke Evangelista
+   2-2
+P1  00:33 
+Brandon Tanev (SEA) scores on tip-in past Juuse Saros, assisted by Brandon Montour and Yanni Gourde
+   3-2
+P1  00:01 
+Jared McCann (SEA) hooking against Ryan O'Reilly (2 minutes)
+   3-2
+2nd Period: ShowHide
+P2  12:24 
+Filip Forsberg (NSH) slashing against Vince Dunn (2 minutes)
+   3-2
+P2  05:57 
+Luke Evangelista (NSH) high-sticking against Yanni Gourde (2 minutes)
+   3-2
+P2  02:53 
+Jonathan Marchessault (NSH) roughing against Tye Kartye (2 minutes)
+   3-2
+P2  02:53 
+Tye Kartye (SEA) boarding against Jonathan Marchessault (2 minutes)
+   3-2
+P2  02:43 
+Brady Skjei (NSH) scores on wrist shot past Joey Daccord, assisted by Ryan O'Reilly and Filip Forsberg
+   3-3
+P2  01:48 
+Jaden Schwartz (SEA) hooking against Steven Stamkos (2 minutes)
+   3-3
+3rd Period: ShowHide
+P3  18:41 
+Jaden Schwartz (SEA) scores on backhand shot past Juuse Saros, assisted by Oliver Bjorkstrand and Chandler Stephenson
+   4-3
+P3  17:20 
+Jordan Eberle (SEA) scores on snap shot past Juuse Saros, assisted by Jared McCann and Jamie Oleksiak
+   5-3
+P3  08:03 
+Jared McCann (SEA) scores on wrist shot past Juuse Saros, assisted by Matty Beniers and Jamie Oleksiak
+   6-3
+P3  02:04 
+Adam Larsson (SEA) scores on empty net
+   7-3
+1st Period: ShowHide
+P1  16:23 
+Ryker Evans (SEA) scores on wrist shot past Juuse Saros, assisted by Adam Larsson
+   1-0
+P1  12:53 
+Oliver Bjorkstrand (SEA) scores on wrist shot past Juuse Saros, assisted by Chandler Stephenson and Jaden Schwartz
+   2-0
+P1  05:13 
+Michael McCarron (NSH) scores on backhand shot past Joey Daccord, assisted by Juuso Parssinen and Alexandre Carrier
+   2-1
+P1  03:00 
+Tommy Novak (NSH) scores on wrist shot past Joey Daccord, assisted by Mark Jankowski and Luke Evangelista
+   2-2
+P1  00:33 
+Brandon Tanev (SEA) scores on tip-in past Juuse Saros, assisted by Brandon Montour and Yanni Gourde
+   3-2
+P1  00:01 
+Jared McCann (SEA) hooking against Ryan O'Reilly (2 minutes)
+   3-2
+P1  16:23 
+Ryker Evans (SEA) scores on wrist shot past Juuse Saros, assisted by Adam Larsson
+   1-0
+P1  12:53 
+Oliver Bjorkstrand (SEA) scores on wrist shot past Juuse Saros, assisted by Chandler Stephenson and Jaden Schwartz
+   2-0
+P1  05:13 
+Michael McCarron (NSH) scores on backhand shot past Joey Daccord, assisted by Juuso Parssinen and Alexandre Carrier
+   2-1
+P1  03:00 
+Tommy Novak (NSH) scores on wrist shot past Joey Daccord, assisted by Mark Jankowski and Luke Evangelista
+   2-2
+P1  00:33 
+Brandon Tanev (SEA) scores on tip-in past Juuse Saros, assisted by Brandon Montour and Yanni Gourde
+   3-2
+P1  00:01 
+Jared McCann (SEA) hooking against Ryan O'Reilly (2 minutes)
+   3-2
+P1  16:23
+Ryker Evans (SEA) scores on wrist shot past Juuse Saros, assisted by Adam Larsson
+1-0
+P1  12:53
+Oliver Bjorkstrand (SEA) scores on wrist shot past Juuse Saros, assisted by Chandler Stephenson and Jaden Schwartz
+2-0
+P1  05:13
+Michael McCarron (NSH) scores on backhand shot past Joey Daccord, assisted by Juuso Parssinen and Alexandre Carrier
+2-1
+P1  03:00
+Tommy Novak (NSH) scores on wrist shot past Joey Daccord, assisted by Mark Jankowski and Luke Evangelista
+2-2
+P1  00:33
+Brandon Tanev (SEA) scores on tip-in past Juuse Saros, assisted by Brandon Montour and Yanni Gourde
+3-2
+P1  00:01
+Jared McCann (SEA) hooking against Ryan O'Reilly (2 minutes)
+3-2
+2nd Period: ShowHide
+P2  12:24 
+Filip Forsberg (NSH) slashing against Vince Dunn (2 minutes)
+   3-2
+P2  05:57 
+Luke Evangelista (NSH) high-sticking against Yanni Gourde (2 minutes)
+   3-2
+P2  02:53 
+Jonathan Marchessault (NSH) roughing against Tye Kartye (2 minutes)
+   3-2
+P2  02:53 
+Tye Kartye (SEA) boarding against Jonathan Marchessault (2 minutes)
+   3-2
+P2  02:43 
+Brady Skjei (NSH) scores on wrist shot past Joey Daccord, assisted by Ryan O'Reilly and Filip Forsberg
+   3-3
+P2  01:48 
+Jaden Schwartz (SEA) hooking against Steven Stamkos (2 minutes)
+   3-3
+P2  12:24 
+Filip Forsberg (NSH) slashing against Vince Dunn (2 minutes)
+   3-2
+P2  05:57 
+Luke Evangelista (NSH) high-sticking against Yanni Gourde (2 minutes)
+   3-2
+P2  02:53 
+Jonathan Marchessault (NSH) roughing against Tye Kartye (2 minutes)
+   3-2
+P2  02:53 
+Tye Kartye (SEA) boarding against Jonathan Marchessault (2 minutes)
+   3-2
+P2  02:43 
+Brady Skjei (NSH) scores on wrist shot past Joey Daccord, assisted by Ryan O'Reilly and Filip Forsberg
+   3-3
+P2  01:48 
+Jaden Schwartz (SEA) hooking against Steven Stamkos (2 minutes)
+   3-3
+P2  12:24
+Filip Forsberg (NSH) slashing against Vince Dunn (2 minutes)
+3-2
+P2  05:57
+Luke Evangelista (NSH) high-sticking against Yanni Gourde (2 minutes)
+3-2
+P2  02:53
+Jonathan Marchessault (NSH) roughing against Tye Kartye (2 minutes)
+3-2
+P2  02:53
+Tye Kartye (SEA) boarding against Jonathan Marchessault (2 minutes)
+3-2
+P2  02:43
+Brady Skjei (NSH) scores on wrist shot past Joey Daccord, assisted by Ryan O'Reilly and Filip Forsberg
+3-3
+P2  01:48
+Jaden Schwartz (SEA) hooking against Steven Stamkos (2 minutes)
+3-3
+3rd Period: ShowHide
+P3  18:41 
+Jaden Schwartz (SEA) scores on backhand shot past Juuse Saros, assisted by Oliver Bjorkstrand and Chandler Stephenson
+   4-3
+P3  17:20 
+Jordan Eberle (SEA) scores on snap shot past Juuse Saros, assisted by Jared McCann and Jamie Oleksiak
+   5-3
+P3  08:03 
+Jared McCann (SEA) scores on wrist shot past Juuse Saros, assisted by Matty Beniers and Jamie Oleksiak
+   6-3
+P3  02:04 
+Adam Larsson (SEA) scores on empty net
+   7-3
+P3  18:41 
+Jaden Schwartz (SEA) scores on backhand shot past Juuse Saros, assisted by Oliver Bjorkstrand and Chandler Stephenson
+   4-3
+P3  17:20 
+Jordan Eberle (SEA) scores on snap shot past Juuse Saros, assisted by Jared McCann and Jamie Oleksiak
+   5-3
+P3  08:03 
+Jared McCann (SEA) scores on wrist shot past Juuse Saros, assisted by Matty Beniers and Jamie Oleksiak
+   6-3
+P3  02:04 
+Adam Larsson (SEA) scores on empty net
+   7-3
+P3  18:41
+Jaden Schwartz (SEA) scores on backhand shot past Juuse Saros, assisted by Oliver Bjorkstrand and Chandler Stephenson
+4-3
+P3  17:20
+Jordan Eberle (SEA) scores on snap shot past Juuse Saros, assisted by Jared McCann and Jamie Oleksiak
+5-3
+P3  08:03
+Jared McCann (SEA) scores on wrist shot past Juuse Saros, assisted by Matty Beniers and Jamie Oleksiak
+6-3
+P3  02:04
+Adam Larsson (SEA) scores on empty net
+7-3
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:42   0  1    1   4   2   0   0   2  9/17Oliver Bjorkstrand R  13:14   1  1    0   2   0   0   0   1   0/0Andre Burakovsky L  15:06   0  0    0   1   1   0   0   0   0/0Jordan Eberle R  13:58   1  0    2   3   1   0   0   1   0/0Yanni Gourde C  15:59   0  1    1   1   1   0   0   0  3/12Tye Kartye L  13:21   0  0    1   0   0   2   0   1   0/1Jared McCann L  15:44   1  1    2   3   3   2   0   2   0/1Jaden Schwartz C  14:49   1  1    2   1   1   2   1   0   0/0Chandler Stephenson C  17:23   0  2    0   0   0   0   0   2 11/22Brandon Tanev L  14:15   1  0    1   6   0   0   1   0   0/1Eeli Tolvanen R  14:40   0  0    1   0   0   0   0   1   0/1Shane Wright C  12:06   0  0    2   0   1   0   0   2   3/8Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  13:17   0  0   -1   2   2   0   1   1   0/0Vince Dunn D  19:24   0  0    0   3   2   0   0   0   0/0Ryker Evans D  12:48   1  0    0   2   2   0   1   1   0/0Adam Larsson D  21:14   1  1    2   3   0   0   0   0   0/0Brandon Montour D  23:13   0  1    3   3   0   0   1   1   0/0Jamie Oleksiak D  26:01   0  2    4   1   3   0   1   0   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          7 11       35  19   6   6  15 26/63
+                                        41.3%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  59:46   3  30/33  21/24   8/8   1/1     0
+              .909   .875 1.000 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  15:03   0  1    0   3   0   2   1   1   0/0Filip Forsberg L  20:27   0  1    0   5   0   2   2   0   0/0Mark Jankowski C  14:58   0  1    1   0   0   0   0   0   4/7Jonathan Marchessault R  17:28   0  0   -1   4   1   2   0   0   0/0Michael McCarron R  10:14   1  0   -4   1   1   0   0   0  9/12Tommy Novak C  13:20   1  0    0   3   0   0   0   0   0/2Gustav Nyquist C  18:30   0  0   -1   2   1   0   1   1   0/0Ryan O'Reilly C  22:29   0  1   -1   2   2   0   0   1 11/19Juuso Parssinen C  05:54   0  1   -3   0   0   0   0   0   0/0Colton Sissons C  13:35   0  0   -3   0   1   0   0   1   4/6Cole Smith L  12:22   0  0   -2   1   1   0   0   0   0/0Steven Stamkos C  17:52   0  0   -1   2   0   0   0   0  9/17Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  17:43   0  1    0   0   2   0   1   0   0/0Dante Fabbro D  15:03   0  0   -1   2   0   0   0   2   0/0Roman Josi D  27:02   0  0   -2   2   0   0   0   3   0/0Jeremy Lauzon D  17:59   0  0   -2   1   0   0   0   0   0/0Luke Schenn D  14:05   0  0   -1   0   1   0   0   2   0/0Brady Skjei D  22:51   1  0   -1   5   1   0   0   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       33  11   6   5  14 37/63
+                                        58.7%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  57:05   6  28/34  21/27   5/5   2/2     0
+              .824   .778 1.000 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:42   0  1    1   4   2   0   0   2  9/17Oliver Bjorkstrand R  13:14   1  1    0   2   0   0   0   1   0/0Andre Burakovsky L  15:06   0  0    0   1   1   0   0   0   0/0Jordan Eberle R  13:58   1  0    2   3   1   0   0   1   0/0Yanni Gourde C  15:59   0  1    1   1   1   0   0   0  3/12Tye Kartye L  13:21   0  0    1   0   0   2   0   1   0/1Jared McCann L  15:44   1  1    2   3   3   2   0   2   0/1Jaden Schwartz C  14:49   1  1    2   1   1   2   1   0   0/0Chandler Stephenson C  17:23   0  2    0   0   0   0   0   2 11/22Brandon Tanev L  14:15   1  0    1   6   0   0   1   0   0/1Eeli Tolvanen R  14:40   0  0    1   0   0   0   0   1   0/1Shane Wright C  12:06   0  0    2   0   1   0   0   2   3/8
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+17:42   0  1    1   4   2   0   0   2  9/17
+Oliver Bjorkstrand R
+13:14   1  1    0   2   0   0   0   1   0/0
+Andre Burakovsky L
+15:06   0  0    0   1   1   0   0   0   0/0
+Jordan Eberle R
+13:58   1  0    2   3   1   0   0   1   0/0
+Yanni Gourde C
+15:59   0  1    1   1   1   0   0   0  3/12
+Tye Kartye L
+13:21   0  0    1   0   0   2   0   1   0/1
+Jared McCann L
+15:44   1  1    2   3   3   2   0   2   0/1
+Jaden Schwartz C
+14:49   1  1    2   1   1   2   1   0   0/0
+Chandler Stephenson C
+17:23   0  2    0   0   0   0   0   2 11/22
+Brandon Tanev L
+14:15   1  0    1   6   0   0   1   0   0/1
+Eeli Tolvanen R
+14:40   0  0    1   0   0   0   0   1   0/1
+Shane Wright C
+12:06   0  0    2   0   1   0   0   2   3/8
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  13:17   0  0   -1   2   2   0   1   1   0/0Vince Dunn D  19:24   0  0    0   3   2   0   0   0   0/0Ryker Evans D  12:48   1  0    0   2   2   0   1   1   0/0Adam Larsson D  21:14   1  1    2   3   0   0   0   0   0/0Brandon Montour D  23:13   0  1    3   3   0   0   1   1   0/0Jamie Oleksiak D  26:01   0  2    4   1   3   0   1   0   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+13:17   0  0   -1   2   2   0   1   1   0/0
+Vince Dunn D
+19:24   0  0    0   3   2   0   0   0   0/0
+Ryker Evans D
+12:48   1  0    0   2   2   0   1   1   0/0
+Adam Larsson D
+21:14   1  1    2   3   0   0   0   0   0/0
+Brandon Montour D
+23:13   0  1    3   3   0   0   1   1   0/0
+Jamie Oleksiak D
+26:01   0  2    4   1   3   0   1   0   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          7 11       35  19   6   6  15 26/63
+                                        41.3%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  59:46   3  30/33  21/24   8/8   1/1     0
+              .909   .875 1.000 1.000
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joey Daccord G
+59:46   3  30/33  21/24   8/8   1/1     0
+              .909   .875 1.000 1.000
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  15:03   0  1    0   3   0   2   1   1   0/0Filip Forsberg L  20:27   0  1    0   5   0   2   2   0   0/0Mark Jankowski C  14:58   0  1    1   0   0   0   0   0   4/7Jonathan Marchessault R  17:28   0  0   -1   4   1   2   0   0   0/0Michael McCarron R  10:14   1  0   -4   1   1   0   0   0  9/12Tommy Novak C  13:20   1  0    0   3   0   0   0   0   0/2Gustav Nyquist C  18:30   0  0   -1   2   1   0   1   1   0/0Ryan O'Reilly C  22:29   0  1   -1   2   2   0   0   1 11/19Juuso Parssinen C  05:54   0  1   -3   0   0   0   0   0   0/0Colton Sissons C  13:35   0  0   -3   0   1   0   0   1   4/6Cole Smith L  12:22   0  0   -2   1   1   0   0   0   0/0Steven Stamkos C  17:52   0  0   -1   2   0   0   0   0  9/17
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+15:03   0  1    0   3   0   2   1   1   0/0
+Filip Forsberg L
+20:27   0  1    0   5   0   2   2   0   0/0
+Mark Jankowski C
+14:58   0  1    1   0   0   0   0   0   4/7
+Jonathan Marchessault R
+17:28   0  0   -1   4   1   2   0   0   0/0
+Michael McCarron R
+10:14   1  0   -4   1   1   0   0   0  9/12
+Tommy Novak C
+13:20   1  0    0   3   0   0   0   0   0/2
+Gustav Nyquist C
+18:30   0  0   -1   2   1   0   1   1   0/0
+Ryan O'Reilly C
+22:29   0  1   -1   2   2   0   0   1 11/19
+Juuso Parssinen C
+05:54   0  1   -3   0   0   0   0   0   0/0
+Colton Sissons C
+13:35   0  0   -3   0   1   0   0   1   4/6
+Cole Smith L
+12:22   0  0   -2   1   1   0   0   0   0/0
+Steven Stamkos C
+17:52   0  0   -1   2   0   0   0   0  9/17
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  17:43   0  1    0   0   2   0   1   0   0/0Dante Fabbro D  15:03   0  0   -1   2   0   0   0   2   0/0Roman Josi D  27:02   0  0   -2   2   0   0   0   3   0/0Jeremy Lauzon D  17:59   0  0   -2   1   0   0   0   0   0/0Luke Schenn D  14:05   0  0   -1   0   1   0   0   2   0/0Brady Skjei D  22:51   1  0   -1   5   1   0   0   3   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+17:43   0  1    0   0   2   0   1   0   0/0
+Dante Fabbro D
+15:03   0  0   -1   2   0   0   0   2   0/0
+Roman Josi D
+27:02   0  0   -2   2   0   0   0   3   0/0
+Jeremy Lauzon D
+17:59   0  0   -2   1   0   0   0   0   0/0
+Luke Schenn D
+14:05   0  0   -1   0   1   0   0   2   0/0
+Brady Skjei D
+22:51   1  0   -1   5   1   0   0   3   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       33  11   6   5  14 37/63
+                                        58.7%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  57:05   6  28/34  21/27   5/5   2/2     0
+              .824   .778 1.000 1.000
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Juuse Saros G
+57:05   6  28/34  21/27   5/5   2/2     0
+              .824   .778 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,411 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Seattle
+Kraken1-1-0Final/SO5 - 4Minnesota
+Wild1-0-1
+Shootout Goals & Penalties Box Score
+      1  2  3   SO    T  
+-----------------------  
+SEA   0  2  2    1    5  
+MIN   1  1  2    0    4
+Shootout:
+
+  0-1  
+Mats Zuccarello scores on wrist shot
+Oliver Bjorkstrand scores on snap shot
+  1-1  
+
+
+  1-1  
+Kirill Kaprizov wrist shot saved by Joey Daccord
+Jordan Eberle scores on wrist shot
+  2-1  
+
+
+  2-1  
+Matt Boldy misses wrist shot high and wide right
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  10:38 
+Mats Zuccarello (MIN) scores on snap shot past Joey Daccord, assisted by Kirill Kaprizov and Marco Rossi
+   0-1
+P1  04:42 
+Brandon Tanev (SEA) boarding against Jake Middleton (2 minutes)
+   0-1
+P1  00:14 
+Jaden Schwartz (SEA) tripping against Kirill Kaprizov (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  18:54 
+Matt Boldy (MIN) scores power-play goal on wrist shot past Joey Daccord, assisted by Kirill Kaprizov and Mats Zuccarello
+   0-2
+P2  18:14 
+Jordan Eberle (SEA) scores on poke past Marc-Andre Fleury, assisted by Jared McCann and Brandon Montour
+   1-2
+P2  12:45 
+Jonas Brodin (MIN) tripping against Brandon Tanev (2 minutes)
+   1-2
+P2  11:45 
+Jordan Eberle (SEA) scores power-play goal on wrist shot past Marc-Andre Fleury, assisted by Andre Burakovsky and Vince Dunn
+   2-2
+P2  02:10 
+Zach Bogosian (MIN) holding against Chandler Stephenson (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  18:19 
+Kirill Kaprizov (MIN) scores on tip-in past Joey Daccord, assisted by Marco Rossi and Brock Faber
+   2-3
+P3  17:13 
+Tye Kartye (SEA) scores on snap shot past Marc-Andre Fleury, assisted by Brandon Tanev and Yanni Gourde
+   3-3
+P3  07:27 
+Ryan Hartman (MIN) scores on wrist shot past Joey Daccord, assisted by Matt Boldy and Jared Spurgeon
+   3-4
+P3  03:26 
+Jared McCann (SEA) scores goal with extra attacker on slap shot past Marc-Andre Fleury, assisted by Ryker Evans and Andre Burakovsky
+   4-4
+Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:12   0  0    0   3   1   0   0   0  5/13Oliver Bjorkstrand R  17:08   0  0    0   4   0   0   0   0   0/0Andre Burakovsky L  17:02   0  2    0   2   1   0   0   0   0/0Jordan Eberle R  17:33   2  0    1   2   1   0   0   1   0/1Yanni Gourde C  12:54   0  1    0   0   2   0   1   1 13/17Tye Kartye L  10:35   1  0    0   2   0   0   0   0   0/0Jared McCann L  16:13   1  1    1   4   2   0   0   1   0/1Jaden Schwartz C  17:25   0  0   -1   0   0   2   2   0   0/0Chandler Stephenson C  20:28   0  0   -1   0   0   0   1   1  6/16Brandon Tanev L  11:45   0  1    0   1   0   2   1   0   0/1Eeli Tolvanen R  14:27   0  0    0   1   4   0   0   1   0/0Shane Wright C  16:02   0  0    1   2   0   0   1   1  8/16Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  15:27   0  0   -1   1   1   0   0   0   0/0Vince Dunn D  20:00   0  1   -1   2   0   0   0   4   0/0Ryker Evans D  16:50   0  1    0   2   1   0   0   0   0/0Adam Larsson D  22:28   0  0   -2   3   3   0   0   0   0/0Brandon Montour D  25:56   0  1    3   5   0   0   0   0   0/0Jamie Oleksiak D  21:30   0  0    1   0   1   0   0   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       34  17   4   6  11 32/65
+                                        49.2%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  64:45   4  34/38  30/33   4/5   0/0     0
+              .895   .909  .800 
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  23:38   1  1    0   6   1   0   0   0   1/2Joel Eriksson Ek C  11:44   0  0    0   1   0   0   0   0  5/12Marcus Foligno L  13:28   0  0   -1   0   1   0   0   1   0/0Frederick Gaudreau C  11:03   0  0   -1   0   0   0   0   0   3/4Ryan Hartman R  16:13   1  0   -1   6   0   0   0   1  5/15Marcus Johansson L  15:53   0  0    0   2   0   0   0   1   0/0Kirill Kaprizov L  24:16   1  2    2   4   0   0   0   5   0/0Marat Khusnutdinov C  12:08   0  0   -1   0   0   0   0   0  9/13Jakub Lauko C  10:03   0  0   -1   2   0   0   0   0   0/1Marco Rossi C  16:44   0  2    2   4   2   0   0   0  6/14Yakov Trenin C  15:45   0  0   -1   1   0   0   0   0   0/0Mats Zuccarello R  19:50   1  1    2   5   0   0   1   1   4/4Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  13:49   0  0    0   3   1   2   0   0   0/0Jonas Brodin D  25:57   0  0    0   1   0   2   0   0   0/0Brock Faber D  28:20   0  1    1   2   0   0   0   1   0/0Jon Merrill D  13:49   0  0    1   1   0   0   0   1   0/0Jake Middleton D  20:13   0  0   -1   0   2   0   0   0   0/0Jared Spurgeon D  19:33   0  1   -1   0   3   0   1   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       38  10   4   2  11 33/65
+                                        50.8%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMarc-Andre Fleury G  64:34   4  30/34  26/29   4/5   0/0     0
+              .882   .897  .800
+Seattle
+Kraken1-1-0Final/SO5 - 4Minnesota
+Wild1-0-1
+Seattle
+Kraken1-1-0
+Final/SO5 - 4
+Minnesota
+Wild1-0-1
+Shootout Goals & Penalties Box Score
+1  2  3   SO    T  
+-----------------------  
+SEA   0  2  2    1    5  
+MIN   1  1  2    0    4
+Shootout:
+0-1  
+Mats Zuccarello scores on wrist shot
+Oliver Bjorkstrand scores on snap shot
+  1-1  
+
+
+  1-1  
+Kirill Kaprizov wrist shot saved by Joey Daccord
+Jordan Eberle scores on wrist shot
+  2-1  
+
+
+  2-1  
+Matt Boldy misses wrist shot high and wide right
+0-1
+Mats Zuccarello scores on wrist shot
+Oliver Bjorkstrand scores on snap shot
+1-1
+1-1
+Kirill Kaprizov wrist shot saved by Joey Daccord
+Jordan Eberle scores on wrist shot
+2-1
+2-1
+Matt Boldy misses wrist shot high and wide right
+1st Period: ShowHide
+P1  10:38 
+Mats Zuccarello (MIN) scores on snap shot past Joey Daccord, assisted by Kirill Kaprizov and Marco Rossi
+   0-1
+P1  04:42 
+Brandon Tanev (SEA) boarding against Jake Middleton (2 minutes)
+   0-1
+P1  00:14 
+Jaden Schwartz (SEA) tripping against Kirill Kaprizov (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  18:54 
+Matt Boldy (MIN) scores power-play goal on wrist shot past Joey Daccord, assisted by Kirill Kaprizov and Mats Zuccarello
+   0-2
+P2  18:14 
+Jordan Eberle (SEA) scores on poke past Marc-Andre Fleury, assisted by Jared McCann and Brandon Montour
+   1-2
+P2  12:45 
+Jonas Brodin (MIN) tripping against Brandon Tanev (2 minutes)
+   1-2
+P2  11:45 
+Jordan Eberle (SEA) scores power-play goal on wrist shot past Marc-Andre Fleury, assisted by Andre Burakovsky and Vince Dunn
+   2-2
+P2  02:10 
+Zach Bogosian (MIN) holding against Chandler Stephenson (2 minutes)
+   2-2
+3rd Period: ShowHide
+P3  18:19 
+Kirill Kaprizov (MIN) scores on tip-in past Joey Daccord, assisted by Marco Rossi and Brock Faber
+   2-3
+P3  17:13 
+Tye Kartye (SEA) scores on snap shot past Marc-Andre Fleury, assisted by Brandon Tanev and Yanni Gourde
+   3-3
+P3  07:27 
+Ryan Hartman (MIN) scores on wrist shot past Joey Daccord, assisted by Matt Boldy and Jared Spurgeon
+   3-4
+P3  03:26 
+Jared McCann (SEA) scores goal with extra attacker on slap shot past Marc-Andre Fleury, assisted by Ryker Evans and Andre Burakovsky
+   4-4
+Overtime: No goals or penalties.
+1st Period: ShowHide
+P1  10:38 
+Mats Zuccarello (MIN) scores on snap shot past Joey Daccord, assisted by Kirill Kaprizov and Marco Rossi
+   0-1
+P1  04:42 
+Brandon Tanev (SEA) boarding against Jake Middleton (2 minutes)
+   0-1
+P1  00:14 
+Jaden Schwartz (SEA) tripping against Kirill Kaprizov (2 minutes)
+   0-1
+P1  10:38 
+Mats Zuccarello (MIN) scores on snap shot past Joey Daccord, assisted by Kirill Kaprizov and Marco Rossi
+   0-1
+P1  04:42 
+Brandon Tanev (SEA) boarding against Jake Middleton (2 minutes)
+   0-1
+P1  00:14 
+Jaden Schwartz (SEA) tripping against Kirill Kaprizov (2 minutes)
+   0-1
+P1  10:38
+Mats Zuccarello (MIN) scores on snap shot past Joey Daccord, assisted by Kirill Kaprizov and Marco Rossi
+0-1
+P1  04:42
+Brandon Tanev (SEA) boarding against Jake Middleton (2 minutes)
+0-1
+P1  00:14
+Jaden Schwartz (SEA) tripping against Kirill Kaprizov (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  18:54 
+Matt Boldy (MIN) scores power-play goal on wrist shot past Joey Daccord, assisted by Kirill Kaprizov and Mats Zuccarello
+   0-2
+P2  18:14 
+Jordan Eberle (SEA) scores on poke past Marc-Andre Fleury, assisted by Jared McCann and Brandon Montour
+   1-2
+P2  12:45 
+Jonas Brodin (MIN) tripping against Brandon Tanev (2 minutes)
+   1-2
+P2  11:45 
+Jordan Eberle (SEA) scores power-play goal on wrist shot past Marc-Andre Fleury, assisted by Andre Burakovsky and Vince Dunn
+   2-2
+P2  02:10 
+Zach Bogosian (MIN) holding against Chandler Stephenson (2 minutes)
+   2-2
+P2  18:54 
+Matt Boldy (MIN) scores power-play goal on wrist shot past Joey Daccord, assisted by Kirill Kaprizov and Mats Zuccarello
+   0-2
+P2  18:14 
+Jordan Eberle (SEA) scores on poke past Marc-Andre Fleury, assisted by Jared McCann and Brandon Montour
+   1-2
+P2  12:45 
+Jonas Brodin (MIN) tripping against Brandon Tanev (2 minutes)
+   1-2
+P2  11:45 
+Jordan Eberle (SEA) scores power-play goal on wrist shot past Marc-Andre Fleury, assisted by Andre Burakovsky and Vince Dunn
+   2-2
+P2  02:10 
+Zach Bogosian (MIN) holding against Chandler Stephenson (2 minutes)
+   2-2
+P2  18:54
+Matt Boldy (MIN) scores power-play goal on wrist shot past Joey Daccord, assisted by Kirill Kaprizov and Mats Zuccarello
+0-2
+P2  18:14
+Jordan Eberle (SEA) scores on poke past Marc-Andre Fleury, assisted by Jared McCann and Brandon Montour
+1-2
+P2  12:45
+Jonas Brodin (MIN) tripping against Brandon Tanev (2 minutes)
+1-2
+P2  11:45
+Jordan Eberle (SEA) scores power-play goal on wrist shot past Marc-Andre Fleury, assisted by Andre Burakovsky and Vince Dunn
+2-2
+P2  02:10
+Zach Bogosian (MIN) holding against Chandler Stephenson (2 minutes)
+2-2
+3rd Period: ShowHide
+P3  18:19 
+Kirill Kaprizov (MIN) scores on tip-in past Joey Daccord, assisted by Marco Rossi and Brock Faber
+   2-3
+P3  17:13 
+Tye Kartye (SEA) scores on snap shot past Marc-Andre Fleury, assisted by Brandon Tanev and Yanni Gourde
+   3-3
+P3  07:27 
+Ryan Hartman (MIN) scores on wrist shot past Joey Daccord, assisted by Matt Boldy and Jared Spurgeon
+   3-4
+P3  03:26 
+Jared McCann (SEA) scores goal with extra attacker on slap shot past Marc-Andre Fleury, assisted by Ryker Evans and Andre Burakovsky
+   4-4
+P3  18:19 
+Kirill Kaprizov (MIN) scores on tip-in past Joey Daccord, assisted by Marco Rossi and Brock Faber
+   2-3
+P3  17:13 
+Tye Kartye (SEA) scores on snap shot past Marc-Andre Fleury, assisted by Brandon Tanev and Yanni Gourde
+   3-3
+P3  07:27 
+Ryan Hartman (MIN) scores on wrist shot past Joey Daccord, assisted by Matt Boldy and Jared Spurgeon
+   3-4
+P3  03:26 
+Jared McCann (SEA) scores goal with extra attacker on slap shot past Marc-Andre Fleury, assisted by Ryker Evans and Andre Burakovsky
+   4-4
+P3  18:19
+Kirill Kaprizov (MIN) scores on tip-in past Joey Daccord, assisted by Marco Rossi and Brock Faber
+2-3
+P3  17:13
+Tye Kartye (SEA) scores on snap shot past Marc-Andre Fleury, assisted by Brandon Tanev and Yanni Gourde
+3-3
+P3  07:27
+Ryan Hartman (MIN) scores on wrist shot past Joey Daccord, assisted by Matt Boldy and Jared Spurgeon
+3-4
+P3  03:26
+Jared McCann (SEA) scores goal with extra attacker on slap shot past Marc-Andre Fleury, assisted by Ryker Evans and Andre Burakovsky
+4-4
+Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:12   0  0    0   3   1   0   0   0  5/13Oliver Bjorkstrand R  17:08   0  0    0   4   0   0   0   0   0/0Andre Burakovsky L  17:02   0  2    0   2   1   0   0   0   0/0Jordan Eberle R  17:33   2  0    1   2   1   0   0   1   0/1Yanni Gourde C  12:54   0  1    0   0   2   0   1   1 13/17Tye Kartye L  10:35   1  0    0   2   0   0   0   0   0/0Jared McCann L  16:13   1  1    1   4   2   0   0   1   0/1Jaden Schwartz C  17:25   0  0   -1   0   0   2   2   0   0/0Chandler Stephenson C  20:28   0  0   -1   0   0   0   1   1  6/16Brandon Tanev L  11:45   0  1    0   1   0   2   1   0   0/1Eeli Tolvanen R  14:27   0  0    0   1   4   0   0   1   0/0Shane Wright C  16:02   0  0    1   2   0   0   1   1  8/16Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  15:27   0  0   -1   1   1   0   0   0   0/0Vince Dunn D  20:00   0  1   -1   2   0   0   0   4   0/0Ryker Evans D  16:50   0  1    0   2   1   0   0   0   0/0Adam Larsson D  22:28   0  0   -2   3   3   0   0   0   0/0Brandon Montour D  25:56   0  1    3   5   0   0   0   0   0/0Jamie Oleksiak D  21:30   0  0    1   0   1   0   0   1   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       34  17   4   6  11 32/65
+                                        49.2%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  64:45   4  34/38  30/33   4/5   0/0     0
+              .895   .909  .800 
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  23:38   1  1    0   6   1   0   0   0   1/2Joel Eriksson Ek C  11:44   0  0    0   1   0   0   0   0  5/12Marcus Foligno L  13:28   0  0   -1   0   1   0   0   1   0/0Frederick Gaudreau C  11:03   0  0   -1   0   0   0   0   0   3/4Ryan Hartman R  16:13   1  0   -1   6   0   0   0   1  5/15Marcus Johansson L  15:53   0  0    0   2   0   0   0   1   0/0Kirill Kaprizov L  24:16   1  2    2   4   0   0   0   5   0/0Marat Khusnutdinov C  12:08   0  0   -1   0   0   0   0   0  9/13Jakub Lauko C  10:03   0  0   -1   2   0   0   0   0   0/1Marco Rossi C  16:44   0  2    2   4   2   0   0   0  6/14Yakov Trenin C  15:45   0  0   -1   1   0   0   0   0   0/0Mats Zuccarello R  19:50   1  1    2   5   0   0   1   1   4/4Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  13:49   0  0    0   3   1   2   0   0   0/0Jonas Brodin D  25:57   0  0    0   1   0   2   0   0   0/0Brock Faber D  28:20   0  1    1   2   0   0   0   1   0/0Jon Merrill D  13:49   0  0    1   1   0   0   0   1   0/0Jake Middleton D  20:13   0  0   -1   0   2   0   0   0   0/0Jared Spurgeon D  19:33   0  1   -1   0   3   0   1   0   0/0Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       38  10   4   2  11 33/65
+                                        50.8%Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMarc-Andre Fleury G  64:34   4  30/34  26/29   4/5   0/0     0
+              .882   .897  .800
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  18:12   0  0    0   3   1   0   0   0  5/13Oliver Bjorkstrand R  17:08   0  0    0   4   0   0   0   0   0/0Andre Burakovsky L  17:02   0  2    0   2   1   0   0   0   0/0Jordan Eberle R  17:33   2  0    1   2   1   0   0   1   0/1Yanni Gourde C  12:54   0  1    0   0   2   0   1   1 13/17Tye Kartye L  10:35   1  0    0   2   0   0   0   0   0/0Jared McCann L  16:13   1  1    1   4   2   0   0   1   0/1Jaden Schwartz C  17:25   0  0   -1   0   0   2   2   0   0/0Chandler Stephenson C  20:28   0  0   -1   0   0   0   1   1  6/16Brandon Tanev L  11:45   0  1    0   1   0   2   1   0   0/1Eeli Tolvanen R  14:27   0  0    0   1   4   0   0   1   0/0Shane Wright C  16:02   0  0    1   2   0   0   1   1  8/16
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+18:12   0  0    0   3   1   0   0   0  5/13
+Oliver Bjorkstrand R
+17:08   0  0    0   4   0   0   0   0   0/0
+Andre Burakovsky L
+17:02   0  2    0   2   1   0   0   0   0/0
+Jordan Eberle R
+17:33   2  0    1   2   1   0   0   1   0/1
+Yanni Gourde C
+12:54   0  1    0   0   2   0   1   1 13/17
+Tye Kartye L
+10:35   1  0    0   2   0   0   0   0   0/0
+Jared McCann L
+16:13   1  1    1   4   2   0   0   1   0/1
+Jaden Schwartz C
+17:25   0  0   -1   0   0   2   2   0   0/0
+Chandler Stephenson C
+20:28   0  0   -1   0   0   0   1   1  6/16
+Brandon Tanev L
+11:45   0  1    0   1   0   2   1   0   0/1
+Eeli Tolvanen R
+14:27   0  0    0   1   4   0   0   1   0/0
+Shane Wright C
+16:02   0  0    1   2   0   0   1   1  8/16
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  15:27   0  0   -1   1   1   0   0   0   0/0Vince Dunn D  20:00   0  1   -1   2   0   0   0   4   0/0Ryker Evans D  16:50   0  1    0   2   1   0   0   0   0/0Adam Larsson D  22:28   0  0   -2   3   3   0   0   0   0/0Brandon Montour D  25:56   0  1    3   5   0   0   0   0   0/0Jamie Oleksiak D  21:30   0  0    1   0   1   0   0   1   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+15:27   0  0   -1   1   1   0   0   0   0/0
+Vince Dunn D
+20:00   0  1   -1   2   0   0   0   4   0/0
+Ryker Evans D
+16:50   0  1    0   2   1   0   0   0   0/0
+Adam Larsson D
+22:28   0  0   -2   3   3   0   0   0   0/0
+Brandon Montour D
+25:56   0  1    3   5   0   0   0   0   0/0
+Jamie Oleksiak D
+21:30   0  0    1   0   1   0   0   1   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       34  17   4   6  11 32/65
+                                        49.2%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoey Daccord G  64:45   4  34/38  30/33   4/5   0/0     0
+              .895   .909  .800
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joey Daccord G
+64:45   4  34/38  30/33   4/5   0/0     0
+              .895   .909  .800
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Boldy L  23:38   1  1    0   6   1   0   0   0   1/2Joel Eriksson Ek C  11:44   0  0    0   1   0   0   0   0  5/12Marcus Foligno L  13:28   0  0   -1   0   1   0   0   1   0/0Frederick Gaudreau C  11:03   0  0   -1   0   0   0   0   0   3/4Ryan Hartman R  16:13   1  0   -1   6   0   0   0   1  5/15Marcus Johansson L  15:53   0  0    0   2   0   0   0   1   0/0Kirill Kaprizov L  24:16   1  2    2   4   0   0   0   5   0/0Marat Khusnutdinov C  12:08   0  0   -1   0   0   0   0   0  9/13Jakub Lauko C  10:03   0  0   -1   2   0   0   0   0   0/1Marco Rossi C  16:44   0  2    2   4   2   0   0   0  6/14Yakov Trenin C  15:45   0  0   -1   1   0   0   0   0   0/0Mats Zuccarello R  19:50   1  1    2   5   0   0   1   1   4/4
+Wild Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Boldy L
+23:38   1  1    0   6   1   0   0   0   1/2
+Joel Eriksson Ek C
+11:44   0  0    0   1   0   0   0   0  5/12
+Marcus Foligno L
+13:28   0  0   -1   0   1   0   0   1   0/0
+Frederick Gaudreau C
+11:03   0  0   -1   0   0   0   0   0   3/4
+Ryan Hartman R
+16:13   1  0   -1   6   0   0   0   1  5/15
+Marcus Johansson L
+15:53   0  0    0   2   0   0   0   1   0/0
+Kirill Kaprizov L
+24:16   1  2    2   4   0   0   0   5   0/0
+Marat Khusnutdinov C
+12:08   0  0   -1   0   0   0   0   0  9/13
+Jakub Lauko C
+10:03   0  0   -1   2   0   0   0   0   0/1
+Marco Rossi C
+16:44   0  2    2   4   2   0   0   0  6/14
+Yakov Trenin C
+15:45   0  0   -1   1   0   0   0   0   0/0
+Mats Zuccarello R
+19:50   1  1    2   5   0   0   1   1   4/4
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Bogosian D  13:49   0  0    0   3   1   2   0   0   0/0Jonas Brodin D  25:57   0  0    0   1   0   2   0   0   0/0Brock Faber D  28:20   0  1    1   2   0   0   0   1   0/0Jon Merrill D  13:49   0  0    1   1   0   0   0   1   0/0Jake Middleton D  20:13   0  0   -1   0   2   0   0   0   0/0Jared Spurgeon D  19:33   0  1   -1   0   3   0   1   0   0/0
+Wild Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Bogosian D
+13:49   0  0    0   3   1   2   0   0   0/0
+Jonas Brodin D
+25:57   0  0    0   1   0   2   0   0   0/0
+Brock Faber D
+28:20   0  1    1   2   0   0   0   1   0/0
+Jon Merrill D
+13:49   0  0    1   1   0   0   0   1   0/0
+Jake Middleton D
+20:13   0  0   -1   0   2   0   0   0   0/0
+Jared Spurgeon D
+19:33   0  1   -1   0   3   0   1   0   0/0
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       38  10   4   2  11 33/65
+                                        50.8%
+Wild Totals:
+          G  A        S   B  PM  TK  GV    FO
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMarc-Andre Fleury G  64:34   4  30/34  26/29   4/5   0/0     0
+              .882   .897  .800
+Wild Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Marc-Andre Fleury G
+64:34   4  30/34  26/29   4/5   0/0     0
+              .882   .897  .800
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

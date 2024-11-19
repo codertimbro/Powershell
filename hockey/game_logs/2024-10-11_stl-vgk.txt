@@ -1,0 +1,352 @@
+< Oct. 11 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+St. Louis
+Blues2-1-0Final3 - 4Vegas
+Golden Knights2-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+STL   1  1  1    3  
+VGK   2  1  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:13 
+Pavel Buchnevich (STL) scores on backhand shot past Adin Hill, assisted by Jordan Kyrou and Philip Broberg
+   1-0
+P1  11:58 
+Jack Eichel (VGK) scores on backhand shot past Jordan Binnington, assisted by Ivan Barbashev and Mark Stone
+   1-1
+P1  10:18 
+Jordan Kyrou (STL) hooking against Mark Stone (2 minutes)
+   1-1
+P1  01:47 
+Ivan Barbashev (VGK) scores on snap shot past Jordan Binnington, assisted by Mark Stone and Jack Eichel
+   1-2
+2nd Period: ShowHide
+P2  17:05 
+Shea Theodore (VGK) scores on slap shot past Jordan Binnington, assisted by Cole Schwindt
+   1-3
+P2  13:59 
+Shea Theodore (VGK) slashing against Mathieu Joseph (2 minutes)
+   1-3
+P2  12:31 
+Pavel Buchnevich (STL) scores power-play goal on wrist shot past Adin Hill, assisted by Jordan Kyrou and Justin Faulk
+   2-3
+P2  08:09 
+Zack Bolduc (STL) slashing against Keegan Kolesar (2 minutes)
+   2-3
+3rd Period: ShowHide
+P3  07:07 
+Nicolas Roy (VGK) scores on tip-in past Jordan Binnington, assisted by Shea Theodore and Alex Pietrangelo
+   2-4
+P3  04:56 
+Robert Thomas (STL) scores on wrist shot past Adin Hill, assisted by Pavel Buchnevich and Colton Parayko
+   3-4
+P3  04:12 
+Noah Hanifin (VGK) delaying game - puck over glass (2 minutes)
+   3-4
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  13:07   0  0    1   2   1   2   0   0   0/0Pavel Buchnevich L  20:39   2  1    2   4   1   0   0   1  2/10Radek Faksa C  09:21   0  0   -1   0   0   0   0   0   1/3Dylan Holloway L  14:35   0  0    0   0   2   0   1   0   3/9Mathieu Joseph R  12:55   0  0    0   0   0   0   1   1   0/0Kasperi Kapanen R  13:20   0  0    0   1   0   0   0   0   0/0Jordan Kyrou C  20:39   0  2    2   0   0   2   1   1   0/0Jake Neighbours L  19:09   0  0   -3   1   0   0   0   0   0/0Brayden Schenn C  17:21   0  0   -3   2   1   0   0   3  7/10Robert Thomas C  21:34   1  0   -2   2   0   0   2   2 15/21Alexey Toropchenko R  09:59   0  0   -1   1   0   0   1   0   0/0Nathan Walker L  09:30   0  0   -1   0   0   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  19:30   0  1    1   2   0   0   2   0   0/0Justin Faulk D  25:53   0  1    0   2   3   0   0   0   0/0Pierre-Olivier Joseph D  12:39   0  0   -1   2   2   0   0   2   0/0Nick Leddy D  18:54   0  0   -2   0   0   0   2   2   0/0Colton Parayko D  20:38   0  1   -2   2   2   0   0   1   0/0Ryan Suter D  16:55   0  0    0   1   1   0   0   0   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       22  13   4  10  13 28/53
+                                        52.8%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:22   4  24/28  21/25   3/3   0/0     0
+              .857   .840 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  18:11   1  1    2   3   1   0   0   2   0/0Pavel Dorofeyev L  12:00   0  0    0   0   0   0   1   0   0/0Jack Eichel C  20:08   1  1    2   5   0   0   0   0  8/19Tomas Hertl C  17:13   0  0    0   1   2   0   1   1  8/16Alexander Holtz R  14:07   0  0   -1   1   2   0   0   1   0/0Brett Howden C  16:02   0  0   -1   0   2   0   0   0   1/5Keegan Kolesar R  11:32   0  0    1   2   1   0   0   0   0/1Victor Olofsson L  13:44   0  0    0   2   0   0   0   1   0/0Tanner Pearson L  11:04   0  0    1   1   0   0   0   0   0/0Nicolas Roy C  16:01   1  0   -1   2   0   0   0   3   5/8Cole Schwindt R  09:01   0  1    1   2   1   0   1   1   3/4Mark Stone R  20:02   0  2    2   2   1   0   1   4   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  16:00   0  0   -1   1   1   0   0   0   0/0Noah Hanifin D  18:15   0  0   -1   1   1   2   0   0   0/0Brayden McNabb D  20:02   0  0    2   1   2   0   0   1   0/0Alex Pietrangelo D  22:29   0  1    1   0   0   0   0   2   0/0Shea Theodore D  21:25   1  1    1   3   1   2   0   0   0/0Zach Whitecloud D  19:16   0  0    2   1   2   0   0   2   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       28  17   4   4  18 25/53
+                                        47.2%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   3  19/22  19/21   0/1   0/0     0
+              .864   .905  .000
+St. Louis
+Blues2-1-0Final3 - 4Vegas
+Golden Knights2-0-0
+St. Louis
+Blues2-1-0
+Final3 - 4
+Vegas
+Golden Knights2-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+STL   1  1  1    3  
+VGK   2  1  1    4
+1st Period: ShowHide
+P1  13:13 
+Pavel Buchnevich (STL) scores on backhand shot past Adin Hill, assisted by Jordan Kyrou and Philip Broberg
+   1-0
+P1  11:58 
+Jack Eichel (VGK) scores on backhand shot past Jordan Binnington, assisted by Ivan Barbashev and Mark Stone
+   1-1
+P1  10:18 
+Jordan Kyrou (STL) hooking against Mark Stone (2 minutes)
+   1-1
+P1  01:47 
+Ivan Barbashev (VGK) scores on snap shot past Jordan Binnington, assisted by Mark Stone and Jack Eichel
+   1-2
+2nd Period: ShowHide
+P2  17:05 
+Shea Theodore (VGK) scores on slap shot past Jordan Binnington, assisted by Cole Schwindt
+   1-3
+P2  13:59 
+Shea Theodore (VGK) slashing against Mathieu Joseph (2 minutes)
+   1-3
+P2  12:31 
+Pavel Buchnevich (STL) scores power-play goal on wrist shot past Adin Hill, assisted by Jordan Kyrou and Justin Faulk
+   2-3
+P2  08:09 
+Zack Bolduc (STL) slashing against Keegan Kolesar (2 minutes)
+   2-3
+3rd Period: ShowHide
+P3  07:07 
+Nicolas Roy (VGK) scores on tip-in past Jordan Binnington, assisted by Shea Theodore and Alex Pietrangelo
+   2-4
+P3  04:56 
+Robert Thomas (STL) scores on wrist shot past Adin Hill, assisted by Pavel Buchnevich and Colton Parayko
+   3-4
+P3  04:12 
+Noah Hanifin (VGK) delaying game - puck over glass (2 minutes)
+   3-4
+1st Period: ShowHide
+P1  13:13 
+Pavel Buchnevich (STL) scores on backhand shot past Adin Hill, assisted by Jordan Kyrou and Philip Broberg
+   1-0
+P1  11:58 
+Jack Eichel (VGK) scores on backhand shot past Jordan Binnington, assisted by Ivan Barbashev and Mark Stone
+   1-1
+P1  10:18 
+Jordan Kyrou (STL) hooking against Mark Stone (2 minutes)
+   1-1
+P1  01:47 
+Ivan Barbashev (VGK) scores on snap shot past Jordan Binnington, assisted by Mark Stone and Jack Eichel
+   1-2
+P1  13:13 
+Pavel Buchnevich (STL) scores on backhand shot past Adin Hill, assisted by Jordan Kyrou and Philip Broberg
+   1-0
+P1  11:58 
+Jack Eichel (VGK) scores on backhand shot past Jordan Binnington, assisted by Ivan Barbashev and Mark Stone
+   1-1
+P1  10:18 
+Jordan Kyrou (STL) hooking against Mark Stone (2 minutes)
+   1-1
+P1  01:47 
+Ivan Barbashev (VGK) scores on snap shot past Jordan Binnington, assisted by Mark Stone and Jack Eichel
+   1-2
+P1  13:13
+Pavel Buchnevich (STL) scores on backhand shot past Adin Hill, assisted by Jordan Kyrou and Philip Broberg
+1-0
+P1  11:58
+Jack Eichel (VGK) scores on backhand shot past Jordan Binnington, assisted by Ivan Barbashev and Mark Stone
+1-1
+P1  10:18
+Jordan Kyrou (STL) hooking against Mark Stone (2 minutes)
+1-1
+P1  01:47
+Ivan Barbashev (VGK) scores on snap shot past Jordan Binnington, assisted by Mark Stone and Jack Eichel
+1-2
+2nd Period: ShowHide
+P2  17:05 
+Shea Theodore (VGK) scores on slap shot past Jordan Binnington, assisted by Cole Schwindt
+   1-3
+P2  13:59 
+Shea Theodore (VGK) slashing against Mathieu Joseph (2 minutes)
+   1-3
+P2  12:31 
+Pavel Buchnevich (STL) scores power-play goal on wrist shot past Adin Hill, assisted by Jordan Kyrou and Justin Faulk
+   2-3
+P2  08:09 
+Zack Bolduc (STL) slashing against Keegan Kolesar (2 minutes)
+   2-3
+P2  17:05 
+Shea Theodore (VGK) scores on slap shot past Jordan Binnington, assisted by Cole Schwindt
+   1-3
+P2  13:59 
+Shea Theodore (VGK) slashing against Mathieu Joseph (2 minutes)
+   1-3
+P2  12:31 
+Pavel Buchnevich (STL) scores power-play goal on wrist shot past Adin Hill, assisted by Jordan Kyrou and Justin Faulk
+   2-3
+P2  08:09 
+Zack Bolduc (STL) slashing against Keegan Kolesar (2 minutes)
+   2-3
+P2  17:05
+Shea Theodore (VGK) scores on slap shot past Jordan Binnington, assisted by Cole Schwindt
+1-3
+P2  13:59
+Shea Theodore (VGK) slashing against Mathieu Joseph (2 minutes)
+1-3
+P2  12:31
+Pavel Buchnevich (STL) scores power-play goal on wrist shot past Adin Hill, assisted by Jordan Kyrou and Justin Faulk
+2-3
+P2  08:09
+Zack Bolduc (STL) slashing against Keegan Kolesar (2 minutes)
+2-3
+3rd Period: ShowHide
+P3  07:07 
+Nicolas Roy (VGK) scores on tip-in past Jordan Binnington, assisted by Shea Theodore and Alex Pietrangelo
+   2-4
+P3  04:56 
+Robert Thomas (STL) scores on wrist shot past Adin Hill, assisted by Pavel Buchnevich and Colton Parayko
+   3-4
+P3  04:12 
+Noah Hanifin (VGK) delaying game - puck over glass (2 minutes)
+   3-4
+P3  07:07 
+Nicolas Roy (VGK) scores on tip-in past Jordan Binnington, assisted by Shea Theodore and Alex Pietrangelo
+   2-4
+P3  04:56 
+Robert Thomas (STL) scores on wrist shot past Adin Hill, assisted by Pavel Buchnevich and Colton Parayko
+   3-4
+P3  04:12 
+Noah Hanifin (VGK) delaying game - puck over glass (2 minutes)
+   3-4
+P3  07:07
+Nicolas Roy (VGK) scores on tip-in past Jordan Binnington, assisted by Shea Theodore and Alex Pietrangelo
+2-4
+P3  04:56
+Robert Thomas (STL) scores on wrist shot past Adin Hill, assisted by Pavel Buchnevich and Colton Parayko
+3-4
+P3  04:12
+Noah Hanifin (VGK) delaying game - puck over glass (2 minutes)
+3-4
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  13:07   0  0    1   2   1   2   0   0   0/0Pavel Buchnevich L  20:39   2  1    2   4   1   0   0   1  2/10Radek Faksa C  09:21   0  0   -1   0   0   0   0   0   1/3Dylan Holloway L  14:35   0  0    0   0   2   0   1   0   3/9Mathieu Joseph R  12:55   0  0    0   0   0   0   1   1   0/0Kasperi Kapanen R  13:20   0  0    0   1   0   0   0   0   0/0Jordan Kyrou C  20:39   0  2    2   0   0   2   1   1   0/0Jake Neighbours L  19:09   0  0   -3   1   0   0   0   0   0/0Brayden Schenn C  17:21   0  0   -3   2   1   0   0   3  7/10Robert Thomas C  21:34   1  0   -2   2   0   0   2   2 15/21Alexey Toropchenko R  09:59   0  0   -1   1   0   0   1   0   0/0Nathan Walker L  09:30   0  0   -1   0   0   0   0   0   0/0Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  19:30   0  1    1   2   0   0   2   0   0/0Justin Faulk D  25:53   0  1    0   2   3   0   0   0   0/0Pierre-Olivier Joseph D  12:39   0  0   -1   2   2   0   0   2   0/0Nick Leddy D  18:54   0  0   -2   0   0   0   2   2   0/0Colton Parayko D  20:38   0  1   -2   2   2   0   0   1   0/0Ryan Suter D  16:55   0  0    0   1   1   0   0   0   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       22  13   4  10  13 28/53
+                                        52.8%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:22   4  24/28  21/25   3/3   0/0     0
+              .857   .840 1.000 
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  18:11   1  1    2   3   1   0   0   2   0/0Pavel Dorofeyev L  12:00   0  0    0   0   0   0   1   0   0/0Jack Eichel C  20:08   1  1    2   5   0   0   0   0  8/19Tomas Hertl C  17:13   0  0    0   1   2   0   1   1  8/16Alexander Holtz R  14:07   0  0   -1   1   2   0   0   1   0/0Brett Howden C  16:02   0  0   -1   0   2   0   0   0   1/5Keegan Kolesar R  11:32   0  0    1   2   1   0   0   0   0/1Victor Olofsson L  13:44   0  0    0   2   0   0   0   1   0/0Tanner Pearson L  11:04   0  0    1   1   0   0   0   0   0/0Nicolas Roy C  16:01   1  0   -1   2   0   0   0   3   5/8Cole Schwindt R  09:01   0  1    1   2   1   0   1   1   3/4Mark Stone R  20:02   0  2    2   2   1   0   1   4   0/0Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  16:00   0  0   -1   1   1   0   0   0   0/0Noah Hanifin D  18:15   0  0   -1   1   1   2   0   0   0/0Brayden McNabb D  20:02   0  0    2   1   2   0   0   1   0/0Alex Pietrangelo D  22:29   0  1    1   0   0   0   0   2   0/0Shea Theodore D  21:25   1  1    1   3   1   2   0   0   0/0Zach Whitecloud D  19:16   0  0    2   1   2   0   0   2   0/0Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       28  17   4   4  18 25/53
+                                        47.2%Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   3  19/22  19/21   0/1   0/0     0
+              .864   .905  .000
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  13:07   0  0    1   2   1   2   0   0   0/0Pavel Buchnevich L  20:39   2  1    2   4   1   0   0   1  2/10Radek Faksa C  09:21   0  0   -1   0   0   0   0   0   1/3Dylan Holloway L  14:35   0  0    0   0   2   0   1   0   3/9Mathieu Joseph R  12:55   0  0    0   0   0   0   1   1   0/0Kasperi Kapanen R  13:20   0  0    0   1   0   0   0   0   0/0Jordan Kyrou C  20:39   0  2    2   0   0   2   1   1   0/0Jake Neighbours L  19:09   0  0   -3   1   0   0   0   0   0/0Brayden Schenn C  17:21   0  0   -3   2   1   0   0   3  7/10Robert Thomas C  21:34   1  0   -2   2   0   0   2   2 15/21Alexey Toropchenko R  09:59   0  0   -1   1   0   0   1   0   0/0Nathan Walker L  09:30   0  0   -1   0   0   0   0   0   0/0
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zack Bolduc C
+13:07   0  0    1   2   1   2   0   0   0/0
+Pavel Buchnevich L
+20:39   2  1    2   4   1   0   0   1  2/10
+Radek Faksa C
+09:21   0  0   -1   0   0   0   0   0   1/3
+Dylan Holloway L
+14:35   0  0    0   0   2   0   1   0   3/9
+Mathieu Joseph R
+12:55   0  0    0   0   0   0   1   1   0/0
+Kasperi Kapanen R
+13:20   0  0    0   1   0   0   0   0   0/0
+Jordan Kyrou C
+20:39   0  2    2   0   0   2   1   1   0/0
+Jake Neighbours L
+19:09   0  0   -3   1   0   0   0   0   0/0
+Brayden Schenn C
+17:21   0  0   -3   2   1   0   0   3  7/10
+Robert Thomas C
+21:34   1  0   -2   2   0   0   2   2 15/21
+Alexey Toropchenko R
+09:59   0  0   -1   1   0   0   1   0   0/0
+Nathan Walker L
+09:30   0  0   -1   0   0   0   0   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  19:30   0  1    1   2   0   0   2   0   0/0Justin Faulk D  25:53   0  1    0   2   3   0   0   0   0/0Pierre-Olivier Joseph D  12:39   0  0   -1   2   2   0   0   2   0/0Nick Leddy D  18:54   0  0   -2   0   0   0   2   2   0/0Colton Parayko D  20:38   0  1   -2   2   2   0   0   1   0/0Ryan Suter D  16:55   0  0    0   1   1   0   0   0   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+19:30   0  1    1   2   0   0   2   0   0/0
+Justin Faulk D
+25:53   0  1    0   2   3   0   0   0   0/0
+Pierre-Olivier Joseph D
+12:39   0  0   -1   2   2   0   0   2   0/0
+Nick Leddy D
+18:54   0  0   -2   0   0   0   2   2   0/0
+Colton Parayko D
+20:38   0  1   -2   2   2   0   0   1   0/0
+Ryan Suter D
+16:55   0  0    0   1   1   0   0   0   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       22  13   4  10  13 28/53
+                                        52.8%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJordan Binnington G  59:22   4  24/28  21/25   3/3   0/0     0
+              .857   .840 1.000
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jordan Binnington G
+59:22   4  24/28  21/25   3/3   0/0     0
+              .857   .840 1.000
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOIvan Barbashev C  18:11   1  1    2   3   1   0   0   2   0/0Pavel Dorofeyev L  12:00   0  0    0   0   0   0   1   0   0/0Jack Eichel C  20:08   1  1    2   5   0   0   0   0  8/19Tomas Hertl C  17:13   0  0    0   1   2   0   1   1  8/16Alexander Holtz R  14:07   0  0   -1   1   2   0   0   1   0/0Brett Howden C  16:02   0  0   -1   0   2   0   0   0   1/5Keegan Kolesar R  11:32   0  0    1   2   1   0   0   0   0/1Victor Olofsson L  13:44   0  0    0   2   0   0   0   1   0/0Tanner Pearson L  11:04   0  0    1   1   0   0   0   0   0/0Nicolas Roy C  16:01   1  0   -1   2   0   0   0   3   5/8Cole Schwindt R  09:01   0  1    1   2   1   0   1   1   3/4Mark Stone R  20:02   0  2    2   2   1   0   1   4   0/0
+Golden Knights Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ivan Barbashev C
+18:11   1  1    2   3   1   0   0   2   0/0
+Pavel Dorofeyev L
+12:00   0  0    0   0   0   0   1   0   0/0
+Jack Eichel C
+20:08   1  1    2   5   0   0   0   0  8/19
+Tomas Hertl C
+17:13   0  0    0   1   2   0   1   1  8/16
+Alexander Holtz R
+14:07   0  0   -1   1   2   0   0   1   0/0
+Brett Howden C
+16:02   0  0   -1   0   2   0   0   0   1/5
+Keegan Kolesar R
+11:32   0  0    1   2   1   0   0   0   0/1
+Victor Olofsson L
+13:44   0  0    0   2   0   0   0   1   0/0
+Tanner Pearson L
+11:04   0  0    1   1   0   0   0   0   0/0
+Nicolas Roy C
+16:01   1  0   -1   2   0   0   0   3   5/8
+Cole Schwindt R
+09:01   0  1    1   2   1   0   1   1   3/4
+Mark Stone R
+20:02   0  2    2   2   1   0   1   4   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONicolas Hague D  16:00   0  0   -1   1   1   0   0   0   0/0Noah Hanifin D  18:15   0  0   -1   1   1   2   0   0   0/0Brayden McNabb D  20:02   0  0    2   1   2   0   0   1   0/0Alex Pietrangelo D  22:29   0  1    1   0   0   0   0   2   0/0Shea Theodore D  21:25   1  1    1   3   1   2   0   0   0/0Zach Whitecloud D  19:16   0  0    2   1   2   0   0   2   0/0
+Golden Knights Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nicolas Hague D
+16:00   0  0   -1   1   1   0   0   0   0/0
+Noah Hanifin D
+18:15   0  0   -1   1   1   2   0   0   0/0
+Brayden McNabb D
+20:02   0  0    2   1   2   0   0   1   0/0
+Alex Pietrangelo D
+22:29   0  1    1   0   0   0   0   2   0/0
+Shea Theodore D
+21:25   1  1    1   3   1   2   0   0   0/0
+Zach Whitecloud D
+19:16   0  0    2   1   2   0   0   2   0/0
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       28  17   4   4  18 25/53
+                                        47.2%
+Golden Knights Totals:
+          G  A        S   B  PM  TK  GV    FO
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAdin Hill G  60:00   3  19/22  19/21   0/1   0/0     0
+              .864   .905  .000
+Golden Knights Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Adin Hill G
+60:00   3  19/22  19/21   0/1   0/0     0
+              .864   .905  .000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

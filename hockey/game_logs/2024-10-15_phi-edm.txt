@@ -1,0 +1,520 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Philadelphia
+Flyers1-1-1Final/OT3 - 4Edmonton
+Oilers1-3-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+PHI   2  1  0  0    3  
+EDM   0  2  1  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:58 
+EDM penalty, too many men on the ice (2 minutes), served by Zach Hyman
+   0-0
+P1  15:14 
+Matvei Michkov (PHI) scores power-play goal on backhand shot past Stuart Skinner, assisted by Owen Tippett and Morgan Frost
+   1-0
+P1  15:14 
+EDM penalty, delaying game - unsuccessful challenge (2 minutes), served by Zach Hyman
+   1-0
+P1  12:22 
+Corey Perry (EDM) slashing against Scott Laughton (2 minutes)
+   1-0
+P1  10:39 
+Matvei Michkov (PHI) scores power-play goal on snap shot past Stuart Skinner, assisted by Morgan Frost and Travis Konecny
+   2-0
+P1  09:10 
+Bobby Brink (PHI) high-sticking against Derek Ryan (2 minutes)
+   2-0
+P1  03:10 
+Zach Hyman (EDM) elbowing against Travis Sanheim (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  16:59 
+Jett Luchanko (PHI) high-sticking against Corey Perry (2 minutes)
+   2-0
+P2  13:34 
+Adam Henrique (EDM) scores on backhand shot past Samuel Ersson, assisted by Mattias Janmark and Brett Kulak
+   2-1
+P2  10:18 
+Travis Konecny (PHI) slashing against Adam Henrique (2 minutes)
+   2-1
+P2  05:59 
+Connor Brown (EDM) scores on snap shot past Samuel Ersson, assisted by Jeff Skinner and Darnell Nurse
+   2-2
+P2  03:52 
+Brett Kulak (EDM) high-sticking against Sean Couturier (2 minutes)
+   2-2
+P2  02:32 
+Evan Bouchard (EDM) holding against Matvei Michkov (2 minutes)
+   2-2
+P2  00:23 
+Bobby Brink (PHI) scores on wrist shot past Stuart Skinner, assisted by Egor Zamula and Joel Farabee
+   3-2
+P2  00:08 
+Leon Draisaitl (EDM) cross-checking against Garnet Hathaway (2 minutes)
+   3-2
+3rd Period: ShowHide
+P3  12:04 
+Travis Sanheim (PHI) hooking against Jeff Skinner (2 minutes)
+   3-2
+P3  09:58 
+Sean Couturier (PHI) fighting against Troy Stecher (5 minutes)
+   3-2
+P3  09:58 
+Troy Stecher (EDM) fighting against Sean Couturier (5 minutes)
+   3-2
+P3  09:56 
+Joel Farabee (PHI) fighting against Corey Perry (5 minutes)
+   3-2
+P3  09:56 
+Corey Perry (EDM) fighting against Joel Farabee (5 minutes)
+   3-2
+P3  03:42 
+Evan Bouchard (EDM) scores on wrist shot past Samuel Ersson, assisted by Connor McDavid and Leon Draisaitl
+   3-3
+Overtime: ShowHide
+OT  04:04 
+Leon Draisaitl (EDM) scores on snap shot past Samuel Ersson, assisted by Connor McDavid
+   3-4
+Box Score:
+ 
+Back to Top
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  11:06   1  0    0   1   1   2   2   1   0/1Sean Couturier C  09:52   0  0   -1   0   0   5   0   0  6/10Joel Farabee L  13:30   0  1    0   0   2   5   1   0   1/1Tyson Foerster R  19:24   0  0    1   0   1   0   0   0   0/0Morgan Frost C  16:31   0  2    0   2   2   0   0   1  6/17Garnet Hathaway R  12:20   0  0   -1   2   2   0   1   1   0/0Travis Konecny R  24:03   0  1   -2   5   0   2   0   2   1/2Scott Laughton C  13:05   0  0   -1   1   1   0   1   0   1/2Jett Luchanko C  17:00   0  0    0   2   1   2   0   0  6/14Matvei Michkov R  18:03   2  0   -1   5   2   0   0   0   0/1Ryan Poehling C  13:58   0  0   -1   0   2   0   0   1  5/16Owen Tippett R  16:15   0  1   -1   5   0   0   1   0   1/2Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  13:54   0  0    0   1   1   0   0   1   0/0Erik Johnson D  11:39   0  0    0   0   3   0   0   1   0/0Rasmus Ristolainen D  18:20   0  0   -1   1   2   0   0   0   0/0Travis Sanheim D  21:55   0  0   -3   3   0   2   0   0   0/0Cam York D  23:52   0  0   -2   1   0   0   1   1   0/0Egor Zamula D  20:01   0  1    0   1   2   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       30  22  18   7   9 27/66
+                                        40.9%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  60:56   4  29/33  24/28   4/4   1/1     0
+              .879   .857 1.000 1.000 
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  13:41   0  0    0   2   0   0   0   0   0/1Connor Brown R  12:40   1  0    2   1   1   0   0   0   2/2Leon Draisaitl C  23:01   1  1    2   5   0   2   0   2 10/13Adam Henrique C  14:52   1  0    2   5   2   0   0   1 10/18Zach Hyman L  20:47   0  0    1   1   1   2   0   0   0/0Mattias Janmark C  10:02   0  1    1   1   1   0   0   0   1/1Connor McDavid C  24:06   0  2    2   2   0   0   2   3  6/11Ryan Nugent-Hopkins C  20:11   0  0   -1   2   1   0   0   0  4/10Corey Perry R  07:17   0  0    0   0   0   7   0   1   0/0Vasily Podkolzin R  09:43   0  0    0   1   0   0   0   0   0/1Derek Ryan C  07:14   0  0   -1   1   0   0   2   0   6/9Jeff Skinner C  11:49   0  1    1   3   0   0   1   0   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  24:13   1  0    1   3   0   2   1   0   0/0Mattias Ekholm D  25:56   0  0    0   4   2   0   1   2   0/0Ty Emberson D  10:21   0  0    0   0   1   0   0   1   0/0Brett Kulak D  16:46   0  1    1   1   1   2   0   1   0/0Darnell Nurse D  23:28   0  1    1   1   0   0   0   0   0/0Troy Stecher D  14:43   0  0    1   0   1   5   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       33  11  20   7  12 39/66
+                                        59.1%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  60:32   3  27/30  19/20  8/10   0/0     0
+              .900   .950  .800
+Philadelphia
+Flyers1-1-1Final/OT3 - 4Edmonton
+Oilers1-3-0
+Philadelphia
+Flyers1-1-1
+Final/OT3 - 4
+Edmonton
+Oilers1-3-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+PHI   2  1  0  0    3  
+EDM   0  2  1  1    4
+1st Period: ShowHide
+P1  15:58 
+EDM penalty, too many men on the ice (2 minutes), served by Zach Hyman
+   0-0
+P1  15:14 
+Matvei Michkov (PHI) scores power-play goal on backhand shot past Stuart Skinner, assisted by Owen Tippett and Morgan Frost
+   1-0
+P1  15:14 
+EDM penalty, delaying game - unsuccessful challenge (2 minutes), served by Zach Hyman
+   1-0
+P1  12:22 
+Corey Perry (EDM) slashing against Scott Laughton (2 minutes)
+   1-0
+P1  10:39 
+Matvei Michkov (PHI) scores power-play goal on snap shot past Stuart Skinner, assisted by Morgan Frost and Travis Konecny
+   2-0
+P1  09:10 
+Bobby Brink (PHI) high-sticking against Derek Ryan (2 minutes)
+   2-0
+P1  03:10 
+Zach Hyman (EDM) elbowing against Travis Sanheim (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  16:59 
+Jett Luchanko (PHI) high-sticking against Corey Perry (2 minutes)
+   2-0
+P2  13:34 
+Adam Henrique (EDM) scores on backhand shot past Samuel Ersson, assisted by Mattias Janmark and Brett Kulak
+   2-1
+P2  10:18 
+Travis Konecny (PHI) slashing against Adam Henrique (2 minutes)
+   2-1
+P2  05:59 
+Connor Brown (EDM) scores on snap shot past Samuel Ersson, assisted by Jeff Skinner and Darnell Nurse
+   2-2
+P2  03:52 
+Brett Kulak (EDM) high-sticking against Sean Couturier (2 minutes)
+   2-2
+P2  02:32 
+Evan Bouchard (EDM) holding against Matvei Michkov (2 minutes)
+   2-2
+P2  00:23 
+Bobby Brink (PHI) scores on wrist shot past Stuart Skinner, assisted by Egor Zamula and Joel Farabee
+   3-2
+P2  00:08 
+Leon Draisaitl (EDM) cross-checking against Garnet Hathaway (2 minutes)
+   3-2
+3rd Period: ShowHide
+P3  12:04 
+Travis Sanheim (PHI) hooking against Jeff Skinner (2 minutes)
+   3-2
+P3  09:58 
+Sean Couturier (PHI) fighting against Troy Stecher (5 minutes)
+   3-2
+P3  09:58 
+Troy Stecher (EDM) fighting against Sean Couturier (5 minutes)
+   3-2
+P3  09:56 
+Joel Farabee (PHI) fighting against Corey Perry (5 minutes)
+   3-2
+P3  09:56 
+Corey Perry (EDM) fighting against Joel Farabee (5 minutes)
+   3-2
+P3  03:42 
+Evan Bouchard (EDM) scores on wrist shot past Samuel Ersson, assisted by Connor McDavid and Leon Draisaitl
+   3-3
+Overtime: ShowHide
+OT  04:04 
+Leon Draisaitl (EDM) scores on snap shot past Samuel Ersson, assisted by Connor McDavid
+   3-4
+1st Period: ShowHide
+P1  15:58 
+EDM penalty, too many men on the ice (2 minutes), served by Zach Hyman
+   0-0
+P1  15:14 
+Matvei Michkov (PHI) scores power-play goal on backhand shot past Stuart Skinner, assisted by Owen Tippett and Morgan Frost
+   1-0
+P1  15:14 
+EDM penalty, delaying game - unsuccessful challenge (2 minutes), served by Zach Hyman
+   1-0
+P1  12:22 
+Corey Perry (EDM) slashing against Scott Laughton (2 minutes)
+   1-0
+P1  10:39 
+Matvei Michkov (PHI) scores power-play goal on snap shot past Stuart Skinner, assisted by Morgan Frost and Travis Konecny
+   2-0
+P1  09:10 
+Bobby Brink (PHI) high-sticking against Derek Ryan (2 minutes)
+   2-0
+P1  03:10 
+Zach Hyman (EDM) elbowing against Travis Sanheim (2 minutes)
+   2-0
+P1  15:58 
+EDM penalty, too many men on the ice (2 minutes), served by Zach Hyman
+   0-0
+P1  15:14 
+Matvei Michkov (PHI) scores power-play goal on backhand shot past Stuart Skinner, assisted by Owen Tippett and Morgan Frost
+   1-0
+P1  15:14 
+EDM penalty, delaying game - unsuccessful challenge (2 minutes), served by Zach Hyman
+   1-0
+P1  12:22 
+Corey Perry (EDM) slashing against Scott Laughton (2 minutes)
+   1-0
+P1  10:39 
+Matvei Michkov (PHI) scores power-play goal on snap shot past Stuart Skinner, assisted by Morgan Frost and Travis Konecny
+   2-0
+P1  09:10 
+Bobby Brink (PHI) high-sticking against Derek Ryan (2 minutes)
+   2-0
+P1  03:10 
+Zach Hyman (EDM) elbowing against Travis Sanheim (2 minutes)
+   2-0
+P1  15:58
+EDM penalty, too many men on the ice (2 minutes), served by Zach Hyman
+0-0
+P1  15:14
+Matvei Michkov (PHI) scores power-play goal on backhand shot past Stuart Skinner, assisted by Owen Tippett and Morgan Frost
+1-0
+P1  15:14
+EDM penalty, delaying game - unsuccessful challenge (2 minutes), served by Zach Hyman
+1-0
+P1  12:22
+Corey Perry (EDM) slashing against Scott Laughton (2 minutes)
+1-0
+P1  10:39
+Matvei Michkov (PHI) scores power-play goal on snap shot past Stuart Skinner, assisted by Morgan Frost and Travis Konecny
+2-0
+P1  09:10
+Bobby Brink (PHI) high-sticking against Derek Ryan (2 minutes)
+2-0
+P1  03:10
+Zach Hyman (EDM) elbowing against Travis Sanheim (2 minutes)
+2-0
+2nd Period: ShowHide
+P2  16:59 
+Jett Luchanko (PHI) high-sticking against Corey Perry (2 minutes)
+   2-0
+P2  13:34 
+Adam Henrique (EDM) scores on backhand shot past Samuel Ersson, assisted by Mattias Janmark and Brett Kulak
+   2-1
+P2  10:18 
+Travis Konecny (PHI) slashing against Adam Henrique (2 minutes)
+   2-1
+P2  05:59 
+Connor Brown (EDM) scores on snap shot past Samuel Ersson, assisted by Jeff Skinner and Darnell Nurse
+   2-2
+P2  03:52 
+Brett Kulak (EDM) high-sticking against Sean Couturier (2 minutes)
+   2-2
+P2  02:32 
+Evan Bouchard (EDM) holding against Matvei Michkov (2 minutes)
+   2-2
+P2  00:23 
+Bobby Brink (PHI) scores on wrist shot past Stuart Skinner, assisted by Egor Zamula and Joel Farabee
+   3-2
+P2  00:08 
+Leon Draisaitl (EDM) cross-checking against Garnet Hathaway (2 minutes)
+   3-2
+P2  16:59 
+Jett Luchanko (PHI) high-sticking against Corey Perry (2 minutes)
+   2-0
+P2  13:34 
+Adam Henrique (EDM) scores on backhand shot past Samuel Ersson, assisted by Mattias Janmark and Brett Kulak
+   2-1
+P2  10:18 
+Travis Konecny (PHI) slashing against Adam Henrique (2 minutes)
+   2-1
+P2  05:59 
+Connor Brown (EDM) scores on snap shot past Samuel Ersson, assisted by Jeff Skinner and Darnell Nurse
+   2-2
+P2  03:52 
+Brett Kulak (EDM) high-sticking against Sean Couturier (2 minutes)
+   2-2
+P2  02:32 
+Evan Bouchard (EDM) holding against Matvei Michkov (2 minutes)
+   2-2
+P2  00:23 
+Bobby Brink (PHI) scores on wrist shot past Stuart Skinner, assisted by Egor Zamula and Joel Farabee
+   3-2
+P2  00:08 
+Leon Draisaitl (EDM) cross-checking against Garnet Hathaway (2 minutes)
+   3-2
+P2  16:59
+Jett Luchanko (PHI) high-sticking against Corey Perry (2 minutes)
+2-0
+P2  13:34
+Adam Henrique (EDM) scores on backhand shot past Samuel Ersson, assisted by Mattias Janmark and Brett Kulak
+2-1
+P2  10:18
+Travis Konecny (PHI) slashing against Adam Henrique (2 minutes)
+2-1
+P2  05:59
+Connor Brown (EDM) scores on snap shot past Samuel Ersson, assisted by Jeff Skinner and Darnell Nurse
+2-2
+P2  03:52
+Brett Kulak (EDM) high-sticking against Sean Couturier (2 minutes)
+2-2
+P2  02:32
+Evan Bouchard (EDM) holding against Matvei Michkov (2 minutes)
+2-2
+P2  00:23
+Bobby Brink (PHI) scores on wrist shot past Stuart Skinner, assisted by Egor Zamula and Joel Farabee
+3-2
+P2  00:08
+Leon Draisaitl (EDM) cross-checking against Garnet Hathaway (2 minutes)
+3-2
+3rd Period: ShowHide
+P3  12:04 
+Travis Sanheim (PHI) hooking against Jeff Skinner (2 minutes)
+   3-2
+P3  09:58 
+Sean Couturier (PHI) fighting against Troy Stecher (5 minutes)
+   3-2
+P3  09:58 
+Troy Stecher (EDM) fighting against Sean Couturier (5 minutes)
+   3-2
+P3  09:56 
+Joel Farabee (PHI) fighting against Corey Perry (5 minutes)
+   3-2
+P3  09:56 
+Corey Perry (EDM) fighting against Joel Farabee (5 minutes)
+   3-2
+P3  03:42 
+Evan Bouchard (EDM) scores on wrist shot past Samuel Ersson, assisted by Connor McDavid and Leon Draisaitl
+   3-3
+P3  12:04 
+Travis Sanheim (PHI) hooking against Jeff Skinner (2 minutes)
+   3-2
+P3  09:58 
+Sean Couturier (PHI) fighting against Troy Stecher (5 minutes)
+   3-2
+P3  09:58 
+Troy Stecher (EDM) fighting against Sean Couturier (5 minutes)
+   3-2
+P3  09:56 
+Joel Farabee (PHI) fighting against Corey Perry (5 minutes)
+   3-2
+P3  09:56 
+Corey Perry (EDM) fighting against Joel Farabee (5 minutes)
+   3-2
+P3  03:42 
+Evan Bouchard (EDM) scores on wrist shot past Samuel Ersson, assisted by Connor McDavid and Leon Draisaitl
+   3-3
+P3  12:04
+Travis Sanheim (PHI) hooking against Jeff Skinner (2 minutes)
+3-2
+P3  09:58
+Sean Couturier (PHI) fighting against Troy Stecher (5 minutes)
+3-2
+P3  09:58
+Troy Stecher (EDM) fighting against Sean Couturier (5 minutes)
+3-2
+P3  09:56
+Joel Farabee (PHI) fighting against Corey Perry (5 minutes)
+3-2
+P3  09:56
+Corey Perry (EDM) fighting against Joel Farabee (5 minutes)
+3-2
+P3  03:42
+Evan Bouchard (EDM) scores on wrist shot past Samuel Ersson, assisted by Connor McDavid and Leon Draisaitl
+3-3
+Overtime: ShowHide
+OT  04:04 
+Leon Draisaitl (EDM) scores on snap shot past Samuel Ersson, assisted by Connor McDavid
+   3-4
+OT  04:04 
+Leon Draisaitl (EDM) scores on snap shot past Samuel Ersson, assisted by Connor McDavid
+   3-4
+OT  04:04
+Leon Draisaitl (EDM) scores on snap shot past Samuel Ersson, assisted by Connor McDavid
+3-4
+Box Score:
+ 
+Back to Top
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  11:06   1  0    0   1   1   2   2   1   0/1Sean Couturier C  09:52   0  0   -1   0   0   5   0   0  6/10Joel Farabee L  13:30   0  1    0   0   2   5   1   0   1/1Tyson Foerster R  19:24   0  0    1   0   1   0   0   0   0/0Morgan Frost C  16:31   0  2    0   2   2   0   0   1  6/17Garnet Hathaway R  12:20   0  0   -1   2   2   0   1   1   0/0Travis Konecny R  24:03   0  1   -2   5   0   2   0   2   1/2Scott Laughton C  13:05   0  0   -1   1   1   0   1   0   1/2Jett Luchanko C  17:00   0  0    0   2   1   2   0   0  6/14Matvei Michkov R  18:03   2  0   -1   5   2   0   0   0   0/1Ryan Poehling C  13:58   0  0   -1   0   2   0   0   1  5/16Owen Tippett R  16:15   0  1   -1   5   0   0   1   0   1/2Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  13:54   0  0    0   1   1   0   0   1   0/0Erik Johnson D  11:39   0  0    0   0   3   0   0   1   0/0Rasmus Ristolainen D  18:20   0  0   -1   1   2   0   0   0   0/0Travis Sanheim D  21:55   0  0   -3   3   0   2   0   0   0/0Cam York D  23:52   0  0   -2   1   0   0   1   1   0/0Egor Zamula D  20:01   0  1    0   1   2   0   0   0   0/0Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       30  22  18   7   9 27/66
+                                        40.9%Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  60:56   4  29/33  24/28   4/4   1/1     0
+              .879   .857 1.000 1.000 
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  13:41   0  0    0   2   0   0   0   0   0/1Connor Brown R  12:40   1  0    2   1   1   0   0   0   2/2Leon Draisaitl C  23:01   1  1    2   5   0   2   0   2 10/13Adam Henrique C  14:52   1  0    2   5   2   0   0   1 10/18Zach Hyman L  20:47   0  0    1   1   1   2   0   0   0/0Mattias Janmark C  10:02   0  1    1   1   1   0   0   0   1/1Connor McDavid C  24:06   0  2    2   2   0   0   2   3  6/11Ryan Nugent-Hopkins C  20:11   0  0   -1   2   1   0   0   0  4/10Corey Perry R  07:17   0  0    0   0   0   7   0   1   0/0Vasily Podkolzin R  09:43   0  0    0   1   0   0   0   0   0/1Derek Ryan C  07:14   0  0   -1   1   0   0   2   0   6/9Jeff Skinner C  11:49   0  1    1   3   0   0   1   0   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  24:13   1  0    1   3   0   2   1   0   0/0Mattias Ekholm D  25:56   0  0    0   4   2   0   1   2   0/0Ty Emberson D  10:21   0  0    0   0   1   0   0   1   0/0Brett Kulak D  16:46   0  1    1   1   1   2   0   1   0/0Darnell Nurse D  23:28   0  1    1   1   0   0   0   0   0/0Troy Stecher D  14:43   0  0    1   0   1   5   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       33  11  20   7  12 39/66
+                                        59.1%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  60:32   3  27/30  19/20  8/10   0/0     0
+              .900   .950  .800
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBobby Brink R  11:06   1  0    0   1   1   2   2   1   0/1Sean Couturier C  09:52   0  0   -1   0   0   5   0   0  6/10Joel Farabee L  13:30   0  1    0   0   2   5   1   0   1/1Tyson Foerster R  19:24   0  0    1   0   1   0   0   0   0/0Morgan Frost C  16:31   0  2    0   2   2   0   0   1  6/17Garnet Hathaway R  12:20   0  0   -1   2   2   0   1   1   0/0Travis Konecny R  24:03   0  1   -2   5   0   2   0   2   1/2Scott Laughton C  13:05   0  0   -1   1   1   0   1   0   1/2Jett Luchanko C  17:00   0  0    0   2   1   2   0   0  6/14Matvei Michkov R  18:03   2  0   -1   5   2   0   0   0   0/1Ryan Poehling C  13:58   0  0   -1   0   2   0   0   1  5/16Owen Tippett R  16:15   0  1   -1   5   0   0   1   0   1/2
+Flyers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bobby Brink R
+11:06   1  0    0   1   1   2   2   1   0/1
+Sean Couturier C
+09:52   0  0   -1   0   0   5   0   0  6/10
+Joel Farabee L
+13:30   0  1    0   0   2   5   1   0   1/1
+Tyson Foerster R
+19:24   0  0    1   0   1   0   0   0   0/0
+Morgan Frost C
+16:31   0  2    0   2   2   0   0   1  6/17
+Garnet Hathaway R
+12:20   0  0   -1   2   2   0   1   1   0/0
+Travis Konecny R
+24:03   0  1   -2   5   0   2   0   2   1/2
+Scott Laughton C
+13:05   0  0   -1   1   1   0   1   0   1/2
+Jett Luchanko C
+17:00   0  0    0   2   1   2   0   0  6/14
+Matvei Michkov R
+18:03   2  0   -1   5   2   0   0   0   0/1
+Ryan Poehling C
+13:58   0  0   -1   0   2   0   0   1  5/16
+Owen Tippett R
+16:15   0  1   -1   5   0   0   1   0   1/2
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Drysdale D  13:54   0  0    0   1   1   0   0   1   0/0Erik Johnson D  11:39   0  0    0   0   3   0   0   1   0/0Rasmus Ristolainen D  18:20   0  0   -1   1   2   0   0   0   0/0Travis Sanheim D  21:55   0  0   -3   3   0   2   0   0   0/0Cam York D  23:52   0  0   -2   1   0   0   1   1   0/0Egor Zamula D  20:01   0  1    0   1   2   0   0   0   0/0
+Flyers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Drysdale D
+13:54   0  0    0   1   1   0   0   1   0/0
+Erik Johnson D
+11:39   0  0    0   0   3   0   0   1   0/0
+Rasmus Ristolainen D
+18:20   0  0   -1   1   2   0   0   0   0/0
+Travis Sanheim D
+21:55   0  0   -3   3   0   2   0   0   0/0
+Cam York D
+23:52   0  0   -2   1   0   0   1   1   0/0
+Egor Zamula D
+20:01   0  1    0   1   2   0   0   0   0/0
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       30  22  18   7   9 27/66
+                                        40.9%
+Flyers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSamuel Ersson G  60:56   4  29/33  24/28   4/4   1/1     0
+              .879   .857 1.000 1.000
+Flyers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Samuel Ersson G
+60:56   4  29/33  24/28   4/4   1/1     0
+              .879   .857 1.000 1.000
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  13:41   0  0    0   2   0   0   0   0   0/1Connor Brown R  12:40   1  0    2   1   1   0   0   0   2/2Leon Draisaitl C  23:01   1  1    2   5   0   2   0   2 10/13Adam Henrique C  14:52   1  0    2   5   2   0   0   1 10/18Zach Hyman L  20:47   0  0    1   1   1   2   0   0   0/0Mattias Janmark C  10:02   0  1    1   1   1   0   0   0   1/1Connor McDavid C  24:06   0  2    2   2   0   0   2   3  6/11Ryan Nugent-Hopkins C  20:11   0  0   -1   2   1   0   0   0  4/10Corey Perry R  07:17   0  0    0   0   0   7   0   1   0/0Vasily Podkolzin R  09:43   0  0    0   1   0   0   0   0   0/1Derek Ryan C  07:14   0  0   -1   1   0   0   2   0   6/9Jeff Skinner C  11:49   0  1    1   3   0   0   1   0   0/0
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Viktor Arvidsson L
+13:41   0  0    0   2   0   0   0   0   0/1
+Connor Brown R
+12:40   1  0    2   1   1   0   0   0   2/2
+Leon Draisaitl C
+23:01   1  1    2   5   0   2   0   2 10/13
+Adam Henrique C
+14:52   1  0    2   5   2   0   0   1 10/18
+Zach Hyman L
+20:47   0  0    1   1   1   2   0   0   0/0
+Mattias Janmark C
+10:02   0  1    1   1   1   0   0   0   1/1
+Connor McDavid C
+24:06   0  2    2   2   0   0   2   3  6/11
+Ryan Nugent-Hopkins C
+20:11   0  0   -1   2   1   0   0   0  4/10
+Corey Perry R
+07:17   0  0    0   0   0   7   0   1   0/0
+Vasily Podkolzin R
+09:43   0  0    0   1   0   0   0   0   0/1
+Derek Ryan C
+07:14   0  0   -1   1   0   0   2   0   6/9
+Jeff Skinner C
+11:49   0  1    1   3   0   0   1   0   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  24:13   1  0    1   3   0   2   1   0   0/0Mattias Ekholm D  25:56   0  0    0   4   2   0   1   2   0/0Ty Emberson D  10:21   0  0    0   0   1   0   0   1   0/0Brett Kulak D  16:46   0  1    1   1   1   2   0   1   0/0Darnell Nurse D  23:28   0  1    1   1   0   0   0   0   0/0Troy Stecher D  14:43   0  0    1   0   1   5   0   1   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Evan Bouchard D
+24:13   1  0    1   3   0   2   1   0   0/0
+Mattias Ekholm D
+25:56   0  0    0   4   2   0   1   2   0/0
+Ty Emberson D
+10:21   0  0    0   0   1   0   0   1   0/0
+Brett Kulak D
+16:46   0  1    1   1   1   2   0   1   0/0
+Darnell Nurse D
+23:28   0  1    1   1   0   0   0   0   0/0
+Troy Stecher D
+14:43   0  0    1   0   1   5   0   1   0/0
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       33  11  20   7  12 39/66
+                                        59.1%
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  60:32   3  27/30  19/20  8/10   0/0     0
+              .900   .950  .800
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Stuart Skinner G
+60:32   3  27/30  19/20  8/10   0/0     0
+              .900   .950  .800
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,307 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Nashville
+Predators0-2-0Final0 - 3Detroit
+Red Wings1-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NSH   0  0  0    0  
+DET   0  1  2    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:20 
+Ben Chiarot (DET) hooking against Filip Forsberg (2 minutes)
+   0-0
+P1  09:17 
+Steven Stamkos (NSH) slashing against Alex DeBrincat (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:58 
+J.T. Compher (DET) scores on tip-in past Juuse Saros, assisted by Ben Chiarot and Moritz Seider
+   0-1
+P2  09:29 
+Jeremy Lauzon (NSH) interference against J.T. Compher (2 minutes)
+   0-1
+P2  05:35 
+Dylan Larkin (DET) high-sticking against Filip Forsberg (2 minutes)
+   0-1
+P2  00:59 
+Moritz Seider (DET) tripping against Gustav Nyquist (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  13:25 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Lucas Raymond and Simon Edvinsson
+   0-2
+P3  00:20 
+Dylan Larkin (DET) scores on empty net
+   0-3
+Box Score:
+ 
+Back to Top
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:02   0  0   -1   0   1   0   0   0   0/0Filip Forsberg L  20:25   0  0   -2   6   0   0   0   1   0/0Mark Jankowski C  12:25   0  0    0   2   2   0   0   2   1/2Jonathan Marchessault R  18:43   0  0   -1   3   1   0   0   1   1/1Michael McCarron R  11:32   0  0    0   0   2   0   0   1   5/7Tommy Novak C  12:43   0  0   -1   2   0   0   0   1  5/11Gustav Nyquist C  20:13   0  0   -2   1   0   0   1   1   1/1Ryan O'Reilly C  22:33   0  0   -2   4   2   0   1   3 16/24Colton Sissons C  15:06   0  0   -1   0   0   0   0   1  5/12Cole Smith L  11:18   0  0    0   0   0   0   0   1   0/0Steven Stamkos C  19:27   0  0   -1   5   0   2   1   0   3/8Philip Tomasino C  10:26   0  0    0   2   0   0   0   1   0/0Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  17:12   0  0   -1   1   0   0   0   1   0/0Dante Fabbro D  15:55   0  0    0   3   0   0   0   1   0/0Roman Josi D  27:02   0  0   -1   9   4   0   4   3   0/0Jeremy Lauzon D  17:55   0  0    0   0   0   2   0   0   0/0Luke Schenn D  12:41   0  0   -1   0   1   0   0   0   0/0Brady Skjei D  21:01   0  0   -2   4   2   0   1   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       42  15   4   8  21 37/66
+                                        56.1%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  57:21   2  19/21  14/16   4/4   1/1     0
+              .905   .875 1.000 1.000 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  09:04   0  0    0   2   0   0   0   0   0/0J.T. Compher L  19:50   1  0    2   4   2   0   1   1  6/19Andrew Copp C  14:40   1  0    1   2   2   0   0   0  2/13Alex DeBrincat R  16:45   0  0    0   1   2   0   1   3   0/0Christian Fischer R  04:29   0  0    0   0   1   0   0   0   0/0Patrick Kane R  17:47   0  0    0   1   0   0   0   0   0/0Dylan Larkin C  22:03   1  0    1   2   1   2   1   4 16/26Tyler Motte C  14:24   0  0    0   1   0   0   0   0   0/0Michael Rasmussen C  15:15   0  0    1   0   0   0   0   1   1/3Lucas Raymond L  18:45   0  1    3   1   0   0   0   0   0/0Vladimir Tarasenko R  11:31   0  0    1   1   0   0   0   1   0/0Joe Veleno C  13:07   0  0    0   4   3   0   1   3   4/5Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  25:33   0  1    2   0   4   2   0   2   0/0Simon Edvinsson D  19:42   0  1    1   1   3   0   3   2   0/0Justin Holl D  18:10   0  0    1   0   4   0   0   1   0/0Albert Johansson D  11:57   0  0    0   1   1   0   0   2   0/0Olli Maatta D  15:11   0  0    0   0   2   0   0   0   0/0Moritz Seider D  25:47   0  1    2   1   7   2   2   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       22  32   6   9  21 29/66
+                                        43.9%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   0  42/42  33/33   8/8   1/1     0
+             1.000  1.000 1.000 1.000
+Nashville
+Predators0-2-0Final0 - 3Detroit
+Red Wings1-1-0
+Nashville
+Predators0-2-0
+Final0 - 3
+Detroit
+Red Wings1-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NSH   0  0  0    0  
+DET   0  1  2    3
+1st Period: ShowHide
+P1  18:20 
+Ben Chiarot (DET) hooking against Filip Forsberg (2 minutes)
+   0-0
+P1  09:17 
+Steven Stamkos (NSH) slashing against Alex DeBrincat (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:58 
+J.T. Compher (DET) scores on tip-in past Juuse Saros, assisted by Ben Chiarot and Moritz Seider
+   0-1
+P2  09:29 
+Jeremy Lauzon (NSH) interference against J.T. Compher (2 minutes)
+   0-1
+P2  05:35 
+Dylan Larkin (DET) high-sticking against Filip Forsberg (2 minutes)
+   0-1
+P2  00:59 
+Moritz Seider (DET) tripping against Gustav Nyquist (2 minutes)
+   0-1
+3rd Period: ShowHide
+P3  13:25 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Lucas Raymond and Simon Edvinsson
+   0-2
+P3  00:20 
+Dylan Larkin (DET) scores on empty net
+   0-3
+1st Period: ShowHide
+P1  18:20 
+Ben Chiarot (DET) hooking against Filip Forsberg (2 minutes)
+   0-0
+P1  09:17 
+Steven Stamkos (NSH) slashing against Alex DeBrincat (2 minutes)
+   0-0
+P1  18:20 
+Ben Chiarot (DET) hooking against Filip Forsberg (2 minutes)
+   0-0
+P1  09:17 
+Steven Stamkos (NSH) slashing against Alex DeBrincat (2 minutes)
+   0-0
+P1  18:20
+Ben Chiarot (DET) hooking against Filip Forsberg (2 minutes)
+0-0
+P1  09:17
+Steven Stamkos (NSH) slashing against Alex DeBrincat (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  18:58 
+J.T. Compher (DET) scores on tip-in past Juuse Saros, assisted by Ben Chiarot and Moritz Seider
+   0-1
+P2  09:29 
+Jeremy Lauzon (NSH) interference against J.T. Compher (2 minutes)
+   0-1
+P2  05:35 
+Dylan Larkin (DET) high-sticking against Filip Forsberg (2 minutes)
+   0-1
+P2  00:59 
+Moritz Seider (DET) tripping against Gustav Nyquist (2 minutes)
+   0-1
+P2  18:58 
+J.T. Compher (DET) scores on tip-in past Juuse Saros, assisted by Ben Chiarot and Moritz Seider
+   0-1
+P2  09:29 
+Jeremy Lauzon (NSH) interference against J.T. Compher (2 minutes)
+   0-1
+P2  05:35 
+Dylan Larkin (DET) high-sticking against Filip Forsberg (2 minutes)
+   0-1
+P2  00:59 
+Moritz Seider (DET) tripping against Gustav Nyquist (2 minutes)
+   0-1
+P2  18:58
+J.T. Compher (DET) scores on tip-in past Juuse Saros, assisted by Ben Chiarot and Moritz Seider
+0-1
+P2  09:29
+Jeremy Lauzon (NSH) interference against J.T. Compher (2 minutes)
+0-1
+P2  05:35
+Dylan Larkin (DET) high-sticking against Filip Forsberg (2 minutes)
+0-1
+P2  00:59
+Moritz Seider (DET) tripping against Gustav Nyquist (2 minutes)
+0-1
+3rd Period: ShowHide
+P3  13:25 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Lucas Raymond and Simon Edvinsson
+   0-2
+P3  00:20 
+Dylan Larkin (DET) scores on empty net
+   0-3
+P3  13:25 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Lucas Raymond and Simon Edvinsson
+   0-2
+P3  00:20 
+Dylan Larkin (DET) scores on empty net
+   0-3
+P3  13:25
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Lucas Raymond and Simon Edvinsson
+0-2
+P3  00:20
+Dylan Larkin (DET) scores on empty net
+0-3
+Box Score:
+ 
+Back to Top
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:02   0  0   -1   0   1   0   0   0   0/0Filip Forsberg L  20:25   0  0   -2   6   0   0   0   1   0/0Mark Jankowski C  12:25   0  0    0   2   2   0   0   2   1/2Jonathan Marchessault R  18:43   0  0   -1   3   1   0   0   1   1/1Michael McCarron R  11:32   0  0    0   0   2   0   0   1   5/7Tommy Novak C  12:43   0  0   -1   2   0   0   0   1  5/11Gustav Nyquist C  20:13   0  0   -2   1   0   0   1   1   1/1Ryan O'Reilly C  22:33   0  0   -2   4   2   0   1   3 16/24Colton Sissons C  15:06   0  0   -1   0   0   0   0   1  5/12Cole Smith L  11:18   0  0    0   0   0   0   0   1   0/0Steven Stamkos C  19:27   0  0   -1   5   0   2   1   0   3/8Philip Tomasino C  10:26   0  0    0   2   0   0   0   1   0/0Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  17:12   0  0   -1   1   0   0   0   1   0/0Dante Fabbro D  15:55   0  0    0   3   0   0   0   1   0/0Roman Josi D  27:02   0  0   -1   9   4   0   4   3   0/0Jeremy Lauzon D  17:55   0  0    0   0   0   2   0   0   0/0Luke Schenn D  12:41   0  0   -1   0   1   0   0   0   0/0Brady Skjei D  21:01   0  0   -2   4   2   0   1   3   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       42  15   4   8  21 37/66
+                                        56.1%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  57:21   2  19/21  14/16   4/4   1/1     0
+              .905   .875 1.000 1.000 
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  09:04   0  0    0   2   0   0   0   0   0/0J.T. Compher L  19:50   1  0    2   4   2   0   1   1  6/19Andrew Copp C  14:40   1  0    1   2   2   0   0   0  2/13Alex DeBrincat R  16:45   0  0    0   1   2   0   1   3   0/0Christian Fischer R  04:29   0  0    0   0   1   0   0   0   0/0Patrick Kane R  17:47   0  0    0   1   0   0   0   0   0/0Dylan Larkin C  22:03   1  0    1   2   1   2   1   4 16/26Tyler Motte C  14:24   0  0    0   1   0   0   0   0   0/0Michael Rasmussen C  15:15   0  0    1   0   0   0   0   1   1/3Lucas Raymond L  18:45   0  1    3   1   0   0   0   0   0/0Vladimir Tarasenko R  11:31   0  0    1   1   0   0   0   1   0/0Joe Veleno C  13:07   0  0    0   4   3   0   1   3   4/5Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  25:33   0  1    2   0   4   2   0   2   0/0Simon Edvinsson D  19:42   0  1    1   1   3   0   3   2   0/0Justin Holl D  18:10   0  0    1   0   4   0   0   1   0/0Albert Johansson D  11:57   0  0    0   1   1   0   0   2   0/0Olli Maatta D  15:11   0  0    0   0   2   0   0   0   0/0Moritz Seider D  25:47   0  1    2   1   7   2   2   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       22  32   6   9  21 29/66
+                                        43.9%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   0  42/42  33/33   8/8   1/1     0
+             1.000  1.000 1.000 1.000
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:02   0  0   -1   0   1   0   0   0   0/0Filip Forsberg L  20:25   0  0   -2   6   0   0   0   1   0/0Mark Jankowski C  12:25   0  0    0   2   2   0   0   2   1/2Jonathan Marchessault R  18:43   0  0   -1   3   1   0   0   1   1/1Michael McCarron R  11:32   0  0    0   0   2   0   0   1   5/7Tommy Novak C  12:43   0  0   -1   2   0   0   0   1  5/11Gustav Nyquist C  20:13   0  0   -2   1   0   0   1   1   1/1Ryan O'Reilly C  22:33   0  0   -2   4   2   0   1   3 16/24Colton Sissons C  15:06   0  0   -1   0   0   0   0   1  5/12Cole Smith L  11:18   0  0    0   0   0   0   0   1   0/0Steven Stamkos C  19:27   0  0   -1   5   0   2   1   0   3/8Philip Tomasino C  10:26   0  0    0   2   0   0   0   1   0/0
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+12:02   0  0   -1   0   1   0   0   0   0/0
+Filip Forsberg L
+20:25   0  0   -2   6   0   0   0   1   0/0
+Mark Jankowski C
+12:25   0  0    0   2   2   0   0   2   1/2
+Jonathan Marchessault R
+18:43   0  0   -1   3   1   0   0   1   1/1
+Michael McCarron R
+11:32   0  0    0   0   2   0   0   1   5/7
+Tommy Novak C
+12:43   0  0   -1   2   0   0   0   1  5/11
+Gustav Nyquist C
+20:13   0  0   -2   1   0   0   1   1   1/1
+Ryan O'Reilly C
+22:33   0  0   -2   4   2   0   1   3 16/24
+Colton Sissons C
+15:06   0  0   -1   0   0   0   0   1  5/12
+Cole Smith L
+11:18   0  0    0   0   0   0   0   1   0/0
+Steven Stamkos C
+19:27   0  0   -1   5   0   2   1   0   3/8
+Philip Tomasino C
+10:26   0  0    0   2   0   0   0   1   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  17:12   0  0   -1   1   0   0   0   1   0/0Dante Fabbro D  15:55   0  0    0   3   0   0   0   1   0/0Roman Josi D  27:02   0  0   -1   9   4   0   4   3   0/0Jeremy Lauzon D  17:55   0  0    0   0   0   2   0   0   0/0Luke Schenn D  12:41   0  0   -1   0   1   0   0   0   0/0Brady Skjei D  21:01   0  0   -2   4   2   0   1   3   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+17:12   0  0   -1   1   0   0   0   1   0/0
+Dante Fabbro D
+15:55   0  0    0   3   0   0   0   1   0/0
+Roman Josi D
+27:02   0  0   -1   9   4   0   4   3   0/0
+Jeremy Lauzon D
+17:55   0  0    0   0   0   2   0   0   0/0
+Luke Schenn D
+12:41   0  0   -1   0   1   0   0   0   0/0
+Brady Skjei D
+21:01   0  0   -2   4   2   0   1   3   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       42  15   4   8  21 37/66
+                                        56.1%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  57:21   2  19/21  14/16   4/4   1/1     0
+              .905   .875 1.000 1.000
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Juuse Saros G
+57:21   2  19/21  14/16   4/4   1/1     0
+              .905   .875 1.000 1.000
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  09:04   0  0    0   2   0   0   0   0   0/0J.T. Compher L  19:50   1  0    2   4   2   0   1   1  6/19Andrew Copp C  14:40   1  0    1   2   2   0   0   0  2/13Alex DeBrincat R  16:45   0  0    0   1   2   0   1   3   0/0Christian Fischer R  04:29   0  0    0   0   1   0   0   0   0/0Patrick Kane R  17:47   0  0    0   1   0   0   0   0   0/0Dylan Larkin C  22:03   1  0    1   2   1   2   1   4 16/26Tyler Motte C  14:24   0  0    0   1   0   0   0   0   0/0Michael Rasmussen C  15:15   0  0    1   0   0   0   0   1   1/3Lucas Raymond L  18:45   0  1    3   1   0   0   0   0   0/0Vladimir Tarasenko R  11:31   0  0    1   1   0   0   0   1   0/0Joe Veleno C  13:07   0  0    0   4   3   0   1   3   4/5
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+09:04   0  0    0   2   0   0   0   0   0/0
+J.T. Compher L
+19:50   1  0    2   4   2   0   1   1  6/19
+Andrew Copp C
+14:40   1  0    1   2   2   0   0   0  2/13
+Alex DeBrincat R
+16:45   0  0    0   1   2   0   1   3   0/0
+Christian Fischer R
+04:29   0  0    0   0   1   0   0   0   0/0
+Patrick Kane R
+17:47   0  0    0   1   0   0   0   0   0/0
+Dylan Larkin C
+22:03   1  0    1   2   1   2   1   4 16/26
+Tyler Motte C
+14:24   0  0    0   1   0   0   0   0   0/0
+Michael Rasmussen C
+15:15   0  0    1   0   0   0   0   1   1/3
+Lucas Raymond L
+18:45   0  1    3   1   0   0   0   0   0/0
+Vladimir Tarasenko R
+11:31   0  0    1   1   0   0   0   1   0/0
+Joe Veleno C
+13:07   0  0    0   4   3   0   1   3   4/5
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  25:33   0  1    2   0   4   2   0   2   0/0Simon Edvinsson D  19:42   0  1    1   1   3   0   3   2   0/0Justin Holl D  18:10   0  0    1   0   4   0   0   1   0/0Albert Johansson D  11:57   0  0    0   1   1   0   0   2   0/0Olli Maatta D  15:11   0  0    0   0   2   0   0   0   0/0Moritz Seider D  25:47   0  1    2   1   7   2   2   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+25:33   0  1    2   0   4   2   0   2   0/0
+Simon Edvinsson D
+19:42   0  1    1   1   3   0   3   2   0/0
+Justin Holl D
+18:10   0  0    1   0   4   0   0   1   0/0
+Albert Johansson D
+11:57   0  0    0   1   1   0   0   2   0/0
+Olli Maatta D
+15:11   0  0    0   0   2   0   0   0   0/0
+Moritz Seider D
+25:47   0  1    2   1   7   2   2   1   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       22  32   6   9  21 29/66
+                                        43.9%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCam Talbot G  60:00   0  42/42  33/33   8/8   1/1     0
+             1.000  1.000 1.000 1.000
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Cam Talbot G
+60:00   0  42/42  33/33   8/8   1/1     0
+             1.000  1.000 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

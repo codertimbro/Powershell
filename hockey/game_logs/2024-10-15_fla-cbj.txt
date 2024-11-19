@@ -1,0 +1,367 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Florida
+Panthers3-2-0Final4 - 3Columbus
+Blue Jackets1-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+FLA   0  3  1    4  
+CBJ   0  2  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  07:12 
+Kevin Labanc (CBJ) interference against Nate Schmidt (2 minutes)
+   0-0
+P1  03:52 
+Mathieu Olivier (CBJ) cross-checking against Sam Bennett (2 minutes)
+   0-0
+P1  00:56 
+Jordan Harris (CBJ) high-sticking against Jonah Gadjovich (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:19 
+Cole Sillinger (CBJ) scores short-handed goal on snap shot past Spencer Knight, assisted by Kent Johnson
+   0-1
+P2  09:35 
+Anton Lundell (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Sam Reinhart and Nate Schmidt
+   1-1
+P2  08:38 
+Sean Monahan (CBJ) scores on wrist shot past Spencer Knight, assisted by Yegor Chinakhov and Kirill Marchenko
+   1-2
+P2  08:01 
+Dmitry Kulikov (FLA) scores on tip-in past Elvis Merzlikins, assisted by Niko Mikkola and Anton Lundell
+   2-2
+P2  06:27 
+Aaron Ekblad (FLA) interference against Adam Fantilli (2 minutes)
+   2-2
+P2  00:02 
+Sam Reinhart (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Carter Verhaeghe and Sam Bennett
+   3-2
+3rd Period: ShowHide
+P3  18:28 
+Sam Bennett (FLA) tripping against Kirill Marchenko (2 minutes)
+   3-2
+P3  04:48 
+Eetu Luostarinen (FLA) scores on snap shot past Elvis Merzlikins, assisted by Sam Reinhart and Niko Mikkola
+   4-2
+P3  02:39 
+James van Riemsdyk (CBJ) scores goal with extra attacker on deflection past Spencer Knight, assisted by Damon Severson and Kevin Labanc
+   4-3
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  20:06   0  1   -1   3   1   2   0   0  6/15Jesper Boqvist C  15:04   0  0    0   1   0   0   1   0   4/8Jonah Gadjovich L  10:03   0  0    0   0   0   0   0   0   0/0Patrick Giles R  06:44   0  0    0   1   0   0   0   2   1/5A.J. Greer L  13:15   0  0    0   1   0   0   0   2   0/0Anton Lundell C  18:13   1  1    2   2   1   0   1   4 10/16Eetu Luostarinen C  18:22   1  0    3   1   0   0   1   1   1/2Sam Reinhart C  21:15   1  2    3   2   1   0   1   0   2/7Evan Rodrigues C  17:14   0  0   -2   1   1   0   0   1   2/5Mackie Samoskevich R  13:58   0  0   -1   1   1   0   1   1   0/0Carter Verhaeghe C  19:14   0  1   -2   2   1   0   0   4   0/3Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  08:20   0  0    0   2   1   0   0   0   0/0Adam Boqvist D  16:36   0  0   -1   2   0   0   0   0   0/0Aaron Ekblad D  20:25   0  0   -1   0   1   2   0   0   0/0Gustav Forsling D  21:21   0  0    0   0   2   0   0   2   0/0Dmitry Kulikov D  19:20   1  0    3   1   1   0   2   0   0/0Niko Mikkola D  21:31   0  2    1   2   4   0   0   4   0/0Nate Schmidt D  14:59   0  1    1   0   1   0   1   2   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       22  16   4   8  23 26/61
+                                        42.6%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  60:00   3  35/38  34/36   1/1   0/1     0
+              .921   .944 1.000  .000 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  11:20   0  0    1   3   2   0   2   1   0/1Yegor Chinakhov R  16:24   0  1    2   4   1   0   0   0   0/0Adam Fantilli C  18:11   0  0   -1   4   3   0   0   2   3/9Kent Johnson C  21:03   0  1   -3   2   0   0   0   0   0/1Sean Kuraly C  09:19   0  0    0   1   2   0   0   1   4/5Kevin Labanc R  12:54   0  1    1   2   0   2   0   2   0/0Kirill Marchenko R  18:21   0  1    1   1   1   0   0   0   1/2Sean Monahan C  18:39   1  0    1   5   0   0   0   0 20/26Mathieu Olivier R  10:29   0  0    0   0   1   2   1   0   0/0Mikael Pyyhtia L  13:50   0  0   -3   0   2   0   0   0   0/0Cole Sillinger C  20:38   1  0   -3   1   1   0   0   0  7/17James van Riemsdyk L  13:14   1  0    1   3   0   0   1   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  14:56   0  0   -2   1   0   0   0   1   0/0Erik Gudbranson D  13:25   0  0    1   1   0   0   0   0   0/0Jordan Harris D  12:44   0  0    0   1   1   2   0   0   0/0Ivan Provorov D  24:40   0  0    2   1   1   0   1   1   0/0Damon Severson D  19:30   0  1   -2   1   0   0   0   1   0/0Zach Werenski D  28:36   0  0   -1   7   0   0   2   1   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       38  15   6   7  10 35/61
+                                        57.4%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  55:34   4  18/22  14/18   4/4   0/0     0
+              .818   .778 1.000
+Florida
+Panthers3-2-0Final4 - 3Columbus
+Blue Jackets1-2-0
+Florida
+Panthers3-2-0
+Final4 - 3
+Columbus
+Blue Jackets1-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+FLA   0  3  1    4  
+CBJ   0  2  1    3
+1st Period: ShowHide
+P1  07:12 
+Kevin Labanc (CBJ) interference against Nate Schmidt (2 minutes)
+   0-0
+P1  03:52 
+Mathieu Olivier (CBJ) cross-checking against Sam Bennett (2 minutes)
+   0-0
+P1  00:56 
+Jordan Harris (CBJ) high-sticking against Jonah Gadjovich (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  19:19 
+Cole Sillinger (CBJ) scores short-handed goal on snap shot past Spencer Knight, assisted by Kent Johnson
+   0-1
+P2  09:35 
+Anton Lundell (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Sam Reinhart and Nate Schmidt
+   1-1
+P2  08:38 
+Sean Monahan (CBJ) scores on wrist shot past Spencer Knight, assisted by Yegor Chinakhov and Kirill Marchenko
+   1-2
+P2  08:01 
+Dmitry Kulikov (FLA) scores on tip-in past Elvis Merzlikins, assisted by Niko Mikkola and Anton Lundell
+   2-2
+P2  06:27 
+Aaron Ekblad (FLA) interference against Adam Fantilli (2 minutes)
+   2-2
+P2  00:02 
+Sam Reinhart (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Carter Verhaeghe and Sam Bennett
+   3-2
+3rd Period: ShowHide
+P3  18:28 
+Sam Bennett (FLA) tripping against Kirill Marchenko (2 minutes)
+   3-2
+P3  04:48 
+Eetu Luostarinen (FLA) scores on snap shot past Elvis Merzlikins, assisted by Sam Reinhart and Niko Mikkola
+   4-2
+P3  02:39 
+James van Riemsdyk (CBJ) scores goal with extra attacker on deflection past Spencer Knight, assisted by Damon Severson and Kevin Labanc
+   4-3
+1st Period: ShowHide
+P1  07:12 
+Kevin Labanc (CBJ) interference against Nate Schmidt (2 minutes)
+   0-0
+P1  03:52 
+Mathieu Olivier (CBJ) cross-checking against Sam Bennett (2 minutes)
+   0-0
+P1  00:56 
+Jordan Harris (CBJ) high-sticking against Jonah Gadjovich (2 minutes)
+   0-0
+P1  07:12 
+Kevin Labanc (CBJ) interference against Nate Schmidt (2 minutes)
+   0-0
+P1  03:52 
+Mathieu Olivier (CBJ) cross-checking against Sam Bennett (2 minutes)
+   0-0
+P1  00:56 
+Jordan Harris (CBJ) high-sticking against Jonah Gadjovich (2 minutes)
+   0-0
+P1  07:12
+Kevin Labanc (CBJ) interference against Nate Schmidt (2 minutes)
+0-0
+P1  03:52
+Mathieu Olivier (CBJ) cross-checking against Sam Bennett (2 minutes)
+0-0
+P1  00:56
+Jordan Harris (CBJ) high-sticking against Jonah Gadjovich (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  19:19 
+Cole Sillinger (CBJ) scores short-handed goal on snap shot past Spencer Knight, assisted by Kent Johnson
+   0-1
+P2  09:35 
+Anton Lundell (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Sam Reinhart and Nate Schmidt
+   1-1
+P2  08:38 
+Sean Monahan (CBJ) scores on wrist shot past Spencer Knight, assisted by Yegor Chinakhov and Kirill Marchenko
+   1-2
+P2  08:01 
+Dmitry Kulikov (FLA) scores on tip-in past Elvis Merzlikins, assisted by Niko Mikkola and Anton Lundell
+   2-2
+P2  06:27 
+Aaron Ekblad (FLA) interference against Adam Fantilli (2 minutes)
+   2-2
+P2  00:02 
+Sam Reinhart (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Carter Verhaeghe and Sam Bennett
+   3-2
+P2  19:19 
+Cole Sillinger (CBJ) scores short-handed goal on snap shot past Spencer Knight, assisted by Kent Johnson
+   0-1
+P2  09:35 
+Anton Lundell (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Sam Reinhart and Nate Schmidt
+   1-1
+P2  08:38 
+Sean Monahan (CBJ) scores on wrist shot past Spencer Knight, assisted by Yegor Chinakhov and Kirill Marchenko
+   1-2
+P2  08:01 
+Dmitry Kulikov (FLA) scores on tip-in past Elvis Merzlikins, assisted by Niko Mikkola and Anton Lundell
+   2-2
+P2  06:27 
+Aaron Ekblad (FLA) interference against Adam Fantilli (2 minutes)
+   2-2
+P2  00:02 
+Sam Reinhart (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Carter Verhaeghe and Sam Bennett
+   3-2
+P2  19:19
+Cole Sillinger (CBJ) scores short-handed goal on snap shot past Spencer Knight, assisted by Kent Johnson
+0-1
+P2  09:35
+Anton Lundell (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Sam Reinhart and Nate Schmidt
+1-1
+P2  08:38
+Sean Monahan (CBJ) scores on wrist shot past Spencer Knight, assisted by Yegor Chinakhov and Kirill Marchenko
+1-2
+P2  08:01
+Dmitry Kulikov (FLA) scores on tip-in past Elvis Merzlikins, assisted by Niko Mikkola and Anton Lundell
+2-2
+P2  06:27
+Aaron Ekblad (FLA) interference against Adam Fantilli (2 minutes)
+2-2
+P2  00:02
+Sam Reinhart (FLA) scores on wrist shot past Elvis Merzlikins, assisted by Carter Verhaeghe and Sam Bennett
+3-2
+3rd Period: ShowHide
+P3  18:28 
+Sam Bennett (FLA) tripping against Kirill Marchenko (2 minutes)
+   3-2
+P3  04:48 
+Eetu Luostarinen (FLA) scores on snap shot past Elvis Merzlikins, assisted by Sam Reinhart and Niko Mikkola
+   4-2
+P3  02:39 
+James van Riemsdyk (CBJ) scores goal with extra attacker on deflection past Spencer Knight, assisted by Damon Severson and Kevin Labanc
+   4-3
+P3  18:28 
+Sam Bennett (FLA) tripping against Kirill Marchenko (2 minutes)
+   3-2
+P3  04:48 
+Eetu Luostarinen (FLA) scores on snap shot past Elvis Merzlikins, assisted by Sam Reinhart and Niko Mikkola
+   4-2
+P3  02:39 
+James van Riemsdyk (CBJ) scores goal with extra attacker on deflection past Spencer Knight, assisted by Damon Severson and Kevin Labanc
+   4-3
+P3  18:28
+Sam Bennett (FLA) tripping against Kirill Marchenko (2 minutes)
+3-2
+P3  04:48
+Eetu Luostarinen (FLA) scores on snap shot past Elvis Merzlikins, assisted by Sam Reinhart and Niko Mikkola
+4-2
+P3  02:39
+James van Riemsdyk (CBJ) scores goal with extra attacker on deflection past Spencer Knight, assisted by Damon Severson and Kevin Labanc
+4-3
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  20:06   0  1   -1   3   1   2   0   0  6/15Jesper Boqvist C  15:04   0  0    0   1   0   0   1   0   4/8Jonah Gadjovich L  10:03   0  0    0   0   0   0   0   0   0/0Patrick Giles R  06:44   0  0    0   1   0   0   0   2   1/5A.J. Greer L  13:15   0  0    0   1   0   0   0   2   0/0Anton Lundell C  18:13   1  1    2   2   1   0   1   4 10/16Eetu Luostarinen C  18:22   1  0    3   1   0   0   1   1   1/2Sam Reinhart C  21:15   1  2    3   2   1   0   1   0   2/7Evan Rodrigues C  17:14   0  0   -2   1   1   0   0   1   2/5Mackie Samoskevich R  13:58   0  0   -1   1   1   0   1   1   0/0Carter Verhaeghe C  19:14   0  1   -2   2   1   0   0   4   0/3Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  08:20   0  0    0   2   1   0   0   0   0/0Adam Boqvist D  16:36   0  0   -1   2   0   0   0   0   0/0Aaron Ekblad D  20:25   0  0   -1   0   1   2   0   0   0/0Gustav Forsling D  21:21   0  0    0   0   2   0   0   2   0/0Dmitry Kulikov D  19:20   1  0    3   1   1   0   2   0   0/0Niko Mikkola D  21:31   0  2    1   2   4   0   0   4   0/0Nate Schmidt D  14:59   0  1    1   0   1   0   1   2   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       22  16   4   8  23 26/61
+                                        42.6%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  60:00   3  35/38  34/36   1/1   0/1     0
+              .921   .944 1.000  .000 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  11:20   0  0    1   3   2   0   2   1   0/1Yegor Chinakhov R  16:24   0  1    2   4   1   0   0   0   0/0Adam Fantilli C  18:11   0  0   -1   4   3   0   0   2   3/9Kent Johnson C  21:03   0  1   -3   2   0   0   0   0   0/1Sean Kuraly C  09:19   0  0    0   1   2   0   0   1   4/5Kevin Labanc R  12:54   0  1    1   2   0   2   0   2   0/0Kirill Marchenko R  18:21   0  1    1   1   1   0   0   0   1/2Sean Monahan C  18:39   1  0    1   5   0   0   0   0 20/26Mathieu Olivier R  10:29   0  0    0   0   1   2   1   0   0/0Mikael Pyyhtia L  13:50   0  0   -3   0   2   0   0   0   0/0Cole Sillinger C  20:38   1  0   -3   1   1   0   0   0  7/17James van Riemsdyk L  13:14   1  0    1   3   0   0   1   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  14:56   0  0   -2   1   0   0   0   1   0/0Erik Gudbranson D  13:25   0  0    1   1   0   0   0   0   0/0Jordan Harris D  12:44   0  0    0   1   1   2   0   0   0/0Ivan Provorov D  24:40   0  0    2   1   1   0   1   1   0/0Damon Severson D  19:30   0  1   -2   1   0   0   0   1   0/0Zach Werenski D  28:36   0  0   -1   7   0   0   2   1   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       38  15   6   7  10 35/61
+                                        57.4%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  55:34   4  18/22  14/18   4/4   0/0     0
+              .818   .778 1.000
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  20:06   0  1   -1   3   1   2   0   0  6/15Jesper Boqvist C  15:04   0  0    0   1   0   0   1   0   4/8Jonah Gadjovich L  10:03   0  0    0   0   0   0   0   0   0/0Patrick Giles R  06:44   0  0    0   1   0   0   0   2   1/5A.J. Greer L  13:15   0  0    0   1   0   0   0   2   0/0Anton Lundell C  18:13   1  1    2   2   1   0   1   4 10/16Eetu Luostarinen C  18:22   1  0    3   1   0   0   1   1   1/2Sam Reinhart C  21:15   1  2    3   2   1   0   1   0   2/7Evan Rodrigues C  17:14   0  0   -2   1   1   0   0   1   2/5Mackie Samoskevich R  13:58   0  0   -1   1   1   0   1   1   0/0Carter Verhaeghe C  19:14   0  1   -2   2   1   0   0   4   0/3
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Bennett C
+20:06   0  1   -1   3   1   2   0   0  6/15
+Jesper Boqvist C
+15:04   0  0    0   1   0   0   1   0   4/8
+Jonah Gadjovich L
+10:03   0  0    0   0   0   0   0   0   0/0
+Patrick Giles R
+06:44   0  0    0   1   0   0   0   2   1/5
+A.J. Greer L
+13:15   0  0    0   1   0   0   0   2   0/0
+Anton Lundell C
+18:13   1  1    2   2   1   0   1   4 10/16
+Eetu Luostarinen C
+18:22   1  0    3   1   0   0   1   1   1/2
+Sam Reinhart C
+21:15   1  2    3   2   1   0   1   0   2/7
+Evan Rodrigues C
+17:14   0  0   -2   1   1   0   0   1   2/5
+Mackie Samoskevich R
+13:58   0  0   -1   1   1   0   1   1   0/0
+Carter Verhaeghe C
+19:14   0  1   -2   2   1   0   0   4   0/3
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  08:20   0  0    0   2   1   0   0   0   0/0Adam Boqvist D  16:36   0  0   -1   2   0   0   0   0   0/0Aaron Ekblad D  20:25   0  0   -1   0   1   2   0   0   0/0Gustav Forsling D  21:21   0  0    0   0   2   0   0   2   0/0Dmitry Kulikov D  19:20   1  0    3   1   1   0   2   0   0/0Niko Mikkola D  21:31   0  2    1   2   4   0   0   4   0/0Nate Schmidt D  14:59   0  1    1   0   1   0   1   2   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+08:20   0  0    0   2   1   0   0   0   0/0
+Adam Boqvist D
+16:36   0  0   -1   2   0   0   0   0   0/0
+Aaron Ekblad D
+20:25   0  0   -1   0   1   2   0   0   0/0
+Gustav Forsling D
+21:21   0  0    0   0   2   0   0   2   0/0
+Dmitry Kulikov D
+19:20   1  0    3   1   1   0   2   0   0/0
+Niko Mikkola D
+21:31   0  2    1   2   4   0   0   4   0/0
+Nate Schmidt D
+14:59   0  1    1   0   1   0   1   2   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       22  16   4   8  23 26/61
+                                        42.6%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  60:00   3  35/38  34/36   1/1   0/1     0
+              .921   .944 1.000  .000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Spencer Knight G
+60:00   3  35/38  34/36   1/1   0/1     0
+              .921   .944 1.000  .000
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  11:20   0  0    1   3   2   0   2   1   0/1Yegor Chinakhov R  16:24   0  1    2   4   1   0   0   0   0/0Adam Fantilli C  18:11   0  0   -1   4   3   0   0   2   3/9Kent Johnson C  21:03   0  1   -3   2   0   0   0   0   0/1Sean Kuraly C  09:19   0  0    0   1   2   0   0   1   4/5Kevin Labanc R  12:54   0  1    1   2   0   2   0   2   0/0Kirill Marchenko R  18:21   0  1    1   1   1   0   0   0   1/2Sean Monahan C  18:39   1  0    1   5   0   0   0   0 20/26Mathieu Olivier R  10:29   0  0    0   0   1   2   1   0   0/0Mikael Pyyhtia L  13:50   0  0   -3   0   2   0   0   0   0/0Cole Sillinger C  20:38   1  0   -3   1   1   0   0   0  7/17James van Riemsdyk L  13:14   1  0    1   3   0   0   1   0   0/0
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Aston-Reese C
+11:20   0  0    1   3   2   0   2   1   0/1
+Yegor Chinakhov R
+16:24   0  1    2   4   1   0   0   0   0/0
+Adam Fantilli C
+18:11   0  0   -1   4   3   0   0   2   3/9
+Kent Johnson C
+21:03   0  1   -3   2   0   0   0   0   0/1
+Sean Kuraly C
+09:19   0  0    0   1   2   0   0   1   4/5
+Kevin Labanc R
+12:54   0  1    1   2   0   2   0   2   0/0
+Kirill Marchenko R
+18:21   0  1    1   1   1   0   0   0   1/2
+Sean Monahan C
+18:39   1  0    1   5   0   0   0   0 20/26
+Mathieu Olivier R
+10:29   0  0    0   0   1   2   1   0   0/0
+Mikael Pyyhtia L
+13:50   0  0   -3   0   2   0   0   0   0/0
+Cole Sillinger C
+20:38   1  0   -3   1   1   0   0   0  7/17
+James van Riemsdyk L
+13:14   1  0    1   3   0   0   1   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  14:56   0  0   -2   1   0   0   0   1   0/0Erik Gudbranson D  13:25   0  0    1   1   0   0   0   0   0/0Jordan Harris D  12:44   0  0    0   1   1   2   0   0   0/0Ivan Provorov D  24:40   0  0    2   1   1   0   1   1   0/0Damon Severson D  19:30   0  1   -2   1   0   0   0   1   0/0Zach Werenski D  28:36   0  0   -1   7   0   0   2   1   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+14:56   0  0   -2   1   0   0   0   1   0/0
+Erik Gudbranson D
+13:25   0  0    1   1   0   0   0   0   0/0
+Jordan Harris D
+12:44   0  0    0   1   1   2   0   0   0/0
+Ivan Provorov D
+24:40   0  0    2   1   1   0   1   1   0/0
+Damon Severson D
+19:30   0  1   -2   1   0   0   0   1   0/0
+Zach Werenski D
+28:36   0  0   -1   7   0   0   2   1   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       38  15   6   7  10 35/61
+                                        57.4%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMElvis Merzlikins G  55:34   4  18/22  14/18   4/4   0/0     0
+              .818   .778 1.000
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Elvis Merzlikins G
+55:34   4  18/22  14/18   4/4   0/0     0
+              .818   .778 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

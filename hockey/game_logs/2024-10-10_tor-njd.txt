@@ -1,0 +1,382 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Toronto
+Maple Leafs1-1-0Final4 - 2New Jersey
+Devils2-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+TOR   3  1  0    4  
+NJD   1  1  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  11:42 
+Max Pacioretty (TOR) scores on snap shot past Jacob Markstrom, assisted by Pontus Holmberg and Conor Timmins
+   1-0
+P1  08:31 
+Bobby McMann (TOR) scores on snap shot past Jacob Markstrom, assisted by Jake McCabe and Steven Lorentz
+   2-0
+P1  05:14 
+Steven Lorentz (TOR) scores on backhand shot past Jacob Markstrom, assisted by David Kampf
+   3-0
+P1  02:01 
+John Tavares (TOR) interference against Erik Haula (2 minutes)
+   3-0
+P1  00:42 
+Jesper Bratt (NJD) scores power-play goal on wrist shot past Dennis Hildeby
+   3-1
+2nd Period: ShowHide
+P2  16:54 
+Brenden Dillon (NJD) tripping against Jake McCabe (2 minutes)
+   3-1
+P2  09:43 
+Conor Timmins (TOR) interference against Nathan Bastian (2 minutes)
+   3-1
+P2  07:28 
+Simon Benoit (TOR) tripping against Dawson Mercer (2 minutes)
+   3-1
+P2  05:08 
+John Tavares (TOR) scores on wrist shot past Jacob Markstrom, assisted by Max Domi and Oliver Ekman-Larsson
+   4-1
+P2  00:06 
+Timo Meier (NJD) scores on wrist shot past Dennis Hildeby, assisted by Johnathan Kovacevic and Brenden Dillon
+   4-2
+3rd Period: ShowHide
+P3  15:49 
+Simon Benoit (TOR) roughing against Timo Meier (2 minutes)
+   4-2
+P3  13:18 
+Dawson Mercer (NJD) high-sticking against Mitch Marner (2 minutes)
+   4-2
+P3  05:19 
+William Nylander (TOR) holding against Jack Hughes (2 minutes)
+   4-2
+Box Score:
+ 
+Back to Top
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  13:51   0  1    1   0   1   0   0   0   2/4Pontus Holmberg R  14:24   0  1    1   0   4   0   1   1  8/14David Kampf C  11:58   0  1    1   1   0   0   0   2   3/6Matthew Knies L  15:44   0  0    0   3   0   0   0   0   0/0Steven Lorentz C  15:07   1  1    1   2   2   0   1   0   0/0Mitch Marner R  21:20   0  0   -1   1   0   0   1   1   0/0Auston Matthews C  21:04   0  0    0   1   1   0   0   2  8/16Bobby McMann C  10:20   1  0    2   3   0   0   0   0   0/0William Nylander R  15:35   0  0    1   0   0   2   0   3   0/0Max Pacioretty L  09:36   1  0    1   2   0   0   0   0   1/1Nicholas Robertson L  10:16   0  0    1   1   1   0   0   1   0/0John Tavares C  15:04   1  0    1   2   0   2   0   2  4/13Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  15:52   0  0    1   1   5   4   0   1   0/0Oliver Ekman-Larsson D  20:34   0  1    2   3   3   0   0   0   0/0Jake McCabe D  23:25   0  1    1   0   6   0   1   2   0/0Morgan Rielly D  20:13   0  0    1   1   2   0   0   1   0/0Chris Tanev D  21:51   0  0    1   0   3   0   0   1   0/0Conor Timmins D  14:58   0  1    0   1   1   2   0   0   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       22  29  10   4  17 26/54
+                                        48.1%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDennis Hildeby G  59:29   2  21/23  15/16   6/7   0/0     0
+              .913   .938  .857 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  09:35   0  0    0   1   0   0   0   1   0/0Jesper Bratt L  22:35   1  0    0   2   2   0   0   2   0/0Paul Cotter C  10:39   0  0   -1   0   0   0   1   0   2/2Erik Haula L  14:47   0  0   -1   2   0   0   0   0   4/8Nico Hischier C  22:46   0  0   -2   2   1   0   0   0 17/26Jack Hughes C  23:28   0  0    0   2   0   0   0   2   1/8Curtis Lazar C  09:35   0  0    0   0   1   0   0   0   3/8Timo Meier R  22:19   1  0    0   5   0   0   0   2   0/0Dawson Mercer C  17:18   0  0   -2   2   1   2   0   1   0/0Stefan Noesen R  12:27   0  0   -1   0   1   0   0   2   1/2Ondrej Palat L  10:25   0  0   -2   0   1   0   0   0   0/0Tomas Tatar L  12:25   0  0    0   1   0   0   0   1   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  12:50   0  0   -1   0   0   0   0   0   0/0Brenden Dillon D  18:52   0  1   -2   0   0   2   0   1   0/0Dougie Hamilton D  25:30   0  0   -2   4   6   0   0   4   0/0Johnathan Kovacevic D  19:47   0  1    1   1   1   0   1   1   0/0Simon Nemec D  11:49   0  0   -2   0   1   0   0   0   0/0Jonas Siegenthaler D  20:47   0  0    0   1   0   0   0   4   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          2  2       23  15   4   2  21 28/54
+                                        51.9%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:06   4  18/22  16/20   1/1   1/1     0
+              .818   .800 1.000 1.000
+Toronto
+Maple Leafs1-1-0Final4 - 2New Jersey
+Devils2-1-0
+Toronto
+Maple Leafs1-1-0
+Final4 - 2
+New Jersey
+Devils2-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+TOR   3  1  0    4  
+NJD   1  1  0    2
+1st Period: ShowHide
+P1  11:42 
+Max Pacioretty (TOR) scores on snap shot past Jacob Markstrom, assisted by Pontus Holmberg and Conor Timmins
+   1-0
+P1  08:31 
+Bobby McMann (TOR) scores on snap shot past Jacob Markstrom, assisted by Jake McCabe and Steven Lorentz
+   2-0
+P1  05:14 
+Steven Lorentz (TOR) scores on backhand shot past Jacob Markstrom, assisted by David Kampf
+   3-0
+P1  02:01 
+John Tavares (TOR) interference against Erik Haula (2 minutes)
+   3-0
+P1  00:42 
+Jesper Bratt (NJD) scores power-play goal on wrist shot past Dennis Hildeby
+   3-1
+2nd Period: ShowHide
+P2  16:54 
+Brenden Dillon (NJD) tripping against Jake McCabe (2 minutes)
+   3-1
+P2  09:43 
+Conor Timmins (TOR) interference against Nathan Bastian (2 minutes)
+   3-1
+P2  07:28 
+Simon Benoit (TOR) tripping against Dawson Mercer (2 minutes)
+   3-1
+P2  05:08 
+John Tavares (TOR) scores on wrist shot past Jacob Markstrom, assisted by Max Domi and Oliver Ekman-Larsson
+   4-1
+P2  00:06 
+Timo Meier (NJD) scores on wrist shot past Dennis Hildeby, assisted by Johnathan Kovacevic and Brenden Dillon
+   4-2
+3rd Period: ShowHide
+P3  15:49 
+Simon Benoit (TOR) roughing against Timo Meier (2 minutes)
+   4-2
+P3  13:18 
+Dawson Mercer (NJD) high-sticking against Mitch Marner (2 minutes)
+   4-2
+P3  05:19 
+William Nylander (TOR) holding against Jack Hughes (2 minutes)
+   4-2
+1st Period: ShowHide
+P1  11:42 
+Max Pacioretty (TOR) scores on snap shot past Jacob Markstrom, assisted by Pontus Holmberg and Conor Timmins
+   1-0
+P1  08:31 
+Bobby McMann (TOR) scores on snap shot past Jacob Markstrom, assisted by Jake McCabe and Steven Lorentz
+   2-0
+P1  05:14 
+Steven Lorentz (TOR) scores on backhand shot past Jacob Markstrom, assisted by David Kampf
+   3-0
+P1  02:01 
+John Tavares (TOR) interference against Erik Haula (2 minutes)
+   3-0
+P1  00:42 
+Jesper Bratt (NJD) scores power-play goal on wrist shot past Dennis Hildeby
+   3-1
+P1  11:42 
+Max Pacioretty (TOR) scores on snap shot past Jacob Markstrom, assisted by Pontus Holmberg and Conor Timmins
+   1-0
+P1  08:31 
+Bobby McMann (TOR) scores on snap shot past Jacob Markstrom, assisted by Jake McCabe and Steven Lorentz
+   2-0
+P1  05:14 
+Steven Lorentz (TOR) scores on backhand shot past Jacob Markstrom, assisted by David Kampf
+   3-0
+P1  02:01 
+John Tavares (TOR) interference against Erik Haula (2 minutes)
+   3-0
+P1  00:42 
+Jesper Bratt (NJD) scores power-play goal on wrist shot past Dennis Hildeby
+   3-1
+P1  11:42
+Max Pacioretty (TOR) scores on snap shot past Jacob Markstrom, assisted by Pontus Holmberg and Conor Timmins
+1-0
+P1  08:31
+Bobby McMann (TOR) scores on snap shot past Jacob Markstrom, assisted by Jake McCabe and Steven Lorentz
+2-0
+P1  05:14
+Steven Lorentz (TOR) scores on backhand shot past Jacob Markstrom, assisted by David Kampf
+3-0
+P1  02:01
+John Tavares (TOR) interference against Erik Haula (2 minutes)
+3-0
+P1  00:42
+Jesper Bratt (NJD) scores power-play goal on wrist shot past Dennis Hildeby
+3-1
+2nd Period: ShowHide
+P2  16:54 
+Brenden Dillon (NJD) tripping against Jake McCabe (2 minutes)
+   3-1
+P2  09:43 
+Conor Timmins (TOR) interference against Nathan Bastian (2 minutes)
+   3-1
+P2  07:28 
+Simon Benoit (TOR) tripping against Dawson Mercer (2 minutes)
+   3-1
+P2  05:08 
+John Tavares (TOR) scores on wrist shot past Jacob Markstrom, assisted by Max Domi and Oliver Ekman-Larsson
+   4-1
+P2  00:06 
+Timo Meier (NJD) scores on wrist shot past Dennis Hildeby, assisted by Johnathan Kovacevic and Brenden Dillon
+   4-2
+P2  16:54 
+Brenden Dillon (NJD) tripping against Jake McCabe (2 minutes)
+   3-1
+P2  09:43 
+Conor Timmins (TOR) interference against Nathan Bastian (2 minutes)
+   3-1
+P2  07:28 
+Simon Benoit (TOR) tripping against Dawson Mercer (2 minutes)
+   3-1
+P2  05:08 
+John Tavares (TOR) scores on wrist shot past Jacob Markstrom, assisted by Max Domi and Oliver Ekman-Larsson
+   4-1
+P2  00:06 
+Timo Meier (NJD) scores on wrist shot past Dennis Hildeby, assisted by Johnathan Kovacevic and Brenden Dillon
+   4-2
+P2  16:54
+Brenden Dillon (NJD) tripping against Jake McCabe (2 minutes)
+3-1
+P2  09:43
+Conor Timmins (TOR) interference against Nathan Bastian (2 minutes)
+3-1
+P2  07:28
+Simon Benoit (TOR) tripping against Dawson Mercer (2 minutes)
+3-1
+P2  05:08
+John Tavares (TOR) scores on wrist shot past Jacob Markstrom, assisted by Max Domi and Oliver Ekman-Larsson
+4-1
+P2  00:06
+Timo Meier (NJD) scores on wrist shot past Dennis Hildeby, assisted by Johnathan Kovacevic and Brenden Dillon
+4-2
+3rd Period: ShowHide
+P3  15:49 
+Simon Benoit (TOR) roughing against Timo Meier (2 minutes)
+   4-2
+P3  13:18 
+Dawson Mercer (NJD) high-sticking against Mitch Marner (2 minutes)
+   4-2
+P3  05:19 
+William Nylander (TOR) holding against Jack Hughes (2 minutes)
+   4-2
+P3  15:49 
+Simon Benoit (TOR) roughing against Timo Meier (2 minutes)
+   4-2
+P3  13:18 
+Dawson Mercer (NJD) high-sticking against Mitch Marner (2 minutes)
+   4-2
+P3  05:19 
+William Nylander (TOR) holding against Jack Hughes (2 minutes)
+   4-2
+P3  15:49
+Simon Benoit (TOR) roughing against Timo Meier (2 minutes)
+4-2
+P3  13:18
+Dawson Mercer (NJD) high-sticking against Mitch Marner (2 minutes)
+4-2
+P3  05:19
+William Nylander (TOR) holding against Jack Hughes (2 minutes)
+4-2
+Box Score:
+ 
+Back to Top
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  13:51   0  1    1   0   1   0   0   0   2/4Pontus Holmberg R  14:24   0  1    1   0   4   0   1   1  8/14David Kampf C  11:58   0  1    1   1   0   0   0   2   3/6Matthew Knies L  15:44   0  0    0   3   0   0   0   0   0/0Steven Lorentz C  15:07   1  1    1   2   2   0   1   0   0/0Mitch Marner R  21:20   0  0   -1   1   0   0   1   1   0/0Auston Matthews C  21:04   0  0    0   1   1   0   0   2  8/16Bobby McMann C  10:20   1  0    2   3   0   0   0   0   0/0William Nylander R  15:35   0  0    1   0   0   2   0   3   0/0Max Pacioretty L  09:36   1  0    1   2   0   0   0   0   1/1Nicholas Robertson L  10:16   0  0    1   1   1   0   0   1   0/0John Tavares C  15:04   1  0    1   2   0   2   0   2  4/13Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  15:52   0  0    1   1   5   4   0   1   0/0Oliver Ekman-Larsson D  20:34   0  1    2   3   3   0   0   0   0/0Jake McCabe D  23:25   0  1    1   0   6   0   1   2   0/0Morgan Rielly D  20:13   0  0    1   1   2   0   0   1   0/0Chris Tanev D  21:51   0  0    1   0   3   0   0   1   0/0Conor Timmins D  14:58   0  1    0   1   1   2   0   0   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       22  29  10   4  17 26/54
+                                        48.1%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDennis Hildeby G  59:29   2  21/23  15/16   6/7   0/0     0
+              .913   .938  .857 
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  09:35   0  0    0   1   0   0   0   1   0/0Jesper Bratt L  22:35   1  0    0   2   2   0   0   2   0/0Paul Cotter C  10:39   0  0   -1   0   0   0   1   0   2/2Erik Haula L  14:47   0  0   -1   2   0   0   0   0   4/8Nico Hischier C  22:46   0  0   -2   2   1   0   0   0 17/26Jack Hughes C  23:28   0  0    0   2   0   0   0   2   1/8Curtis Lazar C  09:35   0  0    0   0   1   0   0   0   3/8Timo Meier R  22:19   1  0    0   5   0   0   0   2   0/0Dawson Mercer C  17:18   0  0   -2   2   1   2   0   1   0/0Stefan Noesen R  12:27   0  0   -1   0   1   0   0   2   1/2Ondrej Palat L  10:25   0  0   -2   0   1   0   0   0   0/0Tomas Tatar L  12:25   0  0    0   1   0   0   0   1   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  12:50   0  0   -1   0   0   0   0   0   0/0Brenden Dillon D  18:52   0  1   -2   0   0   2   0   1   0/0Dougie Hamilton D  25:30   0  0   -2   4   6   0   0   4   0/0Johnathan Kovacevic D  19:47   0  1    1   1   1   0   1   1   0/0Simon Nemec D  11:49   0  0   -2   0   1   0   0   0   0/0Jonas Siegenthaler D  20:47   0  0    0   1   0   0   0   4   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          2  2       23  15   4   2  21 28/54
+                                        51.9%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:06   4  18/22  16/20   1/1   1/1     0
+              .818   .800 1.000 1.000
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  13:51   0  1    1   0   1   0   0   0   2/4Pontus Holmberg R  14:24   0  1    1   0   4   0   1   1  8/14David Kampf C  11:58   0  1    1   1   0   0   0   2   3/6Matthew Knies L  15:44   0  0    0   3   0   0   0   0   0/0Steven Lorentz C  15:07   1  1    1   2   2   0   1   0   0/0Mitch Marner R  21:20   0  0   -1   1   0   0   1   1   0/0Auston Matthews C  21:04   0  0    0   1   1   0   0   2  8/16Bobby McMann C  10:20   1  0    2   3   0   0   0   0   0/0William Nylander R  15:35   0  0    1   0   0   2   0   3   0/0Max Pacioretty L  09:36   1  0    1   2   0   0   0   0   1/1Nicholas Robertson L  10:16   0  0    1   1   1   0   0   1   0/0John Tavares C  15:04   1  0    1   2   0   2   0   2  4/13
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Max Domi C
+13:51   0  1    1   0   1   0   0   0   2/4
+Pontus Holmberg R
+14:24   0  1    1   0   4   0   1   1  8/14
+David Kampf C
+11:58   0  1    1   1   0   0   0   2   3/6
+Matthew Knies L
+15:44   0  0    0   3   0   0   0   0   0/0
+Steven Lorentz C
+15:07   1  1    1   2   2   0   1   0   0/0
+Mitch Marner R
+21:20   0  0   -1   1   0   0   1   1   0/0
+Auston Matthews C
+21:04   0  0    0   1   1   0   0   2  8/16
+Bobby McMann C
+10:20   1  0    2   3   0   0   0   0   0/0
+William Nylander R
+15:35   0  0    1   0   0   2   0   3   0/0
+Max Pacioretty L
+09:36   1  0    1   2   0   0   0   0   1/1
+Nicholas Robertson L
+10:16   0  0    1   1   1   0   0   1   0/0
+John Tavares C
+15:04   1  0    1   2   0   2   0   2  4/13
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  15:52   0  0    1   1   5   4   0   1   0/0Oliver Ekman-Larsson D  20:34   0  1    2   3   3   0   0   0   0/0Jake McCabe D  23:25   0  1    1   0   6   0   1   2   0/0Morgan Rielly D  20:13   0  0    1   1   2   0   0   1   0/0Chris Tanev D  21:51   0  0    1   0   3   0   0   1   0/0Conor Timmins D  14:58   0  1    0   1   1   2   0   0   0/0
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Simon Benoit D
+15:52   0  0    1   1   5   4   0   1   0/0
+Oliver Ekman-Larsson D
+20:34   0  1    2   3   3   0   0   0   0/0
+Jake McCabe D
+23:25   0  1    1   0   6   0   1   2   0/0
+Morgan Rielly D
+20:13   0  0    1   1   2   0   0   1   0/0
+Chris Tanev D
+21:51   0  0    1   0   3   0   0   1   0/0
+Conor Timmins D
+14:58   0  1    0   1   1   2   0   0   0/0
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       22  29  10   4  17 26/54
+                                        48.1%
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDennis Hildeby G  59:29   2  21/23  15/16   6/7   0/0     0
+              .913   .938  .857
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dennis Hildeby G
+59:29   2  21/23  15/16   6/7   0/0     0
+              .913   .938  .857
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  09:35   0  0    0   1   0   0   0   1   0/0Jesper Bratt L  22:35   1  0    0   2   2   0   0   2   0/0Paul Cotter C  10:39   0  0   -1   0   0   0   1   0   2/2Erik Haula L  14:47   0  0   -1   2   0   0   0   0   4/8Nico Hischier C  22:46   0  0   -2   2   1   0   0   0 17/26Jack Hughes C  23:28   0  0    0   2   0   0   0   2   1/8Curtis Lazar C  09:35   0  0    0   0   1   0   0   0   3/8Timo Meier R  22:19   1  0    0   5   0   0   0   2   0/0Dawson Mercer C  17:18   0  0   -2   2   1   2   0   1   0/0Stefan Noesen R  12:27   0  0   -1   0   1   0   0   2   1/2Ondrej Palat L  10:25   0  0   -2   0   1   0   0   0   0/0Tomas Tatar L  12:25   0  0    0   1   0   0   0   1   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+09:35   0  0    0   1   0   0   0   1   0/0
+Jesper Bratt L
+22:35   1  0    0   2   2   0   0   2   0/0
+Paul Cotter C
+10:39   0  0   -1   0   0   0   1   0   2/2
+Erik Haula L
+14:47   0  0   -1   2   0   0   0   0   4/8
+Nico Hischier C
+22:46   0  0   -2   2   1   0   0   0 17/26
+Jack Hughes C
+23:28   0  0    0   2   0   0   0   2   1/8
+Curtis Lazar C
+09:35   0  0    0   0   1   0   0   0   3/8
+Timo Meier R
+22:19   1  0    0   5   0   0   0   2   0/0
+Dawson Mercer C
+17:18   0  0   -2   2   1   2   0   1   0/0
+Stefan Noesen R
+12:27   0  0   -1   0   1   0   0   2   1/2
+Ondrej Palat L
+10:25   0  0   -2   0   1   0   0   0   0/0
+Tomas Tatar L
+12:25   0  0    0   1   0   0   0   1   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  12:50   0  0   -1   0   0   0   0   0   0/0Brenden Dillon D  18:52   0  1   -2   0   0   2   0   1   0/0Dougie Hamilton D  25:30   0  0   -2   4   6   0   0   4   0/0Johnathan Kovacevic D  19:47   0  1    1   1   1   0   1   1   0/0Simon Nemec D  11:49   0  0   -2   0   1   0   0   0   0/0Jonas Siegenthaler D  20:47   0  0    0   1   0   0   0   4   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Seamus Casey D
+12:50   0  0   -1   0   0   0   0   0   0/0
+Brenden Dillon D
+18:52   0  1   -2   0   0   2   0   1   0/0
+Dougie Hamilton D
+25:30   0  0   -2   4   6   0   0   4   0/0
+Johnathan Kovacevic D
+19:47   0  1    1   1   1   0   1   1   0/0
+Simon Nemec D
+11:49   0  0   -2   0   1   0   0   0   0/0
+Jonas Siegenthaler D
+20:47   0  0    0   1   0   0   0   4   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          2  2       23  15   4   2  21 28/54
+                                        51.9%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  58:06   4  18/22  16/20   1/1   1/1     0
+              .818   .800 1.000 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+58:06   4  18/22  16/20   1/1   1/1     0
+              .818   .800 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

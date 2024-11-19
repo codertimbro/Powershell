@@ -1,0 +1,385 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+St. Louis
+Blues2-0-0Final/OT5 - 4San Jose
+Sharks0-0-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+STL   1  0  3  1    5  
+SJS   2  2  0  0    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  12:59 
+Macklin Celebrini (SJS) scores on backhand shot past Joel Hofer, assisted by William Eklund and Jake Walman
+   0-1
+P1  11:09 
+Pavel Buchnevich (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Jordan Kyrou and Philip Broberg
+   1-1
+P1  02:46 
+Tyler Toffoli (SJS) scores on snap shot past Joel Hofer, assisted by Macklin Celebrini and Jan Rutta
+   1-2
+2nd Period: ShowHide
+P2  12:07 
+Nathan Walker (STL) slashing against Danil Gushchin (2 minutes)
+   1-2
+P2  11:34 
+Fabian Zetterlund (SJS) scores power-play goal on wrist shot past Joel Hofer, assisted by Mikael Granlund and Tyler Toffoli
+   1-3
+P2  09:11 
+Kasperi Kapanen (STL) slashing against Tyler Toffoli (2 minutes)
+   1-3
+P2  03:05 
+Cody Ceci (SJS) holding against Robert Thomas (2 minutes)
+   1-3
+P2  02:23 
+Barclay Goodrow (SJS) scores short-handed goal on deflection past Joel Hofer
+   1-4
+3rd Period: ShowHide
+P3  17:06 
+Radek Faksa (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Nathan Walker
+   2-4
+P3  13:49 
+Ryan Suter (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Alexey Toropchenko
+   3-4
+P3  09:53 
+Danil Gushchin (SJS) high-sticking against Brayden Schenn (2 minutes)
+   3-4
+P3  00:47 
+Justin Faulk (STL) scores goal with extra attacker on wrist shot past Mackenzie Blackwood, assisted by Robert Thomas and Jordan Kyrou
+   4-4
+Overtime: ShowHide
+OT  04:15 
+Brayden Schenn (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Colton Parayko and Robert Thomas
+   5-4
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  14:30   0  0    1   2   0   0   0   0   0/0Pavel Buchnevich L  18:22   1  0    2   2   0   0   2   0  7/12Radek Faksa C  12:24   1  0    2   1   0   0   0   0  6/12Dylan Holloway L  14:03   0  0    0   3   2   0   0   0   2/4Mathieu Joseph R  11:57   0  0   -2   3   2   0   0   0   0/0Kasperi Kapanen R  14:38   0  0   -2   3   0   2   0   1   0/0Jordan Kyrou C  18:28   0  2    1   1   0   0   0   0   0/0Jake Neighbours L  17:10   0  0    0   2   0   0   1   3   0/0Brayden Schenn C  17:35   1  0    0   7   1   0   0   0  5/10Robert Thomas C  21:04   0  2    0   3   0   0   0   3 15/21Alexey Toropchenko R  13:43   0  1    2   1   2   0   0   0   0/0Nathan Walker L  12:24   0  1    2   1   1   2   1   0   0/1Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  18:27   0  1    0   2   0   0   0   2   0/0Justin Faulk D  22:52   1  0    0   2   1   0   1   2   0/0Matthew Kessel D  10:53   0  0    1   0   0   0   0   1   0/0Nick Leddy D  24:27   0  0    0   2   2   0   0   2   0/0Colton Parayko D  24:14   0  1    1   3   4   0   0   0   0/0Ryan Suter D  14:14   1  0    1   2   1   0   0   2   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       40  16   4   5  16 35/60
+                                        58.3%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  59:02   4  25/29  19/21   4/5   2/3     0
+              .862   .905  .800  .667 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMacklin Celebrini C  17:35   1  1    0   2   0   0   1   2  1/14Ty Dellandrea C  09:35   0  0   -2   1   0   0   0   1   2/5William Eklund L  21:20   0  1   -1   2   2   0   0   2   0/0Barclay Goodrow C  13:05   1  0    1   2   1   0   1   2   3/3Mikael Granlund C  18:15   0  1    0   4   0   0   0   2  9/10Danil Gushchin L  10:20   0  0   -2   3   0   2   0   0   0/0Luke Kunin C  15:27   0  0    0   1   0   0   0   1   1/1Will Smith C  13:41   0  0    0   2   0   0   0   0  1/11Nico Sturm C  10:39   0  0   -2   1   0   0   0   0   4/5Tyler Toffoli C  18:11   1  1    1   4   2   0   0   2   0/0Alexander Wennberg C  16:37   0  0   -1   1   2   0   0   0  4/11Fabian Zetterlund L  15:10   1  0    0   3   1   0   1   0   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  12:22   0  0   -2   1   1   0   0   1   0/0Cody Ceci D  23:55   0  0   -1   0   0   2   0   1   0/0Mario Ferraro D  21:38   0  0    1   0   1   0   1   1   0/0Jan Rutta D  20:25   0  1    1   1   6   0   0   4   0/0Henry Thrun D  15:01   0  0   -1   0   0   0   0   0   0/0Jake Walman D  24:59   0  1   -1   1   7   0   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       29  23   4   5  19 25/60
+                                        41.7%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  60:45   5  35/40  31/36   3/3   1/1     0
+              .875   .861 1.000 1.000
+St. Louis
+Blues2-0-0Final/OT5 - 4San Jose
+Sharks0-0-1
+St. Louis
+Blues2-0-0
+Final/OT5 - 4
+San Jose
+Sharks0-0-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+STL   1  0  3  1    5  
+SJS   2  2  0  0    4
+1st Period: ShowHide
+P1  12:59 
+Macklin Celebrini (SJS) scores on backhand shot past Joel Hofer, assisted by William Eklund and Jake Walman
+   0-1
+P1  11:09 
+Pavel Buchnevich (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Jordan Kyrou and Philip Broberg
+   1-1
+P1  02:46 
+Tyler Toffoli (SJS) scores on snap shot past Joel Hofer, assisted by Macklin Celebrini and Jan Rutta
+   1-2
+2nd Period: ShowHide
+P2  12:07 
+Nathan Walker (STL) slashing against Danil Gushchin (2 minutes)
+   1-2
+P2  11:34 
+Fabian Zetterlund (SJS) scores power-play goal on wrist shot past Joel Hofer, assisted by Mikael Granlund and Tyler Toffoli
+   1-3
+P2  09:11 
+Kasperi Kapanen (STL) slashing against Tyler Toffoli (2 minutes)
+   1-3
+P2  03:05 
+Cody Ceci (SJS) holding against Robert Thomas (2 minutes)
+   1-3
+P2  02:23 
+Barclay Goodrow (SJS) scores short-handed goal on deflection past Joel Hofer
+   1-4
+3rd Period: ShowHide
+P3  17:06 
+Radek Faksa (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Nathan Walker
+   2-4
+P3  13:49 
+Ryan Suter (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Alexey Toropchenko
+   3-4
+P3  09:53 
+Danil Gushchin (SJS) high-sticking against Brayden Schenn (2 minutes)
+   3-4
+P3  00:47 
+Justin Faulk (STL) scores goal with extra attacker on wrist shot past Mackenzie Blackwood, assisted by Robert Thomas and Jordan Kyrou
+   4-4
+Overtime: ShowHide
+OT  04:15 
+Brayden Schenn (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Colton Parayko and Robert Thomas
+   5-4
+1st Period: ShowHide
+P1  12:59 
+Macklin Celebrini (SJS) scores on backhand shot past Joel Hofer, assisted by William Eklund and Jake Walman
+   0-1
+P1  11:09 
+Pavel Buchnevich (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Jordan Kyrou and Philip Broberg
+   1-1
+P1  02:46 
+Tyler Toffoli (SJS) scores on snap shot past Joel Hofer, assisted by Macklin Celebrini and Jan Rutta
+   1-2
+P1  12:59 
+Macklin Celebrini (SJS) scores on backhand shot past Joel Hofer, assisted by William Eklund and Jake Walman
+   0-1
+P1  11:09 
+Pavel Buchnevich (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Jordan Kyrou and Philip Broberg
+   1-1
+P1  02:46 
+Tyler Toffoli (SJS) scores on snap shot past Joel Hofer, assisted by Macklin Celebrini and Jan Rutta
+   1-2
+P1  12:59
+Macklin Celebrini (SJS) scores on backhand shot past Joel Hofer, assisted by William Eklund and Jake Walman
+0-1
+P1  11:09
+Pavel Buchnevich (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Jordan Kyrou and Philip Broberg
+1-1
+P1  02:46
+Tyler Toffoli (SJS) scores on snap shot past Joel Hofer, assisted by Macklin Celebrini and Jan Rutta
+1-2
+2nd Period: ShowHide
+P2  12:07 
+Nathan Walker (STL) slashing against Danil Gushchin (2 minutes)
+   1-2
+P2  11:34 
+Fabian Zetterlund (SJS) scores power-play goal on wrist shot past Joel Hofer, assisted by Mikael Granlund and Tyler Toffoli
+   1-3
+P2  09:11 
+Kasperi Kapanen (STL) slashing against Tyler Toffoli (2 minutes)
+   1-3
+P2  03:05 
+Cody Ceci (SJS) holding against Robert Thomas (2 minutes)
+   1-3
+P2  02:23 
+Barclay Goodrow (SJS) scores short-handed goal on deflection past Joel Hofer
+   1-4
+P2  12:07 
+Nathan Walker (STL) slashing against Danil Gushchin (2 minutes)
+   1-2
+P2  11:34 
+Fabian Zetterlund (SJS) scores power-play goal on wrist shot past Joel Hofer, assisted by Mikael Granlund and Tyler Toffoli
+   1-3
+P2  09:11 
+Kasperi Kapanen (STL) slashing against Tyler Toffoli (2 minutes)
+   1-3
+P2  03:05 
+Cody Ceci (SJS) holding against Robert Thomas (2 minutes)
+   1-3
+P2  02:23 
+Barclay Goodrow (SJS) scores short-handed goal on deflection past Joel Hofer
+   1-4
+P2  12:07
+Nathan Walker (STL) slashing against Danil Gushchin (2 minutes)
+1-2
+P2  11:34
+Fabian Zetterlund (SJS) scores power-play goal on wrist shot past Joel Hofer, assisted by Mikael Granlund and Tyler Toffoli
+1-3
+P2  09:11
+Kasperi Kapanen (STL) slashing against Tyler Toffoli (2 minutes)
+1-3
+P2  03:05
+Cody Ceci (SJS) holding against Robert Thomas (2 minutes)
+1-3
+P2  02:23
+Barclay Goodrow (SJS) scores short-handed goal on deflection past Joel Hofer
+1-4
+3rd Period: ShowHide
+P3  17:06 
+Radek Faksa (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Nathan Walker
+   2-4
+P3  13:49 
+Ryan Suter (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Alexey Toropchenko
+   3-4
+P3  09:53 
+Danil Gushchin (SJS) high-sticking against Brayden Schenn (2 minutes)
+   3-4
+P3  00:47 
+Justin Faulk (STL) scores goal with extra attacker on wrist shot past Mackenzie Blackwood, assisted by Robert Thomas and Jordan Kyrou
+   4-4
+P3  17:06 
+Radek Faksa (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Nathan Walker
+   2-4
+P3  13:49 
+Ryan Suter (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Alexey Toropchenko
+   3-4
+P3  09:53 
+Danil Gushchin (SJS) high-sticking against Brayden Schenn (2 minutes)
+   3-4
+P3  00:47 
+Justin Faulk (STL) scores goal with extra attacker on wrist shot past Mackenzie Blackwood, assisted by Robert Thomas and Jordan Kyrou
+   4-4
+P3  17:06
+Radek Faksa (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Nathan Walker
+2-4
+P3  13:49
+Ryan Suter (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Alexey Toropchenko
+3-4
+P3  09:53
+Danil Gushchin (SJS) high-sticking against Brayden Schenn (2 minutes)
+3-4
+P3  00:47
+Justin Faulk (STL) scores goal with extra attacker on wrist shot past Mackenzie Blackwood, assisted by Robert Thomas and Jordan Kyrou
+4-4
+Overtime: ShowHide
+OT  04:15 
+Brayden Schenn (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Colton Parayko and Robert Thomas
+   5-4
+OT  04:15 
+Brayden Schenn (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Colton Parayko and Robert Thomas
+   5-4
+OT  04:15
+Brayden Schenn (STL) scores on wrist shot past Mackenzie Blackwood, assisted by Colton Parayko and Robert Thomas
+5-4
+Box Score:
+ 
+Back to Top
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  14:30   0  0    1   2   0   0   0   0   0/0Pavel Buchnevich L  18:22   1  0    2   2   0   0   2   0  7/12Radek Faksa C  12:24   1  0    2   1   0   0   0   0  6/12Dylan Holloway L  14:03   0  0    0   3   2   0   0   0   2/4Mathieu Joseph R  11:57   0  0   -2   3   2   0   0   0   0/0Kasperi Kapanen R  14:38   0  0   -2   3   0   2   0   1   0/0Jordan Kyrou C  18:28   0  2    1   1   0   0   0   0   0/0Jake Neighbours L  17:10   0  0    0   2   0   0   1   3   0/0Brayden Schenn C  17:35   1  0    0   7   1   0   0   0  5/10Robert Thomas C  21:04   0  2    0   3   0   0   0   3 15/21Alexey Toropchenko R  13:43   0  1    2   1   2   0   0   0   0/0Nathan Walker L  12:24   0  1    2   1   1   2   1   0   0/1Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  18:27   0  1    0   2   0   0   0   2   0/0Justin Faulk D  22:52   1  0    0   2   1   0   1   2   0/0Matthew Kessel D  10:53   0  0    1   0   0   0   0   1   0/0Nick Leddy D  24:27   0  0    0   2   2   0   0   2   0/0Colton Parayko D  24:14   0  1    1   3   4   0   0   0   0/0Ryan Suter D  14:14   1  0    1   2   1   0   0   2   0/0Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       40  16   4   5  16 35/60
+                                        58.3%Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  59:02   4  25/29  19/21   4/5   2/3     0
+              .862   .905  .800  .667 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMacklin Celebrini C  17:35   1  1    0   2   0   0   1   2  1/14Ty Dellandrea C  09:35   0  0   -2   1   0   0   0   1   2/5William Eklund L  21:20   0  1   -1   2   2   0   0   2   0/0Barclay Goodrow C  13:05   1  0    1   2   1   0   1   2   3/3Mikael Granlund C  18:15   0  1    0   4   0   0   0   2  9/10Danil Gushchin L  10:20   0  0   -2   3   0   2   0   0   0/0Luke Kunin C  15:27   0  0    0   1   0   0   0   1   1/1Will Smith C  13:41   0  0    0   2   0   0   0   0  1/11Nico Sturm C  10:39   0  0   -2   1   0   0   0   0   4/5Tyler Toffoli C  18:11   1  1    1   4   2   0   0   2   0/0Alexander Wennberg C  16:37   0  0   -1   1   2   0   0   0  4/11Fabian Zetterlund L  15:10   1  0    0   3   1   0   1   0   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  12:22   0  0   -2   1   1   0   0   1   0/0Cody Ceci D  23:55   0  0   -1   0   0   2   0   1   0/0Mario Ferraro D  21:38   0  0    1   0   1   0   1   1   0/0Jan Rutta D  20:25   0  1    1   1   6   0   0   4   0/0Henry Thrun D  15:01   0  0   -1   0   0   0   0   0   0/0Jake Walman D  24:59   0  1   -1   1   7   0   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       29  23   4   5  19 25/60
+                                        41.7%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  60:45   5  35/40  31/36   3/3   1/1     0
+              .875   .861 1.000 1.000
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZack Bolduc C  14:30   0  0    1   2   0   0   0   0   0/0Pavel Buchnevich L  18:22   1  0    2   2   0   0   2   0  7/12Radek Faksa C  12:24   1  0    2   1   0   0   0   0  6/12Dylan Holloway L  14:03   0  0    0   3   2   0   0   0   2/4Mathieu Joseph R  11:57   0  0   -2   3   2   0   0   0   0/0Kasperi Kapanen R  14:38   0  0   -2   3   0   2   0   1   0/0Jordan Kyrou C  18:28   0  2    1   1   0   0   0   0   0/0Jake Neighbours L  17:10   0  0    0   2   0   0   1   3   0/0Brayden Schenn C  17:35   1  0    0   7   1   0   0   0  5/10Robert Thomas C  21:04   0  2    0   3   0   0   0   3 15/21Alexey Toropchenko R  13:43   0  1    2   1   2   0   0   0   0/0Nathan Walker L  12:24   0  1    2   1   1   2   1   0   0/1
+Blues Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zack Bolduc C
+14:30   0  0    1   2   0   0   0   0   0/0
+Pavel Buchnevich L
+18:22   1  0    2   2   0   0   2   0  7/12
+Radek Faksa C
+12:24   1  0    2   1   0   0   0   0  6/12
+Dylan Holloway L
+14:03   0  0    0   3   2   0   0   0   2/4
+Mathieu Joseph R
+11:57   0  0   -2   3   2   0   0   0   0/0
+Kasperi Kapanen R
+14:38   0  0   -2   3   0   2   0   1   0/0
+Jordan Kyrou C
+18:28   0  2    1   1   0   0   0   0   0/0
+Jake Neighbours L
+17:10   0  0    0   2   0   0   1   3   0/0
+Brayden Schenn C
+17:35   1  0    0   7   1   0   0   0  5/10
+Robert Thomas C
+21:04   0  2    0   3   0   0   0   3 15/21
+Alexey Toropchenko R
+13:43   0  1    2   1   2   0   0   0   0/0
+Nathan Walker L
+12:24   0  1    2   1   1   2   1   0   0/1
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOPhilip Broberg D  18:27   0  1    0   2   0   0   0   2   0/0Justin Faulk D  22:52   1  0    0   2   1   0   1   2   0/0Matthew Kessel D  10:53   0  0    1   0   0   0   0   1   0/0Nick Leddy D  24:27   0  0    0   2   2   0   0   2   0/0Colton Parayko D  24:14   0  1    1   3   4   0   0   0   0/0Ryan Suter D  14:14   1  0    1   2   1   0   0   2   0/0
+Blues Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Philip Broberg D
+18:27   0  1    0   2   0   0   0   2   0/0
+Justin Faulk D
+22:52   1  0    0   2   1   0   1   2   0/0
+Matthew Kessel D
+10:53   0  0    1   0   0   0   0   1   0/0
+Nick Leddy D
+24:27   0  0    0   2   2   0   0   2   0/0
+Colton Parayko D
+24:14   0  1    1   3   4   0   0   0   0/0
+Ryan Suter D
+14:14   1  0    1   2   1   0   0   2   0/0
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO          5  8       40  16   4   5  16 35/60
+                                        58.3%
+Blues Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoel Hofer G  59:02   4  25/29  19/21   4/5   2/3     0
+              .862   .905  .800  .667
+Blues Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joel Hofer G
+59:02   4  25/29  19/21   4/5   2/3     0
+              .862   .905  .800  .667
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMacklin Celebrini C  17:35   1  1    0   2   0   0   1   2  1/14Ty Dellandrea C  09:35   0  0   -2   1   0   0   0   1   2/5William Eklund L  21:20   0  1   -1   2   2   0   0   2   0/0Barclay Goodrow C  13:05   1  0    1   2   1   0   1   2   3/3Mikael Granlund C  18:15   0  1    0   4   0   0   0   2  9/10Danil Gushchin L  10:20   0  0   -2   3   0   2   0   0   0/0Luke Kunin C  15:27   0  0    0   1   0   0   0   1   1/1Will Smith C  13:41   0  0    0   2   0   0   0   0  1/11Nico Sturm C  10:39   0  0   -2   1   0   0   0   0   4/5Tyler Toffoli C  18:11   1  1    1   4   2   0   0   2   0/0Alexander Wennberg C  16:37   0  0   -1   1   2   0   0   0  4/11Fabian Zetterlund L  15:10   1  0    0   3   1   0   1   0   0/0
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Macklin Celebrini C
+17:35   1  1    0   2   0   0   1   2  1/14
+Ty Dellandrea C
+09:35   0  0   -2   1   0   0   0   1   2/5
+William Eklund L
+21:20   0  1   -1   2   2   0   0   2   0/0
+Barclay Goodrow C
+13:05   1  0    1   2   1   0   1   2   3/3
+Mikael Granlund C
+18:15   0  1    0   4   0   0   0   2  9/10
+Danil Gushchin L
+10:20   0  0   -2   3   0   2   0   0   0/0
+Luke Kunin C
+15:27   0  0    0   1   0   0   0   1   1/1
+Will Smith C
+13:41   0  0    0   2   0   0   0   0  1/11
+Nico Sturm C
+10:39   0  0   -2   1   0   0   0   0   4/5
+Tyler Toffoli C
+18:11   1  1    1   4   2   0   0   2   0/0
+Alexander Wennberg C
+16:37   0  0   -1   1   2   0   0   0  4/11
+Fabian Zetterlund L
+15:10   1  0    0   3   1   0   1   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  12:22   0  0   -2   1   1   0   0   1   0/0Cody Ceci D  23:55   0  0   -1   0   0   2   0   1   0/0Mario Ferraro D  21:38   0  0    1   0   1   0   1   1   0/0Jan Rutta D  20:25   0  1    1   1   6   0   0   4   0/0Henry Thrun D  15:01   0  0   -1   0   0   0   0   0   0/0Jake Walman D  24:59   0  1   -1   1   7   0   1   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Benning D
+12:22   0  0   -2   1   1   0   0   1   0/0
+Cody Ceci D
+23:55   0  0   -1   0   0   2   0   1   0/0
+Mario Ferraro D
+21:38   0  0    1   0   1   0   1   1   0/0
+Jan Rutta D
+20:25   0  1    1   1   6   0   0   4   0/0
+Henry Thrun D
+15:01   0  0   -1   0   0   0   0   0   0/0
+Jake Walman D
+24:59   0  1   -1   1   7   0   1   0   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       29  23   4   5  19 25/60
+                                        41.7%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  60:45   5  35/40  31/36   3/3   1/1     0
+              .875   .861 1.000 1.000
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Mackenzie Blackwood G
+60:45   5  35/40  31/36   3/3   1/1     0
+              .875   .861 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

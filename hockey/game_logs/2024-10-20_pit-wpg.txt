@@ -1,0 +1,397 @@
+< Oct. 20 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Pittsburgh
+Penguins3-4-0Final3 - 6Winnipeg
+Jets5-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+PIT   0  2  1    3  
+WPG   0  3  3    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  12:07 
+Marcus Pettersson (PIT) hooking against Gabriel Vilardi (2 minutes)
+   0-0
+P1  00:21 
+Colin Miller (WPG) slashing against Rickard Rakell (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:30 
+Kevin Hayes (PIT) scores power-play goal on snap shot past Eric Comrie, assisted by Rickard Rakell and Jesse Puljujarvi
+   1-0
+P2  14:39 
+Lars Eller (PIT) scores on backhand shot past Eric Comrie, assisted by Erik Karlsson and Cody Glass
+   2-0
+P2  07:42 
+Kyle Connor (WPG) scores goal with extra attacker on snap shot past Alex Nedeljkovic, assisted by Nikolaj Ehlers and Colin Miller
+   2-1
+P2  02:24 
+Mark Scheifele (WPG) scores on snap shot past Alex Nedeljkovic, assisted by Colin Miller and Logan Stanley
+   2-2
+P2  01:47 
+Adam Lowry (WPG) roughing against Drew O'Connor (2 minutes)
+   2-2
+P2  01:47 
+Drew O'Connor (PIT) slashing against Eric Comrie (2 minutes)
+   2-2
+P2  00:31 
+Vladislav Namestnikov (WPG) scores on tip-in past Alex Nedeljkovic, assisted by Nikolaj Ehlers
+   2-3
+3rd Period: ShowHide
+P3  18:21 
+Lars Eller (PIT) scores on wrist shot past Eric Comrie
+   3-3
+P3  15:40 
+Adam Lowry (WPG) scores on backhand shot past Alex Nedeljkovic, assisted by Mason Appleton and Josh Morrissey
+   3-4
+P3  12:19 
+Mason Appleton (WPG) scores on wrist shot past Alex Nedeljkovic, assisted by Neal Pionk
+   3-5
+P3  02:30 
+Nino Niederreiter (WPG) scores on empty net, assisted by Josh Morrissey and Dylan DeMelo
+   3-6
+P3  00:55 
+Bryan Rust (PIT) holding against Morgan Barron (2 minutes)
+   3-6
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  13:17   0  0   -1   1   1   0   0   0 10/13Anthony Beauvillier L  13:40   0  0    2   3   1   0   0   0   0/0Sidney Crosby C  20:22   0  0   -3   5   0   0   0   1 13/23Lars Eller C  15:19   2  0    1   6   1   0   0   0  5/11Cody Glass C  15:18   0  1    2   3   1   0   0   0   2/3Kevin Hayes R  09:54   1  0   -1   2   0   0   0   1   2/5Evgeni Malkin C  16:06   0  0   -3   2   0   0   0   3   2/6Drew O'Connor L  17:50   0  0   -2   4   0   2   0   1   0/0Jesse Puljujarvi R  11:26   0  1   -1   2   0   0   0   0   0/1Valtteri Puustinen R  09:54   0  0   -1   0   2   0   0   0   0/0Rickard Rakell R  15:25   0  1   -2   1   2   0   1   0   0/0Bryan Rust R  17:41   0  0   -3   0   1   2   0   2   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:57   0  0   -1   2   0   0   1   0   0/0Matt Grzelcyk D  21:10   0  0   -2   4   1   0   0   0   0/0Erik Karlsson D  22:05   0  1   -1   1   0   0   1   3   0/0Kris Letang D  22:36   0  0   -3   3   1   0   0   1   0/0Marcus Pettersson D  21:33   0  0    0   1   0   2   0   1   0/0Ryan Shea D  15:11   0  0   -1   2   2   0   0   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       42  13   6   3  15 34/62
+                                        54.8%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  59:21   5  31/36  31/36   0/0   0/0     0
+              .861   .861 
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  16:06   1  1    3   3   3   0   0   4   1/1Morgan Barron C  11:14   0  0   -1   2   0   0   0   1   0/0Kyle Connor L  19:20   1  0    2   4   1   0   2   2   0/0Nikolaj Ehlers L  12:57   0  2    1   3   0   0   0   0   0/0David Gustafsson C  10:21   0  0   -1   2   0   0   0   0  3/10Alex Iafallo L  10:50   0  0   -1   1   2   0   0   0   0/0Adam Lowry C  15:22   1  0    3   2   0   2   0   2  7/17Vladislav Namestnikov C  14:07   1  0    1   1   1   0   0   0  7/11Nino Niederreiter R  16:20   1  0    3   5   3   0   0   0   0/1Cole Perfetti C  13:33   0  0    0   1   2   0   0   0   1/1Mark Scheifele C  20:36   1  0    1   2   1   0   0   2  9/21Gabriel Vilardi C  16:40   0  0    1   1   0   0   1   0   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:51   0  1    2   0   1   0   0   7   0/0Colin Miller D  15:24   0  2    1   2   0   2   0   1   0/0Josh Morrissey D  22:09   0  2    2   1   5   0   0   1   0/0Neal Pionk D  21:20   0  1    1   2   3   0   1   1   0/0Dylan Samberg D  21:14   0  0    1   3   0   0   0   2   0/0Logan Stanley D  16:52   0  1    1   2   3   0   0   1   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       37  25   4   4  24 28/62
+                                        45.2%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMEric Comrie G  59:53   3  39/42  36/38   3/4   0/0     0
+              .929   .947  .750
+Pittsburgh
+Penguins3-4-0Final3 - 6Winnipeg
+Jets5-0-0
+Pittsburgh
+Penguins3-4-0
+Final3 - 6
+Winnipeg
+Jets5-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+PIT   0  2  1    3  
+WPG   0  3  3    6
+1st Period: ShowHide
+P1  12:07 
+Marcus Pettersson (PIT) hooking against Gabriel Vilardi (2 minutes)
+   0-0
+P1  00:21 
+Colin Miller (WPG) slashing against Rickard Rakell (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  18:30 
+Kevin Hayes (PIT) scores power-play goal on snap shot past Eric Comrie, assisted by Rickard Rakell and Jesse Puljujarvi
+   1-0
+P2  14:39 
+Lars Eller (PIT) scores on backhand shot past Eric Comrie, assisted by Erik Karlsson and Cody Glass
+   2-0
+P2  07:42 
+Kyle Connor (WPG) scores goal with extra attacker on snap shot past Alex Nedeljkovic, assisted by Nikolaj Ehlers and Colin Miller
+   2-1
+P2  02:24 
+Mark Scheifele (WPG) scores on snap shot past Alex Nedeljkovic, assisted by Colin Miller and Logan Stanley
+   2-2
+P2  01:47 
+Adam Lowry (WPG) roughing against Drew O'Connor (2 minutes)
+   2-2
+P2  01:47 
+Drew O'Connor (PIT) slashing against Eric Comrie (2 minutes)
+   2-2
+P2  00:31 
+Vladislav Namestnikov (WPG) scores on tip-in past Alex Nedeljkovic, assisted by Nikolaj Ehlers
+   2-3
+3rd Period: ShowHide
+P3  18:21 
+Lars Eller (PIT) scores on wrist shot past Eric Comrie
+   3-3
+P3  15:40 
+Adam Lowry (WPG) scores on backhand shot past Alex Nedeljkovic, assisted by Mason Appleton and Josh Morrissey
+   3-4
+P3  12:19 
+Mason Appleton (WPG) scores on wrist shot past Alex Nedeljkovic, assisted by Neal Pionk
+   3-5
+P3  02:30 
+Nino Niederreiter (WPG) scores on empty net, assisted by Josh Morrissey and Dylan DeMelo
+   3-6
+P3  00:55 
+Bryan Rust (PIT) holding against Morgan Barron (2 minutes)
+   3-6
+1st Period: ShowHide
+P1  12:07 
+Marcus Pettersson (PIT) hooking against Gabriel Vilardi (2 minutes)
+   0-0
+P1  00:21 
+Colin Miller (WPG) slashing against Rickard Rakell (2 minutes)
+   0-0
+P1  12:07 
+Marcus Pettersson (PIT) hooking against Gabriel Vilardi (2 minutes)
+   0-0
+P1  00:21 
+Colin Miller (WPG) slashing against Rickard Rakell (2 minutes)
+   0-0
+P1  12:07
+Marcus Pettersson (PIT) hooking against Gabriel Vilardi (2 minutes)
+0-0
+P1  00:21
+Colin Miller (WPG) slashing against Rickard Rakell (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  18:30 
+Kevin Hayes (PIT) scores power-play goal on snap shot past Eric Comrie, assisted by Rickard Rakell and Jesse Puljujarvi
+   1-0
+P2  14:39 
+Lars Eller (PIT) scores on backhand shot past Eric Comrie, assisted by Erik Karlsson and Cody Glass
+   2-0
+P2  07:42 
+Kyle Connor (WPG) scores goal with extra attacker on snap shot past Alex Nedeljkovic, assisted by Nikolaj Ehlers and Colin Miller
+   2-1
+P2  02:24 
+Mark Scheifele (WPG) scores on snap shot past Alex Nedeljkovic, assisted by Colin Miller and Logan Stanley
+   2-2
+P2  01:47 
+Adam Lowry (WPG) roughing against Drew O'Connor (2 minutes)
+   2-2
+P2  01:47 
+Drew O'Connor (PIT) slashing against Eric Comrie (2 minutes)
+   2-2
+P2  00:31 
+Vladislav Namestnikov (WPG) scores on tip-in past Alex Nedeljkovic, assisted by Nikolaj Ehlers
+   2-3
+P2  18:30 
+Kevin Hayes (PIT) scores power-play goal on snap shot past Eric Comrie, assisted by Rickard Rakell and Jesse Puljujarvi
+   1-0
+P2  14:39 
+Lars Eller (PIT) scores on backhand shot past Eric Comrie, assisted by Erik Karlsson and Cody Glass
+   2-0
+P2  07:42 
+Kyle Connor (WPG) scores goal with extra attacker on snap shot past Alex Nedeljkovic, assisted by Nikolaj Ehlers and Colin Miller
+   2-1
+P2  02:24 
+Mark Scheifele (WPG) scores on snap shot past Alex Nedeljkovic, assisted by Colin Miller and Logan Stanley
+   2-2
+P2  01:47 
+Adam Lowry (WPG) roughing against Drew O'Connor (2 minutes)
+   2-2
+P2  01:47 
+Drew O'Connor (PIT) slashing against Eric Comrie (2 minutes)
+   2-2
+P2  00:31 
+Vladislav Namestnikov (WPG) scores on tip-in past Alex Nedeljkovic, assisted by Nikolaj Ehlers
+   2-3
+P2  18:30
+Kevin Hayes (PIT) scores power-play goal on snap shot past Eric Comrie, assisted by Rickard Rakell and Jesse Puljujarvi
+1-0
+P2  14:39
+Lars Eller (PIT) scores on backhand shot past Eric Comrie, assisted by Erik Karlsson and Cody Glass
+2-0
+P2  07:42
+Kyle Connor (WPG) scores goal with extra attacker on snap shot past Alex Nedeljkovic, assisted by Nikolaj Ehlers and Colin Miller
+2-1
+P2  02:24
+Mark Scheifele (WPG) scores on snap shot past Alex Nedeljkovic, assisted by Colin Miller and Logan Stanley
+2-2
+P2  01:47
+Adam Lowry (WPG) roughing against Drew O'Connor (2 minutes)
+2-2
+P2  01:47
+Drew O'Connor (PIT) slashing against Eric Comrie (2 minutes)
+2-2
+P2  00:31
+Vladislav Namestnikov (WPG) scores on tip-in past Alex Nedeljkovic, assisted by Nikolaj Ehlers
+2-3
+3rd Period: ShowHide
+P3  18:21 
+Lars Eller (PIT) scores on wrist shot past Eric Comrie
+   3-3
+P3  15:40 
+Adam Lowry (WPG) scores on backhand shot past Alex Nedeljkovic, assisted by Mason Appleton and Josh Morrissey
+   3-4
+P3  12:19 
+Mason Appleton (WPG) scores on wrist shot past Alex Nedeljkovic, assisted by Neal Pionk
+   3-5
+P3  02:30 
+Nino Niederreiter (WPG) scores on empty net, assisted by Josh Morrissey and Dylan DeMelo
+   3-6
+P3  00:55 
+Bryan Rust (PIT) holding against Morgan Barron (2 minutes)
+   3-6
+P3  18:21 
+Lars Eller (PIT) scores on wrist shot past Eric Comrie
+   3-3
+P3  15:40 
+Adam Lowry (WPG) scores on backhand shot past Alex Nedeljkovic, assisted by Mason Appleton and Josh Morrissey
+   3-4
+P3  12:19 
+Mason Appleton (WPG) scores on wrist shot past Alex Nedeljkovic, assisted by Neal Pionk
+   3-5
+P3  02:30 
+Nino Niederreiter (WPG) scores on empty net, assisted by Josh Morrissey and Dylan DeMelo
+   3-6
+P3  00:55 
+Bryan Rust (PIT) holding against Morgan Barron (2 minutes)
+   3-6
+P3  18:21
+Lars Eller (PIT) scores on wrist shot past Eric Comrie
+3-3
+P3  15:40
+Adam Lowry (WPG) scores on backhand shot past Alex Nedeljkovic, assisted by Mason Appleton and Josh Morrissey
+3-4
+P3  12:19
+Mason Appleton (WPG) scores on wrist shot past Alex Nedeljkovic, assisted by Neal Pionk
+3-5
+P3  02:30
+Nino Niederreiter (WPG) scores on empty net, assisted by Josh Morrissey and Dylan DeMelo
+3-6
+P3  00:55
+Bryan Rust (PIT) holding against Morgan Barron (2 minutes)
+3-6
+Box Score:
+ 
+Back to Top
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  13:17   0  0   -1   1   1   0   0   0 10/13Anthony Beauvillier L  13:40   0  0    2   3   1   0   0   0   0/0Sidney Crosby C  20:22   0  0   -3   5   0   0   0   1 13/23Lars Eller C  15:19   2  0    1   6   1   0   0   0  5/11Cody Glass C  15:18   0  1    2   3   1   0   0   0   2/3Kevin Hayes R  09:54   1  0   -1   2   0   0   0   1   2/5Evgeni Malkin C  16:06   0  0   -3   2   0   0   0   3   2/6Drew O'Connor L  17:50   0  0   -2   4   0   2   0   1   0/0Jesse Puljujarvi R  11:26   0  1   -1   2   0   0   0   0   0/1Valtteri Puustinen R  09:54   0  0   -1   0   2   0   0   0   0/0Rickard Rakell R  15:25   0  1   -2   1   2   0   1   0   0/0Bryan Rust R  17:41   0  0   -3   0   1   2   0   2   0/0Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:57   0  0   -1   2   0   0   1   0   0/0Matt Grzelcyk D  21:10   0  0   -2   4   1   0   0   0   0/0Erik Karlsson D  22:05   0  1   -1   1   0   0   1   3   0/0Kris Letang D  22:36   0  0   -3   3   1   0   0   1   0/0Marcus Pettersson D  21:33   0  0    0   1   0   2   0   1   0/0Ryan Shea D  15:11   0  0   -1   2   2   0   0   2   0/0Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       42  13   6   3  15 34/62
+                                        54.8%Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  59:21   5  31/36  31/36   0/0   0/0     0
+              .861   .861 
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  16:06   1  1    3   3   3   0   0   4   1/1Morgan Barron C  11:14   0  0   -1   2   0   0   0   1   0/0Kyle Connor L  19:20   1  0    2   4   1   0   2   2   0/0Nikolaj Ehlers L  12:57   0  2    1   3   0   0   0   0   0/0David Gustafsson C  10:21   0  0   -1   2   0   0   0   0  3/10Alex Iafallo L  10:50   0  0   -1   1   2   0   0   0   0/0Adam Lowry C  15:22   1  0    3   2   0   2   0   2  7/17Vladislav Namestnikov C  14:07   1  0    1   1   1   0   0   0  7/11Nino Niederreiter R  16:20   1  0    3   5   3   0   0   0   0/1Cole Perfetti C  13:33   0  0    0   1   2   0   0   0   1/1Mark Scheifele C  20:36   1  0    1   2   1   0   0   2  9/21Gabriel Vilardi C  16:40   0  0    1   1   0   0   1   0   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:51   0  1    2   0   1   0   0   7   0/0Colin Miller D  15:24   0  2    1   2   0   2   0   1   0/0Josh Morrissey D  22:09   0  2    2   1   5   0   0   1   0/0Neal Pionk D  21:20   0  1    1   2   3   0   1   1   0/0Dylan Samberg D  21:14   0  0    1   3   0   0   0   2   0/0Logan Stanley D  16:52   0  1    1   2   3   0   0   1   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       37  25   4   4  24 28/62
+                                        45.2%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMEric Comrie G  59:53   3  39/42  36/38   3/4   0/0     0
+              .929   .947  .750
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONoel Acciari C  13:17   0  0   -1   1   1   0   0   0 10/13Anthony Beauvillier L  13:40   0  0    2   3   1   0   0   0   0/0Sidney Crosby C  20:22   0  0   -3   5   0   0   0   1 13/23Lars Eller C  15:19   2  0    1   6   1   0   0   0  5/11Cody Glass C  15:18   0  1    2   3   1   0   0   0   2/3Kevin Hayes R  09:54   1  0   -1   2   0   0   0   1   2/5Evgeni Malkin C  16:06   0  0   -3   2   0   0   0   3   2/6Drew O'Connor L  17:50   0  0   -2   4   0   2   0   1   0/0Jesse Puljujarvi R  11:26   0  1   -1   2   0   0   0   0   0/1Valtteri Puustinen R  09:54   0  0   -1   0   2   0   0   0   0/0Rickard Rakell R  15:25   0  1   -2   1   2   0   1   0   0/0Bryan Rust R  17:41   0  0   -3   0   1   2   0   2   0/0
+Penguins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Noel Acciari C
+13:17   0  0   -1   1   1   0   0   0 10/13
+Anthony Beauvillier L
+13:40   0  0    2   3   1   0   0   0   0/0
+Sidney Crosby C
+20:22   0  0   -3   5   0   0   0   1 13/23
+Lars Eller C
+15:19   2  0    1   6   1   0   0   0  5/11
+Cody Glass C
+15:18   0  1    2   3   1   0   0   0   2/3
+Kevin Hayes R
+09:54   1  0   -1   2   0   0   0   1   2/5
+Evgeni Malkin C
+16:06   0  0   -3   2   0   0   0   3   2/6
+Drew O'Connor L
+17:50   0  0   -2   4   0   2   0   1   0/0
+Jesse Puljujarvi R
+11:26   0  1   -1   2   0   0   0   0   0/1
+Valtteri Puustinen R
+09:54   0  0   -1   0   2   0   0   0   0/0
+Rickard Rakell R
+15:25   0  1   -2   1   2   0   1   0   0/0
+Bryan Rust R
+17:41   0  0   -3   0   1   2   0   2   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORyan Graves D  16:57   0  0   -1   2   0   0   1   0   0/0Matt Grzelcyk D  21:10   0  0   -2   4   1   0   0   0   0/0Erik Karlsson D  22:05   0  1   -1   1   0   0   1   3   0/0Kris Letang D  22:36   0  0   -3   3   1   0   0   1   0/0Marcus Pettersson D  21:33   0  0    0   1   0   2   0   1   0/0Ryan Shea D  15:11   0  0   -1   2   2   0   0   2   0/0
+Penguins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ryan Graves D
+16:57   0  0   -1   2   0   0   1   0   0/0
+Matt Grzelcyk D
+21:10   0  0   -2   4   1   0   0   0   0/0
+Erik Karlsson D
+22:05   0  1   -1   1   0   0   1   3   0/0
+Kris Letang D
+22:36   0  0   -3   3   1   0   0   1   0/0
+Marcus Pettersson D
+21:33   0  0    0   1   0   2   0   1   0/0
+Ryan Shea D
+15:11   0  0   -1   2   2   0   0   2   0/0
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO          3  4       42  13   6   3  15 34/62
+                                        54.8%
+Penguins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Nedeljkovic G  59:21   5  31/36  31/36   0/0   0/0     0
+              .861   .861
+Penguins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Nedeljkovic G
+59:21   5  31/36  31/36   0/0   0/0     0
+              .861   .861
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  16:06   1  1    3   3   3   0   0   4   1/1Morgan Barron C  11:14   0  0   -1   2   0   0   0   1   0/0Kyle Connor L  19:20   1  0    2   4   1   0   2   2   0/0Nikolaj Ehlers L  12:57   0  2    1   3   0   0   0   0   0/0David Gustafsson C  10:21   0  0   -1   2   0   0   0   0  3/10Alex Iafallo L  10:50   0  0   -1   1   2   0   0   0   0/0Adam Lowry C  15:22   1  0    3   2   0   2   0   2  7/17Vladislav Namestnikov C  14:07   1  0    1   1   1   0   0   0  7/11Nino Niederreiter R  16:20   1  0    3   5   3   0   0   0   0/1Cole Perfetti C  13:33   0  0    0   1   2   0   0   0   1/1Mark Scheifele C  20:36   1  0    1   2   1   0   0   2  9/21Gabriel Vilardi C  16:40   0  0    1   1   0   0   1   0   0/0
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mason Appleton C
+16:06   1  1    3   3   3   0   0   4   1/1
+Morgan Barron C
+11:14   0  0   -1   2   0   0   0   1   0/0
+Kyle Connor L
+19:20   1  0    2   4   1   0   2   2   0/0
+Nikolaj Ehlers L
+12:57   0  2    1   3   0   0   0   0   0/0
+David Gustafsson C
+10:21   0  0   -1   2   0   0   0   0  3/10
+Alex Iafallo L
+10:50   0  0   -1   1   2   0   0   0   0/0
+Adam Lowry C
+15:22   1  0    3   2   0   2   0   2  7/17
+Vladislav Namestnikov C
+14:07   1  0    1   1   1   0   0   0  7/11
+Nino Niederreiter R
+16:20   1  0    3   5   3   0   0   0   0/1
+Cole Perfetti C
+13:33   0  0    0   1   2   0   0   0   1/1
+Mark Scheifele C
+20:36   1  0    1   2   1   0   0   2  9/21
+Gabriel Vilardi C
+16:40   0  0    1   1   0   0   1   0   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  21:51   0  1    2   0   1   0   0   7   0/0Colin Miller D  15:24   0  2    1   2   0   2   0   1   0/0Josh Morrissey D  22:09   0  2    2   1   5   0   0   1   0/0Neal Pionk D  21:20   0  1    1   2   3   0   1   1   0/0Dylan Samberg D  21:14   0  0    1   3   0   0   0   2   0/0Logan Stanley D  16:52   0  1    1   2   3   0   0   1   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dylan DeMelo D
+21:51   0  1    2   0   1   0   0   7   0/0
+Colin Miller D
+15:24   0  2    1   2   0   2   0   1   0/0
+Josh Morrissey D
+22:09   0  2    2   1   5   0   0   1   0/0
+Neal Pionk D
+21:20   0  1    1   2   3   0   1   1   0/0
+Dylan Samberg D
+21:14   0  0    1   3   0   0   0   2   0/0
+Logan Stanley D
+16:52   0  1    1   2   3   0   0   1   0/0
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          6 10       37  25   4   4  24 28/62
+                                        45.2%
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMEric Comrie G  59:53   3  39/42  36/38   3/4   0/0     0
+              .929   .947  .750
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Eric Comrie G
+59:53   3  39/42  36/38   3/4   0/0     0
+              .929   .947  .750
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

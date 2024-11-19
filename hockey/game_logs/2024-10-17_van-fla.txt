@@ -1,0 +1,370 @@
+< Oct. 17 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Vancouver
+Canucks1-1-2Final/OT3 - 2Florida
+Panthers3-2-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+VAN   1  1  0  1    3  
+FLA   1  1  0  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:18 
+Teddy Blueger (VAN) scores on backhand shot past Sergei Bobrovsky, assisted by Kiefer Sherwood and Jake DeBrusk
+   1-0
+P1  08:07 
+Jesper Boqvist (FLA) scores on wrist shot past Kevin Lankinen, assisted by Mackie Samoskevich and Gustav Forsling
+   1-1
+P1  03:13 
+Carter Verhaeghe (FLA) slashing against Vincent Desharnais (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  13:30 
+Quinn Hughes (VAN) scores on slap shot past Sergei Bobrovsky, assisted by Danton Heinen and Nils Aman
+   2-1
+P2  13:30 
+FLA penalty, delaying game - unsuccessful challenge (2 minutes), served by Uvis Balinskis
+   2-1
+P2  10:47 
+Uvis Balinskis (FLA) fighting against Teddy Blueger (5 minutes)
+   2-1
+P2  10:47 
+Teddy Blueger (VAN) fighting against Uvis Balinskis (5 minutes)
+   2-1
+P2  02:01 
+Filip Hronek (VAN) cross-checking against Eetu Luostarinen (2 minutes)
+   2-1
+P2  01:00 
+Anton Lundell (FLA) scores power-play goal on snap shot past Kevin Lankinen, assisted by Carter Verhaeghe and Sam Reinhart
+   2-2
+3rd Period: No goals or penalties.
+Overtime: ShowHide
+OT  03:09 
+Evan Rodrigues (FLA) roughing against Jake DeBrusk (2 minutes)
+   2-2
+OT  03:09 
+Jake DeBrusk (VAN) roughing against Evan Rodrigues (2 minutes)
+   2-2
+OT  02:51 
+J.T. Miller (VAN) scores on wrist shot past Sergei Bobrovsky, assisted by Quinn Hughes and Brock Boeser
+   3-2
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONils Aman C  09:26   0  1    0   1   0   0   0   0   3/7Arshdeep Bains L  14:30   0  0    0   0   1   0   0   1   0/0Teddy Blueger C  12:38   1  0    1   1   0   5   0   1  5/11Brock Boeser R  20:23   0  1    1   5   1   0   0   2   0/0Jake DeBrusk L  16:31   0  1    1   3   0   2   0   0   0/1Conor Garland R  20:25   0  0    0   1   1   0   0   1   0/0Danton Heinen L  10:03   0  1    0   0   0   0   0   0   0/1Nils Hoglander L  18:11   0  0    0   1   1   0   0   0   0/0J.T. Miller C  20:50   1  0    1   3   0   0   1   1 13/23Elias Pettersson C  20:15   0  0    0   1   4   0   0   2  7/15Kiefer Sherwood L  12:57   0  1    1   1   1   0   0   0   0/0Pius Suter C  10:57   0  0    0   1   0   0   0   1   2/3Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  11:49   0  0    0   1   0   0   0   0   0/0Vincent Desharnais D  12:21   0  0    1   1   1   0   0   0   0/0Filip Hronek D  26:17   0  0    0   2   3   2   0   2   0/0Quinn Hughes D  26:58   1  1    1   9   2   0   0   0   0/0Tyler Myers D  21:02   0  0    1   1   2   0   1   0   0/0Carson Soucy D  19:53   0  0    0   1   2   0   0   2   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       33  19   9   2  13 30/61
+                                        49.2%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  62:09   2  26/28  26/27   0/1   0/0     0
+              .929   .963  .000 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  19:26   0  0   -1   1   2   0   0   0  6/14Jesper Boqvist C  16:44   1  0    1   1   0   0   0   0  6/12Jonah Gadjovich L  02:06   0  0   -1   0   0   0   0   0   0/0Patrick Giles R  04:15   0  0   -1   0   0   0   0   0   2/4A.J. Greer L  16:04   0  0    1   2   0   0   0   0   2/2Anton Lundell C  22:42   1  0   -1   4   0   0   0   1 12/19Eetu Luostarinen C  19:02   0  0    0   2   0   0   0   2   0/0Sam Reinhart C  22:13   0  1   -1   2   2   0   0   1   2/4Evan Rodrigues C  20:44   0  0   -1   5   0   2   0   0   1/5Mackie Samoskevich R  14:03   0  1    0   3   0   0   0   1   0/0Carter Verhaeghe C  22:14   0  1   -1   3   2   2   0   1   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  03:53   0  0   -1   0   0   5   0   0   0/1Adam Boqvist D  13:06   0  0   -2   0   0   0   0   0   0/0Aaron Ekblad D  22:35   0  0    1   0   1   0   0   0   0/0Gustav Forsling D  22:44   0  1    1   2   1   0   0   1   0/0Dmitry Kulikov D  23:32   0  0    0   1   1   0   0   0   0/0Niko Mikkola D  23:20   0  0    0   1   1   0   0   0   0/0Nate Schmidt D  13:44   0  0   -2   1   1   0   0   0   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       28  11   9   0   7 31/61
+                                        50.8%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  62:09   3  30/33  29/32   1/1   0/0     0
+              .909   .906 1.000
+Vancouver
+Canucks1-1-2Final/OT3 - 2Florida
+Panthers3-2-1
+Vancouver
+Canucks1-1-2
+Final/OT3 - 2
+Florida
+Panthers3-2-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+VAN   1  1  0  1    3  
+FLA   1  1  0  0    2
+1st Period: ShowHide
+P1  08:18 
+Teddy Blueger (VAN) scores on backhand shot past Sergei Bobrovsky, assisted by Kiefer Sherwood and Jake DeBrusk
+   1-0
+P1  08:07 
+Jesper Boqvist (FLA) scores on wrist shot past Kevin Lankinen, assisted by Mackie Samoskevich and Gustav Forsling
+   1-1
+P1  03:13 
+Carter Verhaeghe (FLA) slashing against Vincent Desharnais (2 minutes)
+   1-1
+2nd Period: ShowHide
+P2  13:30 
+Quinn Hughes (VAN) scores on slap shot past Sergei Bobrovsky, assisted by Danton Heinen and Nils Aman
+   2-1
+P2  13:30 
+FLA penalty, delaying game - unsuccessful challenge (2 minutes), served by Uvis Balinskis
+   2-1
+P2  10:47 
+Uvis Balinskis (FLA) fighting against Teddy Blueger (5 minutes)
+   2-1
+P2  10:47 
+Teddy Blueger (VAN) fighting against Uvis Balinskis (5 minutes)
+   2-1
+P2  02:01 
+Filip Hronek (VAN) cross-checking against Eetu Luostarinen (2 minutes)
+   2-1
+P2  01:00 
+Anton Lundell (FLA) scores power-play goal on snap shot past Kevin Lankinen, assisted by Carter Verhaeghe and Sam Reinhart
+   2-2
+3rd Period: No goals or penalties.
+Overtime: ShowHide
+OT  03:09 
+Evan Rodrigues (FLA) roughing against Jake DeBrusk (2 minutes)
+   2-2
+OT  03:09 
+Jake DeBrusk (VAN) roughing against Evan Rodrigues (2 minutes)
+   2-2
+OT  02:51 
+J.T. Miller (VAN) scores on wrist shot past Sergei Bobrovsky, assisted by Quinn Hughes and Brock Boeser
+   3-2
+1st Period: ShowHide
+P1  08:18 
+Teddy Blueger (VAN) scores on backhand shot past Sergei Bobrovsky, assisted by Kiefer Sherwood and Jake DeBrusk
+   1-0
+P1  08:07 
+Jesper Boqvist (FLA) scores on wrist shot past Kevin Lankinen, assisted by Mackie Samoskevich and Gustav Forsling
+   1-1
+P1  03:13 
+Carter Verhaeghe (FLA) slashing against Vincent Desharnais (2 minutes)
+   1-1
+P1  08:18 
+Teddy Blueger (VAN) scores on backhand shot past Sergei Bobrovsky, assisted by Kiefer Sherwood and Jake DeBrusk
+   1-0
+P1  08:07 
+Jesper Boqvist (FLA) scores on wrist shot past Kevin Lankinen, assisted by Mackie Samoskevich and Gustav Forsling
+   1-1
+P1  03:13 
+Carter Verhaeghe (FLA) slashing against Vincent Desharnais (2 minutes)
+   1-1
+P1  08:18
+Teddy Blueger (VAN) scores on backhand shot past Sergei Bobrovsky, assisted by Kiefer Sherwood and Jake DeBrusk
+1-0
+P1  08:07
+Jesper Boqvist (FLA) scores on wrist shot past Kevin Lankinen, assisted by Mackie Samoskevich and Gustav Forsling
+1-1
+P1  03:13
+Carter Verhaeghe (FLA) slashing against Vincent Desharnais (2 minutes)
+1-1
+2nd Period: ShowHide
+P2  13:30 
+Quinn Hughes (VAN) scores on slap shot past Sergei Bobrovsky, assisted by Danton Heinen and Nils Aman
+   2-1
+P2  13:30 
+FLA penalty, delaying game - unsuccessful challenge (2 minutes), served by Uvis Balinskis
+   2-1
+P2  10:47 
+Uvis Balinskis (FLA) fighting against Teddy Blueger (5 minutes)
+   2-1
+P2  10:47 
+Teddy Blueger (VAN) fighting against Uvis Balinskis (5 minutes)
+   2-1
+P2  02:01 
+Filip Hronek (VAN) cross-checking against Eetu Luostarinen (2 minutes)
+   2-1
+P2  01:00 
+Anton Lundell (FLA) scores power-play goal on snap shot past Kevin Lankinen, assisted by Carter Verhaeghe and Sam Reinhart
+   2-2
+P2  13:30 
+Quinn Hughes (VAN) scores on slap shot past Sergei Bobrovsky, assisted by Danton Heinen and Nils Aman
+   2-1
+P2  13:30 
+FLA penalty, delaying game - unsuccessful challenge (2 minutes), served by Uvis Balinskis
+   2-1
+P2  10:47 
+Uvis Balinskis (FLA) fighting against Teddy Blueger (5 minutes)
+   2-1
+P2  10:47 
+Teddy Blueger (VAN) fighting against Uvis Balinskis (5 minutes)
+   2-1
+P2  02:01 
+Filip Hronek (VAN) cross-checking against Eetu Luostarinen (2 minutes)
+   2-1
+P2  01:00 
+Anton Lundell (FLA) scores power-play goal on snap shot past Kevin Lankinen, assisted by Carter Verhaeghe and Sam Reinhart
+   2-2
+P2  13:30
+Quinn Hughes (VAN) scores on slap shot past Sergei Bobrovsky, assisted by Danton Heinen and Nils Aman
+2-1
+P2  13:30
+FLA penalty, delaying game - unsuccessful challenge (2 minutes), served by Uvis Balinskis
+2-1
+P2  10:47
+Uvis Balinskis (FLA) fighting against Teddy Blueger (5 minutes)
+2-1
+P2  10:47
+Teddy Blueger (VAN) fighting against Uvis Balinskis (5 minutes)
+2-1
+P2  02:01
+Filip Hronek (VAN) cross-checking against Eetu Luostarinen (2 minutes)
+2-1
+P2  01:00
+Anton Lundell (FLA) scores power-play goal on snap shot past Kevin Lankinen, assisted by Carter Verhaeghe and Sam Reinhart
+2-2
+3rd Period: No goals or penalties.
+Overtime: ShowHide
+OT  03:09 
+Evan Rodrigues (FLA) roughing against Jake DeBrusk (2 minutes)
+   2-2
+OT  03:09 
+Jake DeBrusk (VAN) roughing against Evan Rodrigues (2 minutes)
+   2-2
+OT  02:51 
+J.T. Miller (VAN) scores on wrist shot past Sergei Bobrovsky, assisted by Quinn Hughes and Brock Boeser
+   3-2
+OT  03:09 
+Evan Rodrigues (FLA) roughing against Jake DeBrusk (2 minutes)
+   2-2
+OT  03:09 
+Jake DeBrusk (VAN) roughing against Evan Rodrigues (2 minutes)
+   2-2
+OT  02:51 
+J.T. Miller (VAN) scores on wrist shot past Sergei Bobrovsky, assisted by Quinn Hughes and Brock Boeser
+   3-2
+OT  03:09
+Evan Rodrigues (FLA) roughing against Jake DeBrusk (2 minutes)
+2-2
+OT  03:09
+Jake DeBrusk (VAN) roughing against Evan Rodrigues (2 minutes)
+2-2
+OT  02:51
+J.T. Miller (VAN) scores on wrist shot past Sergei Bobrovsky, assisted by Quinn Hughes and Brock Boeser
+3-2
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONils Aman C  09:26   0  1    0   1   0   0   0   0   3/7Arshdeep Bains L  14:30   0  0    0   0   1   0   0   1   0/0Teddy Blueger C  12:38   1  0    1   1   0   5   0   1  5/11Brock Boeser R  20:23   0  1    1   5   1   0   0   2   0/0Jake DeBrusk L  16:31   0  1    1   3   0   2   0   0   0/1Conor Garland R  20:25   0  0    0   1   1   0   0   1   0/0Danton Heinen L  10:03   0  1    0   0   0   0   0   0   0/1Nils Hoglander L  18:11   0  0    0   1   1   0   0   0   0/0J.T. Miller C  20:50   1  0    1   3   0   0   1   1 13/23Elias Pettersson C  20:15   0  0    0   1   4   0   0   2  7/15Kiefer Sherwood L  12:57   0  1    1   1   1   0   0   0   0/0Pius Suter C  10:57   0  0    0   1   0   0   0   1   2/3Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  11:49   0  0    0   1   0   0   0   0   0/0Vincent Desharnais D  12:21   0  0    1   1   1   0   0   0   0/0Filip Hronek D  26:17   0  0    0   2   3   2   0   2   0/0Quinn Hughes D  26:58   1  1    1   9   2   0   0   0   0/0Tyler Myers D  21:02   0  0    1   1   2   0   1   0   0/0Carson Soucy D  19:53   0  0    0   1   2   0   0   2   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       33  19   9   2  13 30/61
+                                        49.2%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  62:09   2  26/28  26/27   0/1   0/0     0
+              .929   .963  .000 
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  19:26   0  0   -1   1   2   0   0   0  6/14Jesper Boqvist C  16:44   1  0    1   1   0   0   0   0  6/12Jonah Gadjovich L  02:06   0  0   -1   0   0   0   0   0   0/0Patrick Giles R  04:15   0  0   -1   0   0   0   0   0   2/4A.J. Greer L  16:04   0  0    1   2   0   0   0   0   2/2Anton Lundell C  22:42   1  0   -1   4   0   0   0   1 12/19Eetu Luostarinen C  19:02   0  0    0   2   0   0   0   2   0/0Sam Reinhart C  22:13   0  1   -1   2   2   0   0   1   2/4Evan Rodrigues C  20:44   0  0   -1   5   0   2   0   0   1/5Mackie Samoskevich R  14:03   0  1    0   3   0   0   0   1   0/0Carter Verhaeghe C  22:14   0  1   -1   3   2   2   0   1   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  03:53   0  0   -1   0   0   5   0   0   0/1Adam Boqvist D  13:06   0  0   -2   0   0   0   0   0   0/0Aaron Ekblad D  22:35   0  0    1   0   1   0   0   0   0/0Gustav Forsling D  22:44   0  1    1   2   1   0   0   1   0/0Dmitry Kulikov D  23:32   0  0    0   1   1   0   0   0   0/0Niko Mikkola D  23:20   0  0    0   1   1   0   0   0   0/0Nate Schmidt D  13:44   0  0   -2   1   1   0   0   0   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       28  11   9   0   7 31/61
+                                        50.8%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  62:09   3  30/33  29/32   1/1   0/0     0
+              .909   .906 1.000
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONils Aman C  09:26   0  1    0   1   0   0   0   0   3/7Arshdeep Bains L  14:30   0  0    0   0   1   0   0   1   0/0Teddy Blueger C  12:38   1  0    1   1   0   5   0   1  5/11Brock Boeser R  20:23   0  1    1   5   1   0   0   2   0/0Jake DeBrusk L  16:31   0  1    1   3   0   2   0   0   0/1Conor Garland R  20:25   0  0    0   1   1   0   0   1   0/0Danton Heinen L  10:03   0  1    0   0   0   0   0   0   0/1Nils Hoglander L  18:11   0  0    0   1   1   0   0   0   0/0J.T. Miller C  20:50   1  0    1   3   0   0   1   1 13/23Elias Pettersson C  20:15   0  0    0   1   4   0   0   2  7/15Kiefer Sherwood L  12:57   0  1    1   1   1   0   0   0   0/0Pius Suter C  10:57   0  0    0   1   0   0   0   1   2/3
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nils Aman C
+09:26   0  1    0   1   0   0   0   0   3/7
+Arshdeep Bains L
+14:30   0  0    0   0   1   0   0   1   0/0
+Teddy Blueger C
+12:38   1  0    1   1   0   5   0   1  5/11
+Brock Boeser R
+20:23   0  1    1   5   1   0   0   2   0/0
+Jake DeBrusk L
+16:31   0  1    1   3   0   2   0   0   0/1
+Conor Garland R
+20:25   0  0    0   1   1   0   0   1   0/0
+Danton Heinen L
+10:03   0  1    0   0   0   0   0   0   0/1
+Nils Hoglander L
+18:11   0  0    0   1   1   0   0   0   0/0
+J.T. Miller C
+20:50   1  0    1   3   0   0   1   1 13/23
+Elias Pettersson C
+20:15   0  0    0   1   4   0   0   2  7/15
+Kiefer Sherwood L
+12:57   0  1    1   1   1   0   0   0   0/0
+Pius Suter C
+10:57   0  0    0   1   0   0   0   1   2/3
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Brannstrom D  11:49   0  0    0   1   0   0   0   0   0/0Vincent Desharnais D  12:21   0  0    1   1   1   0   0   0   0/0Filip Hronek D  26:17   0  0    0   2   3   2   0   2   0/0Quinn Hughes D  26:58   1  1    1   9   2   0   0   0   0/0Tyler Myers D  21:02   0  0    1   1   2   0   1   0   0/0Carson Soucy D  19:53   0  0    0   1   2   0   0   2   0/0
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Brannstrom D
+11:49   0  0    0   1   0   0   0   0   0/0
+Vincent Desharnais D
+12:21   0  0    1   1   1   0   0   0   0/0
+Filip Hronek D
+26:17   0  0    0   2   3   2   0   2   0/0
+Quinn Hughes D
+26:58   1  1    1   9   2   0   0   0   0/0
+Tyler Myers D
+21:02   0  0    1   1   2   0   1   0   0/0
+Carson Soucy D
+19:53   0  0    0   1   2   0   0   2   0/0
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       33  19   9   2  13 30/61
+                                        49.2%
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMKevin Lankinen G  62:09   2  26/28  26/27   0/1   0/0     0
+              .929   .963  .000
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Kevin Lankinen G
+62:09   2  26/28  26/27   0/1   0/0     0
+              .929   .963  .000
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  19:26   0  0   -1   1   2   0   0   0  6/14Jesper Boqvist C  16:44   1  0    1   1   0   0   0   0  6/12Jonah Gadjovich L  02:06   0  0   -1   0   0   0   0   0   0/0Patrick Giles R  04:15   0  0   -1   0   0   0   0   0   2/4A.J. Greer L  16:04   0  0    1   2   0   0   0   0   2/2Anton Lundell C  22:42   1  0   -1   4   0   0   0   1 12/19Eetu Luostarinen C  19:02   0  0    0   2   0   0   0   2   0/0Sam Reinhart C  22:13   0  1   -1   2   2   0   0   1   2/4Evan Rodrigues C  20:44   0  0   -1   5   0   2   0   0   1/5Mackie Samoskevich R  14:03   0  1    0   3   0   0   0   1   0/0Carter Verhaeghe C  22:14   0  1   -1   3   2   2   0   1   0/0
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Bennett C
+19:26   0  0   -1   1   2   0   0   0  6/14
+Jesper Boqvist C
+16:44   1  0    1   1   0   0   0   0  6/12
+Jonah Gadjovich L
+02:06   0  0   -1   0   0   0   0   0   0/0
+Patrick Giles R
+04:15   0  0   -1   0   0   0   0   0   2/4
+A.J. Greer L
+16:04   0  0    1   2   0   0   0   0   2/2
+Anton Lundell C
+22:42   1  0   -1   4   0   0   0   1 12/19
+Eetu Luostarinen C
+19:02   0  0    0   2   0   0   0   2   0/0
+Sam Reinhart C
+22:13   0  1   -1   2   2   0   0   1   2/4
+Evan Rodrigues C
+20:44   0  0   -1   5   0   2   0   0   1/5
+Mackie Samoskevich R
+14:03   0  1    0   3   0   0   0   1   0/0
+Carter Verhaeghe C
+22:14   0  1   -1   3   2   2   0   1   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  03:53   0  0   -1   0   0   5   0   0   0/1Adam Boqvist D  13:06   0  0   -2   0   0   0   0   0   0/0Aaron Ekblad D  22:35   0  0    1   0   1   0   0   0   0/0Gustav Forsling D  22:44   0  1    1   2   1   0   0   1   0/0Dmitry Kulikov D  23:32   0  0    0   1   1   0   0   0   0/0Niko Mikkola D  23:20   0  0    0   1   1   0   0   0   0/0Nate Schmidt D  13:44   0  0   -2   1   1   0   0   0   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+03:53   0  0   -1   0   0   5   0   0   0/1
+Adam Boqvist D
+13:06   0  0   -2   0   0   0   0   0   0/0
+Aaron Ekblad D
+22:35   0  0    1   0   1   0   0   0   0/0
+Gustav Forsling D
+22:44   0  1    1   2   1   0   0   1   0/0
+Dmitry Kulikov D
+23:32   0  0    0   1   1   0   0   0   0/0
+Niko Mikkola D
+23:20   0  0    0   1   1   0   0   0   0/0
+Nate Schmidt D
+13:44   0  0   -2   1   1   0   0   0   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       28  11   9   0   7 31/61
+                                        50.8%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSergei Bobrovsky G  62:09   3  30/33  29/32   1/1   0/0     0
+              .909   .906 1.000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Sergei Bobrovsky G
+62:09   3  30/33  29/32   1/1   0/0     0
+              .909   .906 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

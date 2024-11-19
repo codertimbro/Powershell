@@ -1,0 +1,370 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Boston
+Bruins3-2-1Final/OT1 - 2Utah
+Hockey Club4-1-1
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+BOS   0  1  0  0    1  
+UTA   0  0  1  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:41 
+Kevin Stenlund (UTA) tripping against Brad Marchand (2 minutes)
+   0-0
+P1  01:10 
+Charlie McAvoy (BOS) high-sticking against Matias Maccelli (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  16:57 
+Robert Bortuzzo (UTA) roughing against Mark Kastelic (2 minutes)
+   0-0
+P2  16:57 
+Mark Kastelic (BOS) roughing against Robert Bortuzzo (2 minutes)
+   0-0
+P2  12:16 
+Nikita Zadorov (BOS) hooking against Logan Cooley (2 minutes)
+   0-0
+P2  07:11 
+Cole Koepke (BOS) scores on snap shot past Connor Ingram, assisted by Brad Marchand
+   1-0
+P2  06:47 
+Vladislav Kolyachonok (UTA) interference against Cole Koepke (2 minutes)
+   1-0
+P2  00:49 
+Hampus Lindholm (BOS) tripping against Logan Cooley (2 minutes)
+   1-0
+3rd Period: ShowHide
+P3  16:43 
+Clayton Keller (UTA) hooking against Charlie Coyle (2 minutes)
+   1-0
+P3  05:09 
+Vladislav Kolyachonok (UTA) scores on backhand shot past Jeremy Swayman, assisted by Nick Schmaltz and Clayton Keller
+   1-1
+Overtime: ShowHide
+OT  04:18 
+David Pastrnak (BOS) tripping against Clayton Keller (2 minutes)
+   1-1
+OT  02:14 
+Michael Kesselring (UTA) scores on snap shot past Jeremy Swayman, assisted by Logan Cooley and Matias Maccelli
+   1-2
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:41   0  0    0   2   2   0   0   2  5/11Justin Brazeau R  11:15   0  0    0   0   0   0   0   0   0/0Charlie Coyle C  17:39   0  0    0   0   1   0   0   0  4/11Trent Frederic C  13:52   0  0    0   1   0   0   0   0   1/1Morgan Geekie C  12:43   0  0    0   1   0   0   0   4   2/2Mark Kastelic C  12:41   0  0    0   1   2   2   0   0   3/5Cole Koepke L  12:31   1  0    1   5   0   0   0   1   0/0Elias Lindholm C  16:20   0  0   -1   0   3   0   0   0   4/9Brad Marchand L  18:06   0  1    1   1   1   0   0   1   0/0David Pastrnak R  19:51   0  0   -2   2   0   2   0   3   0/0Matthew Poitras C  12:19   0  0    0   1   1   0   2   3   0/1Pavel Zacha C  19:17   0  0   -1   4   0   0   0   0   4/9Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:16   0  0   -1   0   4   0   0   1   0/0Hampus Lindholm D  21:57   0  0   -1   2   0   2   0   2   0/0Mason Lohrei D  18:15   0  0    0   2   1   0   1   3   0/0Charlie McAvoy D  23:48   0  0    0   0   3   2   0   0   0/0Andrew Peeke D  18:39   0  0    0   0   1   0   0   1   0/0Nikita Zadorov D  20:21   0  0    0   1   1   2   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       23  20  10   3  22 23/49
+                                        46.9%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:37   2  30/32  22/24   6/6   2/2     0
+              .938   .917 1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  15:20   0  1    1   2   0   0   0   0   5/9Lawson Crouse L  14:19   0  0   -1   3   2   0   0   0   0/0Josh Doan R  11:54   0  0   -1   1   0   0   0   2   0/3Dylan Guenther R  20:44   0  0    0   2   1   0   1   0   0/1Barrett Hayton C  17:37   0  0    2   1   1   0   1   1   5/9Clayton Keller R  21:19   0  1    1   2   0   2   0   2   0/1Alexander Kerfoot C  13:41   0  0   -1   2   1   0   0   1  6/10Matias Maccelli L  12:21   0  1    1   3   0   0   0   0   0/0Jack McBain C  12:54   0  0    0   2   0   0   0   0   1/3Nick Schmaltz C  21:45   0  1    1   2   0   0   0   2   4/5Kevin Stenlund C  12:29   0  0    0   0   0   2   0   0   5/8Kailer Yamamoto R  11:01   0  0    0   0   0   0   0   0   0/0Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  10:46   0  0    0   0   1   2   0   0   0/0Ian Cole D  19:26   0  0    1   2   0   0   0   1   0/0Michael Kesselring D  21:50   1  0    1   2   1   0   0   1   0/0Vladislav Kolyachonok D  15:54   1  0    1   2   1   2   0   3   0/0Mikhail Sergachev D  28:09   0  0   -1   4   1   0   0   3   0/0Juuso Valimaki D  21:16   0  0   -1   2   1   0   0   1   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       32  10   8   2  17 26/49
+                                        53.1%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:23   1  22/23  15/16   6/6   1/1     0
+              .957   .938 1.000 1.000
+Boston
+Bruins3-2-1Final/OT1 - 2Utah
+Hockey Club4-1-1
+Boston
+Bruins3-2-1
+Final/OT1 - 2
+Utah
+Hockey Club4-1-1
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+BOS   0  1  0  0    1  
+UTA   0  0  1  1    2
+1st Period: ShowHide
+P1  13:41 
+Kevin Stenlund (UTA) tripping against Brad Marchand (2 minutes)
+   0-0
+P1  01:10 
+Charlie McAvoy (BOS) high-sticking against Matias Maccelli (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  16:57 
+Robert Bortuzzo (UTA) roughing against Mark Kastelic (2 minutes)
+   0-0
+P2  16:57 
+Mark Kastelic (BOS) roughing against Robert Bortuzzo (2 minutes)
+   0-0
+P2  12:16 
+Nikita Zadorov (BOS) hooking against Logan Cooley (2 minutes)
+   0-0
+P2  07:11 
+Cole Koepke (BOS) scores on snap shot past Connor Ingram, assisted by Brad Marchand
+   1-0
+P2  06:47 
+Vladislav Kolyachonok (UTA) interference against Cole Koepke (2 minutes)
+   1-0
+P2  00:49 
+Hampus Lindholm (BOS) tripping against Logan Cooley (2 minutes)
+   1-0
+3rd Period: ShowHide
+P3  16:43 
+Clayton Keller (UTA) hooking against Charlie Coyle (2 minutes)
+   1-0
+P3  05:09 
+Vladislav Kolyachonok (UTA) scores on backhand shot past Jeremy Swayman, assisted by Nick Schmaltz and Clayton Keller
+   1-1
+Overtime: ShowHide
+OT  04:18 
+David Pastrnak (BOS) tripping against Clayton Keller (2 minutes)
+   1-1
+OT  02:14 
+Michael Kesselring (UTA) scores on snap shot past Jeremy Swayman, assisted by Logan Cooley and Matias Maccelli
+   1-2
+1st Period: ShowHide
+P1  13:41 
+Kevin Stenlund (UTA) tripping against Brad Marchand (2 minutes)
+   0-0
+P1  01:10 
+Charlie McAvoy (BOS) high-sticking against Matias Maccelli (2 minutes)
+   0-0
+P1  13:41 
+Kevin Stenlund (UTA) tripping against Brad Marchand (2 minutes)
+   0-0
+P1  01:10 
+Charlie McAvoy (BOS) high-sticking against Matias Maccelli (2 minutes)
+   0-0
+P1  13:41
+Kevin Stenlund (UTA) tripping against Brad Marchand (2 minutes)
+0-0
+P1  01:10
+Charlie McAvoy (BOS) high-sticking against Matias Maccelli (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  16:57 
+Robert Bortuzzo (UTA) roughing against Mark Kastelic (2 minutes)
+   0-0
+P2  16:57 
+Mark Kastelic (BOS) roughing against Robert Bortuzzo (2 minutes)
+   0-0
+P2  12:16 
+Nikita Zadorov (BOS) hooking against Logan Cooley (2 minutes)
+   0-0
+P2  07:11 
+Cole Koepke (BOS) scores on snap shot past Connor Ingram, assisted by Brad Marchand
+   1-0
+P2  06:47 
+Vladislav Kolyachonok (UTA) interference against Cole Koepke (2 minutes)
+   1-0
+P2  00:49 
+Hampus Lindholm (BOS) tripping against Logan Cooley (2 minutes)
+   1-0
+P2  16:57 
+Robert Bortuzzo (UTA) roughing against Mark Kastelic (2 minutes)
+   0-0
+P2  16:57 
+Mark Kastelic (BOS) roughing against Robert Bortuzzo (2 minutes)
+   0-0
+P2  12:16 
+Nikita Zadorov (BOS) hooking against Logan Cooley (2 minutes)
+   0-0
+P2  07:11 
+Cole Koepke (BOS) scores on snap shot past Connor Ingram, assisted by Brad Marchand
+   1-0
+P2  06:47 
+Vladislav Kolyachonok (UTA) interference against Cole Koepke (2 minutes)
+   1-0
+P2  00:49 
+Hampus Lindholm (BOS) tripping against Logan Cooley (2 minutes)
+   1-0
+P2  16:57
+Robert Bortuzzo (UTA) roughing against Mark Kastelic (2 minutes)
+0-0
+P2  16:57
+Mark Kastelic (BOS) roughing against Robert Bortuzzo (2 minutes)
+0-0
+P2  12:16
+Nikita Zadorov (BOS) hooking against Logan Cooley (2 minutes)
+0-0
+P2  07:11
+Cole Koepke (BOS) scores on snap shot past Connor Ingram, assisted by Brad Marchand
+1-0
+P2  06:47
+Vladislav Kolyachonok (UTA) interference against Cole Koepke (2 minutes)
+1-0
+P2  00:49
+Hampus Lindholm (BOS) tripping against Logan Cooley (2 minutes)
+1-0
+3rd Period: ShowHide
+P3  16:43 
+Clayton Keller (UTA) hooking against Charlie Coyle (2 minutes)
+   1-0
+P3  05:09 
+Vladislav Kolyachonok (UTA) scores on backhand shot past Jeremy Swayman, assisted by Nick Schmaltz and Clayton Keller
+   1-1
+P3  16:43 
+Clayton Keller (UTA) hooking against Charlie Coyle (2 minutes)
+   1-0
+P3  05:09 
+Vladislav Kolyachonok (UTA) scores on backhand shot past Jeremy Swayman, assisted by Nick Schmaltz and Clayton Keller
+   1-1
+P3  16:43
+Clayton Keller (UTA) hooking against Charlie Coyle (2 minutes)
+1-0
+P3  05:09
+Vladislav Kolyachonok (UTA) scores on backhand shot past Jeremy Swayman, assisted by Nick Schmaltz and Clayton Keller
+1-1
+Overtime: ShowHide
+OT  04:18 
+David Pastrnak (BOS) tripping against Clayton Keller (2 minutes)
+   1-1
+OT  02:14 
+Michael Kesselring (UTA) scores on snap shot past Jeremy Swayman, assisted by Logan Cooley and Matias Maccelli
+   1-2
+OT  04:18 
+David Pastrnak (BOS) tripping against Clayton Keller (2 minutes)
+   1-1
+OT  02:14 
+Michael Kesselring (UTA) scores on snap shot past Jeremy Swayman, assisted by Logan Cooley and Matias Maccelli
+   1-2
+OT  04:18
+David Pastrnak (BOS) tripping against Clayton Keller (2 minutes)
+1-1
+OT  02:14
+Michael Kesselring (UTA) scores on snap shot past Jeremy Swayman, assisted by Logan Cooley and Matias Maccelli
+1-2
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:41   0  0    0   2   2   0   0   2  5/11Justin Brazeau R  11:15   0  0    0   0   0   0   0   0   0/0Charlie Coyle C  17:39   0  0    0   0   1   0   0   0  4/11Trent Frederic C  13:52   0  0    0   1   0   0   0   0   1/1Morgan Geekie C  12:43   0  0    0   1   0   0   0   4   2/2Mark Kastelic C  12:41   0  0    0   1   2   2   0   0   3/5Cole Koepke L  12:31   1  0    1   5   0   0   0   1   0/0Elias Lindholm C  16:20   0  0   -1   0   3   0   0   0   4/9Brad Marchand L  18:06   0  1    1   1   1   0   0   1   0/0David Pastrnak R  19:51   0  0   -2   2   0   2   0   3   0/0Matthew Poitras C  12:19   0  0    0   1   1   0   2   3   0/1Pavel Zacha C  19:17   0  0   -1   4   0   0   0   0   4/9Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:16   0  0   -1   0   4   0   0   1   0/0Hampus Lindholm D  21:57   0  0   -1   2   0   2   0   2   0/0Mason Lohrei D  18:15   0  0    0   2   1   0   1   3   0/0Charlie McAvoy D  23:48   0  0    0   0   3   2   0   0   0/0Andrew Peeke D  18:39   0  0    0   0   1   0   0   1   0/0Nikita Zadorov D  20:21   0  0    0   1   1   2   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       23  20  10   3  22 23/49
+                                        46.9%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:37   2  30/32  22/24   6/6   2/2     0
+              .938   .917 1.000 1.000 
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  15:20   0  1    1   2   0   0   0   0   5/9Lawson Crouse L  14:19   0  0   -1   3   2   0   0   0   0/0Josh Doan R  11:54   0  0   -1   1   0   0   0   2   0/3Dylan Guenther R  20:44   0  0    0   2   1   0   1   0   0/1Barrett Hayton C  17:37   0  0    2   1   1   0   1   1   5/9Clayton Keller R  21:19   0  1    1   2   0   2   0   2   0/1Alexander Kerfoot C  13:41   0  0   -1   2   1   0   0   1  6/10Matias Maccelli L  12:21   0  1    1   3   0   0   0   0   0/0Jack McBain C  12:54   0  0    0   2   0   0   0   0   1/3Nick Schmaltz C  21:45   0  1    1   2   0   0   0   2   4/5Kevin Stenlund C  12:29   0  0    0   0   0   2   0   0   5/8Kailer Yamamoto R  11:01   0  0    0   0   0   0   0   0   0/0Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  10:46   0  0    0   0   1   2   0   0   0/0Ian Cole D  19:26   0  0    1   2   0   0   0   1   0/0Michael Kesselring D  21:50   1  0    1   2   1   0   0   1   0/0Vladislav Kolyachonok D  15:54   1  0    1   2   1   2   0   3   0/0Mikhail Sergachev D  28:09   0  0   -1   4   1   0   0   3   0/0Juuso Valimaki D  21:16   0  0   -1   2   1   0   0   1   0/0Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       32  10   8   2  17 26/49
+                                        53.1%Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:23   1  22/23  15/16   6/6   1/1     0
+              .957   .938 1.000 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:41   0  0    0   2   2   0   0   2  5/11Justin Brazeau R  11:15   0  0    0   0   0   0   0   0   0/0Charlie Coyle C  17:39   0  0    0   0   1   0   0   0  4/11Trent Frederic C  13:52   0  0    0   1   0   0   0   0   1/1Morgan Geekie C  12:43   0  0    0   1   0   0   0   4   2/2Mark Kastelic C  12:41   0  0    0   1   2   2   0   0   3/5Cole Koepke L  12:31   1  0    1   5   0   0   0   1   0/0Elias Lindholm C  16:20   0  0   -1   0   3   0   0   0   4/9Brad Marchand L  18:06   0  1    1   1   1   0   0   1   0/0David Pastrnak R  19:51   0  0   -2   2   0   2   0   3   0/0Matthew Poitras C  12:19   0  0    0   1   1   0   2   3   0/1Pavel Zacha C  19:17   0  0   -1   4   0   0   0   0   4/9
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+12:41   0  0    0   2   2   0   0   2  5/11
+Justin Brazeau R
+11:15   0  0    0   0   0   0   0   0   0/0
+Charlie Coyle C
+17:39   0  0    0   0   1   0   0   0  4/11
+Trent Frederic C
+13:52   0  0    0   1   0   0   0   0   1/1
+Morgan Geekie C
+12:43   0  0    0   1   0   0   0   4   2/2
+Mark Kastelic C
+12:41   0  0    0   1   2   2   0   0   3/5
+Cole Koepke L
+12:31   1  0    1   5   0   0   0   1   0/0
+Elias Lindholm C
+16:20   0  0   -1   0   3   0   0   0   4/9
+Brad Marchand L
+18:06   0  1    1   1   1   0   0   1   0/0
+David Pastrnak R
+19:51   0  0   -2   2   0   2   0   3   0/0
+Matthew Poitras C
+12:19   0  0    0   1   1   0   2   3   0/1
+Pavel Zacha C
+19:17   0  0   -1   4   0   0   0   0   4/9
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:16   0  0   -1   0   4   0   0   1   0/0Hampus Lindholm D  21:57   0  0   -1   2   0   2   0   2   0/0Mason Lohrei D  18:15   0  0    0   2   1   0   1   3   0/0Charlie McAvoy D  23:48   0  0    0   0   3   2   0   0   0/0Andrew Peeke D  18:39   0  0    0   0   1   0   0   1   0/0Nikita Zadorov D  20:21   0  0    0   1   1   2   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+18:16   0  0   -1   0   4   0   0   1   0/0
+Hampus Lindholm D
+21:57   0  0   -1   2   0   2   0   2   0/0
+Mason Lohrei D
+18:15   0  0    0   2   1   0   1   3   0/0
+Charlie McAvoy D
+23:48   0  0    0   0   3   2   0   0   0/0
+Andrew Peeke D
+18:39   0  0    0   0   1   0   0   1   0/0
+Nikita Zadorov D
+20:21   0  0    0   1   1   2   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       23  20  10   3  22 23/49
+                                        46.9%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:37   2  30/32  22/24   6/6   2/2     0
+              .938   .917 1.000 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+62:37   2  30/32  22/24   6/6   2/2     0
+              .938   .917 1.000 1.000
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLogan Cooley C  15:20   0  1    1   2   0   0   0   0   5/9Lawson Crouse L  14:19   0  0   -1   3   2   0   0   0   0/0Josh Doan R  11:54   0  0   -1   1   0   0   0   2   0/3Dylan Guenther R  20:44   0  0    0   2   1   0   1   0   0/1Barrett Hayton C  17:37   0  0    2   1   1   0   1   1   5/9Clayton Keller R  21:19   0  1    1   2   0   2   0   2   0/1Alexander Kerfoot C  13:41   0  0   -1   2   1   0   0   1  6/10Matias Maccelli L  12:21   0  1    1   3   0   0   0   0   0/0Jack McBain C  12:54   0  0    0   2   0   0   0   0   1/3Nick Schmaltz C  21:45   0  1    1   2   0   0   0   2   4/5Kevin Stenlund C  12:29   0  0    0   0   0   2   0   0   5/8Kailer Yamamoto R  11:01   0  0    0   0   0   0   0   0   0/0
+Hockey Club Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Logan Cooley C
+15:20   0  1    1   2   0   0   0   0   5/9
+Lawson Crouse L
+14:19   0  0   -1   3   2   0   0   0   0/0
+Josh Doan R
+11:54   0  0   -1   1   0   0   0   2   0/3
+Dylan Guenther R
+20:44   0  0    0   2   1   0   1   0   0/1
+Barrett Hayton C
+17:37   0  0    2   1   1   0   1   1   5/9
+Clayton Keller R
+21:19   0  1    1   2   0   2   0   2   0/1
+Alexander Kerfoot C
+13:41   0  0   -1   2   1   0   0   1  6/10
+Matias Maccelli L
+12:21   0  1    1   3   0   0   0   0   0/0
+Jack McBain C
+12:54   0  0    0   2   0   0   0   0   1/3
+Nick Schmaltz C
+21:45   0  1    1   2   0   0   0   2   4/5
+Kevin Stenlund C
+12:29   0  0    0   0   0   2   0   0   5/8
+Kailer Yamamoto R
+11:01   0  0    0   0   0   0   0   0   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORobert Bortuzzo D  10:46   0  0    0   0   1   2   0   0   0/0Ian Cole D  19:26   0  0    1   2   0   0   0   1   0/0Michael Kesselring D  21:50   1  0    1   2   1   0   0   1   0/0Vladislav Kolyachonok D  15:54   1  0    1   2   1   2   0   3   0/0Mikhail Sergachev D  28:09   0  0   -1   4   1   0   0   3   0/0Juuso Valimaki D  21:16   0  0   -1   2   1   0   0   1   0/0
+Hockey Club Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Robert Bortuzzo D
+10:46   0  0    0   0   1   2   0   0   0/0
+Ian Cole D
+19:26   0  0    1   2   0   0   0   1   0/0
+Michael Kesselring D
+21:50   1  0    1   2   1   0   0   1   0/0
+Vladislav Kolyachonok D
+15:54   1  0    1   2   1   2   0   3   0/0
+Mikhail Sergachev D
+28:09   0  0   -1   4   1   0   0   3   0/0
+Juuso Valimaki D
+21:16   0  0   -1   2   1   0   0   1   0/0
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       32  10   8   2  17 26/49
+                                        53.1%
+Hockey Club Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Ingram G  62:23   1  22/23  15/16   6/6   1/1     0
+              .957   .938 1.000 1.000
+Hockey Club Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Ingram G
+62:23   1  22/23  15/16   6/6   1/1     0
+              .957   .938 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

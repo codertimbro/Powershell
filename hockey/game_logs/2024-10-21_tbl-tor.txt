@@ -1,0 +1,487 @@
+< Oct. 21 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Tampa Bay
+Lightning3-2-0Final2 - 5Toronto
+Maple Leafs4-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+TBL   1  0  1    2  
+TOR   1  4  0    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:03 
+William Nylander (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by Max Domi
+   0-1
+P1  06:25 
+Darren Raddysh (TBL) interference against David Kampf (2 minutes)
+   0-1
+P1  04:03 
+Nicholas Paul (TBL) scores on wrist shot past Anthony Stolarz, assisted by Victor Hedman and Mitchell Chaffee
+   1-1
+2nd Period: ShowHide
+P2  18:54 
+Mitchell Chaffee (TBL) hooking against Bobby McMann (2 minutes)
+   1-1
+P2  18:04 
+Auston Matthews (TOR) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Mitch Marner and William Nylander
+   1-2
+P2  12:27 
+William Nylander (TOR) scores on wrist shot past Andrei Vasilevskiy, assisted by Bobby McMann
+   1-3
+P2  10:29 
+Max Pacioretty (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by John Tavares and Conor Timmins
+   1-4
+P2  09:58 
+Bobby McMann (TOR) roughing (removing opponent's helmet) against Zemgus Girgensons (2 minutes)
+   1-4
+P2  09:58 
+Max Domi (TOR) hooking against Michael Eyssimont (2 minutes)
+   1-4
+P2  05:58 
+Matthew Knies (TOR) scores on wrist shot past Jonas Johansson, assisted by Mitch Marner
+   1-5
+P2  05:23 
+Jake Guentzel (TBL) roughing against Oliver Ekman-Larsson (2 minutes)
+   1-5
+P2  00:30 
+John Tavares (TOR) hooking against Conor Geekie (2 minutes)
+   1-5
+3rd Period: ShowHide
+P3  14:25 
+Oliver Ekman-Larsson (TOR) interference against Jake Guentzel (2 minutes)
+   1-5
+P3  11:30 
+Emil Lilleberg (TBL) holding against John Tavares (2 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) roughing against Zemgus Girgensons (2 minutes), served by Nicholas Robertson
+   1-5
+P3  05:55 
+Zemgus Girgensons (TBL) fighting against Max Domi (5 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) fighting against Zemgus Girgensons (5 minutes)
+   1-5
+P3  05:07 
+Brayden Point (TBL) scores power-play goal on wrist shot past Anthony Stolarz, assisted by Nikita Kucherov and Victor Hedman
+   2-5
+P3  03:29 
+Chris Tanev (TOR) holding the stick against Anthony Cirelli (2 minutes)
+   2-5
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  09:29   0  0   -3   1   1   0   0   0   0/0Mitchell Chaffee R  13:30   0  1    0   1   0   2   0   1   0/0Anthony Cirelli C  16:50   0  0    0   2   2   0   0   0  7/11Michael Eyssimont C  11:11   0  0    0   5   0   0   0   0   0/0Conor Geekie C  13:34   0  0   -3   0   1   0   0   0   2/4Zemgus Girgensons C  08:32   0  0    0   2   0   5   0   0   0/0Luke Glendening C  09:26   0  0    0   0   0   0   0   0   4/6Jake Guentzel C  20:19   0  0   -1   3   2   2   0   2   1/1Brandon Hagel L  21:39   0  0    0   5   0   0   1   1   1/1Nikita Kucherov R  21:39   0  1    0   4   1   0   0   1   0/0Nicholas Paul L  15:24   1  0   -1   2   0   0   0   1   3/9Brayden Point C  21:55   1  0   -1   1   0   0   0   0 11/14Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  18:26   0  0   -1   0   2   0   0   0   0/0Victor Hedman D  24:19   0  2    1   3   2   0   0   0   0/0Emil Lilleberg D  13:18   0  0   -3   0   2   2   0   0   0/0Ryan McDonagh D  18:09   0  0    0   2   1   0   2   3   0/0Janis Moser D  21:52   0  0    0   2   1   0   1   1   0/0Darren Raddysh D  15:45   0  0   -3   1   0   2   0   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       34  15  13   4  10 29/46
+                                        63.0%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonas Johansson G  28:22   1  14/15   9/10   4/4   1/1     0
+              .933   .900 1.000 1.000 Andrei Vasilevskiy G  29:31   4  10/14   8/11   2/3   0/0     0
+              .714   .727  .667 Lightning Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  24/29  17/21   6/7   1/1     0
+              .828   .810  .857 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  10:35   0  1    2   1   1   9   0   2   1/5Pontus Holmberg R  13:52   0  0   -1   0   1   0   0   1   0/4David Kampf C  12:28   0  0   -1   0   0   0   1   2   2/4Matthew Knies L  14:31   1  0    1   2   0   0   0   0   0/0Steven Lorentz C  11:41   0  0   -1   1   0   0   0   0   1/1Mitch Marner R  22:21   0  2    1   2   0   0   1   3   0/2Auston Matthews C  20:38   1  0    1   6   3   0   0   0 10/20Bobby McMann C  11:36   0  1    2   0   0   2   0   0   0/0William Nylander R  16:22   2  1    2   5   0   0   0   0   0/0Max Pacioretty L  12:21   1  0    1   3   1   0   0   1   0/0Nicholas Robertson L  12:32   0  0    1   1   1   0   1   0   0/0John Tavares C  16:32   0  1    1   4   0   2   0   0  3/10Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  18:53   0  0    0   2   3   0   1   1   0/0Oliver Ekman-Larsson D  21:40   0  0    1   1   0   2   2   2   0/0Jake McCabe D  22:09   0  0    0   0   0   0   0   1   0/0Morgan Rielly D  18:29   0  0    2   1   2   0   1   0   0/0Chris Tanev D  18:01   0  0    2   0   7   2   1   2   0/0Conor Timmins D  14:56   0  1    1   0   1   0   0   1   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       29  20  17   8  16 17/46
+                                        37.0%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  59:35   2  32/34  19/20 11/12   2/2     0
+              .941   .950  .917 1.000
+Tampa Bay
+Lightning3-2-0Final2 - 5Toronto
+Maple Leafs4-2-0
+Tampa Bay
+Lightning3-2-0
+Final2 - 5
+Toronto
+Maple Leafs4-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+TBL   1  0  1    2  
+TOR   1  4  0    5
+1st Period: ShowHide
+P1  16:03 
+William Nylander (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by Max Domi
+   0-1
+P1  06:25 
+Darren Raddysh (TBL) interference against David Kampf (2 minutes)
+   0-1
+P1  04:03 
+Nicholas Paul (TBL) scores on wrist shot past Anthony Stolarz, assisted by Victor Hedman and Mitchell Chaffee
+   1-1
+2nd Period: ShowHide
+P2  18:54 
+Mitchell Chaffee (TBL) hooking against Bobby McMann (2 minutes)
+   1-1
+P2  18:04 
+Auston Matthews (TOR) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Mitch Marner and William Nylander
+   1-2
+P2  12:27 
+William Nylander (TOR) scores on wrist shot past Andrei Vasilevskiy, assisted by Bobby McMann
+   1-3
+P2  10:29 
+Max Pacioretty (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by John Tavares and Conor Timmins
+   1-4
+P2  09:58 
+Bobby McMann (TOR) roughing (removing opponent's helmet) against Zemgus Girgensons (2 minutes)
+   1-4
+P2  09:58 
+Max Domi (TOR) hooking against Michael Eyssimont (2 minutes)
+   1-4
+P2  05:58 
+Matthew Knies (TOR) scores on wrist shot past Jonas Johansson, assisted by Mitch Marner
+   1-5
+P2  05:23 
+Jake Guentzel (TBL) roughing against Oliver Ekman-Larsson (2 minutes)
+   1-5
+P2  00:30 
+John Tavares (TOR) hooking against Conor Geekie (2 minutes)
+   1-5
+3rd Period: ShowHide
+P3  14:25 
+Oliver Ekman-Larsson (TOR) interference against Jake Guentzel (2 minutes)
+   1-5
+P3  11:30 
+Emil Lilleberg (TBL) holding against John Tavares (2 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) roughing against Zemgus Girgensons (2 minutes), served by Nicholas Robertson
+   1-5
+P3  05:55 
+Zemgus Girgensons (TBL) fighting against Max Domi (5 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) fighting against Zemgus Girgensons (5 minutes)
+   1-5
+P3  05:07 
+Brayden Point (TBL) scores power-play goal on wrist shot past Anthony Stolarz, assisted by Nikita Kucherov and Victor Hedman
+   2-5
+P3  03:29 
+Chris Tanev (TOR) holding the stick against Anthony Cirelli (2 minutes)
+   2-5
+1st Period: ShowHide
+P1  16:03 
+William Nylander (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by Max Domi
+   0-1
+P1  06:25 
+Darren Raddysh (TBL) interference against David Kampf (2 minutes)
+   0-1
+P1  04:03 
+Nicholas Paul (TBL) scores on wrist shot past Anthony Stolarz, assisted by Victor Hedman and Mitchell Chaffee
+   1-1
+P1  16:03 
+William Nylander (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by Max Domi
+   0-1
+P1  06:25 
+Darren Raddysh (TBL) interference against David Kampf (2 minutes)
+   0-1
+P1  04:03 
+Nicholas Paul (TBL) scores on wrist shot past Anthony Stolarz, assisted by Victor Hedman and Mitchell Chaffee
+   1-1
+P1  16:03
+William Nylander (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by Max Domi
+0-1
+P1  06:25
+Darren Raddysh (TBL) interference against David Kampf (2 minutes)
+0-1
+P1  04:03
+Nicholas Paul (TBL) scores on wrist shot past Anthony Stolarz, assisted by Victor Hedman and Mitchell Chaffee
+1-1
+2nd Period: ShowHide
+P2  18:54 
+Mitchell Chaffee (TBL) hooking against Bobby McMann (2 minutes)
+   1-1
+P2  18:04 
+Auston Matthews (TOR) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Mitch Marner and William Nylander
+   1-2
+P2  12:27 
+William Nylander (TOR) scores on wrist shot past Andrei Vasilevskiy, assisted by Bobby McMann
+   1-3
+P2  10:29 
+Max Pacioretty (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by John Tavares and Conor Timmins
+   1-4
+P2  09:58 
+Bobby McMann (TOR) roughing (removing opponent's helmet) against Zemgus Girgensons (2 minutes)
+   1-4
+P2  09:58 
+Max Domi (TOR) hooking against Michael Eyssimont (2 minutes)
+   1-4
+P2  05:58 
+Matthew Knies (TOR) scores on wrist shot past Jonas Johansson, assisted by Mitch Marner
+   1-5
+P2  05:23 
+Jake Guentzel (TBL) roughing against Oliver Ekman-Larsson (2 minutes)
+   1-5
+P2  00:30 
+John Tavares (TOR) hooking against Conor Geekie (2 minutes)
+   1-5
+P2  18:54 
+Mitchell Chaffee (TBL) hooking against Bobby McMann (2 minutes)
+   1-1
+P2  18:04 
+Auston Matthews (TOR) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Mitch Marner and William Nylander
+   1-2
+P2  12:27 
+William Nylander (TOR) scores on wrist shot past Andrei Vasilevskiy, assisted by Bobby McMann
+   1-3
+P2  10:29 
+Max Pacioretty (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by John Tavares and Conor Timmins
+   1-4
+P2  09:58 
+Bobby McMann (TOR) roughing (removing opponent's helmet) against Zemgus Girgensons (2 minutes)
+   1-4
+P2  09:58 
+Max Domi (TOR) hooking against Michael Eyssimont (2 minutes)
+   1-4
+P2  05:58 
+Matthew Knies (TOR) scores on wrist shot past Jonas Johansson, assisted by Mitch Marner
+   1-5
+P2  05:23 
+Jake Guentzel (TBL) roughing against Oliver Ekman-Larsson (2 minutes)
+   1-5
+P2  00:30 
+John Tavares (TOR) hooking against Conor Geekie (2 minutes)
+   1-5
+P2  18:54
+Mitchell Chaffee (TBL) hooking against Bobby McMann (2 minutes)
+1-1
+P2  18:04
+Auston Matthews (TOR) scores power-play goal on wrist shot past Andrei Vasilevskiy, assisted by Mitch Marner and William Nylander
+1-2
+P2  12:27
+William Nylander (TOR) scores on wrist shot past Andrei Vasilevskiy, assisted by Bobby McMann
+1-3
+P2  10:29
+Max Pacioretty (TOR) scores on snap shot past Andrei Vasilevskiy, assisted by John Tavares and Conor Timmins
+1-4
+P2  09:58
+Bobby McMann (TOR) roughing (removing opponent's helmet) against Zemgus Girgensons (2 minutes)
+1-4
+P2  09:58
+Max Domi (TOR) hooking against Michael Eyssimont (2 minutes)
+1-4
+P2  05:58
+Matthew Knies (TOR) scores on wrist shot past Jonas Johansson, assisted by Mitch Marner
+1-5
+P2  05:23
+Jake Guentzel (TBL) roughing against Oliver Ekman-Larsson (2 minutes)
+1-5
+P2  00:30
+John Tavares (TOR) hooking against Conor Geekie (2 minutes)
+1-5
+3rd Period: ShowHide
+P3  14:25 
+Oliver Ekman-Larsson (TOR) interference against Jake Guentzel (2 minutes)
+   1-5
+P3  11:30 
+Emil Lilleberg (TBL) holding against John Tavares (2 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) roughing against Zemgus Girgensons (2 minutes), served by Nicholas Robertson
+   1-5
+P3  05:55 
+Zemgus Girgensons (TBL) fighting against Max Domi (5 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) fighting against Zemgus Girgensons (5 minutes)
+   1-5
+P3  05:07 
+Brayden Point (TBL) scores power-play goal on wrist shot past Anthony Stolarz, assisted by Nikita Kucherov and Victor Hedman
+   2-5
+P3  03:29 
+Chris Tanev (TOR) holding the stick against Anthony Cirelli (2 minutes)
+   2-5
+P3  14:25 
+Oliver Ekman-Larsson (TOR) interference against Jake Guentzel (2 minutes)
+   1-5
+P3  11:30 
+Emil Lilleberg (TBL) holding against John Tavares (2 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) roughing against Zemgus Girgensons (2 minutes), served by Nicholas Robertson
+   1-5
+P3  05:55 
+Zemgus Girgensons (TBL) fighting against Max Domi (5 minutes)
+   1-5
+P3  05:55 
+Max Domi (TOR) fighting against Zemgus Girgensons (5 minutes)
+   1-5
+P3  05:07 
+Brayden Point (TBL) scores power-play goal on wrist shot past Anthony Stolarz, assisted by Nikita Kucherov and Victor Hedman
+   2-5
+P3  03:29 
+Chris Tanev (TOR) holding the stick against Anthony Cirelli (2 minutes)
+   2-5
+P3  14:25
+Oliver Ekman-Larsson (TOR) interference against Jake Guentzel (2 minutes)
+1-5
+P3  11:30
+Emil Lilleberg (TBL) holding against John Tavares (2 minutes)
+1-5
+P3  05:55
+Max Domi (TOR) roughing against Zemgus Girgensons (2 minutes), served by Nicholas Robertson
+1-5
+P3  05:55
+Zemgus Girgensons (TBL) fighting against Max Domi (5 minutes)
+1-5
+P3  05:55
+Max Domi (TOR) fighting against Zemgus Girgensons (5 minutes)
+1-5
+P3  05:07
+Brayden Point (TBL) scores power-play goal on wrist shot past Anthony Stolarz, assisted by Nikita Kucherov and Victor Hedman
+2-5
+P3  03:29
+Chris Tanev (TOR) holding the stick against Anthony Cirelli (2 minutes)
+2-5
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  09:29   0  0   -3   1   1   0   0   0   0/0Mitchell Chaffee R  13:30   0  1    0   1   0   2   0   1   0/0Anthony Cirelli C  16:50   0  0    0   2   2   0   0   0  7/11Michael Eyssimont C  11:11   0  0    0   5   0   0   0   0   0/0Conor Geekie C  13:34   0  0   -3   0   1   0   0   0   2/4Zemgus Girgensons C  08:32   0  0    0   2   0   5   0   0   0/0Luke Glendening C  09:26   0  0    0   0   0   0   0   0   4/6Jake Guentzel C  20:19   0  0   -1   3   2   2   0   2   1/1Brandon Hagel L  21:39   0  0    0   5   0   0   1   1   1/1Nikita Kucherov R  21:39   0  1    0   4   1   0   0   1   0/0Nicholas Paul L  15:24   1  0   -1   2   0   0   0   1   3/9Brayden Point C  21:55   1  0   -1   1   0   0   0   0 11/14Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  18:26   0  0   -1   0   2   0   0   0   0/0Victor Hedman D  24:19   0  2    1   3   2   0   0   0   0/0Emil Lilleberg D  13:18   0  0   -3   0   2   2   0   0   0/0Ryan McDonagh D  18:09   0  0    0   2   1   0   2   3   0/0Janis Moser D  21:52   0  0    0   2   1   0   1   1   0/0Darren Raddysh D  15:45   0  0   -3   1   0   2   0   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       34  15  13   4  10 29/46
+                                        63.0%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonas Johansson G  28:22   1  14/15   9/10   4/4   1/1     0
+              .933   .900 1.000 1.000 Andrei Vasilevskiy G  29:31   4  10/14   8/11   2/3   0/0     0
+              .714   .727  .667 Lightning Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  24/29  17/21   6/7   1/1     0
+              .828   .810  .857 1.000 
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  10:35   0  1    2   1   1   9   0   2   1/5Pontus Holmberg R  13:52   0  0   -1   0   1   0   0   1   0/4David Kampf C  12:28   0  0   -1   0   0   0   1   2   2/4Matthew Knies L  14:31   1  0    1   2   0   0   0   0   0/0Steven Lorentz C  11:41   0  0   -1   1   0   0   0   0   1/1Mitch Marner R  22:21   0  2    1   2   0   0   1   3   0/2Auston Matthews C  20:38   1  0    1   6   3   0   0   0 10/20Bobby McMann C  11:36   0  1    2   0   0   2   0   0   0/0William Nylander R  16:22   2  1    2   5   0   0   0   0   0/0Max Pacioretty L  12:21   1  0    1   3   1   0   0   1   0/0Nicholas Robertson L  12:32   0  0    1   1   1   0   1   0   0/0John Tavares C  16:32   0  1    1   4   0   2   0   0  3/10Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  18:53   0  0    0   2   3   0   1   1   0/0Oliver Ekman-Larsson D  21:40   0  0    1   1   0   2   2   2   0/0Jake McCabe D  22:09   0  0    0   0   0   0   0   1   0/0Morgan Rielly D  18:29   0  0    2   1   2   0   1   0   0/0Chris Tanev D  18:01   0  0    2   0   7   2   1   2   0/0Conor Timmins D  14:56   0  1    1   0   1   0   0   1   0/0Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       29  20  17   8  16 17/46
+                                        37.0%Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  59:35   2  32/34  19/20 11/12   2/2     0
+              .941   .950  .917 1.000
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  09:29   0  0   -3   1   1   0   0   0   0/0Mitchell Chaffee R  13:30   0  1    0   1   0   2   0   1   0/0Anthony Cirelli C  16:50   0  0    0   2   2   0   0   0  7/11Michael Eyssimont C  11:11   0  0    0   5   0   0   0   0   0/0Conor Geekie C  13:34   0  0   -3   0   1   0   0   0   2/4Zemgus Girgensons C  08:32   0  0    0   2   0   5   0   0   0/0Luke Glendening C  09:26   0  0    0   0   0   0   0   0   4/6Jake Guentzel C  20:19   0  0   -1   3   2   2   0   2   1/1Brandon Hagel L  21:39   0  0    0   5   0   0   1   1   1/1Nikita Kucherov R  21:39   0  1    0   4   1   0   0   1   0/0Nicholas Paul L  15:24   1  0   -1   2   0   0   0   1   3/9Brayden Point C  21:55   1  0   -1   1   0   0   0   0 11/14
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cameron Atkinson R
+09:29   0  0   -3   1   1   0   0   0   0/0
+Mitchell Chaffee R
+13:30   0  1    0   1   0   2   0   1   0/0
+Anthony Cirelli C
+16:50   0  0    0   2   2   0   0   0  7/11
+Michael Eyssimont C
+11:11   0  0    0   5   0   0   0   0   0/0
+Conor Geekie C
+13:34   0  0   -3   0   1   0   0   0   2/4
+Zemgus Girgensons C
+08:32   0  0    0   2   0   5   0   0   0/0
+Luke Glendening C
+09:26   0  0    0   0   0   0   0   0   4/6
+Jake Guentzel C
+20:19   0  0   -1   3   2   2   0   2   1/1
+Brandon Hagel L
+21:39   0  0    0   5   0   0   1   1   1/1
+Nikita Kucherov R
+21:39   0  1    0   4   1   0   0   1   0/0
+Nicholas Paul L
+15:24   1  0   -1   2   0   0   0   1   3/9
+Brayden Point C
+21:55   1  0   -1   1   0   0   0   0 11/14
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  18:26   0  0   -1   0   2   0   0   0   0/0Victor Hedman D  24:19   0  2    1   3   2   0   0   0   0/0Emil Lilleberg D  13:18   0  0   -3   0   2   2   0   0   0/0Ryan McDonagh D  18:09   0  0    0   2   1   0   2   3   0/0Janis Moser D  21:52   0  0    0   2   1   0   1   1   0/0Darren Raddysh D  15:45   0  0   -3   1   0   2   0   0   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+18:26   0  0   -1   0   2   0   0   0   0/0
+Victor Hedman D
+24:19   0  2    1   3   2   0   0   0   0/0
+Emil Lilleberg D
+13:18   0  0   -3   0   2   2   0   0   0/0
+Ryan McDonagh D
+18:09   0  0    0   2   1   0   2   3   0/0
+Janis Moser D
+21:52   0  0    0   2   1   0   1   1   0/0
+Darren Raddysh D
+15:45   0  0   -3   1   0   2   0   0   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       34  15  13   4  10 29/46
+                                        63.0%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJonas Johansson G  28:22   1  14/15   9/10   4/4   1/1     0
+              .933   .900 1.000 1.000 Andrei Vasilevskiy G  29:31   4  10/14   8/11   2/3   0/0     0
+              .714   .727  .667
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jonas Johansson G
+28:22   1  14/15   9/10   4/4   1/1     0
+              .933   .900 1.000 1.000
+Andrei Vasilevskiy G
+29:31   4  10/14   8/11   2/3   0/0     0
+              .714   .727  .667
+Lightning Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  24/29  17/21   6/7   1/1     0
+              .828   .810  .857 1.000
+Lightning Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMax Domi C  10:35   0  1    2   1   1   9   0   2   1/5Pontus Holmberg R  13:52   0  0   -1   0   1   0   0   1   0/4David Kampf C  12:28   0  0   -1   0   0   0   1   2   2/4Matthew Knies L  14:31   1  0    1   2   0   0   0   0   0/0Steven Lorentz C  11:41   0  0   -1   1   0   0   0   0   1/1Mitch Marner R  22:21   0  2    1   2   0   0   1   3   0/2Auston Matthews C  20:38   1  0    1   6   3   0   0   0 10/20Bobby McMann C  11:36   0  1    2   0   0   2   0   0   0/0William Nylander R  16:22   2  1    2   5   0   0   0   0   0/0Max Pacioretty L  12:21   1  0    1   3   1   0   0   1   0/0Nicholas Robertson L  12:32   0  0    1   1   1   0   1   0   0/0John Tavares C  16:32   0  1    1   4   0   2   0   0  3/10
+Maple Leafs Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Max Domi C
+10:35   0  1    2   1   1   9   0   2   1/5
+Pontus Holmberg R
+13:52   0  0   -1   0   1   0   0   1   0/4
+David Kampf C
+12:28   0  0   -1   0   0   0   1   2   2/4
+Matthew Knies L
+14:31   1  0    1   2   0   0   0   0   0/0
+Steven Lorentz C
+11:41   0  0   -1   1   0   0   0   0   1/1
+Mitch Marner R
+22:21   0  2    1   2   0   0   1   3   0/2
+Auston Matthews C
+20:38   1  0    1   6   3   0   0   0 10/20
+Bobby McMann C
+11:36   0  1    2   0   0   2   0   0   0/0
+William Nylander R
+16:22   2  1    2   5   0   0   0   0   0/0
+Max Pacioretty L
+12:21   1  0    1   3   1   0   0   1   0/0
+Nicholas Robertson L
+12:32   0  0    1   1   1   0   1   0   0/0
+John Tavares C
+16:32   0  1    1   4   0   2   0   0  3/10
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSimon Benoit D  18:53   0  0    0   2   3   0   1   1   0/0Oliver Ekman-Larsson D  21:40   0  0    1   1   0   2   2   2   0/0Jake McCabe D  22:09   0  0    0   0   0   0   0   1   0/0Morgan Rielly D  18:29   0  0    2   1   2   0   1   0   0/0Chris Tanev D  18:01   0  0    2   0   7   2   1   2   0/0Conor Timmins D  14:56   0  1    1   0   1   0   0   1   0/0
+Maple Leafs Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Simon Benoit D
+18:53   0  0    0   2   3   0   1   1   0/0
+Oliver Ekman-Larsson D
+21:40   0  0    1   1   0   2   2   2   0/0
+Jake McCabe D
+22:09   0  0    0   0   0   0   0   1   0/0
+Morgan Rielly D
+18:29   0  0    2   1   2   0   1   0   0/0
+Chris Tanev D
+18:01   0  0    2   0   7   2   1   2   0/0
+Conor Timmins D
+14:56   0  1    1   0   1   0   0   1   0/0
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       29  20  17   8  16 17/46
+                                        37.0%
+Maple Leafs Totals:
+          G  A        S   B  PM  TK  GV    FO
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAnthony Stolarz G  59:35   2  32/34  19/20 11/12   2/2     0
+              .941   .950  .917 1.000
+Maple Leafs Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Anthony Stolarz G
+59:35   2  32/34  19/20 11/12   2/2     0
+              .941   .950  .917 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

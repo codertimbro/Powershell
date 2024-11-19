@@ -1,0 +1,442 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New Jersey
+Devils3-1-0Final5 - 3Washington
+Capitals0-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NJD   2  2  1    5  
+WSH   1  1  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:09 
+Nic Dowd (WSH) tripping against Curtis Lazar (2 minutes)
+   0-0
+P1  15:10 
+Jakob Chychrun (WSH) tripping against Nico Hischier (2 minutes)
+   0-0
+P1  09:22 
+Timo Meier (NJD) cross-checking against Brandon Duhaime (2 minutes)
+   0-0
+P1  09:12 
+John Carlson (WSH) scores power-play goal on slap shot past Jacob Markstrom, assisted by Pierre-Luc Dubois and Dylan Strome
+   0-1
+P1  06:18 
+Seamus Casey (NJD) scores on wrist shot past Charlie Lindgren, assisted by Jesper Bratt and Timo Meier
+   1-1
+P1  03:36 
+Paul Cotter (NJD) scores on wrist shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   2-1
+2nd Period: ShowHide
+P2  19:28 
+Dylan Strome (WSH) scores on poke past Jacob Markstrom, assisted by John Carlson and Alex Ovechkin
+   2-2
+P2  16:04 
+Tomas Tatar (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   3-2
+P2  10:10 
+Pierre-Luc Dubois (WSH) cross-checking against Timo Meier (2 minutes)
+   3-2
+P2  10:10 
+Johnathan Kovacevic (NJD) roughing against Pierre-Luc Dubois (2 minutes)
+   3-2
+P2  06:22 
+Paul Cotter (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   4-2
+P2  03:18 
+Paul Cotter (NJD) slashing against Rasmus Sandin (2 minutes)
+   4-2
+3rd Period: ShowHide
+P3  18:25 
+Tom Wilson (WSH) scores on snap shot past Jacob Markstrom, assisted by Connor McMichael
+   4-3
+P3  16:45 
+Nic Dowd (WSH) high-sticking against Nico Hischier (2 minutes)
+   4-3
+P3  15:04 
+Jesper Bratt (NJD) hooking against Brandon Duhaime (2 minutes)
+   4-3
+P3  10:38 
+Tom Wilson (WSH) tripping against Ondrej Palat (2 minutes)
+   4-3
+P3  00:08 
+Dawson Mercer (NJD) scores on empty net, assisted by Tomas Tatar and Nico Hischier
+   5-3
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  13:04   0  0    0   2   2   0   0   1   0/0Jesper Bratt L  14:37   0  1    1   0   0   2   0   0   0/0Paul Cotter C  13:10   2  0    1   4   1   2   0   0   0/1Erik Haula L  17:15   0  3    2   2   0   0   0   1 12/16Nico Hischier C  18:40   0  1    0   3   0   0   0   0  8/18Jack Hughes C  17:13   0  0    1   2   1   0   0   3   2/4Curtis Lazar C  11:18   0  0    0   1   0   0   1   1 10/14Timo Meier R  14:27   0  1    1   0   3   2   0   1   0/0Dawson Mercer C  19:55   1  0    0   1   1   0   0   1   0/0Stefan Noesen R  13:30   0  3    2   1   0   0   0   0   0/1Ondrej Palat L  13:12   0  0    0   2   0   0   1   1   0/0Tomas Tatar L  13:57   1  1    1   4   0   0   0   1   0/1Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  09:45   1  0    1   1   1   0   0   1   0/0Brenden Dillon D  21:36   0  0    3   0   3   0   0   1   0/0Dougie Hamilton D  22:07   0  0    3   4   1   0   1   1   0/0Johnathan Kovacevic D  22:43   0  0   -1   2   0   2   0   2   0/0Simon Nemec D  14:35   0  0    1   3   0   0   0   1   0/0Jonas Siegenthaler D  23:15   0  0   -1   1   3   0   0   0   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       33  16   8   3  16 32/55
+                                        58.2%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:31   3  29/32  26/28   1/2   2/2     0
+              .906   .929  .500 1.000 
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  17:14   0  0    0   0   2   4   0   1  8/16Pierre-Luc Dubois L  17:29   0  1   -1   2   1   2   0   1   1/6Brandon Duhaime R  15:07   0  0    0   1   1   0   0   1   0/0Hendrix Lapierre C  07:53   0  0   -3   0   0   0   0   1   1/5Andrew Mangiapane L  18:35   0  0    0   2   0   0   0   3   0/0Connor McMichael C  14:27   0  1    0   3   0   0   0   1   1/5Sonny Milano L  05:52   0  0   -3   1   0   0   0   0   0/0Alex Ovechkin L  19:44   0  1    0   0   0   0   0   0   0/0Aliaksei Protas C  10:28   0  0   -3   0   0   0   0   2   0/0Taylor Raddysh R  12:11   0  0    0   1   0   0   2   1   0/0Dylan Strome C  20:21   1  1    0   4   2   0   1   1 12/23Tom Wilson R  17:52   1  0   -1   5   3   2   1   1   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  24:55   1  1    0   4   2   0   0   1   0/0Jakob Chychrun D  22:09   0  0   -1   2   1   2   3   0   0/0Martin Fehervary D  20:59   0  0   -2   2   1   0   0   2   0/0Matt Roy D  08:39   0  0   -2   2   0   0   0   1   0/0Rasmus Sandin D  19:22   0  0    0   1   3   0   0   0   0/0Trevor van Riemsdyk D  19:03   0  0    0   2   2   0   1   0   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  18  10   8  17 23/55
+                                        41.8%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  57:40   4  28/32  22/26   6/6   0/0     0
+              .875   .846 1.000
+New Jersey
+Devils3-1-0Final5 - 3Washington
+Capitals0-1-0
+New Jersey
+Devils3-1-0
+Final5 - 3
+Washington
+Capitals0-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NJD   2  2  1    5  
+WSH   1  1  1    3
+1st Period: ShowHide
+P1  18:09 
+Nic Dowd (WSH) tripping against Curtis Lazar (2 minutes)
+   0-0
+P1  15:10 
+Jakob Chychrun (WSH) tripping against Nico Hischier (2 minutes)
+   0-0
+P1  09:22 
+Timo Meier (NJD) cross-checking against Brandon Duhaime (2 minutes)
+   0-0
+P1  09:12 
+John Carlson (WSH) scores power-play goal on slap shot past Jacob Markstrom, assisted by Pierre-Luc Dubois and Dylan Strome
+   0-1
+P1  06:18 
+Seamus Casey (NJD) scores on wrist shot past Charlie Lindgren, assisted by Jesper Bratt and Timo Meier
+   1-1
+P1  03:36 
+Paul Cotter (NJD) scores on wrist shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   2-1
+2nd Period: ShowHide
+P2  19:28 
+Dylan Strome (WSH) scores on poke past Jacob Markstrom, assisted by John Carlson and Alex Ovechkin
+   2-2
+P2  16:04 
+Tomas Tatar (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   3-2
+P2  10:10 
+Pierre-Luc Dubois (WSH) cross-checking against Timo Meier (2 minutes)
+   3-2
+P2  10:10 
+Johnathan Kovacevic (NJD) roughing against Pierre-Luc Dubois (2 minutes)
+   3-2
+P2  06:22 
+Paul Cotter (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   4-2
+P2  03:18 
+Paul Cotter (NJD) slashing against Rasmus Sandin (2 minutes)
+   4-2
+3rd Period: ShowHide
+P3  18:25 
+Tom Wilson (WSH) scores on snap shot past Jacob Markstrom, assisted by Connor McMichael
+   4-3
+P3  16:45 
+Nic Dowd (WSH) high-sticking against Nico Hischier (2 minutes)
+   4-3
+P3  15:04 
+Jesper Bratt (NJD) hooking against Brandon Duhaime (2 minutes)
+   4-3
+P3  10:38 
+Tom Wilson (WSH) tripping against Ondrej Palat (2 minutes)
+   4-3
+P3  00:08 
+Dawson Mercer (NJD) scores on empty net, assisted by Tomas Tatar and Nico Hischier
+   5-3
+1st Period: ShowHide
+P1  18:09 
+Nic Dowd (WSH) tripping against Curtis Lazar (2 minutes)
+   0-0
+P1  15:10 
+Jakob Chychrun (WSH) tripping against Nico Hischier (2 minutes)
+   0-0
+P1  09:22 
+Timo Meier (NJD) cross-checking against Brandon Duhaime (2 minutes)
+   0-0
+P1  09:12 
+John Carlson (WSH) scores power-play goal on slap shot past Jacob Markstrom, assisted by Pierre-Luc Dubois and Dylan Strome
+   0-1
+P1  06:18 
+Seamus Casey (NJD) scores on wrist shot past Charlie Lindgren, assisted by Jesper Bratt and Timo Meier
+   1-1
+P1  03:36 
+Paul Cotter (NJD) scores on wrist shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   2-1
+P1  18:09 
+Nic Dowd (WSH) tripping against Curtis Lazar (2 minutes)
+   0-0
+P1  15:10 
+Jakob Chychrun (WSH) tripping against Nico Hischier (2 minutes)
+   0-0
+P1  09:22 
+Timo Meier (NJD) cross-checking against Brandon Duhaime (2 minutes)
+   0-0
+P1  09:12 
+John Carlson (WSH) scores power-play goal on slap shot past Jacob Markstrom, assisted by Pierre-Luc Dubois and Dylan Strome
+   0-1
+P1  06:18 
+Seamus Casey (NJD) scores on wrist shot past Charlie Lindgren, assisted by Jesper Bratt and Timo Meier
+   1-1
+P1  03:36 
+Paul Cotter (NJD) scores on wrist shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   2-1
+P1  18:09
+Nic Dowd (WSH) tripping against Curtis Lazar (2 minutes)
+0-0
+P1  15:10
+Jakob Chychrun (WSH) tripping against Nico Hischier (2 minutes)
+0-0
+P1  09:22
+Timo Meier (NJD) cross-checking against Brandon Duhaime (2 minutes)
+0-0
+P1  09:12
+John Carlson (WSH) scores power-play goal on slap shot past Jacob Markstrom, assisted by Pierre-Luc Dubois and Dylan Strome
+0-1
+P1  06:18
+Seamus Casey (NJD) scores on wrist shot past Charlie Lindgren, assisted by Jesper Bratt and Timo Meier
+1-1
+P1  03:36
+Paul Cotter (NJD) scores on wrist shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+2-1
+2nd Period: ShowHide
+P2  19:28 
+Dylan Strome (WSH) scores on poke past Jacob Markstrom, assisted by John Carlson and Alex Ovechkin
+   2-2
+P2  16:04 
+Tomas Tatar (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   3-2
+P2  10:10 
+Pierre-Luc Dubois (WSH) cross-checking against Timo Meier (2 minutes)
+   3-2
+P2  10:10 
+Johnathan Kovacevic (NJD) roughing against Pierre-Luc Dubois (2 minutes)
+   3-2
+P2  06:22 
+Paul Cotter (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   4-2
+P2  03:18 
+Paul Cotter (NJD) slashing against Rasmus Sandin (2 minutes)
+   4-2
+P2  19:28 
+Dylan Strome (WSH) scores on poke past Jacob Markstrom, assisted by John Carlson and Alex Ovechkin
+   2-2
+P2  16:04 
+Tomas Tatar (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   3-2
+P2  10:10 
+Pierre-Luc Dubois (WSH) cross-checking against Timo Meier (2 minutes)
+   3-2
+P2  10:10 
+Johnathan Kovacevic (NJD) roughing against Pierre-Luc Dubois (2 minutes)
+   3-2
+P2  06:22 
+Paul Cotter (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+   4-2
+P2  03:18 
+Paul Cotter (NJD) slashing against Rasmus Sandin (2 minutes)
+   4-2
+P2  19:28
+Dylan Strome (WSH) scores on poke past Jacob Markstrom, assisted by John Carlson and Alex Ovechkin
+2-2
+P2  16:04
+Tomas Tatar (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+3-2
+P2  10:10
+Pierre-Luc Dubois (WSH) cross-checking against Timo Meier (2 minutes)
+3-2
+P2  10:10
+Johnathan Kovacevic (NJD) roughing against Pierre-Luc Dubois (2 minutes)
+3-2
+P2  06:22
+Paul Cotter (NJD) scores on snap shot past Charlie Lindgren, assisted by Stefan Noesen and Erik Haula
+4-2
+P2  03:18
+Paul Cotter (NJD) slashing against Rasmus Sandin (2 minutes)
+4-2
+3rd Period: ShowHide
+P3  18:25 
+Tom Wilson (WSH) scores on snap shot past Jacob Markstrom, assisted by Connor McMichael
+   4-3
+P3  16:45 
+Nic Dowd (WSH) high-sticking against Nico Hischier (2 minutes)
+   4-3
+P3  15:04 
+Jesper Bratt (NJD) hooking against Brandon Duhaime (2 minutes)
+   4-3
+P3  10:38 
+Tom Wilson (WSH) tripping against Ondrej Palat (2 minutes)
+   4-3
+P3  00:08 
+Dawson Mercer (NJD) scores on empty net, assisted by Tomas Tatar and Nico Hischier
+   5-3
+P3  18:25 
+Tom Wilson (WSH) scores on snap shot past Jacob Markstrom, assisted by Connor McMichael
+   4-3
+P3  16:45 
+Nic Dowd (WSH) high-sticking against Nico Hischier (2 minutes)
+   4-3
+P3  15:04 
+Jesper Bratt (NJD) hooking against Brandon Duhaime (2 minutes)
+   4-3
+P3  10:38 
+Tom Wilson (WSH) tripping against Ondrej Palat (2 minutes)
+   4-3
+P3  00:08 
+Dawson Mercer (NJD) scores on empty net, assisted by Tomas Tatar and Nico Hischier
+   5-3
+P3  18:25
+Tom Wilson (WSH) scores on snap shot past Jacob Markstrom, assisted by Connor McMichael
+4-3
+P3  16:45
+Nic Dowd (WSH) high-sticking against Nico Hischier (2 minutes)
+4-3
+P3  15:04
+Jesper Bratt (NJD) hooking against Brandon Duhaime (2 minutes)
+4-3
+P3  10:38
+Tom Wilson (WSH) tripping against Ondrej Palat (2 minutes)
+4-3
+P3  00:08
+Dawson Mercer (NJD) scores on empty net, assisted by Tomas Tatar and Nico Hischier
+5-3
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  13:04   0  0    0   2   2   0   0   1   0/0Jesper Bratt L  14:37   0  1    1   0   0   2   0   0   0/0Paul Cotter C  13:10   2  0    1   4   1   2   0   0   0/1Erik Haula L  17:15   0  3    2   2   0   0   0   1 12/16Nico Hischier C  18:40   0  1    0   3   0   0   0   0  8/18Jack Hughes C  17:13   0  0    1   2   1   0   0   3   2/4Curtis Lazar C  11:18   0  0    0   1   0   0   1   1 10/14Timo Meier R  14:27   0  1    1   0   3   2   0   1   0/0Dawson Mercer C  19:55   1  0    0   1   1   0   0   1   0/0Stefan Noesen R  13:30   0  3    2   1   0   0   0   0   0/1Ondrej Palat L  13:12   0  0    0   2   0   0   1   1   0/0Tomas Tatar L  13:57   1  1    1   4   0   0   0   1   0/1Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  09:45   1  0    1   1   1   0   0   1   0/0Brenden Dillon D  21:36   0  0    3   0   3   0   0   1   0/0Dougie Hamilton D  22:07   0  0    3   4   1   0   1   1   0/0Johnathan Kovacevic D  22:43   0  0   -1   2   0   2   0   2   0/0Simon Nemec D  14:35   0  0    1   3   0   0   0   1   0/0Jonas Siegenthaler D  23:15   0  0   -1   1   3   0   0   0   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       33  16   8   3  16 32/55
+                                        58.2%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:31   3  29/32  26/28   1/2   2/2     0
+              .906   .929  .500 1.000 
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  17:14   0  0    0   0   2   4   0   1  8/16Pierre-Luc Dubois L  17:29   0  1   -1   2   1   2   0   1   1/6Brandon Duhaime R  15:07   0  0    0   1   1   0   0   1   0/0Hendrix Lapierre C  07:53   0  0   -3   0   0   0   0   1   1/5Andrew Mangiapane L  18:35   0  0    0   2   0   0   0   3   0/0Connor McMichael C  14:27   0  1    0   3   0   0   0   1   1/5Sonny Milano L  05:52   0  0   -3   1   0   0   0   0   0/0Alex Ovechkin L  19:44   0  1    0   0   0   0   0   0   0/0Aliaksei Protas C  10:28   0  0   -3   0   0   0   0   2   0/0Taylor Raddysh R  12:11   0  0    0   1   0   0   2   1   0/0Dylan Strome C  20:21   1  1    0   4   2   0   1   1 12/23Tom Wilson R  17:52   1  0   -1   5   3   2   1   1   0/0Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  24:55   1  1    0   4   2   0   0   1   0/0Jakob Chychrun D  22:09   0  0   -1   2   1   2   3   0   0/0Martin Fehervary D  20:59   0  0   -2   2   1   0   0   2   0/0Matt Roy D  08:39   0  0   -2   2   0   0   0   1   0/0Rasmus Sandin D  19:22   0  0    0   1   3   0   0   0   0/0Trevor van Riemsdyk D  19:03   0  0    0   2   2   0   1   0   0/0Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  18  10   8  17 23/55
+                                        41.8%Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  57:40   4  28/32  22/26   6/6   0/0     0
+              .875   .846 1.000
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  13:04   0  0    0   2   2   0   0   1   0/0Jesper Bratt L  14:37   0  1    1   0   0   2   0   0   0/0Paul Cotter C  13:10   2  0    1   4   1   2   0   0   0/1Erik Haula L  17:15   0  3    2   2   0   0   0   1 12/16Nico Hischier C  18:40   0  1    0   3   0   0   0   0  8/18Jack Hughes C  17:13   0  0    1   2   1   0   0   3   2/4Curtis Lazar C  11:18   0  0    0   1   0   0   1   1 10/14Timo Meier R  14:27   0  1    1   0   3   2   0   1   0/0Dawson Mercer C  19:55   1  0    0   1   1   0   0   1   0/0Stefan Noesen R  13:30   0  3    2   1   0   0   0   0   0/1Ondrej Palat L  13:12   0  0    0   2   0   0   1   1   0/0Tomas Tatar L  13:57   1  1    1   4   0   0   0   1   0/1
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+13:04   0  0    0   2   2   0   0   1   0/0
+Jesper Bratt L
+14:37   0  1    1   0   0   2   0   0   0/0
+Paul Cotter C
+13:10   2  0    1   4   1   2   0   0   0/1
+Erik Haula L
+17:15   0  3    2   2   0   0   0   1 12/16
+Nico Hischier C
+18:40   0  1    0   3   0   0   0   0  8/18
+Jack Hughes C
+17:13   0  0    1   2   1   0   0   3   2/4
+Curtis Lazar C
+11:18   0  0    0   1   0   0   1   1 10/14
+Timo Meier R
+14:27   0  1    1   0   3   2   0   1   0/0
+Dawson Mercer C
+19:55   1  0    0   1   1   0   0   1   0/0
+Stefan Noesen R
+13:30   0  3    2   1   0   0   0   0   0/1
+Ondrej Palat L
+13:12   0  0    0   2   0   0   1   1   0/0
+Tomas Tatar L
+13:57   1  1    1   4   0   0   0   1   0/1
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  09:45   1  0    1   1   1   0   0   1   0/0Brenden Dillon D  21:36   0  0    3   0   3   0   0   1   0/0Dougie Hamilton D  22:07   0  0    3   4   1   0   1   1   0/0Johnathan Kovacevic D  22:43   0  0   -1   2   0   2   0   2   0/0Simon Nemec D  14:35   0  0    1   3   0   0   0   1   0/0Jonas Siegenthaler D  23:15   0  0   -1   1   3   0   0   0   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Seamus Casey D
+09:45   1  0    1   1   1   0   0   1   0/0
+Brenden Dillon D
+21:36   0  0    3   0   3   0   0   1   0/0
+Dougie Hamilton D
+22:07   0  0    3   4   1   0   1   1   0/0
+Johnathan Kovacevic D
+22:43   0  0   -1   2   0   2   0   2   0/0
+Simon Nemec D
+14:35   0  0    1   3   0   0   0   1   0/0
+Jonas Siegenthaler D
+23:15   0  0   -1   1   3   0   0   0   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       33  16   8   3  16 32/55
+                                        58.2%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:31   3  29/32  26/28   1/2   2/2     0
+              .906   .929  .500 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+59:31   3  29/32  26/28   1/2   2/2     0
+              .906   .929  .500 1.000
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONic Dowd C  17:14   0  0    0   0   2   4   0   1  8/16Pierre-Luc Dubois L  17:29   0  1   -1   2   1   2   0   1   1/6Brandon Duhaime R  15:07   0  0    0   1   1   0   0   1   0/0Hendrix Lapierre C  07:53   0  0   -3   0   0   0   0   1   1/5Andrew Mangiapane L  18:35   0  0    0   2   0   0   0   3   0/0Connor McMichael C  14:27   0  1    0   3   0   0   0   1   1/5Sonny Milano L  05:52   0  0   -3   1   0   0   0   0   0/0Alex Ovechkin L  19:44   0  1    0   0   0   0   0   0   0/0Aliaksei Protas C  10:28   0  0   -3   0   0   0   0   2   0/0Taylor Raddysh R  12:11   0  0    0   1   0   0   2   1   0/0Dylan Strome C  20:21   1  1    0   4   2   0   1   1 12/23Tom Wilson R  17:52   1  0   -1   5   3   2   1   1   0/0
+Capitals Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nic Dowd C
+17:14   0  0    0   0   2   4   0   1  8/16
+Pierre-Luc Dubois L
+17:29   0  1   -1   2   1   2   0   1   1/6
+Brandon Duhaime R
+15:07   0  0    0   1   1   0   0   1   0/0
+Hendrix Lapierre C
+07:53   0  0   -3   0   0   0   0   1   1/5
+Andrew Mangiapane L
+18:35   0  0    0   2   0   0   0   3   0/0
+Connor McMichael C
+14:27   0  1    0   3   0   0   0   1   1/5
+Sonny Milano L
+05:52   0  0   -3   1   0   0   0   0   0/0
+Alex Ovechkin L
+19:44   0  1    0   0   0   0   0   0   0/0
+Aliaksei Protas C
+10:28   0  0   -3   0   0   0   0   2   0/0
+Taylor Raddysh R
+12:11   0  0    0   1   0   0   2   1   0/0
+Dylan Strome C
+20:21   1  1    0   4   2   0   1   1 12/23
+Tom Wilson R
+17:52   1  0   -1   5   3   2   1   1   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Carlson D  24:55   1  1    0   4   2   0   0   1   0/0Jakob Chychrun D  22:09   0  0   -1   2   1   2   3   0   0/0Martin Fehervary D  20:59   0  0   -2   2   1   0   0   2   0/0Matt Roy D  08:39   0  0   -2   2   0   0   0   1   0/0Rasmus Sandin D  19:22   0  0    0   1   3   0   0   0   0/0Trevor van Riemsdyk D  19:03   0  0    0   2   2   0   1   0   0/0
+Capitals Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Carlson D
+24:55   1  1    0   4   2   0   0   1   0/0
+Jakob Chychrun D
+22:09   0  0   -1   2   1   2   3   0   0/0
+Martin Fehervary D
+20:59   0  0   -2   2   1   0   0   2   0/0
+Matt Roy D
+08:39   0  0   -2   2   0   0   0   1   0/0
+Rasmus Sandin D
+19:22   0  0    0   1   3   0   0   0   0/0
+Trevor van Riemsdyk D
+19:03   0  0    0   2   2   0   1   0   0/0
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       32  18  10   8  17 23/55
+                                        41.8%
+Capitals Totals:
+          G  A        S   B  PM  TK  GV    FO
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCharlie Lindgren G  57:40   4  28/32  22/26   6/6   0/0     0
+              .875   .846 1.000
+Capitals Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Charlie Lindgren G
+57:40   4  28/32  22/26   6/6   0/0     0
+              .875   .846 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

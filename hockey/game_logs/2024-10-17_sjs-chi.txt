@@ -1,0 +1,427 @@
+< Oct. 17 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+San Jose
+Sharks0-2-2Final2 - 4Chicago
+Blackhawks2-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SJS   0  1  1    2  
+CHI   2  1  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:52 
+Jake Walman (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  16:47 
+Nick Foligno (CHI) tripping against Mikael Granlund (2 minutes)
+   0-0
+P1  15:40 
+Taylor Hall (CHI) scores on wrist shot past Vitek Vanecek, assisted by TJ Brodie
+   0-1
+P1  12:53 
+Connor Murphy (CHI) hooking against William Eklund (2 minutes)
+   0-1
+P1  01:38 
+Barclay Goodrow (SJS) tripping against Wyatt Kaiser (2 minutes)
+   0-1
+P1  00:49 
+Tyler Bertuzzi (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-2
+P1  00:18 
+Jan Rutta (SJS) high-sticking against Joey Anderson (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  19:17 
+Nick Foligno (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-3
+P2  18:38 
+Patrick Maroon (CHI) tripping against Matt Benning (2 minutes)
+   0-3
+P2  11:37 
+Matt Benning (SJS) tripping against Tyler Bertuzzi (2 minutes)
+   0-3
+P2  11:01 
+Jan Rutta (SJS) roughing against Connor Bedard (2 minutes)
+   0-3
+P2  01:43 
+Tyler Toffoli (SJS) scores on wrist shot past Petr Mrazek, assisted by William Eklund and Mikael Granlund
+   1-3
+P2  01:12 
+Fabian Zetterlund (SJS) tripping against Alex Vlasic (2 minutes)
+   1-3
+P2  00:28 
+Mario Ferraro (SJS) high-sticking against Tyler Bertuzzi (2 minutes)
+   1-3
+3rd Period: ShowHide
+P3  17:41 
+Jason Dickinson (CHI) scores on wrist shot past Vitek Vanecek, assisted by Joey Anderson
+   1-4
+P3  17:08 
+Fabian Zetterlund (SJS) scores goal with extra attacker on deflection past Petr Mrazek, assisted by Mikael Granlund and William Eklund
+   2-4
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  12:20   0  0   -1   0   1   0   1   0   1/1William Eklund L  19:02   0  2    2   2   0   0   0   0   0/0Barclay Goodrow C  14:14   0  0    0   1   0   2   1   0   1/3Mikael Granlund C  19:57   0  2    2   4   0   0   0   1  8/20Carl Grundstrom R  08:37   0  0    0   0   0   0   0   3   0/0Klim Kostin C  11:15   0  0   -1   0   0   0   0   1   1/1Luke Kunin C  17:11   0  0    0   3   1   0   0   0   6/7Will Smith C  19:09   0  0   -1   1   0   0   1   0   3/6Nico Sturm C  08:50   0  0    0   0   1   0   0   0   1/2Tyler Toffoli C  15:31   1  0    2   1   1   0   1   0   1/1Alexander Wennberg C  17:48   0  0   -1   1   1   0   0   0 11/18Fabian Zetterlund L  15:03   1  0    0   3   0   2   1   0   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  13:10   0  0    0   0   2   2   1   0   0/0Cody Ceci D  23:46   0  0   -1   2   3   0   0   1   0/0Mario Ferraro D  17:02   0  0    1   2   2   2   0   1   0/0Jan Rutta D  17:08   0  0    1   0   2   4   0   0   0/0Henry Thrun D  16:15   0  0   -1   0   2   0   0   1   0/0Jake Walman D  25:41   0  0    0   2   3   2   0   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       22  19  14   6   8 33/59
+                                        55.9%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVitek Vanecek G  56:11   4  23/27  13/15 10/12   0/0     0
+              .852   .867  .833 
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  14:07   0  1    1   0   2   0   1   0   0/1Connor Bedard C  21:53   0  2    1   3   0   0   3   1   4/7Tyler Bertuzzi L  18:37   1  0   -1   1   0   0   1   0   0/0Jason Dickinson C  15:17   1  0    1   1   1   0   0   1  5/14Nick Foligno L  19:10   1  0    0   4   0   2   0   0  6/13Taylor Hall L  13:46   1  0    0   3   3   0   1   0   0/0Philipp Kurashev C  12:43   0  0   -1   0   0   0   0   0  9/19Patrick Maroon L  12:00   0  0   -1   0   1   2   0   1   0/0Ilya Mikheyev R  15:01   0  0    1   3   1   0   0   0   0/0Lukas Reichel L  08:31   0  0   -1   1   1   0   0   0   1/4Craig Smith C  10:17   0  0   -1   0   0   0   0   0   0/0Teuvo Teravainen C  19:52   0  2    0   1   0   0   1   1   1/1Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:45   0  0   -1   1   0   0   0   0   0/0TJ Brodie D  16:24   0  1    1   1   2   0   0   0   0/0Seth Jones D  26:41   0  0    0   5   2   0   0   1   0/0Wyatt Kaiser D  17:41   0  0    1   0   2   0   0   0   0/0Connor Murphy D  16:30   0  0   -1   2   1   2   0   0   0/0Alex Vlasic D  21:49   0  0    0   1   2   0   0   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       27  18   6   7   6 26/59
+                                        44.1%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  59:56   2  20/22  16/18   2/2   2/2     0
+              .909   .889 1.000 1.000
+San Jose
+Sharks0-2-2Final2 - 4Chicago
+Blackhawks2-2-1
+San Jose
+Sharks0-2-2
+Final2 - 4
+Chicago
+Blackhawks2-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SJS   0  1  1    2  
+CHI   2  1  1    4
+1st Period: ShowHide
+P1  16:52 
+Jake Walman (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  16:47 
+Nick Foligno (CHI) tripping against Mikael Granlund (2 minutes)
+   0-0
+P1  15:40 
+Taylor Hall (CHI) scores on wrist shot past Vitek Vanecek, assisted by TJ Brodie
+   0-1
+P1  12:53 
+Connor Murphy (CHI) hooking against William Eklund (2 minutes)
+   0-1
+P1  01:38 
+Barclay Goodrow (SJS) tripping against Wyatt Kaiser (2 minutes)
+   0-1
+P1  00:49 
+Tyler Bertuzzi (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-2
+P1  00:18 
+Jan Rutta (SJS) high-sticking against Joey Anderson (2 minutes)
+   0-2
+2nd Period: ShowHide
+P2  19:17 
+Nick Foligno (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-3
+P2  18:38 
+Patrick Maroon (CHI) tripping against Matt Benning (2 minutes)
+   0-3
+P2  11:37 
+Matt Benning (SJS) tripping against Tyler Bertuzzi (2 minutes)
+   0-3
+P2  11:01 
+Jan Rutta (SJS) roughing against Connor Bedard (2 minutes)
+   0-3
+P2  01:43 
+Tyler Toffoli (SJS) scores on wrist shot past Petr Mrazek, assisted by William Eklund and Mikael Granlund
+   1-3
+P2  01:12 
+Fabian Zetterlund (SJS) tripping against Alex Vlasic (2 minutes)
+   1-3
+P2  00:28 
+Mario Ferraro (SJS) high-sticking against Tyler Bertuzzi (2 minutes)
+   1-3
+3rd Period: ShowHide
+P3  17:41 
+Jason Dickinson (CHI) scores on wrist shot past Vitek Vanecek, assisted by Joey Anderson
+   1-4
+P3  17:08 
+Fabian Zetterlund (SJS) scores goal with extra attacker on deflection past Petr Mrazek, assisted by Mikael Granlund and William Eklund
+   2-4
+1st Period: ShowHide
+P1  16:52 
+Jake Walman (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  16:47 
+Nick Foligno (CHI) tripping against Mikael Granlund (2 minutes)
+   0-0
+P1  15:40 
+Taylor Hall (CHI) scores on wrist shot past Vitek Vanecek, assisted by TJ Brodie
+   0-1
+P1  12:53 
+Connor Murphy (CHI) hooking against William Eklund (2 minutes)
+   0-1
+P1  01:38 
+Barclay Goodrow (SJS) tripping against Wyatt Kaiser (2 minutes)
+   0-1
+P1  00:49 
+Tyler Bertuzzi (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-2
+P1  00:18 
+Jan Rutta (SJS) high-sticking against Joey Anderson (2 minutes)
+   0-2
+P1  16:52 
+Jake Walman (SJS) delaying game - puck over glass (2 minutes)
+   0-0
+P1  16:47 
+Nick Foligno (CHI) tripping against Mikael Granlund (2 minutes)
+   0-0
+P1  15:40 
+Taylor Hall (CHI) scores on wrist shot past Vitek Vanecek, assisted by TJ Brodie
+   0-1
+P1  12:53 
+Connor Murphy (CHI) hooking against William Eklund (2 minutes)
+   0-1
+P1  01:38 
+Barclay Goodrow (SJS) tripping against Wyatt Kaiser (2 minutes)
+   0-1
+P1  00:49 
+Tyler Bertuzzi (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-2
+P1  00:18 
+Jan Rutta (SJS) high-sticking against Joey Anderson (2 minutes)
+   0-2
+P1  16:52
+Jake Walman (SJS) delaying game - puck over glass (2 minutes)
+0-0
+P1  16:47
+Nick Foligno (CHI) tripping against Mikael Granlund (2 minutes)
+0-0
+P1  15:40
+Taylor Hall (CHI) scores on wrist shot past Vitek Vanecek, assisted by TJ Brodie
+0-1
+P1  12:53
+Connor Murphy (CHI) hooking against William Eklund (2 minutes)
+0-1
+P1  01:38
+Barclay Goodrow (SJS) tripping against Wyatt Kaiser (2 minutes)
+0-1
+P1  00:49
+Tyler Bertuzzi (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+0-2
+P1  00:18
+Jan Rutta (SJS) high-sticking against Joey Anderson (2 minutes)
+0-2
+2nd Period: ShowHide
+P2  19:17 
+Nick Foligno (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-3
+P2  18:38 
+Patrick Maroon (CHI) tripping against Matt Benning (2 minutes)
+   0-3
+P2  11:37 
+Matt Benning (SJS) tripping against Tyler Bertuzzi (2 minutes)
+   0-3
+P2  11:01 
+Jan Rutta (SJS) roughing against Connor Bedard (2 minutes)
+   0-3
+P2  01:43 
+Tyler Toffoli (SJS) scores on wrist shot past Petr Mrazek, assisted by William Eklund and Mikael Granlund
+   1-3
+P2  01:12 
+Fabian Zetterlund (SJS) tripping against Alex Vlasic (2 minutes)
+   1-3
+P2  00:28 
+Mario Ferraro (SJS) high-sticking against Tyler Bertuzzi (2 minutes)
+   1-3
+P2  19:17 
+Nick Foligno (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+   0-3
+P2  18:38 
+Patrick Maroon (CHI) tripping against Matt Benning (2 minutes)
+   0-3
+P2  11:37 
+Matt Benning (SJS) tripping against Tyler Bertuzzi (2 minutes)
+   0-3
+P2  11:01 
+Jan Rutta (SJS) roughing against Connor Bedard (2 minutes)
+   0-3
+P2  01:43 
+Tyler Toffoli (SJS) scores on wrist shot past Petr Mrazek, assisted by William Eklund and Mikael Granlund
+   1-3
+P2  01:12 
+Fabian Zetterlund (SJS) tripping against Alex Vlasic (2 minutes)
+   1-3
+P2  00:28 
+Mario Ferraro (SJS) high-sticking against Tyler Bertuzzi (2 minutes)
+   1-3
+P2  19:17
+Nick Foligno (CHI) scores power-play goal on tip-in past Vitek Vanecek, assisted by Teuvo Teravainen and Connor Bedard
+0-3
+P2  18:38
+Patrick Maroon (CHI) tripping against Matt Benning (2 minutes)
+0-3
+P2  11:37
+Matt Benning (SJS) tripping against Tyler Bertuzzi (2 minutes)
+0-3
+P2  11:01
+Jan Rutta (SJS) roughing against Connor Bedard (2 minutes)
+0-3
+P2  01:43
+Tyler Toffoli (SJS) scores on wrist shot past Petr Mrazek, assisted by William Eklund and Mikael Granlund
+1-3
+P2  01:12
+Fabian Zetterlund (SJS) tripping against Alex Vlasic (2 minutes)
+1-3
+P2  00:28
+Mario Ferraro (SJS) high-sticking against Tyler Bertuzzi (2 minutes)
+1-3
+3rd Period: ShowHide
+P3  17:41 
+Jason Dickinson (CHI) scores on wrist shot past Vitek Vanecek, assisted by Joey Anderson
+   1-4
+P3  17:08 
+Fabian Zetterlund (SJS) scores goal with extra attacker on deflection past Petr Mrazek, assisted by Mikael Granlund and William Eklund
+   2-4
+P3  17:41 
+Jason Dickinson (CHI) scores on wrist shot past Vitek Vanecek, assisted by Joey Anderson
+   1-4
+P3  17:08 
+Fabian Zetterlund (SJS) scores goal with extra attacker on deflection past Petr Mrazek, assisted by Mikael Granlund and William Eklund
+   2-4
+P3  17:41
+Jason Dickinson (CHI) scores on wrist shot past Vitek Vanecek, assisted by Joey Anderson
+1-4
+P3  17:08
+Fabian Zetterlund (SJS) scores goal with extra attacker on deflection past Petr Mrazek, assisted by Mikael Granlund and William Eklund
+2-4
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  12:20   0  0   -1   0   1   0   1   0   1/1William Eklund L  19:02   0  2    2   2   0   0   0   0   0/0Barclay Goodrow C  14:14   0  0    0   1   0   2   1   0   1/3Mikael Granlund C  19:57   0  2    2   4   0   0   0   1  8/20Carl Grundstrom R  08:37   0  0    0   0   0   0   0   3   0/0Klim Kostin C  11:15   0  0   -1   0   0   0   0   1   1/1Luke Kunin C  17:11   0  0    0   3   1   0   0   0   6/7Will Smith C  19:09   0  0   -1   1   0   0   1   0   3/6Nico Sturm C  08:50   0  0    0   0   1   0   0   0   1/2Tyler Toffoli C  15:31   1  0    2   1   1   0   1   0   1/1Alexander Wennberg C  17:48   0  0   -1   1   1   0   0   0 11/18Fabian Zetterlund L  15:03   1  0    0   3   0   2   1   0   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  13:10   0  0    0   0   2   2   1   0   0/0Cody Ceci D  23:46   0  0   -1   2   3   0   0   1   0/0Mario Ferraro D  17:02   0  0    1   2   2   2   0   1   0/0Jan Rutta D  17:08   0  0    1   0   2   4   0   0   0/0Henry Thrun D  16:15   0  0   -1   0   2   0   0   1   0/0Jake Walman D  25:41   0  0    0   2   3   2   0   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       22  19  14   6   8 33/59
+                                        55.9%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVitek Vanecek G  56:11   4  23/27  13/15 10/12   0/0     0
+              .852   .867  .833 
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  14:07   0  1    1   0   2   0   1   0   0/1Connor Bedard C  21:53   0  2    1   3   0   0   3   1   4/7Tyler Bertuzzi L  18:37   1  0   -1   1   0   0   1   0   0/0Jason Dickinson C  15:17   1  0    1   1   1   0   0   1  5/14Nick Foligno L  19:10   1  0    0   4   0   2   0   0  6/13Taylor Hall L  13:46   1  0    0   3   3   0   1   0   0/0Philipp Kurashev C  12:43   0  0   -1   0   0   0   0   0  9/19Patrick Maroon L  12:00   0  0   -1   0   1   2   0   1   0/0Ilya Mikheyev R  15:01   0  0    1   3   1   0   0   0   0/0Lukas Reichel L  08:31   0  0   -1   1   1   0   0   0   1/4Craig Smith C  10:17   0  0   -1   0   0   0   0   0   0/0Teuvo Teravainen C  19:52   0  2    0   1   0   0   1   1   1/1Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:45   0  0   -1   1   0   0   0   0   0/0TJ Brodie D  16:24   0  1    1   1   2   0   0   0   0/0Seth Jones D  26:41   0  0    0   5   2   0   0   1   0/0Wyatt Kaiser D  17:41   0  0    1   0   2   0   0   0   0/0Connor Murphy D  16:30   0  0   -1   2   1   2   0   0   0/0Alex Vlasic D  21:49   0  0    0   1   2   0   0   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       27  18   6   7   6 26/59
+                                        44.1%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  59:56   2  20/22  16/18   2/2   2/2     0
+              .909   .889 1.000 1.000
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  12:20   0  0   -1   0   1   0   1   0   1/1William Eklund L  19:02   0  2    2   2   0   0   0   0   0/0Barclay Goodrow C  14:14   0  0    0   1   0   2   1   0   1/3Mikael Granlund C  19:57   0  2    2   4   0   0   0   1  8/20Carl Grundstrom R  08:37   0  0    0   0   0   0   0   3   0/0Klim Kostin C  11:15   0  0   -1   0   0   0   0   1   1/1Luke Kunin C  17:11   0  0    0   3   1   0   0   0   6/7Will Smith C  19:09   0  0   -1   1   0   0   1   0   3/6Nico Sturm C  08:50   0  0    0   0   1   0   0   0   1/2Tyler Toffoli C  15:31   1  0    2   1   1   0   1   0   1/1Alexander Wennberg C  17:48   0  0   -1   1   1   0   0   0 11/18Fabian Zetterlund L  15:03   1  0    0   3   0   2   1   0   0/0
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ty Dellandrea C
+12:20   0  0   -1   0   1   0   1   0   1/1
+William Eklund L
+19:02   0  2    2   2   0   0   0   0   0/0
+Barclay Goodrow C
+14:14   0  0    0   1   0   2   1   0   1/3
+Mikael Granlund C
+19:57   0  2    2   4   0   0   0   1  8/20
+Carl Grundstrom R
+08:37   0  0    0   0   0   0   0   3   0/0
+Klim Kostin C
+11:15   0  0   -1   0   0   0   0   1   1/1
+Luke Kunin C
+17:11   0  0    0   3   1   0   0   0   6/7
+Will Smith C
+19:09   0  0   -1   1   0   0   1   0   3/6
+Nico Sturm C
+08:50   0  0    0   0   1   0   0   0   1/2
+Tyler Toffoli C
+15:31   1  0    2   1   1   0   1   0   1/1
+Alexander Wennberg C
+17:48   0  0   -1   1   1   0   0   0 11/18
+Fabian Zetterlund L
+15:03   1  0    0   3   0   2   1   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  13:10   0  0    0   0   2   2   1   0   0/0Cody Ceci D  23:46   0  0   -1   2   3   0   0   1   0/0Mario Ferraro D  17:02   0  0    1   2   2   2   0   1   0/0Jan Rutta D  17:08   0  0    1   0   2   4   0   0   0/0Henry Thrun D  16:15   0  0   -1   0   2   0   0   1   0/0Jake Walman D  25:41   0  0    0   2   3   2   0   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Benning D
+13:10   0  0    0   0   2   2   1   0   0/0
+Cody Ceci D
+23:46   0  0   -1   2   3   0   0   1   0/0
+Mario Ferraro D
+17:02   0  0    1   2   2   2   0   1   0/0
+Jan Rutta D
+17:08   0  0    1   0   2   4   0   0   0/0
+Henry Thrun D
+16:15   0  0   -1   0   2   0   0   1   0/0
+Jake Walman D
+25:41   0  0    0   2   3   2   0   0   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       22  19  14   6   8 33/59
+                                        55.9%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVitek Vanecek G  56:11   4  23/27  13/15 10/12   0/0     0
+              .852   .867  .833
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Vitek Vanecek G
+56:11   4  23/27  13/15 10/12   0/0     0
+              .852   .867  .833
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  14:07   0  1    1   0   2   0   1   0   0/1Connor Bedard C  21:53   0  2    1   3   0   0   3   1   4/7Tyler Bertuzzi L  18:37   1  0   -1   1   0   0   1   0   0/0Jason Dickinson C  15:17   1  0    1   1   1   0   0   1  5/14Nick Foligno L  19:10   1  0    0   4   0   2   0   0  6/13Taylor Hall L  13:46   1  0    0   3   3   0   1   0   0/0Philipp Kurashev C  12:43   0  0   -1   0   0   0   0   0  9/19Patrick Maroon L  12:00   0  0   -1   0   1   2   0   1   0/0Ilya Mikheyev R  15:01   0  0    1   3   1   0   0   0   0/0Lukas Reichel L  08:31   0  0   -1   1   1   0   0   0   1/4Craig Smith C  10:17   0  0   -1   0   0   0   0   0   0/0Teuvo Teravainen C  19:52   0  2    0   1   0   0   1   1   1/1
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Joey Anderson R
+14:07   0  1    1   0   2   0   1   0   0/1
+Connor Bedard C
+21:53   0  2    1   3   0   0   3   1   4/7
+Tyler Bertuzzi L
+18:37   1  0   -1   1   0   0   1   0   0/0
+Jason Dickinson C
+15:17   1  0    1   1   1   0   0   1  5/14
+Nick Foligno L
+19:10   1  0    0   4   0   2   0   0  6/13
+Taylor Hall L
+13:46   1  0    0   3   3   0   1   0   0/0
+Philipp Kurashev C
+12:43   0  0   -1   0   0   0   0   0  9/19
+Patrick Maroon L
+12:00   0  0   -1   0   1   2   0   1   0/0
+Ilya Mikheyev R
+15:01   0  0    1   3   1   0   0   0   0/0
+Lukas Reichel L
+08:31   0  0   -1   1   1   0   0   0   1/4
+Craig Smith C
+10:17   0  0   -1   0   0   0   0   0   0/0
+Teuvo Teravainen C
+19:52   0  2    0   1   0   0   1   1   1/1
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:45   0  0   -1   1   0   0   0   0   0/0TJ Brodie D  16:24   0  1    1   1   2   0   0   0   0/0Seth Jones D  26:41   0  0    0   5   2   0   0   1   0/0Wyatt Kaiser D  17:41   0  0    1   0   2   0   0   0   0/0Connor Murphy D  16:30   0  0   -1   2   1   2   0   0   0/0Alex Vlasic D  21:49   0  0    0   1   2   0   0   1   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nolan Allan D
+13:45   0  0   -1   1   0   0   0   0   0/0
+TJ Brodie D
+16:24   0  1    1   1   2   0   0   0   0/0
+Seth Jones D
+26:41   0  0    0   5   2   0   0   1   0/0
+Wyatt Kaiser D
+17:41   0  0    1   0   2   0   0   0   0/0
+Connor Murphy D
+16:30   0  0   -1   2   1   2   0   0   0/0
+Alex Vlasic D
+21:49   0  0    0   1   2   0   0   1   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       27  18   6   7   6 26/59
+                                        44.1%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  59:56   2  20/22  16/18   2/2   2/2     0
+              .909   .889 1.000 1.000
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Petr Mrazek G
+59:56   2  20/22  16/18   2/2   2/2     0
+              .909   .889 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

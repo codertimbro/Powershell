@@ -1,0 +1,307 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Edmonton
+Oilers2-4-0Final1 - 4Dallas
+Stars5-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+EDM   0  0  1    1  
+DAL   0  1  3    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  01:14 
+Jamie Benn (DAL) hooking against Connor McDavid (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  05:56 
+Roope Hintz (DAL) tripping against Ty Emberson (2 minutes)
+   0-0
+P2  00:29 
+Troy Stecher (EDM) tripping against Jason Robertson (2 minutes)
+   0-0
+P2  00:26 
+Matt Duchene (DAL) scores power-play goal on wrist shot past Stuart Skinner, assisted by Roope Hintz
+   0-1
+3rd Period: ShowHide
+P3  07:54 
+Matt Duchene (DAL) scores on snap shot past Stuart Skinner, assisted by Mason Marchment and Colin Blackwell
+   0-2
+P3  06:44 
+Roope Hintz (DAL) scores on snap shot past Stuart Skinner, assisted by Logan Stankoven and Jason Robertson
+   0-3
+P3  02:22 
+Leon Draisaitl (EDM) scores goal with extra attacker on snap shot past Jake Oettinger, assisted by Ryan Nugent-Hopkins and Connor McDavid
+   1-3
+P3  01:59 
+Jason Robertson (DAL) scores on empty net, assisted by Logan Stankoven and Roope Hintz
+   1-4
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  14:35   0  0    1   2   0   0   1   2   1/1Connor Brown R  13:09   0  0   -2   0   1   0   0   1   0/0Leon Draisaitl C  21:04   1  0    0   2   0   0   1   2 14/18Adam Henrique C  12:20   0  0   -2   0   4   0   0   6   1/9Zach Hyman L  21:03   0  0    0   4   1   0   0   0   0/0Mattias Janmark C  14:37   0  0   -1   0   0   0   1   0   0/1Connor McDavid C  22:35   0  1    0   3   0   0   1   1  6/12Ryan Nugent-Hopkins C  18:43   0  1    1   0   0   0   0   0 13/15Corey Perry R  12:21   0  0   -1   0   0   0   0   1   0/0Vasily Podkolzin R  10:32   0  0    0   2   0   0   0   1   0/0Derek Ryan C  10:28   0  0    0   0   0   0   1   1   4/6Jeff Skinner L  14:06   0  0   -1   3   0   0   0   0   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  23:54   0  0    0   5   1   0   0   2   0/0Mattias Ekholm D  18:53   0  0   -2   5   0   0   2   1   0/0Ty Emberson D  16:27   0  0    0   3   1   0   1   1   0/0Brett Kulak D  15:12   0  0    0   1   3   0   0   2   0/0Darnell Nurse D  20:47   0  0   -2   1   0   0   0   1   0/0Troy Stecher D  20:20   0  0   -1   0   2   2   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  13   2   8  23 39/62
+                                        62.9%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  58:51   3  20/23  20/22   0/1   0/0     0
+              .870   .909  .000 
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:53   0  0   -1   0   1   2   0   1   5/8Colin Blackwell C  14:15   0  1    1   1   0   0   2   0  3/11Matěj Blümel R  08:00   0  0    0   2   1   0   1   0   0/0Mavrik Bourque C  11:56   0  0    0   0   2   0   0   0   0/6Oskar Bäck C  11:02   0  0    0   1   1   0   0   0   1/3Evgenii Dadonov R  16:14   0  0   -1   2   1   0   0   1   0/0Matt Duchene C  15:35   2  0    1   3   1   0   0   0   3/6Roope Hintz C  16:57   1  2    2   2   1   2   0   2  5/10Wyatt Johnston C  18:17   0  0   -1   1   1   0   2   1  3/11Mason Marchment L  15:05   0  1    1   3   3   0   2   0   0/0Jason Robertson L  17:09   1  1    2   2   1   0   0   1   0/0Logan Stankoven C  15:19   0  2    2   3   0   0   2   1   3/7Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  23:28   0  0    3   1   1   0   1   2   0/0Miro Heiskanen D  24:20   0  0    0   1   2   0   0   2   0/0Esa Lindell D  25:09   0  0   -1   0   5   0   0   3   0/0Nils Lundkvist D  16:07   0  0    0   2   1   0   0   0   0/0Ilya Lyubushkin D  18:35   0  0    2   0   1   0   0   0   0/0Brendan Smith D  12:39   0  0    0   0   1   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       24  24   4  10  15 23/62
+                                        37.1%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  60:00   1  30/31  26/27   4/4   0/0     0
+              .968   .963 1.000
+Edmonton
+Oilers2-4-0Final1 - 4Dallas
+Stars5-1-0
+Edmonton
+Oilers2-4-0
+Final1 - 4
+Dallas
+Stars5-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+EDM   0  0  1    1  
+DAL   0  1  3    4
+1st Period: ShowHide
+P1  01:14 
+Jamie Benn (DAL) hooking against Connor McDavid (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  05:56 
+Roope Hintz (DAL) tripping against Ty Emberson (2 minutes)
+   0-0
+P2  00:29 
+Troy Stecher (EDM) tripping against Jason Robertson (2 minutes)
+   0-0
+P2  00:26 
+Matt Duchene (DAL) scores power-play goal on wrist shot past Stuart Skinner, assisted by Roope Hintz
+   0-1
+3rd Period: ShowHide
+P3  07:54 
+Matt Duchene (DAL) scores on snap shot past Stuart Skinner, assisted by Mason Marchment and Colin Blackwell
+   0-2
+P3  06:44 
+Roope Hintz (DAL) scores on snap shot past Stuart Skinner, assisted by Logan Stankoven and Jason Robertson
+   0-3
+P3  02:22 
+Leon Draisaitl (EDM) scores goal with extra attacker on snap shot past Jake Oettinger, assisted by Ryan Nugent-Hopkins and Connor McDavid
+   1-3
+P3  01:59 
+Jason Robertson (DAL) scores on empty net, assisted by Logan Stankoven and Roope Hintz
+   1-4
+1st Period: ShowHide
+P1  01:14 
+Jamie Benn (DAL) hooking against Connor McDavid (2 minutes)
+   0-0
+P1  01:14 
+Jamie Benn (DAL) hooking against Connor McDavid (2 minutes)
+   0-0
+P1  01:14
+Jamie Benn (DAL) hooking against Connor McDavid (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  05:56 
+Roope Hintz (DAL) tripping against Ty Emberson (2 minutes)
+   0-0
+P2  00:29 
+Troy Stecher (EDM) tripping against Jason Robertson (2 minutes)
+   0-0
+P2  00:26 
+Matt Duchene (DAL) scores power-play goal on wrist shot past Stuart Skinner, assisted by Roope Hintz
+   0-1
+P2  05:56 
+Roope Hintz (DAL) tripping against Ty Emberson (2 minutes)
+   0-0
+P2  00:29 
+Troy Stecher (EDM) tripping against Jason Robertson (2 minutes)
+   0-0
+P2  00:26 
+Matt Duchene (DAL) scores power-play goal on wrist shot past Stuart Skinner, assisted by Roope Hintz
+   0-1
+P2  05:56
+Roope Hintz (DAL) tripping against Ty Emberson (2 minutes)
+0-0
+P2  00:29
+Troy Stecher (EDM) tripping against Jason Robertson (2 minutes)
+0-0
+P2  00:26
+Matt Duchene (DAL) scores power-play goal on wrist shot past Stuart Skinner, assisted by Roope Hintz
+0-1
+3rd Period: ShowHide
+P3  07:54 
+Matt Duchene (DAL) scores on snap shot past Stuart Skinner, assisted by Mason Marchment and Colin Blackwell
+   0-2
+P3  06:44 
+Roope Hintz (DAL) scores on snap shot past Stuart Skinner, assisted by Logan Stankoven and Jason Robertson
+   0-3
+P3  02:22 
+Leon Draisaitl (EDM) scores goal with extra attacker on snap shot past Jake Oettinger, assisted by Ryan Nugent-Hopkins and Connor McDavid
+   1-3
+P3  01:59 
+Jason Robertson (DAL) scores on empty net, assisted by Logan Stankoven and Roope Hintz
+   1-4
+P3  07:54 
+Matt Duchene (DAL) scores on snap shot past Stuart Skinner, assisted by Mason Marchment and Colin Blackwell
+   0-2
+P3  06:44 
+Roope Hintz (DAL) scores on snap shot past Stuart Skinner, assisted by Logan Stankoven and Jason Robertson
+   0-3
+P3  02:22 
+Leon Draisaitl (EDM) scores goal with extra attacker on snap shot past Jake Oettinger, assisted by Ryan Nugent-Hopkins and Connor McDavid
+   1-3
+P3  01:59 
+Jason Robertson (DAL) scores on empty net, assisted by Logan Stankoven and Roope Hintz
+   1-4
+P3  07:54
+Matt Duchene (DAL) scores on snap shot past Stuart Skinner, assisted by Mason Marchment and Colin Blackwell
+0-2
+P3  06:44
+Roope Hintz (DAL) scores on snap shot past Stuart Skinner, assisted by Logan Stankoven and Jason Robertson
+0-3
+P3  02:22
+Leon Draisaitl (EDM) scores goal with extra attacker on snap shot past Jake Oettinger, assisted by Ryan Nugent-Hopkins and Connor McDavid
+1-3
+P3  01:59
+Jason Robertson (DAL) scores on empty net, assisted by Logan Stankoven and Roope Hintz
+1-4
+Box Score:
+ 
+Back to Top
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  14:35   0  0    1   2   0   0   1   2   1/1Connor Brown R  13:09   0  0   -2   0   1   0   0   1   0/0Leon Draisaitl C  21:04   1  0    0   2   0   0   1   2 14/18Adam Henrique C  12:20   0  0   -2   0   4   0   0   6   1/9Zach Hyman L  21:03   0  0    0   4   1   0   0   0   0/0Mattias Janmark C  14:37   0  0   -1   0   0   0   1   0   0/1Connor McDavid C  22:35   0  1    0   3   0   0   1   1  6/12Ryan Nugent-Hopkins C  18:43   0  1    1   0   0   0   0   0 13/15Corey Perry R  12:21   0  0   -1   0   0   0   0   1   0/0Vasily Podkolzin R  10:32   0  0    0   2   0   0   0   1   0/0Derek Ryan C  10:28   0  0    0   0   0   0   1   1   4/6Jeff Skinner L  14:06   0  0   -1   3   0   0   0   0   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  23:54   0  0    0   5   1   0   0   2   0/0Mattias Ekholm D  18:53   0  0   -2   5   0   0   2   1   0/0Ty Emberson D  16:27   0  0    0   3   1   0   1   1   0/0Brett Kulak D  15:12   0  0    0   1   3   0   0   2   0/0Darnell Nurse D  20:47   0  0   -2   1   0   0   0   1   0/0Troy Stecher D  20:20   0  0   -1   0   2   2   0   1   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  13   2   8  23 39/62
+                                        62.9%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  58:51   3  20/23  20/22   0/1   0/0     0
+              .870   .909  .000 
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:53   0  0   -1   0   1   2   0   1   5/8Colin Blackwell C  14:15   0  1    1   1   0   0   2   0  3/11Matěj Blümel R  08:00   0  0    0   2   1   0   1   0   0/0Mavrik Bourque C  11:56   0  0    0   0   2   0   0   0   0/6Oskar Bäck C  11:02   0  0    0   1   1   0   0   0   1/3Evgenii Dadonov R  16:14   0  0   -1   2   1   0   0   1   0/0Matt Duchene C  15:35   2  0    1   3   1   0   0   0   3/6Roope Hintz C  16:57   1  2    2   2   1   2   0   2  5/10Wyatt Johnston C  18:17   0  0   -1   1   1   0   2   1  3/11Mason Marchment L  15:05   0  1    1   3   3   0   2   0   0/0Jason Robertson L  17:09   1  1    2   2   1   0   0   1   0/0Logan Stankoven C  15:19   0  2    2   3   0   0   2   1   3/7Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  23:28   0  0    3   1   1   0   1   2   0/0Miro Heiskanen D  24:20   0  0    0   1   2   0   0   2   0/0Esa Lindell D  25:09   0  0   -1   0   5   0   0   3   0/0Nils Lundkvist D  16:07   0  0    0   2   1   0   0   0   0/0Ilya Lyubushkin D  18:35   0  0    2   0   1   0   0   0   0/0Brendan Smith D  12:39   0  0    0   0   1   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       24  24   4  10  15 23/62
+                                        37.1%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  60:00   1  30/31  26/27   4/4   0/0     0
+              .968   .963 1.000
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  14:35   0  0    1   2   0   0   1   2   1/1Connor Brown R  13:09   0  0   -2   0   1   0   0   1   0/0Leon Draisaitl C  21:04   1  0    0   2   0   0   1   2 14/18Adam Henrique C  12:20   0  0   -2   0   4   0   0   6   1/9Zach Hyman L  21:03   0  0    0   4   1   0   0   0   0/0Mattias Janmark C  14:37   0  0   -1   0   0   0   1   0   0/1Connor McDavid C  22:35   0  1    0   3   0   0   1   1  6/12Ryan Nugent-Hopkins C  18:43   0  1    1   0   0   0   0   0 13/15Corey Perry R  12:21   0  0   -1   0   0   0   0   1   0/0Vasily Podkolzin R  10:32   0  0    0   2   0   0   0   1   0/0Derek Ryan C  10:28   0  0    0   0   0   0   1   1   4/6Jeff Skinner L  14:06   0  0   -1   3   0   0   0   0   0/0
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Viktor Arvidsson L
+14:35   0  0    1   2   0   0   1   2   1/1
+Connor Brown R
+13:09   0  0   -2   0   1   0   0   1   0/0
+Leon Draisaitl C
+21:04   1  0    0   2   0   0   1   2 14/18
+Adam Henrique C
+12:20   0  0   -2   0   4   0   0   6   1/9
+Zach Hyman L
+21:03   0  0    0   4   1   0   0   0   0/0
+Mattias Janmark C
+14:37   0  0   -1   0   0   0   1   0   0/1
+Connor McDavid C
+22:35   0  1    0   3   0   0   1   1  6/12
+Ryan Nugent-Hopkins C
+18:43   0  1    1   0   0   0   0   0 13/15
+Corey Perry R
+12:21   0  0   -1   0   0   0   0   1   0/0
+Vasily Podkolzin R
+10:32   0  0    0   2   0   0   0   1   0/0
+Derek Ryan C
+10:28   0  0    0   0   0   0   1   1   4/6
+Jeff Skinner L
+14:06   0  0   -1   3   0   0   0   0   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  23:54   0  0    0   5   1   0   0   2   0/0Mattias Ekholm D  18:53   0  0   -2   5   0   0   2   1   0/0Ty Emberson D  16:27   0  0    0   3   1   0   1   1   0/0Brett Kulak D  15:12   0  0    0   1   3   0   0   2   0/0Darnell Nurse D  20:47   0  0   -2   1   0   0   0   1   0/0Troy Stecher D  20:20   0  0   -1   0   2   2   0   1   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Evan Bouchard D
+23:54   0  0    0   5   1   0   0   2   0/0
+Mattias Ekholm D
+18:53   0  0   -2   5   0   0   2   1   0/0
+Ty Emberson D
+16:27   0  0    0   3   1   0   1   1   0/0
+Brett Kulak D
+15:12   0  0    0   1   3   0   0   2   0/0
+Darnell Nurse D
+20:47   0  0   -2   1   0   0   0   1   0/0
+Troy Stecher D
+20:20   0  0   -1   0   2   2   0   1   0/0
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       31  13   2   8  23 39/62
+                                        62.9%
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  58:51   3  20/23  20/22   0/1   0/0     0
+              .870   .909  .000
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Stuart Skinner G
+58:51   3  20/23  20/22   0/1   0/0     0
+              .870   .909  .000
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:53   0  0   -1   0   1   2   0   1   5/8Colin Blackwell C  14:15   0  1    1   1   0   0   2   0  3/11Matěj Blümel R  08:00   0  0    0   2   1   0   1   0   0/0Mavrik Bourque C  11:56   0  0    0   0   2   0   0   0   0/6Oskar Bäck C  11:02   0  0    0   1   1   0   0   0   1/3Evgenii Dadonov R  16:14   0  0   -1   2   1   0   0   1   0/0Matt Duchene C  15:35   2  0    1   3   1   0   0   0   3/6Roope Hintz C  16:57   1  2    2   2   1   2   0   2  5/10Wyatt Johnston C  18:17   0  0   -1   1   1   0   2   1  3/11Mason Marchment L  15:05   0  1    1   3   3   0   2   0   0/0Jason Robertson L  17:09   1  1    2   2   1   0   0   1   0/0Logan Stankoven C  15:19   0  2    2   3   0   0   2   1   3/7
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Benn L
+15:53   0  0   -1   0   1   2   0   1   5/8
+Colin Blackwell C
+14:15   0  1    1   1   0   0   2   0  3/11
+Matěj Blümel R
+08:00   0  0    0   2   1   0   1   0   0/0
+Mavrik Bourque C
+11:56   0  0    0   0   2   0   0   0   0/6
+Oskar Bäck C
+11:02   0  0    0   1   1   0   0   0   1/3
+Evgenii Dadonov R
+16:14   0  0   -1   2   1   0   0   1   0/0
+Matt Duchene C
+15:35   2  0    1   3   1   0   0   0   3/6
+Roope Hintz C
+16:57   1  2    2   2   1   2   0   2  5/10
+Wyatt Johnston C
+18:17   0  0   -1   1   1   0   2   1  3/11
+Mason Marchment L
+15:05   0  1    1   3   3   0   2   0   0/0
+Jason Robertson L
+17:09   1  1    2   2   1   0   0   1   0/0
+Logan Stankoven C
+15:19   0  2    2   3   0   0   2   1   3/7
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  23:28   0  0    3   1   1   0   1   2   0/0Miro Heiskanen D  24:20   0  0    0   1   2   0   0   2   0/0Esa Lindell D  25:09   0  0   -1   0   5   0   0   3   0/0Nils Lundkvist D  16:07   0  0    0   2   1   0   0   0   0/0Ilya Lyubushkin D  18:35   0  0    2   0   1   0   0   0   0/0Brendan Smith D  12:39   0  0    0   0   1   0   0   1   0/0
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Thomas Harley D
+23:28   0  0    3   1   1   0   1   2   0/0
+Miro Heiskanen D
+24:20   0  0    0   1   2   0   0   2   0/0
+Esa Lindell D
+25:09   0  0   -1   0   5   0   0   3   0/0
+Nils Lundkvist D
+16:07   0  0    0   2   1   0   0   0   0/0
+Ilya Lyubushkin D
+18:35   0  0    2   0   1   0   0   0   0/0
+Brendan Smith D
+12:39   0  0    0   0   1   0   0   1   0/0
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       24  24   4  10  15 23/62
+                                        37.1%
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  60:00   1  30/31  26/27   4/4   0/0     0
+              .968   .963 1.000
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jake Oettinger G
+60:00   1  30/31  26/27   4/4   0/0     0
+              .968   .963 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

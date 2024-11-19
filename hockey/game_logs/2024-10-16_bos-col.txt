@@ -1,0 +1,442 @@
+< Oct. 16 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Boston
+Bruins3-2-0Final5 - 3Colorado
+Avalanche0-4-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+BOS   2  2  1    5  
+COL   1  1  1    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:28 
+Parker Kelly (COL) interference against Riley Tufte (2 minutes)
+   0-0
+P1  06:14 
+Cole Koepke (BOS) scores on tip-in past Alexandar Georgiev, assisted by Andrew Peeke and Nikita Zadorov
+   1-0
+P1  05:12 
+Riley Tufte (BOS) holding against Josh Manson (2 minutes)
+   1-0
+P1  04:53 
+Ross Colton (COL) scores power-play goal on wrist shot past Joonas Korpisalo, assisted by Mikko Rantanen and Cale Makar
+   1-1
+P1  03:20 
+Oliver Kylington (COL) holding against Pavel Zacha (2 minutes)
+   1-1
+P1  02:51 
+Charlie Coyle (BOS) scores power-play goal on snap shot past Alexandar Georgiev, assisted by Mason Lohrei
+   2-1
+2nd Period: ShowHide
+P2  12:28 
+Mikko Rantanen (COL) interference against Brad Marchand (2 minutes)
+   2-1
+P2  10:51 
+David Pastrnak (BOS) scores power-play goal on wrist shot past Alexandar Georgiev, assisted by Hampus Lindholm and Brad Marchand
+   3-1
+P2  10:38 
+Hampus Lindholm (BOS) scores on wrist shot past Alexandar Georgiev
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) slashing against Matt Stienburg (2 minutes), served by Max Jones
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) fighting against Matt Stienburg (5 minutes)
+   4-1
+P2  09:44 
+Matt Stienburg (COL) fighting against Nikita Zadorov (5 minutes)
+   4-1
+P2  08:45 
+Cale Makar (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+3rd Period: ShowHide
+P3  18:18 
+Mikko Rantanen (COL) hooking against David Pastrnak (2 minutes)
+   4-2
+P3  15:31 
+Riley Tufte (BOS) cross-checking against Mikko Rantanen (2 minutes)
+   4-2
+P3  15:08 
+Mikko Rantanen (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Cale Makar and Nathan MacKinnon
+   4-3
+P3  02:01 
+John Beecher (BOS) scores on empty net
+   5-3
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:23   1  0    3   1   1   0   0   0   2/5Charlie Coyle C  19:34   1  0    0   3   1   0   3   0  9/15Trent Frederic C  16:39   0  0    0   3   1   0   0   1   3/6Max Jones L  09:22   0  0    0   1   0   0   0   0   0/0Mark Kastelic C  16:21   0  0    3   0   3   0   0   1   6/8Cole Koepke L  14:00   1  0    3   4   0   0   0   0   0/0Elias Lindholm C  19:55   0  0    0   1   1   0   0   1 10/13Brad Marchand L  16:20   0  1    0   0   1   0   0   0   0/0David Pastrnak R  22:00   1  0    0   5   0   0   0   1   0/0Matthew Poitras C  08:23   0  0    0   0   0   0   0   1   6/7Riley Tufte L  06:54   0  0    0   0   0   4   0   0   0/0Pavel Zacha C  19:28   0  0    0   3   0   0   0   0   2/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:03   0  0    2   0   7   0   0   0   0/0Hampus Lindholm D  22:04   1  1    1   2   1   0   1   0   0/0Mason Lohrei D  17:00   0  1    0   1   0   0   0   4   0/0Charlie McAvoy D  22:59   0  0    0   1   1   0   0   2   0/0Andrew Peeke D  15:34   0  1    1   0   0   0   0   3   0/0Nikita Zadorov D  18:20   0  1    2   0   1   7   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          5  5       25  18  11   4  15 38/62
+                                        61.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  60:00   3  22/25  21/21   0/3   1/1     0
+              .880  1.000  .000 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  19:36   1  0   -1   4   2   0   1   1  4/10Ivan Ivan C  06:29   0  0   -1   0   0   0   0   0   0/1Parker Kelly C  12:43   0  0   -1   1   1   2   1   1  4/13Joel Kiviranta L  11:10   0  0    0   0   0   0   0   0   0/0Nikolai Kovalenko R  13:03   0  0   -1   2   0   0   0   1   0/0Nathan MacKinnon C  23:48   0  2   -2   1   2   0   0   2  9/19Casey Mittelstadt C  21:33   0  0   -1   3   1   0   1   0  6/17Logan O'Connor R  18:46   0  0    0   0   0   0   0   1   0/0Mikko Rantanen R  21:45   1  2   -2   4   0   4   0   3   1/2Calum Ritchie C  13:45   0  0   -1   0   0   0   0   2   0/0Matt Stienburg C  04:36   0  0   -1   0   0   5   0   0   0/0Miles Wood L  12:46   0  0    0   1   0   0   0   1   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  23:34   0  0    0   0   4   0   0   2   0/0Oliver Kylington D  17:35   0  0   -1   0   2   2   0   0   0/0Cale Makar D  27:28   1  2   -2   2   0   0   2   2   0/0Sam Malinski D  13:07   0  0   -1   2   0   0   0   2   0/0Josh Manson D  19:18   0  0    0   3   1   0   1   2   0/0Calvin de Haan D  15:09   0  0   -1   2   2   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       25  15  13   6  20 24/62
+                                        38.7%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  57:43   4  20/24  16/18   4/6   0/0     0
+              .833   .889  .667
+Boston
+Bruins3-2-0Final5 - 3Colorado
+Avalanche0-4-0
+Boston
+Bruins3-2-0
+Final5 - 3
+Colorado
+Avalanche0-4-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+BOS   2  2  1    5  
+COL   1  1  1    3
+1st Period: ShowHide
+P1  17:28 
+Parker Kelly (COL) interference against Riley Tufte (2 minutes)
+   0-0
+P1  06:14 
+Cole Koepke (BOS) scores on tip-in past Alexandar Georgiev, assisted by Andrew Peeke and Nikita Zadorov
+   1-0
+P1  05:12 
+Riley Tufte (BOS) holding against Josh Manson (2 minutes)
+   1-0
+P1  04:53 
+Ross Colton (COL) scores power-play goal on wrist shot past Joonas Korpisalo, assisted by Mikko Rantanen and Cale Makar
+   1-1
+P1  03:20 
+Oliver Kylington (COL) holding against Pavel Zacha (2 minutes)
+   1-1
+P1  02:51 
+Charlie Coyle (BOS) scores power-play goal on snap shot past Alexandar Georgiev, assisted by Mason Lohrei
+   2-1
+2nd Period: ShowHide
+P2  12:28 
+Mikko Rantanen (COL) interference against Brad Marchand (2 minutes)
+   2-1
+P2  10:51 
+David Pastrnak (BOS) scores power-play goal on wrist shot past Alexandar Georgiev, assisted by Hampus Lindholm and Brad Marchand
+   3-1
+P2  10:38 
+Hampus Lindholm (BOS) scores on wrist shot past Alexandar Georgiev
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) slashing against Matt Stienburg (2 minutes), served by Max Jones
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) fighting against Matt Stienburg (5 minutes)
+   4-1
+P2  09:44 
+Matt Stienburg (COL) fighting against Nikita Zadorov (5 minutes)
+   4-1
+P2  08:45 
+Cale Makar (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+3rd Period: ShowHide
+P3  18:18 
+Mikko Rantanen (COL) hooking against David Pastrnak (2 minutes)
+   4-2
+P3  15:31 
+Riley Tufte (BOS) cross-checking against Mikko Rantanen (2 minutes)
+   4-2
+P3  15:08 
+Mikko Rantanen (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Cale Makar and Nathan MacKinnon
+   4-3
+P3  02:01 
+John Beecher (BOS) scores on empty net
+   5-3
+1st Period: ShowHide
+P1  17:28 
+Parker Kelly (COL) interference against Riley Tufte (2 minutes)
+   0-0
+P1  06:14 
+Cole Koepke (BOS) scores on tip-in past Alexandar Georgiev, assisted by Andrew Peeke and Nikita Zadorov
+   1-0
+P1  05:12 
+Riley Tufte (BOS) holding against Josh Manson (2 minutes)
+   1-0
+P1  04:53 
+Ross Colton (COL) scores power-play goal on wrist shot past Joonas Korpisalo, assisted by Mikko Rantanen and Cale Makar
+   1-1
+P1  03:20 
+Oliver Kylington (COL) holding against Pavel Zacha (2 minutes)
+   1-1
+P1  02:51 
+Charlie Coyle (BOS) scores power-play goal on snap shot past Alexandar Georgiev, assisted by Mason Lohrei
+   2-1
+P1  17:28 
+Parker Kelly (COL) interference against Riley Tufte (2 minutes)
+   0-0
+P1  06:14 
+Cole Koepke (BOS) scores on tip-in past Alexandar Georgiev, assisted by Andrew Peeke and Nikita Zadorov
+   1-0
+P1  05:12 
+Riley Tufte (BOS) holding against Josh Manson (2 minutes)
+   1-0
+P1  04:53 
+Ross Colton (COL) scores power-play goal on wrist shot past Joonas Korpisalo, assisted by Mikko Rantanen and Cale Makar
+   1-1
+P1  03:20 
+Oliver Kylington (COL) holding against Pavel Zacha (2 minutes)
+   1-1
+P1  02:51 
+Charlie Coyle (BOS) scores power-play goal on snap shot past Alexandar Georgiev, assisted by Mason Lohrei
+   2-1
+P1  17:28
+Parker Kelly (COL) interference against Riley Tufte (2 minutes)
+0-0
+P1  06:14
+Cole Koepke (BOS) scores on tip-in past Alexandar Georgiev, assisted by Andrew Peeke and Nikita Zadorov
+1-0
+P1  05:12
+Riley Tufte (BOS) holding against Josh Manson (2 minutes)
+1-0
+P1  04:53
+Ross Colton (COL) scores power-play goal on wrist shot past Joonas Korpisalo, assisted by Mikko Rantanen and Cale Makar
+1-1
+P1  03:20
+Oliver Kylington (COL) holding against Pavel Zacha (2 minutes)
+1-1
+P1  02:51
+Charlie Coyle (BOS) scores power-play goal on snap shot past Alexandar Georgiev, assisted by Mason Lohrei
+2-1
+2nd Period: ShowHide
+P2  12:28 
+Mikko Rantanen (COL) interference against Brad Marchand (2 minutes)
+   2-1
+P2  10:51 
+David Pastrnak (BOS) scores power-play goal on wrist shot past Alexandar Georgiev, assisted by Hampus Lindholm and Brad Marchand
+   3-1
+P2  10:38 
+Hampus Lindholm (BOS) scores on wrist shot past Alexandar Georgiev
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) slashing against Matt Stienburg (2 minutes), served by Max Jones
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) fighting against Matt Stienburg (5 minutes)
+   4-1
+P2  09:44 
+Matt Stienburg (COL) fighting against Nikita Zadorov (5 minutes)
+   4-1
+P2  08:45 
+Cale Makar (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+P2  12:28 
+Mikko Rantanen (COL) interference against Brad Marchand (2 minutes)
+   2-1
+P2  10:51 
+David Pastrnak (BOS) scores power-play goal on wrist shot past Alexandar Georgiev, assisted by Hampus Lindholm and Brad Marchand
+   3-1
+P2  10:38 
+Hampus Lindholm (BOS) scores on wrist shot past Alexandar Georgiev
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) slashing against Matt Stienburg (2 minutes), served by Max Jones
+   4-1
+P2  09:44 
+Nikita Zadorov (BOS) fighting against Matt Stienburg (5 minutes)
+   4-1
+P2  09:44 
+Matt Stienburg (COL) fighting against Nikita Zadorov (5 minutes)
+   4-1
+P2  08:45 
+Cale Makar (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Mikko Rantanen and Nathan MacKinnon
+   4-2
+P2  12:28
+Mikko Rantanen (COL) interference against Brad Marchand (2 minutes)
+2-1
+P2  10:51
+David Pastrnak (BOS) scores power-play goal on wrist shot past Alexandar Georgiev, assisted by Hampus Lindholm and Brad Marchand
+3-1
+P2  10:38
+Hampus Lindholm (BOS) scores on wrist shot past Alexandar Georgiev
+4-1
+P2  09:44
+Nikita Zadorov (BOS) slashing against Matt Stienburg (2 minutes), served by Max Jones
+4-1
+P2  09:44
+Nikita Zadorov (BOS) fighting against Matt Stienburg (5 minutes)
+4-1
+P2  09:44
+Matt Stienburg (COL) fighting against Nikita Zadorov (5 minutes)
+4-1
+P2  08:45
+Cale Makar (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Mikko Rantanen and Nathan MacKinnon
+4-2
+3rd Period: ShowHide
+P3  18:18 
+Mikko Rantanen (COL) hooking against David Pastrnak (2 minutes)
+   4-2
+P3  15:31 
+Riley Tufte (BOS) cross-checking against Mikko Rantanen (2 minutes)
+   4-2
+P3  15:08 
+Mikko Rantanen (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Cale Makar and Nathan MacKinnon
+   4-3
+P3  02:01 
+John Beecher (BOS) scores on empty net
+   5-3
+P3  18:18 
+Mikko Rantanen (COL) hooking against David Pastrnak (2 minutes)
+   4-2
+P3  15:31 
+Riley Tufte (BOS) cross-checking against Mikko Rantanen (2 minutes)
+   4-2
+P3  15:08 
+Mikko Rantanen (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Cale Makar and Nathan MacKinnon
+   4-3
+P3  02:01 
+John Beecher (BOS) scores on empty net
+   5-3
+P3  18:18
+Mikko Rantanen (COL) hooking against David Pastrnak (2 minutes)
+4-2
+P3  15:31
+Riley Tufte (BOS) cross-checking against Mikko Rantanen (2 minutes)
+4-2
+P3  15:08
+Mikko Rantanen (COL) scores power-play goal on slap shot past Joonas Korpisalo, assisted by Cale Makar and Nathan MacKinnon
+4-3
+P3  02:01
+John Beecher (BOS) scores on empty net
+5-3
+Box Score:
+ 
+Back to Top
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:23   1  0    3   1   1   0   0   0   2/5Charlie Coyle C  19:34   1  0    0   3   1   0   3   0  9/15Trent Frederic C  16:39   0  0    0   3   1   0   0   1   3/6Max Jones L  09:22   0  0    0   1   0   0   0   0   0/0Mark Kastelic C  16:21   0  0    3   0   3   0   0   1   6/8Cole Koepke L  14:00   1  0    3   4   0   0   0   0   0/0Elias Lindholm C  19:55   0  0    0   1   1   0   0   1 10/13Brad Marchand L  16:20   0  1    0   0   1   0   0   0   0/0David Pastrnak R  22:00   1  0    0   5   0   0   0   1   0/0Matthew Poitras C  08:23   0  0    0   0   0   0   0   1   6/7Riley Tufte L  06:54   0  0    0   0   0   4   0   0   0/0Pavel Zacha C  19:28   0  0    0   3   0   0   0   0   2/8Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:03   0  0    2   0   7   0   0   0   0/0Hampus Lindholm D  22:04   1  1    1   2   1   0   1   0   0/0Mason Lohrei D  17:00   0  1    0   1   0   0   0   4   0/0Charlie McAvoy D  22:59   0  0    0   1   1   0   0   2   0/0Andrew Peeke D  15:34   0  1    1   0   0   0   0   3   0/0Nikita Zadorov D  18:20   0  1    2   0   1   7   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          5  5       25  18  11   4  15 38/62
+                                        61.3%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  60:00   3  22/25  21/21   0/3   1/1     0
+              .880  1.000  .000 1.000 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  19:36   1  0   -1   4   2   0   1   1  4/10Ivan Ivan C  06:29   0  0   -1   0   0   0   0   0   0/1Parker Kelly C  12:43   0  0   -1   1   1   2   1   1  4/13Joel Kiviranta L  11:10   0  0    0   0   0   0   0   0   0/0Nikolai Kovalenko R  13:03   0  0   -1   2   0   0   0   1   0/0Nathan MacKinnon C  23:48   0  2   -2   1   2   0   0   2  9/19Casey Mittelstadt C  21:33   0  0   -1   3   1   0   1   0  6/17Logan O'Connor R  18:46   0  0    0   0   0   0   0   1   0/0Mikko Rantanen R  21:45   1  2   -2   4   0   4   0   3   1/2Calum Ritchie C  13:45   0  0   -1   0   0   0   0   2   0/0Matt Stienburg C  04:36   0  0   -1   0   0   5   0   0   0/0Miles Wood L  12:46   0  0    0   1   0   0   0   1   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  23:34   0  0    0   0   4   0   0   2   0/0Oliver Kylington D  17:35   0  0   -1   0   2   2   0   0   0/0Cale Makar D  27:28   1  2   -2   2   0   0   2   2   0/0Sam Malinski D  13:07   0  0   -1   2   0   0   0   2   0/0Josh Manson D  19:18   0  0    0   3   1   0   1   2   0/0Calvin de Haan D  15:09   0  0   -1   2   2   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       25  15  13   6  20 24/62
+                                        38.7%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  57:43   4  20/24  16/18   4/6   0/0     0
+              .833   .889  .667
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  13:23   1  0    3   1   1   0   0   0   2/5Charlie Coyle C  19:34   1  0    0   3   1   0   3   0  9/15Trent Frederic C  16:39   0  0    0   3   1   0   0   1   3/6Max Jones L  09:22   0  0    0   1   0   0   0   0   0/0Mark Kastelic C  16:21   0  0    3   0   3   0   0   1   6/8Cole Koepke L  14:00   1  0    3   4   0   0   0   0   0/0Elias Lindholm C  19:55   0  0    0   1   1   0   0   1 10/13Brad Marchand L  16:20   0  1    0   0   1   0   0   0   0/0David Pastrnak R  22:00   1  0    0   5   0   0   0   1   0/0Matthew Poitras C  08:23   0  0    0   0   0   0   0   1   6/7Riley Tufte L  06:54   0  0    0   0   0   4   0   0   0/0Pavel Zacha C  19:28   0  0    0   3   0   0   0   0   2/8
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+13:23   1  0    3   1   1   0   0   0   2/5
+Charlie Coyle C
+19:34   1  0    0   3   1   0   3   0  9/15
+Trent Frederic C
+16:39   0  0    0   3   1   0   0   1   3/6
+Max Jones L
+09:22   0  0    0   1   0   0   0   0   0/0
+Mark Kastelic C
+16:21   0  0    3   0   3   0   0   1   6/8
+Cole Koepke L
+14:00   1  0    3   4   0   0   0   0   0/0
+Elias Lindholm C
+19:55   0  0    0   1   1   0   0   1 10/13
+Brad Marchand L
+16:20   0  1    0   0   1   0   0   0   0/0
+David Pastrnak R
+22:00   1  0    0   5   0   0   0   1   0/0
+Matthew Poitras C
+08:23   0  0    0   0   0   0   0   1   6/7
+Riley Tufte L
+06:54   0  0    0   0   0   4   0   0   0/0
+Pavel Zacha C
+19:28   0  0    0   3   0   0   0   0   2/8
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  20:03   0  0    2   0   7   0   0   0   0/0Hampus Lindholm D  22:04   1  1    1   2   1   0   1   0   0/0Mason Lohrei D  17:00   0  1    0   1   0   0   0   4   0/0Charlie McAvoy D  22:59   0  0    0   1   1   0   0   2   0/0Andrew Peeke D  15:34   0  1    1   0   0   0   0   3   0/0Nikita Zadorov D  18:20   0  1    2   0   1   7   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+20:03   0  0    2   0   7   0   0   0   0/0
+Hampus Lindholm D
+22:04   1  1    1   2   1   0   1   0   0/0
+Mason Lohrei D
+17:00   0  1    0   1   0   0   0   4   0/0
+Charlie McAvoy D
+22:59   0  0    0   1   1   0   0   2   0/0
+Andrew Peeke D
+15:34   0  1    1   0   0   0   0   3   0/0
+Nikita Zadorov D
+18:20   0  1    2   0   1   7   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          5  5       25  18  11   4  15 38/62
+                                        61.3%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJoonas Korpisalo G  60:00   3  22/25  21/21   0/3   1/1     0
+              .880  1.000  .000 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Joonas Korpisalo G
+60:00   3  22/25  21/21   0/3   1/1     0
+              .880  1.000  .000 1.000
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  19:36   1  0   -1   4   2   0   1   1  4/10Ivan Ivan C  06:29   0  0   -1   0   0   0   0   0   0/1Parker Kelly C  12:43   0  0   -1   1   1   2   1   1  4/13Joel Kiviranta L  11:10   0  0    0   0   0   0   0   0   0/0Nikolai Kovalenko R  13:03   0  0   -1   2   0   0   0   1   0/0Nathan MacKinnon C  23:48   0  2   -2   1   2   0   0   2  9/19Casey Mittelstadt C  21:33   0  0   -1   3   1   0   1   0  6/17Logan O'Connor R  18:46   0  0    0   0   0   0   0   1   0/0Mikko Rantanen R  21:45   1  2   -2   4   0   4   0   3   1/2Calum Ritchie C  13:45   0  0   -1   0   0   0   0   2   0/0Matt Stienburg C  04:36   0  0   -1   0   0   5   0   0   0/0Miles Wood L  12:46   0  0    0   1   0   0   0   1   0/0
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+19:36   1  0   -1   4   2   0   1   1  4/10
+Ivan Ivan C
+06:29   0  0   -1   0   0   0   0   0   0/1
+Parker Kelly C
+12:43   0  0   -1   1   1   2   1   1  4/13
+Joel Kiviranta L
+11:10   0  0    0   0   0   0   0   0   0/0
+Nikolai Kovalenko R
+13:03   0  0   -1   2   0   0   0   1   0/0
+Nathan MacKinnon C
+23:48   0  2   -2   1   2   0   0   2  9/19
+Casey Mittelstadt C
+21:33   0  0   -1   3   1   0   1   0  6/17
+Logan O'Connor R
+18:46   0  0    0   0   0   0   0   1   0/0
+Mikko Rantanen R
+21:45   1  2   -2   4   0   4   0   3   1/2
+Calum Ritchie C
+13:45   0  0   -1   0   0   0   0   2   0/0
+Matt Stienburg C
+04:36   0  0   -1   0   0   5   0   0   0/0
+Miles Wood L
+12:46   0  0    0   1   0   0   0   1   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  23:34   0  0    0   0   4   0   0   2   0/0Oliver Kylington D  17:35   0  0   -1   0   2   2   0   0   0/0Cale Makar D  27:28   1  2   -2   2   0   0   2   2   0/0Sam Malinski D  13:07   0  0   -1   2   0   0   0   2   0/0Josh Manson D  19:18   0  0    0   3   1   0   1   2   0/0Calvin de Haan D  15:09   0  0   -1   2   2   0   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+23:34   0  0    0   0   4   0   0   2   0/0
+Oliver Kylington D
+17:35   0  0   -1   0   2   2   0   0   0/0
+Cale Makar D
+27:28   1  2   -2   2   0   0   2   2   0/0
+Sam Malinski D
+13:07   0  0   -1   2   0   0   0   2   0/0
+Josh Manson D
+19:18   0  0    0   3   1   0   1   2   0/0
+Calvin de Haan D
+15:09   0  0   -1   2   2   0   0   0   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       25  15  13   6  20 24/62
+                                        38.7%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlexandar Georgiev G  57:43   4  20/24  16/18   4/6   0/0     0
+              .833   .889  .667
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alexandar Georgiev G
+57:43   4  20/24  16/18   4/6   0/0     0
+              .833   .889  .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

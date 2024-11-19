@@ -1,0 +1,385 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Los Angeles
+Kings1-0-1Final/OT1 - 2Boston
+Bruins2-1-0
+Goals & Penalties Box Score
+      1  2  3 OT    T  
+---------------------  
+LAK   0  1  0  0    1  
+BOS   0  1  0  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:29 
+Alex Laferriere (LAK) hooking against Charlie McAvoy (2 minutes)
+   0-0
+P1  12:59 
+Brandt Clarke (LAK) high-sticking against Matthew Poitras (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  16:41 
+Nikita Zadorov (BOS) boarding against Tanner Jeannot (2 minutes)
+   0-0
+P2  14:38 
+Trevor Moore (LAK) scores on wrist shot past Jeremy Swayman, assisted by Phillip Danault and Quinton Byfield
+   1-0
+P2  12:29 
+Charlie McAvoy (BOS) tripping against Quinton Byfield (2 minutes)
+   1-0
+P2  08:03 
+Jordan Spence (LAK) interference against Matthew Poitras (2 minutes)
+   1-0
+P2  03:52 
+Brandt Clarke (LAK) holding against Justin Brazeau (2 minutes)
+   1-0
+P2  03:43 
+Pavel Zacha (BOS) interference against Adrian Kempe (2 minutes)
+   1-0
+P2  03:10 
+Elias Lindholm (BOS) scores on wrist shot past Darcy Kuemper, assisted by Brad Marchand
+   1-1
+3rd Period: ShowHide
+P3  16:08 
+Brandon Carlo (BOS) tripping against Brandt Clarke (2 minutes)
+   1-1
+P3  06:16 
+David Pastrnak (BOS) slashing against Kyle Burroughs (2 minutes)
+   1-1
+P3  03:03 
+Quinton Byfield (LAK) holding the stick against Morgan Geekie (2 minutes)
+   1-1
+Overtime: ShowHide
+OT  01:53 
+David Pastrnak (BOS) scores on wrist shot past Darcy Kuemper, assisted by Mason Lohrei and Matthew Poitras
+   1-2
+Box Score:
+ 
+Back to Top
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:38   0  1    0   3   0   2   1   1   4/8Phillip Danault C  18:11   0  1    1   2   1   0   1   0  6/16Kevin Fiala L  17:13   0  0    0   3   0   0   1   2   0/1Warren Foegele L  14:39   0  0    0   5   1   0   1   1   1/2Tanner Jeannot L  11:41   0  0    0   0   0   0   0   0   0/0Adrian Kempe R  20:02   0  0   -2   3   0   0   1   1   0/1Anze Kopitar C  21:02   0  0   -1   0   3   0   1   0 10/18Alex Laferriere R  16:56   0  0    0   5   0   2   0   1   0/0Andre Lee L  08:03   0  0    0   0   1   0   0   1   0/0Trevor Lewis C  10:26   0  0    0   1   1   0   0   0   1/3Trevor Moore L  19:07   1  0    0   7   0   0   1   0   0/0Alex Turcotte C  09:03   0  0    1   0   0   0   1   0   0/0Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  22:09   0  0   -1   0   3   0   1   0   0/0Kyle Burroughs D  16:26   0  0    0   1   0   0   1   3   0/0Brandt Clarke D  17:02   0  0    0   0   2   4   0   1   0/0Joel Edmundson D  19:58   0  0    0   1   3   0   0   1   0/0Vladislav Gavrikov D  23:17   0  0    0   3   3   0   0   1   0/0Jordan Spence D  16:28   0  0    0   0   0   2   0   0   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       34  18  10  10  13 22/49
+                                        44.9%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  63:07   2  23/25  17/19   4/4   2/2     0
+              .920   .895 1.000 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:49   0  0    0   0   4   0   1   0   0/2Justin Brazeau R  11:52   0  0    0   0   0   0   0   0   0/0Charlie Coyle C  17:00   0  0    1   1   2   0   0   0   3/8Trent Frederic C  15:43   0  0   -1   2   0   0   0   1   2/6Morgan Geekie C  14:46   0  0    0   1   0   0   0   0   1/1Mark Kastelic C  11:44   0  0   -1   0   1   0   0   0   4/7Cole Koepke L  12:01   0  0    0   0   2   0   0   2   0/0Elias Lindholm C  17:35   1  0    1   1   2   0   1   0  9/16Brad Marchand L  19:12   0  1    1   4   1   0   0   0   0/0David Pastrnak R  18:03   1  0    1   2   0   2   2   0   0/0Matthew Poitras C  16:05   0  1    0   0   0   0   2   0   3/3Pavel Zacha C  17:45   0  0    0   3   0   2   0   0   5/6Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:34   0  0   -1   3   2   2   1   0   0/0Hampus Lindholm D  21:48   0  0   -1   5   2   0   0   1   0/0Mason Lohrei D  15:54   0  1    1   0   1   0   0   2   0/0Charlie McAvoy D  23:14   0  0    1   2   2   2   1   0   0/0Andrew Peeke D  16:09   0  0    0   0   2   0   0   2   0/0Nikita Zadorov D  19:32   0  0    0   1   1   2   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       25  22  10   8   9 27/49
+                                        55.1%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:42   1  33/34  19/20 10/10   4/4     0
+              .971   .950 1.000 1.000
+Los Angeles
+Kings1-0-1Final/OT1 - 2Boston
+Bruins2-1-0
+Los Angeles
+Kings1-0-1
+Final/OT1 - 2
+Boston
+Bruins2-1-0
+Goals & Penalties Box Score
+1  2  3 OT    T  
+---------------------  
+LAK   0  1  0  0    1  
+BOS   0  1  0  1    2
+1st Period: ShowHide
+P1  16:29 
+Alex Laferriere (LAK) hooking against Charlie McAvoy (2 minutes)
+   0-0
+P1  12:59 
+Brandt Clarke (LAK) high-sticking against Matthew Poitras (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  16:41 
+Nikita Zadorov (BOS) boarding against Tanner Jeannot (2 minutes)
+   0-0
+P2  14:38 
+Trevor Moore (LAK) scores on wrist shot past Jeremy Swayman, assisted by Phillip Danault and Quinton Byfield
+   1-0
+P2  12:29 
+Charlie McAvoy (BOS) tripping against Quinton Byfield (2 minutes)
+   1-0
+P2  08:03 
+Jordan Spence (LAK) interference against Matthew Poitras (2 minutes)
+   1-0
+P2  03:52 
+Brandt Clarke (LAK) holding against Justin Brazeau (2 minutes)
+   1-0
+P2  03:43 
+Pavel Zacha (BOS) interference against Adrian Kempe (2 minutes)
+   1-0
+P2  03:10 
+Elias Lindholm (BOS) scores on wrist shot past Darcy Kuemper, assisted by Brad Marchand
+   1-1
+3rd Period: ShowHide
+P3  16:08 
+Brandon Carlo (BOS) tripping against Brandt Clarke (2 minutes)
+   1-1
+P3  06:16 
+David Pastrnak (BOS) slashing against Kyle Burroughs (2 minutes)
+   1-1
+P3  03:03 
+Quinton Byfield (LAK) holding the stick against Morgan Geekie (2 minutes)
+   1-1
+Overtime: ShowHide
+OT  01:53 
+David Pastrnak (BOS) scores on wrist shot past Darcy Kuemper, assisted by Mason Lohrei and Matthew Poitras
+   1-2
+1st Period: ShowHide
+P1  16:29 
+Alex Laferriere (LAK) hooking against Charlie McAvoy (2 minutes)
+   0-0
+P1  12:59 
+Brandt Clarke (LAK) high-sticking against Matthew Poitras (2 minutes)
+   0-0
+P1  16:29 
+Alex Laferriere (LAK) hooking against Charlie McAvoy (2 minutes)
+   0-0
+P1  12:59 
+Brandt Clarke (LAK) high-sticking against Matthew Poitras (2 minutes)
+   0-0
+P1  16:29
+Alex Laferriere (LAK) hooking against Charlie McAvoy (2 minutes)
+0-0
+P1  12:59
+Brandt Clarke (LAK) high-sticking against Matthew Poitras (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  16:41 
+Nikita Zadorov (BOS) boarding against Tanner Jeannot (2 minutes)
+   0-0
+P2  14:38 
+Trevor Moore (LAK) scores on wrist shot past Jeremy Swayman, assisted by Phillip Danault and Quinton Byfield
+   1-0
+P2  12:29 
+Charlie McAvoy (BOS) tripping against Quinton Byfield (2 minutes)
+   1-0
+P2  08:03 
+Jordan Spence (LAK) interference against Matthew Poitras (2 minutes)
+   1-0
+P2  03:52 
+Brandt Clarke (LAK) holding against Justin Brazeau (2 minutes)
+   1-0
+P2  03:43 
+Pavel Zacha (BOS) interference against Adrian Kempe (2 minutes)
+   1-0
+P2  03:10 
+Elias Lindholm (BOS) scores on wrist shot past Darcy Kuemper, assisted by Brad Marchand
+   1-1
+P2  16:41 
+Nikita Zadorov (BOS) boarding against Tanner Jeannot (2 minutes)
+   0-0
+P2  14:38 
+Trevor Moore (LAK) scores on wrist shot past Jeremy Swayman, assisted by Phillip Danault and Quinton Byfield
+   1-0
+P2  12:29 
+Charlie McAvoy (BOS) tripping against Quinton Byfield (2 minutes)
+   1-0
+P2  08:03 
+Jordan Spence (LAK) interference against Matthew Poitras (2 minutes)
+   1-0
+P2  03:52 
+Brandt Clarke (LAK) holding against Justin Brazeau (2 minutes)
+   1-0
+P2  03:43 
+Pavel Zacha (BOS) interference against Adrian Kempe (2 minutes)
+   1-0
+P2  03:10 
+Elias Lindholm (BOS) scores on wrist shot past Darcy Kuemper, assisted by Brad Marchand
+   1-1
+P2  16:41
+Nikita Zadorov (BOS) boarding against Tanner Jeannot (2 minutes)
+0-0
+P2  14:38
+Trevor Moore (LAK) scores on wrist shot past Jeremy Swayman, assisted by Phillip Danault and Quinton Byfield
+1-0
+P2  12:29
+Charlie McAvoy (BOS) tripping against Quinton Byfield (2 minutes)
+1-0
+P2  08:03
+Jordan Spence (LAK) interference against Matthew Poitras (2 minutes)
+1-0
+P2  03:52
+Brandt Clarke (LAK) holding against Justin Brazeau (2 minutes)
+1-0
+P2  03:43
+Pavel Zacha (BOS) interference against Adrian Kempe (2 minutes)
+1-0
+P2  03:10
+Elias Lindholm (BOS) scores on wrist shot past Darcy Kuemper, assisted by Brad Marchand
+1-1
+3rd Period: ShowHide
+P3  16:08 
+Brandon Carlo (BOS) tripping against Brandt Clarke (2 minutes)
+   1-1
+P3  06:16 
+David Pastrnak (BOS) slashing against Kyle Burroughs (2 minutes)
+   1-1
+P3  03:03 
+Quinton Byfield (LAK) holding the stick against Morgan Geekie (2 minutes)
+   1-1
+P3  16:08 
+Brandon Carlo (BOS) tripping against Brandt Clarke (2 minutes)
+   1-1
+P3  06:16 
+David Pastrnak (BOS) slashing against Kyle Burroughs (2 minutes)
+   1-1
+P3  03:03 
+Quinton Byfield (LAK) holding the stick against Morgan Geekie (2 minutes)
+   1-1
+P3  16:08
+Brandon Carlo (BOS) tripping against Brandt Clarke (2 minutes)
+1-1
+P3  06:16
+David Pastrnak (BOS) slashing against Kyle Burroughs (2 minutes)
+1-1
+P3  03:03
+Quinton Byfield (LAK) holding the stick against Morgan Geekie (2 minutes)
+1-1
+Overtime: ShowHide
+OT  01:53 
+David Pastrnak (BOS) scores on wrist shot past Darcy Kuemper, assisted by Mason Lohrei and Matthew Poitras
+   1-2
+OT  01:53 
+David Pastrnak (BOS) scores on wrist shot past Darcy Kuemper, assisted by Mason Lohrei and Matthew Poitras
+   1-2
+OT  01:53
+David Pastrnak (BOS) scores on wrist shot past Darcy Kuemper, assisted by Mason Lohrei and Matthew Poitras
+1-2
+Box Score:
+ 
+Back to Top
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:38   0  1    0   3   0   2   1   1   4/8Phillip Danault C  18:11   0  1    1   2   1   0   1   0  6/16Kevin Fiala L  17:13   0  0    0   3   0   0   1   2   0/1Warren Foegele L  14:39   0  0    0   5   1   0   1   1   1/2Tanner Jeannot L  11:41   0  0    0   0   0   0   0   0   0/0Adrian Kempe R  20:02   0  0   -2   3   0   0   1   1   0/1Anze Kopitar C  21:02   0  0   -1   0   3   0   1   0 10/18Alex Laferriere R  16:56   0  0    0   5   0   2   0   1   0/0Andre Lee L  08:03   0  0    0   0   1   0   0   1   0/0Trevor Lewis C  10:26   0  0    0   1   1   0   0   0   1/3Trevor Moore L  19:07   1  0    0   7   0   0   1   0   0/0Alex Turcotte C  09:03   0  0    1   0   0   0   1   0   0/0Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  22:09   0  0   -1   0   3   0   1   0   0/0Kyle Burroughs D  16:26   0  0    0   1   0   0   1   3   0/0Brandt Clarke D  17:02   0  0    0   0   2   4   0   1   0/0Joel Edmundson D  19:58   0  0    0   1   3   0   0   1   0/0Vladislav Gavrikov D  23:17   0  0    0   3   3   0   0   1   0/0Jordan Spence D  16:28   0  0    0   0   0   2   0   0   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       34  18  10  10  13 22/49
+                                        44.9%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  63:07   2  23/25  17/19   4/4   2/2     0
+              .920   .895 1.000 1.000 
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:49   0  0    0   0   4   0   1   0   0/2Justin Brazeau R  11:52   0  0    0   0   0   0   0   0   0/0Charlie Coyle C  17:00   0  0    1   1   2   0   0   0   3/8Trent Frederic C  15:43   0  0   -1   2   0   0   0   1   2/6Morgan Geekie C  14:46   0  0    0   1   0   0   0   0   1/1Mark Kastelic C  11:44   0  0   -1   0   1   0   0   0   4/7Cole Koepke L  12:01   0  0    0   0   2   0   0   2   0/0Elias Lindholm C  17:35   1  0    1   1   2   0   1   0  9/16Brad Marchand L  19:12   0  1    1   4   1   0   0   0   0/0David Pastrnak R  18:03   1  0    1   2   0   2   2   0   0/0Matthew Poitras C  16:05   0  1    0   0   0   0   2   0   3/3Pavel Zacha C  17:45   0  0    0   3   0   2   0   0   5/6Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:34   0  0   -1   3   2   2   1   0   0/0Hampus Lindholm D  21:48   0  0   -1   5   2   0   0   1   0/0Mason Lohrei D  15:54   0  1    1   0   1   0   0   2   0/0Charlie McAvoy D  23:14   0  0    1   2   2   2   1   0   0/0Andrew Peeke D  16:09   0  0    0   0   2   0   0   2   0/0Nikita Zadorov D  19:32   0  0    0   1   1   2   0   1   0/0Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       25  22  10   8   9 27/49
+                                        55.1%Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:42   1  33/34  19/20 10/10   4/4     0
+              .971   .950 1.000 1.000
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:38   0  1    0   3   0   2   1   1   4/8Phillip Danault C  18:11   0  1    1   2   1   0   1   0  6/16Kevin Fiala L  17:13   0  0    0   3   0   0   1   2   0/1Warren Foegele L  14:39   0  0    0   5   1   0   1   1   1/2Tanner Jeannot L  11:41   0  0    0   0   0   0   0   0   0/0Adrian Kempe R  20:02   0  0   -2   3   0   0   1   1   0/1Anze Kopitar C  21:02   0  0   -1   0   3   0   1   0 10/18Alex Laferriere R  16:56   0  0    0   5   0   2   0   1   0/0Andre Lee L  08:03   0  0    0   0   1   0   0   1   0/0Trevor Lewis C  10:26   0  0    0   1   1   0   0   0   1/3Trevor Moore L  19:07   1  0    0   7   0   0   1   0   0/0Alex Turcotte C  09:03   0  0    1   0   0   0   1   0   0/0
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Quinton Byfield R
+17:38   0  1    0   3   0   2   1   1   4/8
+Phillip Danault C
+18:11   0  1    1   2   1   0   1   0  6/16
+Kevin Fiala L
+17:13   0  0    0   3   0   0   1   2   0/1
+Warren Foegele L
+14:39   0  0    0   5   1   0   1   1   1/2
+Tanner Jeannot L
+11:41   0  0    0   0   0   0   0   0   0/0
+Adrian Kempe R
+20:02   0  0   -2   3   0   0   1   1   0/1
+Anze Kopitar C
+21:02   0  0   -1   0   3   0   1   0 10/18
+Alex Laferriere R
+16:56   0  0    0   5   0   2   0   1   0/0
+Andre Lee L
+08:03   0  0    0   0   1   0   0   1   0/0
+Trevor Lewis C
+10:26   0  0    0   1   1   0   0   0   1/3
+Trevor Moore L
+19:07   1  0    0   7   0   0   1   0   0/0
+Alex Turcotte C
+09:03   0  0    1   0   0   0   1   0   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  22:09   0  0   -1   0   3   0   1   0   0/0Kyle Burroughs D  16:26   0  0    0   1   0   0   1   3   0/0Brandt Clarke D  17:02   0  0    0   0   2   4   0   1   0/0Joel Edmundson D  19:58   0  0    0   1   3   0   0   1   0/0Vladislav Gavrikov D  23:17   0  0    0   3   3   0   0   1   0/0Jordan Spence D  16:28   0  0    0   0   0   2   0   0   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikey Anderson D
+22:09   0  0   -1   0   3   0   1   0   0/0
+Kyle Burroughs D
+16:26   0  0    0   1   0   0   1   3   0/0
+Brandt Clarke D
+17:02   0  0    0   0   2   4   0   1   0/0
+Joel Edmundson D
+19:58   0  0    0   1   3   0   0   1   0/0
+Vladislav Gavrikov D
+23:17   0  0    0   3   3   0   0   1   0/0
+Jordan Spence D
+16:28   0  0    0   0   0   2   0   0   0/0
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       34  18  10  10  13 22/49
+                                        44.9%
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDarcy Kuemper G  63:07   2  23/25  17/19   4/4   2/2     0
+              .920   .895 1.000 1.000
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Darcy Kuemper G
+63:07   2  23/25  17/19   4/4   2/2     0
+              .920   .895 1.000 1.000
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJohn Beecher C  12:49   0  0    0   0   4   0   1   0   0/2Justin Brazeau R  11:52   0  0    0   0   0   0   0   0   0/0Charlie Coyle C  17:00   0  0    1   1   2   0   0   0   3/8Trent Frederic C  15:43   0  0   -1   2   0   0   0   1   2/6Morgan Geekie C  14:46   0  0    0   1   0   0   0   0   1/1Mark Kastelic C  11:44   0  0   -1   0   1   0   0   0   4/7Cole Koepke L  12:01   0  0    0   0   2   0   0   2   0/0Elias Lindholm C  17:35   1  0    1   1   2   0   1   0  9/16Brad Marchand L  19:12   0  1    1   4   1   0   0   0   0/0David Pastrnak R  18:03   1  0    1   2   0   2   2   0   0/0Matthew Poitras C  16:05   0  1    0   0   0   0   2   0   3/3Pavel Zacha C  17:45   0  0    0   3   0   2   0   0   5/6
+Bruins Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+John Beecher C
+12:49   0  0    0   0   4   0   1   0   0/2
+Justin Brazeau R
+11:52   0  0    0   0   0   0   0   0   0/0
+Charlie Coyle C
+17:00   0  0    1   1   2   0   0   0   3/8
+Trent Frederic C
+15:43   0  0   -1   2   0   0   0   1   2/6
+Morgan Geekie C
+14:46   0  0    0   1   0   0   0   0   1/1
+Mark Kastelic C
+11:44   0  0   -1   0   1   0   0   0   4/7
+Cole Koepke L
+12:01   0  0    0   0   2   0   0   2   0/0
+Elias Lindholm C
+17:35   1  0    1   1   2   0   1   0  9/16
+Brad Marchand L
+19:12   0  1    1   4   1   0   0   0   0/0
+David Pastrnak R
+18:03   1  0    1   2   0   2   2   0   0/0
+Matthew Poitras C
+16:05   0  1    0   0   0   0   2   0   3/3
+Pavel Zacha C
+17:45   0  0    0   3   0   2   0   0   5/6
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrandon Carlo D  18:34   0  0   -1   3   2   2   1   0   0/0Hampus Lindholm D  21:48   0  0   -1   5   2   0   0   1   0/0Mason Lohrei D  15:54   0  1    1   0   1   0   0   2   0/0Charlie McAvoy D  23:14   0  0    1   2   2   2   1   0   0/0Andrew Peeke D  16:09   0  0    0   0   2   0   0   2   0/0Nikita Zadorov D  19:32   0  0    0   1   1   2   0   1   0/0
+Bruins Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brandon Carlo D
+18:34   0  0   -1   3   2   2   1   0   0/0
+Hampus Lindholm D
+21:48   0  0   -1   5   2   0   0   1   0/0
+Mason Lohrei D
+15:54   0  1    1   0   1   0   0   2   0/0
+Charlie McAvoy D
+23:14   0  0    1   2   2   2   1   0   0/0
+Andrew Peeke D
+16:09   0  0    0   0   2   0   0   2   0/0
+Nikita Zadorov D
+19:32   0  0    0   1   1   2   0   1   0/0
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO          2  3       25  22  10   8   9 27/49
+                                        55.1%
+Bruins Totals:
+          G  A        S   B  PM  TK  GV    FO
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJeremy Swayman G  62:42   1  33/34  19/20 10/10   4/4     0
+              .971   .950 1.000 1.000
+Bruins Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jeremy Swayman G
+62:42   1  33/34  19/20 10/10   4/4     0
+              .971   .950 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

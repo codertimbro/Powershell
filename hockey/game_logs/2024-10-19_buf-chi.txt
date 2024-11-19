@@ -1,0 +1,412 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Buffalo
+Sabres2-4-1Final4 - 2Chicago
+Blackhawks2-3-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+BUF   2  1  1    4  
+CHI   0  2  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  11:21 
+Tage Thompson (BUF) scores on wrist shot past Arvid Soderblom, assisted by JJ Peterka and Alex Tuch
+   1-0
+P1  08:29 
+Beck Malenstyn (BUF) scores on deflection past Arvid Soderblom, assisted by Connor Clifton and Peyton Krebs
+   2-0
+P1  06:25 
+TJ Brodie (CHI) holding against Rasmus Dahlin (2 minutes)
+   2-0
+P1  04:01 
+JJ Peterka (BUF) holding against Philipp Kurashev (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  13:32 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Seth Jones
+   2-1
+P2  13:13 
+Seth Jones (CHI) tripping against JJ Peterka (2 minutes)
+   2-1
+P2  07:12 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Connor Murphy
+   2-2
+P2  05:05 
+TJ Brodie (CHI) tripping against Jiri Kulich (2 minutes)
+   2-2
+P2  01:23 
+JJ Peterka (BUF) scores on wrist shot past Arvid Soderblom, assisted by Tage Thompson and Owen Power
+   3-2
+3rd Period: ShowHide
+P3  05:32 
+Philipp Kurashev (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Ilya Mikheyev (CHI) roughing against Mattias Samuelsson (2 minutes)
+   3-2
+P3  05:32 
+Peyton Krebs (BUF) roughing against Tyler Bertuzzi (2 minutes)
+   3-2
+P3  05:32 
+Tyler Bertuzzi (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Beck Malenstyn (BUF) roughing against Philipp Kurashev (2 minutes)
+   3-2
+P3  00:26 
+Ryan McLeod (BUF) scores on empty net, assisted by Dylan Cozens
+   4-2
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  13:17   0  0   -1   0   1   0   1   0   0/0Dylan Cozens C  17:27   0  1    1   1   0   0   0   0  3/12Peyton Krebs C  10:51   0  1    0   1   0   2   0   0  8/14Jiri Kulich C  15:19   0  0    0   5   0   0   0   1   0/0Sam Lafferty C  12:10   0  0    0   2   2   0   0   0   0/0Beck Malenstyn L  11:16   1  0    0   2   1   2   0   0   0/0Ryan McLeod C  14:15   1  0    0   1   0   0   0   1  7/11JJ Peterka R  20:43   1  1    2   1   0   2   0   0   0/0Jack Quinn R  15:16   0  0    0   1   1   0   0   1   0/0Tage Thompson C  19:18   1  1    2   2   1   0   0   1  5/12Alex Tuch R  18:57   0  1    3   3   1   0   1   0   2/4Jason Zucker L  15:36   0  0   -1   1   0   0   0   1   0/1Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  20:27   0  0    1   1   3   0   0   1   0/0Connor Clifton D  15:37   0  1    0   1   1   0   2   0   0/0Rasmus Dahlin D  23:51   0  0    1   0   1   0   0   1   0/0Henri Jokiharju D  17:42   0  0    0   0   0   0   0   1   0/0Owen Power D  20:10   0  1    1   0   1   0   0   0   0/0Mattias Samuelsson D  15:48   0  0    1   0   1   0   0   2   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       22  14   6   4  10 25/54
+                                        46.3%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  60:00   2  35/37  33/35   1/1   1/1     0
+              .946   .943 1.000 1.000 
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAndreas Athanasiou C  08:51   0  0    0   0   0   0   0   0   3/5Connor Bedard C  20:11   0  0   -1   2   1   0   0   0   1/7Tyler Bertuzzi L  15:38   0  0   -2   2   1   2   0   0   0/0Jason Dickinson C  16:09   0  0    0   0   0   0   0   0 11/21Ryan Donato C  11:56   0  0    0   3   1   0   1   0   0/0Nick Foligno L  20:45   0  0    0   3   3   0   1   1  8/12Taylor Hall L  14:38   0  0   -2   3   0   0   0   3   1/3Philipp Kurashev C  15:48   0  0   -2   1   1   2   0   0   4/5Ilya Mikheyev R  14:08   0  0    0   0   1   2   1   1   0/0Lukas Reichel L  08:21   0  2    0   4   0   0   0   0   0/0Craig Smith C  09:12   2  0    0   5   0   0   1   0   1/1Teuvo Teravainen C  21:17   0  0   -1   3   0   0   0   1   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:07   0  0    0   1   1   0   0   0   0/0TJ Brodie D  16:15   0  0   -2   1   1   4   0   1   0/0Seth Jones D  26:25   0  1   -1   5   1   2   0   2   0/0Wyatt Kaiser D  19:29   0  0   -1   0   4   0   0   0   0/0Connor Murphy D  18:25   0  1    1   2   0   0   2   0   0/0Alex Vlasic D  23:10   0  0    0   2   5   0   0   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  20  12   6  10 29/54
+                                        53.7%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArvid Soderblom G  58:15   3  18/21  12/15   6/6   0/0     0
+              .857   .800 1.000
+Buffalo
+Sabres2-4-1Final4 - 2Chicago
+Blackhawks2-3-1
+Buffalo
+Sabres2-4-1
+Final4 - 2
+Chicago
+Blackhawks2-3-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+BUF   2  1  1    4  
+CHI   0  2  0    2
+1st Period: ShowHide
+P1  11:21 
+Tage Thompson (BUF) scores on wrist shot past Arvid Soderblom, assisted by JJ Peterka and Alex Tuch
+   1-0
+P1  08:29 
+Beck Malenstyn (BUF) scores on deflection past Arvid Soderblom, assisted by Connor Clifton and Peyton Krebs
+   2-0
+P1  06:25 
+TJ Brodie (CHI) holding against Rasmus Dahlin (2 minutes)
+   2-0
+P1  04:01 
+JJ Peterka (BUF) holding against Philipp Kurashev (2 minutes)
+   2-0
+2nd Period: ShowHide
+P2  13:32 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Seth Jones
+   2-1
+P2  13:13 
+Seth Jones (CHI) tripping against JJ Peterka (2 minutes)
+   2-1
+P2  07:12 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Connor Murphy
+   2-2
+P2  05:05 
+TJ Brodie (CHI) tripping against Jiri Kulich (2 minutes)
+   2-2
+P2  01:23 
+JJ Peterka (BUF) scores on wrist shot past Arvid Soderblom, assisted by Tage Thompson and Owen Power
+   3-2
+3rd Period: ShowHide
+P3  05:32 
+Philipp Kurashev (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Ilya Mikheyev (CHI) roughing against Mattias Samuelsson (2 minutes)
+   3-2
+P3  05:32 
+Peyton Krebs (BUF) roughing against Tyler Bertuzzi (2 minutes)
+   3-2
+P3  05:32 
+Tyler Bertuzzi (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Beck Malenstyn (BUF) roughing against Philipp Kurashev (2 minutes)
+   3-2
+P3  00:26 
+Ryan McLeod (BUF) scores on empty net, assisted by Dylan Cozens
+   4-2
+1st Period: ShowHide
+P1  11:21 
+Tage Thompson (BUF) scores on wrist shot past Arvid Soderblom, assisted by JJ Peterka and Alex Tuch
+   1-0
+P1  08:29 
+Beck Malenstyn (BUF) scores on deflection past Arvid Soderblom, assisted by Connor Clifton and Peyton Krebs
+   2-0
+P1  06:25 
+TJ Brodie (CHI) holding against Rasmus Dahlin (2 minutes)
+   2-0
+P1  04:01 
+JJ Peterka (BUF) holding against Philipp Kurashev (2 minutes)
+   2-0
+P1  11:21 
+Tage Thompson (BUF) scores on wrist shot past Arvid Soderblom, assisted by JJ Peterka and Alex Tuch
+   1-0
+P1  08:29 
+Beck Malenstyn (BUF) scores on deflection past Arvid Soderblom, assisted by Connor Clifton and Peyton Krebs
+   2-0
+P1  06:25 
+TJ Brodie (CHI) holding against Rasmus Dahlin (2 minutes)
+   2-0
+P1  04:01 
+JJ Peterka (BUF) holding against Philipp Kurashev (2 minutes)
+   2-0
+P1  11:21
+Tage Thompson (BUF) scores on wrist shot past Arvid Soderblom, assisted by JJ Peterka and Alex Tuch
+1-0
+P1  08:29
+Beck Malenstyn (BUF) scores on deflection past Arvid Soderblom, assisted by Connor Clifton and Peyton Krebs
+2-0
+P1  06:25
+TJ Brodie (CHI) holding against Rasmus Dahlin (2 minutes)
+2-0
+P1  04:01
+JJ Peterka (BUF) holding against Philipp Kurashev (2 minutes)
+2-0
+2nd Period: ShowHide
+P2  13:32 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Seth Jones
+   2-1
+P2  13:13 
+Seth Jones (CHI) tripping against JJ Peterka (2 minutes)
+   2-1
+P2  07:12 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Connor Murphy
+   2-2
+P2  05:05 
+TJ Brodie (CHI) tripping against Jiri Kulich (2 minutes)
+   2-2
+P2  01:23 
+JJ Peterka (BUF) scores on wrist shot past Arvid Soderblom, assisted by Tage Thompson and Owen Power
+   3-2
+P2  13:32 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Seth Jones
+   2-1
+P2  13:13 
+Seth Jones (CHI) tripping against JJ Peterka (2 minutes)
+   2-1
+P2  07:12 
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Connor Murphy
+   2-2
+P2  05:05 
+TJ Brodie (CHI) tripping against Jiri Kulich (2 minutes)
+   2-2
+P2  01:23 
+JJ Peterka (BUF) scores on wrist shot past Arvid Soderblom, assisted by Tage Thompson and Owen Power
+   3-2
+P2  13:32
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Seth Jones
+2-1
+P2  13:13
+Seth Jones (CHI) tripping against JJ Peterka (2 minutes)
+2-1
+P2  07:12
+Craig Smith (CHI) scores on wrist shot past Ukko-Pekka Luukkonen, assisted by Lukas Reichel and Connor Murphy
+2-2
+P2  05:05
+TJ Brodie (CHI) tripping against Jiri Kulich (2 minutes)
+2-2
+P2  01:23
+JJ Peterka (BUF) scores on wrist shot past Arvid Soderblom, assisted by Tage Thompson and Owen Power
+3-2
+3rd Period: ShowHide
+P3  05:32 
+Philipp Kurashev (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Ilya Mikheyev (CHI) roughing against Mattias Samuelsson (2 minutes)
+   3-2
+P3  05:32 
+Peyton Krebs (BUF) roughing against Tyler Bertuzzi (2 minutes)
+   3-2
+P3  05:32 
+Tyler Bertuzzi (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Beck Malenstyn (BUF) roughing against Philipp Kurashev (2 minutes)
+   3-2
+P3  00:26 
+Ryan McLeod (BUF) scores on empty net, assisted by Dylan Cozens
+   4-2
+P3  05:32 
+Philipp Kurashev (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Ilya Mikheyev (CHI) roughing against Mattias Samuelsson (2 minutes)
+   3-2
+P3  05:32 
+Peyton Krebs (BUF) roughing against Tyler Bertuzzi (2 minutes)
+   3-2
+P3  05:32 
+Tyler Bertuzzi (CHI) roughing against Peyton Krebs (2 minutes)
+   3-2
+P3  05:32 
+Beck Malenstyn (BUF) roughing against Philipp Kurashev (2 minutes)
+   3-2
+P3  00:26 
+Ryan McLeod (BUF) scores on empty net, assisted by Dylan Cozens
+   4-2
+P3  05:32
+Philipp Kurashev (CHI) roughing against Peyton Krebs (2 minutes)
+3-2
+P3  05:32
+Ilya Mikheyev (CHI) roughing against Mattias Samuelsson (2 minutes)
+3-2
+P3  05:32
+Peyton Krebs (BUF) roughing against Tyler Bertuzzi (2 minutes)
+3-2
+P3  05:32
+Tyler Bertuzzi (CHI) roughing against Peyton Krebs (2 minutes)
+3-2
+P3  05:32
+Beck Malenstyn (BUF) roughing against Philipp Kurashev (2 minutes)
+3-2
+P3  00:26
+Ryan McLeod (BUF) scores on empty net, assisted by Dylan Cozens
+4-2
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  13:17   0  0   -1   0   1   0   1   0   0/0Dylan Cozens C  17:27   0  1    1   1   0   0   0   0  3/12Peyton Krebs C  10:51   0  1    0   1   0   2   0   0  8/14Jiri Kulich C  15:19   0  0    0   5   0   0   0   1   0/0Sam Lafferty C  12:10   0  0    0   2   2   0   0   0   0/0Beck Malenstyn L  11:16   1  0    0   2   1   2   0   0   0/0Ryan McLeod C  14:15   1  0    0   1   0   0   0   1  7/11JJ Peterka R  20:43   1  1    2   1   0   2   0   0   0/0Jack Quinn R  15:16   0  0    0   1   1   0   0   1   0/0Tage Thompson C  19:18   1  1    2   2   1   0   0   1  5/12Alex Tuch R  18:57   0  1    3   3   1   0   1   0   2/4Jason Zucker L  15:36   0  0   -1   1   0   0   0   1   0/1Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  20:27   0  0    1   1   3   0   0   1   0/0Connor Clifton D  15:37   0  1    0   1   1   0   2   0   0/0Rasmus Dahlin D  23:51   0  0    1   0   1   0   0   1   0/0Henri Jokiharju D  17:42   0  0    0   0   0   0   0   1   0/0Owen Power D  20:10   0  1    1   0   1   0   0   0   0/0Mattias Samuelsson D  15:48   0  0    1   0   1   0   0   2   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       22  14   6   4  10 25/54
+                                        46.3%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  60:00   2  35/37  33/35   1/1   1/1     0
+              .946   .943 1.000 1.000 
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAndreas Athanasiou C  08:51   0  0    0   0   0   0   0   0   3/5Connor Bedard C  20:11   0  0   -1   2   1   0   0   0   1/7Tyler Bertuzzi L  15:38   0  0   -2   2   1   2   0   0   0/0Jason Dickinson C  16:09   0  0    0   0   0   0   0   0 11/21Ryan Donato C  11:56   0  0    0   3   1   0   1   0   0/0Nick Foligno L  20:45   0  0    0   3   3   0   1   1  8/12Taylor Hall L  14:38   0  0   -2   3   0   0   0   3   1/3Philipp Kurashev C  15:48   0  0   -2   1   1   2   0   0   4/5Ilya Mikheyev R  14:08   0  0    0   0   1   2   1   1   0/0Lukas Reichel L  08:21   0  2    0   4   0   0   0   0   0/0Craig Smith C  09:12   2  0    0   5   0   0   1   0   1/1Teuvo Teravainen C  21:17   0  0   -1   3   0   0   0   1   0/0Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:07   0  0    0   1   1   0   0   0   0/0TJ Brodie D  16:15   0  0   -2   1   1   4   0   1   0/0Seth Jones D  26:25   0  1   -1   5   1   2   0   2   0/0Wyatt Kaiser D  19:29   0  0   -1   0   4   0   0   0   0/0Connor Murphy D  18:25   0  1    1   2   0   0   2   0   0/0Alex Vlasic D  23:10   0  0    0   2   5   0   0   1   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  20  12   6  10 29/54
+                                        53.7%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArvid Soderblom G  58:15   3  18/21  12/15   6/6   0/0     0
+              .857   .800 1.000
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  13:17   0  0   -1   0   1   0   1   0   0/0Dylan Cozens C  17:27   0  1    1   1   0   0   0   0  3/12Peyton Krebs C  10:51   0  1    0   1   0   2   0   0  8/14Jiri Kulich C  15:19   0  0    0   5   0   0   0   1   0/0Sam Lafferty C  12:10   0  0    0   2   2   0   0   0   0/0Beck Malenstyn L  11:16   1  0    0   2   1   2   0   0   0/0Ryan McLeod C  14:15   1  0    0   1   0   0   0   1  7/11JJ Peterka R  20:43   1  1    2   1   0   2   0   0   0/0Jack Quinn R  15:16   0  0    0   1   1   0   0   1   0/0Tage Thompson C  19:18   1  1    2   2   1   0   0   1  5/12Alex Tuch R  18:57   0  1    3   3   1   0   1   0   2/4Jason Zucker L  15:36   0  0   -1   1   0   0   0   1   0/1
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Benson L
+13:17   0  0   -1   0   1   0   1   0   0/0
+Dylan Cozens C
+17:27   0  1    1   1   0   0   0   0  3/12
+Peyton Krebs C
+10:51   0  1    0   1   0   2   0   0  8/14
+Jiri Kulich C
+15:19   0  0    0   5   0   0   0   1   0/0
+Sam Lafferty C
+12:10   0  0    0   2   2   0   0   0   0/0
+Beck Malenstyn L
+11:16   1  0    0   2   1   2   0   0   0/0
+Ryan McLeod C
+14:15   1  0    0   1   0   0   0   1  7/11
+JJ Peterka R
+20:43   1  1    2   1   0   2   0   0   0/0
+Jack Quinn R
+15:16   0  0    0   1   1   0   0   1   0/0
+Tage Thompson C
+19:18   1  1    2   2   1   0   0   1  5/12
+Alex Tuch R
+18:57   0  1    3   3   1   0   1   0   2/4
+Jason Zucker L
+15:36   0  0   -1   1   0   0   0   1   0/1
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  20:27   0  0    1   1   3   0   0   1   0/0Connor Clifton D  15:37   0  1    0   1   1   0   2   0   0/0Rasmus Dahlin D  23:51   0  0    1   0   1   0   0   1   0/0Henri Jokiharju D  17:42   0  0    0   0   0   0   0   1   0/0Owen Power D  20:10   0  1    1   0   1   0   0   0   0/0Mattias Samuelsson D  15:48   0  0    1   0   1   0   0   2   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bowen Byram D
+20:27   0  0    1   1   3   0   0   1   0/0
+Connor Clifton D
+15:37   0  1    0   1   1   0   2   0   0/0
+Rasmus Dahlin D
+23:51   0  0    1   0   1   0   0   1   0/0
+Henri Jokiharju D
+17:42   0  0    0   0   0   0   0   1   0/0
+Owen Power D
+20:10   0  1    1   0   1   0   0   0   0/0
+Mattias Samuelsson D
+15:48   0  0    1   0   1   0   0   2   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       22  14   6   4  10 25/54
+                                        46.3%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMUkko-Pekka Luukkonen G  60:00   2  35/37  33/35   1/1   1/1     0
+              .946   .943 1.000 1.000
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Ukko-Pekka Luukkonen G
+60:00   2  35/37  33/35   1/1   1/1     0
+              .946   .943 1.000 1.000
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAndreas Athanasiou C  08:51   0  0    0   0   0   0   0   0   3/5Connor Bedard C  20:11   0  0   -1   2   1   0   0   0   1/7Tyler Bertuzzi L  15:38   0  0   -2   2   1   2   0   0   0/0Jason Dickinson C  16:09   0  0    0   0   0   0   0   0 11/21Ryan Donato C  11:56   0  0    0   3   1   0   1   0   0/0Nick Foligno L  20:45   0  0    0   3   3   0   1   1  8/12Taylor Hall L  14:38   0  0   -2   3   0   0   0   3   1/3Philipp Kurashev C  15:48   0  0   -2   1   1   2   0   0   4/5Ilya Mikheyev R  14:08   0  0    0   0   1   2   1   1   0/0Lukas Reichel L  08:21   0  2    0   4   0   0   0   0   0/0Craig Smith C  09:12   2  0    0   5   0   0   1   0   1/1Teuvo Teravainen C  21:17   0  0   -1   3   0   0   0   1   0/0
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Andreas Athanasiou C
+08:51   0  0    0   0   0   0   0   0   3/5
+Connor Bedard C
+20:11   0  0   -1   2   1   0   0   0   1/7
+Tyler Bertuzzi L
+15:38   0  0   -2   2   1   2   0   0   0/0
+Jason Dickinson C
+16:09   0  0    0   0   0   0   0   0 11/21
+Ryan Donato C
+11:56   0  0    0   3   1   0   1   0   0/0
+Nick Foligno L
+20:45   0  0    0   3   3   0   1   1  8/12
+Taylor Hall L
+14:38   0  0   -2   3   0   0   0   3   1/3
+Philipp Kurashev C
+15:48   0  0   -2   1   1   2   0   0   4/5
+Ilya Mikheyev R
+14:08   0  0    0   0   1   2   1   1   0/0
+Lukas Reichel L
+08:21   0  2    0   4   0   0   0   0   0/0
+Craig Smith C
+09:12   2  0    0   5   0   0   1   0   1/1
+Teuvo Teravainen C
+21:17   0  0   -1   3   0   0   0   1   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONolan Allan D  13:07   0  0    0   1   1   0   0   0   0/0TJ Brodie D  16:15   0  0   -2   1   1   4   0   1   0/0Seth Jones D  26:25   0  1   -1   5   1   2   0   2   0/0Wyatt Kaiser D  19:29   0  0   -1   0   4   0   0   0   0/0Connor Murphy D  18:25   0  1    1   2   0   0   2   0   0/0Alex Vlasic D  23:10   0  0    0   2   5   0   0   1   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nolan Allan D
+13:07   0  0    0   1   1   0   0   0   0/0
+TJ Brodie D
+16:15   0  0   -2   1   1   4   0   1   0/0
+Seth Jones D
+26:25   0  1   -1   5   1   2   0   2   0/0
+Wyatt Kaiser D
+19:29   0  0   -1   0   4   0   0   0   0/0
+Connor Murphy D
+18:25   0  1    1   2   0   0   2   0   0/0
+Alex Vlasic D
+23:10   0  0    0   2   5   0   0   1   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       37  20  12   6  10 29/54
+                                        53.7%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArvid Soderblom G  58:15   3  18/21  12/15   6/6   0/0     0
+              .857   .800 1.000
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Arvid Soderblom G
+58:15   3  18/21  12/15   6/6   0/0     0
+              .857   .800 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

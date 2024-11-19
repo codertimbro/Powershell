@@ -1,0 +1,397 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Florida
+Panthers1-2-0Final2 - 5Buffalo
+Sabres1-3-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+FLA   1  1  0    2  
+BUF   2  2  1    5
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  10:59 
+Nate Schmidt (FLA) scores on wrist shot past Devon Levi, assisted by A.J. Greer and Jesper Boqvist
+   1-0
+P1  08:34 
+Jordan Greenway (BUF) roughing against A.J. Greer (2 minutes)
+   1-0
+P1  08:34 
+A.J. Greer (FLA) slashing against Jordan Greenway (2 minutes)
+   1-0
+P1  05:41 
+Gustav Forsling (FLA) holding against Alex Tuch (2 minutes)
+   1-0
+P1  03:14 
+Jordan Greenway (BUF) scores on backhand shot past Spencer Knight, assisted by Peyton Krebs
+   1-1
+P1  02:33 
+Tage Thompson (BUF) scores on wrist shot past Spencer Knight, assisted by Alex Tuch and Connor Clifton
+   1-2
+2nd Period: ShowHide
+P2  18:26 
+Henri Jokiharju (BUF) scores on slap shot past Spencer Knight, assisted by Rasmus Dahlin and Jack Quinn
+   1-3
+P2  17:37 
+Jason Zucker (BUF) interference against Mackie Samoskevich (2 minutes)
+   1-3
+P2  14:18 
+Dmitry Kulikov (FLA) hooking against Jiri Kulich (2 minutes)
+   1-3
+P2  03:38 
+Mattias Samuelsson (BUF) scores on wrist shot past Spencer Knight, assisted by Jason Zucker and Ryan McLeod
+   1-4
+P2  01:45 
+Jordan Greenway (BUF) slashing against Aaron Ekblad (2 minutes)
+   1-4
+P2  01:18 
+Sam Bennett (FLA) scores power-play goal on tip-in past Devon Levi, assisted by Sam Reinhart and Evan Rodrigues
+   2-4
+3rd Period: ShowHide
+P3  06:58 
+Gustav Forsling (FLA) delaying game (2 minutes)
+   2-4
+P3  01:12 
+Alex Tuch (BUF) scores on empty net
+   2-5
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  19:02   1  0   -3   3   1   0   0   0  8/13Jesper Boqvist C  13:46   0  1    0   0   0   0   0   2  2/10Jonah Gadjovich L  07:55   0  0    0   1   0   0   0   0   0/0Patrick Giles R  07:34   0  0    0   0   2   0   0   2   3/4A.J. Greer L  16:20   0  1    0   2   2   2   0   0   0/2Anton Lundell C  20:48   0  0   -2   1   1   0   0   0 10/21Eetu Luostarinen C  18:01   0  0   -1   1   1   0   1   1   0/0Sam Reinhart C  20:04   0  1   -2   3   0   0   1   0   4/6Evan Rodrigues C  21:01   0  1   -3   5   0   0   4   1   3/6Mackie Samoskevich R  11:19   0  0    0   1   0   0   0   0   0/0Carter Verhaeghe C  21:11   0  0   -3   1   0   0   0   0   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  15:45   0  0   -1   1   1   0   0   1   0/0Adam Boqvist D  10:30   0  0   -1   2   1   0   0   0   0/0Aaron Ekblad D  23:05   0  0    0   1   1   0   1   1   0/0Gustav Forsling D  21:52   0  0    1   1   0   4   2   1   0/0Dmitry Kulikov D  14:10   0  0   -3   0   2   2   2   1   0/0Niko Mikkola D  18:54   0  0   -3   1   3   0   0   0   0/0Nate Schmidt D  12:34   1  0    0   1   0   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  15   8  11  11 30/62
+                                        48.4%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  58:09   4  22/26  20/24   1/1   1/1     0
+              .846   .833 1.000 1.000 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  10:03   0  0    0   1   0   0   0   0   0/0Dylan Cozens C  21:54   0  0    1   2   1   0   1   0  8/20Jordan Greenway L  17:05   1  0    3   2   3   4   0   0   0/0Peyton Krebs C  14:20   0  1    1   1   0   0   0   0   3/6Jiri Kulich C  17:39   0  0    1   2   3   0   1   0   2/5Beck Malenstyn L  01:52   0  0    0   0   0   0   0   0   0/0Ryan McLeod C  17:50   0  1    2   1   1   0   0   1 10/16Jack Quinn R  16:36   0  1    1   3   0   0   1   1   0/1Tage Thompson C  20:56   1  0    1   3   0   0   0   0  8/13Alex Tuch R  20:35   1  1    1   3   2   0   3   0   1/1Jason Zucker L  17:58   0  1    1   0   1   2   0   0   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  17:32   0  0   -1   1   0   0   0   1   0/0Connor Clifton D  17:26   0  1    2   3   2   0   0   4   0/0Rasmus Dahlin D  23:45   0  1    3   0   3   0   1   2   0/0Dennis Gilbert D  04:49   0  0    0   0   1   0   0   2   0/0Henri Jokiharju D  14:35   1  0    2   1   1   0   0   0   0/0Owen Power D  23:14   0  0    1   0   0   0   0   3   0/0Mattias Samuelsson D  17:24   1  0    1   4   0   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       27  18   6   7  14 32/62
+                                        51.6%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  60:00   2  23/25  17/18   4/5   2/2     0
+              .920   .944  .800 1.000
+Florida
+Panthers1-2-0Final2 - 5Buffalo
+Sabres1-3-0
+Florida
+Panthers1-2-0
+Final2 - 5
+Buffalo
+Sabres1-3-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+FLA   1  1  0    2  
+BUF   2  2  1    5
+1st Period: ShowHide
+P1  10:59 
+Nate Schmidt (FLA) scores on wrist shot past Devon Levi, assisted by A.J. Greer and Jesper Boqvist
+   1-0
+P1  08:34 
+Jordan Greenway (BUF) roughing against A.J. Greer (2 minutes)
+   1-0
+P1  08:34 
+A.J. Greer (FLA) slashing against Jordan Greenway (2 minutes)
+   1-0
+P1  05:41 
+Gustav Forsling (FLA) holding against Alex Tuch (2 minutes)
+   1-0
+P1  03:14 
+Jordan Greenway (BUF) scores on backhand shot past Spencer Knight, assisted by Peyton Krebs
+   1-1
+P1  02:33 
+Tage Thompson (BUF) scores on wrist shot past Spencer Knight, assisted by Alex Tuch and Connor Clifton
+   1-2
+2nd Period: ShowHide
+P2  18:26 
+Henri Jokiharju (BUF) scores on slap shot past Spencer Knight, assisted by Rasmus Dahlin and Jack Quinn
+   1-3
+P2  17:37 
+Jason Zucker (BUF) interference against Mackie Samoskevich (2 minutes)
+   1-3
+P2  14:18 
+Dmitry Kulikov (FLA) hooking against Jiri Kulich (2 minutes)
+   1-3
+P2  03:38 
+Mattias Samuelsson (BUF) scores on wrist shot past Spencer Knight, assisted by Jason Zucker and Ryan McLeod
+   1-4
+P2  01:45 
+Jordan Greenway (BUF) slashing against Aaron Ekblad (2 minutes)
+   1-4
+P2  01:18 
+Sam Bennett (FLA) scores power-play goal on tip-in past Devon Levi, assisted by Sam Reinhart and Evan Rodrigues
+   2-4
+3rd Period: ShowHide
+P3  06:58 
+Gustav Forsling (FLA) delaying game (2 minutes)
+   2-4
+P3  01:12 
+Alex Tuch (BUF) scores on empty net
+   2-5
+1st Period: ShowHide
+P1  10:59 
+Nate Schmidt (FLA) scores on wrist shot past Devon Levi, assisted by A.J. Greer and Jesper Boqvist
+   1-0
+P1  08:34 
+Jordan Greenway (BUF) roughing against A.J. Greer (2 minutes)
+   1-0
+P1  08:34 
+A.J. Greer (FLA) slashing against Jordan Greenway (2 minutes)
+   1-0
+P1  05:41 
+Gustav Forsling (FLA) holding against Alex Tuch (2 minutes)
+   1-0
+P1  03:14 
+Jordan Greenway (BUF) scores on backhand shot past Spencer Knight, assisted by Peyton Krebs
+   1-1
+P1  02:33 
+Tage Thompson (BUF) scores on wrist shot past Spencer Knight, assisted by Alex Tuch and Connor Clifton
+   1-2
+P1  10:59 
+Nate Schmidt (FLA) scores on wrist shot past Devon Levi, assisted by A.J. Greer and Jesper Boqvist
+   1-0
+P1  08:34 
+Jordan Greenway (BUF) roughing against A.J. Greer (2 minutes)
+   1-0
+P1  08:34 
+A.J. Greer (FLA) slashing against Jordan Greenway (2 minutes)
+   1-0
+P1  05:41 
+Gustav Forsling (FLA) holding against Alex Tuch (2 minutes)
+   1-0
+P1  03:14 
+Jordan Greenway (BUF) scores on backhand shot past Spencer Knight, assisted by Peyton Krebs
+   1-1
+P1  02:33 
+Tage Thompson (BUF) scores on wrist shot past Spencer Knight, assisted by Alex Tuch and Connor Clifton
+   1-2
+P1  10:59
+Nate Schmidt (FLA) scores on wrist shot past Devon Levi, assisted by A.J. Greer and Jesper Boqvist
+1-0
+P1  08:34
+Jordan Greenway (BUF) roughing against A.J. Greer (2 minutes)
+1-0
+P1  08:34
+A.J. Greer (FLA) slashing against Jordan Greenway (2 minutes)
+1-0
+P1  05:41
+Gustav Forsling (FLA) holding against Alex Tuch (2 minutes)
+1-0
+P1  03:14
+Jordan Greenway (BUF) scores on backhand shot past Spencer Knight, assisted by Peyton Krebs
+1-1
+P1  02:33
+Tage Thompson (BUF) scores on wrist shot past Spencer Knight, assisted by Alex Tuch and Connor Clifton
+1-2
+2nd Period: ShowHide
+P2  18:26 
+Henri Jokiharju (BUF) scores on slap shot past Spencer Knight, assisted by Rasmus Dahlin and Jack Quinn
+   1-3
+P2  17:37 
+Jason Zucker (BUF) interference against Mackie Samoskevich (2 minutes)
+   1-3
+P2  14:18 
+Dmitry Kulikov (FLA) hooking against Jiri Kulich (2 minutes)
+   1-3
+P2  03:38 
+Mattias Samuelsson (BUF) scores on wrist shot past Spencer Knight, assisted by Jason Zucker and Ryan McLeod
+   1-4
+P2  01:45 
+Jordan Greenway (BUF) slashing against Aaron Ekblad (2 minutes)
+   1-4
+P2  01:18 
+Sam Bennett (FLA) scores power-play goal on tip-in past Devon Levi, assisted by Sam Reinhart and Evan Rodrigues
+   2-4
+P2  18:26 
+Henri Jokiharju (BUF) scores on slap shot past Spencer Knight, assisted by Rasmus Dahlin and Jack Quinn
+   1-3
+P2  17:37 
+Jason Zucker (BUF) interference against Mackie Samoskevich (2 minutes)
+   1-3
+P2  14:18 
+Dmitry Kulikov (FLA) hooking against Jiri Kulich (2 minutes)
+   1-3
+P2  03:38 
+Mattias Samuelsson (BUF) scores on wrist shot past Spencer Knight, assisted by Jason Zucker and Ryan McLeod
+   1-4
+P2  01:45 
+Jordan Greenway (BUF) slashing against Aaron Ekblad (2 minutes)
+   1-4
+P2  01:18 
+Sam Bennett (FLA) scores power-play goal on tip-in past Devon Levi, assisted by Sam Reinhart and Evan Rodrigues
+   2-4
+P2  18:26
+Henri Jokiharju (BUF) scores on slap shot past Spencer Knight, assisted by Rasmus Dahlin and Jack Quinn
+1-3
+P2  17:37
+Jason Zucker (BUF) interference against Mackie Samoskevich (2 minutes)
+1-3
+P2  14:18
+Dmitry Kulikov (FLA) hooking against Jiri Kulich (2 minutes)
+1-3
+P2  03:38
+Mattias Samuelsson (BUF) scores on wrist shot past Spencer Knight, assisted by Jason Zucker and Ryan McLeod
+1-4
+P2  01:45
+Jordan Greenway (BUF) slashing against Aaron Ekblad (2 minutes)
+1-4
+P2  01:18
+Sam Bennett (FLA) scores power-play goal on tip-in past Devon Levi, assisted by Sam Reinhart and Evan Rodrigues
+2-4
+3rd Period: ShowHide
+P3  06:58 
+Gustav Forsling (FLA) delaying game (2 minutes)
+   2-4
+P3  01:12 
+Alex Tuch (BUF) scores on empty net
+   2-5
+P3  06:58 
+Gustav Forsling (FLA) delaying game (2 minutes)
+   2-4
+P3  01:12 
+Alex Tuch (BUF) scores on empty net
+   2-5
+P3  06:58
+Gustav Forsling (FLA) delaying game (2 minutes)
+2-4
+P3  01:12
+Alex Tuch (BUF) scores on empty net
+2-5
+Box Score:
+ 
+Back to Top
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  19:02   1  0   -3   3   1   0   0   0  8/13Jesper Boqvist C  13:46   0  1    0   0   0   0   0   2  2/10Jonah Gadjovich L  07:55   0  0    0   1   0   0   0   0   0/0Patrick Giles R  07:34   0  0    0   0   2   0   0   2   3/4A.J. Greer L  16:20   0  1    0   2   2   2   0   0   0/2Anton Lundell C  20:48   0  0   -2   1   1   0   0   0 10/21Eetu Luostarinen C  18:01   0  0   -1   1   1   0   1   1   0/0Sam Reinhart C  20:04   0  1   -2   3   0   0   1   0   4/6Evan Rodrigues C  21:01   0  1   -3   5   0   0   4   1   3/6Mackie Samoskevich R  11:19   0  0    0   1   0   0   0   0   0/0Carter Verhaeghe C  21:11   0  0   -3   1   0   0   0   0   0/0Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  15:45   0  0   -1   1   1   0   0   1   0/0Adam Boqvist D  10:30   0  0   -1   2   1   0   0   0   0/0Aaron Ekblad D  23:05   0  0    0   1   1   0   1   1   0/0Gustav Forsling D  21:52   0  0    1   1   0   4   2   1   0/0Dmitry Kulikov D  14:10   0  0   -3   0   2   2   2   1   0/0Niko Mikkola D  18:54   0  0   -3   1   3   0   0   0   0/0Nate Schmidt D  12:34   1  0    0   1   0   0   0   1   0/0Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  15   8  11  11 30/62
+                                        48.4%Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  58:09   4  22/26  20/24   1/1   1/1     0
+              .846   .833 1.000 1.000 
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  10:03   0  0    0   1   0   0   0   0   0/0Dylan Cozens C  21:54   0  0    1   2   1   0   1   0  8/20Jordan Greenway L  17:05   1  0    3   2   3   4   0   0   0/0Peyton Krebs C  14:20   0  1    1   1   0   0   0   0   3/6Jiri Kulich C  17:39   0  0    1   2   3   0   1   0   2/5Beck Malenstyn L  01:52   0  0    0   0   0   0   0   0   0/0Ryan McLeod C  17:50   0  1    2   1   1   0   0   1 10/16Jack Quinn R  16:36   0  1    1   3   0   0   1   1   0/1Tage Thompson C  20:56   1  0    1   3   0   0   0   0  8/13Alex Tuch R  20:35   1  1    1   3   2   0   3   0   1/1Jason Zucker L  17:58   0  1    1   0   1   2   0   0   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  17:32   0  0   -1   1   0   0   0   1   0/0Connor Clifton D  17:26   0  1    2   3   2   0   0   4   0/0Rasmus Dahlin D  23:45   0  1    3   0   3   0   1   2   0/0Dennis Gilbert D  04:49   0  0    0   0   1   0   0   2   0/0Henri Jokiharju D  14:35   1  0    2   1   1   0   0   0   0/0Owen Power D  23:14   0  0    1   0   0   0   0   3   0/0Mattias Samuelsson D  17:24   1  0    1   4   0   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       27  18   6   7  14 32/62
+                                        51.6%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  60:00   2  23/25  17/18   4/5   2/2     0
+              .920   .944  .800 1.000
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSam Bennett C  19:02   1  0   -3   3   1   0   0   0  8/13Jesper Boqvist C  13:46   0  1    0   0   0   0   0   2  2/10Jonah Gadjovich L  07:55   0  0    0   1   0   0   0   0   0/0Patrick Giles R  07:34   0  0    0   0   2   0   0   2   3/4A.J. Greer L  16:20   0  1    0   2   2   2   0   0   0/2Anton Lundell C  20:48   0  0   -2   1   1   0   0   0 10/21Eetu Luostarinen C  18:01   0  0   -1   1   1   0   1   1   0/0Sam Reinhart C  20:04   0  1   -2   3   0   0   1   0   4/6Evan Rodrigues C  21:01   0  1   -3   5   0   0   4   1   3/6Mackie Samoskevich R  11:19   0  0    0   1   0   0   0   0   0/0Carter Verhaeghe C  21:11   0  0   -3   1   0   0   0   0   0/0
+Panthers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sam Bennett C
+19:02   1  0   -3   3   1   0   0   0  8/13
+Jesper Boqvist C
+13:46   0  1    0   0   0   0   0   2  2/10
+Jonah Gadjovich L
+07:55   0  0    0   1   0   0   0   0   0/0
+Patrick Giles R
+07:34   0  0    0   0   2   0   0   2   3/4
+A.J. Greer L
+16:20   0  1    0   2   2   2   0   0   0/2
+Anton Lundell C
+20:48   0  0   -2   1   1   0   0   0 10/21
+Eetu Luostarinen C
+18:01   0  0   -1   1   1   0   1   1   0/0
+Sam Reinhart C
+20:04   0  1   -2   3   0   0   1   0   4/6
+Evan Rodrigues C
+21:01   0  1   -3   5   0   0   4   1   3/6
+Mackie Samoskevich R
+11:19   0  0    0   1   0   0   0   0   0/0
+Carter Verhaeghe C
+21:11   0  0   -3   1   0   0   0   0   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOUvis Balinskis D  15:45   0  0   -1   1   1   0   0   1   0/0Adam Boqvist D  10:30   0  0   -1   2   1   0   0   0   0/0Aaron Ekblad D  23:05   0  0    0   1   1   0   1   1   0/0Gustav Forsling D  21:52   0  0    1   1   0   4   2   1   0/0Dmitry Kulikov D  14:10   0  0   -3   0   2   2   2   1   0/0Niko Mikkola D  18:54   0  0   -3   1   3   0   0   0   0/0Nate Schmidt D  12:34   1  0    0   1   0   0   0   1   0/0
+Panthers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Uvis Balinskis D
+15:45   0  0   -1   1   1   0   0   1   0/0
+Adam Boqvist D
+10:30   0  0   -1   2   1   0   0   0   0/0
+Aaron Ekblad D
+23:05   0  0    0   1   1   0   1   1   0/0
+Gustav Forsling D
+21:52   0  0    1   1   0   4   2   1   0/0
+Dmitry Kulikov D
+14:10   0  0   -3   0   2   2   2   1   0/0
+Niko Mikkola D
+18:54   0  0   -3   1   3   0   0   0   0/0
+Nate Schmidt D
+12:34   1  0    0   1   0   0   0   1   0/0
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  15   8  11  11 30/62
+                                        48.4%
+Panthers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMSpencer Knight G  58:09   4  22/26  20/24   1/1   1/1     0
+              .846   .833 1.000 1.000
+Panthers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Spencer Knight G
+58:09   4  22/26  20/24   1/1   1/1     0
+              .846   .833 1.000 1.000
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  10:03   0  0    0   1   0   0   0   0   0/0Dylan Cozens C  21:54   0  0    1   2   1   0   1   0  8/20Jordan Greenway L  17:05   1  0    3   2   3   4   0   0   0/0Peyton Krebs C  14:20   0  1    1   1   0   0   0   0   3/6Jiri Kulich C  17:39   0  0    1   2   3   0   1   0   2/5Beck Malenstyn L  01:52   0  0    0   0   0   0   0   0   0/0Ryan McLeod C  17:50   0  1    2   1   1   0   0   1 10/16Jack Quinn R  16:36   0  1    1   3   0   0   1   1   0/1Tage Thompson C  20:56   1  0    1   3   0   0   0   0  8/13Alex Tuch R  20:35   1  1    1   3   2   0   3   0   1/1Jason Zucker L  17:58   0  1    1   0   1   2   0   0   0/0
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Benson L
+10:03   0  0    0   1   0   0   0   0   0/0
+Dylan Cozens C
+21:54   0  0    1   2   1   0   1   0  8/20
+Jordan Greenway L
+17:05   1  0    3   2   3   4   0   0   0/0
+Peyton Krebs C
+14:20   0  1    1   1   0   0   0   0   3/6
+Jiri Kulich C
+17:39   0  0    1   2   3   0   1   0   2/5
+Beck Malenstyn L
+01:52   0  0    0   0   0   0   0   0   0/0
+Ryan McLeod C
+17:50   0  1    2   1   1   0   0   1 10/16
+Jack Quinn R
+16:36   0  1    1   3   0   0   1   1   0/1
+Tage Thompson C
+20:56   1  0    1   3   0   0   0   0  8/13
+Alex Tuch R
+20:35   1  1    1   3   2   0   3   0   1/1
+Jason Zucker L
+17:58   0  1    1   0   1   2   0   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  17:32   0  0   -1   1   0   0   0   1   0/0Connor Clifton D  17:26   0  1    2   3   2   0   0   4   0/0Rasmus Dahlin D  23:45   0  1    3   0   3   0   1   2   0/0Dennis Gilbert D  04:49   0  0    0   0   1   0   0   2   0/0Henri Jokiharju D  14:35   1  0    2   1   1   0   0   0   0/0Owen Power D  23:14   0  0    1   0   0   0   0   3   0/0Mattias Samuelsson D  17:24   1  0    1   4   0   0   0   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bowen Byram D
+17:32   0  0   -1   1   0   0   0   1   0/0
+Connor Clifton D
+17:26   0  1    2   3   2   0   0   4   0/0
+Rasmus Dahlin D
+23:45   0  1    3   0   3   0   1   2   0/0
+Dennis Gilbert D
+04:49   0  0    0   0   1   0   0   2   0/0
+Henri Jokiharju D
+14:35   1  0    2   1   1   0   0   0   0/0
+Owen Power D
+23:14   0  0    1   0   0   0   0   3   0/0
+Mattias Samuelsson D
+17:24   1  0    1   4   0   0   0   0   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       27  18   6   7  14 32/62
+                                        51.6%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  60:00   2  23/25  17/18   4/5   2/2     0
+              .920   .944  .800 1.000
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Devon Levi G
+60:00   2  23/25  17/18   4/5   2/2     0
+              .920   .944  .800 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

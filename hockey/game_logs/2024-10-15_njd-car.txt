@@ -1,0 +1,337 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+New Jersey
+Devils4-2-0Final2 - 4Carolina
+Hurricanes1-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+NJD   0  1  1    2  
+CAR   0  2  2    4
+Goals and Penalties: ShowHide
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  18:44 
+Jack Hughes (NJD) scores on wrist shot past Pyotr Kochetkov, assisted by Jesper Bratt and Johnathan Kovacevic
+   1-0
+P2  12:43 
+Nathan Bastian (NJD) interference against Shayne Gostisbehere (2 minutes)
+   1-0
+P2  09:05 
+Seth Jarvis (CAR) scores on wrist shot past Jacob Markstrom, assisted by Andrei Svechnikov
+   1-1
+P2  08:05 
+Andrei Svechnikov (CAR) roughing against Timo Meier (2 minutes)
+   1-1
+P2  00:37 
+Shayne Gostisbehere (CAR) scores on wrist shot past Jacob Markstrom, assisted by Martin Necas and Jesperi Kotkaniemi
+   1-2
+3rd Period: ShowHide
+P3  09:44 
+Jackson Blake (CAR) scores on tip-in past Jacob Markstrom, assisted by Dmitry Orlov
+   1-3
+P3  06:18 
+Jackson Blake (CAR) tripping against Seamus Casey (2 minutes)
+   1-3
+P3  05:33 
+Jordan Martinook (CAR) delaying game - puck over glass (2 minutes)
+   1-3
+P3  04:44 
+Nico Hischier (NJD) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by Jack Hughes and Jesper Bratt
+   2-3
+P3  01:36 
+Sebastian Aho (CAR) scores on empty net, assisted by Jaccob Slavin and Jordan Martinook
+   2-4
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  09:39   0  0   -2   0   2   2   0   0   0/0Jesper Bratt L  18:27   0  2   -1   4   2   0   0   1   0/0Paul Cotter C  14:02   0  0   -1   4   0   0   0   0   0/2Erik Haula L  13:55   0  0   -1   1   1   0   0   0  5/11Nico Hischier C  20:26   1  0   -1   1   0   0   0   0 14/24Jack Hughes C  20:55   1  1    0   3   1   0   0   2   2/9Curtis Lazar C  11:15   0  0   -2   0   0   0   0   0   2/5Timo Meier R  14:35   0  0    0   3   1   0   0   2   0/2Dawson Mercer C  18:50   0  0    1   2   5   0   0   0   0/0Stefan Noesen R  15:08   0  0   -2   0   3   0   1   1   1/1Ondrej Palat L  11:55   0  0   -2   0   0   0   2   1   0/0Tomas Tatar L  13:32   0  0    0   0   0   0   0   1   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  15:57   0  0    1   2   1   0   0   1   0/0Brenden Dillon D  17:19   0  0   -2   0   2   0   0   4   0/0Dougie Hamilton D  23:57   0  0   -3   1   3   0   0   3   0/0Johnathan Kovacevic D  19:35   0  1   -1   2   2   0   1   2   0/0Simon Nemec D  19:15   0  0    1   1   1   0   1   1   0/0Jonas Siegenthaler D  19:50   0  0   -1   1   2   0   0   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  26   2   5  21 24/54
+                                        44.4%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:28   3  27/30  26/29   1/1   0/0     0
+              .900   .897 1.000 
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:40   1  0    0   3   1   0   2   0 10/14Jackson Blake R  10:08   1  0    1   3   0   2   0   1   0/0William Carrier L  15:22   0  0    0   1   1   0   1   2   0/0Jack Drury C  12:00   0  0    2   2   1   0   0   1   3/4Seth Jarvis C  17:08   1  0    1   2   1   0   0   1   0/3Jesperi Kotkaniemi C  12:45   0  1    1   2   0   0   0   1   5/9Jordan Martinook L  16:43   0  1    0   1   1   2   0   0   1/1Martin Necas C  15:08   0  1    1   0   1   0   2   2   0/0Eric Robinson L  11:32   0  0    1   2   0   0   0   1   1/1Jack Roslovic C  12:46   0  0    1   1   0   0   0   2   1/3Jordan Staal C  17:27   0  0    0   2   1   0   0   2  9/19Andrei Svechnikov R  16:05   0  1    1   1   0   2   1   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  22:13   0  0   -1   2   3   0   2   4   0/0Jalen Chatfield D  17:16   0  0    1   0   2   0   0   1   0/0Shayne Gostisbehere D  17:52   1  0    2   6   0   0   0   1   0/0Dmitry Orlov D  19:35   0  1    2   0   1   0   0   2   0/0Jaccob Slavin D  23:52   0  1    0   2   4   0   1   1   0/0Sean Walker D  17:54   0  0    2   1   0   0   0   0   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       31  17   6   9  23 30/54
+                                        55.6%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  60:00   2  23/25  23/24   0/1   0/0     0
+              .920   .958  .000
+New Jersey
+Devils4-2-0Final2 - 4Carolina
+Hurricanes1-1-0
+New Jersey
+Devils4-2-0
+Final2 - 4
+Carolina
+Hurricanes1-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+NJD   0  1  1    2  
+CAR   0  2  2    4
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  18:44 
+Jack Hughes (NJD) scores on wrist shot past Pyotr Kochetkov, assisted by Jesper Bratt and Johnathan Kovacevic
+   1-0
+P2  12:43 
+Nathan Bastian (NJD) interference against Shayne Gostisbehere (2 minutes)
+   1-0
+P2  09:05 
+Seth Jarvis (CAR) scores on wrist shot past Jacob Markstrom, assisted by Andrei Svechnikov
+   1-1
+P2  08:05 
+Andrei Svechnikov (CAR) roughing against Timo Meier (2 minutes)
+   1-1
+P2  00:37 
+Shayne Gostisbehere (CAR) scores on wrist shot past Jacob Markstrom, assisted by Martin Necas and Jesperi Kotkaniemi
+   1-2
+3rd Period: ShowHide
+P3  09:44 
+Jackson Blake (CAR) scores on tip-in past Jacob Markstrom, assisted by Dmitry Orlov
+   1-3
+P3  06:18 
+Jackson Blake (CAR) tripping against Seamus Casey (2 minutes)
+   1-3
+P3  05:33 
+Jordan Martinook (CAR) delaying game - puck over glass (2 minutes)
+   1-3
+P3  04:44 
+Nico Hischier (NJD) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by Jack Hughes and Jesper Bratt
+   2-3
+P3  01:36 
+Sebastian Aho (CAR) scores on empty net, assisted by Jaccob Slavin and Jordan Martinook
+   2-4
+1st Period: No goals or penalties.
+2nd Period: ShowHide
+P2  18:44 
+Jack Hughes (NJD) scores on wrist shot past Pyotr Kochetkov, assisted by Jesper Bratt and Johnathan Kovacevic
+   1-0
+P2  12:43 
+Nathan Bastian (NJD) interference against Shayne Gostisbehere (2 minutes)
+   1-0
+P2  09:05 
+Seth Jarvis (CAR) scores on wrist shot past Jacob Markstrom, assisted by Andrei Svechnikov
+   1-1
+P2  08:05 
+Andrei Svechnikov (CAR) roughing against Timo Meier (2 minutes)
+   1-1
+P2  00:37 
+Shayne Gostisbehere (CAR) scores on wrist shot past Jacob Markstrom, assisted by Martin Necas and Jesperi Kotkaniemi
+   1-2
+P2  18:44 
+Jack Hughes (NJD) scores on wrist shot past Pyotr Kochetkov, assisted by Jesper Bratt and Johnathan Kovacevic
+   1-0
+P2  12:43 
+Nathan Bastian (NJD) interference against Shayne Gostisbehere (2 minutes)
+   1-0
+P2  09:05 
+Seth Jarvis (CAR) scores on wrist shot past Jacob Markstrom, assisted by Andrei Svechnikov
+   1-1
+P2  08:05 
+Andrei Svechnikov (CAR) roughing against Timo Meier (2 minutes)
+   1-1
+P2  00:37 
+Shayne Gostisbehere (CAR) scores on wrist shot past Jacob Markstrom, assisted by Martin Necas and Jesperi Kotkaniemi
+   1-2
+P2  18:44
+Jack Hughes (NJD) scores on wrist shot past Pyotr Kochetkov, assisted by Jesper Bratt and Johnathan Kovacevic
+1-0
+P2  12:43
+Nathan Bastian (NJD) interference against Shayne Gostisbehere (2 minutes)
+1-0
+P2  09:05
+Seth Jarvis (CAR) scores on wrist shot past Jacob Markstrom, assisted by Andrei Svechnikov
+1-1
+P2  08:05
+Andrei Svechnikov (CAR) roughing against Timo Meier (2 minutes)
+1-1
+P2  00:37
+Shayne Gostisbehere (CAR) scores on wrist shot past Jacob Markstrom, assisted by Martin Necas and Jesperi Kotkaniemi
+1-2
+3rd Period: ShowHide
+P3  09:44 
+Jackson Blake (CAR) scores on tip-in past Jacob Markstrom, assisted by Dmitry Orlov
+   1-3
+P3  06:18 
+Jackson Blake (CAR) tripping against Seamus Casey (2 minutes)
+   1-3
+P3  05:33 
+Jordan Martinook (CAR) delaying game - puck over glass (2 minutes)
+   1-3
+P3  04:44 
+Nico Hischier (NJD) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by Jack Hughes and Jesper Bratt
+   2-3
+P3  01:36 
+Sebastian Aho (CAR) scores on empty net, assisted by Jaccob Slavin and Jordan Martinook
+   2-4
+P3  09:44 
+Jackson Blake (CAR) scores on tip-in past Jacob Markstrom, assisted by Dmitry Orlov
+   1-3
+P3  06:18 
+Jackson Blake (CAR) tripping against Seamus Casey (2 minutes)
+   1-3
+P3  05:33 
+Jordan Martinook (CAR) delaying game - puck over glass (2 minutes)
+   1-3
+P3  04:44 
+Nico Hischier (NJD) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by Jack Hughes and Jesper Bratt
+   2-3
+P3  01:36 
+Sebastian Aho (CAR) scores on empty net, assisted by Jaccob Slavin and Jordan Martinook
+   2-4
+P3  09:44
+Jackson Blake (CAR) scores on tip-in past Jacob Markstrom, assisted by Dmitry Orlov
+1-3
+P3  06:18
+Jackson Blake (CAR) tripping against Seamus Casey (2 minutes)
+1-3
+P3  05:33
+Jordan Martinook (CAR) delaying game - puck over glass (2 minutes)
+1-3
+P3  04:44
+Nico Hischier (NJD) scores power-play goal on wrist shot past Pyotr Kochetkov, assisted by Jack Hughes and Jesper Bratt
+2-3
+P3  01:36
+Sebastian Aho (CAR) scores on empty net, assisted by Jaccob Slavin and Jordan Martinook
+2-4
+Box Score:
+ 
+Back to Top
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  09:39   0  0   -2   0   2   2   0   0   0/0Jesper Bratt L  18:27   0  2   -1   4   2   0   0   1   0/0Paul Cotter C  14:02   0  0   -1   4   0   0   0   0   0/2Erik Haula L  13:55   0  0   -1   1   1   0   0   0  5/11Nico Hischier C  20:26   1  0   -1   1   0   0   0   0 14/24Jack Hughes C  20:55   1  1    0   3   1   0   0   2   2/9Curtis Lazar C  11:15   0  0   -2   0   0   0   0   0   2/5Timo Meier R  14:35   0  0    0   3   1   0   0   2   0/2Dawson Mercer C  18:50   0  0    1   2   5   0   0   0   0/0Stefan Noesen R  15:08   0  0   -2   0   3   0   1   1   1/1Ondrej Palat L  11:55   0  0   -2   0   0   0   2   1   0/0Tomas Tatar L  13:32   0  0    0   0   0   0   0   1   0/0Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  15:57   0  0    1   2   1   0   0   1   0/0Brenden Dillon D  17:19   0  0   -2   0   2   0   0   4   0/0Dougie Hamilton D  23:57   0  0   -3   1   3   0   0   3   0/0Johnathan Kovacevic D  19:35   0  1   -1   2   2   0   1   2   0/0Simon Nemec D  19:15   0  0    1   1   1   0   1   1   0/0Jonas Siegenthaler D  19:50   0  0   -1   1   2   0   0   2   0/0Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  26   2   5  21 24/54
+                                        44.4%Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:28   3  27/30  26/29   1/1   0/0     0
+              .900   .897 1.000 
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:40   1  0    0   3   1   0   2   0 10/14Jackson Blake R  10:08   1  0    1   3   0   2   0   1   0/0William Carrier L  15:22   0  0    0   1   1   0   1   2   0/0Jack Drury C  12:00   0  0    2   2   1   0   0   1   3/4Seth Jarvis C  17:08   1  0    1   2   1   0   0   1   0/3Jesperi Kotkaniemi C  12:45   0  1    1   2   0   0   0   1   5/9Jordan Martinook L  16:43   0  1    0   1   1   2   0   0   1/1Martin Necas C  15:08   0  1    1   0   1   0   2   2   0/0Eric Robinson L  11:32   0  0    1   2   0   0   0   1   1/1Jack Roslovic C  12:46   0  0    1   1   0   0   0   2   1/3Jordan Staal C  17:27   0  0    0   2   1   0   0   2  9/19Andrei Svechnikov R  16:05   0  1    1   1   0   2   1   1   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  22:13   0  0   -1   2   3   0   2   4   0/0Jalen Chatfield D  17:16   0  0    1   0   2   0   0   1   0/0Shayne Gostisbehere D  17:52   1  0    2   6   0   0   0   1   0/0Dmitry Orlov D  19:35   0  1    2   0   1   0   0   2   0/0Jaccob Slavin D  23:52   0  1    0   2   4   0   1   1   0/0Sean Walker D  17:54   0  0    2   1   0   0   0   0   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       31  17   6   9  23 30/54
+                                        55.6%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  60:00   2  23/25  23/24   0/1   0/0     0
+              .920   .958  .000
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FONathan Bastian R  09:39   0  0   -2   0   2   2   0   0   0/0Jesper Bratt L  18:27   0  2   -1   4   2   0   0   1   0/0Paul Cotter C  14:02   0  0   -1   4   0   0   0   0   0/2Erik Haula L  13:55   0  0   -1   1   1   0   0   0  5/11Nico Hischier C  20:26   1  0   -1   1   0   0   0   0 14/24Jack Hughes C  20:55   1  1    0   3   1   0   0   2   2/9Curtis Lazar C  11:15   0  0   -2   0   0   0   0   0   2/5Timo Meier R  14:35   0  0    0   3   1   0   0   2   0/2Dawson Mercer C  18:50   0  0    1   2   5   0   0   0   0/0Stefan Noesen R  15:08   0  0   -2   0   3   0   1   1   1/1Ondrej Palat L  11:55   0  0   -2   0   0   0   2   1   0/0Tomas Tatar L  13:32   0  0    0   0   0   0   0   1   0/0
+Devils Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Nathan Bastian R
+09:39   0  0   -2   0   2   2   0   0   0/0
+Jesper Bratt L
+18:27   0  2   -1   4   2   0   0   1   0/0
+Paul Cotter C
+14:02   0  0   -1   4   0   0   0   0   0/2
+Erik Haula L
+13:55   0  0   -1   1   1   0   0   0  5/11
+Nico Hischier C
+20:26   1  0   -1   1   0   0   0   0 14/24
+Jack Hughes C
+20:55   1  1    0   3   1   0   0   2   2/9
+Curtis Lazar C
+11:15   0  0   -2   0   0   0   0   0   2/5
+Timo Meier R
+14:35   0  0    0   3   1   0   0   2   0/2
+Dawson Mercer C
+18:50   0  0    1   2   5   0   0   0   0/0
+Stefan Noesen R
+15:08   0  0   -2   0   3   0   1   1   1/1
+Ondrej Palat L
+11:55   0  0   -2   0   0   0   2   1   0/0
+Tomas Tatar L
+13:32   0  0    0   0   0   0   0   1   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSeamus Casey D  15:57   0  0    1   2   1   0   0   1   0/0Brenden Dillon D  17:19   0  0   -2   0   2   0   0   4   0/0Dougie Hamilton D  23:57   0  0   -3   1   3   0   0   3   0/0Johnathan Kovacevic D  19:35   0  1   -1   2   2   0   1   2   0/0Simon Nemec D  19:15   0  0    1   1   1   0   1   1   0/0Jonas Siegenthaler D  19:50   0  0   -1   1   2   0   0   2   0/0
+Devils Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Seamus Casey D
+15:57   0  0    1   2   1   0   0   1   0/0
+Brenden Dillon D
+17:19   0  0   -2   0   2   0   0   4   0/0
+Dougie Hamilton D
+23:57   0  0   -3   1   3   0   0   3   0/0
+Johnathan Kovacevic D
+19:35   0  1   -1   2   2   0   1   2   0/0
+Simon Nemec D
+19:15   0  0    1   1   1   0   1   1   0/0
+Jonas Siegenthaler D
+19:50   0  0   -1   1   2   0   0   2   0/0
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       25  26   2   5  21 24/54
+                                        44.4%
+Devils Totals:
+          G  A        S   B  PM  TK  GV    FO
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJacob Markstrom G  59:28   3  27/30  26/29   1/1   0/0     0
+              .900   .897 1.000
+Devils Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jacob Markstrom G
+59:28   3  27/30  26/29   1/1   0/0     0
+              .900   .897 1.000
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  18:40   1  0    0   3   1   0   2   0 10/14Jackson Blake R  10:08   1  0    1   3   0   2   0   1   0/0William Carrier L  15:22   0  0    0   1   1   0   1   2   0/0Jack Drury C  12:00   0  0    2   2   1   0   0   1   3/4Seth Jarvis C  17:08   1  0    1   2   1   0   0   1   0/3Jesperi Kotkaniemi C  12:45   0  1    1   2   0   0   0   1   5/9Jordan Martinook L  16:43   0  1    0   1   1   2   0   0   1/1Martin Necas C  15:08   0  1    1   0   1   0   2   2   0/0Eric Robinson L  11:32   0  0    1   2   0   0   0   1   1/1Jack Roslovic C  12:46   0  0    1   1   0   0   0   2   1/3Jordan Staal C  17:27   0  0    0   2   1   0   0   2  9/19Andrei Svechnikov R  16:05   0  1    1   1   0   2   1   1   0/0
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sebastian Aho C
+18:40   1  0    0   3   1   0   2   0 10/14
+Jackson Blake R
+10:08   1  0    1   3   0   2   0   1   0/0
+William Carrier L
+15:22   0  0    0   1   1   0   1   2   0/0
+Jack Drury C
+12:00   0  0    2   2   1   0   0   1   3/4
+Seth Jarvis C
+17:08   1  0    1   2   1   0   0   1   0/3
+Jesperi Kotkaniemi C
+12:45   0  1    1   2   0   0   0   1   5/9
+Jordan Martinook L
+16:43   0  1    0   1   1   2   0   0   1/1
+Martin Necas C
+15:08   0  1    1   0   1   0   2   2   0/0
+Eric Robinson L
+11:32   0  0    1   2   0   0   0   1   1/1
+Jack Roslovic C
+12:46   0  0    1   1   0   0   0   2   1/3
+Jordan Staal C
+17:27   0  0    0   2   1   0   0   2  9/19
+Andrei Svechnikov R
+16:05   0  1    1   1   0   2   1   1   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  22:13   0  0   -1   2   3   0   2   4   0/0Jalen Chatfield D  17:16   0  0    1   0   2   0   0   1   0/0Shayne Gostisbehere D  17:52   1  0    2   6   0   0   0   1   0/0Dmitry Orlov D  19:35   0  1    2   0   1   0   0   2   0/0Jaccob Slavin D  23:52   0  1    0   2   4   0   1   1   0/0Sean Walker D  17:54   0  0    2   1   0   0   0   0   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brent Burns D
+22:13   0  0   -1   2   3   0   2   4   0/0
+Jalen Chatfield D
+17:16   0  0    1   0   2   0   0   1   0/0
+Shayne Gostisbehere D
+17:52   1  0    2   6   0   0   0   1   0/0
+Dmitry Orlov D
+19:35   0  1    2   0   1   0   0   2   0/0
+Jaccob Slavin D
+23:52   0  1    0   2   4   0   1   1   0/0
+Sean Walker D
+17:54   0  0    2   1   0   0   0   0   0/0
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       31  17   6   9  23 30/54
+                                        55.6%
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPyotr Kochetkov G  60:00   2  23/25  23/24   0/1   0/0     0
+              .920   .958  .000
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Pyotr Kochetkov G
+60:00   2  23/25  23/24   0/1   0/0     0
+              .920   .958  .000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,397 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Vancouver
+Canucks0-1-2Final1 - 4Tampa Bay
+Lightning2-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+VAN   0  0  1    1  
+TBL   1  1  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  16:05 
+Nikita Kucherov (TBL) scores on wrist shot past Arturs Silovs, assisted by Darren Raddysh and Brayden Point
+   0-1
+P1  10:06 
+Conor Sheary (TBL) hooking against Nils Hoglander (2 minutes)
+   0-1
+P1  04:01 
+Aatu Raty (VAN) interference against Conor Sheary (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:42 
+Victor Hedman (TBL) interference against Conor Garland (2 minutes)
+   0-1
+P2  12:17 
+Brayden Point (TBL) scores on slap shot past Arturs Silovs, assisted by Jake Guentzel and Ryan McDonagh
+   0-2
+P2  05:18 
+Tyler Myers (VAN) interference against Mitchell Chaffee (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  19:21 
+Anthony Cirelli (TBL) scores on backhand shot past Arturs Silovs, assisted by Brandon Hagel and Nicholas Paul
+   0-3
+P3  18:00 
+Conor Garland (VAN) slashing against Conor Sheary (2 minutes)
+   0-3
+P3  18:00 
+Conor Sheary (TBL) roughing against Conor Garland (2 minutes)
+   0-3
+P3  17:45 
+Erik Cernak (TBL) tripping against Elias Pettersson (2 minutes)
+   0-3
+P3  15:46 
+Conor Garland (VAN) scores power-play goal on snap shot past Andrei Vasilevskiy, assisted by Brock Boeser and Jake DeBrusk
+   1-3
+P3  13:57 
+Jake DeBrusk (VAN) high-sticking against Zemgus Girgensons (4 minutes)
+   1-3
+P3  01:46 
+Brandon Hagel (TBL) scores on empty net, assisted by Nicholas Paul and Anthony Cirelli
+   1-4
+P3  00:35 
+Tyler Myers (VAN) high-sticking against Conor Geekie (4 minutes)
+   1-4
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  12:59   0  0   -1   1   1   0   1   0   0/0Teddy Blueger C  11:25   0  0   -2   0   0   0   0   0  5/10Brock Boeser R  17:46   0  1   -2   1   0   0   2   0   0/0Jake DeBrusk L  16:26   0  1   -1   0   1   4   0   0   0/0Conor Garland R  18:07   1  0   -1   4   0   2   0   0   0/0Danton Heinen L  13:57   0  0    0   0   0   0   1   0   0/2Nils Hoglander L  14:00   0  0    0   2   2   0   0   0   0/0J.T. Miller C  20:15   0  0   -1   4   0   0   1   2 13/19Elias Pettersson C  18:09   0  0   -1   3   2   0   1   1  4/11Aatu Raty C  09:56   0  0    0   1   0   2   0   0   5/8Kiefer Sherwood L  09:50   0  0   -2   0   2   0   0   0   0/0Pius Suter C  12:07   0  0   -2   1   2   0   0   1   1/1Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODerek Forbort D  15:58   0  0   -1   1   3   0   0   0   0/0Filip Hronek D  24:24   0  0   -1   1   2   0   1   1   0/0Quinn Hughes D  26:29   0  0   -2   3   2   0   0   2   0/0Noah Juulsen D  12:27   0  0   -1   3   0   0   1   2   0/0Tyler Myers D  20:00   0  0   -2   2   2   6   0   1   0/0Carson Soucy D  15:49   0  0   -1   0   1   0   0   0   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       27  20  14   8  10 28/51
+                                        54.9%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArturs Silovs G  59:21   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000 
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMitchell Chaffee R  08:47   0  0    0   0   1   0   0   0   0/0Anthony Cirelli C  16:20   1  1    2   3   2   0   0   0  6/11Michael Eyssimont C  10:22   0  0    0   2   0   0   0   1   0/1Conor Geekie C  12:59   0  0    0   1   0   0   0   0   2/6Zemgus Girgensons C  10:46   0  0    0   1   0   0   0   0   0/0Luke Glendening C  13:00   0  0    0   0   2   0   0   0   6/9Jake Guentzel C  19:01   0  1    2   1   3   0   0   2   4/7Brandon Hagel L  16:50   1  1    2   2   2   0   0   1   0/0Nikita Kucherov R  22:28   1  0    2   5   0   0   1   0   0/0Nicholas Paul L  15:31   0  2    2   3   0   0   0   1   1/6Brayden Point C  19:13   1  1    2   4   0   0   0   0  4/11Conor Sheary L  10:18   0  0    0   0   1   4   0   0   0/0Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  17:08   0  0    2   1   2   2   0   0   0/0Victor Hedman D  22:16   0  0    2   2   3   2   0   2   0/0Ryan McDonagh D  18:14   0  1    2   0   2   0   0   2   0/0Janis Moser D  23:33   0  0    0   1   1   0   1   0   0/0Nick Perbix D  14:27   0  0    0   1   1   0   1   2   0/0Darren Raddysh D  20:48   0  1    2   1   0   0   0   1   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       28  20   8   3  12 23/51
+                                        45.1%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   1  26/27  22/22   2/3   2/2     0
+              .963  1.000  .667 1.000
+Vancouver
+Canucks0-1-2Final1 - 4Tampa Bay
+Lightning2-0-0
+Vancouver
+Canucks0-1-2
+Final1 - 4
+Tampa Bay
+Lightning2-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+VAN   0  0  1    1  
+TBL   1  1  2    4
+1st Period: ShowHide
+P1  16:05 
+Nikita Kucherov (TBL) scores on wrist shot past Arturs Silovs, assisted by Darren Raddysh and Brayden Point
+   0-1
+P1  10:06 
+Conor Sheary (TBL) hooking against Nils Hoglander (2 minutes)
+   0-1
+P1  04:01 
+Aatu Raty (VAN) interference against Conor Sheary (2 minutes)
+   0-1
+2nd Period: ShowHide
+P2  14:42 
+Victor Hedman (TBL) interference against Conor Garland (2 minutes)
+   0-1
+P2  12:17 
+Brayden Point (TBL) scores on slap shot past Arturs Silovs, assisted by Jake Guentzel and Ryan McDonagh
+   0-2
+P2  05:18 
+Tyler Myers (VAN) interference against Mitchell Chaffee (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  19:21 
+Anthony Cirelli (TBL) scores on backhand shot past Arturs Silovs, assisted by Brandon Hagel and Nicholas Paul
+   0-3
+P3  18:00 
+Conor Garland (VAN) slashing against Conor Sheary (2 minutes)
+   0-3
+P3  18:00 
+Conor Sheary (TBL) roughing against Conor Garland (2 minutes)
+   0-3
+P3  17:45 
+Erik Cernak (TBL) tripping against Elias Pettersson (2 minutes)
+   0-3
+P3  15:46 
+Conor Garland (VAN) scores power-play goal on snap shot past Andrei Vasilevskiy, assisted by Brock Boeser and Jake DeBrusk
+   1-3
+P3  13:57 
+Jake DeBrusk (VAN) high-sticking against Zemgus Girgensons (4 minutes)
+   1-3
+P3  01:46 
+Brandon Hagel (TBL) scores on empty net, assisted by Nicholas Paul and Anthony Cirelli
+   1-4
+P3  00:35 
+Tyler Myers (VAN) high-sticking against Conor Geekie (4 minutes)
+   1-4
+1st Period: ShowHide
+P1  16:05 
+Nikita Kucherov (TBL) scores on wrist shot past Arturs Silovs, assisted by Darren Raddysh and Brayden Point
+   0-1
+P1  10:06 
+Conor Sheary (TBL) hooking against Nils Hoglander (2 minutes)
+   0-1
+P1  04:01 
+Aatu Raty (VAN) interference against Conor Sheary (2 minutes)
+   0-1
+P1  16:05 
+Nikita Kucherov (TBL) scores on wrist shot past Arturs Silovs, assisted by Darren Raddysh and Brayden Point
+   0-1
+P1  10:06 
+Conor Sheary (TBL) hooking against Nils Hoglander (2 minutes)
+   0-1
+P1  04:01 
+Aatu Raty (VAN) interference against Conor Sheary (2 minutes)
+   0-1
+P1  16:05
+Nikita Kucherov (TBL) scores on wrist shot past Arturs Silovs, assisted by Darren Raddysh and Brayden Point
+0-1
+P1  10:06
+Conor Sheary (TBL) hooking against Nils Hoglander (2 minutes)
+0-1
+P1  04:01
+Aatu Raty (VAN) interference against Conor Sheary (2 minutes)
+0-1
+2nd Period: ShowHide
+P2  14:42 
+Victor Hedman (TBL) interference against Conor Garland (2 minutes)
+   0-1
+P2  12:17 
+Brayden Point (TBL) scores on slap shot past Arturs Silovs, assisted by Jake Guentzel and Ryan McDonagh
+   0-2
+P2  05:18 
+Tyler Myers (VAN) interference against Mitchell Chaffee (2 minutes)
+   0-2
+P2  14:42 
+Victor Hedman (TBL) interference against Conor Garland (2 minutes)
+   0-1
+P2  12:17 
+Brayden Point (TBL) scores on slap shot past Arturs Silovs, assisted by Jake Guentzel and Ryan McDonagh
+   0-2
+P2  05:18 
+Tyler Myers (VAN) interference against Mitchell Chaffee (2 minutes)
+   0-2
+P2  14:42
+Victor Hedman (TBL) interference against Conor Garland (2 minutes)
+0-1
+P2  12:17
+Brayden Point (TBL) scores on slap shot past Arturs Silovs, assisted by Jake Guentzel and Ryan McDonagh
+0-2
+P2  05:18
+Tyler Myers (VAN) interference against Mitchell Chaffee (2 minutes)
+0-2
+3rd Period: ShowHide
+P3  19:21 
+Anthony Cirelli (TBL) scores on backhand shot past Arturs Silovs, assisted by Brandon Hagel and Nicholas Paul
+   0-3
+P3  18:00 
+Conor Garland (VAN) slashing against Conor Sheary (2 minutes)
+   0-3
+P3  18:00 
+Conor Sheary (TBL) roughing against Conor Garland (2 minutes)
+   0-3
+P3  17:45 
+Erik Cernak (TBL) tripping against Elias Pettersson (2 minutes)
+   0-3
+P3  15:46 
+Conor Garland (VAN) scores power-play goal on snap shot past Andrei Vasilevskiy, assisted by Brock Boeser and Jake DeBrusk
+   1-3
+P3  13:57 
+Jake DeBrusk (VAN) high-sticking against Zemgus Girgensons (4 minutes)
+   1-3
+P3  01:46 
+Brandon Hagel (TBL) scores on empty net, assisted by Nicholas Paul and Anthony Cirelli
+   1-4
+P3  00:35 
+Tyler Myers (VAN) high-sticking against Conor Geekie (4 minutes)
+   1-4
+P3  19:21 
+Anthony Cirelli (TBL) scores on backhand shot past Arturs Silovs, assisted by Brandon Hagel and Nicholas Paul
+   0-3
+P3  18:00 
+Conor Garland (VAN) slashing against Conor Sheary (2 minutes)
+   0-3
+P3  18:00 
+Conor Sheary (TBL) roughing against Conor Garland (2 minutes)
+   0-3
+P3  17:45 
+Erik Cernak (TBL) tripping against Elias Pettersson (2 minutes)
+   0-3
+P3  15:46 
+Conor Garland (VAN) scores power-play goal on snap shot past Andrei Vasilevskiy, assisted by Brock Boeser and Jake DeBrusk
+   1-3
+P3  13:57 
+Jake DeBrusk (VAN) high-sticking against Zemgus Girgensons (4 minutes)
+   1-3
+P3  01:46 
+Brandon Hagel (TBL) scores on empty net, assisted by Nicholas Paul and Anthony Cirelli
+   1-4
+P3  00:35 
+Tyler Myers (VAN) high-sticking against Conor Geekie (4 minutes)
+   1-4
+P3  19:21
+Anthony Cirelli (TBL) scores on backhand shot past Arturs Silovs, assisted by Brandon Hagel and Nicholas Paul
+0-3
+P3  18:00
+Conor Garland (VAN) slashing against Conor Sheary (2 minutes)
+0-3
+P3  18:00
+Conor Sheary (TBL) roughing against Conor Garland (2 minutes)
+0-3
+P3  17:45
+Erik Cernak (TBL) tripping against Elias Pettersson (2 minutes)
+0-3
+P3  15:46
+Conor Garland (VAN) scores power-play goal on snap shot past Andrei Vasilevskiy, assisted by Brock Boeser and Jake DeBrusk
+1-3
+P3  13:57
+Jake DeBrusk (VAN) high-sticking against Zemgus Girgensons (4 minutes)
+1-3
+P3  01:46
+Brandon Hagel (TBL) scores on empty net, assisted by Nicholas Paul and Anthony Cirelli
+1-4
+P3  00:35
+Tyler Myers (VAN) high-sticking against Conor Geekie (4 minutes)
+1-4
+Box Score:
+ 
+Back to Top
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  12:59   0  0   -1   1   1   0   1   0   0/0Teddy Blueger C  11:25   0  0   -2   0   0   0   0   0  5/10Brock Boeser R  17:46   0  1   -2   1   0   0   2   0   0/0Jake DeBrusk L  16:26   0  1   -1   0   1   4   0   0   0/0Conor Garland R  18:07   1  0   -1   4   0   2   0   0   0/0Danton Heinen L  13:57   0  0    0   0   0   0   1   0   0/2Nils Hoglander L  14:00   0  0    0   2   2   0   0   0   0/0J.T. Miller C  20:15   0  0   -1   4   0   0   1   2 13/19Elias Pettersson C  18:09   0  0   -1   3   2   0   1   1  4/11Aatu Raty C  09:56   0  0    0   1   0   2   0   0   5/8Kiefer Sherwood L  09:50   0  0   -2   0   2   0   0   0   0/0Pius Suter C  12:07   0  0   -2   1   2   0   0   1   1/1Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODerek Forbort D  15:58   0  0   -1   1   3   0   0   0   0/0Filip Hronek D  24:24   0  0   -1   1   2   0   1   1   0/0Quinn Hughes D  26:29   0  0   -2   3   2   0   0   2   0/0Noah Juulsen D  12:27   0  0   -1   3   0   0   1   2   0/0Tyler Myers D  20:00   0  0   -2   2   2   6   0   1   0/0Carson Soucy D  15:49   0  0   -1   0   1   0   0   0   0/0Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       27  20  14   8  10 28/51
+                                        54.9%Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArturs Silovs G  59:21   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000 
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMitchell Chaffee R  08:47   0  0    0   0   1   0   0   0   0/0Anthony Cirelli C  16:20   1  1    2   3   2   0   0   0  6/11Michael Eyssimont C  10:22   0  0    0   2   0   0   0   1   0/1Conor Geekie C  12:59   0  0    0   1   0   0   0   0   2/6Zemgus Girgensons C  10:46   0  0    0   1   0   0   0   0   0/0Luke Glendening C  13:00   0  0    0   0   2   0   0   0   6/9Jake Guentzel C  19:01   0  1    2   1   3   0   0   2   4/7Brandon Hagel L  16:50   1  1    2   2   2   0   0   1   0/0Nikita Kucherov R  22:28   1  0    2   5   0   0   1   0   0/0Nicholas Paul L  15:31   0  2    2   3   0   0   0   1   1/6Brayden Point C  19:13   1  1    2   4   0   0   0   0  4/11Conor Sheary L  10:18   0  0    0   0   1   4   0   0   0/0Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  17:08   0  0    2   1   2   2   0   0   0/0Victor Hedman D  22:16   0  0    2   2   3   2   0   2   0/0Ryan McDonagh D  18:14   0  1    2   0   2   0   0   2   0/0Janis Moser D  23:33   0  0    0   1   1   0   1   0   0/0Nick Perbix D  14:27   0  0    0   1   1   0   1   2   0/0Darren Raddysh D  20:48   0  1    2   1   0   0   0   1   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       28  20   8   3  12 23/51
+                                        45.1%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   1  26/27  22/22   2/3   2/2     0
+              .963  1.000  .667 1.000
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOArshdeep Bains L  12:59   0  0   -1   1   1   0   1   0   0/0Teddy Blueger C  11:25   0  0   -2   0   0   0   0   0  5/10Brock Boeser R  17:46   0  1   -2   1   0   0   2   0   0/0Jake DeBrusk L  16:26   0  1   -1   0   1   4   0   0   0/0Conor Garland R  18:07   1  0   -1   4   0   2   0   0   0/0Danton Heinen L  13:57   0  0    0   0   0   0   1   0   0/2Nils Hoglander L  14:00   0  0    0   2   2   0   0   0   0/0J.T. Miller C  20:15   0  0   -1   4   0   0   1   2 13/19Elias Pettersson C  18:09   0  0   -1   3   2   0   1   1  4/11Aatu Raty C  09:56   0  0    0   1   0   2   0   0   5/8Kiefer Sherwood L  09:50   0  0   -2   0   2   0   0   0   0/0Pius Suter C  12:07   0  0   -2   1   2   0   0   1   1/1
+Canucks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Arshdeep Bains L
+12:59   0  0   -1   1   1   0   1   0   0/0
+Teddy Blueger C
+11:25   0  0   -2   0   0   0   0   0  5/10
+Brock Boeser R
+17:46   0  1   -2   1   0   0   2   0   0/0
+Jake DeBrusk L
+16:26   0  1   -1   0   1   4   0   0   0/0
+Conor Garland R
+18:07   1  0   -1   4   0   2   0   0   0/0
+Danton Heinen L
+13:57   0  0    0   0   0   0   1   0   0/2
+Nils Hoglander L
+14:00   0  0    0   2   2   0   0   0   0/0
+J.T. Miller C
+20:15   0  0   -1   4   0   0   1   2 13/19
+Elias Pettersson C
+18:09   0  0   -1   3   2   0   1   1  4/11
+Aatu Raty C
+09:56   0  0    0   1   0   2   0   0   5/8
+Kiefer Sherwood L
+09:50   0  0   -2   0   2   0   0   0   0/0
+Pius Suter C
+12:07   0  0   -2   1   2   0   0   1   1/1
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODerek Forbort D  15:58   0  0   -1   1   3   0   0   0   0/0Filip Hronek D  24:24   0  0   -1   1   2   0   1   1   0/0Quinn Hughes D  26:29   0  0   -2   3   2   0   0   2   0/0Noah Juulsen D  12:27   0  0   -1   3   0   0   1   2   0/0Tyler Myers D  20:00   0  0   -2   2   2   6   0   1   0/0Carson Soucy D  15:49   0  0   -1   0   1   0   0   0   0/0
+Canucks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Derek Forbort D
+15:58   0  0   -1   1   3   0   0   0   0/0
+Filip Hronek D
+24:24   0  0   -1   1   2   0   1   1   0/0
+Quinn Hughes D
+26:29   0  0   -2   3   2   0   0   2   0/0
+Noah Juulsen D
+12:27   0  0   -1   3   0   0   1   2   0/0
+Tyler Myers D
+20:00   0  0   -2   2   2   6   0   1   0/0
+Carson Soucy D
+15:49   0  0   -1   0   1   0   0   0   0/0
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       27  20  14   8  10 28/51
+                                        54.9%
+Canucks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMArturs Silovs G  59:21   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000
+Canucks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Arturs Silovs G
+59:21   3  24/27  21/24   3/3   0/0     0
+              .889   .875 1.000
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMitchell Chaffee R  08:47   0  0    0   0   1   0   0   0   0/0Anthony Cirelli C  16:20   1  1    2   3   2   0   0   0  6/11Michael Eyssimont C  10:22   0  0    0   2   0   0   0   1   0/1Conor Geekie C  12:59   0  0    0   1   0   0   0   0   2/6Zemgus Girgensons C  10:46   0  0    0   1   0   0   0   0   0/0Luke Glendening C  13:00   0  0    0   0   2   0   0   0   6/9Jake Guentzel C  19:01   0  1    2   1   3   0   0   2   4/7Brandon Hagel L  16:50   1  1    2   2   2   0   0   1   0/0Nikita Kucherov R  22:28   1  0    2   5   0   0   1   0   0/0Nicholas Paul L  15:31   0  2    2   3   0   0   0   1   1/6Brayden Point C  19:13   1  1    2   4   0   0   0   0  4/11Conor Sheary L  10:18   0  0    0   0   1   4   0   0   0/0
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mitchell Chaffee R
+08:47   0  0    0   0   1   0   0   0   0/0
+Anthony Cirelli C
+16:20   1  1    2   3   2   0   0   0  6/11
+Michael Eyssimont C
+10:22   0  0    0   2   0   0   0   1   0/1
+Conor Geekie C
+12:59   0  0    0   1   0   0   0   0   2/6
+Zemgus Girgensons C
+10:46   0  0    0   1   0   0   0   0   0/0
+Luke Glendening C
+13:00   0  0    0   0   2   0   0   0   6/9
+Jake Guentzel C
+19:01   0  1    2   1   3   0   0   2   4/7
+Brandon Hagel L
+16:50   1  1    2   2   2   0   0   1   0/0
+Nikita Kucherov R
+22:28   1  0    2   5   0   0   1   0   0/0
+Nicholas Paul L
+15:31   0  2    2   3   0   0   0   1   1/6
+Brayden Point C
+19:13   1  1    2   4   0   0   0   0  4/11
+Conor Sheary L
+10:18   0  0    0   0   1   4   0   0   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  17:08   0  0    2   1   2   2   0   0   0/0Victor Hedman D  22:16   0  0    2   2   3   2   0   2   0/0Ryan McDonagh D  18:14   0  1    2   0   2   0   0   2   0/0Janis Moser D  23:33   0  0    0   1   1   0   1   0   0/0Nick Perbix D  14:27   0  0    0   1   1   0   1   2   0/0Darren Raddysh D  20:48   0  1    2   1   0   0   0   1   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+17:08   0  0    2   1   2   2   0   0   0/0
+Victor Hedman D
+22:16   0  0    2   2   3   2   0   2   0/0
+Ryan McDonagh D
+18:14   0  1    2   0   2   0   0   2   0/0
+Janis Moser D
+23:33   0  0    0   1   1   0   1   0   0/0
+Nick Perbix D
+14:27   0  0    0   1   1   0   1   2   0/0
+Darren Raddysh D
+20:48   0  1    2   1   0   0   0   1   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       28  20   8   3  12 23/51
+                                        45.1%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   1  26/27  22/22   2/3   2/2     0
+              .963  1.000  .667 1.000
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Andrei Vasilevskiy G
+60:00   1  26/27  22/22   2/3   2/2     0
+              .963  1.000  .667 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

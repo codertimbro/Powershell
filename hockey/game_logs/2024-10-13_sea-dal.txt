@@ -1,0 +1,352 @@
+< Oct. 13 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Seattle
+Kraken1-2-0Final0 - 2Dallas
+Stars3-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SEA   0  0  0    0  
+DAL   2  0  0    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  13:27 
+Ryker Evans (SEA) cross-checking against Mason Marchment (2 minutes)
+   0-0
+P1  13:27 
+Mason Marchment (DAL) slashing against Ryker Evans (2 minutes)
+   0-0
+P1  12:04 
+Wyatt Johnston (DAL) tripping against Andre Burakovsky (2 minutes)
+   0-0
+P1  06:59 
+Jaden Schwartz (SEA) high-sticking against Brendan Smith (2 minutes)
+   0-0
+P1  03:43 
+Sam Steel (DAL) scores on wrist shot past Philipp Grubauer, assisted by Colin Blackwell and Thomas Harley
+   0-1
+P1  03:30 
+Wyatt Johnston (DAL) scores on snap shot past Philipp Grubauer, assisted by Jamie Benn and Logan Stankoven
+   0-2
+2nd Period: ShowHide
+P2  15:46 
+Mason Marchment (DAL) tripping against Matty Beniers (2 minutes)
+   0-2
+P2  12:24 
+Ryker Evans (SEA) hooking against Jason Robertson (2 minutes)
+   0-2
+P2  00:00 
+Evgenii Dadonov (DAL) high-sticking against Jamie Oleksiak (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  10:37 
+Jason Robertson (DAL) holding against Jared McCann (2 minutes)
+   0-2
+P3  04:45 
+Brandon Montour (SEA) tripping against Evgenii Dadonov (2 minutes)
+   0-2
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:37   0  0   -1   2   0   0   0   1  7/16Oliver Bjorkstrand R  13:53   0  0   -1   2   0   0   0   2   0/1Andre Burakovsky L  16:54   0  0   -1   1   0   0   0   1   0/0Jordan Eberle R  17:04   0  0    0   1   1   0   0   0   0/0Yanni Gourde C  13:02   0  0    0   0   0   0   0   0   8/9Tye Kartye L  09:40   0  0    0   2   0   0   0   0   0/0Jared McCann L  16:07   0  0    0   0   0   0   0   0   0/1Jaden Schwartz C  15:42   0  0   -1   1   1   2   1   0   0/3Chandler Stephenson C  19:33   0  0   -1   1   0   0   2   1  9/18Brandon Tanev L  12:18   0  0    0   3   0   0   0   0   0/0Eeli Tolvanen R  14:51   0  0   -1   0   2   0   1   0   0/0Shane Wright C  16:17   0  0    0   2   1   0   0   0   1/4Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  12:08   0  0   -1   2   2   0   0   0   0/0Ryker Evans D  18:08   0  0   -1   0   1   4   0   0   0/0Adam Larsson D  22:11   0  0   -1   0   2   0   0   4   0/0Joshua Mahura D  13:51   0  0   -1   2   0   0   1   2   0/0Brandon Montour D  24:49   0  0    0   5   2   2   1   1   0/0Jamie Oleksiak D  20:15   0  0    0   1   5   0   0   0   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       25  17   8   6  12 25/52
+                                        48.1%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  57:40   2  21/23  18/20   3/3   0/0     0
+              .913   .900 1.000 
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:27   0  1    1   0   0   0   0   1   2/4Colin Blackwell C  09:40   0  1    1   1   0   0   1   0   2/7Oskar Bäck C  08:47   0  0    1   0   0   0   1   0   1/1Evgenii Dadonov R  13:06   0  0    0   3   0   2   0   0   0/0Matt Duchene C  15:46   0  0    0   1   0   0   0   1   3/4Roope Hintz C  18:17   0  0    0   2   1   0   0   1   4/9Wyatt Johnston C  18:14   1  0    1   1   2   2   0   0  6/11Mason Marchment L  14:29   0  0    0   2   0   4   1   1   0/0Jason Robertson L  18:39   0  0    0   2   0   2   1   1   0/0Tyler Seguin C  14:17   0  0    0   2   0   0   0   0  7/10Logan Stankoven C  15:14   0  1    1   3   0   0   0   0   1/4Sam Steel C  13:30   1  0    1   1   0   0   1   1   1/2Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  22:32   0  1    1   3   1   0   0   1   0/0Miro Heiskanen D  25:32   0  0    1   1   3   0   0   1   0/0Esa Lindell D  21:23   0  0    1   0   4   0   0   2   0/0Nils Lundkvist D  14:32   0  0    0   1   0   0   0   0   0/0Ilya Lyubushkin D  17:49   0  0    1   0   1   0   0   0   0/0Brendan Smith D  13:07   0  0    0   0   3   0   0   3   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       23  15  10   5  13 27/52
+                                        51.9%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:39   0  25/25  23/23   2/2   0/0     0
+             1.000  1.000 1.000
+Seattle
+Kraken1-2-0Final0 - 2Dallas
+Stars3-0-0
+Seattle
+Kraken1-2-0
+Final0 - 2
+Dallas
+Stars3-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SEA   0  0  0    0  
+DAL   2  0  0    2
+1st Period: ShowHide
+P1  13:27 
+Ryker Evans (SEA) cross-checking against Mason Marchment (2 minutes)
+   0-0
+P1  13:27 
+Mason Marchment (DAL) slashing against Ryker Evans (2 minutes)
+   0-0
+P1  12:04 
+Wyatt Johnston (DAL) tripping against Andre Burakovsky (2 minutes)
+   0-0
+P1  06:59 
+Jaden Schwartz (SEA) high-sticking against Brendan Smith (2 minutes)
+   0-0
+P1  03:43 
+Sam Steel (DAL) scores on wrist shot past Philipp Grubauer, assisted by Colin Blackwell and Thomas Harley
+   0-1
+P1  03:30 
+Wyatt Johnston (DAL) scores on snap shot past Philipp Grubauer, assisted by Jamie Benn and Logan Stankoven
+   0-2
+2nd Period: ShowHide
+P2  15:46 
+Mason Marchment (DAL) tripping against Matty Beniers (2 minutes)
+   0-2
+P2  12:24 
+Ryker Evans (SEA) hooking against Jason Robertson (2 minutes)
+   0-2
+P2  00:00 
+Evgenii Dadonov (DAL) high-sticking against Jamie Oleksiak (2 minutes)
+   0-2
+3rd Period: ShowHide
+P3  10:37 
+Jason Robertson (DAL) holding against Jared McCann (2 minutes)
+   0-2
+P3  04:45 
+Brandon Montour (SEA) tripping against Evgenii Dadonov (2 minutes)
+   0-2
+1st Period: ShowHide
+P1  13:27 
+Ryker Evans (SEA) cross-checking against Mason Marchment (2 minutes)
+   0-0
+P1  13:27 
+Mason Marchment (DAL) slashing against Ryker Evans (2 minutes)
+   0-0
+P1  12:04 
+Wyatt Johnston (DAL) tripping against Andre Burakovsky (2 minutes)
+   0-0
+P1  06:59 
+Jaden Schwartz (SEA) high-sticking against Brendan Smith (2 minutes)
+   0-0
+P1  03:43 
+Sam Steel (DAL) scores on wrist shot past Philipp Grubauer, assisted by Colin Blackwell and Thomas Harley
+   0-1
+P1  03:30 
+Wyatt Johnston (DAL) scores on snap shot past Philipp Grubauer, assisted by Jamie Benn and Logan Stankoven
+   0-2
+P1  13:27 
+Ryker Evans (SEA) cross-checking against Mason Marchment (2 minutes)
+   0-0
+P1  13:27 
+Mason Marchment (DAL) slashing against Ryker Evans (2 minutes)
+   0-0
+P1  12:04 
+Wyatt Johnston (DAL) tripping against Andre Burakovsky (2 minutes)
+   0-0
+P1  06:59 
+Jaden Schwartz (SEA) high-sticking against Brendan Smith (2 minutes)
+   0-0
+P1  03:43 
+Sam Steel (DAL) scores on wrist shot past Philipp Grubauer, assisted by Colin Blackwell and Thomas Harley
+   0-1
+P1  03:30 
+Wyatt Johnston (DAL) scores on snap shot past Philipp Grubauer, assisted by Jamie Benn and Logan Stankoven
+   0-2
+P1  13:27
+Ryker Evans (SEA) cross-checking against Mason Marchment (2 minutes)
+0-0
+P1  13:27
+Mason Marchment (DAL) slashing against Ryker Evans (2 minutes)
+0-0
+P1  12:04
+Wyatt Johnston (DAL) tripping against Andre Burakovsky (2 minutes)
+0-0
+P1  06:59
+Jaden Schwartz (SEA) high-sticking against Brendan Smith (2 minutes)
+0-0
+P1  03:43
+Sam Steel (DAL) scores on wrist shot past Philipp Grubauer, assisted by Colin Blackwell and Thomas Harley
+0-1
+P1  03:30
+Wyatt Johnston (DAL) scores on snap shot past Philipp Grubauer, assisted by Jamie Benn and Logan Stankoven
+0-2
+2nd Period: ShowHide
+P2  15:46 
+Mason Marchment (DAL) tripping against Matty Beniers (2 minutes)
+   0-2
+P2  12:24 
+Ryker Evans (SEA) hooking against Jason Robertson (2 minutes)
+   0-2
+P2  00:00 
+Evgenii Dadonov (DAL) high-sticking against Jamie Oleksiak (2 minutes)
+   0-2
+P2  15:46 
+Mason Marchment (DAL) tripping against Matty Beniers (2 minutes)
+   0-2
+P2  12:24 
+Ryker Evans (SEA) hooking against Jason Robertson (2 minutes)
+   0-2
+P2  00:00 
+Evgenii Dadonov (DAL) high-sticking against Jamie Oleksiak (2 minutes)
+   0-2
+P2  15:46
+Mason Marchment (DAL) tripping against Matty Beniers (2 minutes)
+0-2
+P2  12:24
+Ryker Evans (SEA) hooking against Jason Robertson (2 minutes)
+0-2
+P2  00:00
+Evgenii Dadonov (DAL) high-sticking against Jamie Oleksiak (2 minutes)
+0-2
+3rd Period: ShowHide
+P3  10:37 
+Jason Robertson (DAL) holding against Jared McCann (2 minutes)
+   0-2
+P3  04:45 
+Brandon Montour (SEA) tripping against Evgenii Dadonov (2 minutes)
+   0-2
+P3  10:37 
+Jason Robertson (DAL) holding against Jared McCann (2 minutes)
+   0-2
+P3  04:45 
+Brandon Montour (SEA) tripping against Evgenii Dadonov (2 minutes)
+   0-2
+P3  10:37
+Jason Robertson (DAL) holding against Jared McCann (2 minutes)
+0-2
+P3  04:45
+Brandon Montour (SEA) tripping against Evgenii Dadonov (2 minutes)
+0-2
+Box Score:
+ 
+Back to Top
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:37   0  0   -1   2   0   0   0   1  7/16Oliver Bjorkstrand R  13:53   0  0   -1   2   0   0   0   2   0/1Andre Burakovsky L  16:54   0  0   -1   1   0   0   0   1   0/0Jordan Eberle R  17:04   0  0    0   1   1   0   0   0   0/0Yanni Gourde C  13:02   0  0    0   0   0   0   0   0   8/9Tye Kartye L  09:40   0  0    0   2   0   0   0   0   0/0Jared McCann L  16:07   0  0    0   0   0   0   0   0   0/1Jaden Schwartz C  15:42   0  0   -1   1   1   2   1   0   0/3Chandler Stephenson C  19:33   0  0   -1   1   0   0   2   1  9/18Brandon Tanev L  12:18   0  0    0   3   0   0   0   0   0/0Eeli Tolvanen R  14:51   0  0   -1   0   2   0   1   0   0/0Shane Wright C  16:17   0  0    0   2   1   0   0   0   1/4Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  12:08   0  0   -1   2   2   0   0   0   0/0Ryker Evans D  18:08   0  0   -1   0   1   4   0   0   0/0Adam Larsson D  22:11   0  0   -1   0   2   0   0   4   0/0Joshua Mahura D  13:51   0  0   -1   2   0   0   1   2   0/0Brandon Montour D  24:49   0  0    0   5   2   2   1   1   0/0Jamie Oleksiak D  20:15   0  0    0   1   5   0   0   0   0/0Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       25  17   8   6  12 25/52
+                                        48.1%Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  57:40   2  21/23  18/20   3/3   0/0     0
+              .913   .900 1.000 
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:27   0  1    1   0   0   0   0   1   2/4Colin Blackwell C  09:40   0  1    1   1   0   0   1   0   2/7Oskar Bäck C  08:47   0  0    1   0   0   0   1   0   1/1Evgenii Dadonov R  13:06   0  0    0   3   0   2   0   0   0/0Matt Duchene C  15:46   0  0    0   1   0   0   0   1   3/4Roope Hintz C  18:17   0  0    0   2   1   0   0   1   4/9Wyatt Johnston C  18:14   1  0    1   1   2   2   0   0  6/11Mason Marchment L  14:29   0  0    0   2   0   4   1   1   0/0Jason Robertson L  18:39   0  0    0   2   0   2   1   1   0/0Tyler Seguin C  14:17   0  0    0   2   0   0   0   0  7/10Logan Stankoven C  15:14   0  1    1   3   0   0   0   0   1/4Sam Steel C  13:30   1  0    1   1   0   0   1   1   1/2Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  22:32   0  1    1   3   1   0   0   1   0/0Miro Heiskanen D  25:32   0  0    1   1   3   0   0   1   0/0Esa Lindell D  21:23   0  0    1   0   4   0   0   2   0/0Nils Lundkvist D  14:32   0  0    0   1   0   0   0   0   0/0Ilya Lyubushkin D  17:49   0  0    1   0   1   0   0   0   0/0Brendan Smith D  13:07   0  0    0   0   3   0   0   3   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       23  15  10   5  13 27/52
+                                        51.9%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:39   0  25/25  23/23   2/2   0/0     0
+             1.000  1.000 1.000
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatty Beniers C  17:37   0  0   -1   2   0   0   0   1  7/16Oliver Bjorkstrand R  13:53   0  0   -1   2   0   0   0   2   0/1Andre Burakovsky L  16:54   0  0   -1   1   0   0   0   1   0/0Jordan Eberle R  17:04   0  0    0   1   1   0   0   0   0/0Yanni Gourde C  13:02   0  0    0   0   0   0   0   0   8/9Tye Kartye L  09:40   0  0    0   2   0   0   0   0   0/0Jared McCann L  16:07   0  0    0   0   0   0   0   0   0/1Jaden Schwartz C  15:42   0  0   -1   1   1   2   1   0   0/3Chandler Stephenson C  19:33   0  0   -1   1   0   0   2   1  9/18Brandon Tanev L  12:18   0  0    0   3   0   0   0   0   0/0Eeli Tolvanen R  14:51   0  0   -1   0   2   0   1   0   0/0Shane Wright C  16:17   0  0    0   2   1   0   0   0   1/4
+Kraken Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matty Beniers C
+17:37   0  0   -1   2   0   0   0   1  7/16
+Oliver Bjorkstrand R
+13:53   0  0   -1   2   0   0   0   2   0/1
+Andre Burakovsky L
+16:54   0  0   -1   1   0   0   0   1   0/0
+Jordan Eberle R
+17:04   0  0    0   1   1   0   0   0   0/0
+Yanni Gourde C
+13:02   0  0    0   0   0   0   0   0   8/9
+Tye Kartye L
+09:40   0  0    0   2   0   0   0   0   0/0
+Jared McCann L
+16:07   0  0    0   0   0   0   0   0   0/1
+Jaden Schwartz C
+15:42   0  0   -1   1   1   2   1   0   0/3
+Chandler Stephenson C
+19:33   0  0   -1   1   0   0   2   1  9/18
+Brandon Tanev L
+12:18   0  0    0   3   0   0   0   0   0/0
+Eeli Tolvanen R
+14:51   0  0   -1   0   2   0   1   0   0/0
+Shane Wright C
+16:17   0  0    0   2   1   0   0   0   1/4
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOWill Borgen D  12:08   0  0   -1   2   2   0   0   0   0/0Ryker Evans D  18:08   0  0   -1   0   1   4   0   0   0/0Adam Larsson D  22:11   0  0   -1   0   2   0   0   4   0/0Joshua Mahura D  13:51   0  0   -1   2   0   0   1   2   0/0Brandon Montour D  24:49   0  0    0   5   2   2   1   1   0/0Jamie Oleksiak D  20:15   0  0    0   1   5   0   0   0   0/0
+Kraken Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Will Borgen D
+12:08   0  0   -1   2   2   0   0   0   0/0
+Ryker Evans D
+18:08   0  0   -1   0   1   4   0   0   0/0
+Adam Larsson D
+22:11   0  0   -1   0   2   0   0   4   0/0
+Joshua Mahura D
+13:51   0  0   -1   2   0   0   1   2   0/0
+Brandon Montour D
+24:49   0  0    0   5   2   2   1   1   0/0
+Jamie Oleksiak D
+20:15   0  0    0   1   5   0   0   0   0/0
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO          0  0       25  17   8   6  12 25/52
+                                        48.1%
+Kraken Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPhilipp Grubauer G  57:40   2  21/23  18/20   3/3   0/0     0
+              .913   .900 1.000
+Kraken Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Philipp Grubauer G
+57:40   2  21/23  18/20   3/3   0/0     0
+              .913   .900 1.000
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  15:27   0  1    1   0   0   0   0   1   2/4Colin Blackwell C  09:40   0  1    1   1   0   0   1   0   2/7Oskar Bäck C  08:47   0  0    1   0   0   0   1   0   1/1Evgenii Dadonov R  13:06   0  0    0   3   0   2   0   0   0/0Matt Duchene C  15:46   0  0    0   1   0   0   0   1   3/4Roope Hintz C  18:17   0  0    0   2   1   0   0   1   4/9Wyatt Johnston C  18:14   1  0    1   1   2   2   0   0  6/11Mason Marchment L  14:29   0  0    0   2   0   4   1   1   0/0Jason Robertson L  18:39   0  0    0   2   0   2   1   1   0/0Tyler Seguin C  14:17   0  0    0   2   0   0   0   0  7/10Logan Stankoven C  15:14   0  1    1   3   0   0   0   0   1/4Sam Steel C  13:30   1  0    1   1   0   0   1   1   1/2
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Benn L
+15:27   0  1    1   0   0   0   0   1   2/4
+Colin Blackwell C
+09:40   0  1    1   1   0   0   1   0   2/7
+Oskar Bäck C
+08:47   0  0    1   0   0   0   1   0   1/1
+Evgenii Dadonov R
+13:06   0  0    0   3   0   2   0   0   0/0
+Matt Duchene C
+15:46   0  0    0   1   0   0   0   1   3/4
+Roope Hintz C
+18:17   0  0    0   2   1   0   0   1   4/9
+Wyatt Johnston C
+18:14   1  0    1   1   2   2   0   0  6/11
+Mason Marchment L
+14:29   0  0    0   2   0   4   1   1   0/0
+Jason Robertson L
+18:39   0  0    0   2   0   2   1   1   0/0
+Tyler Seguin C
+14:17   0  0    0   2   0   0   0   0  7/10
+Logan Stankoven C
+15:14   0  1    1   3   0   0   0   0   1/4
+Sam Steel C
+13:30   1  0    1   1   0   0   1   1   1/2
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  22:32   0  1    1   3   1   0   0   1   0/0Miro Heiskanen D  25:32   0  0    1   1   3   0   0   1   0/0Esa Lindell D  21:23   0  0    1   0   4   0   0   2   0/0Nils Lundkvist D  14:32   0  0    0   1   0   0   0   0   0/0Ilya Lyubushkin D  17:49   0  0    1   0   1   0   0   0   0/0Brendan Smith D  13:07   0  0    0   0   3   0   0   3   0/0
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Thomas Harley D
+22:32   0  1    1   3   1   0   0   1   0/0
+Miro Heiskanen D
+25:32   0  0    1   1   3   0   0   1   0/0
+Esa Lindell D
+21:23   0  0    1   0   4   0   0   2   0/0
+Nils Lundkvist D
+14:32   0  0    0   1   0   0   0   0   0/0
+Ilya Lyubushkin D
+17:49   0  0    1   0   1   0   0   0   0/0
+Brendan Smith D
+13:07   0  0    0   0   3   0   0   3   0/0
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       23  15  10   5  13 27/52
+                                        51.9%
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCasey DeSmith G  59:39   0  25/25  23/23   2/2   0/0     0
+             1.000  1.000 1.000
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Casey DeSmith G
+59:39   0  25/25  23/23   2/2   0/0     0
+             1.000  1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

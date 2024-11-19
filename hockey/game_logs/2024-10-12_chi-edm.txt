@@ -1,0 +1,382 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Chicago
+Blackhawks1-1-1Final5 - 2Edmonton
+Oilers0-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CHI   1  2  2    5  
+EDM   0  1  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  04:10 
+Philipp Kurashev (CHI) scores on tip-in past Calvin Pickard, assisted by Taylor Hall and Wyatt Kaiser
+   1-0
+2nd Period: ShowHide
+P2  17:10 
+Connor Murphy (CHI) hooking against Viktor Arvidsson (2 minutes)
+   1-0
+P2  15:05 
+Corey Perry (EDM) scores on backhand shot past Petr Mrazek, assisted by Jeff Skinner and Mattias Ekholm
+   1-1
+P2  10:55 
+Mattias Janmark (EDM) hooking against Connor Bedard (2 minutes)
+   1-1
+P2  09:41 
+Seth Jones (CHI) scores power-play goal on wrist shot past Calvin Pickard, assisted by Connor Bedard and Teuvo Teravainen
+   2-1
+P2  06:02 
+Connor Bedard (CHI) scores on snap shot past Calvin Pickard, assisted by Teuvo Teravainen and TJ Brodie
+   3-1
+3rd Period: ShowHide
+P3  17:05 
+Ryan Donato (CHI) tripping against Travis Dermott (2 minutes)
+   3-1
+P3  14:35 
+Connor McDavid (EDM) roughing against Wyatt Kaiser (2 minutes)
+   3-1
+P3  14:25 
+Teuvo Teravainen (CHI) scores power-play goal on snap shot past Calvin Pickard, assisted by Seth Jones and Connor Bedard
+   4-1
+P3  10:44 
+Seth Jones (CHI) interference against Jeff Skinner (2 minutes)
+   4-1
+P3  09:59 
+Leon Draisaitl (EDM) scores power-play goal on wrist shot past Petr Mrazek, assisted by Connor McDavid and Ryan Nugent-Hopkins
+   4-2
+P3  01:05 
+Leon Draisaitl (EDM) hooking against Ilya Mikheyev (2 minutes)
+   4-2
+P3  00:47 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Calvin Pickard, assisted by Alex Vlasic and Seth Jones
+   5-2
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  14:15   0  0    0   0   2   0   0   0   0/0Andreas Athanasiou C  10:47   0  0    0   0   2   0   0   0  3/11Connor Bedard C  18:06   1  2    1   1   2   0   0   0  1/10Tyler Bertuzzi L  14:16   0  0    1   1   0   0   0   0   0/0Jason Dickinson C  15:23   0  0   -1   2   2   0   1   1  5/17Ryan Donato C  12:34   0  0    0   0   0   2   1   1   0/0Nick Foligno L  19:25   0  0    1   0   2   0   1   0   7/9Taylor Hall L  13:43   0  1    1   2   1   0   3   2   0/1Philipp Kurashev C  14:57   1  0    1   3   0   0   0   0  8/14Patrick Maroon L  11:38   0  0    0   1   0   0   0   0   0/0Ilya Mikheyev R  14:04   0  0    0   0   0   0   0   0   0/0Teuvo Teravainen C  17:26   2  2    0   6   0   0   0   1   1/1Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTJ Brodie D  15:52   0  1   -1   0   2   0   0   1   0/0Seth Jones D  24:55   1  2    1   3   2   2   1   0   0/0Wyatt Kaiser D  16:33   0  1    1   0   3   0   1   1   0/0Alec Martinez D  18:20   0  0    0   0   7   0   0   0   0/0Connor Murphy D  19:11   0  0    0   1   6   2   0   1   0/0Alex Vlasic D  23:50   0  1    0   0   4   0   1   2   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       20  35   6   9  10 25/63
+                                        39.7%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  60:00   2  36/38  34/35   2/3   0/0     0
+              .947   .971  .667 
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:25   0  0    0   1   2   0   0   1   0/0Connor Brown R  12:06   0  0   -1   3   0   0   1   0   0/0Leon Draisaitl C  23:50   1  0   -1   1   0   2   2   0 15/25Adam Henrique C  13:18   0  0   -1   1   1   0   2   1  6/12Zach Hyman L  21:11   0  0    0   2   0   0   0   1   0/0Mattias Janmark C  10:03   0  0   -1   2   1   2   0   1   0/0Connor McDavid C  23:32   0  1   -1   3   3   2   0   1 11/15Ryan Nugent-Hopkins C  20:33   0  1    0   2   0   0   3   2   0/0Corey Perry R  09:50   1  0    1   3   1   0   0   0   0/0Vasily Podkolzin R  09:19   0  0    0   0   0   0   0   0   0/0Derek Ryan C  08:59   0  0    0   1   1   0   0   0  5/10Jeff Skinner C  16:09   0  1    1   2   0   0   0   0   1/1Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  26:56   0  0    0   1   1   0   3   1   0/0Travis Dermott D  17:55   0  0    0   2   1   0   0   0   0/0Mattias Ekholm D  21:30   0  1    1   4   2   0   2   1   0/0Ty Emberson D  14:39   0  0   -2   3   1   0   0   0   0/0Brett Kulak D  16:10   0  0   -2   3   0   0   0   0   0/0Darnell Nurse D  18:21   0  0    1   4   2   0   0   0   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       38  16   6  13   9 38/63
+                                        60.3%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  57:32   5  15/20  15/17   0/3   0/0     0
+              .750   .882  .000
+Chicago
+Blackhawks1-1-1Final5 - 2Edmonton
+Oilers0-2-0
+Chicago
+Blackhawks1-1-1
+Final5 - 2
+Edmonton
+Oilers0-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CHI   1  2  2    5  
+EDM   0  1  1    2
+1st Period: ShowHide
+P1  04:10 
+Philipp Kurashev (CHI) scores on tip-in past Calvin Pickard, assisted by Taylor Hall and Wyatt Kaiser
+   1-0
+2nd Period: ShowHide
+P2  17:10 
+Connor Murphy (CHI) hooking against Viktor Arvidsson (2 minutes)
+   1-0
+P2  15:05 
+Corey Perry (EDM) scores on backhand shot past Petr Mrazek, assisted by Jeff Skinner and Mattias Ekholm
+   1-1
+P2  10:55 
+Mattias Janmark (EDM) hooking against Connor Bedard (2 minutes)
+   1-1
+P2  09:41 
+Seth Jones (CHI) scores power-play goal on wrist shot past Calvin Pickard, assisted by Connor Bedard and Teuvo Teravainen
+   2-1
+P2  06:02 
+Connor Bedard (CHI) scores on snap shot past Calvin Pickard, assisted by Teuvo Teravainen and TJ Brodie
+   3-1
+3rd Period: ShowHide
+P3  17:05 
+Ryan Donato (CHI) tripping against Travis Dermott (2 minutes)
+   3-1
+P3  14:35 
+Connor McDavid (EDM) roughing against Wyatt Kaiser (2 minutes)
+   3-1
+P3  14:25 
+Teuvo Teravainen (CHI) scores power-play goal on snap shot past Calvin Pickard, assisted by Seth Jones and Connor Bedard
+   4-1
+P3  10:44 
+Seth Jones (CHI) interference against Jeff Skinner (2 minutes)
+   4-1
+P3  09:59 
+Leon Draisaitl (EDM) scores power-play goal on wrist shot past Petr Mrazek, assisted by Connor McDavid and Ryan Nugent-Hopkins
+   4-2
+P3  01:05 
+Leon Draisaitl (EDM) hooking against Ilya Mikheyev (2 minutes)
+   4-2
+P3  00:47 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Calvin Pickard, assisted by Alex Vlasic and Seth Jones
+   5-2
+1st Period: ShowHide
+P1  04:10 
+Philipp Kurashev (CHI) scores on tip-in past Calvin Pickard, assisted by Taylor Hall and Wyatt Kaiser
+   1-0
+P1  04:10 
+Philipp Kurashev (CHI) scores on tip-in past Calvin Pickard, assisted by Taylor Hall and Wyatt Kaiser
+   1-0
+P1  04:10
+Philipp Kurashev (CHI) scores on tip-in past Calvin Pickard, assisted by Taylor Hall and Wyatt Kaiser
+1-0
+2nd Period: ShowHide
+P2  17:10 
+Connor Murphy (CHI) hooking against Viktor Arvidsson (2 minutes)
+   1-0
+P2  15:05 
+Corey Perry (EDM) scores on backhand shot past Petr Mrazek, assisted by Jeff Skinner and Mattias Ekholm
+   1-1
+P2  10:55 
+Mattias Janmark (EDM) hooking against Connor Bedard (2 minutes)
+   1-1
+P2  09:41 
+Seth Jones (CHI) scores power-play goal on wrist shot past Calvin Pickard, assisted by Connor Bedard and Teuvo Teravainen
+   2-1
+P2  06:02 
+Connor Bedard (CHI) scores on snap shot past Calvin Pickard, assisted by Teuvo Teravainen and TJ Brodie
+   3-1
+P2  17:10 
+Connor Murphy (CHI) hooking against Viktor Arvidsson (2 minutes)
+   1-0
+P2  15:05 
+Corey Perry (EDM) scores on backhand shot past Petr Mrazek, assisted by Jeff Skinner and Mattias Ekholm
+   1-1
+P2  10:55 
+Mattias Janmark (EDM) hooking against Connor Bedard (2 minutes)
+   1-1
+P2  09:41 
+Seth Jones (CHI) scores power-play goal on wrist shot past Calvin Pickard, assisted by Connor Bedard and Teuvo Teravainen
+   2-1
+P2  06:02 
+Connor Bedard (CHI) scores on snap shot past Calvin Pickard, assisted by Teuvo Teravainen and TJ Brodie
+   3-1
+P2  17:10
+Connor Murphy (CHI) hooking against Viktor Arvidsson (2 minutes)
+1-0
+P2  15:05
+Corey Perry (EDM) scores on backhand shot past Petr Mrazek, assisted by Jeff Skinner and Mattias Ekholm
+1-1
+P2  10:55
+Mattias Janmark (EDM) hooking against Connor Bedard (2 minutes)
+1-1
+P2  09:41
+Seth Jones (CHI) scores power-play goal on wrist shot past Calvin Pickard, assisted by Connor Bedard and Teuvo Teravainen
+2-1
+P2  06:02
+Connor Bedard (CHI) scores on snap shot past Calvin Pickard, assisted by Teuvo Teravainen and TJ Brodie
+3-1
+3rd Period: ShowHide
+P3  17:05 
+Ryan Donato (CHI) tripping against Travis Dermott (2 minutes)
+   3-1
+P3  14:35 
+Connor McDavid (EDM) roughing against Wyatt Kaiser (2 minutes)
+   3-1
+P3  14:25 
+Teuvo Teravainen (CHI) scores power-play goal on snap shot past Calvin Pickard, assisted by Seth Jones and Connor Bedard
+   4-1
+P3  10:44 
+Seth Jones (CHI) interference against Jeff Skinner (2 minutes)
+   4-1
+P3  09:59 
+Leon Draisaitl (EDM) scores power-play goal on wrist shot past Petr Mrazek, assisted by Connor McDavid and Ryan Nugent-Hopkins
+   4-2
+P3  01:05 
+Leon Draisaitl (EDM) hooking against Ilya Mikheyev (2 minutes)
+   4-2
+P3  00:47 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Calvin Pickard, assisted by Alex Vlasic and Seth Jones
+   5-2
+P3  17:05 
+Ryan Donato (CHI) tripping against Travis Dermott (2 minutes)
+   3-1
+P3  14:35 
+Connor McDavid (EDM) roughing against Wyatt Kaiser (2 minutes)
+   3-1
+P3  14:25 
+Teuvo Teravainen (CHI) scores power-play goal on snap shot past Calvin Pickard, assisted by Seth Jones and Connor Bedard
+   4-1
+P3  10:44 
+Seth Jones (CHI) interference against Jeff Skinner (2 minutes)
+   4-1
+P3  09:59 
+Leon Draisaitl (EDM) scores power-play goal on wrist shot past Petr Mrazek, assisted by Connor McDavid and Ryan Nugent-Hopkins
+   4-2
+P3  01:05 
+Leon Draisaitl (EDM) hooking against Ilya Mikheyev (2 minutes)
+   4-2
+P3  00:47 
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Calvin Pickard, assisted by Alex Vlasic and Seth Jones
+   5-2
+P3  17:05
+Ryan Donato (CHI) tripping against Travis Dermott (2 minutes)
+3-1
+P3  14:35
+Connor McDavid (EDM) roughing against Wyatt Kaiser (2 minutes)
+3-1
+P3  14:25
+Teuvo Teravainen (CHI) scores power-play goal on snap shot past Calvin Pickard, assisted by Seth Jones and Connor Bedard
+4-1
+P3  10:44
+Seth Jones (CHI) interference against Jeff Skinner (2 minutes)
+4-1
+P3  09:59
+Leon Draisaitl (EDM) scores power-play goal on wrist shot past Petr Mrazek, assisted by Connor McDavid and Ryan Nugent-Hopkins
+4-2
+P3  01:05
+Leon Draisaitl (EDM) hooking against Ilya Mikheyev (2 minutes)
+4-2
+P3  00:47
+Teuvo Teravainen (CHI) scores power-play goal on slap shot past Calvin Pickard, assisted by Alex Vlasic and Seth Jones
+5-2
+Box Score:
+ 
+Back to Top
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  14:15   0  0    0   0   2   0   0   0   0/0Andreas Athanasiou C  10:47   0  0    0   0   2   0   0   0  3/11Connor Bedard C  18:06   1  2    1   1   2   0   0   0  1/10Tyler Bertuzzi L  14:16   0  0    1   1   0   0   0   0   0/0Jason Dickinson C  15:23   0  0   -1   2   2   0   1   1  5/17Ryan Donato C  12:34   0  0    0   0   0   2   1   1   0/0Nick Foligno L  19:25   0  0    1   0   2   0   1   0   7/9Taylor Hall L  13:43   0  1    1   2   1   0   3   2   0/1Philipp Kurashev C  14:57   1  0    1   3   0   0   0   0  8/14Patrick Maroon L  11:38   0  0    0   1   0   0   0   0   0/0Ilya Mikheyev R  14:04   0  0    0   0   0   0   0   0   0/0Teuvo Teravainen C  17:26   2  2    0   6   0   0   0   1   1/1Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTJ Brodie D  15:52   0  1   -1   0   2   0   0   1   0/0Seth Jones D  24:55   1  2    1   3   2   2   1   0   0/0Wyatt Kaiser D  16:33   0  1    1   0   3   0   1   1   0/0Alec Martinez D  18:20   0  0    0   0   7   0   0   0   0/0Connor Murphy D  19:11   0  0    0   1   6   2   0   1   0/0Alex Vlasic D  23:50   0  1    0   0   4   0   1   2   0/0Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       20  35   6   9  10 25/63
+                                        39.7%Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  60:00   2  36/38  34/35   2/3   0/0     0
+              .947   .971  .667 
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:25   0  0    0   1   2   0   0   1   0/0Connor Brown R  12:06   0  0   -1   3   0   0   1   0   0/0Leon Draisaitl C  23:50   1  0   -1   1   0   2   2   0 15/25Adam Henrique C  13:18   0  0   -1   1   1   0   2   1  6/12Zach Hyman L  21:11   0  0    0   2   0   0   0   1   0/0Mattias Janmark C  10:03   0  0   -1   2   1   2   0   1   0/0Connor McDavid C  23:32   0  1   -1   3   3   2   0   1 11/15Ryan Nugent-Hopkins C  20:33   0  1    0   2   0   0   3   2   0/0Corey Perry R  09:50   1  0    1   3   1   0   0   0   0/0Vasily Podkolzin R  09:19   0  0    0   0   0   0   0   0   0/0Derek Ryan C  08:59   0  0    0   1   1   0   0   0  5/10Jeff Skinner C  16:09   0  1    1   2   0   0   0   0   1/1Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  26:56   0  0    0   1   1   0   3   1   0/0Travis Dermott D  17:55   0  0    0   2   1   0   0   0   0/0Mattias Ekholm D  21:30   0  1    1   4   2   0   2   1   0/0Ty Emberson D  14:39   0  0   -2   3   1   0   0   0   0/0Brett Kulak D  16:10   0  0   -2   3   0   0   0   0   0/0Darnell Nurse D  18:21   0  0    1   4   2   0   0   0   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       38  16   6  13   9 38/63
+                                        60.3%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  57:32   5  15/20  15/17   0/3   0/0     0
+              .750   .882  .000
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJoey Anderson R  14:15   0  0    0   0   2   0   0   0   0/0Andreas Athanasiou C  10:47   0  0    0   0   2   0   0   0  3/11Connor Bedard C  18:06   1  2    1   1   2   0   0   0  1/10Tyler Bertuzzi L  14:16   0  0    1   1   0   0   0   0   0/0Jason Dickinson C  15:23   0  0   -1   2   2   0   1   1  5/17Ryan Donato C  12:34   0  0    0   0   0   2   1   1   0/0Nick Foligno L  19:25   0  0    1   0   2   0   1   0   7/9Taylor Hall L  13:43   0  1    1   2   1   0   3   2   0/1Philipp Kurashev C  14:57   1  0    1   3   0   0   0   0  8/14Patrick Maroon L  11:38   0  0    0   1   0   0   0   0   0/0Ilya Mikheyev R  14:04   0  0    0   0   0   0   0   0   0/0Teuvo Teravainen C  17:26   2  2    0   6   0   0   0   1   1/1
+Blackhawks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Joey Anderson R
+14:15   0  0    0   0   2   0   0   0   0/0
+Andreas Athanasiou C
+10:47   0  0    0   0   2   0   0   0  3/11
+Connor Bedard C
+18:06   1  2    1   1   2   0   0   0  1/10
+Tyler Bertuzzi L
+14:16   0  0    1   1   0   0   0   0   0/0
+Jason Dickinson C
+15:23   0  0   -1   2   2   0   1   1  5/17
+Ryan Donato C
+12:34   0  0    0   0   0   2   1   1   0/0
+Nick Foligno L
+19:25   0  0    1   0   2   0   1   0   7/9
+Taylor Hall L
+13:43   0  1    1   2   1   0   3   2   0/1
+Philipp Kurashev C
+14:57   1  0    1   3   0   0   0   0  8/14
+Patrick Maroon L
+11:38   0  0    0   1   0   0   0   0   0/0
+Ilya Mikheyev R
+14:04   0  0    0   0   0   0   0   0   0/0
+Teuvo Teravainen C
+17:26   2  2    0   6   0   0   0   1   1/1
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTJ Brodie D  15:52   0  1   -1   0   2   0   0   1   0/0Seth Jones D  24:55   1  2    1   3   2   2   1   0   0/0Wyatt Kaiser D  16:33   0  1    1   0   3   0   1   1   0/0Alec Martinez D  18:20   0  0    0   0   7   0   0   0   0/0Connor Murphy D  19:11   0  0    0   1   6   2   0   1   0/0Alex Vlasic D  23:50   0  1    0   0   4   0   1   2   0/0
+Blackhawks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+TJ Brodie D
+15:52   0  1   -1   0   2   0   0   1   0/0
+Seth Jones D
+24:55   1  2    1   3   2   2   1   0   0/0
+Wyatt Kaiser D
+16:33   0  1    1   0   3   0   1   1   0/0
+Alec Martinez D
+18:20   0  0    0   0   7   0   0   0   0/0
+Connor Murphy D
+19:11   0  0    0   1   6   2   0   1   0/0
+Alex Vlasic D
+23:50   0  1    0   0   4   0   1   2   0/0
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO          5 10       20  35   6   9  10 25/63
+                                        39.7%
+Blackhawks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMPetr Mrazek G  60:00   2  36/38  34/35   2/3   0/0     0
+              .947   .971  .667
+Blackhawks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Petr Mrazek G
+60:00   2  36/38  34/35   2/3   0/0     0
+              .947   .971  .667
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  16:25   0  0    0   1   2   0   0   1   0/0Connor Brown R  12:06   0  0   -1   3   0   0   1   0   0/0Leon Draisaitl C  23:50   1  0   -1   1   0   2   2   0 15/25Adam Henrique C  13:18   0  0   -1   1   1   0   2   1  6/12Zach Hyman L  21:11   0  0    0   2   0   0   0   1   0/0Mattias Janmark C  10:03   0  0   -1   2   1   2   0   1   0/0Connor McDavid C  23:32   0  1   -1   3   3   2   0   1 11/15Ryan Nugent-Hopkins C  20:33   0  1    0   2   0   0   3   2   0/0Corey Perry R  09:50   1  0    1   3   1   0   0   0   0/0Vasily Podkolzin R  09:19   0  0    0   0   0   0   0   0   0/0Derek Ryan C  08:59   0  0    0   1   1   0   0   0  5/10Jeff Skinner C  16:09   0  1    1   2   0   0   0   0   1/1
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Viktor Arvidsson L
+16:25   0  0    0   1   2   0   0   1   0/0
+Connor Brown R
+12:06   0  0   -1   3   0   0   1   0   0/0
+Leon Draisaitl C
+23:50   1  0   -1   1   0   2   2   0 15/25
+Adam Henrique C
+13:18   0  0   -1   1   1   0   2   1  6/12
+Zach Hyman L
+21:11   0  0    0   2   0   0   0   1   0/0
+Mattias Janmark C
+10:03   0  0   -1   2   1   2   0   1   0/0
+Connor McDavid C
+23:32   0  1   -1   3   3   2   0   1 11/15
+Ryan Nugent-Hopkins C
+20:33   0  1    0   2   0   0   3   2   0/0
+Corey Perry R
+09:50   1  0    1   3   1   0   0   0   0/0
+Vasily Podkolzin R
+09:19   0  0    0   0   0   0   0   0   0/0
+Derek Ryan C
+08:59   0  0    0   1   1   0   0   0  5/10
+Jeff Skinner C
+16:09   0  1    1   2   0   0   0   0   1/1
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  26:56   0  0    0   1   1   0   3   1   0/0Travis Dermott D  17:55   0  0    0   2   1   0   0   0   0/0Mattias Ekholm D  21:30   0  1    1   4   2   0   2   1   0/0Ty Emberson D  14:39   0  0   -2   3   1   0   0   0   0/0Brett Kulak D  16:10   0  0   -2   3   0   0   0   0   0/0Darnell Nurse D  18:21   0  0    1   4   2   0   0   0   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Evan Bouchard D
+26:56   0  0    0   1   1   0   3   1   0/0
+Travis Dermott D
+17:55   0  0    0   2   1   0   0   0   0/0
+Mattias Ekholm D
+21:30   0  1    1   4   2   0   2   1   0/0
+Ty Emberson D
+14:39   0  0   -2   3   1   0   0   0   0/0
+Brett Kulak D
+16:10   0  0   -2   3   0   0   0   0   0/0
+Darnell Nurse D
+18:21   0  0    1   4   2   0   0   0   0/0
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       38  16   6  13   9 38/63
+                                        60.3%
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMCalvin Pickard G  57:32   5  15/20  15/17   0/3   0/0     0
+              .750   .882  .000
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Calvin Pickard G
+57:32   5  15/20  15/17   0/3   0/0     0
+              .750   .882  .000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

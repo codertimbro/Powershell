@@ -1,0 +1,397 @@
+< Oct. 14 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Detroit
+Red Wings1-2-0Final1 - 4New York
+Rangers2-0-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+DET   1  0  0    1  
+NYR   1  1  2    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  12:44 
+Alexis Lafrenière (NYR) high-sticking against Dylan Larkin (2 minutes)
+   0-0
+P1  12:24 
+Moritz Seider (DET) interference against Mika Zibanejad (2 minutes)
+   0-0
+P1  08:15 
+Alexis Lafrenière (NYR) scores on snap shot past Alex Lyon, assisted by Artemi Panarin and Zac Jones
+   0-1
+P1  07:16 
+Austin Watson (DET) hooking against Filip Chytil (2 minutes)
+   0-1
+P1  00:02 
+Dylan Larkin (DET) scores on snap shot past Igor Shesterkin, assisted by Justin Holl and Patrick Kane
+   1-1
+2nd Period: ShowHide
+P2  17:37 
+Chris Kreider (NYR) hooking against Alex DeBrincat (2 minutes)
+   1-1
+P2  14:34 
+Ben Chiarot (DET) hooking against Artemi Panarin (2 minutes)
+   1-1
+P2  11:37 
+Jonny Brodzinski (NYR) hooking against Lucas Raymond (2 minutes)
+   1-1
+P2  03:03 
+Justin Holl (DET) high-sticking against Adam Edstrom (2 minutes)
+   1-1
+P2  02:55 
+Chris Kreider (NYR) scores power-play goal on tip-in past Alex Lyon, assisted by Mika Zibanejad and Artemi Panarin
+   1-2
+3rd Period: ShowHide
+P3  19:21 
+Alex Lyon (DET) delaying game (2 minutes), served by Vladimir Tarasenko
+   1-2
+P3  15:09 
+Reilly Smith (NYR) scores on snap shot past Alex Lyon, assisted by Mika Zibanejad
+   1-3
+P3  11:53 
+Mika Zibanejad (NYR) tripping against Lucas Raymond (2 minutes)
+   1-3
+P3  01:22 
+Mika Zibanejad (NYR) scores on empty net, assisted by Artemi Panarin and Jacob Trouba
+   1-4
+Box Score:
+ 
+Back to Top
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:54   0  0   -1   3   0   0   0   0   0/0J.T. Compher L  20:24   0  0   -1   5   2   0   0   0  9/20Andrew Copp C  14:46   0  0   -1   1   1   0   0   0  5/13Alex DeBrincat R  17:46   0  0    0   2   1   0   0   1   0/1Patrick Kane R  19:12   0  1    0   2   0   0   0   1   0/0Dylan Larkin C  23:37   1  0    1   2   2   0   0   0  7/21Tyler Motte C  10:06   0  0   -1   3   0   0   0   2   1/1Michael Rasmussen C  11:00   0  0   -1   0   0   0   0   0   2/3Lucas Raymond L  21:00   0  0   -1   5   0   0   0   1   0/0Vladimir Tarasenko R  14:47   0  0    0   3   1   0   1   0   0/0Joe Veleno C  10:59   0  0   -2   1   1   0   1   1   4/8Austin Watson L  04:54   0  0   -1   0   0   2   0   0   0/0Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:31   0  0   -1   0   1   2   1   1   0/0Simon Edvinsson D  18:36   0  0    0   1   1   0   0   3   0/0Justin Holl D  19:06   0  1    0   0   1   2   0   1   0/0Albert Johansson D  11:27   0  0    0   0   1   0   0   1   0/0Olli Maatta D  16:03   0  0    0   1   0   0   0   1   0/0Moritz Seider D  25:57   0  0   -2   3   5   2   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  17   8   3  14 28/67
+                                        41.8%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  57:47   3  24/27  17/19   7/8   0/0     2
+              .889   .895  .875 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  08:11   0  0    0   1   0   2   0   0   1/2Sam Carrick C  12:40   0  0    0   1   0   0   1   0   4/6Filip Chytil C  13:14   0  0    0   2   0   0   0   0  7/14Will Cuylle L  12:37   0  0    0   3   1   0   0   0   0/0Adam Edstrom C  07:32   0  0    0   0   1   0   0   0   0/0Kaapo Kakko R  14:38   0  0    0   0   0   0   0   1   0/0Chris Kreider L  16:47   1  0    1   2   0   2   0   0   0/1Alexis Lafrenière L  16:18   1  0    0   1   0   2   1   1   1/1Artemi Panarin L  20:37   0  3    1   1   0   0   0   0   0/0Reilly Smith R  13:39   1  0    2   2   0   0   0   0   0/0Vincent Trocheck C  25:07   0  0    0   5   1   0   0   0 17/28Mika Zibanejad C  17:10   1  2    2   5   0   2   0   3  9/15Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  21:53   0  0    0   0   1   0   1   1   0/0Zac Jones D  14:34   0  1    1   0   0   0   0   2   0/0Victor Mancini D  13:15   0  0    1   4   1   0   0   1   0/0K'Andre Miller D  25:04   0  0    1   0   2   0   1   1   0/0Braden Schneider D  17:32   0  0    0   0   3   0   0   0   0/0Jacob Trouba D  21:24   0  1    1   1   0   0   0   0   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       28  10   8   4  10 39/67
+                                        58.2%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  59:48   1  31/32  22/23   8/8   1/1     0
+              .969   .957 1.000 1.000
+Detroit
+Red Wings1-2-0Final1 - 4New York
+Rangers2-0-1
+Detroit
+Red Wings1-2-0
+Final1 - 4
+New York
+Rangers2-0-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+DET   1  0  0    1  
+NYR   1  1  2    4
+1st Period: ShowHide
+P1  12:44 
+Alexis Lafrenière (NYR) high-sticking against Dylan Larkin (2 minutes)
+   0-0
+P1  12:24 
+Moritz Seider (DET) interference against Mika Zibanejad (2 minutes)
+   0-0
+P1  08:15 
+Alexis Lafrenière (NYR) scores on snap shot past Alex Lyon, assisted by Artemi Panarin and Zac Jones
+   0-1
+P1  07:16 
+Austin Watson (DET) hooking against Filip Chytil (2 minutes)
+   0-1
+P1  00:02 
+Dylan Larkin (DET) scores on snap shot past Igor Shesterkin, assisted by Justin Holl and Patrick Kane
+   1-1
+2nd Period: ShowHide
+P2  17:37 
+Chris Kreider (NYR) hooking against Alex DeBrincat (2 minutes)
+   1-1
+P2  14:34 
+Ben Chiarot (DET) hooking against Artemi Panarin (2 minutes)
+   1-1
+P2  11:37 
+Jonny Brodzinski (NYR) hooking against Lucas Raymond (2 minutes)
+   1-1
+P2  03:03 
+Justin Holl (DET) high-sticking against Adam Edstrom (2 minutes)
+   1-1
+P2  02:55 
+Chris Kreider (NYR) scores power-play goal on tip-in past Alex Lyon, assisted by Mika Zibanejad and Artemi Panarin
+   1-2
+3rd Period: ShowHide
+P3  19:21 
+Alex Lyon (DET) delaying game (2 minutes), served by Vladimir Tarasenko
+   1-2
+P3  15:09 
+Reilly Smith (NYR) scores on snap shot past Alex Lyon, assisted by Mika Zibanejad
+   1-3
+P3  11:53 
+Mika Zibanejad (NYR) tripping against Lucas Raymond (2 minutes)
+   1-3
+P3  01:22 
+Mika Zibanejad (NYR) scores on empty net, assisted by Artemi Panarin and Jacob Trouba
+   1-4
+1st Period: ShowHide
+P1  12:44 
+Alexis Lafrenière (NYR) high-sticking against Dylan Larkin (2 minutes)
+   0-0
+P1  12:24 
+Moritz Seider (DET) interference against Mika Zibanejad (2 minutes)
+   0-0
+P1  08:15 
+Alexis Lafrenière (NYR) scores on snap shot past Alex Lyon, assisted by Artemi Panarin and Zac Jones
+   0-1
+P1  07:16 
+Austin Watson (DET) hooking against Filip Chytil (2 minutes)
+   0-1
+P1  00:02 
+Dylan Larkin (DET) scores on snap shot past Igor Shesterkin, assisted by Justin Holl and Patrick Kane
+   1-1
+P1  12:44 
+Alexis Lafrenière (NYR) high-sticking against Dylan Larkin (2 minutes)
+   0-0
+P1  12:24 
+Moritz Seider (DET) interference against Mika Zibanejad (2 minutes)
+   0-0
+P1  08:15 
+Alexis Lafrenière (NYR) scores on snap shot past Alex Lyon, assisted by Artemi Panarin and Zac Jones
+   0-1
+P1  07:16 
+Austin Watson (DET) hooking against Filip Chytil (2 minutes)
+   0-1
+P1  00:02 
+Dylan Larkin (DET) scores on snap shot past Igor Shesterkin, assisted by Justin Holl and Patrick Kane
+   1-1
+P1  12:44
+Alexis Lafrenière (NYR) high-sticking against Dylan Larkin (2 minutes)
+0-0
+P1  12:24
+Moritz Seider (DET) interference against Mika Zibanejad (2 minutes)
+0-0
+P1  08:15
+Alexis Lafrenière (NYR) scores on snap shot past Alex Lyon, assisted by Artemi Panarin and Zac Jones
+0-1
+P1  07:16
+Austin Watson (DET) hooking against Filip Chytil (2 minutes)
+0-1
+P1  00:02
+Dylan Larkin (DET) scores on snap shot past Igor Shesterkin, assisted by Justin Holl and Patrick Kane
+1-1
+2nd Period: ShowHide
+P2  17:37 
+Chris Kreider (NYR) hooking against Alex DeBrincat (2 minutes)
+   1-1
+P2  14:34 
+Ben Chiarot (DET) hooking against Artemi Panarin (2 minutes)
+   1-1
+P2  11:37 
+Jonny Brodzinski (NYR) hooking against Lucas Raymond (2 minutes)
+   1-1
+P2  03:03 
+Justin Holl (DET) high-sticking against Adam Edstrom (2 minutes)
+   1-1
+P2  02:55 
+Chris Kreider (NYR) scores power-play goal on tip-in past Alex Lyon, assisted by Mika Zibanejad and Artemi Panarin
+   1-2
+P2  17:37 
+Chris Kreider (NYR) hooking against Alex DeBrincat (2 minutes)
+   1-1
+P2  14:34 
+Ben Chiarot (DET) hooking against Artemi Panarin (2 minutes)
+   1-1
+P2  11:37 
+Jonny Brodzinski (NYR) hooking against Lucas Raymond (2 minutes)
+   1-1
+P2  03:03 
+Justin Holl (DET) high-sticking against Adam Edstrom (2 minutes)
+   1-1
+P2  02:55 
+Chris Kreider (NYR) scores power-play goal on tip-in past Alex Lyon, assisted by Mika Zibanejad and Artemi Panarin
+   1-2
+P2  17:37
+Chris Kreider (NYR) hooking against Alex DeBrincat (2 minutes)
+1-1
+P2  14:34
+Ben Chiarot (DET) hooking against Artemi Panarin (2 minutes)
+1-1
+P2  11:37
+Jonny Brodzinski (NYR) hooking against Lucas Raymond (2 minutes)
+1-1
+P2  03:03
+Justin Holl (DET) high-sticking against Adam Edstrom (2 minutes)
+1-1
+P2  02:55
+Chris Kreider (NYR) scores power-play goal on tip-in past Alex Lyon, assisted by Mika Zibanejad and Artemi Panarin
+1-2
+3rd Period: ShowHide
+P3  19:21 
+Alex Lyon (DET) delaying game (2 minutes), served by Vladimir Tarasenko
+   1-2
+P3  15:09 
+Reilly Smith (NYR) scores on snap shot past Alex Lyon, assisted by Mika Zibanejad
+   1-3
+P3  11:53 
+Mika Zibanejad (NYR) tripping against Lucas Raymond (2 minutes)
+   1-3
+P3  01:22 
+Mika Zibanejad (NYR) scores on empty net, assisted by Artemi Panarin and Jacob Trouba
+   1-4
+P3  19:21 
+Alex Lyon (DET) delaying game (2 minutes), served by Vladimir Tarasenko
+   1-2
+P3  15:09 
+Reilly Smith (NYR) scores on snap shot past Alex Lyon, assisted by Mika Zibanejad
+   1-3
+P3  11:53 
+Mika Zibanejad (NYR) tripping against Lucas Raymond (2 minutes)
+   1-3
+P3  01:22 
+Mika Zibanejad (NYR) scores on empty net, assisted by Artemi Panarin and Jacob Trouba
+   1-4
+P3  19:21
+Alex Lyon (DET) delaying game (2 minutes), served by Vladimir Tarasenko
+1-2
+P3  15:09
+Reilly Smith (NYR) scores on snap shot past Alex Lyon, assisted by Mika Zibanejad
+1-3
+P3  11:53
+Mika Zibanejad (NYR) tripping against Lucas Raymond (2 minutes)
+1-3
+P3  01:22
+Mika Zibanejad (NYR) scores on empty net, assisted by Artemi Panarin and Jacob Trouba
+1-4
+Box Score:
+ 
+Back to Top
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:54   0  0   -1   3   0   0   0   0   0/0J.T. Compher L  20:24   0  0   -1   5   2   0   0   0  9/20Andrew Copp C  14:46   0  0   -1   1   1   0   0   0  5/13Alex DeBrincat R  17:46   0  0    0   2   1   0   0   1   0/1Patrick Kane R  19:12   0  1    0   2   0   0   0   1   0/0Dylan Larkin C  23:37   1  0    1   2   2   0   0   0  7/21Tyler Motte C  10:06   0  0   -1   3   0   0   0   2   1/1Michael Rasmussen C  11:00   0  0   -1   0   0   0   0   0   2/3Lucas Raymond L  21:00   0  0   -1   5   0   0   0   1   0/0Vladimir Tarasenko R  14:47   0  0    0   3   1   0   1   0   0/0Joe Veleno C  10:59   0  0   -2   1   1   0   1   1   4/8Austin Watson L  04:54   0  0   -1   0   0   2   0   0   0/0Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:31   0  0   -1   0   1   2   1   1   0/0Simon Edvinsson D  18:36   0  0    0   1   1   0   0   3   0/0Justin Holl D  19:06   0  1    0   0   1   2   0   1   0/0Albert Johansson D  11:27   0  0    0   0   1   0   0   1   0/0Olli Maatta D  16:03   0  0    0   1   0   0   0   1   0/0Moritz Seider D  25:57   0  0   -2   3   5   2   0   1   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  17   8   3  14 28/67
+                                        41.8%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  57:47   3  24/27  17/19   7/8   0/0     2
+              .889   .895  .875 
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  08:11   0  0    0   1   0   2   0   0   1/2Sam Carrick C  12:40   0  0    0   1   0   0   1   0   4/6Filip Chytil C  13:14   0  0    0   2   0   0   0   0  7/14Will Cuylle L  12:37   0  0    0   3   1   0   0   0   0/0Adam Edstrom C  07:32   0  0    0   0   1   0   0   0   0/0Kaapo Kakko R  14:38   0  0    0   0   0   0   0   1   0/0Chris Kreider L  16:47   1  0    1   2   0   2   0   0   0/1Alexis Lafrenière L  16:18   1  0    0   1   0   2   1   1   1/1Artemi Panarin L  20:37   0  3    1   1   0   0   0   0   0/0Reilly Smith R  13:39   1  0    2   2   0   0   0   0   0/0Vincent Trocheck C  25:07   0  0    0   5   1   0   0   0 17/28Mika Zibanejad C  17:10   1  2    2   5   0   2   0   3  9/15Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  21:53   0  0    0   0   1   0   1   1   0/0Zac Jones D  14:34   0  1    1   0   0   0   0   2   0/0Victor Mancini D  13:15   0  0    1   4   1   0   0   1   0/0K'Andre Miller D  25:04   0  0    1   0   2   0   1   1   0/0Braden Schneider D  17:32   0  0    0   0   3   0   0   0   0/0Jacob Trouba D  21:24   0  1    1   1   0   0   0   0   0/0Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       28  10   8   4  10 39/67
+                                        58.2%Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  59:48   1  31/32  22/23   8/8   1/1     0
+              .969   .957 1.000 1.000
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  12:54   0  0   -1   3   0   0   0   0   0/0J.T. Compher L  20:24   0  0   -1   5   2   0   0   0  9/20Andrew Copp C  14:46   0  0   -1   1   1   0   0   0  5/13Alex DeBrincat R  17:46   0  0    0   2   1   0   0   1   0/1Patrick Kane R  19:12   0  1    0   2   0   0   0   1   0/0Dylan Larkin C  23:37   1  0    1   2   2   0   0   0  7/21Tyler Motte C  10:06   0  0   -1   3   0   0   0   2   1/1Michael Rasmussen C  11:00   0  0   -1   0   0   0   0   0   2/3Lucas Raymond L  21:00   0  0   -1   5   0   0   0   1   0/0Vladimir Tarasenko R  14:47   0  0    0   3   1   0   1   0   0/0Joe Veleno C  10:59   0  0   -2   1   1   0   1   1   4/8Austin Watson L  04:54   0  0   -1   0   0   2   0   0   0/0
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+12:54   0  0   -1   3   0   0   0   0   0/0
+J.T. Compher L
+20:24   0  0   -1   5   2   0   0   0  9/20
+Andrew Copp C
+14:46   0  0   -1   1   1   0   0   0  5/13
+Alex DeBrincat R
+17:46   0  0    0   2   1   0   0   1   0/1
+Patrick Kane R
+19:12   0  1    0   2   0   0   0   1   0/0
+Dylan Larkin C
+23:37   1  0    1   2   2   0   0   0  7/21
+Tyler Motte C
+10:06   0  0   -1   3   0   0   0   2   1/1
+Michael Rasmussen C
+11:00   0  0   -1   0   0   0   0   0   2/3
+Lucas Raymond L
+21:00   0  0   -1   5   0   0   0   1   0/0
+Vladimir Tarasenko R
+14:47   0  0    0   3   1   0   1   0   0/0
+Joe Veleno C
+10:59   0  0   -2   1   1   0   1   1   4/8
+Austin Watson L
+04:54   0  0   -1   0   0   2   0   0   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:31   0  0   -1   0   1   2   1   1   0/0Simon Edvinsson D  18:36   0  0    0   1   1   0   0   3   0/0Justin Holl D  19:06   0  1    0   0   1   2   0   1   0/0Albert Johansson D  11:27   0  0    0   0   1   0   0   1   0/0Olli Maatta D  16:03   0  0    0   1   0   0   0   1   0/0Moritz Seider D  25:57   0  0   -2   3   5   2   0   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+21:31   0  0   -1   0   1   2   1   1   0/0
+Simon Edvinsson D
+18:36   0  0    0   1   1   0   0   3   0/0
+Justin Holl D
+19:06   0  1    0   0   1   2   0   1   0/0
+Albert Johansson D
+11:27   0  0    0   0   1   0   0   1   0/0
+Olli Maatta D
+16:03   0  0    0   1   0   0   0   1   0/0
+Moritz Seider D
+25:57   0  0   -2   3   5   2   0   1   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       32  17   8   3  14 28/67
+                                        41.8%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  57:47   3  24/27  17/19   7/8   0/0     2
+              .889   .895  .875
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Lyon G
+57:47   3  24/27  17/19   7/8   0/0     2
+              .889   .895  .875
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonny Brodzinski C  08:11   0  0    0   1   0   2   0   0   1/2Sam Carrick C  12:40   0  0    0   1   0   0   1   0   4/6Filip Chytil C  13:14   0  0    0   2   0   0   0   0  7/14Will Cuylle L  12:37   0  0    0   3   1   0   0   0   0/0Adam Edstrom C  07:32   0  0    0   0   1   0   0   0   0/0Kaapo Kakko R  14:38   0  0    0   0   0   0   0   1   0/0Chris Kreider L  16:47   1  0    1   2   0   2   0   0   0/1Alexis Lafrenière L  16:18   1  0    0   1   0   2   1   1   1/1Artemi Panarin L  20:37   0  3    1   1   0   0   0   0   0/0Reilly Smith R  13:39   1  0    2   2   0   0   0   0   0/0Vincent Trocheck C  25:07   0  0    0   5   1   0   0   0 17/28Mika Zibanejad C  17:10   1  2    2   5   0   2   0   3  9/15
+Rangers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonny Brodzinski C
+08:11   0  0    0   1   0   2   0   0   1/2
+Sam Carrick C
+12:40   0  0    0   1   0   0   1   0   4/6
+Filip Chytil C
+13:14   0  0    0   2   0   0   0   0  7/14
+Will Cuylle L
+12:37   0  0    0   3   1   0   0   0   0/0
+Adam Edstrom C
+07:32   0  0    0   0   1   0   0   0   0/0
+Kaapo Kakko R
+14:38   0  0    0   0   0   0   0   1   0/0
+Chris Kreider L
+16:47   1  0    1   2   0   2   0   0   0/1
+Alexis Lafrenière L
+16:18   1  0    0   1   0   2   1   1   1/1
+Artemi Panarin L
+20:37   0  3    1   1   0   0   0   0   0/0
+Reilly Smith R
+13:39   1  0    2   2   0   0   0   0   0/0
+Vincent Trocheck C
+25:07   0  0    0   5   1   0   0   0 17/28
+Mika Zibanejad C
+17:10   1  2    2   5   0   2   0   3  9/15
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAdam Fox D  21:53   0  0    0   0   1   0   1   1   0/0Zac Jones D  14:34   0  1    1   0   0   0   0   2   0/0Victor Mancini D  13:15   0  0    1   4   1   0   0   1   0/0K'Andre Miller D  25:04   0  0    1   0   2   0   1   1   0/0Braden Schneider D  17:32   0  0    0   0   3   0   0   0   0/0Jacob Trouba D  21:24   0  1    1   1   0   0   0   0   0/0
+Rangers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Adam Fox D
+21:53   0  0    0   0   1   0   1   1   0/0
+Zac Jones D
+14:34   0  1    1   0   0   0   0   2   0/0
+Victor Mancini D
+13:15   0  0    1   4   1   0   0   1   0/0
+K'Andre Miller D
+25:04   0  0    1   0   2   0   1   1   0/0
+Braden Schneider D
+17:32   0  0    0   0   3   0   0   0   0/0
+Jacob Trouba D
+21:24   0  1    1   1   0   0   0   0   0/0
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO          4  7       28  10   8   4  10 39/67
+                                        58.2%
+Rangers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMIgor Shesterkin G  59:48   1  31/32  22/23   8/8   1/1     0
+              .969   .957 1.000 1.000
+Rangers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Igor Shesterkin G
+59:48   1  31/32  22/23   8/8   1/1     0
+              .969   .957 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

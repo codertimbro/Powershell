@@ -1,0 +1,502 @@
+< Oct. 18 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+San Jose
+Sharks0-3-2Final3 - 8Winnipeg
+Jets4-0-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+SJS   1  1  1    3  
+WPG   4  1  3    8
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:01 
+Josh Morrissey (WPG) scores on snap shot past Mackenzie Blackwood, assisted by Colin Miller and Nikolaj Ehlers
+   0-1
+P1  12:22 
+Alexander Wennberg (SJS) tripping against Nikolaj Ehlers (2 minutes)
+   0-1
+P1  11:36 
+Jan Rutta (SJS) high-sticking against Alex Iafallo (2 minutes)
+   0-1
+P1  10:35 
+Nikolaj Ehlers (WPG) scores power-play goal on snap shot past Mackenzie Blackwood, assisted by Gabriel Vilardi and Mark Scheifele
+   0-2
+P1  09:47 
+Nino Niederreiter (WPG) tripping against Barclay Goodrow (2 minutes)
+   0-2
+P1  08:17 
+Tyler Toffoli (SJS) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Jake Walman and Mikael Granlund
+   1-2
+P1  06:29 
+Nikolaj Ehlers (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Cole Perfetti
+   1-3
+P1  03:02 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-3
+P1  01:12 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Alex Iafallo and Vladislav Namestnikov
+   1-4
+2nd Period: ShowHide
+P2  18:14 
+Kyle Connor (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Neal Pionk and Gabriel Vilardi
+   1-5
+P2  09:32 
+Luke Kunin (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Carl Grundstrom and Cody Ceci
+   2-5
+P2  08:41 
+Mikael Granlund (SJS) tripping against Colin Miller (2 minutes)
+   2-5
+P2  04:27 
+Josh Morrissey (WPG) holding against Alexander Wennberg (2 minutes)
+   2-5
+P2  02:35 
+Luke Kunin (SJS) cross-checking against Dylan DeMelo (2 minutes)
+   2-5
+3rd Period: ShowHide
+P3  11:59 
+Jake Walman (SJS) tripping against Gabriel Vilardi (2 minutes)
+   2-5
+P3  10:10 
+Cole Perfetti (WPG) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Alex Iafallo and Vladislav Namestnikov
+   2-6
+P3  09:51 
+Fabian Zetterlund (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Tyler Toffoli and Mikael Granlund
+   3-6
+P3  08:50 
+Matt Benning (SJS) slashing against Kyle Connor (2 minutes)
+   3-6
+P3  07:05 
+Cole Perfetti (WPG) scores power-play goal on slap shot past Vitek Vanecek, assisted by Neal Pionk and Vladislav Namestnikov
+   3-7
+P3  00:33 
+Vladislav Namestnikov (WPG) scores on wrist shot past Vitek Vanecek, assisted by Neal Pionk and Cole Perfetti
+   3-8
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  15:58   0  0    0   0   2   0   0   0  7/12Barclay Goodrow C  17:18   0  0    0   1   1   0   1   2   2/4Mikael Granlund C  22:05   0  2   -1   0   2   2   1   1  9/20Carl Grundstrom R  10:19   0  1    0   0   1   0   0   2   0/0Danil Gushchin L  15:18   0  0   -1   1   0   0   0   0   0/0Klim Kostin C  08:00   0  0    0   1   0   0   0   1   1/1Luke Kunin C  15:01   1  0   -1   2   4   2   0   0   0/0Givani Smith R  07:59   0  0    0   0   1   0   0   0   0/0Nico Sturm C  09:41   0  0    0   1   0   0   0   0   4/6Tyler Toffoli C  16:04   1  1   -1   2   1   0   0   2   0/0Alexander Wennberg C  19:01   0  0   -1   0   2   2   0   0  4/11Fabian Zetterlund L  13:01   1  0   -1   2   0   0   0   0   0/1Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  16:29   0  0   -1   1   1   2   0   2   0/0Cody Ceci D  20:13   0  1    0   1   1   0   0   0   0/0Mario Ferraro D  19:37   0  0   -1   1   1   0   3   1   0/0Jan Rutta D  19:33   0  0   -1   1   2   2   0   1   0/0Henry Thrun D  20:47   0  0   -1   3   0   0   0   0   0/0Jake Walman D  20:25   0  1    0   5   2   2   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       22  21  12   6  12 27/55
+                                        49.1%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  21:46   5  13/18  10/13   3/5   0/0     0
+              .722   .769  .600 Vitek Vanecek G  38:14   3  15/18  11/12   4/6   0/0     0
+              .833   .917  .667 Sharks Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          8  28/36  21/25  7/11   0/0     0
+              .778   .840  .636 
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:36   0  0   -1   0   0   0   1   0   0/0Morgan Barron C  12:11   0  0   -2   2   0   0   0   0   1/1Kyle Connor L  21:16   1  0    1   4   0   0   0   2   0/0Nikolaj Ehlers L  15:54   2  1    3   5   0   0   1   2   0/0Alex Iafallo L  13:39   0  2   -1   1   2   0   0   0   0/0Rasmus Kupari C  10:43   0  0   -1   2   0   0   0   2   4/8Adam Lowry C  14:23   0  0   -1   2   0   0   0   0  8/20Vladislav Namestnikov C  13:29   1  3    3   1   0   0   0   1   4/6Nino Niederreiter R  17:28   0  0    0   2   1   2   0   0   1/1Cole Perfetti C  13:27   2  2    4   5   0   0   0   0   0/1Mark Scheifele C  21:32   0  1    1   2   1   0   1   0 10/18Gabriel Vilardi C  21:23   0  2    0   0   0   0   0   1   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  20:12   0  0   -1   1   3   0   0   0   0/0Haydn Fleury D  14:31   0  0    0   1   0   0   1   1   0/0Colin Miller D  12:00   0  1    1   2   0   0   0   1   0/0Josh Morrissey D  26:04   1  0    1   3   2   2   0   0   0/0Neal Pionk D  19:20   1  3    2   2   0   0   1   0   0/0Dylan Samberg D  16:06   0  0    1   1   1   0   0   0   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          8 15       36  10   4   5  10 28/55
+                                        50.9%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  59:16   3  19/22  15/17   2/3   2/2     0
+              .864   .882  .667 1.000
+San Jose
+Sharks0-3-2Final3 - 8Winnipeg
+Jets4-0-0
+San Jose
+Sharks0-3-2
+Final3 - 8
+Winnipeg
+Jets4-0-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+SJS   1  1  1    3  
+WPG   4  1  3    8
+1st Period: ShowHide
+P1  18:01 
+Josh Morrissey (WPG) scores on snap shot past Mackenzie Blackwood, assisted by Colin Miller and Nikolaj Ehlers
+   0-1
+P1  12:22 
+Alexander Wennberg (SJS) tripping against Nikolaj Ehlers (2 minutes)
+   0-1
+P1  11:36 
+Jan Rutta (SJS) high-sticking against Alex Iafallo (2 minutes)
+   0-1
+P1  10:35 
+Nikolaj Ehlers (WPG) scores power-play goal on snap shot past Mackenzie Blackwood, assisted by Gabriel Vilardi and Mark Scheifele
+   0-2
+P1  09:47 
+Nino Niederreiter (WPG) tripping against Barclay Goodrow (2 minutes)
+   0-2
+P1  08:17 
+Tyler Toffoli (SJS) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Jake Walman and Mikael Granlund
+   1-2
+P1  06:29 
+Nikolaj Ehlers (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Cole Perfetti
+   1-3
+P1  03:02 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-3
+P1  01:12 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Alex Iafallo and Vladislav Namestnikov
+   1-4
+2nd Period: ShowHide
+P2  18:14 
+Kyle Connor (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Neal Pionk and Gabriel Vilardi
+   1-5
+P2  09:32 
+Luke Kunin (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Carl Grundstrom and Cody Ceci
+   2-5
+P2  08:41 
+Mikael Granlund (SJS) tripping against Colin Miller (2 minutes)
+   2-5
+P2  04:27 
+Josh Morrissey (WPG) holding against Alexander Wennberg (2 minutes)
+   2-5
+P2  02:35 
+Luke Kunin (SJS) cross-checking against Dylan DeMelo (2 minutes)
+   2-5
+3rd Period: ShowHide
+P3  11:59 
+Jake Walman (SJS) tripping against Gabriel Vilardi (2 minutes)
+   2-5
+P3  10:10 
+Cole Perfetti (WPG) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Alex Iafallo and Vladislav Namestnikov
+   2-6
+P3  09:51 
+Fabian Zetterlund (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Tyler Toffoli and Mikael Granlund
+   3-6
+P3  08:50 
+Matt Benning (SJS) slashing against Kyle Connor (2 minutes)
+   3-6
+P3  07:05 
+Cole Perfetti (WPG) scores power-play goal on slap shot past Vitek Vanecek, assisted by Neal Pionk and Vladislav Namestnikov
+   3-7
+P3  00:33 
+Vladislav Namestnikov (WPG) scores on wrist shot past Vitek Vanecek, assisted by Neal Pionk and Cole Perfetti
+   3-8
+1st Period: ShowHide
+P1  18:01 
+Josh Morrissey (WPG) scores on snap shot past Mackenzie Blackwood, assisted by Colin Miller and Nikolaj Ehlers
+   0-1
+P1  12:22 
+Alexander Wennberg (SJS) tripping against Nikolaj Ehlers (2 minutes)
+   0-1
+P1  11:36 
+Jan Rutta (SJS) high-sticking against Alex Iafallo (2 minutes)
+   0-1
+P1  10:35 
+Nikolaj Ehlers (WPG) scores power-play goal on snap shot past Mackenzie Blackwood, assisted by Gabriel Vilardi and Mark Scheifele
+   0-2
+P1  09:47 
+Nino Niederreiter (WPG) tripping against Barclay Goodrow (2 minutes)
+   0-2
+P1  08:17 
+Tyler Toffoli (SJS) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Jake Walman and Mikael Granlund
+   1-2
+P1  06:29 
+Nikolaj Ehlers (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Cole Perfetti
+   1-3
+P1  03:02 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-3
+P1  01:12 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Alex Iafallo and Vladislav Namestnikov
+   1-4
+P1  18:01 
+Josh Morrissey (WPG) scores on snap shot past Mackenzie Blackwood, assisted by Colin Miller and Nikolaj Ehlers
+   0-1
+P1  12:22 
+Alexander Wennberg (SJS) tripping against Nikolaj Ehlers (2 minutes)
+   0-1
+P1  11:36 
+Jan Rutta (SJS) high-sticking against Alex Iafallo (2 minutes)
+   0-1
+P1  10:35 
+Nikolaj Ehlers (WPG) scores power-play goal on snap shot past Mackenzie Blackwood, assisted by Gabriel Vilardi and Mark Scheifele
+   0-2
+P1  09:47 
+Nino Niederreiter (WPG) tripping against Barclay Goodrow (2 minutes)
+   0-2
+P1  08:17 
+Tyler Toffoli (SJS) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Jake Walman and Mikael Granlund
+   1-2
+P1  06:29 
+Nikolaj Ehlers (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Cole Perfetti
+   1-3
+P1  03:02 
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+   1-3
+P1  01:12 
+Neal Pionk (WPG) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Alex Iafallo and Vladislav Namestnikov
+   1-4
+P1  18:01
+Josh Morrissey (WPG) scores on snap shot past Mackenzie Blackwood, assisted by Colin Miller and Nikolaj Ehlers
+0-1
+P1  12:22
+Alexander Wennberg (SJS) tripping against Nikolaj Ehlers (2 minutes)
+0-1
+P1  11:36
+Jan Rutta (SJS) high-sticking against Alex Iafallo (2 minutes)
+0-1
+P1  10:35
+Nikolaj Ehlers (WPG) scores power-play goal on snap shot past Mackenzie Blackwood, assisted by Gabriel Vilardi and Mark Scheifele
+0-2
+P1  09:47
+Nino Niederreiter (WPG) tripping against Barclay Goodrow (2 minutes)
+0-2
+P1  08:17
+Tyler Toffoli (SJS) scores power-play goal on tip-in past Connor Hellebuyck, assisted by Jake Walman and Mikael Granlund
+1-2
+P1  06:29
+Nikolaj Ehlers (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Cole Perfetti
+1-3
+P1  03:02
+SJS penalty, too many men on the ice (2 minutes), served by Fabian Zetterlund
+1-3
+P1  01:12
+Neal Pionk (WPG) scores power-play goal on wrist shot past Mackenzie Blackwood, assisted by Alex Iafallo and Vladislav Namestnikov
+1-4
+2nd Period: ShowHide
+P2  18:14 
+Kyle Connor (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Neal Pionk and Gabriel Vilardi
+   1-5
+P2  09:32 
+Luke Kunin (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Carl Grundstrom and Cody Ceci
+   2-5
+P2  08:41 
+Mikael Granlund (SJS) tripping against Colin Miller (2 minutes)
+   2-5
+P2  04:27 
+Josh Morrissey (WPG) holding against Alexander Wennberg (2 minutes)
+   2-5
+P2  02:35 
+Luke Kunin (SJS) cross-checking against Dylan DeMelo (2 minutes)
+   2-5
+P2  18:14 
+Kyle Connor (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Neal Pionk and Gabriel Vilardi
+   1-5
+P2  09:32 
+Luke Kunin (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Carl Grundstrom and Cody Ceci
+   2-5
+P2  08:41 
+Mikael Granlund (SJS) tripping against Colin Miller (2 minutes)
+   2-5
+P2  04:27 
+Josh Morrissey (WPG) holding against Alexander Wennberg (2 minutes)
+   2-5
+P2  02:35 
+Luke Kunin (SJS) cross-checking against Dylan DeMelo (2 minutes)
+   2-5
+P2  18:14
+Kyle Connor (WPG) scores on wrist shot past Mackenzie Blackwood, assisted by Neal Pionk and Gabriel Vilardi
+1-5
+P2  09:32
+Luke Kunin (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Carl Grundstrom and Cody Ceci
+2-5
+P2  08:41
+Mikael Granlund (SJS) tripping against Colin Miller (2 minutes)
+2-5
+P2  04:27
+Josh Morrissey (WPG) holding against Alexander Wennberg (2 minutes)
+2-5
+P2  02:35
+Luke Kunin (SJS) cross-checking against Dylan DeMelo (2 minutes)
+2-5
+3rd Period: ShowHide
+P3  11:59 
+Jake Walman (SJS) tripping against Gabriel Vilardi (2 minutes)
+   2-5
+P3  10:10 
+Cole Perfetti (WPG) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Alex Iafallo and Vladislav Namestnikov
+   2-6
+P3  09:51 
+Fabian Zetterlund (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Tyler Toffoli and Mikael Granlund
+   3-6
+P3  08:50 
+Matt Benning (SJS) slashing against Kyle Connor (2 minutes)
+   3-6
+P3  07:05 
+Cole Perfetti (WPG) scores power-play goal on slap shot past Vitek Vanecek, assisted by Neal Pionk and Vladislav Namestnikov
+   3-7
+P3  00:33 
+Vladislav Namestnikov (WPG) scores on wrist shot past Vitek Vanecek, assisted by Neal Pionk and Cole Perfetti
+   3-8
+P3  11:59 
+Jake Walman (SJS) tripping against Gabriel Vilardi (2 minutes)
+   2-5
+P3  10:10 
+Cole Perfetti (WPG) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Alex Iafallo and Vladislav Namestnikov
+   2-6
+P3  09:51 
+Fabian Zetterlund (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Tyler Toffoli and Mikael Granlund
+   3-6
+P3  08:50 
+Matt Benning (SJS) slashing against Kyle Connor (2 minutes)
+   3-6
+P3  07:05 
+Cole Perfetti (WPG) scores power-play goal on slap shot past Vitek Vanecek, assisted by Neal Pionk and Vladislav Namestnikov
+   3-7
+P3  00:33 
+Vladislav Namestnikov (WPG) scores on wrist shot past Vitek Vanecek, assisted by Neal Pionk and Cole Perfetti
+   3-8
+P3  11:59
+Jake Walman (SJS) tripping against Gabriel Vilardi (2 minutes)
+2-5
+P3  10:10
+Cole Perfetti (WPG) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Alex Iafallo and Vladislav Namestnikov
+2-6
+P3  09:51
+Fabian Zetterlund (SJS) scores on wrist shot past Connor Hellebuyck, assisted by Tyler Toffoli and Mikael Granlund
+3-6
+P3  08:50
+Matt Benning (SJS) slashing against Kyle Connor (2 minutes)
+3-6
+P3  07:05
+Cole Perfetti (WPG) scores power-play goal on slap shot past Vitek Vanecek, assisted by Neal Pionk and Vladislav Namestnikov
+3-7
+P3  00:33
+Vladislav Namestnikov (WPG) scores on wrist shot past Vitek Vanecek, assisted by Neal Pionk and Cole Perfetti
+3-8
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  15:58   0  0    0   0   2   0   0   0  7/12Barclay Goodrow C  17:18   0  0    0   1   1   0   1   2   2/4Mikael Granlund C  22:05   0  2   -1   0   2   2   1   1  9/20Carl Grundstrom R  10:19   0  1    0   0   1   0   0   2   0/0Danil Gushchin L  15:18   0  0   -1   1   0   0   0   0   0/0Klim Kostin C  08:00   0  0    0   1   0   0   0   1   1/1Luke Kunin C  15:01   1  0   -1   2   4   2   0   0   0/0Givani Smith R  07:59   0  0    0   0   1   0   0   0   0/0Nico Sturm C  09:41   0  0    0   1   0   0   0   0   4/6Tyler Toffoli C  16:04   1  1   -1   2   1   0   0   2   0/0Alexander Wennberg C  19:01   0  0   -1   0   2   2   0   0  4/11Fabian Zetterlund L  13:01   1  0   -1   2   0   0   0   0   0/1Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  16:29   0  0   -1   1   1   2   0   2   0/0Cody Ceci D  20:13   0  1    0   1   1   0   0   0   0/0Mario Ferraro D  19:37   0  0   -1   1   1   0   3   1   0/0Jan Rutta D  19:33   0  0   -1   1   2   2   0   1   0/0Henry Thrun D  20:47   0  0   -1   3   0   0   0   0   0/0Jake Walman D  20:25   0  1    0   5   2   2   1   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       22  21  12   6  12 27/55
+                                        49.1%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  21:46   5  13/18  10/13   3/5   0/0     0
+              .722   .769  .600 Vitek Vanecek G  38:14   3  15/18  11/12   4/6   0/0     0
+              .833   .917  .667 Sharks Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          8  28/36  21/25  7/11   0/0     0
+              .778   .840  .636 
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:36   0  0   -1   0   0   0   1   0   0/0Morgan Barron C  12:11   0  0   -2   2   0   0   0   0   1/1Kyle Connor L  21:16   1  0    1   4   0   0   0   2   0/0Nikolaj Ehlers L  15:54   2  1    3   5   0   0   1   2   0/0Alex Iafallo L  13:39   0  2   -1   1   2   0   0   0   0/0Rasmus Kupari C  10:43   0  0   -1   2   0   0   0   2   4/8Adam Lowry C  14:23   0  0   -1   2   0   0   0   0  8/20Vladislav Namestnikov C  13:29   1  3    3   1   0   0   0   1   4/6Nino Niederreiter R  17:28   0  0    0   2   1   2   0   0   1/1Cole Perfetti C  13:27   2  2    4   5   0   0   0   0   0/1Mark Scheifele C  21:32   0  1    1   2   1   0   1   0 10/18Gabriel Vilardi C  21:23   0  2    0   0   0   0   0   1   0/0Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  20:12   0  0   -1   1   3   0   0   0   0/0Haydn Fleury D  14:31   0  0    0   1   0   0   1   1   0/0Colin Miller D  12:00   0  1    1   2   0   0   0   1   0/0Josh Morrissey D  26:04   1  0    1   3   2   2   0   0   0/0Neal Pionk D  19:20   1  3    2   2   0   0   1   0   0/0Dylan Samberg D  16:06   0  0    1   1   1   0   0   0   0/0Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          8 15       36  10   4   5  10 28/55
+                                        50.9%Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  59:16   3  19/22  15/17   2/3   2/2     0
+              .864   .882  .667 1.000
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  15:58   0  0    0   0   2   0   0   0  7/12Barclay Goodrow C  17:18   0  0    0   1   1   0   1   2   2/4Mikael Granlund C  22:05   0  2   -1   0   2   2   1   1  9/20Carl Grundstrom R  10:19   0  1    0   0   1   0   0   2   0/0Danil Gushchin L  15:18   0  0   -1   1   0   0   0   0   0/0Klim Kostin C  08:00   0  0    0   1   0   0   0   1   1/1Luke Kunin C  15:01   1  0   -1   2   4   2   0   0   0/0Givani Smith R  07:59   0  0    0   0   1   0   0   0   0/0Nico Sturm C  09:41   0  0    0   1   0   0   0   0   4/6Tyler Toffoli C  16:04   1  1   -1   2   1   0   0   2   0/0Alexander Wennberg C  19:01   0  0   -1   0   2   2   0   0  4/11Fabian Zetterlund L  13:01   1  0   -1   2   0   0   0   0   0/1
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ty Dellandrea C
+15:58   0  0    0   0   2   0   0   0  7/12
+Barclay Goodrow C
+17:18   0  0    0   1   1   0   1   2   2/4
+Mikael Granlund C
+22:05   0  2   -1   0   2   2   1   1  9/20
+Carl Grundstrom R
+10:19   0  1    0   0   1   0   0   2   0/0
+Danil Gushchin L
+15:18   0  0   -1   1   0   0   0   0   0/0
+Klim Kostin C
+08:00   0  0    0   1   0   0   0   1   1/1
+Luke Kunin C
+15:01   1  0   -1   2   4   2   0   0   0/0
+Givani Smith R
+07:59   0  0    0   0   1   0   0   0   0/0
+Nico Sturm C
+09:41   0  0    0   1   0   0   0   0   4/6
+Tyler Toffoli C
+16:04   1  1   -1   2   1   0   0   2   0/0
+Alexander Wennberg C
+19:01   0  0   -1   0   2   2   0   0  4/11
+Fabian Zetterlund L
+13:01   1  0   -1   2   0   0   0   0   0/1
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  16:29   0  0   -1   1   1   2   0   2   0/0Cody Ceci D  20:13   0  1    0   1   1   0   0   0   0/0Mario Ferraro D  19:37   0  0   -1   1   1   0   3   1   0/0Jan Rutta D  19:33   0  0   -1   1   2   2   0   1   0/0Henry Thrun D  20:47   0  0   -1   3   0   0   0   0   0/0Jake Walman D  20:25   0  1    0   5   2   2   1   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Benning D
+16:29   0  0   -1   1   1   2   0   2   0/0
+Cody Ceci D
+20:13   0  1    0   1   1   0   0   0   0/0
+Mario Ferraro D
+19:37   0  0   -1   1   1   0   3   1   0/0
+Jan Rutta D
+19:33   0  0   -1   1   2   2   0   1   0/0
+Henry Thrun D
+20:47   0  0   -1   3   0   0   0   0   0/0
+Jake Walman D
+20:25   0  1    0   5   2   2   1   0   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          3  6       22  21  12   6  12 27/55
+                                        49.1%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  21:46   5  13/18  10/13   3/5   0/0     0
+              .722   .769  .600 Vitek Vanecek G  38:14   3  15/18  11/12   4/6   0/0     0
+              .833   .917  .667
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Mackenzie Blackwood G
+21:46   5  13/18  10/13   3/5   0/0     0
+              .722   .769  .600
+Vitek Vanecek G
+38:14   3  15/18  11/12   4/6   0/0     0
+              .833   .917  .667
+Sharks Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          8  28/36  21/25  7/11   0/0     0
+              .778   .840  .636
+Sharks Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMason Appleton C  13:36   0  0   -1   0   0   0   1   0   0/0Morgan Barron C  12:11   0  0   -2   2   0   0   0   0   1/1Kyle Connor L  21:16   1  0    1   4   0   0   0   2   0/0Nikolaj Ehlers L  15:54   2  1    3   5   0   0   1   2   0/0Alex Iafallo L  13:39   0  2   -1   1   2   0   0   0   0/0Rasmus Kupari C  10:43   0  0   -1   2   0   0   0   2   4/8Adam Lowry C  14:23   0  0   -1   2   0   0   0   0  8/20Vladislav Namestnikov C  13:29   1  3    3   1   0   0   0   1   4/6Nino Niederreiter R  17:28   0  0    0   2   1   2   0   0   1/1Cole Perfetti C  13:27   2  2    4   5   0   0   0   0   0/1Mark Scheifele C  21:32   0  1    1   2   1   0   1   0 10/18Gabriel Vilardi C  21:23   0  2    0   0   0   0   0   1   0/0
+Jets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mason Appleton C
+13:36   0  0   -1   0   0   0   1   0   0/0
+Morgan Barron C
+12:11   0  0   -2   2   0   0   0   0   1/1
+Kyle Connor L
+21:16   1  0    1   4   0   0   0   2   0/0
+Nikolaj Ehlers L
+15:54   2  1    3   5   0   0   1   2   0/0
+Alex Iafallo L
+13:39   0  2   -1   1   2   0   0   0   0/0
+Rasmus Kupari C
+10:43   0  0   -1   2   0   0   0   2   4/8
+Adam Lowry C
+14:23   0  0   -1   2   0   0   0   0  8/20
+Vladislav Namestnikov C
+13:29   1  3    3   1   0   0   0   1   4/6
+Nino Niederreiter R
+17:28   0  0    0   2   1   2   0   0   1/1
+Cole Perfetti C
+13:27   2  2    4   5   0   0   0   0   0/1
+Mark Scheifele C
+21:32   0  1    1   2   1   0   1   0 10/18
+Gabriel Vilardi C
+21:23   0  2    0   0   0   0   0   1   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FODylan DeMelo D  20:12   0  0   -1   1   3   0   0   0   0/0Haydn Fleury D  14:31   0  0    0   1   0   0   1   1   0/0Colin Miller D  12:00   0  1    1   2   0   0   0   1   0/0Josh Morrissey D  26:04   1  0    1   3   2   2   0   0   0/0Neal Pionk D  19:20   1  3    2   2   0   0   1   0   0/0Dylan Samberg D  16:06   0  0    1   1   1   0   0   0   0/0
+Jets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Dylan DeMelo D
+20:12   0  0   -1   1   3   0   0   0   0/0
+Haydn Fleury D
+14:31   0  0    0   1   0   0   1   1   0/0
+Colin Miller D
+12:00   0  1    1   2   0   0   0   1   0/0
+Josh Morrissey D
+26:04   1  0    1   3   2   2   0   0   0/0
+Neal Pionk D
+19:20   1  3    2   2   0   0   1   0   0/0
+Dylan Samberg D
+16:06   0  0    1   1   1   0   0   0   0/0
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO          8 15       36  10   4   5  10 28/55
+                                        50.9%
+Jets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMConnor Hellebuyck G  59:16   3  19/22  15/17   2/3   2/2     0
+              .864   .882  .667 1.000
+Jets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Connor Hellebuyck G
+59:16   3  19/22  15/17   2/3   2/2     0
+              .864   .882  .667 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

@@ -1,0 +1,412 @@
+< Oct. 11 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Tampa Bay
+Lightning1-0-0Final4 - 1Carolina
+Hurricanes0-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+TBL   0  1  3    4  
+CAR   1  0  0    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:56 
+Shayne Gostisbehere (CAR) high-sticking against Mitchell Chaffee (2 minutes)
+   0-0
+P1  12:47 
+Brandon Hagel (TBL) holding the stick against Seth Jarvis (2 minutes)
+   0-0
+P1  05:28 
+Jordan Staal (CAR) scores on snap shot past Andrei Vasilevskiy, assisted by William Carrier
+   0-1
+2nd Period: ShowHide
+P2  17:39 
+Sean Walker (CAR) high-sticking against Jake Guentzel (2 minutes)
+   0-1
+P2  17:27 
+Brayden Point (TBL) scores power-play goal on wrist shot past Frederik Andersen, assisted by Nikita Kucherov and Victor Hedman
+   1-1
+P2  07:12 
+Ryan McDonagh (TBL) tripping against Martin Necas (2 minutes)
+   1-1
+P2  07:07 
+Seth Jarvis (CAR) slashing against Erik Cernak (2 minutes)
+   1-1
+P2  03:09 
+Mitchell Chaffee (TBL) tripping against Jackson Blake (2 minutes)
+   1-1
+P2  00:51 
+Brent Burns (CAR) slashing against Nikita Kucherov (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  16:37 
+Emil Lilleberg (TBL) holding against Eric Robinson (2 minutes)
+   1-1
+P3  15:03 
+Sebastian Aho (CAR) tripping against Zemgus Girgensons (2 minutes)
+   1-1
+P3  09:00 
+Dmitry Orlov (CAR) hooking against Anthony Cirelli (2 minutes)
+   1-1
+P3  08:54 
+Nikita Kucherov (TBL) scores power-play goal on slap shot past Frederik Andersen, assisted by Victor Hedman and Nicholas Paul
+   2-1
+P3  02:07 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Erik Cernak
+   3-1
+P3  00:16 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Victor Hedman
+   4-1
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  08:42   0  0   -1   1   0   0   0   1   1/1Mitchell Chaffee R  12:13   0  0    0   1   1   2   0   0   0/0Anthony Cirelli C  19:10   0  0    0   2   1   0   0   0  6/13Conor Geekie C  10:07   0  0    0   0   0   0   0   0   2/8Zemgus Girgensons C  13:08   0  0    0   0   0   0   0   1   0/0Luke Glendening C  11:50   0  0    0   1   1   0   0   0  4/11Jake Guentzel C  17:56   0  2    2   2   1   0   0   0   2/3Brandon Hagel L  20:28   0  0   -1   3   1   2   0   1   0/0Nikita Kucherov R  21:55   3  1    2   6   1   0   0   1   0/0Nicholas Paul L  17:34   0  1    0   0   0   0   0   1  8/14Brayden Point C  20:19   1  0    1   1   2   0   0   1  8/16Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  22:00   0  1    1   2   2   0   0   1   0/0Victor Hedman D  23:11   0  3    1   2   1   0   1   4   0/0Emil Lilleberg D  10:48   0  0   -1   0   1   2   0   0   0/0Ryan McDonagh D  20:40   0  0    1   2   1   2   1   4   0/0Janis Moser D  18:54   0  0    1   0   4   0   1   3   0/0Nick Perbix D  12:09   0  0    0   0   3   0   0   0   0/0Darren Raddysh D  10:56   0  0   -1   0   1   0   0   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       23  21   8   3  18 31/66
+                                        47.0%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   1  20/21  19/20   1/1   0/0     0
+              .952   .950 1.000 
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  19:18   0  0   -2   2   1   2   0   3  5/14Jackson Blake R  10:57   0  0    0   1   0   0   0   0   0/0William Carrier L  11:23   0  1    1   1   0   0   0   0   0/0Jack Drury C  09:59   0  0    0   0   0   0   0   0  8/11Seth Jarvis C  21:06   0  0   -2   2   1   2   0   0   1/4Jesperi Kotkaniemi C  17:22   0  0    0   0   0   0   0   0 10/16Jordan Martinook L  12:17   0  0    1   0   0   0   1   1   0/2Martin Necas C  18:49   0  0    0   0   1   0   0   0   0/0Eric Robinson L  09:43   0  0    0   0   2   0   0   0   0/1Jack Roslovic C  15:42   0  0    0   1   0   0   0   2   1/3Jordan Staal C  15:00   1  0   -1   1   1   0   0   0 10/15Andrei Svechnikov R  17:18   0  0   -2   5   0   0   0   3   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  16:58   0  0   -1   1   0   2   0   1   0/0Jalen Chatfield D  18:20   0  0    0   0   1   0   0   0   0/0Shayne Gostisbehere D  22:31   0  0   -2   3   2   2   0   1   0/0Dmitry Orlov D  20:13   0  0    0   2   1   2   0   2   0/0Jaccob Slavin D  18:29   0  0    1   0   2   0   0   2   0/0Sean Walker D  18:09   0  0    0   2   0   2   0   1   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       21  12  12   1  16 35/66
+                                        53.0%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFrederik Andersen G  58:08   2  19/21  15/15   4/6   0/0     0
+              .905  1.000  .667
+Tampa Bay
+Lightning1-0-0Final4 - 1Carolina
+Hurricanes0-1-0
+Tampa Bay
+Lightning1-0-0
+Final4 - 1
+Carolina
+Hurricanes0-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+TBL   0  1  3    4  
+CAR   1  0  0    1
+1st Period: ShowHide
+P1  14:56 
+Shayne Gostisbehere (CAR) high-sticking against Mitchell Chaffee (2 minutes)
+   0-0
+P1  12:47 
+Brandon Hagel (TBL) holding the stick against Seth Jarvis (2 minutes)
+   0-0
+P1  05:28 
+Jordan Staal (CAR) scores on snap shot past Andrei Vasilevskiy, assisted by William Carrier
+   0-1
+2nd Period: ShowHide
+P2  17:39 
+Sean Walker (CAR) high-sticking against Jake Guentzel (2 minutes)
+   0-1
+P2  17:27 
+Brayden Point (TBL) scores power-play goal on wrist shot past Frederik Andersen, assisted by Nikita Kucherov and Victor Hedman
+   1-1
+P2  07:12 
+Ryan McDonagh (TBL) tripping against Martin Necas (2 minutes)
+   1-1
+P2  07:07 
+Seth Jarvis (CAR) slashing against Erik Cernak (2 minutes)
+   1-1
+P2  03:09 
+Mitchell Chaffee (TBL) tripping against Jackson Blake (2 minutes)
+   1-1
+P2  00:51 
+Brent Burns (CAR) slashing against Nikita Kucherov (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  16:37 
+Emil Lilleberg (TBL) holding against Eric Robinson (2 minutes)
+   1-1
+P3  15:03 
+Sebastian Aho (CAR) tripping against Zemgus Girgensons (2 minutes)
+   1-1
+P3  09:00 
+Dmitry Orlov (CAR) hooking against Anthony Cirelli (2 minutes)
+   1-1
+P3  08:54 
+Nikita Kucherov (TBL) scores power-play goal on slap shot past Frederik Andersen, assisted by Victor Hedman and Nicholas Paul
+   2-1
+P3  02:07 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Erik Cernak
+   3-1
+P3  00:16 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Victor Hedman
+   4-1
+1st Period: ShowHide
+P1  14:56 
+Shayne Gostisbehere (CAR) high-sticking against Mitchell Chaffee (2 minutes)
+   0-0
+P1  12:47 
+Brandon Hagel (TBL) holding the stick against Seth Jarvis (2 minutes)
+   0-0
+P1  05:28 
+Jordan Staal (CAR) scores on snap shot past Andrei Vasilevskiy, assisted by William Carrier
+   0-1
+P1  14:56 
+Shayne Gostisbehere (CAR) high-sticking against Mitchell Chaffee (2 minutes)
+   0-0
+P1  12:47 
+Brandon Hagel (TBL) holding the stick against Seth Jarvis (2 minutes)
+   0-0
+P1  05:28 
+Jordan Staal (CAR) scores on snap shot past Andrei Vasilevskiy, assisted by William Carrier
+   0-1
+P1  14:56
+Shayne Gostisbehere (CAR) high-sticking against Mitchell Chaffee (2 minutes)
+0-0
+P1  12:47
+Brandon Hagel (TBL) holding the stick against Seth Jarvis (2 minutes)
+0-0
+P1  05:28
+Jordan Staal (CAR) scores on snap shot past Andrei Vasilevskiy, assisted by William Carrier
+0-1
+2nd Period: ShowHide
+P2  17:39 
+Sean Walker (CAR) high-sticking against Jake Guentzel (2 minutes)
+   0-1
+P2  17:27 
+Brayden Point (TBL) scores power-play goal on wrist shot past Frederik Andersen, assisted by Nikita Kucherov and Victor Hedman
+   1-1
+P2  07:12 
+Ryan McDonagh (TBL) tripping against Martin Necas (2 minutes)
+   1-1
+P2  07:07 
+Seth Jarvis (CAR) slashing against Erik Cernak (2 minutes)
+   1-1
+P2  03:09 
+Mitchell Chaffee (TBL) tripping against Jackson Blake (2 minutes)
+   1-1
+P2  00:51 
+Brent Burns (CAR) slashing against Nikita Kucherov (2 minutes)
+   1-1
+P2  17:39 
+Sean Walker (CAR) high-sticking against Jake Guentzel (2 minutes)
+   0-1
+P2  17:27 
+Brayden Point (TBL) scores power-play goal on wrist shot past Frederik Andersen, assisted by Nikita Kucherov and Victor Hedman
+   1-1
+P2  07:12 
+Ryan McDonagh (TBL) tripping against Martin Necas (2 minutes)
+   1-1
+P2  07:07 
+Seth Jarvis (CAR) slashing against Erik Cernak (2 minutes)
+   1-1
+P2  03:09 
+Mitchell Chaffee (TBL) tripping against Jackson Blake (2 minutes)
+   1-1
+P2  00:51 
+Brent Burns (CAR) slashing against Nikita Kucherov (2 minutes)
+   1-1
+P2  17:39
+Sean Walker (CAR) high-sticking against Jake Guentzel (2 minutes)
+0-1
+P2  17:27
+Brayden Point (TBL) scores power-play goal on wrist shot past Frederik Andersen, assisted by Nikita Kucherov and Victor Hedman
+1-1
+P2  07:12
+Ryan McDonagh (TBL) tripping against Martin Necas (2 minutes)
+1-1
+P2  07:07
+Seth Jarvis (CAR) slashing against Erik Cernak (2 minutes)
+1-1
+P2  03:09
+Mitchell Chaffee (TBL) tripping against Jackson Blake (2 minutes)
+1-1
+P2  00:51
+Brent Burns (CAR) slashing against Nikita Kucherov (2 minutes)
+1-1
+3rd Period: ShowHide
+P3  16:37 
+Emil Lilleberg (TBL) holding against Eric Robinson (2 minutes)
+   1-1
+P3  15:03 
+Sebastian Aho (CAR) tripping against Zemgus Girgensons (2 minutes)
+   1-1
+P3  09:00 
+Dmitry Orlov (CAR) hooking against Anthony Cirelli (2 minutes)
+   1-1
+P3  08:54 
+Nikita Kucherov (TBL) scores power-play goal on slap shot past Frederik Andersen, assisted by Victor Hedman and Nicholas Paul
+   2-1
+P3  02:07 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Erik Cernak
+   3-1
+P3  00:16 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Victor Hedman
+   4-1
+P3  16:37 
+Emil Lilleberg (TBL) holding against Eric Robinson (2 minutes)
+   1-1
+P3  15:03 
+Sebastian Aho (CAR) tripping against Zemgus Girgensons (2 minutes)
+   1-1
+P3  09:00 
+Dmitry Orlov (CAR) hooking against Anthony Cirelli (2 minutes)
+   1-1
+P3  08:54 
+Nikita Kucherov (TBL) scores power-play goal on slap shot past Frederik Andersen, assisted by Victor Hedman and Nicholas Paul
+   2-1
+P3  02:07 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Erik Cernak
+   3-1
+P3  00:16 
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Victor Hedman
+   4-1
+P3  16:37
+Emil Lilleberg (TBL) holding against Eric Robinson (2 minutes)
+1-1
+P3  15:03
+Sebastian Aho (CAR) tripping against Zemgus Girgensons (2 minutes)
+1-1
+P3  09:00
+Dmitry Orlov (CAR) hooking against Anthony Cirelli (2 minutes)
+1-1
+P3  08:54
+Nikita Kucherov (TBL) scores power-play goal on slap shot past Frederik Andersen, assisted by Victor Hedman and Nicholas Paul
+2-1
+P3  02:07
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Erik Cernak
+3-1
+P3  00:16
+Nikita Kucherov (TBL) scores on empty net, assisted by Jake Guentzel and Victor Hedman
+4-1
+Box Score:
+ 
+Back to Top
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  08:42   0  0   -1   1   0   0   0   1   1/1Mitchell Chaffee R  12:13   0  0    0   1   1   2   0   0   0/0Anthony Cirelli C  19:10   0  0    0   2   1   0   0   0  6/13Conor Geekie C  10:07   0  0    0   0   0   0   0   0   2/8Zemgus Girgensons C  13:08   0  0    0   0   0   0   0   1   0/0Luke Glendening C  11:50   0  0    0   1   1   0   0   0  4/11Jake Guentzel C  17:56   0  2    2   2   1   0   0   0   2/3Brandon Hagel L  20:28   0  0   -1   3   1   2   0   1   0/0Nikita Kucherov R  21:55   3  1    2   6   1   0   0   1   0/0Nicholas Paul L  17:34   0  1    0   0   0   0   0   1  8/14Brayden Point C  20:19   1  0    1   1   2   0   0   1  8/16Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  22:00   0  1    1   2   2   0   0   1   0/0Victor Hedman D  23:11   0  3    1   2   1   0   1   4   0/0Emil Lilleberg D  10:48   0  0   -1   0   1   2   0   0   0/0Ryan McDonagh D  20:40   0  0    1   2   1   2   1   4   0/0Janis Moser D  18:54   0  0    1   0   4   0   1   3   0/0Nick Perbix D  12:09   0  0    0   0   3   0   0   0   0/0Darren Raddysh D  10:56   0  0   -1   0   1   0   0   0   0/0Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       23  21   8   3  18 31/66
+                                        47.0%Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   1  20/21  19/20   1/1   0/0     0
+              .952   .950 1.000 
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  19:18   0  0   -2   2   1   2   0   3  5/14Jackson Blake R  10:57   0  0    0   1   0   0   0   0   0/0William Carrier L  11:23   0  1    1   1   0   0   0   0   0/0Jack Drury C  09:59   0  0    0   0   0   0   0   0  8/11Seth Jarvis C  21:06   0  0   -2   2   1   2   0   0   1/4Jesperi Kotkaniemi C  17:22   0  0    0   0   0   0   0   0 10/16Jordan Martinook L  12:17   0  0    1   0   0   0   1   1   0/2Martin Necas C  18:49   0  0    0   0   1   0   0   0   0/0Eric Robinson L  09:43   0  0    0   0   2   0   0   0   0/1Jack Roslovic C  15:42   0  0    0   1   0   0   0   2   1/3Jordan Staal C  15:00   1  0   -1   1   1   0   0   0 10/15Andrei Svechnikov R  17:18   0  0   -2   5   0   0   0   3   0/0Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  16:58   0  0   -1   1   0   2   0   1   0/0Jalen Chatfield D  18:20   0  0    0   0   1   0   0   0   0/0Shayne Gostisbehere D  22:31   0  0   -2   3   2   2   0   1   0/0Dmitry Orlov D  20:13   0  0    0   2   1   2   0   2   0/0Jaccob Slavin D  18:29   0  0    1   0   2   0   0   2   0/0Sean Walker D  18:09   0  0    0   2   0   2   0   1   0/0Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       21  12  12   1  16 35/66
+                                        53.0%Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFrederik Andersen G  58:08   2  19/21  15/15   4/6   0/0     0
+              .905  1.000  .667
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCameron Atkinson R  08:42   0  0   -1   1   0   0   0   1   1/1Mitchell Chaffee R  12:13   0  0    0   1   1   2   0   0   0/0Anthony Cirelli C  19:10   0  0    0   2   1   0   0   0  6/13Conor Geekie C  10:07   0  0    0   0   0   0   0   0   2/8Zemgus Girgensons C  13:08   0  0    0   0   0   0   0   1   0/0Luke Glendening C  11:50   0  0    0   1   1   0   0   0  4/11Jake Guentzel C  17:56   0  2    2   2   1   0   0   0   2/3Brandon Hagel L  20:28   0  0   -1   3   1   2   0   1   0/0Nikita Kucherov R  21:55   3  1    2   6   1   0   0   1   0/0Nicholas Paul L  17:34   0  1    0   0   0   0   0   1  8/14Brayden Point C  20:19   1  0    1   1   2   0   0   1  8/16
+Lightning Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cameron Atkinson R
+08:42   0  0   -1   1   0   0   0   1   1/1
+Mitchell Chaffee R
+12:13   0  0    0   1   1   2   0   0   0/0
+Anthony Cirelli C
+19:10   0  0    0   2   1   0   0   0  6/13
+Conor Geekie C
+10:07   0  0    0   0   0   0   0   0   2/8
+Zemgus Girgensons C
+13:08   0  0    0   0   0   0   0   1   0/0
+Luke Glendening C
+11:50   0  0    0   1   1   0   0   0  4/11
+Jake Guentzel C
+17:56   0  2    2   2   1   0   0   0   2/3
+Brandon Hagel L
+20:28   0  0   -1   3   1   2   0   1   0/0
+Nikita Kucherov R
+21:55   3  1    2   6   1   0   0   1   0/0
+Nicholas Paul L
+17:34   0  1    0   0   0   0   0   1  8/14
+Brayden Point C
+20:19   1  0    1   1   2   0   0   1  8/16
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOErik Cernak D  22:00   0  1    1   2   2   0   0   1   0/0Victor Hedman D  23:11   0  3    1   2   1   0   1   4   0/0Emil Lilleberg D  10:48   0  0   -1   0   1   2   0   0   0/0Ryan McDonagh D  20:40   0  0    1   2   1   2   1   4   0/0Janis Moser D  18:54   0  0    1   0   4   0   1   3   0/0Nick Perbix D  12:09   0  0    0   0   3   0   0   0   0/0Darren Raddysh D  10:56   0  0   -1   0   1   0   0   0   0/0
+Lightning Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Erik Cernak D
+22:00   0  1    1   2   2   0   0   1   0/0
+Victor Hedman D
+23:11   0  3    1   2   1   0   1   4   0/0
+Emil Lilleberg D
+10:48   0  0   -1   0   1   2   0   0   0/0
+Ryan McDonagh D
+20:40   0  0    1   2   1   2   1   4   0/0
+Janis Moser D
+18:54   0  0    1   0   4   0   1   3   0/0
+Nick Perbix D
+12:09   0  0    0   0   3   0   0   0   0/0
+Darren Raddysh D
+10:56   0  0   -1   0   1   0   0   0   0/0
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       23  21   8   3  18 31/66
+                                        47.0%
+Lightning Totals:
+          G  A        S   B  PM  TK  GV    FO
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAndrei Vasilevskiy G  60:00   1  20/21  19/20   1/1   0/0     0
+              .952   .950 1.000
+Lightning Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Andrei Vasilevskiy G
+60:00   1  20/21  19/20   1/1   0/0     0
+              .952   .950 1.000
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSebastian Aho C  19:18   0  0   -2   2   1   2   0   3  5/14Jackson Blake R  10:57   0  0    0   1   0   0   0   0   0/0William Carrier L  11:23   0  1    1   1   0   0   0   0   0/0Jack Drury C  09:59   0  0    0   0   0   0   0   0  8/11Seth Jarvis C  21:06   0  0   -2   2   1   2   0   0   1/4Jesperi Kotkaniemi C  17:22   0  0    0   0   0   0   0   0 10/16Jordan Martinook L  12:17   0  0    1   0   0   0   1   1   0/2Martin Necas C  18:49   0  0    0   0   1   0   0   0   0/0Eric Robinson L  09:43   0  0    0   0   2   0   0   0   0/1Jack Roslovic C  15:42   0  0    0   1   0   0   0   2   1/3Jordan Staal C  15:00   1  0   -1   1   1   0   0   0 10/15Andrei Svechnikov R  17:18   0  0   -2   5   0   0   0   3   0/0
+Hurricanes Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Sebastian Aho C
+19:18   0  0   -2   2   1   2   0   3  5/14
+Jackson Blake R
+10:57   0  0    0   1   0   0   0   0   0/0
+William Carrier L
+11:23   0  1    1   1   0   0   0   0   0/0
+Jack Drury C
+09:59   0  0    0   0   0   0   0   0  8/11
+Seth Jarvis C
+21:06   0  0   -2   2   1   2   0   0   1/4
+Jesperi Kotkaniemi C
+17:22   0  0    0   0   0   0   0   0 10/16
+Jordan Martinook L
+12:17   0  0    1   0   0   0   1   1   0/2
+Martin Necas C
+18:49   0  0    0   0   1   0   0   0   0/0
+Eric Robinson L
+09:43   0  0    0   0   2   0   0   0   0/1
+Jack Roslovic C
+15:42   0  0    0   1   0   0   0   2   1/3
+Jordan Staal C
+15:00   1  0   -1   1   1   0   0   0 10/15
+Andrei Svechnikov R
+17:18   0  0   -2   5   0   0   0   3   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrent Burns D  16:58   0  0   -1   1   0   2   0   1   0/0Jalen Chatfield D  18:20   0  0    0   0   1   0   0   0   0/0Shayne Gostisbehere D  22:31   0  0   -2   3   2   2   0   1   0/0Dmitry Orlov D  20:13   0  0    0   2   1   2   0   2   0/0Jaccob Slavin D  18:29   0  0    1   0   2   0   0   2   0/0Sean Walker D  18:09   0  0    0   2   0   2   0   1   0/0
+Hurricanes Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brent Burns D
+16:58   0  0   -1   1   0   2   0   1   0/0
+Jalen Chatfield D
+18:20   0  0    0   0   1   0   0   0   0/0
+Shayne Gostisbehere D
+22:31   0  0   -2   3   2   2   0   1   0/0
+Dmitry Orlov D
+20:13   0  0    0   2   1   2   0   2   0/0
+Jaccob Slavin D
+18:29   0  0    1   0   2   0   0   2   0/0
+Sean Walker D
+18:09   0  0    0   2   0   2   0   1   0/0
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO          1  1       21  12  12   1  16 35/66
+                                        53.0%
+Hurricanes Totals:
+          G  A        S   B  PM  TK  GV    FO
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMFrederik Andersen G  58:08   2  19/21  15/15   4/6   0/0     0
+              .905  1.000  .667
+Hurricanes Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Frederik Andersen G
+58:08   2  19/21  15/15   4/6   0/0     0
+              .905  1.000  .667
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

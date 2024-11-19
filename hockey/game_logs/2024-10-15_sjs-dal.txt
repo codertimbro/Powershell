@@ -1,0 +1,384 @@
+< Oct. 15 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+San Jose
+Sharks0-1-2Final/SO2 - 3Dallas
+Stars4-0-0
+Shootout Goals & Penalties Box Score
+      1  2  3   SO    T  
+-----------------------  
+SJS   0  2  0    0    2  
+DAL   0  2  0    1    3
+Shootout:
+
+  0-1  
+Jason Robertson scores on wrist shot
+Will Smith wrist shot saved by Jake Oettinger
+  0-1  
+
+
+  0-2  
+Matt Duchene scores on wrist shot
+Mikael Granlund scores on wrist shot
+  1-2  
+
+
+  1-3  
+Wyatt Johnston scores on snap shot
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  08:30 
+Barclay Goodrow (SJS) high-sticking against Logan Stankoven (4 minutes)
+   0-0
+2nd Period: ShowHide
+P2  13:36 
+Tyler Toffoli (SJS) scores on snap shot past Jake Oettinger
+   1-0
+P2  11:47 
+Jan Rutta (SJS) holding the stick against Jamie Benn (2 minutes)
+   1-0
+P2  07:57 
+Matt Duchene (DAL) scores on tip-in past Mackenzie Blackwood, assisted by Mason Marchment and Logan Stankoven
+   1-1
+P2  04:48 
+Ty Dellandrea (SJS) scores on snap shot past Jake Oettinger, assisted by Nico Sturm
+   2-1
+P2  02:48 
+Roope Hintz (DAL) scores on slap shot past Mackenzie Blackwood, assisted by Jason Robertson and Wyatt Johnston
+   2-2
+3rd Period: ShowHide
+P3  19:08 
+Nils Lundkvist (DAL) tripping against Mikael Granlund (2 minutes)
+   2-2
+P3  18:44 
+Colin Blackwell (DAL) slashing against Tyler Toffoli (2 minutes)
+   2-2
+P3  11:36 
+Matt Duchene (DAL) holding against Fabian Zetterlund (2 minutes)
+   2-2
+1st Overtime: ShowHide
+OT  00:44 
+Klim Kostin (SJS) interference against Jason Robertson (2 minutes)
+   2-2
+2nd Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  14:57   1  0    1   1   2   0   0   1   3/6William Eklund L  21:45   0  0    0   4   0   0   0   0   0/1Barclay Goodrow C  12:21   0  0   -1   4   0   4   1   1   3/4Mikael Granlund C  23:40   0  0    0   3   2   0   0   0 11/21Carl Grundstrom R  12:10   0  0    1   1   0   0   0   0   0/0Klim Kostin C  10:01   0  0    0   1   0   2   1   1   0/0Luke Kunin C  16:11   0  0   -1   1   4   0   0   3   1/1Will Smith C  10:10   0  0    0   0   0   0   0   1   0/6Nico Sturm C  13:06   0  1    1   0   0   0   0   1   4/5Tyler Toffoli C  16:23   1  0    0   4   0   0   1   1   1/1Alexander Wennberg C  17:28   0  0   -1   1   0   0   0   1  4/12Fabian Zetterlund L  18:08   0  0    0   2   2   0   0   0   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  12:59   0  0   -1   0   1   0   0   1   0/0Cody Ceci D  24:34   0  0   -1   2   2   0   0   0   0/0Mario Ferraro D  22:07   0  0    1   0   2   0   1   2   0/0Jan Rutta D  22:47   0  0    1   0   0   2   1   2   0/0Henry Thrun D  16:47   0  0   -1   0   3   0   0   1   0/0Jake Walman D  23:26   0  0    1   3   1   0   1   5   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  1       27  19   8   6  21 27/57
+                                        47.4%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  65:00   2  36/38  30/32   6/6   0/0     0
+              .947   .938 1.000 
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:16   0  0   -1   2   0   0   0   0   6/8Colin Blackwell C  09:51   0  0    0   1   1   2   0   0   1/8Mavrik Bourque C  11:51   0  0   -1   1   1   0   0   2   4/4Oskar Bäck C  10:07   0  0    0   0   0   0   0   1   0/0Evgenii Dadonov R  16:26   0  0    0   3   2   0   0   3   0/0Matt Duchene C  18:32   1  0    1   3   0   2   0   2  7/11Roope Hintz C  19:56   1  0    0   4   1   0   1   1   3/8Wyatt Johnston C  20:18   0  1    0   1   0   0   1   0  7/13Mason Marchment L  17:30   0  1    1   0   0   0   0   1   0/0Jason Robertson L  18:25   0  1    0   3   2   0   0   1   0/0Logan Stankoven C  17:51   0  1    0   5   0   0   0   0   1/3Sam Steel C  13:33   0  0    0   1   0   0   0   1   1/2Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  26:34   0  0   -1   4   0   0   0   3   0/0Miro Heiskanen D  24:53   0  0    0   3   2   0   1   1   0/0Esa Lindell D  23:22   0  0    0   3   1   0   1   1   0/0Nils Lundkvist D  16:26   0  0    0   1   0   2   0   2   0/0Ilya Lyubushkin D  16:47   0  0    1   1   3   0   1   1   0/0Brendan Smith D  11:34   0  0    0   2   0   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       38  13   6   5  21 30/57
+                                        52.6%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  64:32   2  25/27  20/22   4/4   1/1     0
+              .926   .909 1.000 1.000
+San Jose
+Sharks0-1-2Final/SO2 - 3Dallas
+Stars4-0-0
+San Jose
+Sharks0-1-2
+Final/SO2 - 3
+Dallas
+Stars4-0-0
+Shootout Goals & Penalties Box Score
+1  2  3   SO    T  
+-----------------------  
+SJS   0  2  0    0    2  
+DAL   0  2  0    1    3
+Shootout:
+0-1  
+Jason Robertson scores on wrist shot
+Will Smith wrist shot saved by Jake Oettinger
+  0-1  
+
+
+  0-2  
+Matt Duchene scores on wrist shot
+Mikael Granlund scores on wrist shot
+  1-2  
+
+
+  1-3  
+Wyatt Johnston scores on snap shot
+0-1
+Jason Robertson scores on wrist shot
+Will Smith wrist shot saved by Jake Oettinger
+0-1
+0-2
+Matt Duchene scores on wrist shot
+Mikael Granlund scores on wrist shot
+1-2
+1-3
+Wyatt Johnston scores on snap shot
+1st Period: ShowHide
+P1  08:30 
+Barclay Goodrow (SJS) high-sticking against Logan Stankoven (4 minutes)
+   0-0
+2nd Period: ShowHide
+P2  13:36 
+Tyler Toffoli (SJS) scores on snap shot past Jake Oettinger
+   1-0
+P2  11:47 
+Jan Rutta (SJS) holding the stick against Jamie Benn (2 minutes)
+   1-0
+P2  07:57 
+Matt Duchene (DAL) scores on tip-in past Mackenzie Blackwood, assisted by Mason Marchment and Logan Stankoven
+   1-1
+P2  04:48 
+Ty Dellandrea (SJS) scores on snap shot past Jake Oettinger, assisted by Nico Sturm
+   2-1
+P2  02:48 
+Roope Hintz (DAL) scores on slap shot past Mackenzie Blackwood, assisted by Jason Robertson and Wyatt Johnston
+   2-2
+3rd Period: ShowHide
+P3  19:08 
+Nils Lundkvist (DAL) tripping against Mikael Granlund (2 minutes)
+   2-2
+P3  18:44 
+Colin Blackwell (DAL) slashing against Tyler Toffoli (2 minutes)
+   2-2
+P3  11:36 
+Matt Duchene (DAL) holding against Fabian Zetterlund (2 minutes)
+   2-2
+1st Overtime: ShowHide
+OT  00:44 
+Klim Kostin (SJS) interference against Jason Robertson (2 minutes)
+   2-2
+2nd Overtime: No goals or penalties.
+1st Period: ShowHide
+P1  08:30 
+Barclay Goodrow (SJS) high-sticking against Logan Stankoven (4 minutes)
+   0-0
+P1  08:30 
+Barclay Goodrow (SJS) high-sticking against Logan Stankoven (4 minutes)
+   0-0
+P1  08:30
+Barclay Goodrow (SJS) high-sticking against Logan Stankoven (4 minutes)
+0-0
+2nd Period: ShowHide
+P2  13:36 
+Tyler Toffoli (SJS) scores on snap shot past Jake Oettinger
+   1-0
+P2  11:47 
+Jan Rutta (SJS) holding the stick against Jamie Benn (2 minutes)
+   1-0
+P2  07:57 
+Matt Duchene (DAL) scores on tip-in past Mackenzie Blackwood, assisted by Mason Marchment and Logan Stankoven
+   1-1
+P2  04:48 
+Ty Dellandrea (SJS) scores on snap shot past Jake Oettinger, assisted by Nico Sturm
+   2-1
+P2  02:48 
+Roope Hintz (DAL) scores on slap shot past Mackenzie Blackwood, assisted by Jason Robertson and Wyatt Johnston
+   2-2
+P2  13:36 
+Tyler Toffoli (SJS) scores on snap shot past Jake Oettinger
+   1-0
+P2  11:47 
+Jan Rutta (SJS) holding the stick against Jamie Benn (2 minutes)
+   1-0
+P2  07:57 
+Matt Duchene (DAL) scores on tip-in past Mackenzie Blackwood, assisted by Mason Marchment and Logan Stankoven
+   1-1
+P2  04:48 
+Ty Dellandrea (SJS) scores on snap shot past Jake Oettinger, assisted by Nico Sturm
+   2-1
+P2  02:48 
+Roope Hintz (DAL) scores on slap shot past Mackenzie Blackwood, assisted by Jason Robertson and Wyatt Johnston
+   2-2
+P2  13:36
+Tyler Toffoli (SJS) scores on snap shot past Jake Oettinger
+1-0
+P2  11:47
+Jan Rutta (SJS) holding the stick against Jamie Benn (2 minutes)
+1-0
+P2  07:57
+Matt Duchene (DAL) scores on tip-in past Mackenzie Blackwood, assisted by Mason Marchment and Logan Stankoven
+1-1
+P2  04:48
+Ty Dellandrea (SJS) scores on snap shot past Jake Oettinger, assisted by Nico Sturm
+2-1
+P2  02:48
+Roope Hintz (DAL) scores on slap shot past Mackenzie Blackwood, assisted by Jason Robertson and Wyatt Johnston
+2-2
+3rd Period: ShowHide
+P3  19:08 
+Nils Lundkvist (DAL) tripping against Mikael Granlund (2 minutes)
+   2-2
+P3  18:44 
+Colin Blackwell (DAL) slashing against Tyler Toffoli (2 minutes)
+   2-2
+P3  11:36 
+Matt Duchene (DAL) holding against Fabian Zetterlund (2 minutes)
+   2-2
+P3  19:08 
+Nils Lundkvist (DAL) tripping against Mikael Granlund (2 minutes)
+   2-2
+P3  18:44 
+Colin Blackwell (DAL) slashing against Tyler Toffoli (2 minutes)
+   2-2
+P3  11:36 
+Matt Duchene (DAL) holding against Fabian Zetterlund (2 minutes)
+   2-2
+P3  19:08
+Nils Lundkvist (DAL) tripping against Mikael Granlund (2 minutes)
+2-2
+P3  18:44
+Colin Blackwell (DAL) slashing against Tyler Toffoli (2 minutes)
+2-2
+P3  11:36
+Matt Duchene (DAL) holding against Fabian Zetterlund (2 minutes)
+2-2
+1st Overtime: ShowHide
+OT  00:44 
+Klim Kostin (SJS) interference against Jason Robertson (2 minutes)
+   2-2
+OT  00:44 
+Klim Kostin (SJS) interference against Jason Robertson (2 minutes)
+   2-2
+OT  00:44
+Klim Kostin (SJS) interference against Jason Robertson (2 minutes)
+2-2
+2nd Overtime: No goals or penalties.
+Box Score:
+ 
+Back to Top
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  14:57   1  0    1   1   2   0   0   1   3/6William Eklund L  21:45   0  0    0   4   0   0   0   0   0/1Barclay Goodrow C  12:21   0  0   -1   4   0   4   1   1   3/4Mikael Granlund C  23:40   0  0    0   3   2   0   0   0 11/21Carl Grundstrom R  12:10   0  0    1   1   0   0   0   0   0/0Klim Kostin C  10:01   0  0    0   1   0   2   1   1   0/0Luke Kunin C  16:11   0  0   -1   1   4   0   0   3   1/1Will Smith C  10:10   0  0    0   0   0   0   0   1   0/6Nico Sturm C  13:06   0  1    1   0   0   0   0   1   4/5Tyler Toffoli C  16:23   1  0    0   4   0   0   1   1   1/1Alexander Wennberg C  17:28   0  0   -1   1   0   0   0   1  4/12Fabian Zetterlund L  18:08   0  0    0   2   2   0   0   0   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  12:59   0  0   -1   0   1   0   0   1   0/0Cody Ceci D  24:34   0  0   -1   2   2   0   0   0   0/0Mario Ferraro D  22:07   0  0    1   0   2   0   1   2   0/0Jan Rutta D  22:47   0  0    1   0   0   2   1   2   0/0Henry Thrun D  16:47   0  0   -1   0   3   0   0   1   0/0Jake Walman D  23:26   0  0    1   3   1   0   1   5   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  1       27  19   8   6  21 27/57
+                                        47.4%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  65:00   2  36/38  30/32   6/6   0/0     0
+              .947   .938 1.000 
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:16   0  0   -1   2   0   0   0   0   6/8Colin Blackwell C  09:51   0  0    0   1   1   2   0   0   1/8Mavrik Bourque C  11:51   0  0   -1   1   1   0   0   2   4/4Oskar Bäck C  10:07   0  0    0   0   0   0   0   1   0/0Evgenii Dadonov R  16:26   0  0    0   3   2   0   0   3   0/0Matt Duchene C  18:32   1  0    1   3   0   2   0   2  7/11Roope Hintz C  19:56   1  0    0   4   1   0   1   1   3/8Wyatt Johnston C  20:18   0  1    0   1   0   0   1   0  7/13Mason Marchment L  17:30   0  1    1   0   0   0   0   1   0/0Jason Robertson L  18:25   0  1    0   3   2   0   0   1   0/0Logan Stankoven C  17:51   0  1    0   5   0   0   0   0   1/3Sam Steel C  13:33   0  0    0   1   0   0   0   1   1/2Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  26:34   0  0   -1   4   0   0   0   3   0/0Miro Heiskanen D  24:53   0  0    0   3   2   0   1   1   0/0Esa Lindell D  23:22   0  0    0   3   1   0   1   1   0/0Nils Lundkvist D  16:26   0  0    0   1   0   2   0   2   0/0Ilya Lyubushkin D  16:47   0  0    1   1   3   0   1   1   0/0Brendan Smith D  11:34   0  0    0   2   0   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       38  13   6   5  21 30/57
+                                        52.6%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  64:32   2  25/27  20/22   4/4   1/1     0
+              .926   .909 1.000 1.000
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  14:57   1  0    1   1   2   0   0   1   3/6William Eklund L  21:45   0  0    0   4   0   0   0   0   0/1Barclay Goodrow C  12:21   0  0   -1   4   0   4   1   1   3/4Mikael Granlund C  23:40   0  0    0   3   2   0   0   0 11/21Carl Grundstrom R  12:10   0  0    1   1   0   0   0   0   0/0Klim Kostin C  10:01   0  0    0   1   0   2   1   1   0/0Luke Kunin C  16:11   0  0   -1   1   4   0   0   3   1/1Will Smith C  10:10   0  0    0   0   0   0   0   1   0/6Nico Sturm C  13:06   0  1    1   0   0   0   0   1   4/5Tyler Toffoli C  16:23   1  0    0   4   0   0   1   1   1/1Alexander Wennberg C  17:28   0  0   -1   1   0   0   0   1  4/12Fabian Zetterlund L  18:08   0  0    0   2   2   0   0   0   0/0
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ty Dellandrea C
+14:57   1  0    1   1   2   0   0   1   3/6
+William Eklund L
+21:45   0  0    0   4   0   0   0   0   0/1
+Barclay Goodrow C
+12:21   0  0   -1   4   0   4   1   1   3/4
+Mikael Granlund C
+23:40   0  0    0   3   2   0   0   0 11/21
+Carl Grundstrom R
+12:10   0  0    1   1   0   0   0   0   0/0
+Klim Kostin C
+10:01   0  0    0   1   0   2   1   1   0/0
+Luke Kunin C
+16:11   0  0   -1   1   4   0   0   3   1/1
+Will Smith C
+10:10   0  0    0   0   0   0   0   1   0/6
+Nico Sturm C
+13:06   0  1    1   0   0   0   0   1   4/5
+Tyler Toffoli C
+16:23   1  0    0   4   0   0   1   1   1/1
+Alexander Wennberg C
+17:28   0  0   -1   1   0   0   0   1  4/12
+Fabian Zetterlund L
+18:08   0  0    0   2   2   0   0   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMatt Benning D  12:59   0  0   -1   0   1   0   0   1   0/0Cody Ceci D  24:34   0  0   -1   2   2   0   0   0   0/0Mario Ferraro D  22:07   0  0    1   0   2   0   1   2   0/0Jan Rutta D  22:47   0  0    1   0   0   2   1   2   0/0Henry Thrun D  16:47   0  0   -1   0   3   0   0   1   0/0Jake Walman D  23:26   0  0    1   3   1   0   1   5   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Matt Benning D
+12:59   0  0   -1   0   1   0   0   1   0/0
+Cody Ceci D
+24:34   0  0   -1   2   2   0   0   0   0/0
+Mario Ferraro D
+22:07   0  0    1   0   2   0   1   2   0/0
+Jan Rutta D
+22:47   0  0    1   0   0   2   1   2   0/0
+Henry Thrun D
+16:47   0  0   -1   0   3   0   0   1   0/0
+Jake Walman D
+23:26   0  0    1   3   1   0   1   5   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          2  1       27  19   8   6  21 27/57
+                                        47.4%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMMackenzie Blackwood G  65:00   2  36/38  30/32   6/6   0/0     0
+              .947   .938 1.000
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Mackenzie Blackwood G
+65:00   2  36/38  30/32   6/6   0/0     0
+              .947   .938 1.000
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJamie Benn L  16:16   0  0   -1   2   0   0   0   0   6/8Colin Blackwell C  09:51   0  0    0   1   1   2   0   0   1/8Mavrik Bourque C  11:51   0  0   -1   1   1   0   0   2   4/4Oskar Bäck C  10:07   0  0    0   0   0   0   0   1   0/0Evgenii Dadonov R  16:26   0  0    0   3   2   0   0   3   0/0Matt Duchene C  18:32   1  0    1   3   0   2   0   2  7/11Roope Hintz C  19:56   1  0    0   4   1   0   1   1   3/8Wyatt Johnston C  20:18   0  1    0   1   0   0   1   0  7/13Mason Marchment L  17:30   0  1    1   0   0   0   0   1   0/0Jason Robertson L  18:25   0  1    0   3   2   0   0   1   0/0Logan Stankoven C  17:51   0  1    0   5   0   0   0   0   1/3Sam Steel C  13:33   0  0    0   1   0   0   0   1   1/2
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jamie Benn L
+16:16   0  0   -1   2   0   0   0   0   6/8
+Colin Blackwell C
+09:51   0  0    0   1   1   2   0   0   1/8
+Mavrik Bourque C
+11:51   0  0   -1   1   1   0   0   2   4/4
+Oskar Bäck C
+10:07   0  0    0   0   0   0   0   1   0/0
+Evgenii Dadonov R
+16:26   0  0    0   3   2   0   0   3   0/0
+Matt Duchene C
+18:32   1  0    1   3   0   2   0   2  7/11
+Roope Hintz C
+19:56   1  0    0   4   1   0   1   1   3/8
+Wyatt Johnston C
+20:18   0  1    0   1   0   0   1   0  7/13
+Mason Marchment L
+17:30   0  1    1   0   0   0   0   1   0/0
+Jason Robertson L
+18:25   0  1    0   3   2   0   0   1   0/0
+Logan Stankoven C
+17:51   0  1    0   5   0   0   0   0   1/3
+Sam Steel C
+13:33   0  0    0   1   0   0   0   1   1/2
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOThomas Harley D  26:34   0  0   -1   4   0   0   0   3   0/0Miro Heiskanen D  24:53   0  0    0   3   2   0   1   1   0/0Esa Lindell D  23:22   0  0    0   3   1   0   1   1   0/0Nils Lundkvist D  16:26   0  0    0   1   0   2   0   2   0/0Ilya Lyubushkin D  16:47   0  0    1   1   3   0   1   1   0/0Brendan Smith D  11:34   0  0    0   2   0   0   0   1   0/0
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Thomas Harley D
+26:34   0  0   -1   4   0   0   0   3   0/0
+Miro Heiskanen D
+24:53   0  0    0   3   2   0   1   1   0/0
+Esa Lindell D
+23:22   0  0    0   3   1   0   1   1   0/0
+Nils Lundkvist D
+16:26   0  0    0   1   0   2   0   2   0/0
+Ilya Lyubushkin D
+16:47   0  0    1   1   3   0   1   1   0/0
+Brendan Smith D
+11:34   0  0    0   2   0   0   0   1   0/0
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       38  13   6   5  21 30/57
+                                        52.6%
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  64:32   2  25/27  20/22   4/4   1/1     0
+              .926   .909 1.000 1.000
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jake Oettinger G
+64:32   2  25/27  20/22   4/4   1/1     0
+              .926   .909 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

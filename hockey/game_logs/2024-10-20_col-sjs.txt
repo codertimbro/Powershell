@@ -1,0 +1,457 @@
+< Oct. 20 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Colorado
+Avalanche2-4-0Final4 - 1San Jose
+Sharks0-4-2
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+COL   2  0  2    4  
+SJS   1  0  0    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  14:00 
+SJS penalty, too many men on the ice (2 minutes), served by Will Smith
+   0-0
+P1  13:37 
+Ross Colton (COL) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Nathan MacKinnon and Cale Makar
+   1-0
+P1  12:22 
+Mikael Granlund (SJS) hooking against Nikolai Kovalenko (2 minutes)
+   1-0
+P1  03:23 
+Ross Colton (COL) scores on wrist shot past Vitek Vanecek, assisted by Mikko Rantanen and Cale Makar
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes), served by Calum Ritchie
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes)
+   2-0
+P1  01:53 
+Luke Kunin (SJS) roughing against Josh Manson (2 minutes)
+   2-0
+P1  01:35 
+William Eklund (SJS) scores power-play goal on wrist shot past Justus Annunen, assisted by Mikael Granlund and Tyler Toffoli
+   2-1
+2nd Period: ShowHide
+P2  17:51 
+Jan Rutta (SJS) tripping against Miles Wood (2 minutes)
+   2-1
+P2  16:31 
+Mikael Granlund (SJS) slashing against Nathan MacKinnon (2 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) tripping against Fabian Zetterlund (2 minutes), served by Calum Ritchie
+   2-1
+P2  12:47 
+Henry Thrun (SJS) fighting against Logan O'Connor (5 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) fighting against Henry Thrun (5 minutes)
+   2-1
+P2  08:30 
+Miles Wood (COL) interference against Tyler Toffoli (2 minutes)
+   2-1
+P2  07:40 
+Calvin de Haan (COL) holding against Mikael Granlund (2 minutes)
+   2-1
+P2  04:43 
+Josh Manson (COL) tripping against Tyler Toffoli (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  10:03 
+Joel Kiviranta (COL) scores on backhand shot past Vitek Vanecek, assisted by Josh Manson and John Ludvig
+   3-1
+P3  01:37 
+Cale Makar (COL) scores on empty net, assisted by Nathan MacKinnon and Samuel Girard
+   4-1
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  18:59   2  0    1   4   1   0   0   0   1/5Ivan Ivan C  10:47   0  0    1   1   0   0   0   2   3/3Parker Kelly C  13:48   0  0    0   0   1   0   0   0  4/14Joel Kiviranta L  11:23   1  0    2   1   0   0   0   2   2/3Nikolai Kovalenko R  15:22   0  0    0   0   1   0   0   1   0/0Nathan MacKinnon C  20:00   0  2    2   3   0   0   0   2  7/15Casey Mittelstadt C  16:48   0  0    0   1   1   0   0   0 15/22Logan O'Connor R  16:26   0  0    0   0   0   7   0   0   0/1Mikko Rantanen R  20:22   0  1    2   1   0   0   0   1   0/0Calum Ritchie C  10:49   0  0    0   0   0   0   0   1   0/0Matt Stienburg C  08:19   0  0    1   1   0   0   0   1   0/0Miles Wood L  12:12   0  0    0   1   2   2   0   0   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  22:32   0  1    2   1   2   0   0   3   0/0John Ludvig D  12:13   0  1    1   1   1   0   0   1   0/0Cale Makar D  25:41   1  2    2   2   1   0   0   2   0/0Sam Malinski D  16:38   0  0    0   2   1   0   0   0   0/0Josh Manson D  17:22   0  1    1   1   5   6   0   2   0/0Calvin de Haan D  22:01   0  0    0   2   2   2   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       22  18  17   0  19 32/63
+                                        50.8%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   1  25/26  18/18   7/8   0/0     0
+              .962  1.000  .875 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  13:23   0  0   -2   1   0   0   0   1   2/6William Eklund L  18:59   1  0   -1   3   0   0   0   1   0/0Barclay Goodrow C  16:32   0  0    0   0   1   0   0   0   1/4Mikael Granlund C  21:14   0  1   -1   2   0   4   0   0  9/16Carl Grundstrom R  08:52   0  0   -2   1   0   0   0   2   0/0Danil Gushchin L  12:26   0  0    0   0   0   0   0   0   0/0Luke Kunin C  13:22   0  0    0   1   1   2   0   2   1/2Will Smith C  14:43   0  0   -1   1   0   0   0   0   3/7Nico Sturm C  10:47   0  0   -2   0   1   0   0   0   5/7Tyler Toffoli C  19:15   0  1   -1   2   0   0   0   0   0/2Alexander Wennberg C  20:12   0  0   -1   2   1   0   0   0 10/19Fabian Zetterlund L  17:05   0  0   -1   1   4   0   0   1   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  22:00   0  0   -1   4   3   0   0   0   0/0Mario Ferraro D  17:25   0  0   -1   2   2   0   0   2   0/0Jan Rutta D  14:41   0  0   -1   1   1   2   0   3   0/0Jack Thompson D  16:20   0  0    0   1   1   0   0   4   0/0Henry Thrun D  16:59   0  0    0   1   0   5   0   0   0/0Jake Walman D  21:46   0  0   -1   3   1   0   0   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  16  13   0  16 31/63
+                                        49.2%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVitek Vanecek G  57:36   3  18/21  13/15   5/6   0/0     0
+              .857   .867  .833
+Colorado
+Avalanche2-4-0Final4 - 1San Jose
+Sharks0-4-2
+Colorado
+Avalanche2-4-0
+Final4 - 1
+San Jose
+Sharks0-4-2
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+COL   2  0  2    4  
+SJS   1  0  0    1
+1st Period: ShowHide
+P1  14:00 
+SJS penalty, too many men on the ice (2 minutes), served by Will Smith
+   0-0
+P1  13:37 
+Ross Colton (COL) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Nathan MacKinnon and Cale Makar
+   1-0
+P1  12:22 
+Mikael Granlund (SJS) hooking against Nikolai Kovalenko (2 minutes)
+   1-0
+P1  03:23 
+Ross Colton (COL) scores on wrist shot past Vitek Vanecek, assisted by Mikko Rantanen and Cale Makar
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes), served by Calum Ritchie
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes)
+   2-0
+P1  01:53 
+Luke Kunin (SJS) roughing against Josh Manson (2 minutes)
+   2-0
+P1  01:35 
+William Eklund (SJS) scores power-play goal on wrist shot past Justus Annunen, assisted by Mikael Granlund and Tyler Toffoli
+   2-1
+2nd Period: ShowHide
+P2  17:51 
+Jan Rutta (SJS) tripping against Miles Wood (2 minutes)
+   2-1
+P2  16:31 
+Mikael Granlund (SJS) slashing against Nathan MacKinnon (2 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) tripping against Fabian Zetterlund (2 minutes), served by Calum Ritchie
+   2-1
+P2  12:47 
+Henry Thrun (SJS) fighting against Logan O'Connor (5 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) fighting against Henry Thrun (5 minutes)
+   2-1
+P2  08:30 
+Miles Wood (COL) interference against Tyler Toffoli (2 minutes)
+   2-1
+P2  07:40 
+Calvin de Haan (COL) holding against Mikael Granlund (2 minutes)
+   2-1
+P2  04:43 
+Josh Manson (COL) tripping against Tyler Toffoli (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  10:03 
+Joel Kiviranta (COL) scores on backhand shot past Vitek Vanecek, assisted by Josh Manson and John Ludvig
+   3-1
+P3  01:37 
+Cale Makar (COL) scores on empty net, assisted by Nathan MacKinnon and Samuel Girard
+   4-1
+1st Period: ShowHide
+P1  14:00 
+SJS penalty, too many men on the ice (2 minutes), served by Will Smith
+   0-0
+P1  13:37 
+Ross Colton (COL) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Nathan MacKinnon and Cale Makar
+   1-0
+P1  12:22 
+Mikael Granlund (SJS) hooking against Nikolai Kovalenko (2 minutes)
+   1-0
+P1  03:23 
+Ross Colton (COL) scores on wrist shot past Vitek Vanecek, assisted by Mikko Rantanen and Cale Makar
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes), served by Calum Ritchie
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes)
+   2-0
+P1  01:53 
+Luke Kunin (SJS) roughing against Josh Manson (2 minutes)
+   2-0
+P1  01:35 
+William Eklund (SJS) scores power-play goal on wrist shot past Justus Annunen, assisted by Mikael Granlund and Tyler Toffoli
+   2-1
+P1  14:00 
+SJS penalty, too many men on the ice (2 minutes), served by Will Smith
+   0-0
+P1  13:37 
+Ross Colton (COL) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Nathan MacKinnon and Cale Makar
+   1-0
+P1  12:22 
+Mikael Granlund (SJS) hooking against Nikolai Kovalenko (2 minutes)
+   1-0
+P1  03:23 
+Ross Colton (COL) scores on wrist shot past Vitek Vanecek, assisted by Mikko Rantanen and Cale Makar
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes), served by Calum Ritchie
+   2-0
+P1  01:53 
+Josh Manson (COL) roughing against Luke Kunin (2 minutes)
+   2-0
+P1  01:53 
+Luke Kunin (SJS) roughing against Josh Manson (2 minutes)
+   2-0
+P1  01:35 
+William Eklund (SJS) scores power-play goal on wrist shot past Justus Annunen, assisted by Mikael Granlund and Tyler Toffoli
+   2-1
+P1  14:00
+SJS penalty, too many men on the ice (2 minutes), served by Will Smith
+0-0
+P1  13:37
+Ross Colton (COL) scores power-play goal on wrist shot past Vitek Vanecek, assisted by Nathan MacKinnon and Cale Makar
+1-0
+P1  12:22
+Mikael Granlund (SJS) hooking against Nikolai Kovalenko (2 minutes)
+1-0
+P1  03:23
+Ross Colton (COL) scores on wrist shot past Vitek Vanecek, assisted by Mikko Rantanen and Cale Makar
+2-0
+P1  01:53
+Josh Manson (COL) roughing against Luke Kunin (2 minutes), served by Calum Ritchie
+2-0
+P1  01:53
+Josh Manson (COL) roughing against Luke Kunin (2 minutes)
+2-0
+P1  01:53
+Luke Kunin (SJS) roughing against Josh Manson (2 minutes)
+2-0
+P1  01:35
+William Eklund (SJS) scores power-play goal on wrist shot past Justus Annunen, assisted by Mikael Granlund and Tyler Toffoli
+2-1
+2nd Period: ShowHide
+P2  17:51 
+Jan Rutta (SJS) tripping against Miles Wood (2 minutes)
+   2-1
+P2  16:31 
+Mikael Granlund (SJS) slashing against Nathan MacKinnon (2 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) tripping against Fabian Zetterlund (2 minutes), served by Calum Ritchie
+   2-1
+P2  12:47 
+Henry Thrun (SJS) fighting against Logan O'Connor (5 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) fighting against Henry Thrun (5 minutes)
+   2-1
+P2  08:30 
+Miles Wood (COL) interference against Tyler Toffoli (2 minutes)
+   2-1
+P2  07:40 
+Calvin de Haan (COL) holding against Mikael Granlund (2 minutes)
+   2-1
+P2  04:43 
+Josh Manson (COL) tripping against Tyler Toffoli (2 minutes)
+   2-1
+P2  17:51 
+Jan Rutta (SJS) tripping against Miles Wood (2 minutes)
+   2-1
+P2  16:31 
+Mikael Granlund (SJS) slashing against Nathan MacKinnon (2 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) tripping against Fabian Zetterlund (2 minutes), served by Calum Ritchie
+   2-1
+P2  12:47 
+Henry Thrun (SJS) fighting against Logan O'Connor (5 minutes)
+   2-1
+P2  12:47 
+Logan O'Connor (COL) fighting against Henry Thrun (5 minutes)
+   2-1
+P2  08:30 
+Miles Wood (COL) interference against Tyler Toffoli (2 minutes)
+   2-1
+P2  07:40 
+Calvin de Haan (COL) holding against Mikael Granlund (2 minutes)
+   2-1
+P2  04:43 
+Josh Manson (COL) tripping against Tyler Toffoli (2 minutes)
+   2-1
+P2  17:51
+Jan Rutta (SJS) tripping against Miles Wood (2 minutes)
+2-1
+P2  16:31
+Mikael Granlund (SJS) slashing against Nathan MacKinnon (2 minutes)
+2-1
+P2  12:47
+Logan O'Connor (COL) tripping against Fabian Zetterlund (2 minutes), served by Calum Ritchie
+2-1
+P2  12:47
+Henry Thrun (SJS) fighting against Logan O'Connor (5 minutes)
+2-1
+P2  12:47
+Logan O'Connor (COL) fighting against Henry Thrun (5 minutes)
+2-1
+P2  08:30
+Miles Wood (COL) interference against Tyler Toffoli (2 minutes)
+2-1
+P2  07:40
+Calvin de Haan (COL) holding against Mikael Granlund (2 minutes)
+2-1
+P2  04:43
+Josh Manson (COL) tripping against Tyler Toffoli (2 minutes)
+2-1
+3rd Period: ShowHide
+P3  10:03 
+Joel Kiviranta (COL) scores on backhand shot past Vitek Vanecek, assisted by Josh Manson and John Ludvig
+   3-1
+P3  01:37 
+Cale Makar (COL) scores on empty net, assisted by Nathan MacKinnon and Samuel Girard
+   4-1
+P3  10:03 
+Joel Kiviranta (COL) scores on backhand shot past Vitek Vanecek, assisted by Josh Manson and John Ludvig
+   3-1
+P3  01:37 
+Cale Makar (COL) scores on empty net, assisted by Nathan MacKinnon and Samuel Girard
+   4-1
+P3  10:03
+Joel Kiviranta (COL) scores on backhand shot past Vitek Vanecek, assisted by Josh Manson and John Ludvig
+3-1
+P3  01:37
+Cale Makar (COL) scores on empty net, assisted by Nathan MacKinnon and Samuel Girard
+4-1
+Box Score:
+ 
+Back to Top
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  18:59   2  0    1   4   1   0   0   0   1/5Ivan Ivan C  10:47   0  0    1   1   0   0   0   2   3/3Parker Kelly C  13:48   0  0    0   0   1   0   0   0  4/14Joel Kiviranta L  11:23   1  0    2   1   0   0   0   2   2/3Nikolai Kovalenko R  15:22   0  0    0   0   1   0   0   1   0/0Nathan MacKinnon C  20:00   0  2    2   3   0   0   0   2  7/15Casey Mittelstadt C  16:48   0  0    0   1   1   0   0   0 15/22Logan O'Connor R  16:26   0  0    0   0   0   7   0   0   0/1Mikko Rantanen R  20:22   0  1    2   1   0   0   0   1   0/0Calum Ritchie C  10:49   0  0    0   0   0   0   0   1   0/0Matt Stienburg C  08:19   0  0    1   1   0   0   0   1   0/0Miles Wood L  12:12   0  0    0   1   2   2   0   0   0/0Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  22:32   0  1    2   1   2   0   0   3   0/0John Ludvig D  12:13   0  1    1   1   1   0   0   1   0/0Cale Makar D  25:41   1  2    2   2   1   0   0   2   0/0Sam Malinski D  16:38   0  0    0   2   1   0   0   0   0/0Josh Manson D  17:22   0  1    1   1   5   6   0   2   0/0Calvin de Haan D  22:01   0  0    0   2   2   2   0   1   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       22  18  17   0  19 32/63
+                                        50.8%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   1  25/26  18/18   7/8   0/0     0
+              .962  1.000  .875 
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  13:23   0  0   -2   1   0   0   0   1   2/6William Eklund L  18:59   1  0   -1   3   0   0   0   1   0/0Barclay Goodrow C  16:32   0  0    0   0   1   0   0   0   1/4Mikael Granlund C  21:14   0  1   -1   2   0   4   0   0  9/16Carl Grundstrom R  08:52   0  0   -2   1   0   0   0   2   0/0Danil Gushchin L  12:26   0  0    0   0   0   0   0   0   0/0Luke Kunin C  13:22   0  0    0   1   1   2   0   2   1/2Will Smith C  14:43   0  0   -1   1   0   0   0   0   3/7Nico Sturm C  10:47   0  0   -2   0   1   0   0   0   5/7Tyler Toffoli C  19:15   0  1   -1   2   0   0   0   0   0/2Alexander Wennberg C  20:12   0  0   -1   2   1   0   0   0 10/19Fabian Zetterlund L  17:05   0  0   -1   1   4   0   0   1   0/0Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  22:00   0  0   -1   4   3   0   0   0   0/0Mario Ferraro D  17:25   0  0   -1   2   2   0   0   2   0/0Jan Rutta D  14:41   0  0   -1   1   1   2   0   3   0/0Jack Thompson D  16:20   0  0    0   1   1   0   0   4   0/0Henry Thrun D  16:59   0  0    0   1   0   5   0   0   0/0Jake Walman D  21:46   0  0   -1   3   1   0   0   0   0/0Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  16  13   0  16 31/63
+                                        49.2%Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVitek Vanecek G  57:36   3  18/21  13/15   5/6   0/0     0
+              .857   .867  .833
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  18:59   2  0    1   4   1   0   0   0   1/5Ivan Ivan C  10:47   0  0    1   1   0   0   0   2   3/3Parker Kelly C  13:48   0  0    0   0   1   0   0   0  4/14Joel Kiviranta L  11:23   1  0    2   1   0   0   0   2   2/3Nikolai Kovalenko R  15:22   0  0    0   0   1   0   0   1   0/0Nathan MacKinnon C  20:00   0  2    2   3   0   0   0   2  7/15Casey Mittelstadt C  16:48   0  0    0   1   1   0   0   0 15/22Logan O'Connor R  16:26   0  0    0   0   0   7   0   0   0/1Mikko Rantanen R  20:22   0  1    2   1   0   0   0   1   0/0Calum Ritchie C  10:49   0  0    0   0   0   0   0   1   0/0Matt Stienburg C  08:19   0  0    1   1   0   0   0   1   0/0Miles Wood L  12:12   0  0    0   1   2   2   0   0   0/0
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+18:59   2  0    1   4   1   0   0   0   1/5
+Ivan Ivan C
+10:47   0  0    1   1   0   0   0   2   3/3
+Parker Kelly C
+13:48   0  0    0   0   1   0   0   0  4/14
+Joel Kiviranta L
+11:23   1  0    2   1   0   0   0   2   2/3
+Nikolai Kovalenko R
+15:22   0  0    0   0   1   0   0   1   0/0
+Nathan MacKinnon C
+20:00   0  2    2   3   0   0   0   2  7/15
+Casey Mittelstadt C
+16:48   0  0    0   1   1   0   0   0 15/22
+Logan O'Connor R
+16:26   0  0    0   0   0   7   0   0   0/1
+Mikko Rantanen R
+20:22   0  1    2   1   0   0   0   1   0/0
+Calum Ritchie C
+10:49   0  0    0   0   0   0   0   1   0/0
+Matt Stienburg C
+08:19   0  0    1   1   0   0   0   1   0/0
+Miles Wood L
+12:12   0  0    0   1   2   2   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  22:32   0  1    2   1   2   0   0   3   0/0John Ludvig D  12:13   0  1    1   1   1   0   0   1   0/0Cale Makar D  25:41   1  2    2   2   1   0   0   2   0/0Sam Malinski D  16:38   0  0    0   2   1   0   0   0   0/0Josh Manson D  17:22   0  1    1   1   5   6   0   2   0/0Calvin de Haan D  22:01   0  0    0   2   2   2   0   1   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+22:32   0  1    2   1   2   0   0   3   0/0
+John Ludvig D
+12:13   0  1    1   1   1   0   0   1   0/0
+Cale Makar D
+25:41   1  2    2   2   1   0   0   2   0/0
+Sam Malinski D
+16:38   0  0    0   2   1   0   0   0   0/0
+Josh Manson D
+17:22   0  1    1   1   5   6   0   2   0/0
+Calvin de Haan D
+22:01   0  0    0   2   2   2   0   1   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       22  18  17   0  19 32/63
+                                        50.8%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  60:00   1  25/26  18/18   7/8   0/0     0
+              .962  1.000  .875
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Justus Annunen G
+60:00   1  25/26  18/18   7/8   0/0     0
+              .962  1.000  .875
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOTy Dellandrea C  13:23   0  0   -2   1   0   0   0   1   2/6William Eklund L  18:59   1  0   -1   3   0   0   0   1   0/0Barclay Goodrow C  16:32   0  0    0   0   1   0   0   0   1/4Mikael Granlund C  21:14   0  1   -1   2   0   4   0   0  9/16Carl Grundstrom R  08:52   0  0   -2   1   0   0   0   2   0/0Danil Gushchin L  12:26   0  0    0   0   0   0   0   0   0/0Luke Kunin C  13:22   0  0    0   1   1   2   0   2   1/2Will Smith C  14:43   0  0   -1   1   0   0   0   0   3/7Nico Sturm C  10:47   0  0   -2   0   1   0   0   0   5/7Tyler Toffoli C  19:15   0  1   -1   2   0   0   0   0   0/2Alexander Wennberg C  20:12   0  0   -1   2   1   0   0   0 10/19Fabian Zetterlund L  17:05   0  0   -1   1   4   0   0   1   0/0
+Sharks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ty Dellandrea C
+13:23   0  0   -2   1   0   0   0   1   2/6
+William Eklund L
+18:59   1  0   -1   3   0   0   0   1   0/0
+Barclay Goodrow C
+16:32   0  0    0   0   1   0   0   0   1/4
+Mikael Granlund C
+21:14   0  1   -1   2   0   4   0   0  9/16
+Carl Grundstrom R
+08:52   0  0   -2   1   0   0   0   2   0/0
+Danil Gushchin L
+12:26   0  0    0   0   0   0   0   0   0/0
+Luke Kunin C
+13:22   0  0    0   1   1   2   0   2   1/2
+Will Smith C
+14:43   0  0   -1   1   0   0   0   0   3/7
+Nico Sturm C
+10:47   0  0   -2   0   1   0   0   0   5/7
+Tyler Toffoli C
+19:15   0  1   -1   2   0   0   0   0   0/2
+Alexander Wennberg C
+20:12   0  0   -1   2   1   0   0   0 10/19
+Fabian Zetterlund L
+17:05   0  0   -1   1   4   0   0   1   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOCody Ceci D  22:00   0  0   -1   4   3   0   0   0   0/0Mario Ferraro D  17:25   0  0   -1   2   2   0   0   2   0/0Jan Rutta D  14:41   0  0   -1   1   1   2   0   3   0/0Jack Thompson D  16:20   0  0    0   1   1   0   0   4   0/0Henry Thrun D  16:59   0  0    0   1   0   5   0   0   0/0Jake Walman D  21:46   0  0   -1   3   1   0   0   0   0/0
+Sharks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Cody Ceci D
+22:00   0  0   -1   4   3   0   0   0   0/0
+Mario Ferraro D
+17:25   0  0   -1   2   2   0   0   2   0/0
+Jan Rutta D
+14:41   0  0   -1   1   1   2   0   3   0/0
+Jack Thompson D
+16:20   0  0    0   1   1   0   0   4   0/0
+Henry Thrun D
+16:59   0  0    0   1   0   5   0   0   0/0
+Jake Walman D
+21:46   0  0   -1   3   1   0   0   0   0/0
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  16  13   0  16 31/63
+                                        49.2%
+Sharks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMVitek Vanecek G  57:36   3  18/21  13/15   5/6   0/0     0
+              .857   .867  .833
+Sharks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Vitek Vanecek G
+57:36   3  18/21  13/15   5/6   0/0     0
+              .857   .867  .833
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

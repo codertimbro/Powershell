@@ -1,0 +1,322 @@
+< Oct. 13 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Calgary
+Flames3-0-0Final4 - 1Edmonton
+Oilers0-3-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CGY   0  1  3    4  
+EDM   1  0  0    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:44 
+Jeff Skinner (EDM) scores on snap shot past Dan Vladar, assisted by Mattias Ekholm and Connor McDavid
+   0-1
+2nd Period: ShowHide
+P2  18:17 
+Zach Hyman (EDM) goalkeeper interference against Dan Vladar (2 minutes)
+   0-1
+P2  12:30 
+Rasmus Andersson (CGY) scores on snap shot past Stuart Skinner
+   1-1
+P2  03:25 
+Derek Ryan (EDM) tripping against Samuel Honzek (2 minutes)
+   1-1
+P2  00:22 
+Leon Draisaitl (EDM) slashing against Martin Pospisil (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  17:26 
+Andrei Kuzmenko (CGY) interference against Viktor Arvidsson (2 minutes)
+   1-1
+P3  12:54 
+Anthony Mantha (CGY) scores on backhand shot past Stuart Skinner, assisted by Martin Pospisil and Rasmus Andersson
+   2-1
+P3  10:33 
+Justin Kirkland (CGY) scores on backhand shot past Stuart Skinner, assisted by Kevin Bahl and Rasmus Andersson
+   3-1
+P3  00:24 
+Connor Zary (CGY) scores on empty net
+   4-1
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  20:31   0  0    1   1   1   0   1   0  7/18Blake Coleman C  18:51   0  0    1   4   1   0   1   2   0/0Matt Coronato R  10:28   0  0    2   0   0   0   0   0   0/0Samuel Honzek L  11:24   0  0    0   2   0   0   0   2   0/0Jonathan Huberdeau C  17:27   0  0    1   0   2   0   0   2   1/1Nazem Kadri C  17:40   0  0    0   4   2   0   0   1  9/16Justin Kirkland C  09:29   1  0    2   1   0   0   0   1   3/9Andrei Kuzmenko L  15:58   0  0    0   1   2   2   0   0   0/0Ryan Lomberg L  10:46   0  0    2   1   0   0   0   0   0/1Anthony Mantha R  15:38   1  0    0   2   1   0   1   2   0/0Martin Pospisil C  13:47   0  1    0   2   1   0   0   1   3/7Connor Zary C  20:14   1  0    0   2   2   0   0   1   0/0Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  24:58   1  2    4   2   3   0   1   2   0/0Kevin Bahl D  23:51   0  1    2   3   0   0   0   2   0/0Tyson Barrie D  14:38   0  0    0   0   0   0   0   3   0/0Daniil Miromanov D  16:09   0  0   -1   1   3   0   0   0   0/0Brayden Pachal D  15:30   0  0    0   2   1   0   0   2   0/0MacKenzie Weegar D  20:41   0  0    1   1   2   0   0   2   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          4  4       29  21   2   4  23 23/52
+                                        44.2%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:00   1  25/26  25/26   0/0   0/0     0
+              .962   .962 
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  14:36   0  0    0   1   1   0   0   2   0/1Connor Brown R  13:35   0  0   -1   0   0   0   1   1   0/0Leon Draisaitl C  20:36   0  0   -1   1   2   2   0   2 10/13Adam Henrique C  14:49   0  0   -1   1   1   0   0   1  8/16Zach Hyman L  19:02   0  0   -2   2   0   2   0   1   0/1Mattias Janmark C  10:11   0  0    0   0   0   0   0   0   1/1Connor McDavid C  20:27   0  1   -2   5   0   0   0   0  5/12Ryan Nugent-Hopkins C  18:32   0  0   -1   1   0   0   1   2   1/2Corey Perry R  10:28   0  0    0   0   0   0   1   0   0/0Vasily Podkolzin R  11:55   0  0   -1   0   0   0   0   0   0/0Derek Ryan C  07:14   0  0    0   0   1   2   0   0   4/6Jeff Skinner C  15:38   1  0   -1   6   0   0   1   0   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  24:17   0  0   -1   1   3   0   1   4   0/0Travis Dermott D  16:57   0  0   -2   0   1   0   1   3   0/0Mattias Ekholm D  25:57   0  1   -2   3   1   0   0   1   0/0Brett Kulak D  15:20   0  0    0   1   0   0   1   2   0/0Darnell Nurse D  21:39   0  0   -1   3   5   0   0   1   0/0Troy Stecher D  14:58   0  0    0   1   2   0   1   0   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  17   6   8  20 29/52
+                                        55.8%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  57:49   3  25/28  21/24   3/3   1/1     0
+              .893   .875 1.000 1.000
+Calgary
+Flames3-0-0Final4 - 1Edmonton
+Oilers0-3-0
+Calgary
+Flames3-0-0
+Final4 - 1
+Edmonton
+Oilers0-3-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CGY   0  1  3    4  
+EDM   1  0  0    1
+1st Period: ShowHide
+P1  18:44 
+Jeff Skinner (EDM) scores on snap shot past Dan Vladar, assisted by Mattias Ekholm and Connor McDavid
+   0-1
+2nd Period: ShowHide
+P2  18:17 
+Zach Hyman (EDM) goalkeeper interference against Dan Vladar (2 minutes)
+   0-1
+P2  12:30 
+Rasmus Andersson (CGY) scores on snap shot past Stuart Skinner
+   1-1
+P2  03:25 
+Derek Ryan (EDM) tripping against Samuel Honzek (2 minutes)
+   1-1
+P2  00:22 
+Leon Draisaitl (EDM) slashing against Martin Pospisil (2 minutes)
+   1-1
+3rd Period: ShowHide
+P3  17:26 
+Andrei Kuzmenko (CGY) interference against Viktor Arvidsson (2 minutes)
+   1-1
+P3  12:54 
+Anthony Mantha (CGY) scores on backhand shot past Stuart Skinner, assisted by Martin Pospisil and Rasmus Andersson
+   2-1
+P3  10:33 
+Justin Kirkland (CGY) scores on backhand shot past Stuart Skinner, assisted by Kevin Bahl and Rasmus Andersson
+   3-1
+P3  00:24 
+Connor Zary (CGY) scores on empty net
+   4-1
+1st Period: ShowHide
+P1  18:44 
+Jeff Skinner (EDM) scores on snap shot past Dan Vladar, assisted by Mattias Ekholm and Connor McDavid
+   0-1
+P1  18:44 
+Jeff Skinner (EDM) scores on snap shot past Dan Vladar, assisted by Mattias Ekholm and Connor McDavid
+   0-1
+P1  18:44
+Jeff Skinner (EDM) scores on snap shot past Dan Vladar, assisted by Mattias Ekholm and Connor McDavid
+0-1
+2nd Period: ShowHide
+P2  18:17 
+Zach Hyman (EDM) goalkeeper interference against Dan Vladar (2 minutes)
+   0-1
+P2  12:30 
+Rasmus Andersson (CGY) scores on snap shot past Stuart Skinner
+   1-1
+P2  03:25 
+Derek Ryan (EDM) tripping against Samuel Honzek (2 minutes)
+   1-1
+P2  00:22 
+Leon Draisaitl (EDM) slashing against Martin Pospisil (2 minutes)
+   1-1
+P2  18:17 
+Zach Hyman (EDM) goalkeeper interference against Dan Vladar (2 minutes)
+   0-1
+P2  12:30 
+Rasmus Andersson (CGY) scores on snap shot past Stuart Skinner
+   1-1
+P2  03:25 
+Derek Ryan (EDM) tripping against Samuel Honzek (2 minutes)
+   1-1
+P2  00:22 
+Leon Draisaitl (EDM) slashing against Martin Pospisil (2 minutes)
+   1-1
+P2  18:17
+Zach Hyman (EDM) goalkeeper interference against Dan Vladar (2 minutes)
+0-1
+P2  12:30
+Rasmus Andersson (CGY) scores on snap shot past Stuart Skinner
+1-1
+P2  03:25
+Derek Ryan (EDM) tripping against Samuel Honzek (2 minutes)
+1-1
+P2  00:22
+Leon Draisaitl (EDM) slashing against Martin Pospisil (2 minutes)
+1-1
+3rd Period: ShowHide
+P3  17:26 
+Andrei Kuzmenko (CGY) interference against Viktor Arvidsson (2 minutes)
+   1-1
+P3  12:54 
+Anthony Mantha (CGY) scores on backhand shot past Stuart Skinner, assisted by Martin Pospisil and Rasmus Andersson
+   2-1
+P3  10:33 
+Justin Kirkland (CGY) scores on backhand shot past Stuart Skinner, assisted by Kevin Bahl and Rasmus Andersson
+   3-1
+P3  00:24 
+Connor Zary (CGY) scores on empty net
+   4-1
+P3  17:26 
+Andrei Kuzmenko (CGY) interference against Viktor Arvidsson (2 minutes)
+   1-1
+P3  12:54 
+Anthony Mantha (CGY) scores on backhand shot past Stuart Skinner, assisted by Martin Pospisil and Rasmus Andersson
+   2-1
+P3  10:33 
+Justin Kirkland (CGY) scores on backhand shot past Stuart Skinner, assisted by Kevin Bahl and Rasmus Andersson
+   3-1
+P3  00:24 
+Connor Zary (CGY) scores on empty net
+   4-1
+P3  17:26
+Andrei Kuzmenko (CGY) interference against Viktor Arvidsson (2 minutes)
+1-1
+P3  12:54
+Anthony Mantha (CGY) scores on backhand shot past Stuart Skinner, assisted by Martin Pospisil and Rasmus Andersson
+2-1
+P3  10:33
+Justin Kirkland (CGY) scores on backhand shot past Stuart Skinner, assisted by Kevin Bahl and Rasmus Andersson
+3-1
+P3  00:24
+Connor Zary (CGY) scores on empty net
+4-1
+Box Score:
+ 
+Back to Top
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  20:31   0  0    1   1   1   0   1   0  7/18Blake Coleman C  18:51   0  0    1   4   1   0   1   2   0/0Matt Coronato R  10:28   0  0    2   0   0   0   0   0   0/0Samuel Honzek L  11:24   0  0    0   2   0   0   0   2   0/0Jonathan Huberdeau C  17:27   0  0    1   0   2   0   0   2   1/1Nazem Kadri C  17:40   0  0    0   4   2   0   0   1  9/16Justin Kirkland C  09:29   1  0    2   1   0   0   0   1   3/9Andrei Kuzmenko L  15:58   0  0    0   1   2   2   0   0   0/0Ryan Lomberg L  10:46   0  0    2   1   0   0   0   0   0/1Anthony Mantha R  15:38   1  0    0   2   1   0   1   2   0/0Martin Pospisil C  13:47   0  1    0   2   1   0   0   1   3/7Connor Zary C  20:14   1  0    0   2   2   0   0   1   0/0Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  24:58   1  2    4   2   3   0   1   2   0/0Kevin Bahl D  23:51   0  1    2   3   0   0   0   2   0/0Tyson Barrie D  14:38   0  0    0   0   0   0   0   3   0/0Daniil Miromanov D  16:09   0  0   -1   1   3   0   0   0   0/0Brayden Pachal D  15:30   0  0    0   2   1   0   0   2   0/0MacKenzie Weegar D  20:41   0  0    1   1   2   0   0   2   0/0Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          4  4       29  21   2   4  23 23/52
+                                        44.2%Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:00   1  25/26  25/26   0/0   0/0     0
+              .962   .962 
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  14:36   0  0    0   1   1   0   0   2   0/1Connor Brown R  13:35   0  0   -1   0   0   0   1   1   0/0Leon Draisaitl C  20:36   0  0   -1   1   2   2   0   2 10/13Adam Henrique C  14:49   0  0   -1   1   1   0   0   1  8/16Zach Hyman L  19:02   0  0   -2   2   0   2   0   1   0/1Mattias Janmark C  10:11   0  0    0   0   0   0   0   0   1/1Connor McDavid C  20:27   0  1   -2   5   0   0   0   0  5/12Ryan Nugent-Hopkins C  18:32   0  0   -1   1   0   0   1   2   1/2Corey Perry R  10:28   0  0    0   0   0   0   1   0   0/0Vasily Podkolzin R  11:55   0  0   -1   0   0   0   0   0   0/0Derek Ryan C  07:14   0  0    0   0   1   2   0   0   4/6Jeff Skinner C  15:38   1  0   -1   6   0   0   1   0   0/0Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  24:17   0  0   -1   1   3   0   1   4   0/0Travis Dermott D  16:57   0  0   -2   0   1   0   1   3   0/0Mattias Ekholm D  25:57   0  1   -2   3   1   0   0   1   0/0Brett Kulak D  15:20   0  0    0   1   0   0   1   2   0/0Darnell Nurse D  21:39   0  0   -1   3   5   0   0   1   0/0Troy Stecher D  14:58   0  0    0   1   2   0   1   0   0/0Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  17   6   8  20 29/52
+                                        55.8%Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  57:49   3  25/28  21/24   3/3   1/1     0
+              .893   .875 1.000 1.000
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikael Backlund C  20:31   0  0    1   1   1   0   1   0  7/18Blake Coleman C  18:51   0  0    1   4   1   0   1   2   0/0Matt Coronato R  10:28   0  0    2   0   0   0   0   0   0/0Samuel Honzek L  11:24   0  0    0   2   0   0   0   2   0/0Jonathan Huberdeau C  17:27   0  0    1   0   2   0   0   2   1/1Nazem Kadri C  17:40   0  0    0   4   2   0   0   1  9/16Justin Kirkland C  09:29   1  0    2   1   0   0   0   1   3/9Andrei Kuzmenko L  15:58   0  0    0   1   2   2   0   0   0/0Ryan Lomberg L  10:46   0  0    2   1   0   0   0   0   0/1Anthony Mantha R  15:38   1  0    0   2   1   0   1   2   0/0Martin Pospisil C  13:47   0  1    0   2   1   0   0   1   3/7Connor Zary C  20:14   1  0    0   2   2   0   0   1   0/0
+Flames Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikael Backlund C
+20:31   0  0    1   1   1   0   1   0  7/18
+Blake Coleman C
+18:51   0  0    1   4   1   0   1   2   0/0
+Matt Coronato R
+10:28   0  0    2   0   0   0   0   0   0/0
+Samuel Honzek L
+11:24   0  0    0   2   0   0   0   2   0/0
+Jonathan Huberdeau C
+17:27   0  0    1   0   2   0   0   2   1/1
+Nazem Kadri C
+17:40   0  0    0   4   2   0   0   1  9/16
+Justin Kirkland C
+09:29   1  0    2   1   0   0   0   1   3/9
+Andrei Kuzmenko L
+15:58   0  0    0   1   2   2   0   0   0/0
+Ryan Lomberg L
+10:46   0  0    2   1   0   0   0   0   0/1
+Anthony Mantha R
+15:38   1  0    0   2   1   0   1   2   0/0
+Martin Pospisil C
+13:47   0  1    0   2   1   0   0   1   3/7
+Connor Zary C
+20:14   1  0    0   2   2   0   0   1   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORasmus Andersson D  24:58   1  2    4   2   3   0   1   2   0/0Kevin Bahl D  23:51   0  1    2   3   0   0   0   2   0/0Tyson Barrie D  14:38   0  0    0   0   0   0   0   3   0/0Daniil Miromanov D  16:09   0  0   -1   1   3   0   0   0   0/0Brayden Pachal D  15:30   0  0    0   2   1   0   0   2   0/0MacKenzie Weegar D  20:41   0  0    1   1   2   0   0   2   0/0
+Flames Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Rasmus Andersson D
+24:58   1  2    4   2   3   0   1   2   0/0
+Kevin Bahl D
+23:51   0  1    2   3   0   0   0   2   0/0
+Tyson Barrie D
+14:38   0  0    0   0   0   0   0   3   0/0
+Daniil Miromanov D
+16:09   0  0   -1   1   3   0   0   0   0/0
+Brayden Pachal D
+15:30   0  0    0   2   1   0   0   2   0/0
+MacKenzie Weegar D
+20:41   0  0    1   1   2   0   0   2   0/0
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO          4  4       29  21   2   4  23 23/52
+                                        44.2%
+Flames Totals:
+          G  A        S   B  PM  TK  GV    FO
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDan Vladar G  60:00   1  25/26  25/26   0/0   0/0     0
+              .962   .962
+Flames Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Dan Vladar G
+60:00   1  25/26  25/26   0/0   0/0     0
+              .962   .962
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOViktor Arvidsson L  14:36   0  0    0   1   1   0   0   2   0/1Connor Brown R  13:35   0  0   -1   0   0   0   1   1   0/0Leon Draisaitl C  20:36   0  0   -1   1   2   2   0   2 10/13Adam Henrique C  14:49   0  0   -1   1   1   0   0   1  8/16Zach Hyman L  19:02   0  0   -2   2   0   2   0   1   0/1Mattias Janmark C  10:11   0  0    0   0   0   0   0   0   1/1Connor McDavid C  20:27   0  1   -2   5   0   0   0   0  5/12Ryan Nugent-Hopkins C  18:32   0  0   -1   1   0   0   1   2   1/2Corey Perry R  10:28   0  0    0   0   0   0   1   0   0/0Vasily Podkolzin R  11:55   0  0   -1   0   0   0   0   0   0/0Derek Ryan C  07:14   0  0    0   0   1   2   0   0   4/6Jeff Skinner C  15:38   1  0   -1   6   0   0   1   0   0/0
+Oilers Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Viktor Arvidsson L
+14:36   0  0    0   1   1   0   0   2   0/1
+Connor Brown R
+13:35   0  0   -1   0   0   0   1   1   0/0
+Leon Draisaitl C
+20:36   0  0   -1   1   2   2   0   2 10/13
+Adam Henrique C
+14:49   0  0   -1   1   1   0   0   1  8/16
+Zach Hyman L
+19:02   0  0   -2   2   0   2   0   1   0/1
+Mattias Janmark C
+10:11   0  0    0   0   0   0   0   0   1/1
+Connor McDavid C
+20:27   0  1   -2   5   0   0   0   0  5/12
+Ryan Nugent-Hopkins C
+18:32   0  0   -1   1   0   0   1   2   1/2
+Corey Perry R
+10:28   0  0    0   0   0   0   1   0   0/0
+Vasily Podkolzin R
+11:55   0  0   -1   0   0   0   0   0   0/0
+Derek Ryan C
+07:14   0  0    0   0   1   2   0   0   4/6
+Jeff Skinner C
+15:38   1  0   -1   6   0   0   1   0   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOEvan Bouchard D  24:17   0  0   -1   1   3   0   1   4   0/0Travis Dermott D  16:57   0  0   -2   0   1   0   1   3   0/0Mattias Ekholm D  25:57   0  1   -2   3   1   0   0   1   0/0Brett Kulak D  15:20   0  0    0   1   0   0   1   2   0/0Darnell Nurse D  21:39   0  0   -1   3   5   0   0   1   0/0Troy Stecher D  14:58   0  0    0   1   2   0   1   0   0/0
+Oilers Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Evan Bouchard D
+24:17   0  0   -1   1   3   0   1   4   0/0
+Travis Dermott D
+16:57   0  0   -2   0   1   0   1   3   0/0
+Mattias Ekholm D
+25:57   0  1   -2   3   1   0   0   1   0/0
+Brett Kulak D
+15:20   0  0    0   1   0   0   1   2   0/0
+Darnell Nurse D
+21:39   0  0   -1   3   5   0   0   1   0/0
+Troy Stecher D
+14:58   0  0    0   1   2   0   1   0   0/0
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       26  17   6   8  20 29/52
+                                        55.8%
+Oilers Totals:
+          G  A        S   B  PM  TK  GV    FO
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMStuart Skinner G  57:49   3  25/28  21/24   3/3   1/1     0
+              .893   .875 1.000 1.000
+Oilers Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Stuart Skinner G
+57:49   3  25/28  21/24   3/3   1/1     0
+              .893   .875 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

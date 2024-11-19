@@ -1,0 +1,412 @@
+< Oct. 17 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Buffalo
+Sabres1-4-1Final4 - 6Columbus
+Blue Jackets2-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+BUF   0  3  1    4  
+CBJ   2  2  2    6
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  15:34 
+Connor Clifton (BUF) interference against Cole Sillinger (2 minutes)
+   0-0
+P1  14:48 
+Yegor Chinakhov (CBJ) scores power-play goal on wrist shot past Devon Levi, assisted by Zach Werenski and Kent Johnson
+   0-1
+P1  12:51 
+Dylan Cozens (BUF) high-sticking against Adam Fantilli (2 minutes)
+   0-1
+P1  03:02 
+Mathieu Olivier (CBJ) tripping against Jiri Kulich (2 minutes)
+   0-1
+P1  00:32 
+Kirill Marchenko (CBJ) scores on snap shot past Devon Levi
+   0-2
+2nd Period: ShowHide
+P2  19:08 
+Alex Tuch (BUF) hooking against James van Riemsdyk (2 minutes)
+   0-2
+P2  14:32 
+Ivan Provorov (CBJ) roughing against Beck Malenstyn (2 minutes)
+   0-2
+P2  10:26 
+Ryan McLeod (BUF) scores on wrist shot past Daniil Tarasov, assisted by Jason Zucker and Jordan Greenway
+   1-2
+P2  07:42 
+Adam Fantilli (CBJ) scores on wrist shot past Devon Levi, assisted by Zach Werenski and Ivan Provorov
+   1-3
+P2  02:31 
+Jiri Kulich (BUF) scores on tip-in past Daniil Tarasov, assisted by Dylan Cozens and Henri Jokiharju
+   2-3
+P2  02:02 
+Mathieu Olivier (CBJ) scores on wrist shot past Devon Levi, assisted by Cole Sillinger and Jake Christiansen
+   2-4
+P2  00:25 
+Owen Power (BUF) scores on snap shot past Daniil Tarasov
+   3-4
+3rd Period: ShowHide
+P3  19:45 
+Zachary Aston-Reese (CBJ) scores on tip-in past Devon Levi, assisted by Jake Christiansen and Mathieu Olivier
+   3-5
+P3  11:50 
+Damon Severson (CBJ) scores on snap shot past Devon Levi, assisted by Kirill Marchenko
+   3-6
+P3  02:09 
+JJ Peterka (BUF) scores goal with extra attacker on slap shot past Daniil Tarasov, assisted by Tage Thompson and Rasmus Dahlin
+   4-6
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  14:37   0  0    0   1   1   0   0   1   0/0Dylan Cozens C  16:47   0  1    2   3   0   2   0   0 11/16Jordan Greenway L  14:46   0  1   -1   0   0   0   0   1   0/0Peyton Krebs C  09:57   0  0   -1   0   0   0   0   0   5/7Jiri Kulich C  14:45   1  0    1   5   0   0   0   0   0/0Sam Lafferty C  09:37   0  0   -1   0   0   0   0   0   0/1Beck Malenstyn L  08:59   0  0   -1   1   0   0   0   0   0/0Ryan McLeod C  16:54   1  0    1   2   0   0   0   1  6/16JJ Peterka R  20:51   1  0    0   3   0   0   0   3   0/0Tage Thompson C  20:42   0  1    0   2   1   0   2   2  5/13Alex Tuch R  17:42   0  0   -2   0   3   2   0   0   1/2Jason Zucker L  16:43   0  1    1   1   1   0   0   2   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  21:24   0  0   -1   0   0   0   1   0   0/0Connor Clifton D  11:33   0  0    0   1   0   2   0   0   0/0Rasmus Dahlin D  26:51   0  1    0   1   0   0   2   1   0/0Henri Jokiharju D  20:11   0  1    1   1   2   0   0   1   0/0Owen Power D  21:39   1  0   -2   2   1   0   1   1   0/0Mattias Samuelsson D  13:56   0  0   -1   1   0   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       24   9   6   6  13 28/55
+                                        50.9%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  57:20   6  19/25  16/21   3/4   0/0     0
+              .760   .762  .750 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  10:55   1  0    1   2   1   0   0   0   0/0Yegor Chinakhov R  19:48   1  0    1   2   1   0   0   0   0/0Justin Danforth R  16:38   0  0   -1   2   1   0   0   0   1/1Adam Fantilli C  17:49   1  0    1   4   0   0   0   0  8/13Kent Johnson C  06:26   0  1    0   0   0   0   0   1   0/0Sean Kuraly C  10:42   0  0    1   0   0   0   0   0   3/5Kirill Marchenko R  19:58   1  1    0   3   0   0   1   2   0/0Sean Monahan C  22:29   0  0   -1   1   0   0   0   2 10/23Mathieu Olivier R  14:34   1  1    2   1   0   2   1   2   0/0Mikael Pyyhtia L  13:24   0  0    1   0   2   0   0   0   0/0Cole Sillinger C  16:05   0  1    0   1   2   0   0   1  5/13James van Riemsdyk L  09:15   0  0   -2   0   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:26   0  2    2   1   1   0   0   0   0/0Jordan Harris D  16:29   0  0   -1   0   3   0   1   2   0/0Jack Johnson D  16:59   0  0    0   0   1   0   0   0   0/0Ivan Provorov D  23:30   0  1   -2   4   2   2   1   1   0/0Damon Severson D  21:39   1  0    4   1   2   0   1   1   0/0Zach Werenski D  24:03   0  2   -1   3   2   0   2   2   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       25  18   4   7  14 27/55
+                                        49.1%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  59:51   4  20/24  15/19   5/5   0/0     0
+              .833   .789 1.000
+Buffalo
+Sabres1-4-1Final4 - 6Columbus
+Blue Jackets2-2-0
+Buffalo
+Sabres1-4-1
+Final4 - 6
+Columbus
+Blue Jackets2-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+BUF   0  3  1    4  
+CBJ   2  2  2    6
+1st Period: ShowHide
+P1  15:34 
+Connor Clifton (BUF) interference against Cole Sillinger (2 minutes)
+   0-0
+P1  14:48 
+Yegor Chinakhov (CBJ) scores power-play goal on wrist shot past Devon Levi, assisted by Zach Werenski and Kent Johnson
+   0-1
+P1  12:51 
+Dylan Cozens (BUF) high-sticking against Adam Fantilli (2 minutes)
+   0-1
+P1  03:02 
+Mathieu Olivier (CBJ) tripping against Jiri Kulich (2 minutes)
+   0-1
+P1  00:32 
+Kirill Marchenko (CBJ) scores on snap shot past Devon Levi
+   0-2
+2nd Period: ShowHide
+P2  19:08 
+Alex Tuch (BUF) hooking against James van Riemsdyk (2 minutes)
+   0-2
+P2  14:32 
+Ivan Provorov (CBJ) roughing against Beck Malenstyn (2 minutes)
+   0-2
+P2  10:26 
+Ryan McLeod (BUF) scores on wrist shot past Daniil Tarasov, assisted by Jason Zucker and Jordan Greenway
+   1-2
+P2  07:42 
+Adam Fantilli (CBJ) scores on wrist shot past Devon Levi, assisted by Zach Werenski and Ivan Provorov
+   1-3
+P2  02:31 
+Jiri Kulich (BUF) scores on tip-in past Daniil Tarasov, assisted by Dylan Cozens and Henri Jokiharju
+   2-3
+P2  02:02 
+Mathieu Olivier (CBJ) scores on wrist shot past Devon Levi, assisted by Cole Sillinger and Jake Christiansen
+   2-4
+P2  00:25 
+Owen Power (BUF) scores on snap shot past Daniil Tarasov
+   3-4
+3rd Period: ShowHide
+P3  19:45 
+Zachary Aston-Reese (CBJ) scores on tip-in past Devon Levi, assisted by Jake Christiansen and Mathieu Olivier
+   3-5
+P3  11:50 
+Damon Severson (CBJ) scores on snap shot past Devon Levi, assisted by Kirill Marchenko
+   3-6
+P3  02:09 
+JJ Peterka (BUF) scores goal with extra attacker on slap shot past Daniil Tarasov, assisted by Tage Thompson and Rasmus Dahlin
+   4-6
+1st Period: ShowHide
+P1  15:34 
+Connor Clifton (BUF) interference against Cole Sillinger (2 minutes)
+   0-0
+P1  14:48 
+Yegor Chinakhov (CBJ) scores power-play goal on wrist shot past Devon Levi, assisted by Zach Werenski and Kent Johnson
+   0-1
+P1  12:51 
+Dylan Cozens (BUF) high-sticking against Adam Fantilli (2 minutes)
+   0-1
+P1  03:02 
+Mathieu Olivier (CBJ) tripping against Jiri Kulich (2 minutes)
+   0-1
+P1  00:32 
+Kirill Marchenko (CBJ) scores on snap shot past Devon Levi
+   0-2
+P1  15:34 
+Connor Clifton (BUF) interference against Cole Sillinger (2 minutes)
+   0-0
+P1  14:48 
+Yegor Chinakhov (CBJ) scores power-play goal on wrist shot past Devon Levi, assisted by Zach Werenski and Kent Johnson
+   0-1
+P1  12:51 
+Dylan Cozens (BUF) high-sticking against Adam Fantilli (2 minutes)
+   0-1
+P1  03:02 
+Mathieu Olivier (CBJ) tripping against Jiri Kulich (2 minutes)
+   0-1
+P1  00:32 
+Kirill Marchenko (CBJ) scores on snap shot past Devon Levi
+   0-2
+P1  15:34
+Connor Clifton (BUF) interference against Cole Sillinger (2 minutes)
+0-0
+P1  14:48
+Yegor Chinakhov (CBJ) scores power-play goal on wrist shot past Devon Levi, assisted by Zach Werenski and Kent Johnson
+0-1
+P1  12:51
+Dylan Cozens (BUF) high-sticking against Adam Fantilli (2 minutes)
+0-1
+P1  03:02
+Mathieu Olivier (CBJ) tripping against Jiri Kulich (2 minutes)
+0-1
+P1  00:32
+Kirill Marchenko (CBJ) scores on snap shot past Devon Levi
+0-2
+2nd Period: ShowHide
+P2  19:08 
+Alex Tuch (BUF) hooking against James van Riemsdyk (2 minutes)
+   0-2
+P2  14:32 
+Ivan Provorov (CBJ) roughing against Beck Malenstyn (2 minutes)
+   0-2
+P2  10:26 
+Ryan McLeod (BUF) scores on wrist shot past Daniil Tarasov, assisted by Jason Zucker and Jordan Greenway
+   1-2
+P2  07:42 
+Adam Fantilli (CBJ) scores on wrist shot past Devon Levi, assisted by Zach Werenski and Ivan Provorov
+   1-3
+P2  02:31 
+Jiri Kulich (BUF) scores on tip-in past Daniil Tarasov, assisted by Dylan Cozens and Henri Jokiharju
+   2-3
+P2  02:02 
+Mathieu Olivier (CBJ) scores on wrist shot past Devon Levi, assisted by Cole Sillinger and Jake Christiansen
+   2-4
+P2  00:25 
+Owen Power (BUF) scores on snap shot past Daniil Tarasov
+   3-4
+P2  19:08 
+Alex Tuch (BUF) hooking against James van Riemsdyk (2 minutes)
+   0-2
+P2  14:32 
+Ivan Provorov (CBJ) roughing against Beck Malenstyn (2 minutes)
+   0-2
+P2  10:26 
+Ryan McLeod (BUF) scores on wrist shot past Daniil Tarasov, assisted by Jason Zucker and Jordan Greenway
+   1-2
+P2  07:42 
+Adam Fantilli (CBJ) scores on wrist shot past Devon Levi, assisted by Zach Werenski and Ivan Provorov
+   1-3
+P2  02:31 
+Jiri Kulich (BUF) scores on tip-in past Daniil Tarasov, assisted by Dylan Cozens and Henri Jokiharju
+   2-3
+P2  02:02 
+Mathieu Olivier (CBJ) scores on wrist shot past Devon Levi, assisted by Cole Sillinger and Jake Christiansen
+   2-4
+P2  00:25 
+Owen Power (BUF) scores on snap shot past Daniil Tarasov
+   3-4
+P2  19:08
+Alex Tuch (BUF) hooking against James van Riemsdyk (2 minutes)
+0-2
+P2  14:32
+Ivan Provorov (CBJ) roughing against Beck Malenstyn (2 minutes)
+0-2
+P2  10:26
+Ryan McLeod (BUF) scores on wrist shot past Daniil Tarasov, assisted by Jason Zucker and Jordan Greenway
+1-2
+P2  07:42
+Adam Fantilli (CBJ) scores on wrist shot past Devon Levi, assisted by Zach Werenski and Ivan Provorov
+1-3
+P2  02:31
+Jiri Kulich (BUF) scores on tip-in past Daniil Tarasov, assisted by Dylan Cozens and Henri Jokiharju
+2-3
+P2  02:02
+Mathieu Olivier (CBJ) scores on wrist shot past Devon Levi, assisted by Cole Sillinger and Jake Christiansen
+2-4
+P2  00:25
+Owen Power (BUF) scores on snap shot past Daniil Tarasov
+3-4
+3rd Period: ShowHide
+P3  19:45 
+Zachary Aston-Reese (CBJ) scores on tip-in past Devon Levi, assisted by Jake Christiansen and Mathieu Olivier
+   3-5
+P3  11:50 
+Damon Severson (CBJ) scores on snap shot past Devon Levi, assisted by Kirill Marchenko
+   3-6
+P3  02:09 
+JJ Peterka (BUF) scores goal with extra attacker on slap shot past Daniil Tarasov, assisted by Tage Thompson and Rasmus Dahlin
+   4-6
+P3  19:45 
+Zachary Aston-Reese (CBJ) scores on tip-in past Devon Levi, assisted by Jake Christiansen and Mathieu Olivier
+   3-5
+P3  11:50 
+Damon Severson (CBJ) scores on snap shot past Devon Levi, assisted by Kirill Marchenko
+   3-6
+P3  02:09 
+JJ Peterka (BUF) scores goal with extra attacker on slap shot past Daniil Tarasov, assisted by Tage Thompson and Rasmus Dahlin
+   4-6
+P3  19:45
+Zachary Aston-Reese (CBJ) scores on tip-in past Devon Levi, assisted by Jake Christiansen and Mathieu Olivier
+3-5
+P3  11:50
+Damon Severson (CBJ) scores on snap shot past Devon Levi, assisted by Kirill Marchenko
+3-6
+P3  02:09
+JJ Peterka (BUF) scores goal with extra attacker on slap shot past Daniil Tarasov, assisted by Tage Thompson and Rasmus Dahlin
+4-6
+Box Score:
+ 
+Back to Top
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  14:37   0  0    0   1   1   0   0   1   0/0Dylan Cozens C  16:47   0  1    2   3   0   2   0   0 11/16Jordan Greenway L  14:46   0  1   -1   0   0   0   0   1   0/0Peyton Krebs C  09:57   0  0   -1   0   0   0   0   0   5/7Jiri Kulich C  14:45   1  0    1   5   0   0   0   0   0/0Sam Lafferty C  09:37   0  0   -1   0   0   0   0   0   0/1Beck Malenstyn L  08:59   0  0   -1   1   0   0   0   0   0/0Ryan McLeod C  16:54   1  0    1   2   0   0   0   1  6/16JJ Peterka R  20:51   1  0    0   3   0   0   0   3   0/0Tage Thompson C  20:42   0  1    0   2   1   0   2   2  5/13Alex Tuch R  17:42   0  0   -2   0   3   2   0   0   1/2Jason Zucker L  16:43   0  1    1   1   1   0   0   2   0/0Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  21:24   0  0   -1   0   0   0   1   0   0/0Connor Clifton D  11:33   0  0    0   1   0   2   0   0   0/0Rasmus Dahlin D  26:51   0  1    0   1   0   0   2   1   0/0Henri Jokiharju D  20:11   0  1    1   1   2   0   0   1   0/0Owen Power D  21:39   1  0   -2   2   1   0   1   1   0/0Mattias Samuelsson D  13:56   0  0   -1   1   0   0   0   0   0/0Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       24   9   6   6  13 28/55
+                                        50.9%Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  57:20   6  19/25  16/21   3/4   0/0     0
+              .760   .762  .750 
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  10:55   1  0    1   2   1   0   0   0   0/0Yegor Chinakhov R  19:48   1  0    1   2   1   0   0   0   0/0Justin Danforth R  16:38   0  0   -1   2   1   0   0   0   1/1Adam Fantilli C  17:49   1  0    1   4   0   0   0   0  8/13Kent Johnson C  06:26   0  1    0   0   0   0   0   1   0/0Sean Kuraly C  10:42   0  0    1   0   0   0   0   0   3/5Kirill Marchenko R  19:58   1  1    0   3   0   0   1   2   0/0Sean Monahan C  22:29   0  0   -1   1   0   0   0   2 10/23Mathieu Olivier R  14:34   1  1    2   1   0   2   1   2   0/0Mikael Pyyhtia L  13:24   0  0    1   0   2   0   0   0   0/0Cole Sillinger C  16:05   0  1    0   1   2   0   0   1  5/13James van Riemsdyk L  09:15   0  0   -2   0   0   0   0   0   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:26   0  2    2   1   1   0   0   0   0/0Jordan Harris D  16:29   0  0   -1   0   3   0   1   2   0/0Jack Johnson D  16:59   0  0    0   0   1   0   0   0   0/0Ivan Provorov D  23:30   0  1   -2   4   2   2   1   1   0/0Damon Severson D  21:39   1  0    4   1   2   0   1   1   0/0Zach Werenski D  24:03   0  2   -1   3   2   0   2   2   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       25  18   4   7  14 27/55
+                                        49.1%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  59:51   4  20/24  15/19   5/5   0/0     0
+              .833   .789 1.000
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Benson L  14:37   0  0    0   1   1   0   0   1   0/0Dylan Cozens C  16:47   0  1    2   3   0   2   0   0 11/16Jordan Greenway L  14:46   0  1   -1   0   0   0   0   1   0/0Peyton Krebs C  09:57   0  0   -1   0   0   0   0   0   5/7Jiri Kulich C  14:45   1  0    1   5   0   0   0   0   0/0Sam Lafferty C  09:37   0  0   -1   0   0   0   0   0   0/1Beck Malenstyn L  08:59   0  0   -1   1   0   0   0   0   0/0Ryan McLeod C  16:54   1  0    1   2   0   0   0   1  6/16JJ Peterka R  20:51   1  0    0   3   0   0   0   3   0/0Tage Thompson C  20:42   0  1    0   2   1   0   2   2  5/13Alex Tuch R  17:42   0  0   -2   0   3   2   0   0   1/2Jason Zucker L  16:43   0  1    1   1   1   0   0   2   0/0
+Sabres Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Benson L
+14:37   0  0    0   1   1   0   0   1   0/0
+Dylan Cozens C
+16:47   0  1    2   3   0   2   0   0 11/16
+Jordan Greenway L
+14:46   0  1   -1   0   0   0   0   1   0/0
+Peyton Krebs C
+09:57   0  0   -1   0   0   0   0   0   5/7
+Jiri Kulich C
+14:45   1  0    1   5   0   0   0   0   0/0
+Sam Lafferty C
+09:37   0  0   -1   0   0   0   0   0   0/1
+Beck Malenstyn L
+08:59   0  0   -1   1   0   0   0   0   0/0
+Ryan McLeod C
+16:54   1  0    1   2   0   0   0   1  6/16
+JJ Peterka R
+20:51   1  0    0   3   0   0   0   3   0/0
+Tage Thompson C
+20:42   0  1    0   2   1   0   2   2  5/13
+Alex Tuch R
+17:42   0  0   -2   0   3   2   0   0   1/2
+Jason Zucker L
+16:43   0  1    1   1   1   0   0   2   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBowen Byram D  21:24   0  0   -1   0   0   0   1   0   0/0Connor Clifton D  11:33   0  0    0   1   0   2   0   0   0/0Rasmus Dahlin D  26:51   0  1    0   1   0   0   2   1   0/0Henri Jokiharju D  20:11   0  1    1   1   2   0   0   1   0/0Owen Power D  21:39   1  0   -2   2   1   0   1   1   0/0Mattias Samuelsson D  13:56   0  0   -1   1   0   0   0   0   0/0
+Sabres Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Bowen Byram D
+21:24   0  0   -1   0   0   0   1   0   0/0
+Connor Clifton D
+11:33   0  0    0   1   0   2   0   0   0/0
+Rasmus Dahlin D
+26:51   0  1    0   1   0   0   2   1   0/0
+Henri Jokiharju D
+20:11   0  1    1   1   2   0   0   1   0/0
+Owen Power D
+21:39   1  0   -2   2   1   0   1   1   0/0
+Mattias Samuelsson D
+13:56   0  0   -1   1   0   0   0   0   0/0
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO          4  6       24   9   6   6  13 28/55
+                                        50.9%
+Sabres Totals:
+          G  A        S   B  PM  TK  GV    FO
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDevon Levi G  57:20   6  19/25  16/21   3/4   0/0     0
+              .760   .762  .750
+Sabres Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Devon Levi G
+57:20   6  19/25  16/21   3/4   0/0     0
+              .760   .762  .750
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZachary Aston-Reese C  10:55   1  0    1   2   1   0   0   0   0/0Yegor Chinakhov R  19:48   1  0    1   2   1   0   0   0   0/0Justin Danforth R  16:38   0  0   -1   2   1   0   0   0   1/1Adam Fantilli C  17:49   1  0    1   4   0   0   0   0  8/13Kent Johnson C  06:26   0  1    0   0   0   0   0   1   0/0Sean Kuraly C  10:42   0  0    1   0   0   0   0   0   3/5Kirill Marchenko R  19:58   1  1    0   3   0   0   1   2   0/0Sean Monahan C  22:29   0  0   -1   1   0   0   0   2 10/23Mathieu Olivier R  14:34   1  1    2   1   0   2   1   2   0/0Mikael Pyyhtia L  13:24   0  0    1   0   2   0   0   0   0/0Cole Sillinger C  16:05   0  1    0   1   2   0   0   1  5/13James van Riemsdyk L  09:15   0  0   -2   0   0   0   0   0   0/0
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zachary Aston-Reese C
+10:55   1  0    1   2   1   0   0   0   0/0
+Yegor Chinakhov R
+19:48   1  0    1   2   1   0   0   0   0/0
+Justin Danforth R
+16:38   0  0   -1   2   1   0   0   0   1/1
+Adam Fantilli C
+17:49   1  0    1   4   0   0   0   0  8/13
+Kent Johnson C
+06:26   0  1    0   0   0   0   0   1   0/0
+Sean Kuraly C
+10:42   0  0    1   0   0   0   0   0   3/5
+Kirill Marchenko R
+19:58   1  1    0   3   0   0   1   2   0/0
+Sean Monahan C
+22:29   0  0   -1   1   0   0   0   2 10/23
+Mathieu Olivier R
+14:34   1  1    2   1   0   2   1   2   0/0
+Mikael Pyyhtia L
+13:24   0  0    1   0   2   0   0   0   0/0
+Cole Sillinger C
+16:05   0  1    0   1   2   0   0   1  5/13
+James van Riemsdyk L
+09:15   0  0   -2   0   0   0   0   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  15:26   0  2    2   1   1   0   0   0   0/0Jordan Harris D  16:29   0  0   -1   0   3   0   1   2   0/0Jack Johnson D  16:59   0  0    0   0   1   0   0   0   0/0Ivan Provorov D  23:30   0  1   -2   4   2   2   1   1   0/0Damon Severson D  21:39   1  0    4   1   2   0   1   1   0/0Zach Werenski D  24:03   0  2   -1   3   2   0   2   2   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+15:26   0  2    2   1   1   0   0   0   0/0
+Jordan Harris D
+16:29   0  0   -1   0   3   0   1   2   0/0
+Jack Johnson D
+16:59   0  0    0   0   1   0   0   0   0/0
+Ivan Provorov D
+23:30   0  1   -2   4   2   2   1   1   0/0
+Damon Severson D
+21:39   1  0    4   1   2   0   1   1   0/0
+Zach Werenski D
+24:03   0  2   -1   3   2   0   2   2   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       25  18   4   7  14 27/55
+                                        49.1%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  59:51   4  20/24  15/19   5/5   0/0     0
+              .833   .789 1.000
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Daniil Tarasov G
+59:51   4  20/24  15/19   5/5   0/0     0
+              .833   .789 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

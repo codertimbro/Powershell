@@ -1,0 +1,397 @@
+< Oct. 19 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Detroit
+Red Wings2-3-0Final5 - 2Nashville
+Predators0-5-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+DET   1  1  3    5  
+NSH   1  0  1    2
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  11:12 
+Luke Schenn (NSH) scores on snap shot past Alex Lyon, assisted by Ryan O'Reilly and Gustav Nyquist
+   0-1
+P1  06:34 
+Vladimir Tarasenko (DET) scores on wrist shot past Juuse Saros, assisted by Jonatan Berggren and Marco Kasper
+   1-1
+2nd Period: ShowHide
+P2  18:02 
+Marc Del Gaizo (NSH) hooking against Patrick Kane (2 minutes)
+   1-1
+P2  16:43 
+Dylan Larkin (DET) scores power-play goal on snap shot past Juuse Saros, assisted by Alex DeBrincat and Patrick Kane
+   2-1
+P2  15:50 
+Luke Schenn (NSH) holding against Christian Fischer (2 minutes)
+   2-1
+P2  06:35 
+Filip Forsberg (NSH) roughing against Lucas Raymond (2 minutes)
+   2-1
+P2  06:35 
+Lucas Raymond (DET) roughing against Filip Forsberg (2 minutes)
+   2-1
+P2  03:08 
+Cole Smith (NSH) interference against Moritz Seider (2 minutes)
+   2-1
+P2  01:30 
+Moritz Seider (DET) holding against Gustav Nyquist (2 minutes)
+   2-1
+P2  01:04 
+Ben Chiarot (DET) tripping against Gustav Nyquist (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  19:28 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Alex Lyon, assisted by Filip Forsberg and Jonathan Marchessault
+   2-2
+P3  16:31 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Joe Veleno and Christian Fischer
+   3-2
+P3  01:17 
+Simon Edvinsson (DET) scores on empty net
+   4-2
+P3  00:42 
+Andrew Copp (DET) scores on empty net, assisted by Michael Rasmussen
+   5-2
+Box Score:
+ 
+Back to Top
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  14:00   0  1    1   2   0   0   0   0   0/0J.T. Compher L  16:32   0  0    0   1   0   0   2   1 12/18Andrew Copp C  13:18   2  0    2   3   0   0   1   1  5/10Alex DeBrincat R  18:44   0  1   -1   1   0   0   1   2   0/0Christian Fischer R  11:28   0  1    1   0   0   0   1   0   0/0Patrick Kane R  14:31   0  1   -1   1   0   0   2   2   0/1Marco Kasper C  15:15   0  1    2   0   0   0   1   2  4/13Dylan Larkin C  19:55   1  0    1   2   0   0   1   0 12/20Michael Rasmussen C  11:08   0  1    1   1   1   0   0   0   1/1Lucas Raymond L  18:44   0  0    1   2   1   2   0   2   0/0Vladimir Tarasenko R  13:34   1  0    1   3   0   0   0   1   0/0Joe Veleno C  11:54   0  1    1   2   1   0   1   1   0/0Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:03   0  0    1   1   1   2   0   1   0/0Simon Edvinsson D  21:12   1  0    1   1   3   0   0   0   0/0Erik Gustafsson D  17:43   0  0    0   3   2   0   1   1   0/0Olli Maatta D  13:41   0  0    1   0   1   0   0   1   0/0Jeff Petry D  18:57   0  0    1   0   1   0   1   1   0/0Moritz Seider D  22:45   0  0    2   1   5   2   0   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       24  16   6  12  16 34/63
+                                        54.0%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  60:00   2  37/39  31/32   4/5   2/2     0
+              .949   .969  .800 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:08   0  0    0   3   0   0   0   0   0/0Filip Forsberg L  19:54   0  1   -1   7   0   2   0   0   0/0Mark Jankowski C  15:27   0  0    0   3   0   0   0   0   2/2Jonathan Marchessault R  18:36   0  1   -2   0   0   0   0   0   0/1Michael McCarron R  09:07   0  0   -2   0   0   0   0   1   2/3Tommy Novak C  12:52   0  0   -1   2   0   0   0   0   2/7Gustav Nyquist C  17:48   0  1    0   1   1   0   0   2   0/0Ryan O'Reilly C  20:51   0  1    0   2   1   0   0   2 11/27Colton Sissons C  15:51   0  0   -1   1   0   0   1   2  8/15Cole Smith L  09:29   0  0   -1   1   2   2   0   0   1/1Steven Stamkos C  19:36   1  0   -3   6   1   0   0   0   3/7Philip Tomasino C  05:08   0  0   -2   0   0   0   0   0   0/0Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  19:57   0  0   -2   2   2   0   1   1   0/0Marc Del Gaizo D  16:02   0  0    0   3   1   2   1   0   0/0Roman Josi D  26:54   0  0   -1   4   3   0   0   1   0/0Jeremy Lauzon D  18:28   0  0   -2   1   2   0   0   0   0/0Luke Schenn D  15:17   1  0    1   2   2   2   1   0   0/0Brady Skjei D  20:46   0  0    0   1   0   0   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       39  15   8   5   9 29/63
+                                        46.0%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  58:30   3  19/22  16/18   3/4   0/0     0
+              .864   .889  .750
+Detroit
+Red Wings2-3-0Final5 - 2Nashville
+Predators0-5-0
+Detroit
+Red Wings2-3-0
+Final5 - 2
+Nashville
+Predators0-5-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+DET   1  1  3    5  
+NSH   1  0  1    2
+1st Period: ShowHide
+P1  11:12 
+Luke Schenn (NSH) scores on snap shot past Alex Lyon, assisted by Ryan O'Reilly and Gustav Nyquist
+   0-1
+P1  06:34 
+Vladimir Tarasenko (DET) scores on wrist shot past Juuse Saros, assisted by Jonatan Berggren and Marco Kasper
+   1-1
+2nd Period: ShowHide
+P2  18:02 
+Marc Del Gaizo (NSH) hooking against Patrick Kane (2 minutes)
+   1-1
+P2  16:43 
+Dylan Larkin (DET) scores power-play goal on snap shot past Juuse Saros, assisted by Alex DeBrincat and Patrick Kane
+   2-1
+P2  15:50 
+Luke Schenn (NSH) holding against Christian Fischer (2 minutes)
+   2-1
+P2  06:35 
+Filip Forsberg (NSH) roughing against Lucas Raymond (2 minutes)
+   2-1
+P2  06:35 
+Lucas Raymond (DET) roughing against Filip Forsberg (2 minutes)
+   2-1
+P2  03:08 
+Cole Smith (NSH) interference against Moritz Seider (2 minutes)
+   2-1
+P2  01:30 
+Moritz Seider (DET) holding against Gustav Nyquist (2 minutes)
+   2-1
+P2  01:04 
+Ben Chiarot (DET) tripping against Gustav Nyquist (2 minutes)
+   2-1
+3rd Period: ShowHide
+P3  19:28 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Alex Lyon, assisted by Filip Forsberg and Jonathan Marchessault
+   2-2
+P3  16:31 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Joe Veleno and Christian Fischer
+   3-2
+P3  01:17 
+Simon Edvinsson (DET) scores on empty net
+   4-2
+P3  00:42 
+Andrew Copp (DET) scores on empty net, assisted by Michael Rasmussen
+   5-2
+1st Period: ShowHide
+P1  11:12 
+Luke Schenn (NSH) scores on snap shot past Alex Lyon, assisted by Ryan O'Reilly and Gustav Nyquist
+   0-1
+P1  06:34 
+Vladimir Tarasenko (DET) scores on wrist shot past Juuse Saros, assisted by Jonatan Berggren and Marco Kasper
+   1-1
+P1  11:12 
+Luke Schenn (NSH) scores on snap shot past Alex Lyon, assisted by Ryan O'Reilly and Gustav Nyquist
+   0-1
+P1  06:34 
+Vladimir Tarasenko (DET) scores on wrist shot past Juuse Saros, assisted by Jonatan Berggren and Marco Kasper
+   1-1
+P1  11:12
+Luke Schenn (NSH) scores on snap shot past Alex Lyon, assisted by Ryan O'Reilly and Gustav Nyquist
+0-1
+P1  06:34
+Vladimir Tarasenko (DET) scores on wrist shot past Juuse Saros, assisted by Jonatan Berggren and Marco Kasper
+1-1
+2nd Period: ShowHide
+P2  18:02 
+Marc Del Gaizo (NSH) hooking against Patrick Kane (2 minutes)
+   1-1
+P2  16:43 
+Dylan Larkin (DET) scores power-play goal on snap shot past Juuse Saros, assisted by Alex DeBrincat and Patrick Kane
+   2-1
+P2  15:50 
+Luke Schenn (NSH) holding against Christian Fischer (2 minutes)
+   2-1
+P2  06:35 
+Filip Forsberg (NSH) roughing against Lucas Raymond (2 minutes)
+   2-1
+P2  06:35 
+Lucas Raymond (DET) roughing against Filip Forsberg (2 minutes)
+   2-1
+P2  03:08 
+Cole Smith (NSH) interference against Moritz Seider (2 minutes)
+   2-1
+P2  01:30 
+Moritz Seider (DET) holding against Gustav Nyquist (2 minutes)
+   2-1
+P2  01:04 
+Ben Chiarot (DET) tripping against Gustav Nyquist (2 minutes)
+   2-1
+P2  18:02 
+Marc Del Gaizo (NSH) hooking against Patrick Kane (2 minutes)
+   1-1
+P2  16:43 
+Dylan Larkin (DET) scores power-play goal on snap shot past Juuse Saros, assisted by Alex DeBrincat and Patrick Kane
+   2-1
+P2  15:50 
+Luke Schenn (NSH) holding against Christian Fischer (2 minutes)
+   2-1
+P2  06:35 
+Filip Forsberg (NSH) roughing against Lucas Raymond (2 minutes)
+   2-1
+P2  06:35 
+Lucas Raymond (DET) roughing against Filip Forsberg (2 minutes)
+   2-1
+P2  03:08 
+Cole Smith (NSH) interference against Moritz Seider (2 minutes)
+   2-1
+P2  01:30 
+Moritz Seider (DET) holding against Gustav Nyquist (2 minutes)
+   2-1
+P2  01:04 
+Ben Chiarot (DET) tripping against Gustav Nyquist (2 minutes)
+   2-1
+P2  18:02
+Marc Del Gaizo (NSH) hooking against Patrick Kane (2 minutes)
+1-1
+P2  16:43
+Dylan Larkin (DET) scores power-play goal on snap shot past Juuse Saros, assisted by Alex DeBrincat and Patrick Kane
+2-1
+P2  15:50
+Luke Schenn (NSH) holding against Christian Fischer (2 minutes)
+2-1
+P2  06:35
+Filip Forsberg (NSH) roughing against Lucas Raymond (2 minutes)
+2-1
+P2  06:35
+Lucas Raymond (DET) roughing against Filip Forsberg (2 minutes)
+2-1
+P2  03:08
+Cole Smith (NSH) interference against Moritz Seider (2 minutes)
+2-1
+P2  01:30
+Moritz Seider (DET) holding against Gustav Nyquist (2 minutes)
+2-1
+P2  01:04
+Ben Chiarot (DET) tripping against Gustav Nyquist (2 minutes)
+2-1
+3rd Period: ShowHide
+P3  19:28 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Alex Lyon, assisted by Filip Forsberg and Jonathan Marchessault
+   2-2
+P3  16:31 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Joe Veleno and Christian Fischer
+   3-2
+P3  01:17 
+Simon Edvinsson (DET) scores on empty net
+   4-2
+P3  00:42 
+Andrew Copp (DET) scores on empty net, assisted by Michael Rasmussen
+   5-2
+P3  19:28 
+Steven Stamkos (NSH) scores power-play goal on slap shot past Alex Lyon, assisted by Filip Forsberg and Jonathan Marchessault
+   2-2
+P3  16:31 
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Joe Veleno and Christian Fischer
+   3-2
+P3  01:17 
+Simon Edvinsson (DET) scores on empty net
+   4-2
+P3  00:42 
+Andrew Copp (DET) scores on empty net, assisted by Michael Rasmussen
+   5-2
+P3  19:28
+Steven Stamkos (NSH) scores power-play goal on slap shot past Alex Lyon, assisted by Filip Forsberg and Jonathan Marchessault
+2-2
+P3  16:31
+Andrew Copp (DET) scores on deflection past Juuse Saros, assisted by Joe Veleno and Christian Fischer
+3-2
+P3  01:17
+Simon Edvinsson (DET) scores on empty net
+4-2
+P3  00:42
+Andrew Copp (DET) scores on empty net, assisted by Michael Rasmussen
+5-2
+Box Score:
+ 
+Back to Top
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  14:00   0  1    1   2   0   0   0   0   0/0J.T. Compher L  16:32   0  0    0   1   0   0   2   1 12/18Andrew Copp C  13:18   2  0    2   3   0   0   1   1  5/10Alex DeBrincat R  18:44   0  1   -1   1   0   0   1   2   0/0Christian Fischer R  11:28   0  1    1   0   0   0   1   0   0/0Patrick Kane R  14:31   0  1   -1   1   0   0   2   2   0/1Marco Kasper C  15:15   0  1    2   0   0   0   1   2  4/13Dylan Larkin C  19:55   1  0    1   2   0   0   1   0 12/20Michael Rasmussen C  11:08   0  1    1   1   1   0   0   0   1/1Lucas Raymond L  18:44   0  0    1   2   1   2   0   2   0/0Vladimir Tarasenko R  13:34   1  0    1   3   0   0   0   1   0/0Joe Veleno C  11:54   0  1    1   2   1   0   1   1   0/0Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:03   0  0    1   1   1   2   0   1   0/0Simon Edvinsson D  21:12   1  0    1   1   3   0   0   0   0/0Erik Gustafsson D  17:43   0  0    0   3   2   0   1   1   0/0Olli Maatta D  13:41   0  0    1   0   1   0   0   1   0/0Jeff Petry D  18:57   0  0    1   0   1   0   1   1   0/0Moritz Seider D  22:45   0  0    2   1   5   2   0   0   0/0Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       24  16   6  12  16 34/63
+                                        54.0%Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  60:00   2  37/39  31/32   4/5   2/2     0
+              .949   .969  .800 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:08   0  0    0   3   0   0   0   0   0/0Filip Forsberg L  19:54   0  1   -1   7   0   2   0   0   0/0Mark Jankowski C  15:27   0  0    0   3   0   0   0   0   2/2Jonathan Marchessault R  18:36   0  1   -2   0   0   0   0   0   0/1Michael McCarron R  09:07   0  0   -2   0   0   0   0   1   2/3Tommy Novak C  12:52   0  0   -1   2   0   0   0   0   2/7Gustav Nyquist C  17:48   0  1    0   1   1   0   0   2   0/0Ryan O'Reilly C  20:51   0  1    0   2   1   0   0   2 11/27Colton Sissons C  15:51   0  0   -1   1   0   0   1   2  8/15Cole Smith L  09:29   0  0   -1   1   2   2   0   0   1/1Steven Stamkos C  19:36   1  0   -3   6   1   0   0   0   3/7Philip Tomasino C  05:08   0  0   -2   0   0   0   0   0   0/0Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  19:57   0  0   -2   2   2   0   1   1   0/0Marc Del Gaizo D  16:02   0  0    0   3   1   2   1   0   0/0Roman Josi D  26:54   0  0   -1   4   3   0   0   1   0/0Jeremy Lauzon D  18:28   0  0   -2   1   2   0   0   0   0/0Luke Schenn D  15:17   1  0    1   2   2   2   1   0   0/0Brady Skjei D  20:46   0  0    0   1   0   0   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       39  15   8   5   9 29/63
+                                        46.0%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  58:30   3  19/22  16/18   3/4   0/0     0
+              .864   .889  .750
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJonatan Berggren R  14:00   0  1    1   2   0   0   0   0   0/0J.T. Compher L  16:32   0  0    0   1   0   0   2   1 12/18Andrew Copp C  13:18   2  0    2   3   0   0   1   1  5/10Alex DeBrincat R  18:44   0  1   -1   1   0   0   1   2   0/0Christian Fischer R  11:28   0  1    1   0   0   0   1   0   0/0Patrick Kane R  14:31   0  1   -1   1   0   0   2   2   0/1Marco Kasper C  15:15   0  1    2   0   0   0   1   2  4/13Dylan Larkin C  19:55   1  0    1   2   0   0   1   0 12/20Michael Rasmussen C  11:08   0  1    1   1   1   0   0   0   1/1Lucas Raymond L  18:44   0  0    1   2   1   2   0   2   0/0Vladimir Tarasenko R  13:34   1  0    1   3   0   0   0   1   0/0Joe Veleno C  11:54   0  1    1   2   1   0   1   1   0/0
+Red Wings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jonatan Berggren R
+14:00   0  1    1   2   0   0   0   0   0/0
+J.T. Compher L
+16:32   0  0    0   1   0   0   2   1 12/18
+Andrew Copp C
+13:18   2  0    2   3   0   0   1   1  5/10
+Alex DeBrincat R
+18:44   0  1   -1   1   0   0   1   2   0/0
+Christian Fischer R
+11:28   0  1    1   0   0   0   1   0   0/0
+Patrick Kane R
+14:31   0  1   -1   1   0   0   2   2   0/1
+Marco Kasper C
+15:15   0  1    2   0   0   0   1   2  4/13
+Dylan Larkin C
+19:55   1  0    1   2   0   0   1   0 12/20
+Michael Rasmussen C
+11:08   0  1    1   1   1   0   0   0   1/1
+Lucas Raymond L
+18:44   0  0    1   2   1   2   0   2   0/0
+Vladimir Tarasenko R
+13:34   1  0    1   3   0   0   0   1   0/0
+Joe Veleno C
+11:54   0  1    1   2   1   0   1   1   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBen Chiarot D  21:03   0  0    1   1   1   2   0   1   0/0Simon Edvinsson D  21:12   1  0    1   1   3   0   0   0   0/0Erik Gustafsson D  17:43   0  0    0   3   2   0   1   1   0/0Olli Maatta D  13:41   0  0    1   0   1   0   0   1   0/0Jeff Petry D  18:57   0  0    1   0   1   0   1   1   0/0Moritz Seider D  22:45   0  0    2   1   5   2   0   0   0/0
+Red Wings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ben Chiarot D
+21:03   0  0    1   1   1   2   0   1   0/0
+Simon Edvinsson D
+21:12   1  0    1   1   3   0   0   0   0/0
+Erik Gustafsson D
+17:43   0  0    0   3   2   0   1   1   0/0
+Olli Maatta D
+13:41   0  0    1   0   1   0   0   1   0/0
+Jeff Petry D
+18:57   0  0    1   0   1   0   1   1   0/0
+Moritz Seider D
+22:45   0  0    2   1   5   2   0   0   0/0
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO          5  7       24  16   6  12  16 34/63
+                                        54.0%
+Red Wings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMAlex Lyon G  60:00   2  37/39  31/32   4/5   2/2     0
+              .949   .969  .800 1.000
+Red Wings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Alex Lyon G
+60:00   2  37/39  31/32   4/5   2/2     0
+              .949   .969  .800 1.000
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:08   0  0    0   3   0   0   0   0   0/0Filip Forsberg L  19:54   0  1   -1   7   0   2   0   0   0/0Mark Jankowski C  15:27   0  0    0   3   0   0   0   0   2/2Jonathan Marchessault R  18:36   0  1   -2   0   0   0   0   0   0/1Michael McCarron R  09:07   0  0   -2   0   0   0   0   1   2/3Tommy Novak C  12:52   0  0   -1   2   0   0   0   0   2/7Gustav Nyquist C  17:48   0  1    0   1   1   0   0   2   0/0Ryan O'Reilly C  20:51   0  1    0   2   1   0   0   2 11/27Colton Sissons C  15:51   0  0   -1   1   0   0   1   2  8/15Cole Smith L  09:29   0  0   -1   1   2   2   0   0   1/1Steven Stamkos C  19:36   1  0   -3   6   1   0   0   0   3/7Philip Tomasino C  05:08   0  0   -2   0   0   0   0   0   0/0
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+12:08   0  0    0   3   0   0   0   0   0/0
+Filip Forsberg L
+19:54   0  1   -1   7   0   2   0   0   0/0
+Mark Jankowski C
+15:27   0  0    0   3   0   0   0   0   2/2
+Jonathan Marchessault R
+18:36   0  1   -2   0   0   0   0   0   0/1
+Michael McCarron R
+09:07   0  0   -2   0   0   0   0   1   2/3
+Tommy Novak C
+12:52   0  0   -1   2   0   0   0   0   2/7
+Gustav Nyquist C
+17:48   0  1    0   1   1   0   0   2   0/0
+Ryan O'Reilly C
+20:51   0  1    0   2   1   0   0   2 11/27
+Colton Sissons C
+15:51   0  0   -1   1   0   0   1   2  8/15
+Cole Smith L
+09:29   0  0   -1   1   2   2   0   0   1/1
+Steven Stamkos C
+19:36   1  0   -3   6   1   0   0   0   3/7
+Philip Tomasino C
+05:08   0  0   -2   0   0   0   0   0   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  19:57   0  0   -2   2   2   0   1   1   0/0Marc Del Gaizo D  16:02   0  0    0   3   1   2   1   0   0/0Roman Josi D  26:54   0  0   -1   4   3   0   0   1   0/0Jeremy Lauzon D  18:28   0  0   -2   1   2   0   0   0   0/0Luke Schenn D  15:17   1  0    1   2   2   2   1   0   0/0Brady Skjei D  20:46   0  0    0   1   0   0   1   0   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+19:57   0  0   -2   2   2   0   1   1   0/0
+Marc Del Gaizo D
+16:02   0  0    0   3   1   2   1   0   0/0
+Roman Josi D
+26:54   0  0   -1   4   3   0   0   1   0/0
+Jeremy Lauzon D
+18:28   0  0   -2   1   2   0   0   0   0/0
+Luke Schenn D
+15:17   1  0    1   2   2   2   1   0   0/0
+Brady Skjei D
+20:46   0  0    0   1   0   0   1   0   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          2  4       39  15   8   5   9 29/63
+                                        46.0%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJuuse Saros G  58:30   3  19/22  16/18   3/4   0/0     0
+              .864   .889  .750
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Juuse Saros G
+58:30   3  19/22  16/18   3/4   0/0     0
+              .864   .889  .750
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

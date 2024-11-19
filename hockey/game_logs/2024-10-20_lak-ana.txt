@@ -1,0 +1,337 @@
+< Oct. 20 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Los Angeles
+Kings3-1-2Final4 - 1Anaheim
+Ducks2-2-1
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+LAK   0  0  4    4  
+ANA   0  0  1    1
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  07:11 
+Trevor Lewis (LAK) high-sticking against Ross Johnston (2 minutes)
+   0-0
+P1  02:11 
+Kevin Fiala (LAK) hooking against Brian Dumoulin (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  11:10 
+Mason McTavish (ANA) hooking against Brandt Clarke (2 minutes)
+   0-0
+P2  04:53 
+Alex Killorn (ANA) tripping against Andre Lee (2 minutes)
+   0-0
+3rd Period: ShowHide
+P3  16:54 
+Adrian Kempe (LAK) scores on snap shot past Lukas Dostal, assisted by Anze Kopitar and Mikey Anderson
+   1-0
+P3  14:33 
+Brandt Clarke (LAK) high-sticking against Brock McGinn (2 minutes)
+   1-0
+P3  11:02 
+Alex Laferriere (LAK) scores on snap shot past Lukas Dostal
+   2-0
+P3  01:44 
+Ryan Strome (ANA) scores on tip-in past David Rittich, assisted by Troy Terry and Frank Vatrano
+   2-1
+P3  01:07 
+Kevin Fiala (LAK) scores on empty net, assisted by Phillip Danault and Vladislav Gavrikov
+   3-1
+P3  00:36 
+Mikey Anderson (LAK) scores on empty net, assisted by Alex Turcotte
+   4-1
+Box Score:
+ 
+Back to Top
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:47   0  0    0   2   0   0   0   3   0/1Phillip Danault C  16:20   0  1    1   1   1   0   0   1 10/16Kevin Fiala L  17:01   1  0    1   5   0   2   1   1   0/0Warren Foegele L  16:08   0  0    2   2   0   0   1   0   0/0Tanner Jeannot L  11:22   0  0    0   4   0   0   0   0   0/0Adrian Kempe R  16:31   1  0    0   1   0   0   1   1   0/0Anze Kopitar C  17:42   0  1    0   0   0   0   0   0 10/18Alex Laferriere R  13:42   1  0    2   3   0   0   0   0   0/0Andre Lee L  09:13   0  0    0   1   0   0   0   0   0/0Trevor Lewis C  11:52   0  0    0   1   0   2   0   0   5/8Trevor Moore L  16:33   0  0    1   3   1   0   0   0   0/0Alex Turcotte C  13:39   0  1    2   1   2   0   1   0  8/10Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  23:51   1  1    1   2   0   0   0   0   0/0Brandt Clarke D  16:41   0  0    1   6   4   2   0   0   0/0Joel Edmundson D  20:13   0  0    2   2   1   0   1   0   0/0Andreas Englund D  13:40   0  0    0   0   0   0   0   0   0/0Vladislav Gavrikov D  23:22   0  1    3   1   2   0   2   0   0/0Jordan Spence D  18:23   0  0   -1   2   2   0   1   4   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       37  13   6   8  10 33/53
+                                        62.3%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  60:00   1  14/15  12/13   2/2   0/0     0
+              .933   .923 1.000 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:57   0  0   -1   1   1   0   0   0   3/8Robby Fabbri C  17:40   0  0   -2   0   0   0   1   2   2/4Cutter Gauthier L  17:57   0  0   -1   1   0   0   0   2   0/1Ross Johnston L  08:07   0  0    0   0   0   0   0   0   0/0Alex Killorn L  18:10   0  0   -1   1   0   2   0   0   0/0Brett Leason R  11:22   0  0   -1   0   0   0   0   0   3/8Brock McGinn L  10:12   0  0    0   1   1   0   0   0   0/0Mason McTavish C  16:59   0  0   -2   1   1   2   0   1  5/14Ryan Strome C  16:29   1  0   -1   3   2   0   0   0  7/18Troy Terry R  15:30   0  1   -1   2   0   0   2   0   0/0Frank Vatrano R  14:57   0  1   -1   1   2   0   0   0   0/0Trevor Zegras C  18:01   0  0   -2   1   0   0   0   0   0/0Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  19:59   0  0    0   1   2   0   0   2   0/0Cam Fowler D  22:48   0  0    0   0   0   0   0   0   0/0Radko Gudas D  15:58   0  0   -1   0   6   0   0   1   0/0Jackson LaCombe D  18:00   0  0   -2   2   1   0   0   1   0/0Tristan Luneau D  18:47   0  0   -1   0   1   0   0   0   0/0Olen Zellweger D  17:44   0  0    0   0   0   0   0   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       15  17   4   3  10 20/53
+                                        37.7%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  59:23   2  33/35  28/30   4/4   1/1     0
+              .943   .933 1.000 1.000
+Los Angeles
+Kings3-1-2Final4 - 1Anaheim
+Ducks2-2-1
+Los Angeles
+Kings3-1-2
+Final4 - 1
+Anaheim
+Ducks2-2-1
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+LAK   0  0  4    4  
+ANA   0  0  1    1
+1st Period: ShowHide
+P1  07:11 
+Trevor Lewis (LAK) high-sticking against Ross Johnston (2 minutes)
+   0-0
+P1  02:11 
+Kevin Fiala (LAK) hooking against Brian Dumoulin (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  11:10 
+Mason McTavish (ANA) hooking against Brandt Clarke (2 minutes)
+   0-0
+P2  04:53 
+Alex Killorn (ANA) tripping against Andre Lee (2 minutes)
+   0-0
+3rd Period: ShowHide
+P3  16:54 
+Adrian Kempe (LAK) scores on snap shot past Lukas Dostal, assisted by Anze Kopitar and Mikey Anderson
+   1-0
+P3  14:33 
+Brandt Clarke (LAK) high-sticking against Brock McGinn (2 minutes)
+   1-0
+P3  11:02 
+Alex Laferriere (LAK) scores on snap shot past Lukas Dostal
+   2-0
+P3  01:44 
+Ryan Strome (ANA) scores on tip-in past David Rittich, assisted by Troy Terry and Frank Vatrano
+   2-1
+P3  01:07 
+Kevin Fiala (LAK) scores on empty net, assisted by Phillip Danault and Vladislav Gavrikov
+   3-1
+P3  00:36 
+Mikey Anderson (LAK) scores on empty net, assisted by Alex Turcotte
+   4-1
+1st Period: ShowHide
+P1  07:11 
+Trevor Lewis (LAK) high-sticking against Ross Johnston (2 minutes)
+   0-0
+P1  02:11 
+Kevin Fiala (LAK) hooking against Brian Dumoulin (2 minutes)
+   0-0
+P1  07:11 
+Trevor Lewis (LAK) high-sticking against Ross Johnston (2 minutes)
+   0-0
+P1  02:11 
+Kevin Fiala (LAK) hooking against Brian Dumoulin (2 minutes)
+   0-0
+P1  07:11
+Trevor Lewis (LAK) high-sticking against Ross Johnston (2 minutes)
+0-0
+P1  02:11
+Kevin Fiala (LAK) hooking against Brian Dumoulin (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  11:10 
+Mason McTavish (ANA) hooking against Brandt Clarke (2 minutes)
+   0-0
+P2  04:53 
+Alex Killorn (ANA) tripping against Andre Lee (2 minutes)
+   0-0
+P2  11:10 
+Mason McTavish (ANA) hooking against Brandt Clarke (2 minutes)
+   0-0
+P2  04:53 
+Alex Killorn (ANA) tripping against Andre Lee (2 minutes)
+   0-0
+P2  11:10
+Mason McTavish (ANA) hooking against Brandt Clarke (2 minutes)
+0-0
+P2  04:53
+Alex Killorn (ANA) tripping against Andre Lee (2 minutes)
+0-0
+3rd Period: ShowHide
+P3  16:54 
+Adrian Kempe (LAK) scores on snap shot past Lukas Dostal, assisted by Anze Kopitar and Mikey Anderson
+   1-0
+P3  14:33 
+Brandt Clarke (LAK) high-sticking against Brock McGinn (2 minutes)
+   1-0
+P3  11:02 
+Alex Laferriere (LAK) scores on snap shot past Lukas Dostal
+   2-0
+P3  01:44 
+Ryan Strome (ANA) scores on tip-in past David Rittich, assisted by Troy Terry and Frank Vatrano
+   2-1
+P3  01:07 
+Kevin Fiala (LAK) scores on empty net, assisted by Phillip Danault and Vladislav Gavrikov
+   3-1
+P3  00:36 
+Mikey Anderson (LAK) scores on empty net, assisted by Alex Turcotte
+   4-1
+P3  16:54 
+Adrian Kempe (LAK) scores on snap shot past Lukas Dostal, assisted by Anze Kopitar and Mikey Anderson
+   1-0
+P3  14:33 
+Brandt Clarke (LAK) high-sticking against Brock McGinn (2 minutes)
+   1-0
+P3  11:02 
+Alex Laferriere (LAK) scores on snap shot past Lukas Dostal
+   2-0
+P3  01:44 
+Ryan Strome (ANA) scores on tip-in past David Rittich, assisted by Troy Terry and Frank Vatrano
+   2-1
+P3  01:07 
+Kevin Fiala (LAK) scores on empty net, assisted by Phillip Danault and Vladislav Gavrikov
+   3-1
+P3  00:36 
+Mikey Anderson (LAK) scores on empty net, assisted by Alex Turcotte
+   4-1
+P3  16:54
+Adrian Kempe (LAK) scores on snap shot past Lukas Dostal, assisted by Anze Kopitar and Mikey Anderson
+1-0
+P3  14:33
+Brandt Clarke (LAK) high-sticking against Brock McGinn (2 minutes)
+1-0
+P3  11:02
+Alex Laferriere (LAK) scores on snap shot past Lukas Dostal
+2-0
+P3  01:44
+Ryan Strome (ANA) scores on tip-in past David Rittich, assisted by Troy Terry and Frank Vatrano
+2-1
+P3  01:07
+Kevin Fiala (LAK) scores on empty net, assisted by Phillip Danault and Vladislav Gavrikov
+3-1
+P3  00:36
+Mikey Anderson (LAK) scores on empty net, assisted by Alex Turcotte
+4-1
+Box Score:
+ 
+Back to Top
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:47   0  0    0   2   0   0   0   3   0/1Phillip Danault C  16:20   0  1    1   1   1   0   0   1 10/16Kevin Fiala L  17:01   1  0    1   5   0   2   1   1   0/0Warren Foegele L  16:08   0  0    2   2   0   0   1   0   0/0Tanner Jeannot L  11:22   0  0    0   4   0   0   0   0   0/0Adrian Kempe R  16:31   1  0    0   1   0   0   1   1   0/0Anze Kopitar C  17:42   0  1    0   0   0   0   0   0 10/18Alex Laferriere R  13:42   1  0    2   3   0   0   0   0   0/0Andre Lee L  09:13   0  0    0   1   0   0   0   0   0/0Trevor Lewis C  11:52   0  0    0   1   0   2   0   0   5/8Trevor Moore L  16:33   0  0    1   3   1   0   0   0   0/0Alex Turcotte C  13:39   0  1    2   1   2   0   1   0  8/10Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  23:51   1  1    1   2   0   0   0   0   0/0Brandt Clarke D  16:41   0  0    1   6   4   2   0   0   0/0Joel Edmundson D  20:13   0  0    2   2   1   0   1   0   0/0Andreas Englund D  13:40   0  0    0   0   0   0   0   0   0/0Vladislav Gavrikov D  23:22   0  1    3   1   2   0   2   0   0/0Jordan Spence D  18:23   0  0   -1   2   2   0   1   4   0/0Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       37  13   6   8  10 33/53
+                                        62.3%Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  60:00   1  14/15  12/13   2/2   0/0     0
+              .933   .923 1.000 
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:57   0  0   -1   1   1   0   0   0   3/8Robby Fabbri C  17:40   0  0   -2   0   0   0   1   2   2/4Cutter Gauthier L  17:57   0  0   -1   1   0   0   0   2   0/1Ross Johnston L  08:07   0  0    0   0   0   0   0   0   0/0Alex Killorn L  18:10   0  0   -1   1   0   2   0   0   0/0Brett Leason R  11:22   0  0   -1   0   0   0   0   0   3/8Brock McGinn L  10:12   0  0    0   1   1   0   0   0   0/0Mason McTavish C  16:59   0  0   -2   1   1   2   0   1  5/14Ryan Strome C  16:29   1  0   -1   3   2   0   0   0  7/18Troy Terry R  15:30   0  1   -1   2   0   0   2   0   0/0Frank Vatrano R  14:57   0  1   -1   1   2   0   0   0   0/0Trevor Zegras C  18:01   0  0   -2   1   0   0   0   0   0/0Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  19:59   0  0    0   1   2   0   0   2   0/0Cam Fowler D  22:48   0  0    0   0   0   0   0   0   0/0Radko Gudas D  15:58   0  0   -1   0   6   0   0   1   0/0Jackson LaCombe D  18:00   0  0   -2   2   1   0   0   1   0/0Tristan Luneau D  18:47   0  0   -1   0   1   0   0   0   0/0Olen Zellweger D  17:44   0  0    0   0   0   0   0   1   0/0Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       15  17   4   3  10 20/53
+                                        37.7%Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  59:23   2  33/35  28/30   4/4   1/1     0
+              .943   .933 1.000 1.000
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOQuinton Byfield R  17:47   0  0    0   2   0   0   0   3   0/1Phillip Danault C  16:20   0  1    1   1   1   0   0   1 10/16Kevin Fiala L  17:01   1  0    1   5   0   2   1   1   0/0Warren Foegele L  16:08   0  0    2   2   0   0   1   0   0/0Tanner Jeannot L  11:22   0  0    0   4   0   0   0   0   0/0Adrian Kempe R  16:31   1  0    0   1   0   0   1   1   0/0Anze Kopitar C  17:42   0  1    0   0   0   0   0   0 10/18Alex Laferriere R  13:42   1  0    2   3   0   0   0   0   0/0Andre Lee L  09:13   0  0    0   1   0   0   0   0   0/0Trevor Lewis C  11:52   0  0    0   1   0   2   0   0   5/8Trevor Moore L  16:33   0  0    1   3   1   0   0   0   0/0Alex Turcotte C  13:39   0  1    2   1   2   0   1   0  8/10
+Kings Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Quinton Byfield R
+17:47   0  0    0   2   0   0   0   3   0/1
+Phillip Danault C
+16:20   0  1    1   1   1   0   0   1 10/16
+Kevin Fiala L
+17:01   1  0    1   5   0   2   1   1   0/0
+Warren Foegele L
+16:08   0  0    2   2   0   0   1   0   0/0
+Tanner Jeannot L
+11:22   0  0    0   4   0   0   0   0   0/0
+Adrian Kempe R
+16:31   1  0    0   1   0   0   1   1   0/0
+Anze Kopitar C
+17:42   0  1    0   0   0   0   0   0 10/18
+Alex Laferriere R
+13:42   1  0    2   3   0   0   0   0   0/0
+Andre Lee L
+09:13   0  0    0   1   0   0   0   0   0/0
+Trevor Lewis C
+11:52   0  0    0   1   0   2   0   0   5/8
+Trevor Moore L
+16:33   0  0    1   3   1   0   0   0   0/0
+Alex Turcotte C
+13:39   0  1    2   1   2   0   1   0  8/10
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMikey Anderson D  23:51   1  1    1   2   0   0   0   0   0/0Brandt Clarke D  16:41   0  0    1   6   4   2   0   0   0/0Joel Edmundson D  20:13   0  0    2   2   1   0   1   0   0/0Andreas Englund D  13:40   0  0    0   0   0   0   0   0   0/0Vladislav Gavrikov D  23:22   0  1    3   1   2   0   2   0   0/0Jordan Spence D  18:23   0  0   -1   2   2   0   1   4   0/0
+Kings Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mikey Anderson D
+23:51   1  1    1   2   0   0   0   0   0/0
+Brandt Clarke D
+16:41   0  0    1   6   4   2   0   0   0/0
+Joel Edmundson D
+20:13   0  0    2   2   1   0   1   0   0/0
+Andreas Englund D
+13:40   0  0    0   0   0   0   0   0   0/0
+Vladislav Gavrikov D
+23:22   0  1    3   1   2   0   2   0   0/0
+Jordan Spence D
+18:23   0  0   -1   2   2   0   1   4   0/0
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO          4  5       37  13   6   8  10 33/53
+                                        62.3%
+Kings Totals:
+          G  A        S   B  PM  TK  GV    FO
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDavid Rittich G  60:00   1  14/15  12/13   2/2   0/0     0
+              .933   .923 1.000
+Kings Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+David Rittich G
+60:00   1  14/15  12/13   2/2   0/0     0
+              .933   .923 1.000
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLeo Carlsson C  17:57   0  0   -1   1   1   0   0   0   3/8Robby Fabbri C  17:40   0  0   -2   0   0   0   1   2   2/4Cutter Gauthier L  17:57   0  0   -1   1   0   0   0   2   0/1Ross Johnston L  08:07   0  0    0   0   0   0   0   0   0/0Alex Killorn L  18:10   0  0   -1   1   0   2   0   0   0/0Brett Leason R  11:22   0  0   -1   0   0   0   0   0   3/8Brock McGinn L  10:12   0  0    0   1   1   0   0   0   0/0Mason McTavish C  16:59   0  0   -2   1   1   2   0   1  5/14Ryan Strome C  16:29   1  0   -1   3   2   0   0   0  7/18Troy Terry R  15:30   0  1   -1   2   0   0   2   0   0/0Frank Vatrano R  14:57   0  1   -1   1   2   0   0   0   0/0Trevor Zegras C  18:01   0  0   -2   1   0   0   0   0   0/0
+Ducks Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Leo Carlsson C
+17:57   0  0   -1   1   1   0   0   0   3/8
+Robby Fabbri C
+17:40   0  0   -2   0   0   0   1   2   2/4
+Cutter Gauthier L
+17:57   0  0   -1   1   0   0   0   2   0/1
+Ross Johnston L
+08:07   0  0    0   0   0   0   0   0   0/0
+Alex Killorn L
+18:10   0  0   -1   1   0   2   0   0   0/0
+Brett Leason R
+11:22   0  0   -1   0   0   0   0   0   3/8
+Brock McGinn L
+10:12   0  0    0   1   1   0   0   0   0/0
+Mason McTavish C
+16:59   0  0   -2   1   1   2   0   1  5/14
+Ryan Strome C
+16:29   1  0   -1   3   2   0   0   0  7/18
+Troy Terry R
+15:30   0  1   -1   2   0   0   2   0   0/0
+Frank Vatrano R
+14:57   0  1   -1   1   2   0   0   0   0/0
+Trevor Zegras C
+18:01   0  0   -2   1   0   0   0   0   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOBrian Dumoulin D  19:59   0  0    0   1   2   0   0   2   0/0Cam Fowler D  22:48   0  0    0   0   0   0   0   0   0/0Radko Gudas D  15:58   0  0   -1   0   6   0   0   1   0/0Jackson LaCombe D  18:00   0  0   -2   2   1   0   0   1   0/0Tristan Luneau D  18:47   0  0   -1   0   1   0   0   0   0/0Olen Zellweger D  17:44   0  0    0   0   0   0   0   1   0/0
+Ducks Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Brian Dumoulin D
+19:59   0  0    0   1   2   0   0   2   0/0
+Cam Fowler D
+22:48   0  0    0   0   0   0   0   0   0/0
+Radko Gudas D
+15:58   0  0   -1   0   6   0   0   1   0/0
+Jackson LaCombe D
+18:00   0  0   -2   2   1   0   0   1   0/0
+Tristan Luneau D
+18:47   0  0   -1   0   1   0   0   0   0/0
+Olen Zellweger D
+17:44   0  0    0   0   0   0   0   1   0/0
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO          1  2       15  17   4   3  10 20/53
+                                        37.7%
+Ducks Totals:
+          G  A        S   B  PM  TK  GV    FO
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMLukas Dostal G  59:23   2  33/35  28/30   4/4   1/1     0
+              .943   .933 1.000 1.000
+Ducks Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Lukas Dostal G
+59:23   2  33/35  28/30   4/4   1/1     0
+              .943   .933 1.000 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

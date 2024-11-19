@@ -1,0 +1,502 @@
+< Oct. 12 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Columbus
+Blue Jackets1-1-0Final6 - 4Colorado
+Avalanche0-2-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+CBJ   2  3  1    6  
+COL   1  2  1    4
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  17:19 
+Chris Wagner (COL) interference against Zach Aston-Reese (2 minutes)
+   0-0
+P1  17:19 
+Mathieu Olivier (CBJ) roughing against Chris Wagner (2 minutes)
+   0-0
+P1  17:19 
+Josh Manson (COL) roughing against Mathieu Olivier (2 minutes)
+   0-0
+P1  13:22 
+Zach Werenski (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Yegor Chinakhov and Sean Monahan
+   1-0
+P1  12:15 
+Kent Johnson (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Jake Christiansen
+   2-0
+P1  01:24 
+Cole Sillinger (CBJ) tripping against Samuel Girard (2 minutes)
+   2-0
+P1  00:08 
+Nathan MacKinnon (COL) scores power-play goal on slap shot past Daniil Tarasov, assisted by Ivan Ivan and Mikko Rantanen
+   2-1
+2nd Period: ShowHide
+P2  18:04 
+Adam Fantilli (CBJ) scores on wrist shot past Alexandar Georgiev, assisted by Kevin Labanc and Daniil Tarasov
+   3-1
+P2  17:49 
+Miles Wood (COL) scores on snap shot past Daniil Tarasov, assisted by Parker Kelly and Calvin de Haan
+   3-2
+P2  16:29 
+Damon Severson (CBJ) slashing against Nikolai Kovalenko (2 minutes)
+   3-2
+P2  16:18 
+Casey Mittelstadt (COL) scores power-play goal on backhand shot past Daniil Tarasov, assisted by Ross Colton and Cale Makar
+   3-3
+P2  15:27 
+Kirill Marchenko (CBJ) scores on wrist shot past Justus Annunen, assisted by Damon Severson
+   4-3
+P2  10:11 
+Yegor Chinakhov (CBJ) scores on wrist shot past Justus Annunen, assisted by Sean Monahan and Kirill Marchenko
+   5-3
+P2  08:59 
+Erik Gudbranson (CBJ) hooking against Miles Wood (2 minutes)
+   5-3
+3rd Period: ShowHide
+P3  09:39 
+Damon Severson (CBJ) hooking against Nikolai Kovalenko (2 minutes)
+   5-3
+P3  08:34 
+Mikko Rantanen (COL) hooking against Ivan Provorov (2 minutes)
+   5-3
+P3  01:20 
+Ross Colton (COL) scores goal with extra attacker on wrist shot past Daniil Tarasov, assisted by Nathan MacKinnon and Cale Makar
+   5-4
+P3  00:39 
+Casey Mittelstadt (COL) holding against Mikael Pyyhtia (2 minutes)
+   5-4
+P3  00:12 
+Sean Monahan (CBJ) scores on empty net, assisted by Kirill Marchenko and Yegor Chinakhov
+   6-4
+P3  00:12 
+Nathan MacKinnon (COL) misconduct (10 minutes)
+   6-4
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  00:34   0  0    0   0   0   0   0   0   0/0Yegor Chinakhov R  17:57   1  2    2   4   1   0   0   0   0/0Adam Fantilli C  16:53   1  0    0   2   3   0   0   2  5/14Kent Johnson C  21:30   1  0    1   2   0   0   0   2   0/2Sean Kuraly C  09:17   0  0    0   0   0   0   0   0   4/6Kevin Labanc R  10:54   0  1    0   1   2   0   1   0   0/0Kirill Marchenko R  18:11   1  2    2   2   0   0   2   1   0/0Sean Monahan C  20:20   1  2    2   2   0   0   0   0 11/21Mathieu Olivier R  09:16   0  0    0   0   4   2   0   0   0/0Mikael Pyyhtia L  19:08   0  0    1   0   2   0   0   0   0/0Cole Sillinger C  20:05   0  0    1   5   0   2   2   1  8/21James van Riemsdyk L  12:00   0  0    0   0   0   0   0   2   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  17:17   0  1    2   0   1   0   0   1   0/0Erik Gudbranson D  16:54   0  0    0   0   2   2   0   2   0/0Jack Johnson D  13:25   0  0    1   0   0   0   0   0   0/0Ivan Provorov D  25:55   0  0    1   1   2   0   2   1   0/0Damon Severson D  21:45   0  1    1   1   2   4   1   1   0/0Zach Werenski D  23:12   1  0    1   3   0   0   0   0   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       23  19  10   8  13 28/64
+                                        43.8%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  60:00   4  26/30  24/26   2/4   0/0     0
+              .867   .923  .500 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  18:48   1  1   -1   3   1   0   0   1   1/2Ivan Ivan C  09:41   0  1   -1   1   0   0   0   0   1/4Parker Kelly C  12:12   0  1   -1   1   0   0   1   1  9/13Joel Kiviranta L  09:09   0  0   -1   0   0   0   0   0   0/0Nikolai Kovalenko R  13:50   0  0    0   1   0   0   1   1   0/0Nathan MacKinnon C  23:23   1  1    1   3   0  10   2   0 10/16Casey Mittelstadt C  22:35   1  0   -1   2   4   2   0   2  7/16Logan O'Connor R  16:04   0  0   -1   1   1   0   0   0   0/0Mikko Rantanen R  24:04   0  1    1   3   1   2   2   0   3/5Calum Ritchie C  15:10   0  0   -1   4   2   0   1   1   2/3Chris Wagner R  06:26   0  0   -1   1   0   2   0   0   3/4Miles Wood L  12:24   1  0   -1   3   1   0   0   1   0/1Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:22   0  0   -2   0   0   0   3   0   0/0Cale Makar D  23:33   0  2    0   1   0   0   0   1   0/0Sam Malinski D  16:45   0  0   -1   1   0   0   0   2   0/0Josh Manson D  16:46   0  0   -2   1   0   2   0   1   0/0Devon Toews D  21:57   0  0   -1   2   3   0   0   0   0/0Calvin de Haan D  15:35   0  1   -1   2   4   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  17  18  10  11 36/64
+                                        56.2%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  35:53   2  11/13  10/12   1/1   0/0     0
+              .846   .833 1.000 Alexandar Georgiev G  21:56   3    6/9    5/8   0/0   1/1     0
+              .667   .625  1.000 Avalanche Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  17/22  15/20   1/1   1/1     0
+              .773   .750 1.000 1.000
+Columbus
+Blue Jackets1-1-0Final6 - 4Colorado
+Avalanche0-2-0
+Columbus
+Blue Jackets1-1-0
+Final6 - 4
+Colorado
+Avalanche0-2-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+CBJ   2  3  1    6  
+COL   1  2  1    4
+1st Period: ShowHide
+P1  17:19 
+Chris Wagner (COL) interference against Zach Aston-Reese (2 minutes)
+   0-0
+P1  17:19 
+Mathieu Olivier (CBJ) roughing against Chris Wagner (2 minutes)
+   0-0
+P1  17:19 
+Josh Manson (COL) roughing against Mathieu Olivier (2 minutes)
+   0-0
+P1  13:22 
+Zach Werenski (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Yegor Chinakhov and Sean Monahan
+   1-0
+P1  12:15 
+Kent Johnson (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Jake Christiansen
+   2-0
+P1  01:24 
+Cole Sillinger (CBJ) tripping against Samuel Girard (2 minutes)
+   2-0
+P1  00:08 
+Nathan MacKinnon (COL) scores power-play goal on slap shot past Daniil Tarasov, assisted by Ivan Ivan and Mikko Rantanen
+   2-1
+2nd Period: ShowHide
+P2  18:04 
+Adam Fantilli (CBJ) scores on wrist shot past Alexandar Georgiev, assisted by Kevin Labanc and Daniil Tarasov
+   3-1
+P2  17:49 
+Miles Wood (COL) scores on snap shot past Daniil Tarasov, assisted by Parker Kelly and Calvin de Haan
+   3-2
+P2  16:29 
+Damon Severson (CBJ) slashing against Nikolai Kovalenko (2 minutes)
+   3-2
+P2  16:18 
+Casey Mittelstadt (COL) scores power-play goal on backhand shot past Daniil Tarasov, assisted by Ross Colton and Cale Makar
+   3-3
+P2  15:27 
+Kirill Marchenko (CBJ) scores on wrist shot past Justus Annunen, assisted by Damon Severson
+   4-3
+P2  10:11 
+Yegor Chinakhov (CBJ) scores on wrist shot past Justus Annunen, assisted by Sean Monahan and Kirill Marchenko
+   5-3
+P2  08:59 
+Erik Gudbranson (CBJ) hooking against Miles Wood (2 minutes)
+   5-3
+3rd Period: ShowHide
+P3  09:39 
+Damon Severson (CBJ) hooking against Nikolai Kovalenko (2 minutes)
+   5-3
+P3  08:34 
+Mikko Rantanen (COL) hooking against Ivan Provorov (2 minutes)
+   5-3
+P3  01:20 
+Ross Colton (COL) scores goal with extra attacker on wrist shot past Daniil Tarasov, assisted by Nathan MacKinnon and Cale Makar
+   5-4
+P3  00:39 
+Casey Mittelstadt (COL) holding against Mikael Pyyhtia (2 minutes)
+   5-4
+P3  00:12 
+Sean Monahan (CBJ) scores on empty net, assisted by Kirill Marchenko and Yegor Chinakhov
+   6-4
+P3  00:12 
+Nathan MacKinnon (COL) misconduct (10 minutes)
+   6-4
+1st Period: ShowHide
+P1  17:19 
+Chris Wagner (COL) interference against Zach Aston-Reese (2 minutes)
+   0-0
+P1  17:19 
+Mathieu Olivier (CBJ) roughing against Chris Wagner (2 minutes)
+   0-0
+P1  17:19 
+Josh Manson (COL) roughing against Mathieu Olivier (2 minutes)
+   0-0
+P1  13:22 
+Zach Werenski (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Yegor Chinakhov and Sean Monahan
+   1-0
+P1  12:15 
+Kent Johnson (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Jake Christiansen
+   2-0
+P1  01:24 
+Cole Sillinger (CBJ) tripping against Samuel Girard (2 minutes)
+   2-0
+P1  00:08 
+Nathan MacKinnon (COL) scores power-play goal on slap shot past Daniil Tarasov, assisted by Ivan Ivan and Mikko Rantanen
+   2-1
+P1  17:19 
+Chris Wagner (COL) interference against Zach Aston-Reese (2 minutes)
+   0-0
+P1  17:19 
+Mathieu Olivier (CBJ) roughing against Chris Wagner (2 minutes)
+   0-0
+P1  17:19 
+Josh Manson (COL) roughing against Mathieu Olivier (2 minutes)
+   0-0
+P1  13:22 
+Zach Werenski (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Yegor Chinakhov and Sean Monahan
+   1-0
+P1  12:15 
+Kent Johnson (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Jake Christiansen
+   2-0
+P1  01:24 
+Cole Sillinger (CBJ) tripping against Samuel Girard (2 minutes)
+   2-0
+P1  00:08 
+Nathan MacKinnon (COL) scores power-play goal on slap shot past Daniil Tarasov, assisted by Ivan Ivan and Mikko Rantanen
+   2-1
+P1  17:19
+Chris Wagner (COL) interference against Zach Aston-Reese (2 minutes)
+0-0
+P1  17:19
+Mathieu Olivier (CBJ) roughing against Chris Wagner (2 minutes)
+0-0
+P1  17:19
+Josh Manson (COL) roughing against Mathieu Olivier (2 minutes)
+0-0
+P1  13:22
+Zach Werenski (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Yegor Chinakhov and Sean Monahan
+1-0
+P1  12:15
+Kent Johnson (CBJ) scores on snap shot past Alexandar Georgiev, assisted by Jake Christiansen
+2-0
+P1  01:24
+Cole Sillinger (CBJ) tripping against Samuel Girard (2 minutes)
+2-0
+P1  00:08
+Nathan MacKinnon (COL) scores power-play goal on slap shot past Daniil Tarasov, assisted by Ivan Ivan and Mikko Rantanen
+2-1
+2nd Period: ShowHide
+P2  18:04 
+Adam Fantilli (CBJ) scores on wrist shot past Alexandar Georgiev, assisted by Kevin Labanc and Daniil Tarasov
+   3-1
+P2  17:49 
+Miles Wood (COL) scores on snap shot past Daniil Tarasov, assisted by Parker Kelly and Calvin de Haan
+   3-2
+P2  16:29 
+Damon Severson (CBJ) slashing against Nikolai Kovalenko (2 minutes)
+   3-2
+P2  16:18 
+Casey Mittelstadt (COL) scores power-play goal on backhand shot past Daniil Tarasov, assisted by Ross Colton and Cale Makar
+   3-3
+P2  15:27 
+Kirill Marchenko (CBJ) scores on wrist shot past Justus Annunen, assisted by Damon Severson
+   4-3
+P2  10:11 
+Yegor Chinakhov (CBJ) scores on wrist shot past Justus Annunen, assisted by Sean Monahan and Kirill Marchenko
+   5-3
+P2  08:59 
+Erik Gudbranson (CBJ) hooking against Miles Wood (2 minutes)
+   5-3
+P2  18:04 
+Adam Fantilli (CBJ) scores on wrist shot past Alexandar Georgiev, assisted by Kevin Labanc and Daniil Tarasov
+   3-1
+P2  17:49 
+Miles Wood (COL) scores on snap shot past Daniil Tarasov, assisted by Parker Kelly and Calvin de Haan
+   3-2
+P2  16:29 
+Damon Severson (CBJ) slashing against Nikolai Kovalenko (2 minutes)
+   3-2
+P2  16:18 
+Casey Mittelstadt (COL) scores power-play goal on backhand shot past Daniil Tarasov, assisted by Ross Colton and Cale Makar
+   3-3
+P2  15:27 
+Kirill Marchenko (CBJ) scores on wrist shot past Justus Annunen, assisted by Damon Severson
+   4-3
+P2  10:11 
+Yegor Chinakhov (CBJ) scores on wrist shot past Justus Annunen, assisted by Sean Monahan and Kirill Marchenko
+   5-3
+P2  08:59 
+Erik Gudbranson (CBJ) hooking against Miles Wood (2 minutes)
+   5-3
+P2  18:04
+Adam Fantilli (CBJ) scores on wrist shot past Alexandar Georgiev, assisted by Kevin Labanc and Daniil Tarasov
+3-1
+P2  17:49
+Miles Wood (COL) scores on snap shot past Daniil Tarasov, assisted by Parker Kelly and Calvin de Haan
+3-2
+P2  16:29
+Damon Severson (CBJ) slashing against Nikolai Kovalenko (2 minutes)
+3-2
+P2  16:18
+Casey Mittelstadt (COL) scores power-play goal on backhand shot past Daniil Tarasov, assisted by Ross Colton and Cale Makar
+3-3
+P2  15:27
+Kirill Marchenko (CBJ) scores on wrist shot past Justus Annunen, assisted by Damon Severson
+4-3
+P2  10:11
+Yegor Chinakhov (CBJ) scores on wrist shot past Justus Annunen, assisted by Sean Monahan and Kirill Marchenko
+5-3
+P2  08:59
+Erik Gudbranson (CBJ) hooking against Miles Wood (2 minutes)
+5-3
+3rd Period: ShowHide
+P3  09:39 
+Damon Severson (CBJ) hooking against Nikolai Kovalenko (2 minutes)
+   5-3
+P3  08:34 
+Mikko Rantanen (COL) hooking against Ivan Provorov (2 minutes)
+   5-3
+P3  01:20 
+Ross Colton (COL) scores goal with extra attacker on wrist shot past Daniil Tarasov, assisted by Nathan MacKinnon and Cale Makar
+   5-4
+P3  00:39 
+Casey Mittelstadt (COL) holding against Mikael Pyyhtia (2 minutes)
+   5-4
+P3  00:12 
+Sean Monahan (CBJ) scores on empty net, assisted by Kirill Marchenko and Yegor Chinakhov
+   6-4
+P3  00:12 
+Nathan MacKinnon (COL) misconduct (10 minutes)
+   6-4
+P3  09:39 
+Damon Severson (CBJ) hooking against Nikolai Kovalenko (2 minutes)
+   5-3
+P3  08:34 
+Mikko Rantanen (COL) hooking against Ivan Provorov (2 minutes)
+   5-3
+P3  01:20 
+Ross Colton (COL) scores goal with extra attacker on wrist shot past Daniil Tarasov, assisted by Nathan MacKinnon and Cale Makar
+   5-4
+P3  00:39 
+Casey Mittelstadt (COL) holding against Mikael Pyyhtia (2 minutes)
+   5-4
+P3  00:12 
+Sean Monahan (CBJ) scores on empty net, assisted by Kirill Marchenko and Yegor Chinakhov
+   6-4
+P3  00:12 
+Nathan MacKinnon (COL) misconduct (10 minutes)
+   6-4
+P3  09:39
+Damon Severson (CBJ) hooking against Nikolai Kovalenko (2 minutes)
+5-3
+P3  08:34
+Mikko Rantanen (COL) hooking against Ivan Provorov (2 minutes)
+5-3
+P3  01:20
+Ross Colton (COL) scores goal with extra attacker on wrist shot past Daniil Tarasov, assisted by Nathan MacKinnon and Cale Makar
+5-4
+P3  00:39
+Casey Mittelstadt (COL) holding against Mikael Pyyhtia (2 minutes)
+5-4
+P3  00:12
+Sean Monahan (CBJ) scores on empty net, assisted by Kirill Marchenko and Yegor Chinakhov
+6-4
+P3  00:12
+Nathan MacKinnon (COL) misconduct (10 minutes)
+6-4
+Box Score:
+ 
+Back to Top
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  00:34   0  0    0   0   0   0   0   0   0/0Yegor Chinakhov R  17:57   1  2    2   4   1   0   0   0   0/0Adam Fantilli C  16:53   1  0    0   2   3   0   0   2  5/14Kent Johnson C  21:30   1  0    1   2   0   0   0   2   0/2Sean Kuraly C  09:17   0  0    0   0   0   0   0   0   4/6Kevin Labanc R  10:54   0  1    0   1   2   0   1   0   0/0Kirill Marchenko R  18:11   1  2    2   2   0   0   2   1   0/0Sean Monahan C  20:20   1  2    2   2   0   0   0   0 11/21Mathieu Olivier R  09:16   0  0    0   0   4   2   0   0   0/0Mikael Pyyhtia L  19:08   0  0    1   0   2   0   0   0   0/0Cole Sillinger C  20:05   0  0    1   5   0   2   2   1  8/21James van Riemsdyk L  12:00   0  0    0   0   0   0   0   2   0/0Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  17:17   0  1    2   0   1   0   0   1   0/0Erik Gudbranson D  16:54   0  0    0   0   2   2   0   2   0/0Jack Johnson D  13:25   0  0    1   0   0   0   0   0   0/0Ivan Provorov D  25:55   0  0    1   1   2   0   2   1   0/0Damon Severson D  21:45   0  1    1   1   2   4   1   1   0/0Zach Werenski D  23:12   1  0    1   3   0   0   0   0   0/0Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       23  19  10   8  13 28/64
+                                        43.8%Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  60:00   4  26/30  24/26   2/4   0/0     0
+              .867   .923  .500 
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  18:48   1  1   -1   3   1   0   0   1   1/2Ivan Ivan C  09:41   0  1   -1   1   0   0   0   0   1/4Parker Kelly C  12:12   0  1   -1   1   0   0   1   1  9/13Joel Kiviranta L  09:09   0  0   -1   0   0   0   0   0   0/0Nikolai Kovalenko R  13:50   0  0    0   1   0   0   1   1   0/0Nathan MacKinnon C  23:23   1  1    1   3   0  10   2   0 10/16Casey Mittelstadt C  22:35   1  0   -1   2   4   2   0   2  7/16Logan O'Connor R  16:04   0  0   -1   1   1   0   0   0   0/0Mikko Rantanen R  24:04   0  1    1   3   1   2   2   0   3/5Calum Ritchie C  15:10   0  0   -1   4   2   0   1   1   2/3Chris Wagner R  06:26   0  0   -1   1   0   2   0   0   3/4Miles Wood L  12:24   1  0   -1   3   1   0   0   1   0/1Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:22   0  0   -2   0   0   0   3   0   0/0Cale Makar D  23:33   0  2    0   1   0   0   0   1   0/0Sam Malinski D  16:45   0  0   -1   1   0   0   0   2   0/0Josh Manson D  16:46   0  0   -2   1   0   2   0   1   0/0Devon Toews D  21:57   0  0   -1   2   3   0   0   0   0/0Calvin de Haan D  15:35   0  1   -1   2   4   0   0   0   0/0Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  17  18  10  11 36/64
+                                        56.2%Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  35:53   2  11/13  10/12   1/1   0/0     0
+              .846   .833 1.000 Alexandar Georgiev G  21:56   3    6/9    5/8   0/0   1/1     0
+              .667   .625  1.000 Avalanche Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  17/22  15/20   1/1   1/1     0
+              .773   .750 1.000 1.000
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOZach Aston-Reese C  00:34   0  0    0   0   0   0   0   0   0/0Yegor Chinakhov R  17:57   1  2    2   4   1   0   0   0   0/0Adam Fantilli C  16:53   1  0    0   2   3   0   0   2  5/14Kent Johnson C  21:30   1  0    1   2   0   0   0   2   0/2Sean Kuraly C  09:17   0  0    0   0   0   0   0   0   4/6Kevin Labanc R  10:54   0  1    0   1   2   0   1   0   0/0Kirill Marchenko R  18:11   1  2    2   2   0   0   2   1   0/0Sean Monahan C  20:20   1  2    2   2   0   0   0   0 11/21Mathieu Olivier R  09:16   0  0    0   0   4   2   0   0   0/0Mikael Pyyhtia L  19:08   0  0    1   0   2   0   0   0   0/0Cole Sillinger C  20:05   0  0    1   5   0   2   2   1  8/21James van Riemsdyk L  12:00   0  0    0   0   0   0   0   2   0/0
+Blue Jackets Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Zach Aston-Reese C
+00:34   0  0    0   0   0   0   0   0   0/0
+Yegor Chinakhov R
+17:57   1  2    2   4   1   0   0   0   0/0
+Adam Fantilli C
+16:53   1  0    0   2   3   0   0   2  5/14
+Kent Johnson C
+21:30   1  0    1   2   0   0   0   2   0/2
+Sean Kuraly C
+09:17   0  0    0   0   0   0   0   0   4/6
+Kevin Labanc R
+10:54   0  1    0   1   2   0   1   0   0/0
+Kirill Marchenko R
+18:11   1  2    2   2   0   0   2   1   0/0
+Sean Monahan C
+20:20   1  2    2   2   0   0   0   0 11/21
+Mathieu Olivier R
+09:16   0  0    0   0   4   2   0   0   0/0
+Mikael Pyyhtia L
+19:08   0  0    1   0   2   0   0   0   0/0
+Cole Sillinger C
+20:05   0  0    1   5   0   2   2   1  8/21
+James van Riemsdyk L
+12:00   0  0    0   0   0   0   0   2   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOJake Christiansen D  17:17   0  1    2   0   1   0   0   1   0/0Erik Gudbranson D  16:54   0  0    0   0   2   2   0   2   0/0Jack Johnson D  13:25   0  0    1   0   0   0   0   0   0/0Ivan Provorov D  25:55   0  0    1   1   2   0   2   1   0/0Damon Severson D  21:45   0  1    1   1   2   4   1   1   0/0Zach Werenski D  23:12   1  0    1   3   0   0   0   0   0/0
+Blue Jackets Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Jake Christiansen D
+17:17   0  1    2   0   1   0   0   1   0/0
+Erik Gudbranson D
+16:54   0  0    0   0   2   2   0   2   0/0
+Jack Johnson D
+13:25   0  0    1   0   0   0   0   0   0/0
+Ivan Provorov D
+25:55   0  0    1   1   2   0   2   1   0/0
+Damon Severson D
+21:45   0  1    1   1   2   4   1   1   0/0
+Zach Werenski D
+23:12   1  0    1   3   0   0   0   0   0/0
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO          6  9       23  19  10   8  13 28/64
+                                        43.8%
+Blue Jackets Totals:
+          G  A        S   B  PM  TK  GV    FO
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMDaniil Tarasov G  60:00   4  26/30  24/26   2/4   0/0     0
+              .867   .923  .500
+Blue Jackets Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Daniil Tarasov G
+60:00   4  26/30  24/26   2/4   0/0     0
+              .867   .923  .500
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FORoss Colton C  18:48   1  1   -1   3   1   0   0   1   1/2Ivan Ivan C  09:41   0  1   -1   1   0   0   0   0   1/4Parker Kelly C  12:12   0  1   -1   1   0   0   1   1  9/13Joel Kiviranta L  09:09   0  0   -1   0   0   0   0   0   0/0Nikolai Kovalenko R  13:50   0  0    0   1   0   0   1   1   0/0Nathan MacKinnon C  23:23   1  1    1   3   0  10   2   0 10/16Casey Mittelstadt C  22:35   1  0   -1   2   4   2   0   2  7/16Logan O'Connor R  16:04   0  0   -1   1   1   0   0   0   0/0Mikko Rantanen R  24:04   0  1    1   3   1   2   2   0   3/5Calum Ritchie C  15:10   0  0   -1   4   2   0   1   1   2/3Chris Wagner R  06:26   0  0   -1   1   0   2   0   0   3/4Miles Wood L  12:24   1  0   -1   3   1   0   0   1   0/1
+Avalanche Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Ross Colton C
+18:48   1  1   -1   3   1   0   0   1   1/2
+Ivan Ivan C
+09:41   0  1   -1   1   0   0   0   0   1/4
+Parker Kelly C
+12:12   0  1   -1   1   0   0   1   1  9/13
+Joel Kiviranta L
+09:09   0  0   -1   0   0   0   0   0   0/0
+Nikolai Kovalenko R
+13:50   0  0    0   1   0   0   1   1   0/0
+Nathan MacKinnon C
+23:23   1  1    1   3   0  10   2   0 10/16
+Casey Mittelstadt C
+22:35   1  0   -1   2   4   2   0   2  7/16
+Logan O'Connor R
+16:04   0  0   -1   1   1   0   0   0   0/0
+Mikko Rantanen R
+24:04   0  1    1   3   1   2   2   0   3/5
+Calum Ritchie C
+15:10   0  0   -1   4   2   0   1   1   2/3
+Chris Wagner R
+06:26   0  0   -1   1   0   2   0   0   3/4
+Miles Wood L
+12:24   1  0   -1   3   1   0   0   1   0/1
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOSamuel Girard D  19:22   0  0   -2   0   0   0   3   0   0/0Cale Makar D  23:33   0  2    0   1   0   0   0   1   0/0Sam Malinski D  16:45   0  0   -1   1   0   0   0   2   0/0Josh Manson D  16:46   0  0   -2   1   0   2   0   1   0/0Devon Toews D  21:57   0  0   -1   2   3   0   0   0   0/0Calvin de Haan D  15:35   0  1   -1   2   4   0   0   0   0/0
+Avalanche Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Samuel Girard D
+19:22   0  0   -2   0   0   0   3   0   0/0
+Cale Makar D
+23:33   0  2    0   1   0   0   0   1   0/0
+Sam Malinski D
+16:45   0  0   -1   1   0   0   0   2   0/0
+Josh Manson D
+16:46   0  0   -2   1   0   2   0   1   0/0
+Devon Toews D
+21:57   0  0   -1   2   3   0   0   0   0/0
+Calvin de Haan D
+15:35   0  1   -1   2   4   0   0   0   0/0
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       30  17  18  10  11 36/64
+                                        56.2%
+Avalanche Totals:
+          G  A        S   B  PM  TK  GV    FO
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJustus Annunen G  35:53   2  11/13  10/12   1/1   0/0     0
+              .846   .833 1.000 Alexandar Georgiev G  21:56   3    6/9    5/8   0/0   1/1     0
+              .667   .625  1.000
+Avalanche Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Justus Annunen G
+35:53   2  11/13  10/12   1/1   0/0     0
+              .846   .833 1.000
+Alexandar Georgiev G
+21:56   3    6/9    5/8   0/0   1/1     0
+              .667   .625  1.000
+Avalanche Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM          5  17/22  15/20   1/1   1/1     0
+              .773   .750 1.000 1.000
+Avalanche Goalie Totals:
+         GA  SV/SH   EVEN    PP    SH    PM
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .

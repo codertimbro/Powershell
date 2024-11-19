@@ -1,0 +1,442 @@
+< Oct. 10 NHL Scores Dark ModeLight Mode
+Dark ModeLight Mode
+Dallas
+Stars1-0-0Final4 - 3Nashville
+Predators0-1-0
+Goals & Penalties Box Score
+      1  2  3    T  
+------------------  
+DAL   0  4  0    4  
+NSH   0  1  2    3
+Goals and Penalties: ShowHide
+1st Period: ShowHide
+P1  18:09 
+Mason Marchment (DAL) interference against Roman Josi (2 minutes)
+   0-0
+P1  12:30 
+Alexandre Carrier (NSH) cross-checking against Colin Blackwell (2 minutes)
+   0-0
+P1  06:31 
+Nils Lundkvist (DAL) slashing against Michael McCarron (2 minutes)
+   0-0
+P1  05:34 
+Steven Stamkos (NSH) hooking against Thomas Harley (2 minutes)
+   0-0
+P1  01:36 
+Jonathan Marchessault (NSH) high-sticking against Mathew Dumba (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  17:55 
+Roope Hintz (DAL) scores on wrist shot past Scott Wedgewood, assisted by Logan Stankoven and Wyatt Johnston
+   1-0
+P2  17:36 
+Jason Robertson (DAL) scores on snap shot past Scott Wedgewood, assisted by Roope Hintz and Logan Stankoven
+   2-0
+P2  17:05 
+Sam Steel (DAL) high-sticking against Luke Evangelista (2 minutes)
+   2-0
+P2  16:30 
+Filip Forsberg (NSH) scores power-play goal on snap shot past Jake Oettinger, assisted by Jonathan Marchessault and Roman Josi
+   2-1
+P2  13:06 
+NSH penalty, too many men on the ice (2 minutes), served by Luke Evangelista
+   2-1
+P2  11:57 
+Mason Marchment (DAL) scores power-play goal on wrist shot past Scott Wedgewood, assisted by Matt Duchene and Logan Stankoven
+   3-1
+P2  10:22 
+Mathew Dumba (DAL) holding the stick against Luke Evangelista (2 minutes)
+   3-1
+P2  01:45 
+Mason Marchment (DAL) scores on wrist shot past Scott Wedgewood, assisted by Tyler Seguin and Thomas Harley
+   4-1
+P2  01:02 
+Mathew Dumba (DAL) high-sticking against Philip Tomasino (2 minutes)
+   4-1
+3rd Period: ShowHide
+P3  15:23 
+Tommy Novak (NSH) scores on backhand shot past Jake Oettinger, assisted by Luke Evangelista and Filip Forsberg
+   4-2
+P3  12:31 
+DAL penalty, too many men on the ice (2 minutes), served by Mason Marchment
+   4-2
+P3  01:35 
+Ryan O'Reilly (NSH) scores goal with extra attacker on wrist shot past Jake Oettinger, assisted by Jonathan Marchessault
+   4-3
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOOskar Back C  09:04   0  0    0   0   0   0   0   1   1/4Jamie Benn L  17:34   0  0   -2   1   0   0   0   2   4/8Colin Blackwell C  10:35   0  0    0   0   0   0   0   1   3/7Evgenii Dadonov R  13:07   0  0   -2   3   0   0   0   1   0/0Matt Duchene C  16:19   0  1   -1   1   1   0   0   0   3/8Roope Hintz C  16:06   1  1    2   1   0   0   0   1   3/8Wyatt Johnston C  21:09   0  1    1   4   1   0   0   0  3/10Mason Marchment L  14:09   2  0    1   3   0   2   0   1   0/0Jason Robertson L  16:45   1  0    2   1   1   0   1   1   0/0Tyler Seguin C  15:30   0  1    1   0   0   0   0   2   1/6Logan Stankoven C  12:29   0  3    2   0   1   0   0   0   1/3Sam Steel C  12:35   0  0   -1   0   0   2   0   1   1/4Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  18:28   0  0    2   0   2   4   0   2   0/0Thomas Harley D  19:23   0  1    0   4   2   0   0   1   0/0Miro Heiskanen D  23:31   0  0    2   0   1   0   1   1   0/0Esa Lindell D  21:45   0  0   -1   2   5   0   0   3   0/0Nils Lundkvist D  12:23   0  0    1   0   0   2   0   0   0/0Ilya Lyubushkin D  19:14   0  0   -2   0   1   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       20  15  10   2  19 20/58
+                                        34.5%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  59:19   3  33/36  19/21 13/14   1/1     0
+              .917   .905  .929 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:22   0  1    1   1   0   0   0   2   0/0Filip Forsberg L  20:34   1  1    0   4   2   0   0   2   0/0Mark Jankowski C  10:28   0  0   -1   0   1   0   0   2   3/4Jonathan Marchessault R  22:18   0  2    1   6   0   2   0   2   0/0Michael McCarron R  11:38   0  0   -1   2   1   0   0   1   5/7Tommy Novak C  13:09   1  0    1   2   0   0   0   3   1/3Gustav Nyquist C  16:08   0  0   -1   1   0   0   0   1   1/1Ryan O'Reilly C  22:14   1  0   -1   1   1   0   1   0 13/19Colton Sissons C  12:41   0  0    0   2   4   0   1   0 11/15Cole Smith L  10:59   0  0   -1   0   0   0   1   1   0/0Steven Stamkos C  23:01   0  0    0   3   0   2   1   0   4/9Philip Tomasino C  12:22   0  0    1   3   0   0   0   2   0/0Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  18:44   0  0   -1   0   2   2   0   0   0/0Dante Fabbro D  12:50   0  0    0   1   1   0   1   3   0/0Roman Josi D  29:07   0  1    0   4   2   0   1   2   0/0Jeremy Lauzon D  16:27   0  0    0   2   0   0   1   1   0/0Luke Schenn D  11:45   0  0    0   0   1   0   2   0   0/0Brady Skjei D  19:00   0  0   -2   4   2   0   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       36  17   6  10  22 38/58
+                                        65.5%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMScott Wedgewood G  57:04   4  16/20  14/17   1/2   1/1     0
+              .800   .824  .500 1.000
+Dallas
+Stars1-0-0Final4 - 3Nashville
+Predators0-1-0
+Dallas
+Stars1-0-0
+Final4 - 3
+Nashville
+Predators0-1-0
+Goals & Penalties Box Score
+1  2  3    T  
+------------------  
+DAL   0  4  0    4  
+NSH   0  1  2    3
+1st Period: ShowHide
+P1  18:09 
+Mason Marchment (DAL) interference against Roman Josi (2 minutes)
+   0-0
+P1  12:30 
+Alexandre Carrier (NSH) cross-checking against Colin Blackwell (2 minutes)
+   0-0
+P1  06:31 
+Nils Lundkvist (DAL) slashing against Michael McCarron (2 minutes)
+   0-0
+P1  05:34 
+Steven Stamkos (NSH) hooking against Thomas Harley (2 minutes)
+   0-0
+P1  01:36 
+Jonathan Marchessault (NSH) high-sticking against Mathew Dumba (2 minutes)
+   0-0
+2nd Period: ShowHide
+P2  17:55 
+Roope Hintz (DAL) scores on wrist shot past Scott Wedgewood, assisted by Logan Stankoven and Wyatt Johnston
+   1-0
+P2  17:36 
+Jason Robertson (DAL) scores on snap shot past Scott Wedgewood, assisted by Roope Hintz and Logan Stankoven
+   2-0
+P2  17:05 
+Sam Steel (DAL) high-sticking against Luke Evangelista (2 minutes)
+   2-0
+P2  16:30 
+Filip Forsberg (NSH) scores power-play goal on snap shot past Jake Oettinger, assisted by Jonathan Marchessault and Roman Josi
+   2-1
+P2  13:06 
+NSH penalty, too many men on the ice (2 minutes), served by Luke Evangelista
+   2-1
+P2  11:57 
+Mason Marchment (DAL) scores power-play goal on wrist shot past Scott Wedgewood, assisted by Matt Duchene and Logan Stankoven
+   3-1
+P2  10:22 
+Mathew Dumba (DAL) holding the stick against Luke Evangelista (2 minutes)
+   3-1
+P2  01:45 
+Mason Marchment (DAL) scores on wrist shot past Scott Wedgewood, assisted by Tyler Seguin and Thomas Harley
+   4-1
+P2  01:02 
+Mathew Dumba (DAL) high-sticking against Philip Tomasino (2 minutes)
+   4-1
+3rd Period: ShowHide
+P3  15:23 
+Tommy Novak (NSH) scores on backhand shot past Jake Oettinger, assisted by Luke Evangelista and Filip Forsberg
+   4-2
+P3  12:31 
+DAL penalty, too many men on the ice (2 minutes), served by Mason Marchment
+   4-2
+P3  01:35 
+Ryan O'Reilly (NSH) scores goal with extra attacker on wrist shot past Jake Oettinger, assisted by Jonathan Marchessault
+   4-3
+1st Period: ShowHide
+P1  18:09 
+Mason Marchment (DAL) interference against Roman Josi (2 minutes)
+   0-0
+P1  12:30 
+Alexandre Carrier (NSH) cross-checking against Colin Blackwell (2 minutes)
+   0-0
+P1  06:31 
+Nils Lundkvist (DAL) slashing against Michael McCarron (2 minutes)
+   0-0
+P1  05:34 
+Steven Stamkos (NSH) hooking against Thomas Harley (2 minutes)
+   0-0
+P1  01:36 
+Jonathan Marchessault (NSH) high-sticking against Mathew Dumba (2 minutes)
+   0-0
+P1  18:09 
+Mason Marchment (DAL) interference against Roman Josi (2 minutes)
+   0-0
+P1  12:30 
+Alexandre Carrier (NSH) cross-checking against Colin Blackwell (2 minutes)
+   0-0
+P1  06:31 
+Nils Lundkvist (DAL) slashing against Michael McCarron (2 minutes)
+   0-0
+P1  05:34 
+Steven Stamkos (NSH) hooking against Thomas Harley (2 minutes)
+   0-0
+P1  01:36 
+Jonathan Marchessault (NSH) high-sticking against Mathew Dumba (2 minutes)
+   0-0
+P1  18:09
+Mason Marchment (DAL) interference against Roman Josi (2 minutes)
+0-0
+P1  12:30
+Alexandre Carrier (NSH) cross-checking against Colin Blackwell (2 minutes)
+0-0
+P1  06:31
+Nils Lundkvist (DAL) slashing against Michael McCarron (2 minutes)
+0-0
+P1  05:34
+Steven Stamkos (NSH) hooking against Thomas Harley (2 minutes)
+0-0
+P1  01:36
+Jonathan Marchessault (NSH) high-sticking against Mathew Dumba (2 minutes)
+0-0
+2nd Period: ShowHide
+P2  17:55 
+Roope Hintz (DAL) scores on wrist shot past Scott Wedgewood, assisted by Logan Stankoven and Wyatt Johnston
+   1-0
+P2  17:36 
+Jason Robertson (DAL) scores on snap shot past Scott Wedgewood, assisted by Roope Hintz and Logan Stankoven
+   2-0
+P2  17:05 
+Sam Steel (DAL) high-sticking against Luke Evangelista (2 minutes)
+   2-0
+P2  16:30 
+Filip Forsberg (NSH) scores power-play goal on snap shot past Jake Oettinger, assisted by Jonathan Marchessault and Roman Josi
+   2-1
+P2  13:06 
+NSH penalty, too many men on the ice (2 minutes), served by Luke Evangelista
+   2-1
+P2  11:57 
+Mason Marchment (DAL) scores power-play goal on wrist shot past Scott Wedgewood, assisted by Matt Duchene and Logan Stankoven
+   3-1
+P2  10:22 
+Mathew Dumba (DAL) holding the stick against Luke Evangelista (2 minutes)
+   3-1
+P2  01:45 
+Mason Marchment (DAL) scores on wrist shot past Scott Wedgewood, assisted by Tyler Seguin and Thomas Harley
+   4-1
+P2  01:02 
+Mathew Dumba (DAL) high-sticking against Philip Tomasino (2 minutes)
+   4-1
+P2  17:55 
+Roope Hintz (DAL) scores on wrist shot past Scott Wedgewood, assisted by Logan Stankoven and Wyatt Johnston
+   1-0
+P2  17:36 
+Jason Robertson (DAL) scores on snap shot past Scott Wedgewood, assisted by Roope Hintz and Logan Stankoven
+   2-0
+P2  17:05 
+Sam Steel (DAL) high-sticking against Luke Evangelista (2 minutes)
+   2-0
+P2  16:30 
+Filip Forsberg (NSH) scores power-play goal on snap shot past Jake Oettinger, assisted by Jonathan Marchessault and Roman Josi
+   2-1
+P2  13:06 
+NSH penalty, too many men on the ice (2 minutes), served by Luke Evangelista
+   2-1
+P2  11:57 
+Mason Marchment (DAL) scores power-play goal on wrist shot past Scott Wedgewood, assisted by Matt Duchene and Logan Stankoven
+   3-1
+P2  10:22 
+Mathew Dumba (DAL) holding the stick against Luke Evangelista (2 minutes)
+   3-1
+P2  01:45 
+Mason Marchment (DAL) scores on wrist shot past Scott Wedgewood, assisted by Tyler Seguin and Thomas Harley
+   4-1
+P2  01:02 
+Mathew Dumba (DAL) high-sticking against Philip Tomasino (2 minutes)
+   4-1
+P2  17:55
+Roope Hintz (DAL) scores on wrist shot past Scott Wedgewood, assisted by Logan Stankoven and Wyatt Johnston
+1-0
+P2  17:36
+Jason Robertson (DAL) scores on snap shot past Scott Wedgewood, assisted by Roope Hintz and Logan Stankoven
+2-0
+P2  17:05
+Sam Steel (DAL) high-sticking against Luke Evangelista (2 minutes)
+2-0
+P2  16:30
+Filip Forsberg (NSH) scores power-play goal on snap shot past Jake Oettinger, assisted by Jonathan Marchessault and Roman Josi
+2-1
+P2  13:06
+NSH penalty, too many men on the ice (2 minutes), served by Luke Evangelista
+2-1
+P2  11:57
+Mason Marchment (DAL) scores power-play goal on wrist shot past Scott Wedgewood, assisted by Matt Duchene and Logan Stankoven
+3-1
+P2  10:22
+Mathew Dumba (DAL) holding the stick against Luke Evangelista (2 minutes)
+3-1
+P2  01:45
+Mason Marchment (DAL) scores on wrist shot past Scott Wedgewood, assisted by Tyler Seguin and Thomas Harley
+4-1
+P2  01:02
+Mathew Dumba (DAL) high-sticking against Philip Tomasino (2 minutes)
+4-1
+3rd Period: ShowHide
+P3  15:23 
+Tommy Novak (NSH) scores on backhand shot past Jake Oettinger, assisted by Luke Evangelista and Filip Forsberg
+   4-2
+P3  12:31 
+DAL penalty, too many men on the ice (2 minutes), served by Mason Marchment
+   4-2
+P3  01:35 
+Ryan O'Reilly (NSH) scores goal with extra attacker on wrist shot past Jake Oettinger, assisted by Jonathan Marchessault
+   4-3
+P3  15:23 
+Tommy Novak (NSH) scores on backhand shot past Jake Oettinger, assisted by Luke Evangelista and Filip Forsberg
+   4-2
+P3  12:31 
+DAL penalty, too many men on the ice (2 minutes), served by Mason Marchment
+   4-2
+P3  01:35 
+Ryan O'Reilly (NSH) scores goal with extra attacker on wrist shot past Jake Oettinger, assisted by Jonathan Marchessault
+   4-3
+P3  15:23
+Tommy Novak (NSH) scores on backhand shot past Jake Oettinger, assisted by Luke Evangelista and Filip Forsberg
+4-2
+P3  12:31
+DAL penalty, too many men on the ice (2 minutes), served by Mason Marchment
+4-2
+P3  01:35
+Ryan O'Reilly (NSH) scores goal with extra attacker on wrist shot past Jake Oettinger, assisted by Jonathan Marchessault
+4-3
+Box Score:
+ 
+Back to Top
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOOskar Back C  09:04   0  0    0   0   0   0   0   1   1/4Jamie Benn L  17:34   0  0   -2   1   0   0   0   2   4/8Colin Blackwell C  10:35   0  0    0   0   0   0   0   1   3/7Evgenii Dadonov R  13:07   0  0   -2   3   0   0   0   1   0/0Matt Duchene C  16:19   0  1   -1   1   1   0   0   0   3/8Roope Hintz C  16:06   1  1    2   1   0   0   0   1   3/8Wyatt Johnston C  21:09   0  1    1   4   1   0   0   0  3/10Mason Marchment L  14:09   2  0    1   3   0   2   0   1   0/0Jason Robertson L  16:45   1  0    2   1   1   0   1   1   0/0Tyler Seguin C  15:30   0  1    1   0   0   0   0   2   1/6Logan Stankoven C  12:29   0  3    2   0   1   0   0   0   1/3Sam Steel C  12:35   0  0   -1   0   0   2   0   1   1/4Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  18:28   0  0    2   0   2   4   0   2   0/0Thomas Harley D  19:23   0  1    0   4   2   0   0   1   0/0Miro Heiskanen D  23:31   0  0    2   0   1   0   1   1   0/0Esa Lindell D  21:45   0  0   -1   2   5   0   0   3   0/0Nils Lundkvist D  12:23   0  0    1   0   0   2   0   0   0/0Ilya Lyubushkin D  19:14   0  0   -2   0   1   0   0   1   0/0Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       20  15  10   2  19 20/58
+                                        34.5%Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  59:19   3  33/36  19/21 13/14   1/1     0
+              .917   .905  .929 1.000 
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:22   0  1    1   1   0   0   0   2   0/0Filip Forsberg L  20:34   1  1    0   4   2   0   0   2   0/0Mark Jankowski C  10:28   0  0   -1   0   1   0   0   2   3/4Jonathan Marchessault R  22:18   0  2    1   6   0   2   0   2   0/0Michael McCarron R  11:38   0  0   -1   2   1   0   0   1   5/7Tommy Novak C  13:09   1  0    1   2   0   0   0   3   1/3Gustav Nyquist C  16:08   0  0   -1   1   0   0   0   1   1/1Ryan O'Reilly C  22:14   1  0   -1   1   1   0   1   0 13/19Colton Sissons C  12:41   0  0    0   2   4   0   1   0 11/15Cole Smith L  10:59   0  0   -1   0   0   0   1   1   0/0Steven Stamkos C  23:01   0  0    0   3   0   2   1   0   4/9Philip Tomasino C  12:22   0  0    1   3   0   0   0   2   0/0Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  18:44   0  0   -1   0   2   2   0   0   0/0Dante Fabbro D  12:50   0  0    0   1   1   0   1   3   0/0Roman Josi D  29:07   0  1    0   4   2   0   1   2   0/0Jeremy Lauzon D  16:27   0  0    0   2   0   0   1   1   0/0Luke Schenn D  11:45   0  0    0   0   1   0   2   0   0/0Brady Skjei D  19:00   0  0   -2   4   2   0   1   0   0/0Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       36  17   6  10  22 38/58
+                                        65.5%Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMScott Wedgewood G  57:04   4  16/20  14/17   1/2   1/1     0
+              .800   .824  .500 1.000
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOOskar Back C  09:04   0  0    0   0   0   0   0   1   1/4Jamie Benn L  17:34   0  0   -2   1   0   0   0   2   4/8Colin Blackwell C  10:35   0  0    0   0   0   0   0   1   3/7Evgenii Dadonov R  13:07   0  0   -2   3   0   0   0   1   0/0Matt Duchene C  16:19   0  1   -1   1   1   0   0   0   3/8Roope Hintz C  16:06   1  1    2   1   0   0   0   1   3/8Wyatt Johnston C  21:09   0  1    1   4   1   0   0   0  3/10Mason Marchment L  14:09   2  0    1   3   0   2   0   1   0/0Jason Robertson L  16:45   1  0    2   1   1   0   1   1   0/0Tyler Seguin C  15:30   0  1    1   0   0   0   0   2   1/6Logan Stankoven C  12:29   0  3    2   0   1   0   0   0   1/3Sam Steel C  12:35   0  0   -1   0   0   2   0   1   1/4
+Stars Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Oskar Back C
+09:04   0  0    0   0   0   0   0   1   1/4
+Jamie Benn L
+17:34   0  0   -2   1   0   0   0   2   4/8
+Colin Blackwell C
+10:35   0  0    0   0   0   0   0   1   3/7
+Evgenii Dadonov R
+13:07   0  0   -2   3   0   0   0   1   0/0
+Matt Duchene C
+16:19   0  1   -1   1   1   0   0   0   3/8
+Roope Hintz C
+16:06   1  1    2   1   0   0   0   1   3/8
+Wyatt Johnston C
+21:09   0  1    1   4   1   0   0   0  3/10
+Mason Marchment L
+14:09   2  0    1   3   0   2   0   1   0/0
+Jason Robertson L
+16:45   1  0    2   1   1   0   1   1   0/0
+Tyler Seguin C
+15:30   0  1    1   0   0   0   0   2   1/6
+Logan Stankoven C
+12:29   0  3    2   0   1   0   0   0   1/3
+Sam Steel C
+12:35   0  0   -1   0   0   2   0   1   1/4
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOMathew Dumba D  18:28   0  0    2   0   2   4   0   2   0/0Thomas Harley D  19:23   0  1    0   4   2   0   0   1   0/0Miro Heiskanen D  23:31   0  0    2   0   1   0   1   1   0/0Esa Lindell D  21:45   0  0   -1   2   5   0   0   3   0/0Nils Lundkvist D  12:23   0  0    1   0   0   2   0   0   0/0Ilya Lyubushkin D  19:14   0  0   -2   0   1   0   0   1   0/0
+Stars Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Mathew Dumba D
+18:28   0  0    2   0   2   4   0   2   0/0
+Thomas Harley D
+19:23   0  1    0   4   2   0   0   1   0/0
+Miro Heiskanen D
+23:31   0  0    2   0   1   0   1   1   0/0
+Esa Lindell D
+21:45   0  0   -1   2   5   0   0   3   0/0
+Nils Lundkvist D
+12:23   0  0    1   0   0   2   0   0   0/0
+Ilya Lyubushkin D
+19:14   0  0   -2   0   1   0   0   1   0/0
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO          4  8       20  15  10   2  19 20/58
+                                        34.5%
+Stars Totals:
+          G  A        S   B  PM  TK  GV    FO
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMJake Oettinger G  59:19   3  33/36  19/21 13/14   1/1     0
+              .917   .905  .929 1.000
+Stars Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Jake Oettinger G
+59:19   3  33/36  19/21 13/14   1/1     0
+              .917   .905  .929 1.000
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOLuke Evangelista R  12:22   0  1    1   1   0   0   0   2   0/0Filip Forsberg L  20:34   1  1    0   4   2   0   0   2   0/0Mark Jankowski C  10:28   0  0   -1   0   1   0   0   2   3/4Jonathan Marchessault R  22:18   0  2    1   6   0   2   0   2   0/0Michael McCarron R  11:38   0  0   -1   2   1   0   0   1   5/7Tommy Novak C  13:09   1  0    1   2   0   0   0   3   1/3Gustav Nyquist C  16:08   0  0   -1   1   0   0   0   1   1/1Ryan O'Reilly C  22:14   1  0   -1   1   1   0   1   0 13/19Colton Sissons C  12:41   0  0    0   2   4   0   1   0 11/15Cole Smith L  10:59   0  0   -1   0   0   0   1   1   0/0Steven Stamkos C  23:01   0  0    0   3   0   2   1   0   4/9Philip Tomasino C  12:22   0  0    1   3   0   0   0   2   0/0
+Predators Forwards:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Luke Evangelista R
+12:22   0  1    1   1   0   0   0   2   0/0
+Filip Forsberg L
+20:34   1  1    0   4   2   0   0   2   0/0
+Mark Jankowski C
+10:28   0  0   -1   0   1   0   0   2   3/4
+Jonathan Marchessault R
+22:18   0  2    1   6   0   2   0   2   0/0
+Michael McCarron R
+11:38   0  0   -1   2   1   0   0   1   5/7
+Tommy Novak C
+13:09   1  0    1   2   0   0   0   3   1/3
+Gustav Nyquist C
+16:08   0  0   -1   1   0   0   0   1   1/1
+Ryan O'Reilly C
+22:14   1  0   -1   1   1   0   1   0 13/19
+Colton Sissons C
+12:41   0  0    0   2   4   0   1   0 11/15
+Cole Smith L
+10:59   0  0   -1   0   0   0   1   1   0/0
+Steven Stamkos C
+23:01   0  0    0   3   0   2   1   0   4/9
+Philip Tomasino C
+12:22   0  0    1   3   0   0   0   2   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FOAlexandre Carrier D  18:44   0  0   -1   0   2   2   0   0   0/0Dante Fabbro D  12:50   0  0    0   1   1   0   1   3   0/0Roman Josi D  29:07   0  1    0   4   2   0   1   2   0/0Jeremy Lauzon D  16:27   0  0    0   2   0   0   1   1   0/0Luke Schenn D  11:45   0  0    0   0   1   0   2   0   0/0Brady Skjei D  19:00   0  0   -2   4   2   0   1   0   0/0
+Predators Defenseman:
+    TOI   G  A  +/-   S   B  PM  TK  GV    FO
+Alexandre Carrier D
+18:44   0  0   -1   0   2   2   0   0   0/0
+Dante Fabbro D
+12:50   0  0    0   1   1   0   1   3   0/0
+Roman Josi D
+29:07   0  1    0   4   2   0   1   2   0/0
+Jeremy Lauzon D
+16:27   0  0    0   2   0   0   1   1   0/0
+Luke Schenn D
+11:45   0  0    0   0   1   0   2   0   0/0
+Brady Skjei D
+19:00   0  0   -2   4   2   0   1   0   0/0
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO          3  5       36  17   6  10  22 38/58
+                                        65.5%
+Predators Totals:
+          G  A        S   B  PM  TK  GV    FO
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PMScott Wedgewood G  57:04   4  16/20  14/17   1/2   1/1     0
+              .800   .824  .500 1.000
+Predators Goalies:
+    TOI  GA  SV/SH   EVEN    PP    SH    PM
+Scott Wedgewood G
+57:04   4  16/20  14/17   1/2   1/1     0
+              .800   .824  .500 1.000
+plaintextsports.com
+TwitterInstagramTwitch.                                           .Built by CodeIsTheEnd
+Twitter
+Instagram
+Twitch
+.                                           .
