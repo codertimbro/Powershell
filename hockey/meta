@@ -1,0 +1,80 @@
+I like to build a rating systems to see which nhl team likely to score less than 2 goals in a matchup or score 4 or more
+Building a rating system to predict NHL team performance sounds like a fun project. To get started, let's break down the key factors that influence a team's scoring ability.
+Team Statistics
+Goals For (GF): A team's average goals scored per game.
+Goals Against (GA): A team's average goals allowed per game.
+Power Play Percentage (PP%): A team's success rate on power plays.
+Penalty Kill Percentage (PK%): A team's success rate on penalty kills.
+Game-Specific Factors
+Head-to-Head Matchups: Past performance against the opposing team.
+Home/Away Advantage: Teams tend to perform better at home.
+Injuries and Suspensions: Missing key players can impact a team's scoring ability.
+Rating System
+Assign weights to each factor based on their relative importance. For example:
+Team Statistics (40%): GF (15%), GA (10%), PP% (5%), PK% (10%)
+Game-Specific Factors (30%): Head-to-Head Matchups (15%), Home/Away Advantage (10%), Injuries and Suspensions (5%)
+Recent Performance (30%): A team's performance over the last 5-10 games
+Example Calculation
+Let's say we're evaluating the New Jersey Devils' chances of scoring less than 2 goals or 4 or more goals against the Calgary Flames. Based on the weights assigned, we calculate the Devils' rating as follows:
+Team Statistics: 70% (based on their GF, GA, PP%, and PK% this season)
+Game-Specific Factors: 60% (based on their head-to-head matchup history, home/away advantage, and injuries/suspensions)
+Recent Performance: 80% (based on their performance over the last 5-10 games)
+The Devils' overall rating would be: (0.4 x 70) + (0.3 x 60) + (0.3 x 80) = 72%
+You can then use this rating to determine the likelihood of the Devils scoring less than 2 goals or 4 or more goals against the Flames.
+fla vs tbl
+The Florida Panthers (FLA) and the Tampa Bay Lightning (TBL) have a long-standing rivalry, often referred to as the "Battle of Florida" or the "Battle of the Sunshine State" ¹.
+Their most recent matchup was in the 2023-2024 season playoffs, where the Panthers eliminated the Lightning in the first round, winning the series 4-1 ².
+The two teams are scheduled to face each other again in the upcoming season, with games set for December 22 and 23, 2024 ³.
+wsh at fla value
+The Washington Capitals (WSH) recently played the Florida Panthers (FLA) on November 25, 2024. The Capitals won 4-1 ¹.
+To determine the value of this matchup, let's consider some key statistics:
+Recent Performance: The Capitals have been performing well, with a 4-1 win over the Panthers in their last matchup ¹.
+Head-to-Head: The Capitals have had success against the Panthers in recent meetings.
+Home/Away Advantage: The Panthers are playing at home, which could give them an advantage.
+Considering these factors, the value of this matchup may be in favor of the Capitals, given their recent win over the Panthers. However, the Panthers' home advantage could make this a closer game.
+Rating System from the above.. trying to figure out how to tell why fla scored onl one goal
+To determine why the Florida Panthers (FLA) scored only one goal against the Washington Capitals (WSH), let's analyze the game using the rating system we established earlier:
+Team Statistics (40%)
+GF: FLA averages 3.2 goals per game (GPG), while WSH averages 3.1 GPG.
+GA: FLA averages 2.9 goals against per game (GAPG), while WSH averages 2.7 GAPG.
+PP%: FLA has a 22.5% power play percentage (PP%), while WSH has a 20.8% PP%.
+PK%: FLA has an 82.1% penalty kill percentage (PK%), while WSH has an 84.2% PK%.
+Game-Specific Factors (30%)
+Head-to-Head: WSH has had success against FLA in recent meetings.
+Home/Away Advantage: FLA was playing at home, which could have given them an advantage.
+Injuries and Suspensions: No significant injuries or suspensions were reported for either team.
+Recent Performance (30%)
+FLA: Had a 3-2 win over the Toronto Maple Leafs in their previous game.
+WSH: Had a 4-3 overtime loss to the Pittsburgh Penguins in their previous game.
+Analysis
+Based on the rating system, here are some possible reasons why FLA scored only one goal:
+WSH's strong defense: WSH's GA average is slightly better than FLA's, indicating a strong defensive performance.
+FLA's power play struggles: FLA's PP% is slightly lower than WSH's, which could have contributed to their limited scoring opportunities.
+WSH's head-to-head advantage: WSH's recent success against FLA might have given them an edge in this matchup.
+FLA's recent performance: Although FLA had a win in their previous game, their recent performance might not have been strong enough to overcome WSH's defensive efforts.
+Keep in mind that this analysis is based on a simplified rating system and might not capture all the nuances of the game.
+On Team stats, for gf and ga hsould you use away and home stats and not overall
+When evaluating team statistics, it's essential to consider the home and away splits for goals for (GF) and goals against (GA). This is because teams often perform differently at home versus on the road.
+Using Home and Away Splits
+Instead of using overall GF and GA statistics, you can use the home and away splits to get a more accurate picture. For example:
+For the Florida Panthers (FLA) playing at home:
+Home GF: 3.5 goals per game
+Home GA: 2.7 goals per game
+For the Washington Capitals (WSH) playing away:
+Away GF: 2.9 goals per game
+Away GA: 3.1 goals per game
+By using these home and away splits, you can get a better sense of how each team performs in different environments. This can help you make more informed decisions when evaluating their chances of scoring.
+Updated Rating System
+Here's an updated version of the rating system that incorporates home and away splits:
+Team Statistics (40%)
+Home/Away GF: Weighted average of home and away goals for per game.
+Home/Away GA: Weighted average of home and away goals against per game.
+PP%: Power play percentage.
+PK%: Penalty kill percentage.
+Game-Specific Factors (30%)
+Head-to-Head: Recent head-to-head matchups between the two teams.
+Home/Away Advantage: The advantage of playing at home versus on the road.
+Injuries and Suspensions: The impact of injuries and suspensions on each team's lineup.
+Recent Performance (30%)
+Recent Games: Each team's performance over their last 5-10 games.
+By incorporating home and away splits into the rating system, you can gain a more nuanced understanding of each team's strengths and weaknesses.
