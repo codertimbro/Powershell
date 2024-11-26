@@ -78,3 +78,60 @@ Injuries and Suspensions: The impact of injuries and suspensions on each team's 
 Recent Performance (30%)
 Recent Games: Each team's performance over their last 5-10 games.
 By incorporating home and away splits into the rating system, you can gain a more nuanced understanding of each team's strengths and weaknesses.
+
+
+To predict NHL over/under matchups within 70% accuracy, you'll need a combination of statistical analysis, team performance metrics, and betting trends. Here's a simplified value system to get you started:
+Team Performance Metrics: Analyze teams' recent performance, including goals for and against, power-play percentage, and penalty kill percentage. Websites like OddsTrader provide detailed NHL odds and statistics ¹.
+Head-to-Head Matchups: Study the teams' past matchups, including their scoring trends and any notable injuries or suspensions.
+Betting Trends: Look at public betting percentages and sharp money indicators. SportsBettingDime provides NHL public betting trends and analysis ².
+Injuries and Suspensions: Keep an eye on injured reserve lists and suspended players, as these can significantly impact a team's performance.
+Home and Away Records: Consider teams' home and away records, as some teams perform significantly better in their own arena.
+Recent Form: Analyze teams' recent form, including their last 5-10 games. This can help identify trends and patterns.
+By combining these factors, you can develop a value system to predict NHL over/under matchups. However, keep in mind that no system is foolproof, and upsets can occur. Always bet responsibly and within your means.
+if you look at the nhl game data from 2021 until today and internet or facebook, what arte some factors that cause an upset
+Analyzing NHL game data from 2021 to present, along with internet and social media trends, reveals several factors that contribute to upsets:
+Team-Related Factors
+Injuries to Key Players: Injuries to top scorers, goaltenders, or defensemen can significantly impact a team's performance.
+Goaltender Performance: A hot or cold streak by a goaltender can greatly influence a team's chances of winning.
+Team Fatigue: Teams playing their third game in four nights or fourth game in six nights may experience fatigue, leading to an upset.
+Coaching Changes: A recent coaching change can lead to an adjustment period, causing a team to underperform.
+Opponent-Related Factors
+Underdog Motivation: Teams with nothing to lose or seeking revenge for a previous loss may be more motivated to cause an upset.
+Opponent's Recent Performance: A team on a hot streak may be due for a regression, while a team on a cold streak may be due for a bounce-back.
+Head-to-Head Matchups: Teams with a history of success against their opponent may have an edge, while teams with a poor record against their opponent may struggle.
+External Factors
+Travel and Scheduling: Teams traveling across time zones or playing games with short rest may be at a disadvantage.
+Weather and Road Conditions: Inclement weather or poor road conditions can impact travel and team preparation.
+Social Media and Public Pressure: Teams facing intense public scrutiny or social media pressure may feel added stress, leading to an upset.
+In-Game Events: Events like fights, ejections, or controversial calls can shift momentum and impact the outcome of a game.
+Advanced Statistics
+Corsi and Fenwick: Teams with a high Corsi (shots attempted) or Fenwick (unblocked shots attempted) may be more likely to win, even if they're the underdog.
+Expected Goals: Teams with a high expected goals (xG) value may be more likely to score, even if they're the underdog.
+Goalie Save Percentage: Teams facing a goalie with a high save percentage may struggle to score, while teams facing a goalie with a low save percentage may have an easier time scoring.
+Keep in mind that upsets can occur due to a combination of these factors or unexpected events. Always bet responsibly and within your means.
+Advanced Statistics where is the best place to find this data
+Here are some top sources for advanced NHL statistics:
+Official Sources
+(link unavailable): The official NHL website provides advanced statistics, including Corsi, Fenwick, and expected goals.
+NHL's (link unavailable): A comprehensive online database with advanced statistics, including Corsi, Fenwick, and goalie advanced statistics.
+Third-Party Sources
+Natural Stat Trick: A popular website providing advanced statistics, including Corsi, Fenwick, expected goals, and more.
+MoneyPuck: Offers advanced statistics, including expected goals, Corsi, and Fenwick, with a focus on betting and fantasy hockey.
+HockeyViz: A website providing interactive visualizations of advanced hockey statistics, including Corsi, Fenwick, and expected goals.
+Corsica.Hockey: A comprehensive database of advanced hockey statistics, including Corsi, Fenwick, and expected goals.
+APIs and Data Feeds
+NHL's API: The official NHL API provides access to advanced statistics, including Corsi, Fenwick, and expected goals.
+MoneyPuck's API: Offers access to advanced statistics, including expected goals, Corsi, and Fenwick.
+Hockey-Reference's API: Provides access to a comprehensive database of hockey statistics, including advanced metrics.
+These sources will help you find the advanced statistics you need to gain a deeper understanding of the game.
+what is good formlua to combine say gf, ga, corsi, fenwick, Goalie Save Percentage, injuries, goaliee perfornamce, regression,
+Here's a sample formula to combine those metrics:
+Sample Formula
+Team Rating = (0.2 x GF/G) + (0.15 x Corsi For%) + (0.15 x Fenwick For%) + (0.1 x Goalie Save Percentage) + (0.1 x Injury Impact) + (0.1 x Goalie Performance) + (0.05 x Regression Factor) - (0.1 x GA/G)
+Injury Impact = (Number of Injured Players x Average TOI of Injured Players) / Total Team TOI
+Goalie Performance = (Goalie's Save Percentage x Goalie's Games Played) / Total Team Games Played
+Regression Factor = (Team's Current Winning Percentage - Team's Expected Winning Percentage) x 0.1
+Weighted Average Formula
+Alternatively, you can use a weighted average formula:
+Team Rating = (0.25 x GF/G) + (0.20 x Corsi For%) + (0.15 x Fenwick For%) + (0.10 x Goalie Save Percentage) + (0.05 x Injury Impact) + (0.05 x Goalie Performance) + (0.05 x Regression Factor) + (0.10 x 1 - (GA/G))
+Adjust the weights to suit your needs.
