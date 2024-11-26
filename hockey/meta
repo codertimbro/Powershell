@@ -135,3 +135,78 @@ Weighted Average Formula
 Alternatively, you can use a weighted average formula:
 Team Rating = (0.25 x GF/G) + (0.20 x Corsi For%) + (0.15 x Fenwick For%) + (0.10 x Goalie Save Percentage) + (0.05 x Injury Impact) + (0.05 x Goalie Performance) + (0.05 x Regression Factor) + (0.10 x 1 - (GA/G))
 Adjust the weights to suit your needs.
+
+
+
+Here's a step-by-step guide to performing over/under analysis in Excel for NHL games:
+Step 1: Collect Data
+Gather the following data for each NHL game:
+Date
+Teams (Home and Away)
+Total Goals (Over/Under)
+Actual Goals Scored (Home and Away)
+You can collect this data from various sources like:
+National Hockey League (NHL) official website
+Hockey-Reference.com
+NaturalStatTrick.com
+Data.nhl.com (NHL API)
+Step 2: Set up the Data in Excel
+Create a table in Excel with the following columns:
+Date	Home Team	Away Team	Total Goals	Actual Goals	Over/Under
+Step 3: Calculate Over/Under Outcomes
+In a new column, calculate the over/under outcome for each game:
+If Actual Goals > Total Goals, then "Over"
+If Actual Goals < Total Goals, then "Under"
+If Actual Goals = Total Goals, then "Push"
+You can use the following formula:
+=IF(E2>F2,"Over",IF(E2<F2,"Under","Push"))
+Assuming:
+E2 contains the Actual Goals
+F2 contains the Total Goals
+Step 4: Analyze Over/Under Trends
+Use pivot tables or formulas to analyze over/under trends:
+Calculate the number of overs, unders, and pushes for each team
+Calculate the percentage of overs, unders, and pushes for each team
+Identify teams with a high percentage of overs or unders
+Identify teams with a high percentage of pushes
+Step 5: Visualize the Data
+Use charts and graphs to visualize the over/under trends:
+Bar charts to show the number of overs, unders, and pushes for each team
+Pie charts to show the percentage of overs, unders, and pushes for each team
+Line graphs to show the over/under trends over time
+By following these steps, you can perform a comprehensive over/under analysis in Excel for NHL games.
+how to make the desicsion after you collect the data. like if both are over .5 for over 6 goals
+After collecting the data, you'll need to analyze it to make informed decisions. Here's a step-by-step guide to help you make decisions based on the over/under data:
+Step 1: Define Your Criteria
+Establish clear criteria for making decisions. For example:
+If both teams have an over 6 goals percentage above 55%, take the over.
+If both teams have an over 6 goals percentage below 45%, take the under.
+Step 2: Calculate the Expected Value
+Calculate the expected value of taking the over or under. You can use the following formula:
+Expected Value (EV) = (Probability of Winning x Potential Winnings) - (Probability of Losing x Potential Losses)
+For example:
+Over 6 goals probability: 60% (based on team statistics)
+Potential winnings: $100
+Potential losses: $100
+EV = (0.6 x $100) - (0.4 x $100) = $20
+Step 3: Consider Additional Factors
+Take into account other factors that might influence the game:
+Team injuries
+Goalie performance
+Recent team trends
+Head-to-head matchups
+Home/away advantage
+Step 4: Make a Decision
+Based on your analysis, make a decision:
+If the expected value is positive and you're confident in your analysis, take the over.
+If the expected value is negative or you're unsure, consider avoiding the bet or taking the under.
+Step 5: Monitor and Adjust
+Continuously monitor the performance of your decisions and adjust your strategy as needed:
+Refine your criteria and expected value calculations.
+Incorporate new data and factors into your analysis.
+Stay up-to-date with team and player performance.
+Example Decision-Making Table:
+Team 1 Over 6 Goals %	Team 2 Over 6 Goals %	Expected Value	Decision
+58%	62%	$25	Take Over
+42%	48%	-$15	Avoid/Take Under
+55%	50%	$10	Consider Taking Over
