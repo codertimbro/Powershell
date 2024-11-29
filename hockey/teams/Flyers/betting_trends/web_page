@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rangers Betting Trends Analysis</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Dyslexia-friendly styles */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            letter-spacing: 0.5px;
+            word-spacing: 3px;
+            max-width: 100%;
+            overflow-x: hidden;
+            color: #333;
+        }
+        
+        .trend-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .percentage {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #2c5282;
+        }
+        
+        .section-header {
+            background-color: #f8fafc;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 5px solid #2c5282;
+        }
+
+        .high-confidence {
+            border-left: 5px solid #2f855a;
+        }
+
+        .moderate-confidence {
+            border-left: 5px solid #ecc94b;
+        }
+
+        .low-confidence {
+            border-left: 5px solid #e53e3e;
+        }
+
+        /* Improved readability for lists */
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+
+        /* Navigation improvements */
+        .nav-link {
+            padding: 10px 15px;
+            margin: 0 5px;
+            border-radius: 5px;
+        }
+
+        .nav-link:hover {
+            background-color: rgba(44, 82, 130, 0.1);
+        }
+
+        .stat-highlight {
+            background-color: #ebf8ff;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">Rangers Betting Analysis</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#high-confidence">High Confidence</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#goalie-trends">Goalie Trends</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#situational">Situational</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#time-based">Time Based</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container py-4">
+        <div class="alert alert-info mb-4" role="alert">
+            <h4 class="alert-heading">Usage Guide</h4>
+            <p>All trends are based on historical data. Percentages indicate frequency of occurrence. Higher percentages suggest stronger trends.</p>
+        </div>
+
+        <section id="high-confidence" class="mb-5">
+            <div class="section-header high-confidence">
+                <h2>High Confidence Trends (75%+)</h2>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="trend-card p-4">
+                        <h3>Rest Advantage</h3>
+                        <p class="percentage">78%</p>
+                        <p>UNDER when:</p>
+                        <ul>
+                            <li>Team has 4+ days rest</li>
+                            <li>Playing at home</li>
+                            <li>Starting Fedotov</li>
+                            <li>Against teams on last game of road trip</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Additional high confidence cards -->
+            </div>
+        </section>
+
+        <section id="goalie-trends" class="mb-5">
+            <div class="section-header">
+                <h2>Goalie-Based Patterns</h2>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-6">
+                    <div class="trend-card p-4">
+                        <h3>Fedotov Starts</h3>
+                        <ul>
+                            <li><span class="stat-highlight">73%</span> UNDER with 3+ days rest</li>
+                            <li><span class="stat-highlight">75%</span> allows 2 or fewer goals vs winning teams</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Additional goalie trend cards -->
+            </div>
+        </section>
+
+        <!-- Additional sections following the same pattern -->
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Active section highlighting
+        window.addEventListener('scroll', () => {
+            let current = '';
+            document.querySelectorAll('section').forEach(section => {
+                const sectionTop = section.offsetTop;
+                if (pageYOffset >= sectionTop - 60) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            document.querySelectorAll('.nav-link').forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href').substring(1) === current) {
+                    link.classList.add('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
