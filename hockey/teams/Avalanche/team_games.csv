@@ -1,4 +1,3 @@
- 
 ,,,,,,,,,Team,Team,Team,Team,Team,,Opponent,Opponent,Opponent,Opponent,Opponent,,Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength),Advanced (at Even Strength)
 GP,Date,,Opponent,GF,GA,,,,S,PIM,PPG,PPO,SHG,,S,PIM,PPG,PPO,SHG,,CF,CA,CF%,FF,FA,FF%,FOW,FOL,FO%,oZS%,PDO
 1,2024-10-09,@,Vegas Golden Knights,4,8,L,,,32,6,1,3,0,,21,6,2,3,0,,56,33,62.9,40,24,62.5,17,28,37.8,63.8,76.3
@@ -27,3 +26,31 @@ GP,Date,,Opponent,GF,GA,,,,S,PIM,PPG,PPO,SHG,,S,PIM,PPG,PPO,SHG,,CF,CA,CF%,FF,FA
 24,2024-11-29,@,Dallas Stars,3,5,L,,,32,8,1,5,0,,24,10,2,4,0,,48,41,53.9,35,26,57.4,25,33,43.1,68.6,90.4
 25,2024-11-30,,Edmonton Oilers,1,4,L,,,28,8,1,5,0,,32,14,0,2,0,,43,44,49.4,32,36,47.1,12,31,27.9,53.9,85.2
 26,2024-12-03,@,Buffalo Sabres,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+30-Nov	 EDM	L 1-4	L -124	U 6.5	A. Georgiev	S. Skinner
+29-Nov	 @ DAL	L 3-5	L +114	O 6.5	A. Georgiev	J. Oettinger
+27-Nov	 VEG	W 2-1 (SO)	W -156	U 6.5	A. Georgiev	A. Hill
+25-Nov	 @ TB	L 2-8	L +106	O 6.5	J. Annunen	A. Vasilevskiy
+23-Nov	 @ FLA	W 7-4	W +112	O 6	A. Georgiev	S. Bobrovsky
+21-Nov	 @ WAS	W 2-1	W -148	U 6.5	A. Georgiev	L. Thompson
+18-Nov	 @ PHI	W 3-2	W -201	U 6.5	J. Annunen	A. Kolosov
+15-Nov	 WAS	L 2-5	L -163	P 7	J. Annunen	C. Lindgren
+13-Nov	 LA	W 4-2	W -125	P 6	A. Georgiev	D. Rittich
+11-Nov	 NAS	W 3-2 (OT)	W -137	U 6.5	A. Georgiev	J. Saros
+9-Nov	 CAR	W 6-4	W +111	O 6.5	A. Georgiev	S. Martin
+7-Nov	 @ WIN	L 0-1	L +126	U 6.5	A. Georgiev	C. Hellebuyck
+5-Nov	 SEA	W 6-3	W -183	O 6	J. Annunen	P. Grubauer
+2-Nov	 @ NAS	L 2-5	L +110	O 6	J. Annunen	J. Saros
+30-Oct	 TB	L 2-5	L +106	O 6.5	K. Kahkonen	A. Vasilevskiy
+28-Oct	 CHI	L 2-5	L -182	O 6.5	A. Georgiev	P. Mrazek
+27-Oct	 OTT	W 5-4	W -163	O 6.5	J. Annunen	A. Forsberg
+24-Oct	 @ UTAH	W 5-1	W -147	U 6.5	J. Annunen	K. Vejmelka
+22-Oct	 @ SEA	W 3-2	W -126	U 6.5	J. Annunen	P. Grubauer
+20-Oct	 @ SJ	W 4-1	W -260	U 6.5	J. Annunen	V. Vanecek
+18-Oct	 ANA	W 4-3 (OT)	W -270	P 7	A. Georgiev	L. Dostal
+16-Oct	 BOS	L 3-5	L -130	O 6.5	A. Georgiev	J. Korpisalo
+14-Oct	 NYI	L 2-6	L -146	O 6.5	A. Georgiev	I. Sorokin
+12-Oct	 CLB	L 4-6	L -320	O 6.5	J. Annunen	D. Tarasov
+9-Oct	 @ VEG	L 4-8	L -101	O 6.5	A. Georgiev	A. Hill
