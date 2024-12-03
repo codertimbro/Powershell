@@ -25,3 +25,32 @@ GP,Date,,Opponent,GF,GA,,,,S,PIM,PPG,PPO,SHG,,S,PIM,PPG,PPO,SHG,,CF,CA,CF%,FF,FA
 23,2024-11-29,,Vancouver Canucks,3,4,L,OT,,34,8,0,5,0,,22,10,1,4,0,,50,38,56.8,38,26,59.4,15,23,39.5,51.7,94.4
 24,2024-11-30,@,New York Islanders,0,3,L,,,29,6,0,2,0,,20,4,1,3,0,,60,34,63.8,45,24,65.2,20,25,44.4,60.0,85.7
 25,2024-12-03,,Colorado Avalanche,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+
+Date	VS	Score	ATS	O/U	Goalie	Opp. Goalie
+30-Nov	 @ NYI	L 0-3	L +106	U 5.5	J. Reimer	I. Sorokin
+29-Nov	 VAN	L 3-4 (OT)	L -107	O 5.5	U. Luukkonen	K. Lankinen
+27-Nov	 MIN	L 0-1	L +126	U 5.5	U. Luukkonen	F. Gustavsson
+23-Nov	 @ SJ	W 4-2	W -132	P 6	J. Reimer	M. Blackwood
+22-Nov	 @ ANA	W 3-2 (OT)	W -170	U 6	U. Luukkonen	J. Gibson
+20-Nov	 @ LA	W 1-0	W +145	U 5.5	J. Greenway	D. Rittich
+20-Nov	 @ LA	W 1-0	W +145	U 5.5	U. Luukkonen	D. Rittich
+16-Nov	 @ PHI	L 2-5	L -106	O 6	D. Levi	I. Fedotov
+14-Nov	 STL	W 4-3 (OT)	W -167	O 5.5	D. Levi	J. Binnington
+11-Nov	 MON	L 5-7	L -216	O 6.5	D. Levi	S. Montembeault
+9-Nov	 CAL	W 3-2 (SO)	W -138	U 6	U. Luukkonen	D. Vladar
+7-Nov	 @ NYR	W 6-1	W +172	O 6.5	U. Luukkonen	I. Shesterkin
+5-Nov	 OTT	W 5-1	W +102	P 6	U. Luukkonen	L. Ullmark
+2-Nov	 @ DET	L 1-2	L -107	U 6.5	U. Luukkonen	C. Talbot
+1-Nov	 NYI	L 3-4	L -110	O 5.5	D. Levi	I. Sorokin
+28-Oct	 FLA	L 2-5	L +133	O 6	U. Luukkonen	S. Bobrovsky
+26-Oct	 DET	W 5-3	W -144	O 6.5	U. Luukkonen	A. Lyon
+22-Oct	 DAL	W 4-2	W +132	P 6	U. Luukkonen	J. Oettinger
+19-Oct	 @ CHI	W 4-2	W -139	P 6	U. Luukkonen	A. Soderblom
+17-Oct	 @ CLB	L 4-6	L -141	O 6.5	D. Levi	D. Tarasov
+16-Oct	 @ PIT	L 5-6 (OT)	L +105	O 6.5	U. Luukkonen	J. Blomqvist
+12-Oct	 FLA	W 5-2	W -102	O 6	D. Levi	S. Knight
+10-Oct	 LA	L 1-3	L -107	U 6	U. Luukkonen	D. Kuemper
+5-Oct	 @ NJ	L 1-3	L +127	U 6.5	D. Levi	J. Allen
+4-Oct	 NJ	L 1-4	L +130	U 6.5	U. Luukkonen	J. Markstrom
+						
