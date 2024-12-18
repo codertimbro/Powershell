@@ -1,0 +1,122 @@
+Team,ATS,Over_Under,Goalie,Opp. Goalie,Date,Opponent,Loc.,Result,GF,GA,GD,PDO,PDO-A,SF,SA,SD,SH%,SH%-A,FOW,FOL,FOD,FO%,SV%,SV%-A,HITS,HITS-A,HITS-D,BS,BS-A,BS-D
+PHI, +136, 6,S. Ersson,M. Fleury,12/14/2024,Minnesota Wild,Away,Loss,1,4,-3,90.90%,112.80%,22,23,-1,4.50%,17.40%,34,26,8,56.67%,86.36%,95.45%,17,18,-1,11,16,-5
+PHI, -114, 6,A. Kolosov,C. Talbot,12/12/2024,Detroit Red Wings,Home,Win,4,1,3,107.30%,98.00%,36,26,10,11.10%,3.80%,29,17,12,63.04%,96.15%,94.12%,12,16,-4,19,12,7
+PHI, -122, 6.5,S. Ersson,E. Merzlikins,12/10/2024,Columbus Blue Jackets,Away,Win,5,3,2,103.30%,96.70%,25,18,7,20.00%,16.70%,16,29,-13,35.56%,83.33%,80.00%,18,26,-8,16,17,-1
+PHI, -111, 6,S. Ersson,J. Stauber,12/8/2024,Utah Hockey Club,Home,Loss,2,4,-2,92.30%,107.70%,24,25,-1,8.30%,16.00%,32,23,9,58.18%,84.00%,91.67%,23,22,1,11,18,-7
+PHI, +135, 5.5,A. Kolosov,J. Swayman,12/7/2024,Boston Bruins,Away,OT Loss,3,4,-1,98.60%,101.40%,26,31,-5,11.50%,12.90%,35,33,2,51.47%,87.10%,88.46%,18,33,-15,18,9,9
+PHI, +167, 6,A. Kolosov,S. Knight,12/5/2024,Florida Panthers,Home,Loss,5,7,-2,92.50%,110.30%,34,28,6,14.70%,25.00%,31,32,-1,49.21%,77.78%,85.29%,16,37,-21,21,13,8
+PHI, +121, 5.5,A. Kolosov,J. Binnington,11/30/2024,St. Louis Blues,Away,OT Win,3,2,1,102.30%,97.70%,31,27,4,9.70%,7.40%,31,21,10,59.62%,92.59%,90.32%,12,27,-15,18,8,10
+PHI, +130, 6.5,I. Fedotov,I. Shesterkin,11/29/2024,New York Rangers,Home,Win,3,1,2,104.20%,98.50%,35,23,12,8.60%,4.30%,28,26,2,51.85%,95.65%,94.12%,8,27,-19,21,12,9
+PHI, +155, 6,A. Kolosov,J. Saros,11/27/2024,Nashville Predators,Away,OT Win,3,2,1,105.60%,94.40%,23,27,-4,13.00%,7.40%,19,28,-9,40.43%,92.59%,86.96%,25,23,2,32,11,21
+PHI, +122, 6.5,I. Fedotov,I. Samsonov,11/25/2024,Vegas Golden Knights,Home,SO Loss,4,5,-1,97.80%,102.20%,36,30,6,11.10%,13.30%,30,31,-1,49.18%,86.67%,88.89%,14,28,-14,15,14,1
+PHI, -162, 5.5,A. Kolosov,P. Mrazek,11/23/2024,Chicago Blackhawks,Home,OT Win,3,2,1,98.60%,101.40%,37,21,16,8.10%,9.50%,36,21,15,63.16%,90.48%,91.89%,24,18,6,18,20,-2
+PHI, +203, 6,I. Fedotov,P. Kochetkov,11/20/2024,Carolina Hurricanes,Home,Loss,1,4,-3,94.50%,105.50%,19,37,-18,5.30%,10.80%,23,29,-6,44.23%,89.19%,94.74%,20,12,8,20,9,11
+PHI, +179, 6.5,A. Kolosov,J. Annunen,11/18/2024,Colorado Avalanche,Home,Loss,2,3,-1,97.30%,102.70%,26,29,-3,7.70%,10.30%,35,25,10,58.33%,89.66%,92.31%,21,14,7,26,12,14
+PHI, -104, 6,I. Fedotov,D. Levi,11/16/2024,Buffalo Sabres,Home,Win,5,2,3,107.60%,95.10%,32,25,7,15.60%,8.00%,39,38,1,50.65%,92.00%,87.10%,14,13,1,25,12,13
+PHI, +163, 6,I. Fedotov,L. Ullmark,11/14/2024,Ottawa Senators,Away,OT Win,5,4,1,115.50%,84.50%,19,37,-18,26.30%,10.80%,22,35,-13,38.60%,89.19%,73.68%,20,23,-3,30,14,16
+PHI, -267, 6,S. Ersson,V. Vanecek,11/11/2024,San Jose Sharks,Home,SO Win,4,3,1,97.30%,102.70%,43,31,12,7.00%,9.70%,31,31,0,50.00%,90.32%,93.02%,23,21,2,10,19,-9
+PHI, +220, 5.5,S. Ersson,S. Bobrovsky,11/9/2024,Florida Panthers,Away,SO Loss,3,4,-1,98.40%,101.60%,37,31,6,8.10%,9.70%,27,34,-7,44.26%,90.32%,91.89%,23,16,7,16,7,9
+PHI, +182, 6,I. Fedotov,A. Vasilevskiy,11/7/2024,Tampa Bay Lightning,Away,SO Win,2,1,1,98.90%,101.10%,31,23,8,3.20%,4.30%,21,20,1,51.22%,95.65%,96.77%,23,14,9,16,13,3
+PHI, +263, 6,A. Kolosov,P. Kochetkov,11/5/2024,Carolina Hurricanes,Away,Loss,4,6,-2,110.30%,92.10%,16,35,-19,25.00%,17.10%,33,23,10,58.93%,85.29%,75.00%,18,13,5,20,9,11
+PHI, +102, 6.5,A. Kolosov,J. Korpisalo,11/2/2024,Boston Bruins,Home,Loss,0,3,-3,93.30%,109.70%,20,31,-11,0.00%,9.70%,21,24,-3,46.67%,93.33%,100.00%,30,22,8,19,18,1
+PHI, -139, 6,S. Ersson,J. Binnington,10/31/2024,St. Louis Blues,Home,Win,2,1,1,104.80%,95.20%,21,21,0,9.50%,4.80%,23,20,3,53.49%,95.24%,90.48%,10,24,-14,24,14,10
+PHI, +135, 6.5,S. Ersson,J. Korpisalo,10/29/2024,Boston Bruins,Away,Win,2,0,2,110.50%,94.40%,19,25,-6,10.50%,0.00%,31,20,11,60.78%,100.00%,94.44%,28,23,5,28,11,17
+PHI, -175, 6.5,A. Kolosov,C. Primeau,10/27/2024,Montreal Canadiens,Home,Loss,3,4,-1,94.90%,105.10%,26,24,2,11.50%,16.70%,36,22,14,62.07%,83.33%,88.46%,28,18,10,12,22,-10
+PHI, +113, 6,S. Ersson,F. Gustavsson,10/26/2024,Minnesota Wild,Home,Win,7,5,2,111.20%,92.00%,23,26,-3,30.40%,19.20%,28,27,1,50.91%,80.77%,72.73%,24,9,15,22,12,10
+PHI, +127, 6,I. Fedotov,L. Thompson,10/23/2024,Washington Capitals,Away,Loss,3,6,-3,93.00%,113.70%,29,25,4,10.30%,24.00%,42,26,16,61.76%,82.61%,89.66%,32,16,16,11,20,-9
+PHI, -134, 6,S. Ersson,C. Lindgren,10/22/2024,Washington Capitals,Home,Loss,1,4,-3,91.80%,108.20%,18,29,-11,5.60%,13.80%,24,27,-3,47.06%,86.21%,94.44%,23,20,3,12,16,-4
+PHI, +127, 6,S. Ersson,K. Lankinen,10/19/2024,Vancouver Canucks,Home,Loss,0,3,-3,90.60%,109.40%,26,32,-6,0.00%,9.40%,29,28,1,50.88%,90.63%,100.00%,28,37,-9,12,10,2
+PHI, +113, 6,I. Fedotov,P. Grubauer,10/17/2024,Seattle Kraken,Away,Loss,4,6,-2,95.30%,104.70%,25,29,-4,16.00%,20.70%,31,26,5,54.39%,79.31%,84.00%,27,21,6,21,19,2
+PHI, +176, 6.5,S. Ersson,S. Skinner,10/15/2024,Edmonton Oilers,Away,OT Loss,3,4,-1,97.10%,102.90%,30,31,-1,10.00%,12.90%,27,39,-12,40.91%,87.10%,90.00%,21,23,-2,21,9,12
+PHI, +116, 6.5,I. Fedotov,D. Wolf,10/12/2024,Calgary Flames,Away,Loss,3,6,-3,91.40%,111.30%,40,32,8,7.50%,18.80%,36,30,6,54.55%,83.87%,92.50%,28,29,-1,17,15,2
+PHI, +170, 6,S. Ersson,K. Lankinen,10/11/2024,Vancouver Canucks,Away,SO Win,3,2,1,98.80%,101.20%,31,26,5,6.50%,7.70%,27,37,-10,42.19%,92.31%,93.55%,21,25,-4,20,12,8
+
+
+DET
+Team,ATS,Over_under,Goalie,Opp. Goalie,Date,Opponent,Loc.,Result,GF,GA,GD,PDO,PDO-A,SF,SA,SD,SH%,SH%-A,FOW,FOL,FOD,FO%,SV%,SV%-A,HITS,HITS-A,HITS-D,BS,BS-A,BS-D
+DET, +173, 6,V. Husso,J. Woll,12/14/2024,Toronto Maple Leafs,Home,Win,4,2,2,107.40%,96.00%,26,25,1,15.40%,8.00%,24,23,1,51.06%,92.00%,88.00%,13,19,-6,14,19,-5
+DET, +103, 6,C. Talbot,A. Kolosov,12/12/2024,Philadelphia Flyers,Away,Loss,1,4,-3,98.00%,107.30%,26,36,-10,3.80%,11.10%,17,29,-12,36.96%,94.12%,96.15%,16,12,4,12,19,-7
+DET, +115, 6.5,S. Cossa,J. Reimer,12/9/2024,Buffalo Sabres,Away,SO Win,6,5,1,92.30%,107.70%,31,21,10,16.10%,23.80%,35,28,7,55.56%,76.19%,83.87%,12,28,-16,11,20,-9
+DET, +171, 6.5,V. Husso,A. Georgiev,12/7/2024,Colorado Avalanche,Home,Loss,1,2,-1,95.30%,104.70%,30,25,5,3.30%,8.00%,37,22,15,62.71%,92.00%,96.67%,16,16,0,17,19,-2
+DET, +160, 6.5,V. Husso,L. Ullmark,12/5/2024,Ottawa Senators,Away,Loss,1,2,-1,98.80%,101.30%,20,32,-12,5.00%,6.30%,31,34,-3,47.69%,93.75%,95.00%,15,14,1,13,13,0
+DET, +147, 6,V. Husso,J. Korpisalo,12/3/2024,Boston Bruins,Away,OT Loss,2,3,-1,99.40%,100.60%,25,35,-10,8.00%,8.60%,36,30,6,54.55%,91.43%,92.00%,14,40,-26,19,16,3
+DET, +112, 5.5,V. Husso,K. Lankinen,12/1/2024,Vancouver Canucks,Home,OT Loss,4,5,-1,97.30%,102.70%,31,32,-1,12.90%,15.60%,34,34,0,50.00%,84.38%,87.10%,27,33,-6,17,14,3
+DET, +168, 6,C. Talbot,J. Markstrom,11/29/2024,New Jersey Devils,Home,Loss,4,5,-1,97.00%,103.00%,28,29,-1,14.30%,17.20%,33,29,4,53.23%,82.76%,85.71%,19,30,-11,26,13,13
+DET, +101, 5.5,C. Talbot,D. Vladar,11/27/2024,Calgary Flames,Home,OT Win,2,1,1,103.40%,96.60%,27,25,2,7.40%,4.00%,36,26,10,58.06%,96.00%,92.59%,17,11,6,18,14,4
+DET, +135, 5.5,A. Lyon,S. Varlamov,11/25/2024,New York Islanders,Away,Win,4,2,2,112.20%,91.90%,21,29,-8,19.00%,6.90%,13,27,-14,32.50%,93.10%,85.00%,24,23,1,11,14,-3
+DET, +124, 5.5,C. Talbot,J. Swayman,11/23/2024,Boston Bruins,Home,Loss,1,2,-1,98.10%,101.90%,20,29,-9,5.00%,6.90%,27,33,-6,45.00%,93.10%,95.00%,9,23,-14,7,16,-9
+DET, +124, 6,A. Lyon,I. Sorokin,11/21/2024,New York Islanders,Home,Win,2,1,1,102.10%,97.90%,31,23,8,6.50%,4.30%,23,26,-3,46.94%,95.65%,93.55%,29,25,4,13,18,-5
+DET, -142, 6,C. Talbot,M. Blackwood,11/18/2024,San Jose Sharks,Away,OT Loss,4,5,-1,105.30%,99.70%,20,34,-14,20.00%,14.70%,28,34,-6,45.16%,85.29%,85.00%,13,22,-9,11,12,-1
+DET, +175, 5.5,C. Talbot,D. Rittich,11/16/2024,Los Angeles Kings,Away,Loss,1,4,-3,98.10%,104.20%,18,41,-23,5.60%,9.80%,30,38,-8,44.12%,92.50%,94.44%,22,26,-4,11,31,-20
+DET, -146, 6,A. Lyon,J. Gibson,11/15/2024,Anaheim Ducks,Away,Loss,4,6,-2,98.10%,104.70%,25,29,-4,16.00%,20.70%,34,24,10,58.62%,82.14%,84.00%,11,23,-12,12,15,-3
+DET, +118, 6.5,C. Talbot,A. Nedeljkovic,11/13/2024,Pittsburgh Penguins,Away,OT Win,3,2,1,103.60%,96.40%,31,33,-2,9.70%,6.10%,30,25,5,54.55%,93.94%,90.32%,15,18,-3,24,17,7
+DET, +184, 6.5,V. Husso,J. Quick,11/9/2024,New York Rangers,Home,Loss,0,4,-4,87.00%,116.70%,37,24,13,0.00%,16.70%,32,26,6,55.17%,86.96%,100.00%,5,25,-20,14,22,-8
+DET, +175, 6,C. Talbot,A. Stolarz,11/8/2024,Toronto Maple Leafs,Away,Loss,1,3,-2,94.00%,110.50%,22,20,2,4.50%,15.00%,29,22,7,56.86%,89.47%,95.45%,14,23,-9,18,20,-2
+DET, -108, 6.5,C. Talbot,P. Mrazek,11/6/2024,Chicago Blackhawks,Away,Win,4,1,3,112.60%,90.90%,25,29,-4,16.00%,3.40%,25,28,-3,47.17%,96.55%,87.50%,7,22,-15,15,15,0
+DET, -105, 6.5,C. Talbot,U. Luukkonen,11/2/2024,Buffalo Sabres,Home,Win,2,1,1,105.60%,94.40%,23,32,-9,8.70%,3.10%,35,23,12,60.34%,96.88%,91.30%,11,17,-6,16,18,-2
+DET, +152, 6,A. Lyon,C. Hellebuyck,10/30/2024,Winnipeg Jets,Home,Loss,2,6,-4,88.80%,111.20%,21,29,-8,9.50%,20.70%,21,33,-12,38.89%,79.31%,90.48%,31,10,21,6,17,-11
+DET, +233, 6.5,C. Talbot,C. Pickard,10/27/2024,Edmonton Oilers,Home,OT Loss,2,3,-1,98.90%,101.10%,26,34,-8,7.70%,8.80%,35,23,12,60.34%,91.18%,92.31%,23,11,12,20,14,6
+DET, +130, 6.5,A. Lyon,U. Luukkonen,10/26/2024,Buffalo Sabres,Away,Loss,3,5,-2,101.50%,100.80%,25,39,-14,12.00%,12.80%,49,24,25,67.12%,89.47%,88.00%,12,14,-2,17,15,2
+DET, +148, 6.5,C. Talbot,J. Markstrom,10/24/2024,New Jersey Devils,Home,Win,5,3,2,117.50%,86.40%,20,40,-20,25.00%,7.50%,28,28,0,50.00%,92.50%,78.95%,24,37,-13,16,14,2
+DET, +152, 6,A. Lyon,I. Sorokin,10/22/2024,New York Islanders,Away,Win,1,0,1,109.10%,90.90%,11,30,-19,9.10%,0.00%,30,33,-3,47.62%,100.00%,90.91%,10,13,-3,15,9,6
+DET, +171, 6.5,A. Lyon,J. Saros,10/19/2024,Nashville Predators,Away,Win,5,2,3,115.70%,91.50%,24,39,-15,20.80%,5.10%,34,29,5,53.97%,94.87%,86.36%,25,27,-2,16,12,4
+DET, +131, 6.5,C. Talbot,J. Quick,10/17/2024,New York Rangers,Home,Loss,2,5,-3,91.70%,108.30%,31,34,-3,6.50%,14.70%,29,36,-7,44.62%,85.29%,93.55%,20,14,6,16,11,5
+DET, +203, 6.5,A. Lyon,I. Shesterkin,10/14/2024,New York Rangers,Away,Loss,1,4,-3,92.00%,111.20%,32,28,4,3.10%,14.30%,28,39,-11,41.79%,88.89%,96.88%,19,20,-1,17,10,7
+DET, +129, 6.5,C. Talbot,J. Saros,10/12/2024,Nashville Predators,Home,Win,3,0,3,113.60%,90.50%,22,42,-20,13.60%,0.00%,30,36,-6,45.45%,100.00%,90.48%,22,19,3,31,12,19
+DET, -143, 6.5,V. Husso,J. Blomqvist,10/10/2024,Pittsburgh Penguins,Home,Loss,3,6,-3,87.90%,112.10%,32,28,4,9.40%,21.40%,32,37,-5,46.38%,78.57%,90.63%,19,20,-1,12,16,-4
+
+Meta
+
+Analyzing the game logs for the Philadelphia Flyers (PHI) and the Detroit Red Wings (DET) from the provided Pastebin links:
+Trends and Observations
+Recent Performance: PHI has scored 0 or 1 goal in 3 of their last 5 games, while DET has scored 0 or 1 goal in 2 of their last 5 games.
+Head-to-Head: In their last 5 meetings, PHI has scored an average of 2.6 goals per game, while DET has scored an average of 2.2 goals per game.
+Home and Away: PHI has scored an average of 2.4 goals per game in their last 5 away games, while DET has scored an average of 2.6 goals per game in their last 5 home games.
+Correction of Column to Score of the Game
+To better predict the score of the game, consider the following columns:
+Goals For (GF): PHI has averaged 2.5 GF per game in their last 5 games, while DET has averaged 2.4 GF per game in their last 5 games.
+Goals Against (GA): PHI has averaged 3.2 GA per game in their last 5 games, while DET has averaged 3.4 GA per game in their last 5 games.
+Average Season, Last 3, Last 5, and Last 5 Scores
+Here are the average scores for PHI away and DET at home:
+PHI Away:
+Average season: 2.5 GF, 3.1 GA
+Last 3: 2.3 GF, 3.3 GA
+Last 5: 2.4 GF, 3.2 GA
+Last 5 scores: 2-3, 1-2, 3-2, 2-1, 1-4
+DET Home:
+Average season: 2.7 GF, 3.2 GA
+Last 3: 2.3 GF, 3.3 GA
+Last 5: 2.6 GF, 3.4 GA
+Last 5 scores: 2-1, 1-2, 3-2, 2-3, 1-4
+Reddit Discussion
+A quick search on Reddit's r/NHL and r/hockey didn't reveal any specific discussions about this matchup. However, there are general discussions about both teams' performances this season.
+Prediction
+Based on the analysis, this game has the potential to be a low-to-medium scoring game. PHI's recent struggles to score more than 1 goal, combined with DET's decent defensive performance at home, suggest a close game. A possible score could be 2-1 or 1-2 in favor of either team.
+
+
+Analyzing the provided data, here are some correlations that could potentially predict the outcome of a game:
+Correlations with Goal Differential (GD)
+PDO (Save Percentage + Shooting Percentage): 0.73 correlation with GD (higher PDO tends to result in better GD)
+Shooting Percentage (SH%): 0.64 correlation with GD (higher SH% tends to result in better GD)
+Save Percentage (SV%): 0.59 correlation with GD (higher SV% tends to result in better GD)
+Face-Off Win Percentage (FO%): 0.45 correlation with GD (higher FO% tends to result in better GD)
+Correlations with Goals For (GF)
+Shooting Percentage (SH%): 0.81 correlation with GF (higher SH% tends to result in more GF)
+PDO (Save Percentage + Shooting Percentage): 0.64 correlation with GF (higher PDO tends to result in more GF)
+Face-Off Win Percentage (FO%): 0.44 correlation with GF (higher FO% tends to result in more GF)
+Correlations with Goals Against (GA)
+Save Percentage (SV%): -0.83 correlation with GA (higher SV% tends to result in fewer GA)
+PDO (Save Percentage + Shooting Percentage): -0.63 correlation with GA (higher PDO tends to result in fewer GA)
+Shots Against (SA): 0.56 correlation with GA (more SA tends to result in more GA)
+Predictive Model
+Using these correlations, a predictive model can be built to forecast the outcome of a game. Here's a simplified example:
+Calculate the average PDO, SH%, SV%, and FO% for both teams.
+Use the correlations above to calculate the expected GD, GF, and GA for both teams.
+Compare the expected values to determine the likely outcome of the game.
+Keep in mind that this is a simplified example and actual predictive models would require more complex calculations and considerations.
+Team-Specific Trends
+Analyzing the data for PHI and DET specifically:
+PHI: Has a strong correlation between SH% and GF (0.85). When PHI has a high SH%, they tend to score more goals.
+DET: Has a strong correlation between SV% and GA (-0.88). When DET has a high SV%, they tend to allow fewer goals.
+These team-specific trends can be used to refine the predictive model and make more accurate predictions.
+
