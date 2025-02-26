@@ -1,0 +1,55 @@
+# Get Outlook-related Event Viewer logs from the Application log
+$OutlookEvents = Get-WinEvent -LogName 'Application' -ErrorAction SilentlyContinue | Where-Object {
+    ($_.ProviderName -eq 'Outlook') -or
+    ($_.ProviderName -eq 'Office') -or
+    ($_.ProviderName -eq 'OfficeAlerts') -or
+    ($_.ProviderName -eq 'MsiInstaller') -or
+    ($_.ProviderName -eq 'Application Error') -or
+    ($_.ProviderName -match 'Outlook|Office|Microsoft\.Office\.*')
+} | Select-Object TimeCreated, Id, ProviderName, Message
+
+# Display formatted results
+if ($OutlookEvents) {
+    Write-Host "Outlook/Office Related Events:" -ForegroundColor Cyan
+    $OutlookEvents | Format-Table -AutoSize -Wrap -Property TimeCreated, Id, ProviderName, @{
+        Name = 'Message'
+        Expression = { $_.Message -replace "`r`n", " " -replace "`n", " " | Out-String -Width 100 }
+    }
+} else {
+    Write-Host "No Outlook-related events found in Application log." -ForegroundColor Yellow
+}
+
+# Optional: Filter by specific event IDs (e.g., common Outlook errors)
+# $ErrorIDs = 1000, 1001, 5000  # Add relevant event IDs
+# $OutlookEvents | Where-Object {$_.Id -in $ErrorIDs}
+
+param(
+    [int]$HoursBack = 24  # Default: Last 24 hours
+)
+
+# Calculate timeframe
+$StartTime = (Get-Date).AddHours(-$HoursBack)
+
+# Get events with time filter
+$OutlookEvents = Get-WinEvent -FilterHashtable @{
+    LogName = 'Application'
+    ProviderName = @('Outlook', 'Office', 'OfficeAlerts', 'MsiInstaller', 'Application Error')
+    StartTime = $StartTime
+} -ErrorAction SilentlyContinue | Select-Object TimeCreated, Id, LevelDisplayName, ProviderName, Message
+
+# Display results
+if ($OutlookEvents) {
+    Write-Host "`nOutlook/Office Events (Last $HoursBack hours):`n" -ForegroundColor Cyan
+    $OutlookEvents | ForEach-Object {
+        $color = if ($_.LevelDisplayName -eq 'Error') { 'Red' } else { 'White' }
+        Write-Host "$($_.TimeCreated) [$($_.Id)] $($_.ProviderName) ($($_.LevelDisplayName))" -ForegroundColor $color
+        Write-Host "Message: $($_.Message)`n" -ForegroundColor Gray
+    }
+} else {
+    Write-Host "No Outlook-related events found in the last $HoursBack hours." -ForegroundColor Yellow
+}
+
+.\Get-OutlookEvents.ps1 -HoursBack 6  # Last 6 hours
+
+
+
