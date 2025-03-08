@@ -89,10 +89,16 @@ $remoteOutlookVersion = Invoke-Command -Session $session -ScriptBlock {
 
     # Save version info to remote file
     if ($outlookVersions.Count -gt 0) {
-        $outlookVersions | Format-List | Out-File -FilePath "$using:remoteLogDir\OutlookVersion.txt"
-        Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration" -ErrorAction SilentlyContinue | 
-            Out-File -FilePath "$using:remoteLogDir\OfficeVersion.txt" -Append
-        return $true
+        try {
+            $outlookVersions | Format-List | Out-File -FilePath "$using:remoteLogDir\OutlookVersion.txt" -ErrorAction Stop
+            Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration" -ErrorAction SilentlyContinue | 
+                Out-File -FilePath "$using:remoteLogDir\OfficeVersion.txt" -Append -ErrorAction Stop
+            return $true
+        } catch {
+            Write-Output "Warning: Could not write Outlook version information to file: $($_.Exception.Message)" | 
+                Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append
+            return $false
+        }
     } else {
         return $false
     }
@@ -120,14 +126,28 @@ Invoke-Command -Session $session -ScriptBlock {
 
     foreach ($path in $addinPaths) {
         if (Test-Path $path) {
-            "Checking add-ins in: $path" | Out-File -FilePath $addinLogs -Append
-            Get-ChildItem -Path $path | ForEach-Object {
-                $addinName = $_.PSChildName
-                $addinDetails = Get-ItemProperty -Path $_.PSPath
-                "Add-in: $addinName" | Out-File -FilePath $addinLogs -Append
-                $addinDetails | Format-List | Out-File -FilePath $addinLogs -Append
-                "LoadBehavior: $(if ($addinDetails.LoadBehavior -eq 3) { 'Loaded at startup (3)' } else { $addinDetails.LoadBehavior })" | Out-File -FilePath $addinLogs -Append
-                "-------------------------------" | Out-File -FilePath $addinLogs -Append
+            try {
+                "Checking add-ins in: $path" | Out-File -FilePath $addinLogs -Append -ErrorAction Stop
+                $addins = Get-ChildItem -Path $path -ErrorAction SilentlyContinue
+                if ($addins) {
+                    foreach ($addin in $addins) {
+                        try {
+                            $addinName = $addin.PSChildName
+                            $addinDetails = Get-ItemProperty -Path $addin.PSPath -ErrorAction Stop
+                            "Add-in: $addinName" | Out-File -FilePath $addinLogs -Append -ErrorAction Stop
+                            $addinDetails | Format-List | Out-File -FilePath $addinLogs -Append -ErrorAction Stop
+                            "LoadBehavior: $(if ($addinDetails.LoadBehavior -eq 3) { 'Loaded at startup (3)' } else { $addinDetails.LoadBehavior })" | 
+                                Out-File -FilePath $addinLogs -Append -ErrorAction Stop
+                            "-------------------------------" | Out-File -FilePath $addinLogs -Append -ErrorAction Stop
+                        } catch {
+                            "Error reading details for add-in $($addin.PSChildName): $($_.Exception.Message)" | 
+                                Out-File -FilePath $addinLogs -Append -ErrorAction SilentlyContinue
+                        }
+                    }
+                }
+            } catch {
+                "Error accessing add-in path $path: $($_.Exception.Message)" | 
+                    Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
             }
         }
     }
@@ -136,57 +156,111 @@ Invoke-Command -Session $session -ScriptBlock {
 # Check for crashed Outlook processes or hanging instances
 Write-Log "Checking for hung or crashed Outlook processes..."
 Invoke-Command -Session $session -ScriptBlock {
-    Get-WinEvent -LogName "Application" -MaxEvents 100 -ErrorAction SilentlyContinue | Where-Object { 
-        $_.Message -like "*outlook*" -and ($_.LevelDisplayName -eq "Error" -or $_.LevelDisplayName -eq "Warning") 
-    } | Format-List | Out-File -FilePath "$using:remoteLogDir\OutlookEventLogs.txt"
+    try {
+        Get-WinEvent -LogName "Application" -MaxEvents 100 -ErrorAction Stop | Where-Object { 
+            $_.Message -like "*outlook*" -and ($_.LevelDisplayName -eq "Error" -or $_.LevelDisplayName -eq "Warning") 
+        } | Format-List | Out-File -FilePath "$using:remoteLogDir\OutlookEventLogs.txt" -ErrorAction Stop
+    } catch {
+        "Error retrieving Outlook-related event logs: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
+    }
 }
 
 # Check system resources on remote machine
 Write-Log "Checking system resources on $ComputerName..."
 Invoke-Command -Session $session -ScriptBlock {
+    # Create error file if it doesn't exist
+    if (-not (Test-Path "$using:remoteLogDir\Errors.txt")) {
+        New-Item -ItemType File -Path "$using:remoteLogDir\Errors.txt" -Force | Out-Null
+    }
+
     # Check disk space
-    Get-WmiObject Win32_LogicalDisk | Where-Object { $_.DriveType -eq 3 } | 
-        Select-Object DeviceID, @{Name="Size(GB)";Expression={[math]::Round($_.Size/1GB,2)}}, @{Name="FreeSpace(GB)";Expression={[math]::Round($_.FreeSpace/1GB,2)}}, @{Name="PercentFree";Expression={[math]::Round(($_.FreeSpace/$_.Size)*100,2)}} | 
-        Format-Table | Out-File -FilePath "$using:remoteLogDir\DiskSpace.txt"
+    try {
+        Get-WmiObject Win32_LogicalDisk | Where-Object { $_.DriveType -eq 3 } | 
+            Select-Object DeviceID, @{Name="Size(GB)";Expression={[math]::Round($_.Size/1GB,2)}}, @{Name="FreeSpace(GB)";Expression={[math]::Round($_.FreeSpace/1GB,2)}}, @{Name="PercentFree";Expression={[math]::Round(($_.FreeSpace/$_.Size)*100,2)}} | 
+            Format-Table | Out-File -FilePath "$using:remoteLogDir\DiskSpace.txt" -ErrorAction Stop
+    } catch {
+        "Error retrieving disk space information: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append
+    }
 
     # Check memory
-    Get-CimInstance Win32_PhysicalMemory | Measure-Object -Property Capacity -Sum | 
-        Select-Object @{Name="TotalRAM(GB)";Expression={[math]::Round($_.Sum/1GB,2)}} | 
-        Format-Table | Out-File -FilePath "$using:remoteLogDir\Memory.txt" -Append
+    try {
+        Get-CimInstance Win32_PhysicalMemory | Measure-Object -Property Capacity -Sum | 
+            Select-Object @{Name="TotalRAM(GB)";Expression={[math]::Round($_.Sum/1GB,2)}} | 
+            Format-Table | Out-File -FilePath "$using:remoteLogDir\Memory.txt" -Append -ErrorAction Stop
+    } catch {
+        "Error retrieving memory information: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append
+    }
     
     # Get processor info
-    Get-CimInstance Win32_Processor | Select-Object Name, NumberOfCores, MaxClockSpeed, CurrentClockSpeed |
-        Format-Table | Out-File -FilePath "$using:remoteLogDir\Processor.txt"
+    try {
+        Get-CimInstance Win32_Processor | Select-Object Name, NumberOfCores, MaxClockSpeed, CurrentClockSpeed |
+            Format-Table | Out-File -FilePath "$using:remoteLogDir\Processor.txt" -ErrorAction Stop
+    } catch {
+        "Error retrieving processor information: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append
+    }
 }
 
 # Check for each Outlook user profile on the remote machine
 Write-Log "Checking Outlook user profiles..."
 Invoke-Command -Session $session -ScriptBlock {
     # Find all user profiles on the system
-    $userProfiles = Get-ChildItem -Path "C:\Users" -Directory
-    
-    foreach ($userProfile in $userProfiles) {
-        $outlookPath = Join-Path -Path $userProfile.FullName -ChildPath "AppData\Local\Microsoft\Outlook"
+    try {
+        $userProfiles = Get-ChildItem -Path "C:\Users" -Directory -ErrorAction Stop
         
-        if (Test-Path $outlookPath) {
-            # Check for Outlook data files
-            $pstFiles = Get-ChildItem -Path $outlookPath -Filter "*.pst" -ErrorAction SilentlyContinue
-            $ostFiles = Get-ChildItem -Path $outlookPath -Filter "*.ost" -ErrorAction SilentlyContinue
+        foreach ($userProfile in $userProfiles) {
+            $outlookPath = Join-Path -Path $userProfile.FullName -ChildPath "AppData\Local\Microsoft\Outlook"
             
-            if ($pstFiles -or $ostFiles) {
-                "User Profile: $($userProfile.Name)" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append
-                
-                "PST Files:" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append
-                $pstFiles | Select-Object Name, @{Name="Size(MB)";Expression={[math]::Round($_.Length/1MB,2)}}, LastWriteTime, FullName | 
-                    Format-Table -AutoSize | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append
-                
-                "OST Files:" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append
-                $ostFiles | Select-Object Name, @{Name="Size(MB)";Expression={[math]::Round($_.Length/1MB,2)}}, LastWriteTime, FullName | 
-                    Format-Table -AutoSize | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append
-                
-                "----------------------------------------" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append
+            if (Test-Path $outlookPath) {
+                # Create directory for data file info if it doesn't exist
+                if (-not (Test-Path "$using:remoteLogDir\OutlookDataFiles.txt")) {
+                    New-Item -ItemType File -Path "$using:remoteLogDir\OutlookDataFiles.txt" -Force | Out-Null
+                }
+
+                # Check for Outlook data files
+                try {
+                    $pstFiles = Get-ChildItem -Path $outlookPath -Filter "*.pst" -ErrorAction SilentlyContinue
+                    $ostFiles = Get-ChildItem -Path $outlookPath -Filter "*.ost" -ErrorAction SilentlyContinue
+                    
+                    if ($pstFiles -or $ostFiles) {
+                        "User Profile: $($userProfile.Name)" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction Stop
+                        
+                        "PST Files:" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction Stop
+                        foreach ($pstFile in $pstFiles) {
+                            try {
+                                $fileInfo = $pstFile | Select-Object Name, @{Name="Size(MB)";Expression={[math]::Round($_.Length/1MB,2)}}, LastWriteTime, FullName
+                                $fileInfo | Format-Table -AutoSize | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction Stop
+                            } catch {
+                                "Error accessing PST file $($pstFile.Name): $($_.Exception.Message)" | 
+                                    Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction SilentlyContinue
+                            }
+                        }
+                        
+                        "OST Files:" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction Stop
+                        foreach ($ostFile in $ostFiles) {
+                            try {
+                                $fileInfo = $ostFile | Select-Object Name, @{Name="Size(MB)";Expression={[math]::Round($_.Length/1MB,2)}}, LastWriteTime, FullName
+                                $fileInfo | Format-Table -AutoSize | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction Stop
+                            } catch {
+                                "Error accessing OST file $($ostFile.Name): $($_.Exception.Message) (likely in use by Outlook)" | 
+                                    Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction SilentlyContinue
+                            }
+                        }
+                        
+                        "----------------------------------------" | Out-File -FilePath "$using:remoteLogDir\OutlookDataFiles.txt" -Append -ErrorAction Stop
+                    }
+                } catch {
+                    "Error accessing Outlook data files for user $($userProfile.Name): $($_.Exception.Message)" | 
+                        Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
+                }
             }
         }
+    } catch {
+        "Error accessing user profiles: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
     }
 }
 
@@ -194,54 +268,85 @@ Invoke-Command -Session $session -ScriptBlock {
 Write-Log "Checking notification related issues..."
 Invoke-Command -Session $session -ScriptBlock {
     # Check Windows notification settings
-    Get-WinEvent -LogName "Microsoft-Windows-Shell-Core/Operational" -MaxEvents 50 -ErrorAction SilentlyContinue | 
-        Where-Object { $_.Message -like "*notification*" -or $_.Message -like "*shell*" } | 
-        Format-List | Out-File -FilePath "$using:remoteLogDir\NotificationLogs.txt"
+    try {
+        Get-WinEvent -LogName "Microsoft-Windows-Shell-Core/Operational" -MaxEvents 50 -ErrorAction Stop | 
+            Where-Object { $_.Message -like "*notification*" -or $_.Message -like "*shell*" } | 
+            Format-List | Out-File -FilePath "$using:remoteLogDir\NotificationLogs.txt" -ErrorAction Stop
+    } catch {
+        "Error accessing notification logs: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
+    }
 }
 
 # Check for performance issues when Outlook is running
 if ($outlookProcess) {
     Write-Log "Collecting performance data for running Outlook process on $ComputerName..."
     Invoke-Command -Session $session -ScriptBlock {
-        Get-Counter -Counter "\Process(outlook*)\% Processor Time", "\Process(outlook*)\Working Set", "\Process(outlook*)\Thread Count" -MaxSamples 5 -ErrorAction SilentlyContinue | 
-            Format-List | Out-File -FilePath "$using:remoteLogDir\OutlookPerformance.txt"
+        try {
+            Get-Counter -Counter "\Process(outlook*)\% Processor Time", "\Process(outlook*)\Working Set", "\Process(outlook*)\Thread Count" -MaxSamples 5 -ErrorAction Stop | 
+                Format-List | Out-File -FilePath "$using:remoteLogDir\OutlookPerformance.txt" -ErrorAction Stop
+        } catch {
+            "Error collecting Outlook performance data: $($_.Exception.Message)" | 
+                Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
+        }
     }
 }
 
 # Check for Windows Updates that might affect Outlook
 Write-Log "Checking recent Windows Updates..."
 Invoke-Command -Session $session -ScriptBlock {
-    Get-HotFix | Sort-Object -Property InstalledOn -Descending | Select-Object -First 20 | 
-        Format-Table -AutoSize | Out-File -FilePath "$using:remoteLogDir\RecentUpdates.txt"
+    try {
+        Get-HotFix | Sort-Object -Property InstalledOn -Descending | Select-Object -First 20 | 
+            Format-Table -AutoSize | Out-File -FilePath "$using:remoteLogDir\RecentUpdates.txt" -ErrorAction Stop
+    } catch {
+        "Error checking recent Windows updates: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
+    }
 }
 
 # Generate diagnostic report for send/receive operations
 Write-Log "Checking Outlook send/receive logs..."
 Invoke-Command -Session $session -ScriptBlock {
     # Try to find send/receive logs for all user profiles
-    $userProfiles = Get-ChildItem -Path "C:\Users" -Directory
-    
-    foreach ($userProfile in $userProfiles) {
-        $sendReceiveLogs = Join-Path -Path $userProfile.FullName -ChildPath "AppData\Local\Temp\Outlook Logging"
+    try {
+        $userProfiles = Get-ChildItem -Path "C:\Users" -Directory -ErrorAction Stop
         
-        if (Test-Path $sendReceiveLogs) {
-            $userLogDir = "$using:remoteLogDir\SendReceiveLogs\$($userProfile.Name)"
-            New-Item -ItemType Directory -Path $userLogDir -Force | Out-Null
+        foreach ($userProfile in $userProfiles) {
+            $sendReceiveLogs = Join-Path -Path $userProfile.FullName -ChildPath "AppData\Local\Temp\Outlook Logging"
             
-            # Copy the most recent log files (last 10 days)
-            Get-ChildItem -Path $sendReceiveLogs -File -Recurse | 
-                Where-Object { $_.LastWriteTime -gt (Get-Date).AddDays(-10) } | 
-                ForEach-Object {
-                    $destPath = $_.FullName.Replace($sendReceiveLogs, $userLogDir)
-                    $destDir = Split-Path -Path $destPath -Parent
+            if (Test-Path $sendReceiveLogs) {
+                $userLogDir = "$using:remoteLogDir\SendReceiveLogs\$($userProfile.Name)"
+                try {
+                    New-Item -ItemType Directory -Path $userLogDir -Force -ErrorAction Stop | Out-Null
                     
-                    if (-not (Test-Path $destDir)) {
-                        New-Item -ItemType Directory -Path $destDir -Force | Out-Null
+                    # Copy the most recent log files (last 10 days)
+                    $recentLogs = Get-ChildItem -Path $sendReceiveLogs -File -Recurse -ErrorAction SilentlyContinue | 
+                        Where-Object { $_.LastWriteTime -gt (Get-Date).AddDays(-10) }
+                    
+                    foreach ($logFile in $recentLogs) {
+                        try {
+                            $destPath = $logFile.FullName.Replace($sendReceiveLogs, $userLogDir)
+                            $destDir = Split-Path -Path $destPath -Parent
+                            
+                            if (-not (Test-Path $destDir)) {
+                                New-Item -ItemType Directory -Path $destDir -Force -ErrorAction Stop | Out-Null
+                            }
+                            
+                            Copy-Item -Path $logFile.FullName -Destination $destPath -Force -ErrorAction Stop
+                        } catch {
+                            "Error copying log file $($logFile.FullName): $($_.Exception.Message)" | 
+                                Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
+                        }
                     }
-                    
-                    Copy-Item -Path $_.FullName -Destination $destPath -Force
+                } catch {
+                    "Error creating directory or accessing send/receive logs for user $($userProfile.Name): $($_.Exception.Message)" | 
+                        Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
                 }
+            }
         }
+    } catch {
+        "Error accessing user profiles for send/receive logs: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
     }
 }
 
@@ -289,25 +394,57 @@ Outlook Freezing Troubleshooting Recommendations:
    - Try reducing the number of items per folder using AutoArchive
    - Disable RSS feeds and social connector if enabled
    - Try switching to Offline mode temporarily to test if it's a server synchronization issue
+
+9. Files In Use Issues:
+   - If you encounter "file in use" errors during diagnostics, it usually means Outlook or another process has locked a file
+   - Close Outlook completely and check for any OUTLOOK.EXE processes in Task Manager before running diagnostics
+   - For persistent issues, rebooting the computer before running diagnostics may help
+   - Some diagnostics may be incomplete due to file access issues, but the script will continue and collect all available information
 "@
 
 Invoke-Command -Session $session -ScriptBlock {
-    $using:recommendationsText | Out-File -FilePath "$using:remoteLogDir\Recommendations.txt"
+    try {
+        $using:recommendationsText | Out-File -FilePath "$using:remoteLogDir\Recommendations.txt" -ErrorAction Stop
+    } catch {
+        "Error writing recommendations: $($_.Exception.Message)" | 
+            Out-File -FilePath "$using:remoteLogDir\Errors.txt" -Append -ErrorAction SilentlyContinue
+    }
 }
 
 # Copy all diagnostic information from remote computer to local
 Write-Log "Copying diagnostic information from $ComputerName to local computer..."
 try {
-    Copy-Item -Path "$remoteLogDir\*" -Destination $localLogDir -FromSession $session -Recurse -Force
+    Copy-Item -Path "$remoteLogDir\*" -Destination $localLogDir -FromSession $session -Recurse -Force -ErrorAction Stop
     Write-Log "Successfully copied diagnostic information to $localLogDir"
 } catch {
     Write-Log "Error copying diagnostic information: $($_.Exception.Message)" "ERROR"
+    Write-Log "Attempting to copy files individually..." "WARNING"
+    
+    # Try to list all files in the remote directory
+    $remoteFiles = Invoke-Command -Session $session -ScriptBlock {
+        Get-ChildItem -Path $using:remoteLogDir -Recurse -ErrorAction SilentlyContinue
+    }
+    
+    # Try to copy each file individually
+    foreach ($file in $remoteFiles) {
+        try {
+            $remotePath = "$remoteLogDir\$($file.Name)"
+            Copy-Item -Path $remotePath -Destination $localLogDir -FromSession $session -Force -ErrorAction Stop
+            Write-Log "Copied file: $($file.Name)" "INFO"
+        } catch {
+            Write-Log "Failed to copy file $($file.Name): $($_.Exception.Message)" "ERROR"
+        }
+    }
 }
 
 # Clean up remote temporary directory
 Write-Log "Cleaning up temporary files on $ComputerName..."
 Invoke-Command -Session $session -ScriptBlock {
-    Remove-Item -Path $using:remoteLogDir -Recurse -Force -ErrorAction SilentlyContinue
+    try {
+        Remove-Item -Path $using:remoteLogDir -Recurse -Force -ErrorAction Stop
+    } catch {
+        Write-Output "Warning: Could not remove temporary directory: $($_.Exception.Message)"
+    }
 }
 
 # Close remote session
@@ -323,4 +460,5 @@ Write-Host ""
 Write-Host "================================================================================" -ForegroundColor Green
 Write-Host "Diagnostic information has been collected and saved to: $localLogDir" -ForegroundColor Green  
 Write-Host "Please review these files to identify potential causes of Outlook freezing issues" -ForegroundColor Green
+Write-Host "Even if some 'file in use' errors occurred, partial diagnostic information was collected" -ForegroundColor Yellow
 Write-Host "================================================================================" -ForegroundColor Green
