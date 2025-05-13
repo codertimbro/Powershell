@@ -1,0 +1,1534 @@
+
+
+On Tue, May 13, 2025 at 12:19 PM Timothy Brown <cincy983@gmail.com> wrote:
+cards
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Topics Library</title>
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2980b9;
+            --background-color: #f5f7fa;
+            --card-color: #ffffff;
+            --text-color: #333333;
+            --shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background-color);
+            margin: 0;
+            padding: 20px;
+            color: var(--text-color);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+
+        .search-container {
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        #searchInput:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+        }
+
+        .topic-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .topic-card {
+            background-color: var(--card-color);
+            border-radius: 10px;
+            box-shadow: var(--shadow);
+            padding: 20px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .topic-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+
+        .topic-card h3 {
+            margin-top: 0;
+            color: var(--primary-color);
+            font-size: 18px;
+        }
+
+        .topic-card p {
+            margin-bottom: 0;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .topic-card::after {
+            content: "Click to view";
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 5px 10px;
+            font-size: 12px;
+            border-top-left-radius: 8px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .topic-card:hover::after {
+            opacity: 1;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.7);
+            z-index: 1000;
+            overflow: auto;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .modal.active {
+            display: block;
+            opacity: 1;
+        }
+
+        .modal-content {
+            background-color: white;
+            margin: 5% auto;
+            padding: 25px;
+            width: 80%;
+            max-width: 800px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+            position: relative;
+            transform: translateY(-20px);
+            transition: transform 0.3s ease;
+        }
+
+        .modal.active .modal-content {
+            transform: translateY(0);
+        }
+
+        .close-button {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            font-size: 24px;
+            color: #aaa;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+
+        .close-button:hover {
+            color: #333;
+        }
+
+        .modal-header {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+            margin-bottom: 15px;
+        }
+
+        .modal-body {
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .copy-button {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .copy-button:hover {
+            background-color: var(--secondary-color);
+        }
+
+        .copy-icon {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+        }
+
+        .copy-success {
+            display: none;
+            background-color: #2ecc71;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin-left: 10px;
+            font-size: 14px;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+            color: #666;
+            display: none;
+        }
+
+        /* Category filtering */
+        .category-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: center;
+        }
+
+        .category-filter {
+            background-color: #e0e0e0;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+        .category-filter:hover {
+            background-color: #d0d0d0;
+        }
+
+        .category-filter.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .category-tag {
+            display: inline-block;
+            background-color: #e0e0e0;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Topics Library</h1>
+        <p>Click on any topic to view detailed information</p>
+    </header>
+
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search topics...">
+    </div>
+
+    <div class="category-filters">
+        <button class="category-filter active" data-category="all">All</button>
+        <button class="category-filter" data-category="science">Science</button>
+        <button class="category-filter" data-category="history">History</button>
+        <button class="category-filter" data-category="technology">Technology</button>
+        <button class="category-filter" data-category="art">Art</button>
+        <button class="category-filter" data-category="philosophy">Philosophy</button>
+    </div>
+
+    <div class="topic-grid" id="topicGrid">
+        <!-- Topics will be loaded here via JavaScript -->
+    </div>
+
+    <div class="no-results" id="noResults">
+        No matching topics found.
+    </div>
+
+    <!-- Modal for displaying topic information -->
+    <div class="modal" id="topicModal">
+        <div class="modal-content">
+            <span class="close-button" id="closeModal">&times;</span>
+            <div class="modal-header">
+                <h2 id="modalTitle">Topic Title</h2>
+            </div>
+            <div class="modal-body" id="modalBody">
+                Topic content will appear here.
+            </div>
+            <button class="copy-button" id="copyButton">
+                <svg class="copy-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                    <path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"></path>
+                </svg>
+                Copy Content
+            </button>
+            <span class="copy-success" id="copySuccess">Copied!</span>
+        </div>
+    </div>
+
+    <script>
+        // Topic data - this is where you define all your topics and their content
+        const topicsData = [
+            {
+                id: 1,
+                title: "Quantum Computing",
+                preview: "An overview of quantum computing principles and applications.",
+                content: `<h3>Quantum Computing Overview</h3>
+                <p>Quantum computing harnesses the principles of quantum mechanics to process information in fundamentally different ways from classical computers. Instead of using bits (0s and 1s), quantum computers use quantum bits or "qubits" that can exist in multiple states simultaneously through superposition.</p>
+                
+                <h4>Key Concepts:</h4>
+                <ul>
+                    <li><strong>Outdoor Painting:</strong> "En plein air" (outdoor) painting to capture natural light.</li>
+                    <li><strong>Modern Life:</strong> Focus on contemporary urban and leisure scenes.</li>
+                </ul>
+                
+                <h4>Notable Impressionist Artists:</h4>
+                <ul>
+                    <li><strong>Claude Monet:</strong> "Water Lilies," "Impression, Sunrise"</li>
+                    <li><strong>Pierre-Auguste Renoir:</strong> "Luncheon of the Boating Party," "Dance at Le Moulin de la Galette"</li>
+                    <li><strong>Edgar Degas:</strong> Ballet dancers, horse racing scenes</li>
+                    <li><strong>Camille Pissarro:</strong> Rural and urban landscapes</li>
+                    <li><strong>Berthe Morisot:</strong> Intimate domestic scenes and portraits</li>
+                    <li><strong>Alfred Sisley:</strong> Landscapes focusing on sky and atmosphere</li>
+                </ul>
+                
+                <h4>Legacy:</h4>
+                <p>Impressionism broke with centuries of tradition and paved the way for numerous modern art movements. Its influence extends beyond painting to music, literature, and even film, where the emphasis on subjective experience over objective reality continues to resonate with creators and audiences alike.</p>`,
+                category: "art"
+            },
+            {
+                id: 11,
+                title: "Machine Learning",
+                preview: "The science of getting computers to learn and act without explicit programming.",
+                content: `<h3>Machine Learning</h3>
+                <p>Machine Learning (ML) is a subset of artificial intelligence that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. It focuses on developing algorithms that can access data, learn from it, and make predictions or decisions.</p>
+                
+                <h4>Main Types of Machine Learning:</h4>
+                <ul>
+                    <li><strong>Supervised Learning:</strong> Algorithms trained on labeled data to predict outcomes for unforeseen data.</li>
+                    <li><strong>Unsupervised Learning:</strong> Algorithms finding patterns or intrinsic structures in unlabeled data.</li>
+                    <li><strong>Semi-supervised Learning:</strong> Combining small amounts of labeled data with large amounts of unlabeled data.</li>
+                    <li><strong>Reinforcement Learning:</strong> Agents learning to make decisions by being rewarded or penalized.</li>
+                </ul>
+                
+                <h4>Common Algorithms:</h4>
+                <ul>
+                    <li><strong>Linear and Logistic Regression:</strong> For prediction and classification tasks</li>
+                    <li><strong>Decision Trees and Random Forests:</strong> Tree-based models for classification and regression</li>
+                    <li><strong>Support Vector Machines:</strong> For classification, regression, and outlier detection</li>
+                    <li><strong>Neural Networks:</strong> Including deep learning architectures</li>
+                    <li><strong>Clustering Algorithms:</strong> K-means, hierarchical clustering, etc.</li>
+                    <li><strong>Dimensionality Reduction:</strong> PCA, t-SNE</li>
+                </ul>
+                
+                <h4>Applications:</h4>
+                <ul>
+                    <li>Image and speech recognition</li>
+                    <li>Natural language processing</li>
+                    <li>Recommendation systems</li>
+                    <li>Fraud detection</li>
+                    <li>Medical diagnosis</li>
+                    <li>Autonomous vehicles</li>
+                    <li>Predictive maintenance</li>
+                </ul>
+                
+                <h4>Challenges:</h4>
+                <ul>
+                    <li>Data quality and quantity requirements</li>
+                    <li>Overfitting and underfitting</li>
+                    <li>Model interpretability</li>
+                    <li>Bias and fairness concerns</li>
+                    <li>Computational resources</li>
+                </ul>
+                
+                <p>Machine learning continues to advance rapidly, transforming numerous industries and enabling capabilities that were previously impossible with traditional programming approaches.</p>`,
+                category: "technology"
+            },
+            {
+                id: 12,
+                title: "The Scientific Method",
+                preview: "The systematic approach to investigating phenomena and acquiring new knowledge.",
+                content: `<h3>The Scientific Method</h3>
+                <p>The scientific method is a systematic procedure for acquiring new knowledge that has characterized natural science since the 17th century. It involves careful observation, applying rigorous skepticism, and formulating and testing hypotheses through experimentation.</p>
+                
+                <h4>Basic Steps:</h4>
+                <ol>
+                    <li><strong>Observation/Question:</strong> Identify a phenomenon or ask a question about something observed.</li>
+                    <li><strong>Research:</strong> Gather information and background knowledge related to the question.</li>
+                    <li><strong>Hypothesis:</strong> Formulate a testable explanation or prediction.</li>
+                    <li><strong>Experimentation:</strong> Design and conduct experiments to test the hypothesis.</li>
+                    <li><strong>Data Analysis:</strong> Collect and analyze data from experiments.</li>
+                    <li><strong>Conclusion:</strong> Accept, reject, or modify the hypothesis based on experimental results.</li>
+                    <li><strong>Communication:</strong> Share findings with the wider scientific community.</li>
+                    <li><strong>Replication:</strong> Other scientists verify results by reproducing the experiments.</li>
+                </ol>
+                
+                <h4>Key Principles:</h4>
+                <ul>
+                    <li><strong>Empiricism:</strong> Knowledge derives from observation and experimentation.</li>
+                    <li><strong>Testability:</strong> Hypotheses must be capable of being proven false.</li>
+                    <li><strong>Parsimony:</strong> Simplest explanation is preferred (Occam's Razor).</li>
+                    <li><strong>Objectivity:</strong> Minimizing bias and personal beliefs.</li>
+                    <li><strong>Skepticism:</strong> Questioning findings and considering alternative explanations.</li>
+                    <li><strong>Peer Review:</strong> Critical evaluation by other experts in the field.</li>
+                </ul>
+                
+                <h4>Evolution of Scientific Knowledge:</h4>
+                <p>Scientific knowledge is provisional and cumulative. Theories may be refined or replaced as new evidence emerges. Major shifts in scientific understanding, called paradigm shifts (term coined by Thomas Kuhn), occur when prevailing theories cannot accommodate new observations.</p>
+                
+                <h4>Limitations:</h4>
+                <ul>
+                    <li>Cannot address supernatural or metaphysical questions</li>
+                    <li>Subject to human biases and limitations</li>
+                    <li>Some phenomena are difficult to study experimentally</li>
+                    <li>Ethical constraints on certain types of research</li>
+                </ul>
+                
+                <p>Despite its limitations, the scientific method remains the most reliable approach for understanding the natural world and has led to tremendous advances in knowledge and technology.</p>`,
+                category: "science"
+            },
+        ];
+
+        // DOM elements
+        const topicGrid = document.getElementById('topicGrid');
+        const searchInput = document.getElementById('searchInput');
+        const modal = document.getElementById('topicModal');
+        const closeModal = document.getElementById('closeModal');
+        const modalTitle = document.getElementById('modalTitle');
+        const modalBody = document.getElementById('modalBody');
+        const copyButton = document.getElementById('copyButton');
+        const copySuccess = document.getElementById('copySuccess');
+        const noResults = document.getElementById('noResults');
+        const categoryFilters = document.querySelectorAll('.category-filter');
+
+        // Current filter
+        let currentFilter = 'all';
+
+        // Load topics into the grid
+        function loadTopics(filter = 'all', searchQuery = '') {
+            topicGrid.innerHTML = '';
+            
+            let hasResults = false;
+            
+            topicsData.forEach(topic => {
+                // Apply filters
+                if ((filter === 'all' || topic.category === filter) && 
+                    (searchQuery === '' || 
+                     topic.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                     topic.preview.toLowerCase().includes(searchQuery.toLowerCase()))) {
+                    
+                    hasResults = true;
+                    
+                    // Create topic card
+                    const topicCard = document.createElement('div');
+                    topicCard.className = 'topic-card';
+                    topicCard.setAttribute('data-id', topic.id);
+                    
+                    // Add content to card
+                    topicCard.innerHTML = `
+                        <h3>${topic.title}</h3>
+                        <p>${topic.preview}</p>
+                        <span class="category-tag">${topic.category.charAt(0).toUpperCase() + topic.category.slice(1)}</span>
+                    `;
+                    
+                    // Add click event to open modal
+                    topicCard.addEventListener('click', () => {
+                        openModal(topic);
+                    });
+                    
+                    // Add to grid
+                    topicGrid.appendChild(topicCard);
+                }
+            });
+            
+            // Show/hide no results message
+            noResults.style.display = hasResults ? 'none' : 'block';
+        }
+
+        // Open modal with topic content
+        function openModal(topic) {
+            modalTitle.textContent = topic.title;
+            modalBody.innerHTML = topic.content;
+            modal.classList.add('active');
+            
+            // Prepare copy content (title + content without HTML tags)
+            window.modalContentToCopy = `${topic.title}\n\n${topic.content.replace(/<[^>]*>/g, '')}`;
+        }
+
+        // Close modal
+        closeModal.addEventListener('click', () => {
+            modal.classList.remove('active');
+        });
+
+        // Close modal if clicking outside content
+        window.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                modal.classList.remove('active');
+            }
+        });
+
+        // Copy content button
+        copyButton.addEventListener('click', () => {
+            navigator.clipboard.writeText(window.modalContentToCopy).then(() => {
+                copySuccess.style.display = 'inline-block';
+                setTimeout(() => {
+                    copySuccess.style.display = 'none';
+                }, 2000);
+            });
+        });
+
+        // Search functionality
+        searchInput.addEventListener('input', () => {
+            loadTopics(currentFilter, searchInput.value);
+        });
+
+        // Category filter functionality
+        categoryFilters.forEach(button => {
+            button.addEventListener('click', () => {
+                // Update active filter
+                categoryFilters.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                
+                // Apply filter
+                currentFilter = button.getAttribute('data-category');
+                loadTopics(currentFilter, searchInput.value);
+            });
+        });
+
+        // Initial load
+        loadTopics();
+    </script>
+</body>
+</html>Superposition:</strong> Unlike classical bits, qubits can exist in a state of 0, 1, or both simultaneously.</li>
+                    <li><strong>Entanglement:</strong> Qubits can be "entangled" so the state of one qubit is dependent on another, even at a distance.</li>
+                    <li><strong>Quantum Gates:</strong> Operations that manipulate qubits, analogous to logic gates in classical computing.</li>
+                </ul>
+                
+                <h4>Potential Applications:</h4>
+                <ul>
+                    <li>Cryptography and security</li>
+                    <li>Drug discovery and materials science</li>
+                    <li>Optimization problems</li>
+                    <li>Machine learning and AI</li>
+                    <li>Climate modeling</li>
+                </ul>
+                
+                <p>While still in its early stages, quantum computing has the potential to solve certain problems exponentially faster than classical computers, opening new frontiers in computing capability.</p>`,
+                category: "science"
+            },
+            {
+                id: 2,
+                title: "Renaissance Art",
+                preview: "The major artistic movement that transformed European art and culture.",
+                content: `<h3>Renaissance Art (14th-17th Century)</h3>
+                <p>The Renaissance was a period of cultural, artistic, and intellectual rebirth that began in Italy in the 14th century and spread throughout Europe. It marked a transition from medieval to modern times and saw a revival of interest in classical antiquity.</p>
+                
+                <h4>Key Characteristics:</h4>
+                <ul>
+                    <li><strong>Realism and Naturalism:</strong> Artists strived for accurate depictions of nature and the human form.</li>
+                    <li><strong>Perspective:</strong> Development of linear perspective created the illusion of three-dimensional space.</li>
+                    <li><strong>Humanism:</strong> Focus on human potential, achievement, and the individual.</li>
+                    <li><strong>Anatomical Accuracy:</strong> Study of human anatomy to create more realistic figures.</li>
+                </ul>
+                
+                <h4>Notable Artists:</h4>
+                <ul>
+                    <li><strong>Leonardo da Vinci:</strong> "Mona Lisa," "The Last Supper"</li>
+                    <li><strong>Michelangelo:</strong> Sistine Chapel ceiling, "David"</li>
+                    <li><strong>Raphael:</strong> "School of Athens," "Sistine Madonna"</li>
+                    <li><strong>Botticelli:</strong> "The Birth of Venus," "Primavera"</li>
+                    <li><strong>Titian:</strong> "Venus of Urbino," "Bacchus and Ariadne"</li>
+                </ul>
+                
+                <p>Renaissance art fundamentally changed Western art, establishing techniques and aesthetic values that influenced generations of artists and continue to resonate in contemporary art.</p>`,
+                category: "art"
+            },
+            {
+                id: 3,
+                title: "Artificial Intelligence",
+                preview: "An exploration of AI systems, machine learning, and their impacts.",
+                content: `<h3>Artificial Intelligence (AI)</h3>
+                <p>Artificial Intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. AI encompasses various technologies and approaches aimed at creating machines capable of perception, reasoning, learning, and problem-solving.</p>
+                
+                <h4>Major AI Approaches:</h4>
+                <ul>
+                    <li><strong>Machine Learning:</strong> Systems that learn from data without explicit programming.</li>
+                    <li><strong>Deep Learning:</strong> Neural networks with many layers that can learn complex patterns.</li>
+                    <li><strong>Natural Language Processing:</strong> Enabling computers to understand, interpret, and generate human language.</li>
+                    <li><strong>Computer Vision:</strong> Systems that can interpret and analyze visual information from the world.</li>
+                    <li><strong>Reinforcement Learning:</strong> Learning through interaction with an environment to maximize rewards.</li>
+                </ul>
+                
+                <h4>Applications:</h4>
+                <ul>
+                    <li>Virtual assistants (Siri, Alexa, etc.)</li>
+                    <li>Recommendation systems</li>
+                    <li>Autonomous vehicles</li>
+                    <li>Medical diagnosis</li>
+                    <li>Predictive analytics</li>
+                    <li>Content creation and generation</li>
+                </ul>
+                
+                <h4>Ethical Considerations:</h4>
+                <ul>
+                    <li>Privacy concerns</li>
+                    <li>Bias and fairness</li>
+                    <li>Job displacement</li>
+                    <li>Safety and security</li>
+                    <li>Autonomous decision-making</li>
+                </ul>
+                
+                <p>AI continues to evolve rapidly, with recent developments in generative AI like large language models dramatically expanding capabilities and potential applications across industries.</p>`,
+                category: "technology"
+            },
+            {
+                id: 4,
+                title: "Ancient Egyptian Civilization",
+                preview: "The history, culture, and achievements of Ancient Egypt.",
+                content: `<h3>Ancient Egyptian Civilization (c. 3100-332 BCE)</h3>
+                <p>One of the world's oldest and most influential civilizations, Ancient Egypt emerged along the Nile River around 3100 BCE and lasted until its conquest by Alexander the Great in 332 BCE. The civilization is renowned for its monumental architecture, sophisticated art, and complex religious beliefs.</p>
+                
+                <h4>Key Periods:</h4>
+                <ul>
+                    <li><strong>Predynastic Period:</strong> c. 5500-3100 BCE</li>
+                    <li><strong>Early Dynastic Period:</strong> 3100-2686 BCE</li>
+                    <li><strong>Old Kingdom:</strong> 2686-2181 BCE (Age of the Pyramids)</li>
+                    <li><strong>Middle Kingdom:</strong> 2055-1650 BCE</li>
+                    <li><strong>New Kingdom:</strong> 1550-1069 BCE (Imperial Age)</li>
+                    <li><strong>Late Period:</strong> 664-332 BCE</li>
+                </ul>
+                
+                <h4>Major Achievements:</h4>
+                <ul>
+                    <li><strong>Architecture:</strong> Pyramids of Giza, temples at Luxor and Karnak</li>
+                    <li><strong>Writing:</strong> Hieroglyphics and development of papyrus</li>
+                    <li><strong>Mathematics and Astronomy:</strong> 365-day calendar, geometric principles</li>
+                    <li><strong>Medicine:</strong> Advanced medical knowledge and surgical techniques</li>
+                    <li><strong>Art:</strong> Distinctive artistic style with formal conventions</li>
+                </ul>
+                
+                <h4>Religious Beliefs:</h4>
+                <p>Egyptian religion was polytheistic with a complex mythology. They believed in an afterlife and practiced elaborate burial customs, including mummification. Key deities included Ra (sun god), Osiris (god of the afterlife), Isis, Horus, and Anubis.</p>
+                
+                <p>The legacy of Ancient Egypt continues to fascinate people worldwide, influencing art, architecture, and popular culture even thousands of years after its decline.</p>`,
+                category: "history"
+            },
+            {
+                id: 5,
+                title: "Stoicism",
+                preview: "An ancient Greek philosophy focused on virtue, reason, and self-control.",
+                content: `<h3>Stoicism</h3>
+                <p>Stoicism is a school of Hellenistic philosophy founded in Athens by Zeno of Citium around 300 BCE. It teaches that virtue, the highest good, is based on knowledge, and that wise people live in harmony with the divine reason that governs nature, accepting whatever happens with equanimity.</p>
+                
+                <h4>Core Principles:</h4>
+                <ul>
+                    <li><strong>Virtue as the Sole Good:</strong> The only true good is moral virtue; everything else (wealth, health, reputation) is indifferent.</li>
+                    <li><strong>Dichotomy of Control:</strong> Distinguishing between what we can control (our thoughts, judgments, actions) and what we cannot (external events).</li>
+                    <li><strong>Negative Visualization:</strong> Contemplating potential misfortunes to appreciate what you have and prepare for adversity.</li>
+                    <li><strong>Cosmopolitanism:</strong> Viewing oneself as a citizen of the cosmos, connected to all rational beings.</li>
+                </ul>
+                
+                <h4>Notable Stoic Philosophers:</h4>
+                <ul>
+                    <li><strong>Zeno of Citium:</strong> Founder of Stoicism</li>
+                    <li><strong>Seneca:</strong> Roman statesman and tutor to Emperor Nero</li>
+                    <li><strong>Epictetus:</strong> Former slave who became an influential teacher</li>
+                    <li><strong>Marcus Aurelius:</strong> Roman Emperor and author of "Meditations"</li>
+                </ul>
+                
+                <h4>Key Texts:</h4>
+                <ul>
+                    <li>"Meditations" by Marcus Aurelius</li>
+                    <li>"Letters from a Stoic" by Seneca</li>
+                    <li>"Discourses" and "Enchiridion" by Epictetus</li>
+                </ul>
+                
+                <p>Stoicism has experienced a significant revival in recent years, with many finding its practical wisdom valuable for navigating modern challenges, managing emotions, and developing resilience in the face of adversity.</p>`,
+                category: "philosophy"
+            },
+            {
+                id: 6,
+                title: "Climate Change",
+                preview: "The science, impacts, and mitigation strategies for global climate change.",
+                content: `<h3>Climate Change</h3>
+                <p>Climate change refers to long-term shifts in temperatures and weather patterns. These changes may be natural, but since the 1800s, human activities have been the main driver, primarily through the burning of fossil fuels which produces heat-trapping greenhouse gases.</p>
+                
+                <h4>Key Evidence:</h4>
+                <ul>
+                    <li><strong>Rising Global Temperatures:</strong> Earth's average surface temperature has risen about 1.1°C since the pre-industrial era.</li>
+                    <li><strong>Ocean Warming:</strong> The ocean has absorbed much of this increased heat, with the top 100 meters warming by more than 0.33°C since 1969.</li>
+                    <li><strong>Shrinking Ice Sheets:</strong> Greenland and Antarctic ice sheets have decreased in mass.</li>
+                    <li><strong>Glacial Retreat:</strong> Glaciers are retreating almost everywhere around the world.</li>
+                    <li><strong>Sea Level Rise:</strong> Global sea level rose about 8-9 inches in the last century.</li>
+                    <li><strong>Extreme Weather Events:</strong> Increased frequency and intensity of extreme weather events.</li>
+                </ul>
+                
+                <h4>Major Impacts:</h4>
+                <ul>
+                    <li>More frequent and intense droughts, storms, heat waves, and floods</li>
+                    <li>Rising sea levels threatening coastal communities</li>
+                    <li>Disruption of ecosystems and loss of biodiversity</li>
+                    <li>Threats to food security and water supplies</li>
+                    <li>Health impacts from changing disease patterns and extreme weather</li>
+                </ul>
+                
+                <h4>Mitigation Strategies:</h4>
+                <ul>
+                    <li><strong>Renewable Energy:</strong> Transitioning from fossil fuels to solar, wind, and other clean energy sources</li>
+                    <li><strong>Energy Efficiency:</strong> Improving efficiency in buildings, transportation, and industry</li>
+                    <li><strong>Conservation:</strong> Protecting forests and other natural carbon sinks</li>
+                    <li><strong>Sustainable Agriculture:</strong> Reducing emissions from food production</li>
+                    <li><strong>Policy Approaches:</strong> Carbon pricing, regulations, and international agreements like the Paris Accord</li>
+                </ul>
+                
+                <p>Addressing climate change requires global cooperation and significant transitions in energy systems, land use, urban planning, transportation, and industrial processes.</p>`,
+                category: "science"
+            },
+            {
+                id: 7,
+                title: "Blockchain Technology",
+                preview: "The fundamentals of blockchain and its applications beyond cryptocurrency.",
+                content: `<h3>Blockchain Technology</h3>
+                <p>Blockchain is a distributed ledger technology that enables secure, transparent, and tamper-resistant record-keeping without requiring a central authority. It functions as a chain of blocks, each containing a list of transactions or other data, cryptographically linked to previous blocks.</p>
+                
+                <h4>Key Characteristics:</h4>
+                <ul>
+                    <li><strong>Decentralization:</strong> No single entity controls the entire network.</li>
+                    <li><strong>Transparency:</strong> Transactions are visible to all participants (though parties may remain pseudonymous).</li>
+                    <li><strong>Immutability:</strong> Once recorded, data cannot be altered without consensus.</li>
+                    <li><strong>Security:</strong> Cryptographic techniques protect data integrity.</li>
+                    <li><strong>Consensus Mechanisms:</strong> Methods like Proof of Work or Proof of Stake validate transactions.</li>
+                </ul>
+                
+                <h4>Applications Beyond Cryptocurrency:</h4>
+                <ul>
+                    <li><strong>Supply Chain Management:</strong> Tracking products from origin to consumer</li>
+                    <li><strong>Smart Contracts:</strong> Self-executing contracts with terms directly written into code</li>
+                    <li><strong>Identity Management:</strong> Secure, user-controlled digital identities</li>
+                    <li><strong>Voting Systems:</strong> Transparent, verifiable elections</li>
+                    <li><strong>Healthcare:</strong> Secure sharing of patient records</li>
+                    <li><strong>Real Estate:</strong> Property records and title transfers</li>
+                    <li><strong>Digital Rights Management:</strong> Tracking ownership of creative works</li>
+                </ul>
+                
+                <h4>Challenges:</h4>
+                <ul>
+                    <li>Scalability limitations</li>
+                    <li>Energy consumption (particularly for Proof of Work systems)</li>
+                    <li>Regulatory uncertainties</li>
+                    <li>Integration with existing systems</li>
+                    <li>Technical complexity for mainstream adoption</li>
+                </ul>
+                
+                <p>As blockchain technology matures, it continues to evolve beyond its cryptocurrency origins, offering potential solutions for trust, transparency, and security challenges across various industries.</p>`,
+                category: "technology"
+            },
+            {
+                id: 8,
+                title: "The French Revolution",
+                preview: "The social and political upheaval that transformed France and influenced modern history.",
+                content: `<h3>The French Revolution (1789-1799)</h3>
+                <p>The French Revolution was a period of radical social and political upheaval in France that had a profound impact on French history and more broadly on modern history worldwide. It overthrew the monarchy, established a republic, experienced violent periods of political turmoil, and finally culminated in a dictatorship under Napoleon Bonaparte.</p>
+                
+                <h4>Causes:</h4>
+                <ul>
+                    <li><strong>Economic Crisis:</strong> Heavy taxation, food shortages, and government debt</li>
+                    <li><strong>Social Inequality:</strong> Rigid class system (Estates) with privileges for nobility and clergy</li>
+                    <li><strong>Enlightenment Ideas:</strong> Influence of philosophers like Rousseau, Voltaire, and Montesquieu</li>
+                    <li><strong>Political Crisis:</strong> King Louis XVI's ineffective leadership and resistance to reform</li>
+                    <li><strong>American Revolution:</strong> Example of successful rebellion against monarchy</li>
+                </ul>
+                
+                <h4>Key Events:</h4>
+                <ul>
+                    <li><strong>Storming of the Bastille:</strong> July 14, 1789 - Marking the start of the Revolution</li>
+                    <li><strong>Declaration of the Rights of Man:</strong> August 26, 1789</li>
+                    <li><strong>Women's March on Versailles:</strong> October 5-6, 1789</li>
+                    <li><strong>Execution of Louis XVI:</strong> January 21, 1793</li>
+                    <li><strong>Reign of Terror:</strong> 1793-1794 - Period of violence led by Robespierre</li>
+                    <li><strong>Directory Period:</strong> 1795-1799</li>
+                    <li><strong>Rise of Napoleon:</strong> Coup of 18 Brumaire (November 9, 1799)</li>
+                </ul>
+                
+                <h4>Legacy and Impact:</h4>
+                <ul>
+                    <li>End of absolute monarchy in France</li>
+                    <li>Spread of democratic and republican ideals</li>
+                    <li>Nationalism and modern nation-state concepts</li>
+                    <li>Secularization of government</li>
+                    <li>Legal reforms including civil code</li>
+                    <li>Modern political ideologies (conservatism, liberalism, socialism)</li>
+                </ul>
+                
+                <p>The French Revolution represents one of history's most important events, transforming not only France but also spreading principles of liberty, equality, and fraternity throughout Europe and beyond.</p>`,
+                category: "history"
+            },
+            {
+                id: 9,
+                title: "Existentialism",
+                preview: "A philosophical movement emphasizing individual existence, freedom, and choice.",
+                content: `<h3>Existentialism</h3>
+                <p>Existentialism is a philosophical movement that emerged in the late 19th and 20th centuries, primarily in Europe. It emphasizes individual existence, freedom, and choice, focusing on the question of human existence and the search for meaning in a seemingly meaningless universe.</p>
+                
+                <h4>Core Concepts:</h4>
+                <ul>
+                    <li><strong>Existence Precedes Essence:</strong> Humans first exist, then through their actions create their essence (rather than having a predetermined nature).</li>
+                    <li><strong>Freedom and Responsibility:</strong> Humans are entirely free but also entirely responsible for their choices.</li>
+                    <li><strong>Authenticity:</strong> Living according to one's own choices rather than external standards or expectations.</li>
+                    <li><strong>Absurdity:</strong> The conflict between human desire for meaning and the apparent meaninglessness of the universe.</li>
+                    <li><strong>Angst/Anxiety:</strong> The dizziness of freedom and awareness of ultimate responsibility.</li>
+                </ul>
+                
+                <h4>Key Figures:</h4>
+                <ul>
+                    <li><strong>Søren Kierkegaard:</strong> Often considered the first existentialist, focused on individual choice and commitment.</li>
+                    <li><strong>Friedrich Nietzsche:</strong> Explored nihilism and the will to power.</li>
+                    <li><strong>Jean-Paul Sartre:</strong> Developed existentialism as a formal philosophical system.</li>
+                    <li><strong>Simone de Beauvoir:</strong> Applied existentialist ethics to feminism and gender.</li>
+                    <li><strong>Albert Camus:</strong> Explored the absurd and rebellion against meaninglessness.</li>
+                    <li><strong>Martin Heidegger:</strong> Examined the question of Being and authentic existence.</li>
+                </ul>
+                
+                <h4>Notable Works:</h4>
+                <ul>
+                    <li>"Being and Nothingness" (Sartre)</li>
+                    <li>"The Myth of Sisyphus" (Camus)</li>
+                    <li>"Fear and Trembling" (Kierkegaard)</li>
+                    <li>"The Second Sex" (de Beauvoir)</li>
+                    <li>"Thus Spoke Zarathustra" (Nietzsche)</li>
+                </ul>
+                
+                <p>Existentialism has had a profound influence on literature, art, psychology, and political thought, offering a framework for addressing questions of meaning, authenticity, and individual responsibility in modern society.</p>`,
+                category: "philosophy"
+            },
+            {
+                id: 10,
+                title: "Impressionism",
+                preview: "The revolutionary art movement that changed the course of Western art.",
+                content: `<h3>Impressionism (1860s-1880s)</h3>
+                <p>Impressionism was a revolutionary art movement that emerged in France in the 1860s and 1870s. It challenged traditional academic painting by focusing on the changing qualities of light, ordinary subject matter, and the immediate visual impression of a scene rather than detailed realism.</p>
+                
+                <h4>Key Characteristics:</h4>
+                <ul>
+                    <li><strong>Emphasis on Light and Color:</strong> Capturing the effects of light on objects at different times of day.</li>
+                    <li><strong>Visible Brushstrokes:</strong> Loose, rapid brushwork creating a sense of spontaneity.</li>
+                    <li><strong>Open Composition:</strong> Informal compositional structure without rigid boundaries.</li>
+                    <li><strong>Ordinary Subject Matter:</strong> Everyday scenes of modern life rather than historical or mythological subjects.</li>
+                    <li><strong>
+
+On Tue, May 13, 2025 at 11:07 AM Timothy Brown <cincy983@gmail.com> wrote:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ticket Management Dashboard</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px 5px 0 0;
+        }
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .search-bar {
+            flex-grow: 1;
+            max-width: 400px;
+        }
+        .search-bar input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .filter-options {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        select, button {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: white;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .ticket-list {
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        tr.dragging {
+            opacity: 0.5;
+            background-color: #e9f7fe;
+            cursor: move;
+        }
+        tr.drag-over {
+            border-top: 2px solid #3498db;
+        }
+        .priority-high {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .priority-medium {
+            color: #f39c12;
+        }
+        .priority-low {
+            color: #27ae60;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        .status-new {
+            background-color: #3498db;
+            color: white;
+        }
+        .status-in-progress {
+            background-color: #f39c12;
+            color: white;
+        }
+        .status-waiting {
+            background-color: #9b59b6;
+            color: white;
+        }
+        .status-resolved {
+            background-color: #27ae60;
+            color: white;
+        }
+        .callback-soon {
+            background-color: #ffecb3;
+        }
+        .callback-overdue {
+            background-color: #ffcdd2;
+        }
+        #ticketModal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 10% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 50%;
+            border-radius: 5px;
+        }
+        .close-btn {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .close-btn:hover {
+            color: black;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .form-group input, .form-group textarea, .form-group select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        .form-actions {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        @media (max-width: 768px) {
+            .controls {
+                flex-direction: column;
+            }
+            .search-bar, .filter-options {
+                max-width: 100%;
+            }
+            th, td {
+                padding: 10px 5px;
+            }
+            .modal-content {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Ticket Management Dashboard</h1>
+        </header>
+
+        <div class="controls">
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search tickets...">
+            </div>
+            <div class="filter-options">
+                <select id="priorityFilter">
+                    <option value="">All Priorities</option>
+                    <option value="high">High</option>
+                    <option value="medium">Medium</option>
+                    <option value="low">Low</option>
+                </select>
+                <select id="statusFilter">
+                    <option value="">All Statuses</option>
+                    <option value="new">New</option>
+                    <option value="in-progress">In Progress</option>
+                    <option value="waiting">Waiting for Response</option>
+                    <option value="resolved">Resolved</option>
+                </select>
+                <button id="addTicketBtn">+ Add New Ticket</button>
+                <button id="toggleDragBtn">Enable Drag & Drop</button>
+            </div>
+        </div>
+
+        <div class="ticket-list">
+            <table id="ticketTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Subject</th>
+                        <th>Priority</th>
+                        <th>Status</th>
+                        <th>Callback Time</th>
+                        <th>Created</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="ticketTableBody">
+                    <!-- Sample ticket data - will be populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Add/Edit Ticket Modal -->
+    <div id="ticketModal">
+        <div class="modal-content">
+            <span class="close-btn" id="closeModalBtn">&times;</span>
+            <h2 id="modalTitle">Add New Ticket</h2>
+            <form id="ticketForm">
+                <input type="hidden" id="ticketId">
+                <div class="form-group">
+                    <label for="subject">Subject</label>
+                    <input type="text" id="subject" required>
+                </div>
+                <div class="form-group">
+                    <label for="description">Description</label>
+                    <textarea id="description" rows="4"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="priority">Priority</label>
+                    <select id="priority">
+                        <option value="high">High</option>
+                        <option value="medium" selected>Medium</option>
+                        <option value="low">Low</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="status">Status</label>
+                    <select id="status">
+                        <option value="new" selected>New</option>
+                        <option value="in-progress">In Progress</option>
+                        <option value="waiting">Waiting for Response</option>
+                        <option value="resolved">Resolved</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="callbackTime">Callback Time</label>
+                    <input type="datetime-local" id="callbackTime">
+                </div>
+                <div class="form-actions">
+                    <button type="button" id="cancelBtn">Cancel</button>
+                    <button type="button" id="saveTicketBtn">Save Ticket</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Sample ticket data
+        let tickets = [
+            { id: 'T-1001', subject: 'Network connection issue', priority: 'high', status: 'in-progress', callbackTime: '2025-05-06T14:30', created: '2025-05-05T09:15', description: 'Customer cannot connect to the network. Tried basic troubleshooting.' },
+            { id: 'T-1002', subject: 'Software installation failed', priority: 'medium', status: 'new', callbackTime: '2025-05-07T10:00', created: '2025-05-06T11:20', description: 'Error code 0x8007065E during installation.' },
+            { id: 'T-1003', subject: 'Password reset request', priority: 'low', status: 'resolved', callbackTime: null, created: '2025-05-04T15:45', description: 'User needed password reset for email account.' },
+            { id: 'T-1004', subject: 'Printer not responding', priority: 'medium', status: 'waiting', callbackTime: '2025-05-06T16:15', created: '2025-05-05T14:10', description: 'Customer tried restarting but printer still not responding.' },
+            { id: 'T-1005', subject: 'Email configuration issue', priority: 'high', status: 'new', callbackTime: '2025-05-06T13:00', created: '2025-05-06T08:30', description: 'Cannot send emails but can receive them.' }
+        ];
+
+        // DOM elements
+        const ticketTableBody = document.getElementById('ticketTableBody');
+        const searchInput = document.getElementById('searchInput');
+        const priorityFilter = document.getElementById('priorityFilter');
+        const statusFilter = document.getElementById('statusFilter');
+        const addTicketBtn = document.getElementById('addTicketBtn');
+        const ticketModal = document.getElementById('ticketModal');
+        const closeModalBtn = document.getElementById('closeModalBtn');
+        const cancelBtn = document.getElementById('cancelBtn');
+        const saveTicketBtn = document.getElementById('saveTicketBtn');
+        const modalTitle = document.getElementById('modalTitle');
+        const ticketForm = document.getElementById('ticketForm');
+        const ticketIdInput = document.getElementById('ticketId');
+        const subjectInput = document.getElementById('subject');
+        const descriptionInput = document.getElementById('description');
+        const priorityInput = document.getElementById('priority');
+        const statusInput = document.getElementById('status');
+        const callbackTimeInput = document.getElementById('callbackTime');
+
+        // Render tickets function
+        function renderTickets() {
+            // Clear existing table rows
+            ticketTableBody.innerHTML = '';
+            
+            // Filter tickets based on search and filter values
+            const searchValue = searchInput.value.toLowerCase();
+            const priorityValue = priorityFilter.value;
+            const statusValue = statusFilter.value;
+            
+            const filteredTickets = tickets.filter(ticket => {
+                const matchesSearch = ticket.subject.toLowerCase().includes(searchValue) || 
+                                     ticket.id.toLowerCase().includes(searchValue);
+                const matchesPriority = priorityValue === '' || ticket.priority === priorityValue;
+                const matchesStatus = statusValue === '' || ticket.status === statusValue;
+                
+                return matchesSearch && matchesPriority && matchesStatus;
+            });
+            
+            // Display message if no tickets found
+            if (filteredTickets.length === 0) {
+                const row = document.createElement('tr');
+                const cell = document.createElement('td');
+                cell.colSpan = 7;
+                cell.style.textAlign = 'center';
+                cell.textContent = 'No tickets found';
+                row.appendChild(cell);
+                ticketTableBody.appendChild(row);
+                return;
+            }
+            
+            // Add each ticket to the table
+            filteredTickets.forEach(ticket => {
+                const row = document.createElement('tr');
+                
+                // Add callback time highlighting
+                if (ticket.callbackTime) {
+                    const callbackTime = new Date(ticket.callbackTime);
+                    const now = new Date();
+                    const timeDiff = callbackTime - now;
+                    
+                    if (timeDiff < 0) {
+                        row.className = 'callback-overdue';
+                    } else if (timeDiff < 7200000) { // 2 hours in milliseconds
+                        row.className = 'callback-soon';
+                    }
+                }
+                
+                // Format dates
+                const formattedCallbackTime = ticket.callbackTime ? 
+                    new Date(ticket.callbackTime).toLocaleString() : '—';
+                const formattedCreatedTime = new Date(ticket.created).toLocaleString();
+                
+                // Create table cells
+                row.innerHTML = `
+                    <td>${ticket.id}</td>
+                    <td>${ticket.subject}</td>
+                    <td class="priority-${ticket.priority}">${capitalizeFirst(ticket.priority)}</td>
+                    <td><span class="status-badge status-${ticket.status}">${formatStatus(ticket.status)}</span></td>
+                    <td>${formattedCallbackTime}</td>
+                    <td>${formattedCreatedTime}</td>
+                    <td>
+                        <button class="edit-btn" data-id="${ticket.id}">Edit</button>
+                        <button class="delete-btn" data-id="${ticket.id}">Delete</button>
+                        <span class="drag-handle" style="cursor: move; display: none;">⋮⋮</span>
+                    </td>
+                `;
+                
+                // Make the row draggable
+                row.setAttribute('draggable', 'false');
+                row.setAttribute('data-id', ticket.id);
+                
+                ticketTableBody.appendChild(row);
+            });
+            
+            // Add event listeners to the new buttons
+            document.querySelectorAll('.edit-btn').forEach(button => {
+                button.addEventListener('click', function() {
+                    const id = this.getAttribute('data-id');
+                    editTicket(id);
+                });
+            });
+            
+            document.querySelectorAll('.delete-btn').forEach(button => {
+                button.addEventListener('click', function() {
+                    const id = this.getAttribute('data-id');
+                    deleteTicket(id);
+                });
+            });
+        }
+        
+        // Helper functions
+        function capitalizeFirst(string) {
+            return string.charAt(0).toUpperCase() + string.slice(1);
+        }
+        
+        function formatStatus(status) {
+            return status.split('-').map(word => capitalizeFirst(word)).join(' ');
+        }
+        
+        // Modal functions
+        function openModal() {
+            ticketModal.style.display = 'block';
+        }
+        
+        function closeModal() {
+            ticketModal.style.display = 'none';
+        }
+        
+        // Edit ticket function
+        function editTicket(id) {
+            const ticket = tickets.find(t => t.id === id);
+            if (!ticket) return;
+            
+            // Populate form
+            ticketIdInput.value = ticket.id;
+            subjectInput.value = ticket.subject;
+            descriptionInput.value = ticket.description;
+            priorityInput.value = ticket.priority;
+            statusInput.value = ticket.status;
+            
+            if (ticket.callbackTime) {
+                callbackTimeInput.value = ticket.callbackTime.slice(0, 16);
+            } else {
+                callbackTimeInput.value = '';
+            }
+            
+            modalTitle.textContent = 'Edit Ticket';
+            openModal();
+        }
+        
+        // Delete ticket function
+        function deleteTicket(id) {
+            if (confirm('Are you sure you want to delete this ticket?')) {
+                tickets = tickets.filter(t => t.id !== id);
+                renderTickets();
+            }
+        }
+        
+        // Add new ticket function
+        function addNewTicket() {
+            // Reset form
+            ticketIdInput.value = '';
+            subjectInput.value = '';
+            descriptionInput.value = '';
+            priorityInput.value = 'medium';
+            statusInput.value = 'new';
+            
+            // Set default callback time to 1 hour from now
+            const now = new Date();
+            now.setHours(now.getHours() + 1);
+            callbackTimeInput.value = now.toISOString().slice(0, 16);
+            
+            modalTitle.textContent = 'Add New Ticket';
+            openModal();
+        }
+        
+        // Save ticket function
+        function saveTicket() {
+            const ticketId = ticketIdInput.value;
+            const subject = subjectInput.value;
+            const description = descriptionInput.value;
+            const priority = priorityInput.value;
+            const status = statusInput.value;
+            const callbackTime = callbackTimeInput.value;
+            
+            if (!subject) {
+                alert('Subject is required');
+                return;
+            }
+            
+            if (ticketId) {
+                // Update existing ticket
+                const index = tickets.findIndex(t => t.id === ticketId);
+                if (index !== -1) {
+                    tickets[index] = {
+                        ...tickets[index],
+                        subject,
+                        description,
+                        priority,
+                        status,
+                        callbackTime: callbackTime || null
+                    };
+                }
+            } else {
+                // Add new ticket
+                const newId = 'T-' + (1000 + tickets.length + 1);
+                const now = new Date().toISOString();
+                
+                tickets.push({
+                    id: newId,
+                    subject,
+                    description,
+                    priority,
+                    status,
+                    callbackTime: callbackTime || null,
+                    created: now
+                });
+            }
+            
+            // Close modal and refresh table
+            closeModal();
+            renderTickets();
+        }
+        
+        // Event listeners
+        addTicketBtn.addEventListener('click', addNewTicket);
+        closeModalBtn.addEventListener('click', closeModal);
+        cancelBtn.addEventListener('click', closeModal);
+        saveTicketBtn.addEventListener('click', saveTicket);
+        
+        // Filter and search event listeners
+        searchInput.addEventListener('input', renderTickets);
+        priorityFilter.addEventListener('change', renderTickets);
+        statusFilter.addEventListener('change', renderTickets);
+        
+        // Close modal when clicking outside
+        window.addEventListener('click', function(event) {
+            if (event.target === ticketModal) {
+                closeModal();
+            }
+        });
+        
+        // Drag and drop functionality
+        let dragSrcEl = null;
+        let isDragModeEnabled = false;
+        
+        function handleDragStart(e) {
+            if (!isDragModeEnabled) return;
+            
+            this.classList.add('dragging');
+            dragSrcEl = this;
+            
+            e.dataTransfer.effectAllowed = 'move';
+            e.dataTransfer.setData('text/plain', this.getAttribute('data-id'));
+        }
+        
+        function handleDragOver(e) {
+            if (!isDragModeEnabled) return;
+            
+            e.preventDefault();
+            e.dataTransfer.dropEffect = 'move';
+            return false;
+        }
+        
+        function handleDragEnter(e) {
+            if (!isDragModeEnabled) return;
+            
+            this.classList.add('drag-over');
+        }
+        
+        function handleDragLeave(e) {
+            if (!isDragModeEnabled) return;
+            
+            this.classList.remove('drag-over');
+        }
+        
+        function handleDrop(e) {
+            if (!isDragModeEnabled) return;
+            
+            e.stopPropagation();
+            
+            if (dragSrcEl !== this) {
+                const srcId = dragSrcEl.getAttribute('data-id');
+                const destId = this.getAttribute('data-id');
+                
+                // Find positions in the array
+                const srcIndex = tickets.findIndex(t => t.id === srcId);
+                const destIndex = tickets.findIndex(t => t.id === destId);
+                
+                // Reorder the array
+                const [movedItem] = tickets.splice(srcIndex, 1);
+                tickets.splice(destIndex, 0, movedItem);
+                
+                // Re-render the table
+                renderTickets();
+            }
+            
+            return false;
+        }
+        
+        function handleDragEnd(e) {
+            if (!isDragModeEnabled) return;
+            
+            document.querySelectorAll('tr').forEach(row => {
+                row.classList.remove('dragging');
+                row.classList.remove('drag-over');
+            });
+        }
+        
+        function addDragListeners() {
+            document.querySelectorAll('#ticketTableBody tr').forEach(row => {
+                row.addEventListener('dragstart', handleDragStart);
+                row.addEventListener('dragover', handleDragOver);
+                row.addEventListener('dragenter', handleDragEnter);
+                row.addEventListener('dragleave', handleDragLeave);
+                row.addEventListener('drop', handleDrop);
+                row.addEventListener('dragend', handleDragEnd);
+            });
+        }
+        
+        // Toggle drag mode
+        const toggleDragBtn = document.getElementById('toggleDragBtn');
+        toggleDragBtn.addEventListener('click', function() {
+            isDragModeEnabled = !isDragModeEnabled;
+            
+            if (isDragModeEnabled) {
+                this.textContent = 'Disable Drag & Drop';
+                document.querySelectorAll('#ticketTableBody tr').forEach(row => {
+                    row.setAttribute('draggable', 'true');
+                });
+                document.querySelectorAll('.drag-handle').forEach(handle => {
+                    handle.style.display = 'inline-block';
+                });
+            } else {
+                this.textContent = 'Enable Drag & Drop';
+                document.querySelectorAll('#ticketTableBody tr').forEach(row => {
+                    row.setAttribute('draggable', 'false');
+                });
+                document.querySelectorAll('.drag-handle').forEach(handle => {
+                    handle.style.display = 'none';
+                });
+            }
+            
+            addDragListeners();
+        });
+        
+        // Function to add all event listeners after rendering
+        function addAllEventListeners() {
+            // Add event listeners to the edit/delete buttons
+            document.querySelectorAll('.edit-btn').forEach(button => {
+                button.addEventListener('click', function() {
+                    const id = this.getAttribute('data-id');
+                    editTicket(id);
+                });
+            });
+            
+            document.querySelectorAll('.delete-btn').forEach(button => {
+                button.addEventListener('click', function() {
+                    const id = this.getAttribute('data-id');
+                    deleteTicket(id);
+                });
+            });
+            
+            // Add drag and drop listeners
+            addDragListeners();
+        }
+        
+        // Update renderTickets to call addAllEventListeners
+        const originalRenderTickets = renderTickets;
+        renderTickets = function() {
+            originalRenderTickets();
+            addAllEventListeners();
+        };
+        
+        // Initialize
+        renderTickets();
+    </script>
+</body>
+</html>
