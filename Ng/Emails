@@ -57,3 +57,350 @@
 
 </body>
 </html>
+/* Basic Reset & Font */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #f4f7f6; /* Light background */
+    color: #333;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background-color: #007bff; /* Primary color */
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    margin-top: 0;
+    font-weight: 700;
+}
+
+header p {
+    font-size: 1.1em;
+    opacity: 0.9;
+}
+
+/* Card Styling */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Responsive grid */
+    gap: 20px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Subtle lift effect */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card h3 {
+    margin-top: 0;
+    color: #0056b3; /* Darker shade of primary */
+    font-weight: 500;
+}
+
+.card p {
+    font-size: 0.95em;
+    color: #555;
+    margin-bottom: 0;
+}
+
+
+/* Modal Styling */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.6); /* Black with opacity */
+    backdrop-filter: blur(5px); /* Optional blur effect */
+    -webkit-backdrop-filter: blur(5px); /* Safari support */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 10% auto; /* 10% from the top and centered */
+    padding: 30px;
+    border-radius: 10px;
+    width: 90%; /* Responsive width */
+    max-width: 600px; /* Max width */
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    position: relative; /* Needed for absolute positioning of close button */
+}
+
+.modal-content h2 {
+    margin-top: 0;
+    color: #0056b3;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.modal-content p {
+    white-space: pre-wrap; /* Respect newlines in JS content */
+    word-wrap: break-word; /* Break long words */
+    margin-bottom: 20px;
+}
+
+.close {
+    color: #aaa;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close:hover,
+.close:focus {
+    color: #777;
+    text-decoration: none;
+    outline: none; /* Remove outline on focus */
+}
+
+/* Copy Button Styling (Optional) */
+#copy-button {
+    display: block; /* Make it a block element below content */
+    width: 100%; /* Full width */
+    padding: 10px;
+    background-color: #28a745; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+#copy-button:hover {
+    background-color: #218838; /* Darker green */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .modal-content {
+        margin: 15% auto; /* Adjust margin for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 0 15px;
+    }
+
+    .card {
+        padding: 20px;
+    }
+
+    .modal-content {
+        margin: 20% auto;
+        padding: 20px;
+    }
+
+    .close {
+        font-size: 25px;
+        top: 10px;
+        right: 15px;
+    }
+
+    header {
+        padding: 30px 0;
+    }
+}
+
+
+document.addEventListener('DOMContentLoaded', function() {
+
+    // Get the modal, button that opens the modal, and the <span> element that closes the modal
+    var modal = document.getElementById("myModal");
+    var span = document.getElementsByClassName("close")[0]; // Get the first element with class "close"
+    var cards = document.querySelectorAll('.card'); // Get all elements with class "card"
+    var modalTitle = document.getElementById("modal-title");
+    var modalInfo = document.getElementById("modal-info");
+    var copyButton = document.getElementById("copy-button"); // Get the copy button
+
+    // --- Content for the Modals ---
+    // Use the data-card-id from the HTML cards as the keys here.
+    // Replace the placeholder text with your actual information.
+    const modalContent = {
+        'adhd-overview': {
+            title: 'ADHD Overview',
+            info: `Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder characterized by persistent patterns of inattention and/or hyperactivity-impulsivity that interfere with functioning or development.
+
+Key characteristics often include:
+- Difficulty sustaining attention in tasks or play.
+- Making careless mistakes.
+- Difficulty organizing tasks and activities.
+- Fidgeting or squirming.
+- Difficulty waiting their turn.
+- Interrupting others.
+
+ADHD is a complex condition, and its presentation varies greatly from person to person.`
+        },
+        'dyslexia-basics': {
+            title: 'Dyslexia Basics',
+            info: `Dyslexia is a specific learning disability that is neurobiological in origin. It is characterized by difficulties with accurate and/or fluent word recognition and by poor spelling and decoding abilities.
+
+These difficulties typically result from a deficit in the phonological component of language that is often unexpected in relation to other cognitive abilities and the provision of effective classroom instruction.
+
+Secondary consequences may include problems in reading comprehension and reduced reading experience that can impede growth of vocabulary and background knowledge.`
+        },
+        'support-strategies': {
+            title: 'Support Strategies',
+            info: `Effective strategies for supporting individuals with ADHD and/or Dyslexia include:
+
+For ADHD:
+- Establishing routines and structure.
+- Breaking down tasks into smaller steps.
+- Providing clear expectations and immediate feedback.
+- Using visual aids and organizers.
+- Incorporating movement breaks.
+
+For Dyslexia:
+- Using multisensory teaching approaches (seeing, hearing, touching, moving).
+- Providing explicit and systematic phonics instruction.
+- Using assistive technology (text-to-speech, speech-to-text).
+- Allowing extra time for reading and writing tasks.
+- Focusing on strengths and building confidence.
+
+Remember that individual needs vary, and a personalized approach is best.`
+        },
+        'strengths-and-benefits': {
+            title: 'Strengths & Benefits',
+            info: `While ADHD and Dyslexia present challenges, they are also often associated with unique strengths:
+
+Individuals with ADHD may excel in:
+- Creativity and innovation.
+- Hyperfocus on areas of interest.
+- Resilience and adaptability.
+- High energy and enthusiasm.
+- Thinking outside the box.
+
+Individuals with Dyslexia may excel in:
+- Visual and spatial reasoning.
+- Problem-solving.
+- Big-picture thinking.
+- Creativity and pattern recognition.
+- Empathy and interpersonal skills.
+
+Focusing on and nurturing these strengths is crucial for success and well-being.`
+        }
+        // Add more content objects here for additional cards
+    };
+    // --- End of Content ---
+
+
+    // When the user clicks on a card, open the modal
+    cards.forEach(function(card) {
+        card.onclick = function() {
+            const cardId = this.getAttribute('data-card-id');
+            const content = modalContent[cardId];
+
+            if (content) {
+                modalTitle.textContent = content.title;
+                modalInfo.textContent = content.info;
+                modal.style.display = "block";
+            } else {
+                console.error("Content not found for card ID:", cardId);
+                // Optionally display an error message in the modal or console
+            }
+        }
+    });
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+        modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal content, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+
+    // Optional: Add functionality to the Copy button
+    if (copyButton) {
+        copyButton.onclick = function() {
+            // Select the text in the modal info paragraph
+            const textToCopy = modalInfo.textContent;
+
+            // Use the modern Clipboard API
+            navigator.clipboard.writeText(textToCopy).then(function() {
+                // Optional: Provide feedback to the user
+                copyButton.textContent = 'Copied!';
+                setTimeout(function() {
+                    copyButton.textContent = 'Copy Info';
+                }, 2000); // Reset button text after 2 seconds
+            }).catch(function(err) {
+                console.error('Could not copy text: ', err);
+                // Fallback for older browsers or if clipboard access is denied
+                fallbackCopyToClipboard(textToCopy);
+                 // Optional: Provide feedback even on fallback attempt
+                 copyButton.textContent = 'Attempted Copy!';
+                 setTimeout(function() {
+                     copyButton.textContent = 'Copy Info';
+                 }, 2000);
+            });
+        }
+    }
+
+     // Fallback copy function for older browsers
+     function fallbackCopyToClipboard(text) {
+        const textArea = document.createElement("textarea");
+        textArea.value = text;
+
+        // Avoid scrolling to bottom
+        textArea.style.top = "0";
+        textArea.style.left = "0";
+        textArea.style.position = "fixed";
+
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+
+        try {
+            document.execCommand('copy');
+            console.log('Fallback: Text copied to clipboard');
+        } catch (err) {
+            console.error('Fallback: Unable to copy text', err);
+        }
+
+        document.body.removeChild(textArea);
+    }
+
+    // Optional: Close modal with Escape key
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Escape' && modal.style.display === "block") {
+            modal.style.display = "none";
+        }
+    });
+
+});
