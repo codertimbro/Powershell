@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support & Information: ADHD & Dyslexia</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Understanding and Supporting Neurodiversity</h1>
+            <p>Information and resources for ADHD and Dyslexia.</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="card-container">
+
+            <div class="card" data-card-id="adhd-overview">
+                <h3>ADHD Overview</h3>
+                <p>Learn about the common symptoms and types of ADHD.</p>
+            </div>
+
+            <div class="card" data-card-id="dyslexia-basics">
+                <h3>Dyslexia Basics</h3>
+                <p>Understanding what Dyslexia is and how it affects reading.</p>
+            </div>
+
+            <div class="card" data-card-id="support-strategies">
+                <h3>Support Strategies</h3>
+                <p>Practical tips for supporting individuals with ADHD/Dyslexia.</p>
+            </div>
+
+             <div class="card" data-card-id="strengths-and-benefits">
+                <h3>Strengths & Benefits</h3>
+                <p>Discover the unique strengths often associated with these conditions.</p>
+            </div>
+
+            </div>
+    </main>
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modal-title">Modal Title</h2>
+            <p id="modal-info">
+                This is the information you can copy.
+            </p>
+            <button id="copy-button">Copy Info</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
