@@ -1,0 +1,1403 @@
+
+
+On Fri, May 16, 2025 at 10:16 AM Timothy Brown <cincy983@gmail.com> wrote:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help Desk Dashboard</title>
+    <style>
+        :root {
+            --primary-color: #3a86ff;
+            --secondary-color: #8338ec;
+            --background-color: #f8f9fa;
+            --text-color: #333;
+            --card-bg: #fff;
+            --success-color: #38b000;
+            --warning-color: #ffbe0b;
+            --urgent-color: #ff006e;
+            --border-radius: 12px;
+            --transition: all 0.3s ease;
+            --font-main: 'Open Sans', Arial, sans-serif;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-main);
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 0;
+            margin: 0;
+            font-size: 18px; /* Larger base font size for readability */
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            min-height: 100vh;
+        }
+
+        /* Sidebar Styles */
+        .sidebar {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 2rem 1rem;
+            position: fixed;
+            height: 100vh;
+            width: 280px;
+            overflow-y: auto;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 2.5rem;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        .logo span {
+            color: #ffbe0b;
+        }
+
+        .nav-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1.2rem;
+            padding: 0.8rem 1rem;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            transition: var(--transition);
+            font-weight: 600;
+        }
+
+        .nav-item:hover, .nav-item.active {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .nav-item i {
+            margin-right: 12px;
+            font-size: 1.4rem;
+        }
+
+        .section-title {
+            margin: 2rem 0 1rem;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            opacity: 0.8;
+        }
+
+        /* Main Content Styles */
+        .main-content {
+            padding: 2rem;
+            margin-left: 280px;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .user-info {
+            display: flex;
+            align-items: center;
+        }
+
+        .user-avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: var(--primary-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-right: 1rem;
+        }
+
+        .welcome-message {
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+
+        .date-time {
+            font-size: 1.1rem;
+            margin-top: 0.3rem;
+            color: #777;
+        }
+
+        .search-bar {
+            display: flex;
+            align-items: center;
+            background-color: var(--card-bg);
+            padding: 0.7rem 1.5rem;
+            border-radius: var(--border-radius);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .search-bar input {
+            border: none;
+            outline: none;
+            background: transparent;
+            padding: 0.5rem;
+            font-size: 1rem;
+            width: 300px;
+        }
+
+        .dashboard-summary {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .summary-card {
+            background-color: var(--card-bg);
+            padding: 1.5rem;
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            transition: var(--transition);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .summary-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .summary-card h3 {
+            margin-bottom: 0.8rem;
+            font-size: 1.4rem;
+            font-weight: 600;
+        }
+
+        .summary-card .number {
+            font-size: 2.2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: auto;
+        }
+
+        .change {
+            padding: 0.3rem 0.7rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .change.positive {
+            background-color: rgba(56, 176, 0, 0.15);
+            color: var(--success-color);
+        }
+
+        .change.negative {
+            background-color: rgba(255, 0, 110, 0.15);
+            color: var(--urgent-color);
+        }
+
+        .main-sections {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        .section {
+            background-color: var(--card-bg);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+            padding: 1.5rem;
+            overflow: hidden;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .section h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        .action-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 0.7rem 1.5rem;
+            border-radius: var(--border-radius);
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .action-btn:hover {
+            background-color: var(--secondary-color);
+        }
+
+        /* Ticket tracker styles */
+        .tickets-table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin-top: 1rem;
+        }
+
+        .tickets-table th, .tickets-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        .tickets-table th {
+            background-color: rgba(58, 134, 255, 0.1);
+            font-weight: 600;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        .tickets-table tbody tr {
+            cursor: move;
+            transition: all 0.2s ease;
+            background-color: var(--card-bg);
+        }
+
+        .tickets-table tr:hover {
+            background-color: rgba(58, 134, 255, 0.05);
+            transform: translateY(-2px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .tickets-table tr.dragging {
+            opacity: 0.5;
+            background-color: rgba(58, 134, 255, 0.2);
+            z-index: 100;
+        }
+        
+        .tickets-table tr.drag-over {
+            border-top: 2px solid var(--primary-color);
+        }
+        
+        .tickets-table tr .drag-handle {
+            cursor: grab;
+            padding: 0 8px;
+            color: #aaa;
+        }
+        
+        .tickets-table tr .drag-handle:hover {
+            color: var(--primary-color);
+        }
+
+        .status {
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9rem;
+            display: inline-block;
+        }
+
+        .status.open {
+            background-color: rgba(131, 56, 236, 0.15);
+            color: var(--secondary-color);
+        }
+
+        .status.in-progress {
+            background-color: rgba(255, 190, 11, 0.15);
+            color: var(--warning-color);
+        }
+
+        .status.resolved {
+            background-color: rgba(56, 176, 0, 0.15);
+            color: var(--success-color);
+        }
+
+        .status.urgent {
+            background-color: rgba(255, 0, 110, 0.15);
+            color: var(--urgent-color);
+        }
+
+        /* Quick access section */
+        .quick-access {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1rem;
+        }
+
+        .quick-link {
+            background-color: #f0f4ff;
+            padding: 1.2rem;
+            border-radius: var(--border-radius);
+            text-align: center;
+            transition: var(--transition);
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 120px;
+        }
+
+        .quick-link:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .quick-link i {
+            font-size: 2rem;
+            margin-bottom: 0.7rem;
+            color: var(--primary-color);
+        }
+
+        .quick-link span {
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        /* Accessibility features */
+        .accessibility-bar {
+            position: fixed;
+            bottom: 0;
+            left: 280px;
+            right: 0;
+            background-color: #fff;
+            padding: 0.8rem 2rem;
+            display: flex;
+            justify-content: flex-end;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+            z-index: 100;
+        }
+
+        .a11y-control {
+            margin-left: 1rem;
+            padding: 0.5rem;
+            border: none;
+            background-color: #f0f4ff;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .a11y-control:hover {
+            background-color: #e0e7ff;
+        }
+
+        .a11y-control i {
+            font-size: 1.2rem;
+            color: var(--primary-color);
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            
+            .sidebar {
+                position: fixed;
+                left: -280px;
+                transition: var(--transition);
+                z-index: 1000;
+            }
+            
+            .sidebar.active {
+                left: 0;
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            .accessibility-bar {
+                left: 0;
+            }
+            
+            .mobile-toggle {
+                position: fixed;
+                top: 1rem;
+                left: 1rem;
+                background-color: var(--primary-color);
+                color: white;
+                border: none;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                z-index: 1001;
+            }
+        }
+
+        /* Dyslexia-friendly adjustments */
+        .dyslexia-mode {
+            font-family: 'OpenDyslexic', 'Comic Sans MS', var(--font-main);
+            letter-spacing: 0.05em;
+            word-spacing: 0.1em;
+            line-height: 1.8;
+        }
+
+        .high-contrast-mode {
+            --background-color: #000;
+            --text-color: #fff;
+            --card-bg: #222;
+            --primary-color: #ffbe0b;
+            --secondary-color: #fb5607;
+        }
+
+        .large-text-mode {
+            font-size: 20px; /* Increase from base 18px */
+        }
+
+        .calm-mode {
+            --primary-color: #4a7c59;
+            --secondary-color: #8a9e8d;
+            --background-color: #f7f7f2;
+            --card-bg: #fff;
+            transition: background-color 1s ease;
+        }
+
+        /* Focus mode */
+        .focus-mode .sidebar {
+            opacity: 0.5;
+        }
+
+        .focus-mode .main-content > *:not(.section.active) {
+            opacity: 0.5;
+        }
+
+        .focus-mode .section.active {
+            box-shadow: 0 0 0 3px var(--primary-color);
+        }
+
+        /* Audio cues (will be handled by JavaScript) */
+        .audio-cues-enabled {
+            /* Just a class to track state, styling handled by JS */
+        }
+
+        /* Timer for ADHD focus sessions */
+        .timer-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 1rem;
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            display: none;
+            z-index: 100;
+        }
+
+        .timer-container.active {
+            display: block;
+        }
+
+        .timer-display {
+            font-size: 2rem;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .timer-controls {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+
+        .timer-btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .timer-btn.start {
+            background-color: var(--success-color);
+            color: white;
+        }
+
+        .timer-btn.pause {
+            background-color: var(--warning-color);
+            color: white;
+        }
+
+        .timer-btn.reset {
+            background-color: var(--urgent-color);
+            color: white;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="logo">Help<span>Desk</span></div>
+            
+            <div class="nav-item active">
+                <i class="fas fa-home"></i>
+                <span>Dashboard</span>
+            </div>
+            
+            <div class="nav-item">
+                <i class="fas fa-ticket-alt"></i>
+                <span>Ticket Tracker</span>
+            </div>
+            
+            <div class="nav-item">
+                <i class="fas fa-clock"></i>
+                <span>Time Card</span>
+            </div>
+            
+            <div class="nav-item">
+                <i class="fas fa-calendar-alt"></i>
+                <span>Schedule</span>
+            </div>
+            
+            <div class="section-title">Resources</div>
+            
+            <div class="nav-item">
+                <i class="fas fa-book"></i>
+                <span>Applications Wiki</span>
+            </div>
+            
+            <div class="nav-item">
+                <i class="fas fa-file-alt"></i>
+                <span>Process Documentation</span>
+            </div>
+            
+            <div class="nav-item">
+                <i class="fas fa-file-excel"></i>
+                <span>Excel Templates</span>
+            </div>
+            
+            <div class="section-title">Tools</div>
+            
+            <div class="nav-item">
+                <i class="fas fa-stopwatch"></i>
+                <span>Pomodoro Timer</span>
+            </div>
+            
+            <div class="nav-item">
+                <i class="fas fa-sticky-note"></i>
+                <span>Quick Notes</span>
+            </div>
+            
+            <div class="nav-item">
+                <i class="fas fa-cog"></i>
+                <span>Settings</span>
+            </div>
+        </div>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <div class="header">
+                <div class="user-info">
+                    <div class="user-avatar">HD</div>
+                    <div>
+                        <div class="welcome-message">Welcome back, Support Agent</div>
+                        <div class="date-time" id="current-date-time">Monday, May 16, 2025</div>
+                    </div>
+                </div>
+                
+                <div class="search-bar">
+                    <i class="fas fa-search"></i>
+                    <input type="text" placeholder="Search tickets, documents, or apps...">
+                </div>
+            </div>
+            
+            <!-- Summary Cards -->
+            <div class="dashboard-summary">
+                <div class="summary-card">
+                    <h3>Active Tickets</h3>
+                    <div class="number">7</div>
+                    <div class="card-footer">
+                        <span>Out of 10 daily</span>
+                        <span class="change positive">+2 today</span>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <h3>Urgent Tickets</h3>
+                    <div class="number">2</div>
+                    <div class="card-footer">
+                        <span>Priority attention</span>
+                        <span class="change negative">New: 1</span>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <h3>Resolved Today</h3>
+                    <div class="number">3</div>
+                    <div class="card-footer">
+                        <span>Great job!</span>
+                        <span class="change positive">+1 from yesterday</span>
+                    </div>
+                </div>
+                
+                <div class="summary-card">
+                    <h3>Weekly Hours</h3>
+                    <div class="number">32.5</div>
+                    <div class="card-footer">
+                        <span>Goal: 40 hours</span>
+                        <span class="change positive">On track!</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Ticket Tracker Section -->
+            <div class="main-sections">
+                <div class="section">
+                    <div class="section-header">
+                        <h2>Ticket Tracker</h2>
+                        <button class="action-btn">+ New Ticket</button>
+                    </div>
+                    
+                    <table class="tickets-table">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Ticket ID</th>
+                                <th>Subject</th>
+                                <th>Requester</th>
+                                <th>Status</th>
+                                <th>Priority</th>
+                                <th>Due Date</th>
+                            </tr>
+                        </thead>
+                        <tbody id="ticket-tbody">
+                            <tr draggable="true" data-ticket-id="HD-2025">
+                                <td class="drag-handle"><i class="fas fa-grip-vertical"></i></td>
+                                <td>#HD-2025</td>
+                                <td>Network connectivity issue</td>
+                                <td>John Smith</td>
+                                <td><span class="status in-progress">In Progress</span></td>
+                                <td><span class="status urgent">Urgent</span></td>
+                                <td>May 16, 2025</td>
+                            </tr>
+                            <tr draggable="true" data-ticket-id="HD-2024">
+                                <td class="drag-handle"><i class="fas fa-grip-vertical"></i></td>
+                                <td>#HD-2024</td>
+                                <td>Software installation error</td>
+                                <td>Sandra Lee</td>
+                                <td><span class="status open">Open</span></td>
+                                <td><span class="status in-progress">Medium</span></td>
+                                <td>May 17, 2025</td>
+                            </tr>
+                            <tr draggable="true" data-ticket-id="HD-2023">
+                                <td class="drag-handle"><i class="fas fa-grip-vertical"></i></td>
+                                <td>#HD-2023</td>
+                                <td>Password reset request</td>
+                                <td>Michael Johnson</td>
+                                <td><span class="status resolved">Resolved</span></td>
+                                <td><span class="status open">Low</span></td>
+                                <td>May 15, 2025</td>
+                            </tr>
+                            <tr draggable="true" data-ticket-id="HD-2022">
+                                <td class="drag-handle"><i class="fas fa-grip-vertical"></i></td>
+                                <td>#HD-2022</td>
+                                <td>Microsoft 365 access issue</td>
+                                <td>Emily Rodriguez</td>
+                                <td><span class="status in-progress">In Progress</span></td>
+                                <td><span class="status urgent">Urgent</span></td>
+                                <td>May 16, 2025</td>
+                            </tr>
+                            <tr draggable="true" data-ticket-id="HD-2021">
+                                <td class="drag-handle"><i class="fas fa-grip-vertical"></i></td>
+                                <td>#HD-2021</td>
+                                <td>Email delivery problems</td>
+                                <td>David Wilson</td>
+                                <td><span class="status open">Open</span></td>
+                                <td><span class="status in-progress">Medium</span></td>
+                                <td>May 18, 2025</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                
+                <!-- Quick Access Section -->
+                <div class="section">
+                    <div class="section-header">
+                        <h2>Quick Access</h2>
+                    </div>
+                    
+                    <div class="quick-access">
+                        <div class="quick-link">
+                            <i class="fas fa-sign-in-alt"></i>
+                            <span>Login Portal</span>
+                        </div>
+                        
+                        <div class="quick-link">
+                            <i class="fas fa-table"></i>
+                            <span>Excel Tracker</span>
+                        </div>
+                        
+                        <div class="quick-link">
+                            <i class="fas fa-clock"></i>
+                            <span>Time Card</span>
+                        </div>
+                        
+                        <div class="quick-link">
+                            <i class="fab fa-microsoft"></i>
+                            <span>Microsoft 365</span>
+                        </div>
+                        
+                        <div class="quick-link">
+                            <i class="fas fa-book"></i>
+                            <span>Applications Wiki</span>
+                        </div>
+                        
+                        <div class="quick-link">
+                            <i class="fas fa-file-alt"></i>
+                            <span>Process Docs</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Accessibility Bar -->
+    <div class="accessibility-bar">
+        <button class="a11y-control" id="toggle-dyslexia" title="Dyslexia-friendly font">
+            <i class="fas fa-font"></i>
+        </button>
+        <button class="a11y-control" id="toggle-contrast" title="High contrast mode">
+            <i class="fas fa-adjust"></i>
+        </button>
+        <button class="a11y-control" id="toggle-text-size" title="Large text mode">
+            <i class="fas fa-text-height"></i>
+        </button>
+        <button class="a11y-control" id="toggle-focus" title="Focus mode">
+            <i class="fas fa-bullseye"></i>
+        </button>
+        <button class="a11y-control" id="toggle-calm" title="Calm mode">
+            <i class="fas fa-moon"></i>
+        </button>
+        <button class="a11y-control" id="toggle-audio" title="Audio cues">
+            <i class="fas fa-volume-up"></i>
+        </button>
+        <button class="a11y-control" id="toggle-timer" title="Pomodoro timer">
+            <i class="fas fa-stopwatch"></i>
+        </button>
+    </div>
+    
+    <!-- Pomodoro Timer -->
+    <div class="timer-container">
+        <div class="timer-display">25:00</div>
+        <div class="timer-controls">
+            <button class="timer-btn start">Start</button>
+            <button class="timer-btn pause">Pause</button>
+            <button class="timer-btn reset">Reset</button>
+        </div>
+    </div>
+
+    <!-- Mobile Menu Toggle -->
+    <button class="mobile-toggle" style="display: none;">
+        <i class="fas fa-bars"></i>
+    </button>
+    
+    <script>
+        // Update date and time
+        function updateDateTime() {
+            const now = new Date();
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+            document.getElementById('current-date-time').textContent = now.toLocaleDateString('en-US', options);
+        }
+        
+        updateDateTime();
+        setInterval(updateDateTime, 60000); // Update every minute
+        
+        // Accessibility toggles
+        document.getElementById('toggle-dyslexia').addEventListener('click', function() {
+            document.body.classList.toggle('dyslexia-mode');
+        });
+        
+        document.getElementById('toggle-contrast').addEventListener('click', function() {
+            document.body.classList.toggle('high-contrast-mode');
+        });
+        
+        document.getElementById('toggle-text-size').addEventListener('click', function() {
+            document.body.classList.toggle('large-text-mode');
+        });
+        
+        document.getElementById('toggle-focus').addEventListener('click', function() {
+            document.body.classList.toggle('focus-mode');
+        });
+        
+        document.getElementById('toggle-calm').addEventListener('click', function() {
+            document.body.classList.toggle('calm-mode');
+        });
+        
+        document.getElementById('toggle-audio').addEventListener('click', function() {
+            document.body.classList.toggle('audio-cues-enabled');
+            // Audio feedback for button press
+            if (document.body.classList.contains('audio-cues-enabled')) {
+                // Simple audio feedback using Web Audio API
+                const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioCtx.createOscillator();
+                const gainNode = audioCtx.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioCtx.destination);
+                
+                oscillator.type = 'sine';
+                oscillator.frequency.value = 440; // A4 note
+                gainNode.gain.value = 0.1;
+                
+                oscillator.start();
+                setTimeout(() => {
+                    oscillator.stop();
+                }, 200);
+            }
+        });
+        
+        // Pomodoro Timer
+        let timerInterval;
+        let minutes = 25;
+        let seconds = 0;
+        let isRunning = false;
+        
+        document.getElementById('toggle-timer').addEventListener('click', function() {
+            document.querySelector('.timer-container').classList.toggle('active');
+        });
+        
+        document.querySelector('.timer-btn.start').addEventListener('click', function() {
+            if (!isRunning) {
+                startTimer();
+                isRunning = true;
+            }
+        });
+        
+        document.querySelector('.timer-btn.pause').addEventListener('click', function() {
+            clearInterval(timerInterval);
+            isRunning = false;
+        });
+        
+        document.querySelector('.timer-btn.reset').addEventListener('click', function() {
+            clearInterval(timerInterval);
+            isRunning = false;
+            minutes = 25;
+            seconds = 0;
+            updateTimerDisplay();
+        });
+        
+        function startTimer() {
+            timerInterval = setInterval(function() {
+                if (seconds === 0) {
+                    if (minutes === 0) {
+                        clearInterval(timerInterval);
+                        isRunning = false;
+                        // Timer finished - play sound if audio cues enabled
+                        if (document.body.classList.contains('audio-cues-enabled')) {
+                            const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                            const oscillator = audioCtx.createOscillator();
+                            const gainNode = audioCtx.createGain();
+                            
+                            oscillator.connect(gainNode);
+                            gainNode.connect(audioCtx.destination);
+                            
+                            oscillator.type = 'sine';
+                            oscillator.frequency.value = 880; // Higher pitch for completion
+                            gainNode.gain.value = 0.2;
+                            
+                            oscillator.start();
+                            setTimeout(() => {
+                                oscillator.stop();
+                            }, 1000);
+                        }
+                        return;
+                    }
+                    minutes--;
+                    seconds = 59;
+                } else {
+                    seconds--;
+                }
+                updateTimerDisplay();
+            }, 1000);
+        }
+        
+        function updateTimerDisplay() {
+            const display = document.querySelector('.timer-display');
+            display.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        }
+        
+        // Mobile toggle
+        if (window.innerWidth <= 1024) {
+            document.querySelector('.mobile-toggle').style.display = 'flex';
+            
+            document.querySelector('.mobile-toggle').addEventListener('click', function() {
+                document.querySelector('.sidebar').classList.toggle('active');
+            });
+        }
+        
+        // Navigation items click
+        document.querySelectorAll('.nav-item').forEach(item => {
+            item.addEventListener('click', function() {
+                document.querySelectorAll('.nav-item').forEach(el => {
+                    el.classList.remove('active');
+                });
+                this.classList.add('active');
+                
+                // Audio feedback for navigation if enabled
+                if (document.body.classList.contains('audio-cues-enabled')) {
+                    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                    const oscillator = audioCtx.createOscillator();
+                    const gainNode = audioCtx.createGain();
+                    
+                    oscillator.connect(gainNode);
+                    gainNode.connect(audioCtx.destination);
+                    
+                    oscillator.type = 'sine';
+                    oscillator.frequency.value = 523.25; // C5 note
+                    gainNode.gain.value = 0.1;
+                    
+                    oscillator.start();
+                    setTimeout(() => {
+                        oscillator.stop();
+                    }, 100);
+                }
+            });
+        });
+        
+        // Quick access links
+        document.querySelectorAll('.quick-link').forEach(link => {
+            link.addEventListener('click', function() {
+                const linkText = this.querySelector('span').textContent;
+                
+                // Simple simulation of opening different resources
+                switch(linkText) {
+                    case 'Login Portal':
+                        window.open('https://login.company.com', '_blank');
+                        break;
+                    case 'Excel Tracker':
+                        window.open('https://office.com/excel', '_blank');
+                        break;
+                    case 'Time Card':
+                        window.open('https://timecard.company.com', '_blank');
+                        break;
+                    case 'Microsoft 365':
+                        window.open('https://portal.office.com', '_blank');
+                        break;
+                    case 'Applications Wiki':
+                        window.open('https://wiki.company.com/apps', '_blank');
+                        break;
+                    case 'Process Docs':
+                        window.open('https://wiki.company.com/processes', '_blank');
+                        break;
+                }
+                
+                // Audio feedback if enabled
+                if (document.body.classList.contains('audio-cues-enabled')) {
+                    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                    const oscillator = audioCtx.createOscillator();
+                    const gainNode = audioCtx.createGain();
+                    
+                    oscillator.connect(gainNode);
+                    gainNode.connect(audioCtx.destination);
+                    
+                    oscillator.type = 'sine';
+                    oscillator.frequency.value = 659.25; // E5 note - different from navigation sound
+                    gainNode.gain.value = 0.1;
+                    
+                    oscillator.start();
+                    setTimeout(() => {
+                        oscillator.stop();
+                    }, 150);
+                }
+            });
+        });
+        
+        // Simple ticket tracking functionality
+        document.querySelector('.action-btn').addEventListener('click', function() {
+            // Implementation for adding a new ticket would go here
+            // For demo purposes, we'll just show an alert
+            alert('New ticket form would open here.');
+        });
+        
+        // Setup drag and drop for tickets
+        function setupTicketDragDrop() {
+            const ticketRows = document.querySelectorAll('#ticket-tbody tr');
+            const ticketTable = document.getElementById('ticket-tbody');
+            let draggedItem = null;
+            
+            ticketRows.forEach(row => {
+                // Handle drag start
+                row.addEventListener('dragstart', function(e) {
+                    draggedItem = this;
+                    setTimeout(() => {
+                        this.classList.add('dragging');
+                    }, 0);
+                    
+                    // Required for Firefox
+                    e.dataTransfer.effectAllowed = 'move';
+                    e.dataTransfer.setData('text/plain', this.dataset.ticketId);
+                    
+                    // Audio feedback if enabled
+                    if (document.body.classList.contains('audio-cues-enabled')) {
+                        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                        const oscillator = audioCtx.createOscillator();
+                        const gainNode = audioCtx.createGain();
+                        
+                        oscillator.connect(gainNode);
+                        gainNode.connect(audioCtx.destination);
+                        
+                        oscillator.type = 'sine';
+                        oscillator.frequency.value = 330; // E4 note
+                        gainNode.gain.value = 0.1;
+                        
+                        oscillator.start();
+                        setTimeout(() => {
+                            oscillator.stop();
+                        }, 100);
+                    }
+                });
+                
+                // Handle drag end
+                row.addEventListener('dragend', function() {
+                    this.classList.remove('dragging');
+                    
+                    // Audio feedback if enabled
+                    if (document.body.classList.contains('audio-cues-enabled')) {
+                        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                        const oscillator = audioCtx.createOscillator();
+                        const gainNode = audioCtx.createGain();
+                        
+                        oscillator.connect(gainNode);
+                        gainNode.connect(audioCtx.destination);
+                        
+                        oscillator.type = 'sine';
+                        oscillator.frequency.value = 440; // A4 note
+                        gainNode.gain.value = 0.1;
+                        
+                        oscillator.start();
+                        setTimeout(() => {
+                            oscillator.stop();
+                        }, 150);
+                    }
+                    
+                    saveTicketOrder();
+                });
+                
+                // Handle drag over
+                row.addEventListener('dragover', function(e) {
+                    e.preventDefault();
+                    if (this !== draggedItem) {
+                        this.classList.add('drag-over');
+                    }
+                });
+                
+                // Handle drag leave
+                row.addEventListener('dragleave', function() {
+                    this.classList.remove('drag-over');
+                });
+                
+                // Handle drop
+                row.addEventListener('drop', function(e) {
+                    e.preventDefault();
+                    if (this !== draggedItem) {
+                        this.classList.remove('drag-over');
+                        
+                        // Get positions
+                        const allRows = Array.from(document.querySelectorAll('#ticket-tbody tr'));
+                        const fromIndex = allRows.indexOf(draggedItem);
+                        const toIndex = allRows.indexOf(this);
+                        
+                        // Reorder DOM elements
+                        if (fromIndex < toIndex) {
+                            ticketTable.insertBefore(draggedItem, this.nextSibling);
+                        } else {
+                            ticketTable.insertBefore(draggedItem, this);
+                        }
+                    }
+                });
+            });
+            
+            // Touch device support
+            ticketRows.forEach(row => {
+                const dragHandle = row.querySelector('.drag-handle');
+                
+                let touchStartY = 0;
+                let initialPosition = 0;
+                let currentRow = null;
+                
+                dragHandle.addEventListener('touchstart', function(e) {
+                    e.preventDefault();
+                    currentRow = this.closest('tr');
+                    currentRow.classList.add('dragging');
+                    
+                    touchStartY = e.touches[0].pageY;
+                    initialPosition = Array.from(ticketTable.children).indexOf(currentRow);
+                    
+                    document.addEventListener('touchmove', touchMoveHandler, { passive: false });
+                    document.addEventListener('touchend', touchEndHandler);
+                });
+                
+                function touchMoveHandler(e) {
+                    e.preventDefault();
+                    
+                    if (!currentRow) return;
+                    
+                    const touchY = e.touches[0].pageY;
+                    const diff = touchY - touchStartY;
+                    
+                    // Determine if we should swap rows
+                    const rowHeight = currentRow.offsetHeight;
+                    const allRows = Array.from(ticketTable.children);
+                    const currentPos = allRows.indexOf(currentRow);
+                    
+                    if (diff > rowHeight/2 && currentPos < allRows.length - 1) {
+                        // Move down
+                        ticketTable.insertBefore(currentRow, allRows[currentPos + 1].nextSibling);
+                        touchStartY = touchY;
+                    } else if (diff < -rowHeight/2 && currentPos > 0) {
+                        // Move up
+                        ticketTable.insertBefore(currentRow, allRows[currentPos - 1]);
+                        touchStartY = touchY;
+                    }
+                }
+                
+                function touchEndHandler() {
+                    if (currentRow) {
+                        currentRow.classList.remove('dragging');
+                        
+                        const newPosition = Array.from(ticketTable.children).indexOf(currentRow);
+                        if (initialPosition !== newPosition) {
+                            saveTicketOrder();
+                        }
+                    }
+                    
+                    document.removeEventListener('touchmove', touchMoveHandler);
+                    document.removeEventListener('touchend', touchEndHandler);
+                    currentRow = null;
+                }
+            });
+        }
+        
+        // Save ticket order to localStorage
+        function saveTicketOrder() {
+            const ticketRows = document.querySelectorAll('#ticket-tbody tr');
+            const ticketOrder = Array.from(ticketRows).map(row => row.dataset.ticketId);
+            
+            localStorage.setItem('helpDeskTicketOrder', JSON.stringify(ticketOrder));
+            
+            // Visual feedback for save
+            const notification = document.createElement('div');
+            notification.style.position = 'fixed';
+            notification.style.bottom = '60px';
+            notification.style.right = '20px';
+            notification.style.backgroundColor = 'var(--success-color)';
+            notification.style.color = 'white';
+            notification.style.padding = '0.5rem 1rem';
+            notification.style.borderRadius = 'var(--border-radius)';
+            notification.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.1)';
+            notification.style.zIndex = '100';
+            notification.textContent = 'Ticket order saved!';
+            
+            document.body.appendChild(notification);
+            
+            setTimeout(() => {
+                notification.style.opacity = '0';
+                notification.style.transition = 'opacity 0.5s ease';
+                setTimeout(() => {
+                    document.body.removeChild(notification);
+                }, 500);
+            }, 2000);
+        }
+        
+        // Load ticket order from localStorage
+        function loadTicketOrder() {
+            const savedOrder = localStorage.getItem('helpDeskTicketOrder');
+            if (savedOrder) {
+                const ticketOrder = JSON.parse(savedOrder);
+                const ticketTable = document.getElementById('ticket-tbody');
+                const ticketRows = document.querySelectorAll('#ticket-tbody tr');
+                
+                // Create a map of current ticket elements
+                const ticketMap = {};
+                ticketRows.forEach(row => {
+                    ticketMap[row.dataset.ticketId] = row;
+                });
+                
+                // Remove all tickets
+                while (ticketTable.firstChild) {
+                    ticketTable.removeChild(ticketTable.firstChild);
+                }
+                
+                // Add tickets back in saved order
+                ticketOrder.forEach(ticketId => {
+                    if (ticketMap[ticketId]) {
+                        ticketTable.appendChild(ticketMap[ticketId]);
+                    }
+                });
+            }
+        }
+        
+        // Initialize ticket drag and drop
+        setupTicketDragDrop();
+        
+        // Load saved ticket order
+        loadTicketOrder();
+        
+        // Search functionality
+        const searchInput = document.querySelector('.search-bar input');
+        searchInput.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase();
+            const tableRows = document.querySelectorAll('.tickets-table tbody tr');
+            
+            tableRows.forEach(row => {
+                const text = row.textContent.toLowerCase();
+                if (text.includes(searchTerm)) {
+                    row.style.display = '';
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+        });
+        
+        // Visual feedback for keyboard navigation (accessibility enhancement)
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Tab') {
+                document.body.classList.add('keyboard-navigation');
+            }
+        });
+        
+        document.addEventListener('mousedown', function() {
+            document.body.classList.remove('keyboard-navigation');
+        });
+        
+        // Helper function for auto-save functionality
+        function debounce(func, wait) {
+            let timeout;
+            return function() {
+                const context = this;
+                const args = arguments;
+                clearTimeout(timeout);
+                timeout = setTimeout(() => func.apply(context, args), wait);
+            };
+        }
+        
+        // Auto-save preferences to localStorage
+        function savePreferences() {
+            const preferences = {
+                dyslexiaMode: document.body.classList.contains('dyslexia-mode'),
+                highContrastMode: document.body.classList.contains('high-contrast-mode'),
+                largeTextMode: document.body.classList.contains('large-text-mode'),
+                focusMode: document.body.classList.contains('focus-mode'),
+                calmMode: document.body.classList.contains('calm-mode'),
+                audioCues: document.body.classList.contains('audio-cues-enabled')
+            };
+            
+            localStorage.setItem('helpDeskPreferences', JSON.stringify(preferences));
+        }
+        
+        // Load saved preferences
+        function loadPreferences() {
+            const savedPrefs = localStorage.getItem('helpDeskPreferences');
+            if (savedPrefs) {
+                const preferences = JSON.parse(savedPrefs);
+                
+                if (preferences.dyslexiaMode) document.body.classList.add('dyslexia-mode');
+                if (preferences.highContrastMode) document.body.classList.add('high-contrast-mode');
+                if (preferences.largeTextMode) document.body.classList.add('large-text-mode');
+                if (preferences.focusMode) document.body.classList.add('focus-mode');
+                if (preferences.calmMode) document.body.classList.add('calm-mode');
+                if (preferences.audioCues) document.body.classList.add('audio-cues-enabled');
+            }
+        }
+        
+        // Save preferences when they change
+        const savePrefsDebounced = debounce(savePreferences, 500);
+        
+        document.querySelectorAll('.a11y-control').forEach(control => {
+            control.addEventListener('click', savePrefsDebounced);
+        });
+        
+        // Load preferences on page load
+        document.addEventListener('DOMContentLoaded', loadPreferences);
+        
+        // Task reminder functionality
+        function setupTaskReminders() {
+            // Check if any urgent tickets are present
+            const urgentTickets = document.querySelectorAll('.status.urgent');
+            
+            if (urgentTickets.length > 0 && document.body.classList.contains('audio-cues-enabled')) {
+                // Schedule reminder notification
+                setTimeout(() => {
+                    // Visual notification
+                    const notification = document.createElement('div');
+                    notification.style.position = 'fixed';
+                    notification.style.top = '20px';
+                    notification.style.right = '20px';
+                    notification.style.backgroundColor = 'var(--urgent-color)';
+                    notification.style.color = 'white';
+                    notification.style.padding = '1rem';
+                    notification.style.borderRadius = 'var(--border-radius)';
+                    notification.style.boxShadow = '0 4px 15px rgba(0, 0, 0, 0.2)';
+                    notification.style.zIndex = '1000';
+                    notification.textContent = `Reminder: You have ${urgentTickets.length} urgent tickets to address!`;
+                    
+                    document.body.appendChild(notification);
+                    
+                    // Audio notification
+                    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+                    const oscillator = audioCtx.createOscillator();
+                    const gainNode = audioCtx.createGain();
+                    
+                    oscillator.connect(gainNode);
+                    gainNode.connect(audioCtx.destination);
+                    
+                    oscillator.type = 'triangle';
+                    oscillator.frequency.value = 440;
+                    gainNode.gain.value = 0.2;
+                    
+                    oscillator.start();
+                    
+                    // Pattern: two short beeps
+                    setTimeout(() => {
+                        gainNode.gain.value = 0;
+                        setTimeout(() => {
+                            gainNode.gain.value = 0.2;
+                            setTimeout(() => {
+                                oscillator.stop();
+                                // Remove notification after 5 seconds
+                                setTimeout(() => {
+                                    document.body.removeChild(notification);
+                                }, 5000);
+                            }, 200);
+                        }, 200);
+                    }, 200);
+                    
+                }, 120000); // Reminder after 2 minutes of activity
+            }
+        }
+        
+        // Setup task reminders
+        setupTaskReminders();
+    </script>
+</body>
+</html>
