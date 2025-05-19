@@ -1,0 +1,115 @@
+# ServiceNow Screenshot Uploader
+# This script monitors a folder for new screenshot files matching the pattern "<ticketnumber>_teams_message.jpg"
+# and automatically uploads them to the corresponding ServiceNow ticket.
+
+param(
+    [Parameter(Mandatory=$true)]
+    [string]$FolderToMonitor,
+    
+    [Parameter(Mandatory=$true)]
+    [string]$ServiceNowInstance,
+    
+    [Parameter(Mandatory=$true)]
+    [string]$Username,
+    
+    [Parameter(Mandatory=$true)]
+    [string]$Password,
+    
+    [Parameter(Mandatory=$false)]
+    [string]$TicketTable = "incident"
+)
+
+# Create credential for ServiceNow authentication
+$securePassword = ConvertTo-SecureString $Password -AsPlainText -Force
+$credential = New-Object System.Management.Automation.PSCredential ($Username, $securePassword)
+$base64Auth = [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(("{0}:{1}" -f $Username, $Password)))
+
+# Create the FileSystemWatcher to monitor for new screenshots
+$watcher = New-Object System.IO.FileSystemWatcher
+$watcher.Path = $FolderToMonitor
+$watcher.Filter = "*.jpg"
+$watcher.IncludeSubdirectories = $false
+$watcher.EnableRaisingEvents = $true
+
+Write-Host "Starting to monitor folder: $FolderToMonitor for new screenshots..."
+
+# Define the event handler for when a new file is created
+$onCreate = Register-ObjectEvent -InputObject $watcher -EventName Created -Action {
+    $path = $Event.SourceEventArgs.FullPath
+    $filename = $Event.SourceEventArgs.Name
+    
+    Write-Host "New file detected: $filename"
+    
+    # Check if the file matches our expected pattern: <ticketnumber>_teams_message.jpg
+    if ($filename -match '^([A-Za-z0-9]+)_teams_message\.jpg$') {
+        $ticketNumber = $Matches[1]
+        Write-Host "File matches pattern. Ticket number: $ticketNumber"
+        
+        # Wait a moment to ensure the file is completely written
+        Start-Sleep -Seconds 2
+        
+        # Get the ticket sys_id based on the ticket number
+        try {
+            $ticketUrl = "https://$($ServiceNowInstance).service-now.com/api/now/table/$TicketTable?sysparm_query=number=$ticketNumber&sysparm_fields=sys_id"
+            $ticketHeaders = @{
+                'Authorization' = "Basic $base64Auth"
+                'Accept' = 'application/json'
+            }
+            
+            $ticketResponse = Invoke-RestMethod -Uri $ticketUrl -Method Get -Headers $ticketHeaders
+            
+            if ($ticketResponse.result.Count -eq 0) {
+                Write-Host "Error: Ticket $ticketNumber not found in ServiceNow."
+                return
+            }
+            
+            $ticketSysId = $ticketResponse.result[0].sys_id
+            Write-Host "Found ticket with sys_id: $ticketSysId"
+            
+            # Upload the screenshot as an attachment
+            $attachmentUrl = "https://$($ServiceNowInstance).service-now.com/api/now/attachment/file?table_name=$TicketTable&table_sys_id=$ticketSysId&file_name=$filename"
+            $attachmentHeaders = @{
+                'Authorization' = "Basic $base64Auth"
+                'Content-Type' = 'image/jpeg'
+            }
+            
+            $fileContent = [System.IO.File]::ReadAllBytes($path)
+            
+            $attachmentResponse = Invoke-RestMethod -Uri $attachmentUrl -Method Post -Headers $attachmentHeaders -Body $fileContent
+            Write-Host "Successfully uploaded screenshot to ticket $ticketNumber"
+            
+            # Add a comment to the ticket
+            $commentUrl = "https://$($ServiceNowInstance).service-now.com/api/now/table/$TicketTable/$ticketSysId"
+            $commentHeaders = @{
+                'Authorization' = "Basic $base64Auth"
+                'Content-Type' = 'application/json'
+                'Accept' = 'application/json'
+            }
+            
+            $commentBody = @{
+                work_notes = "Added screenshot: $filename"
+            } | ConvertTo-Json
+            
+            $commentResponse = Invoke-RestMethod -Uri $commentUrl -Method Patch -Headers $commentHeaders -Body $commentBody
+            Write-Host "Added comment to ticket $ticketNumber"
+        }
+        catch {
+            Write-Host "Error occurred: $_"
+        }
+    }
+    else {
+        Write-Host "File does not match the required pattern (<ticketnumber>_teams_message.jpg). Skipping."
+    }
+}
+
+# Start the script and keep it running
+try {
+    Write-Host "Script is running. Press Ctrl+C to stop..."
+    while ($true) { Start-Sleep -Seconds 10 }
+}
+finally {
+    # Clean up when script is stopped
+    Unregister-Event -SourceIdentifier $onCreate.Name
+    $watcher.Dispose()
+    Write-Host "Script stopped."
+}
