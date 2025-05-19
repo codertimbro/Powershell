@@ -1,19 +1,454 @@
 Thanks for the additional details. I'll create a task organizer that can import CSV files with ticket number, caller ID, phone number, and date/time columns, plus allow you to add and remove tasks manually.​​​​​​​​​​​​​​​​
 
-I've created a work task organizer that can:
+I've created a 
 
-1. Import CSV files with ticket numbers, caller IDs, phone numbers, and date/time information
-2. Allow you to manually add new tasks with all required fields
-3. Organize tasks chronologically by their scheduled time
-4. Delete tasks when they're completed
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Task Organizer</title>
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --primary-light: #6366f1;
+            --gray-100: #f3f4f6;
+            --gray-200: #e5e7eb;
+            --gray-300: #d1d5db;
+            --gray-600: #4b5563;
+            --gray-800: #1f2937;
+            --red-500: #ef4444;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+        
+        body {
+            background-color: var(--gray-100);
+            color: var(--gray-800);
+            line-height: 1.5;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+        
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        
+        h1 {
+            font-size: 1.875rem;
+            font-weight: 700;
+            color: var(--gray-800);
+        }
+        
+        .controls {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 0.5rem 1rem;
+            border-radius: 0.375rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+            outline: none;
+        }
+        
+        .btn-primary {
+            background-color: var(--primary);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background-color: var(--primary-light);
+        }
+        
+        .btn-outline {
+            background-color: white;
+            border: 1px solid var(--gray-300);
+        }
+        
+        .btn-outline:hover {
+            background-color: var(--gray-100);
+        }
+        
+        #file-upload {
+            display: none;
+        }
+        
+        .card {
+            background-color: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .form-group {
+            margin-bottom: 1rem;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 0.5rem;
+            font-weight: 500;
+        }
+        
+        input, select {
+            width: 100%;
+            padding: 0.5rem;
+            border: 1px solid var(--gray-300);
+            border-radius: 0.375rem;
+            font-size: 1rem;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 0.75rem;
+            text-align: left;
+            border-bottom: 1px solid var(--gray-200);
+        }
+        
+        th {
+            font-weight: 600;
+            color: var(--gray-600);
+        }
+        
+        tr:hover {
+            background-color: var(--gray-100);
+        }
+        
+        .actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .delete-btn {
+            color: var(--red-500);
+            cursor: pointer;
+            background: none;
+            border: none;
+            font-size: 1rem;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 2rem;
+            color: var(--gray-600);
+        }
+        
+        .success-message {
+            background-color: #d1fae5;
+            color: #065f46;
+            padding: 0.75rem;
+            border-radius: 0.375rem;
+            margin-bottom: 1rem;
+            display: none;
+        }
+        
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            th, td {
+                padding: 0.5rem;
+            }
+            
+            .responsive-table {
+                overflow-x: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Work Task Organizer</h1>
+            <div class="controls">
+                <label for="file-upload" class="btn btn-primary">Import CSV</label>
+                <input type="file" id="file-upload" accept=".csv" />
+                <button id="add-task-btn" class="btn btn-outline">Add New Task</button>
+            </div>
+        </header>
+        
+        <div id="success-message" class="success-message"></div>
+        
+        <div id="add-task-form" class="card" style="display: none;">
+            <h2>Add New Task</h2>
+            <form id="task-form">
+                <div class="form-group">
+                    <label for="ticket-number">Ticket Number</label>
+                    <input type="text" id="ticket-number" placeholder="Enter ticket number">
+                </div>
+                <div class="form-group">
+                    <label for="caller-id">Caller ID</label>
+                    <input type="text" id="caller-id" placeholder="Enter caller ID">
+                </div>
+                <div class="form-group">
+                    <label for="phone-number">Phone Number</label>
+                    <input type="tel" id="phone-number" placeholder="Enter phone number">
+                </div>
+                <div class="form-group">
+                    <label for="datetime">Date & Time</label>
+                    <input type="datetime-local" id="datetime">
+                </div>
+                <div class="form-group">
+                    <label for="description">Description</label>
+                    <input type="text" id="description" placeholder="Enter task description">
+                </div>
+                <div class="controls">
+                    <button type="submit" class="btn btn-primary">Save Task</button>
+                    <button type="button" id="cancel-btn" class="btn btn-outline">Cancel</button>
+                </div>
+            </form>
+        </div>
+        
+        <div class="card">
+            <h2>Today's Tasks</h2>
+            <div class="responsive-table">
+                <table id="tasks-table">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Ticket #</th>
+                            <th>Caller ID</th>
+                            <th>Phone Number</th>
+                            <th>Description</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tasks-body">
+                        <tr>
+                            <td colspan="6" class="empty-state">No tasks for today. Import a CSV or add a new task.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 
-**Key features:**
-
-- **CSV Import**: Click the "Import CSV" button to upload your task data
-- **Add Tasks Manually**: Create new tasks with ticket number, caller ID, phone number, date/time, and description
-- **Time Organization**: All tasks are automatically sorted by date and time
-- **Responsive Design**: Works well on both desktop and mobile devices
-
-The application intelligently handles different CSV column naming variations (like "ticket_number", "ticket number", or "ticketNumber") to make importing more flexible.
-
-Would you like me to explain any specific part of the code or make any adjustments to better suit your needs?​​​​​​​​​​​​​​​​
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script>
+        // Store tasks in an array
+        let tasks = [];
+        
+        // DOM Elements
+        const fileUploadInput = document.getElementById('file-upload');
+        const addTaskBtn = document.getElementById('add-task-btn');
+        const addTaskForm = document.getElementById('add-task-form');
+        const taskForm = document.getElementById('task-form');
+        const cancelBtn = document.getElementById('cancel-btn');
+        const tasksTable = document.getElementById('tasks-table');
+        const tasksBody = document.getElementById('tasks-body');
+        const successMessage = document.getElementById('success-message');
+        
+        // Event Listeners
+        fileUploadInput.addEventListener('change', handleFileUpload);
+        addTaskBtn.addEventListener('click', showAddTaskForm);
+        cancelBtn.addEventListener('click', hideAddTaskForm);
+        taskForm.addEventListener('submit', handleTaskSubmit);
+        
+        // Function to handle file upload
+        function handleFileUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            Papa.parse(file, {
+                header: true,
+                skipEmptyLines: true,
+                dynamicTyping: true,
+                complete: function(results) {
+                    if (results.data && results.data.length > 0) {
+                        // Map CSV data to our task format
+                        const importedTasks = results.data.map(row => {
+                            // Try different column name variations
+                            const ticketNumber = row.ticket_number || row['ticket number'] || row.ticketNumber || row.ticket || '';
+                            const callerId = row.caller_id || row['caller id'] || row.callerId || row.caller || '';
+                            const phoneNumber = row.phone_number || row['phone number'] || row.phoneNumber || row.phone || '';
+                            const dateTime = row.date_time || row['date/time'] || row.dateTime || row.datetime || row.date || new Date().toISOString();
+                            const description = row.description || row.desc || '';
+                            
+                            return {
+                                id: generateId(),
+                                ticketNumber,
+                                callerId,
+                                phoneNumber,
+                                dateTime: new Date(dateTime),
+                                description
+                            };
+                        });
+                        
+                        // Add imported tasks to our tasks array
+                        tasks = [...tasks, ...importedTasks];
+                        
+                        // Sort tasks by date/time
+                        sortTasksByDateTime();
+                        
+                        // Update the table
+                        renderTasks();
+                        
+                        // Show success message
+                        showSuccessMessage(`Successfully imported ${importedTasks.length} tasks.`);
+                    }
+                },
+                error: function(error) {
+                    console.error('Error parsing CSV:', error);
+                    alert('Error importing CSV file. Please check the format and try again.');
+                }
+            });
+            
+            // Reset file input
+            event.target.value = '';
+        }
+        
+        // Function to show add task form
+        function showAddTaskForm() {
+            addTaskForm.style.display = 'block';
+            
+            // Set default date time to now
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            
+            document.getElementById('datetime').value = `${year}-${month}-${day}T${hours}:${minutes}`;
+        }
+        
+        // Function to hide add task form
+        function hideAddTaskForm() {
+            addTaskForm.style.display = 'none';
+            taskForm.reset();
+        }
+        
+        // Function to handle task form submit
+        function handleTaskSubmit(event) {
+            event.preventDefault();
+            
+            // Get form values
+            const ticketNumber = document.getElementById('ticket-number').value.trim();
+            const callerId = document.getElementById('caller-id').value.trim();
+            const phoneNumber = document.getElementById('phone-number').value.trim();
+            const dateTimeStr = document.getElementById('datetime').value;
+            const description = document.getElementById('description').value.trim();
+            
+            // Create new task object
+            const newTask = {
+                id: generateId(),
+                ticketNumber,
+                callerId,
+                phoneNumber,
+                dateTime: new Date(dateTimeStr),
+                description
+            };
+            
+            // Add to tasks array
+            tasks.push(newTask);
+            
+            // Sort tasks by date/time
+            sortTasksByDateTime();
+            
+            // Update the table
+            renderTasks();
+            
+            // Reset and hide form
+            hideAddTaskForm();
+            
+            // Show success message
+            showSuccessMessage('Task added successfully.');
+        }
+        
+        // Function to delete a task
+        function deleteTask(id) {
+            tasks = tasks.filter(task => task.id !== id);
+            renderTasks();
+            showSuccessMessage('Task removed successfully.');
+        }
+        
+        // Function to sort tasks by date/time
+        function sortTasksByDateTime() {
+            tasks.sort((a, b) => a.dateTime - b.dateTime);
+        }
+        
+        // Function to render tasks in the table
+        function renderTasks() {
+            // Clear table body
+            tasksBody.innerHTML = '';
+            
+            // If no tasks, show empty state
+            if (tasks.length === 0) {
+                tasksBody.innerHTML = '<tr><td colspan="6" class="empty-state">No tasks for today. Import a CSV or add a new task.</td></tr>';
+                return;
+            }
+            
+            // Add tasks to table
+            tasks.forEach(task => {
+                const row = document.createElement('tr');
+                
+                // Format date and time
+                const dateTime = task.dateTime;
+                const formattedTime = dateTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                const formattedDate = dateTime.toLocaleDateString();
+                const formattedDateTime = `${formattedDate}, ${formattedTime}`;
+                
+                row.innerHTML = `
+                    <td>${formattedDateTime}</td>
+                    <td>${task.ticketNumber}</td>
+                    <td>${task.callerId}</td>
+                    <td>${task.phoneNumber}</td>
+                    <td>${task.description}</td>
+                    <td>
+                        <div class="actions">
+                            <button class="delete-btn" onclick="deleteTask('${task.id}')">Delete</button>
+                        </div>
+                    </td>
+                `;
+                
+                tasksBody.appendChild(row);
+            });
+        }
+        
+        // Function to generate a unique ID
+        function generateId() {
+            return Date.now().toString(36) + Math.random().toString(36).substr(2, 5);
+        }
+        
+        // Function to show success message
+        function showSuccessMessage(message) {
+            successMessage.textContent = message;
+            successMessage.style.display = 'block';
+            
+            // Hide after 3 seconds
+            setTimeout(() => {
+                successMessage.style.display = 'none';
+            }, 3000);
+        }
+        
+        // Initialize the app
+        renderTasks();
+    </script>
+</body>
+</html>
