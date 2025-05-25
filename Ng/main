@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help Desk Dashboard</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-dyslexic/0.9.12/open-dyslexic.css">
+    <style>
+        body {
+            font-family: 'OpenDyslexic', Arial, sans-serif;
+            color: #333;
+            background: #f0f0f0;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+        }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .draggable-section {
+            background: white;
+            border: 2px solid #0078d4;
+            border-radius: 8px;
+            padding: 15px;
+            min-height: 300px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            position: relative;
+        }
+
+        .section-title {
+            margin-top: 0;
+            color: #0078d4;
+            border-bottom: 2px solid #0078d4;
+            padding-bottom: 5px;
+        }
+
+        .high-contrast {
+            background: black !important;
+            color: yellow !important;
+        }
+
+        .high-contrast .draggable-section {
+            background: black !important;
+            color: yellow !important;
+            border-color: yellow !important;
+        }
+
+        #accessibility-bar {
+            padding: 10px;
+            background: #0078d4;
+            text-align: right;
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+
+        button, select, input {
+            padding: 8px 16px;
+            margin: 5px 0;
+            border: 2px solid transparent;
+            background: #005a9e;
+            color: white;
+            cursor: pointer;
+            font-family: 'OpenDyslexic', Arial, sans-serif;
+        }
+
+        button:hover, select:hover {
+            background: #003366;
+        }
+
+        button:focus, select:focus, input:focus {
+            border: 2px solid #ffbf00;
+            outline: none;
+        }
+
+        input {
+            background: white;
+            color: black;
+            border: 1px solid #ccc;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #0078d4;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .high-contrast tr:nth-child(even) {
+            background-color: #333 !important;
+        }
+
+        #alert-modal {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #ff4444;
+            color: white;
+            padding: 20px;
+            border-radius: 5px;
+            z-index: 1000;
+            box-shadow: 0 0 0 9999px rgba(0,0,0,0.7);
+        }
+
+        #timer-display {
+            font-size: 2em;
+            text-align: center;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+
+        .solution-item {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+        }
+
+        .solution-item:hover {
+            background-color: #e6f2ff;
+        }
+
+        .high-contrast .solution-item:hover {
+            background-color: #333366 !important;
+        }
+
+        #notes-text {
+            width: 100%;
+            height: 200px;
+            margin-bottom: 10px;
+        }
+
+        .ui-draggable-dragging {
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+            z-index: 100;
+        }
+
+        .tab-buttons {
+            display: flex;
+            margin-bottom: 10px;
+        }
+
+        .tab-button {
+            background: #ddd;
+            color: black;
+            border: none;
+            border-radius: 5px 5px 0 0;
+            margin-right: 5px;
+        }
+
+        .tab-button.active {
+            background: #0078d4;
+            color: white;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        #quick-links {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .quick-link {
+            padding: 10px;
+            background: #e6f2ff;
+            border-radius: 5px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .quick-link:hover {
+            background: #cce0ff;
+        }
+
+/* Mobile Responsiveness */
+@media only screen and (max-width: 768px) {
+    .dashboard-grid {
+        grid-template-columns: 1fr !important;
+        padding: 10px;
+        gap: 15px;
+    }
+
+    .draggable-section {
+        width: 100% !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        position: relative !important;
+        left: auto !important;
+        top: auto !important;
+    }
+
+    #accessibility-bar {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 8px;
+    }
+
+    #accessibility-bar button {
+        padding: 6px 12px;
+        margin: 3px;
+        font-size: 14px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 6px 4px;
+    }
+
+    #email-preview, #notes-text {
+        min-height: 120px;
+    }
+
+    #timer-display {
+        font-size: 1.5em;
+    }
+
+    #quick-links {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* Stack inputs vertically on mobile */
+    #email-template input, 
+    #email-template select {
+        width: 100%;
+        margin: 5px 0;
+        box-sizing: border-box;
+    }
+
+    /* Make sure draggable elements don't overflow */
+    .ui-draggable-dragging {
+        max-width: 95vw;
+    }
+
+    /* Adjust tab buttons for mobile */
+    .tab-buttons {
+        overflow-x: auto;
+        white-space: nowrap;
+        padding-bottom: 5px;
+    }
+
+    .tab-button {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+}
+
+/* Additional breakpoint for very small devices */
+@media only screen and (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
+
+    #quick-links {
+        grid-template-columns: 1fr;
+    }
+
+    .section-title {
+        font-size: 18px;
+    }
+
+    #alert-modal {
+        width: 90%;
+        padding: 15px;
+    }
+}
+
+/* Prevent dragging on mobile (optional) */
+@media (pointer: coarse) {
+    .draggable-section {
+        touch-action: none;
+    }
+}
+
+/* Orientation-specific adjustments */
+@media screen and (orientation: landscape) and (max-width: 768px) {
+    .dashboard-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    #ticket-tracker, #time-tracker {
+        grid-column: span 2;
+    }
+}
+
+/* Ticket Notes Section Specific Styles */
+#ticket-notes select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#ticket-note-content {
+    font-family: inherit;
+    padding: 8px;
+    border: 1px solid #0078d4;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+/* Mobile adjustments */
+@media only screen and (max-width: 768px) {
+    #ticket-notes button {
+        padding: 8px;
+        margin: 5px 2px;
+        font-size: 14px;
+    }
+}
+    </style>
+</head>
+<body>
+    <!-- Accessibility Controls -->
+    <div id="accessibility-bar">
+        <button onclick="toggleFont()">Toggle Dyslexia Font</button>
+        <button onclick="toggleContrast()">High Contrast</button>
+        <button onclick="readAloud()">🔊 Read Aloud</button>
+        <button onclick="focusMode()">Focus Mode</button>
+    </div>
+
+    <div class="dashboard-grid">
+        <!-- Ticket Tracker -->
+        <div class="draggable-section" id="ticket-tracker">
+            <h2 class="section-title">Ticket Tracker</h2>
+            <div class="tab-buttons">
+                <button class="tab-button active" onclick="openTab(event, 'tickets-today')">Today</button>
+                <button class="tab-button" onclick="openTab(event, 'tickets-pending')">Pending</button>
+                <button class="tab-button" onclick="openTab(event, 'tickets-completed')">Completed</button>
+            </div>
+            
+            <div id="tickets-today" class="tab-content active">
+                <table contenteditable="true">
+                    <thead>
+                        <tr>
+                            <th>Ticket #</th>
+                            <th>User</th>
+                            <th>Issue</th>
+                            <th>Status</th>
+                            <th>Time Spent</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tickets-body">
+                        <tr>
+                            <td contenteditable="true">INC12345</td>
+                            <td contenteditable="true">jsmith</td>
+                            <td contenteditable="true">Password reset</td>
+                            <td contenteditable="true">In Progress</td>
+                            <td contenteditable="true">15m</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button onclick="addTicket()">+ Add Ticket</button>
+                <button onclick="saveTickets()">💾 Save</button>
+            </div>
+            
+            <div id="tickets-pending" class="tab-content">
+                <p>Pending tickets will appear here</p>
+            </div>
+            
+            <div id="tickets-completed" class="tab-content">
+                <p>Completed tickets will appear here</p>
+            </div>
+        </div>
+
+        <!-- Email Template Editor -->
+        <div class="draggable-section" id="email-template">
+            <h2 class="section-title">Email Template Editor</h2>
+            <select id="template-select" onchange="loadTemplate()">
+                <option value="update">Status Update</option>
+                <option value="resolution">Resolution</option>
+                <option value="followup">Follow-up</option>
+            </select>
+            
+            <input type="text" id="firstName" placeholder="First Name" oninput="updateTemplate()">
+            <input type="text" id="user" placeholder="Username" oninput="updateTemplate()">
+            <input type="text" id="ticketNumber" placeholder="Ticket #" oninput="updateTemplate()">
+            
+            <div id="email-preview" contenteditable="true" style="min-height: 150px; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+                Hi {firstName},<br><br>
+                Your ticket {ticketNumber} has been updated. Please let me know if you have any questions.<br><br>
+                Regards,<br>
+                Help Desk Team
+            </div>
+            
+            <button onclick="copyToClipboard()">📋 Copy Email</button>
+            <button onclick="saveTemplate()">💾 Save Template</button>
+        </div>
+
+ 
+
+        <!-- Quick Solutions -->
+        <div class="draggable-section" id="quick-solutions">
+            <h2 class="section-title">Quick Solutions</h2>
+            <input type="text" id="search-solutions" placeholder="Search solutions..." oninput="searchSolutions()">
+            
+            <div id="solutions-list">
+                <div class="solution-item" onclick="insertSolution(this)">
+                    <strong>Password Reset</strong><br>
+                    1. Open Active Directory<br>
+                    2. Right-click user > Reset password<br>
+                    3. Check "User must change password"
+                </div>
+                <div class="solution-item" onclick="insertSolution(this)">
+                    <strong>Outlook Configuration</strong><br>
+                    1. Run Outlook in safe mode<br>
+                    2. Delete profile<br>
+                    3. Create new profile
+                </div>
+            </div>
+            
+            <button onclick="addSolution()">+ Add Solution</button>
+            
+            <div id="quick-links">
+                <div class="quick-link" onclick="openLink('https://portal.office.com')">M365 Portal</div>
+                <div class="quick-link" onclick="openLink('https://admin.microsoft.com')">Admin Center</div>
+                <div class="quick-link" onclick="openLink('https://teams.microsoft.com')">Teams</div>
+                <div class="quick-link" onclick="openLink('https://outlook.office.com')">Outlook</div>
+            </div>
+        </div>
+
+        <!-- Time Tracker -->
+        <div class="draggable-section" id="time-tracker">
+            <h2 class="section-title">Time Tracker</h2>
+            <select id="break-type">
+                <option value="15">Short Break (15m)</option>
+                <option value="30">Lunch (30m)</option>
+                <option value="5">Quick Break (5m)</option>
+            </select>
+            
+            <div id="timer-display">15:00</div>
+            
+            <button onclick="startTimer()">Start Timer</button>
+            <button onclick="pauseTimer()">Pause</button>
+            <button onclick="resetTimer()">Reset</button>
+            
+            <div style="margin-top: 20px;">
+                <h3>Today's Time</h3>
+                <p>Tickets: <span id="ticket-time">0h 0m</span></p>
+                <p>Breaks: <span id="break-time">0h 0m</span></p>
+                <p>Total: <span id="total-time">0h 0m</span></p>
+            </div>
+        </div>
+
+        <!-- Notes Section -->
+        <div class="draggable-section" id="notes-section">
+            <h2 class="section-title">Notes & Customization</h2>
+            <textarea id="notes-text" placeholder="Enter your notes here..."></textarea>
+            <button onclick="saveNotes()">💾 Save Notes</button>
+            <button onclick="loadNotes()">📋 Load Notes</button>
+            
+            <div style="margin-top: 20px;">
+                <h3>Dashboard Editor</h3>
+                <button onclick="exportLayout()">💾 Export Layout</button>
+                <button onclick="importLayout()">📋 Import Layout</button>
+                <button onclick="resetLayout()">🔄 Reset Layout</button>
+            </div>
+        </div>
+    </div>
+<!-- Add this to your HTML where you want the section to appear -->
+<div class="draggable-section" id="ticket-notes">
+    <h2 class="section-title">Ticket Notes</h2>
+    <select id="note-type" onchange="updateNoteTemplate()">
+        <option value="">-- Select Note Type --</option>
+        <option value="strike1">Strike 1</option>
+        <option value="strike2">Strike 2</option>
+        <option value="strike3">Strike 3</option>
+        <option value="pending-customer">Pending Customer</option>
+        <option value="pending-3rdparty">Pending 3rd Party</option>
+    </select>
+    
+    <textarea id="ticket-note-content" rows="5" style="width: 100%; margin: 10px 0;"></textarea>
+    
+    <div>
+        <button onclick="copyNoteToClipboard()">📋 Copy Note</button>
+        <button onclick="insertNoteToTicket()">📝 Insert to Ticket</button>
+        <button onclick="clearNote()">❌ Clear</button>
+    </div>
+</div>
+
+    <!-- Alert Modal -->
+    <div id="alert-modal" tabindex="-1">
+        <h2>Time's Up!</h2>
+        <p>Your break timer has finished.</p>
+        <button onclick="closeAlert()">OK</button>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        // Initialize when page loads
+        $(function() {
+            // Make sections draggable
+            $(".draggable-section").draggable({
+                containment: "parent",
+                cursor: "move",
+                stack: ".draggable-section",
+                handle: ".section-title",
+                stop: function() {
+                    saveLayout();
+                }
+            });
+
+            // Load saved data
+            loadTickets();
+            loadNotes();
+            loadLayout();
+            loadTemplates();
+            
+            // Set default timer display
+            updateTimerDisplay(15 * 60);
+        });
+
+        // Accessibility Features
+        function toggleFont() {
+            $('body').toggleClass('dyslexia-font');
+            localStorage.setItem('dyslexiaFont', $('body').hasClass('dyslexia-font'));
+        }
+
+        function toggleContrast() {
+            $('body').toggleClass('high-contrast');
+            localStorage.setItem('highContrast', $('body').hasClass('high-contrast'));
+        }
+
+        function focusMode() {
+            $('.draggable-section').not('#time-tracker, #notes-section').toggle();
+            $('#accessibility-bar').show();
+        }
+
+        function readAloud() {
+            // Simple implementation - would need a proper TTS API for full functionality
+            const text = $(':focus').text() || $('body').text();
+            if ('speechSynthesis' in window) {
+                const utterance = new SpeechSynthesisUtterance(text);
+                utterance.rate = 0.9;
+                speechSynthesis.speak(utterance);
+            } else {
+                alert("Text-to-speech not supported in your browser");
+            }
+        }
+
+        // Tab functionality
+        function openTab(evt, tabName) {
+            const tabContents = $('.tab-content');
+            const tabButtons = $('.tab-button');
+            
+            tabContents.removeClass('active');
+            tabButtons.removeClass('active');
+            
+            $(`#${tabName}`).addClass('active');
+            $(evt.currentTarget).addClass('active');
+        }
+
+        // Ticket Tracker
+        function addTicket() {
+            const newRow = `
+                <tr>
+                    <td contenteditable="true">INC${Math.floor(10000 + Math.random() * 90000)}</td>
+                    <td contenteditable="true"></td>
+                    <td contenteditable="true"></td>
+                    <td contenteditable="true">New</td>
+                    <td contenteditable="true">0m</td>
+                </tr>
+            `;
+            $('#tickets-body').append(newRow);
+        }
+
+        function saveTickets() {
+            const tickets = [];
+            $('#tickets-body tr').each(function() {
+                tickets.push({
+                    number: $(this).find('td:eq(0)').text(),
+                    user: $(this).find('td:eq(1)').text(),
+                    issue: $(this).find('td:eq(2)').text(),
+                    status: $(this).find('td:eq(3)').text(),
+                    time: $(this).find('td:eq(4)').text()
+                });
+            });
+            localStorage.setItem('tickets', JSON.stringify(tickets));
+            alert('Tickets saved!');
+        }
+
+        function loadTickets() {
+            const savedTickets = localStorage.getItem('tickets');
+            if (savedTickets) {
+                const tickets = JSON.parse(savedTickets);
+                $('#tickets-body').empty();
+                tickets.forEach(ticket => {
+                    const row = `
+                        <tr>
+                            <td contenteditable="true">${ticket.number}</td>
+                            <td contenteditable="true">${ticket.user}</td>
+                            <td contenteditable="true">${ticket.issue}</td>
+                            <td contenteditable="true">${ticket.status}</td>
+                            <td contenteditable="true">${ticket.time}</td>
+                        </tr>
+                    `;
+                    $('#tickets-body').append(row);
+                });
+            }
+        }
+
+        // Email Templates
+        function updateTemplate() {
+            const firstName = $('#firstName').val() || '{firstName}';
+            const user = $('#user').val() || '{user}';
+            const ticketNumber = $('#ticketNumber').val() || '{ticketNumber}';
+            
+            let template = $('#email-preview').html();
+            template = template.replace(/\{firstName\}/g, firstName)
+                               .replace(/\{user\}/g, user)
+                               .replace(/\{ticketNumber\}/g, ticketNumber);
+            
+            $('#email-preview').html(template);
+        }
+
+        function loadTemplate() {
+            const templateType = $('#template-select').val();
+            let template = '';
+            
+            switch(templateType) {
+                case 'update':
+                    template = `Hi {firstName},<br><br>
+                        Your ticket {ticketNumber} has been updated. Please let me know if you have any questions.<br><br>
+                        Regards,<br>
+                        Help Desk Team`;
+                    break;
+                case 'resolution':
+                    template = `Hi {firstName},<br><br>
+                        Your ticket {ticketNumber} has been resolved. If you're still experiencing issues, please reply to this email.<br><br>
+                        Regards,<br>
+                        Help Desk Team`;
+                    break;
+                case 'followup':
+                    template = `Hi {firstName},<br><br>
+                        I'm following up on ticket {ticketNumber}. Please let me know if you need any further assistance.<br><br>
+                        Regards,<br>
+                        Help Desk Team`;
+                    break;
+            }
+            
+            $('#email-preview').html(template);
+            updateTemplate();
+        }
+
+        function copyToClipboard() {
+            const emailText = $('#email-preview').text();
+            navigator.clipboard.writeText(emailText).then(() => {
+                alert('Email copied to clipboard!');
+            });
+        }
+
+        function saveTemplate() {
+            const templateType = $('#template-select').val();
+            const templateContent = $('#email-preview').html();
+            
+            let templates = JSON.parse(localStorage.getItem('emailTemplates') || '{}');
+            templates[templateType] = templateContent;
+            localStorage.setItem('emailTemplates', JSON.stringify(templates));
+            
+            alert('Template saved!');
+        }
+
+        function loadTemplates() {
+            const templates = JSON.parse(localStorage.getItem('emailTemplates') || '{}');
+            if (templates.update) {
+                $('#email-preview').html(templates.update);
+            }
+        }
+
+        // Quick Solutions
+        function searchSolutions() {
+            const query = $('#search-solutions').val().toLowerCase();
+            $('.solution-item').each(function() {
+                $(this).toggle($(this).text().toLowerCase().includes(query));
+            });
+        }
+
+        function insertSolution(element) {
+            const solutionText = $(element).text();
+            const notes = $('#notes-text');
+            notes.val(notes.val() + '\n\n' + solutionText);
+        }
+
+        function addSolution() {
+            const solutionText = prompt("Enter the new solution:");
+            if (solutionText) {
+                const newSolution = `<div class="solution-item" onclick="insertSolution(this)">${solutionText}</div>`;
+                $('#solutions-list').append(newSolution);
+            }
+        }
+
+        // Time Tracker
+        let timer;
+        let timeLeft = 0;
+        let isRunning = false;
+
+        function startTimer() {
+            if (isRunning) return;
+            
+            const minutes = parseInt($('#break-type').val());
+            timeLeft = minutes * 60;
+            isRunning = true;
+            
+            timer = setInterval(() => {
+                timeLeft--;
+                updateTimerDisplay(timeLeft);
+                
+                if (timeLeft <= 0) {
+                    clearInterval(timer);
+                    isRunning = false;
+                    showAlert();
+                }
+            }, 1000);
+        }
+
+        function pauseTimer() {
+            clearInterval(timer);
+            isRunning = false;
+        }
+
+        function resetTimer() {
+            pauseTimer();
+            const minutes = parseInt($('#break-type').val());
+            timeLeft = minutes * 60;
+            updateTimerDisplay(timeLeft);
+        }
+
+        function updateTimerDisplay(seconds) {
+            const mins = Math.floor(seconds / 60);
+            const secs = seconds % 60;
+            $('#timer-display').text(`${mins}:${secs.toString().padStart(2, '0')}`);
+        }
+
+        function showAlert() {
+            // Create audio context for the alert sound
+            try {
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                oscillator.type = "sine";
+                oscillator.frequency.value = 880;
+                gainNode.gain.value = 0.5;
+                
+                oscillator.start();
+                setTimeout(() => {
+                    oscillator.stop();
+                }, 1000);
+            } catch (e) {
+                console.log("Web Audio API not supported");
+            }
+            
+            $('#alert-modal').show().focus();
+        }
+
+        function closeAlert() {
+            $('#alert-modal').hide();
+        }
+
+        // Notes Section
+        function saveNotes() {
+            const notes = $('#notes-text').val();
+            localStorage.setItem('helpdeskNotes', notes);
+            alert('Notes saved!');
+        }
+
+        function loadNotes() {
+            const savedNotes = localStorage.getItem('helpdeskNotes');
+            if (savedNotes) {
+                $('#notes-text').val(savedNotes);
+            }
+        }
+
+        // Layout Management
+        function saveLayout() {
+            const layout = {};
+            $('.draggable-section').each(function() {
+                const id = $(this).attr('id');
+                layout[id] = {
+                    left: $(this).css('left'),
+                    top: $(this).css('top')
+                };
+            });
+            localStorage.setItem('dashboardLayout', JSON.stringify(layout));
+        }
+
+        function loadLayout() {
+            const savedLayout = localStorage.getItem('dashboardLayout');
+            if (savedLayout) {
+                const layout = JSON.parse(savedLayout);
+                for (const id in layout) {
+                    $(`#${id}`).css({
+                        position: 'absolute',
+                        left: layout[id].left,
+                        top: layout[id].top
+                    });
+                }
+            }
+        }
+
+        function exportLayout() {
+            const layout = {
+                tickets: localStorage.getItem('tickets'),
+                notes: localStorage.getItem('helpdeskNotes'),
+                templates: localStorage.getItem('emailTemplates'),
+                layout: localStorage.getItem('dashboardLayout')
+            };
+            
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(layout));
+            const downloadAnchor = document.createElement('a');
+            downloadAnchor.setAttribute("href", dataStr);
+            downloadAnchor.setAttribute("download", "helpdesk_dashboard_backup.json");
+            document.body.appendChild(downloadAnchor);
+            downloadAnchor.click();
+            downloadAnchor.remove();
+        }
+
+        function importLayout() {
+            const input = document.createElement('input');
+            input.type = 'file';
+            input.accept = '.json';
+            
+            input.onchange = e => {
+                const file = e.target.files[0];
+                const reader = new FileReader();
+                reader.readAsText(file, 'UTF-8');
+                
+                reader.onload = readerEvent => {
+                    const content = readerEvent.target.result;
+                    const data = JSON.parse(content);
+                    
+                    if (data.tickets) localStorage.setItem('tickets', data.tickets);
+                    if (data.notes) localStorage.setItem('helpdeskNotes', data.notes);
+                    if (data.templates) localStorage.setItem('emailTemplates', data.templates);
+                    if (data.layout) localStorage.setItem('dashboardLayout', data.layout);
+                    
+                    location.reload();
+                }
+            }
+            
+            input.click();
+        }
+
+        function resetLayout() {
+            if (confirm("Reset all sections to default positions?")) {
+                $('.draggable-section').css({
+                    position: 'relative',
+                    left: 'auto',
+                    top: 'auto'
+                });
+                saveLayout();
+            }
+        }
+
+        // Quick Links
+        function openLink(url) {
+            window.open(url, '_blank');
+        }
+
+        // Check for saved accessibility settings
+        if (localStorage.getItem('dyslexiaFont') === 'true') {
+            $('body').addClass('dyslexia-font');
+        }
+        
+        if (localStorage.getItem('highContrast') === 'true') {
+            $('body').addClass('high-contrast');
+        }
+
+// Add this to your JavaScript section
+function updateNoteTemplate() {
+    const noteType = document.getElementById('note-type').value;
+    let template = '';
+    
+    switch(noteType) {
+        case 'strike1':
+            template = 'S1 - Method - Called and email the user.';
+            break;
+        case 'strike2':
+            template = 'S2 - Method - Message and email the user.';
+            break;
+        case 'strike3':
+            template = 'S3 - Method - Message, called and email the user.';
+            break;
+        case 'pending-customer':
+            template = 'Awaiting meeting with user.';
+            break;
+        case 'pending-3rdparty':
+            template = 'Awaiting on internal support team response';
+            break;
+        default:
+            template = '';
+    }
+    
+    document.getElementById('ticket-note-content').value = template;
+}
+
+function copyNoteToClipboard() {
+    const noteText = document.getElementById('ticket-note-content').value;
+    if (noteText) {
+        navigator.clipboard.writeText(noteText).then(() => {
+            alert('Note copied to clipboard!');
+        });
+    } else {
+        alert('No note to copy!');
+    }
+}
+
+function insertNoteToTicket() {
+    const noteText = document.getElementById('ticket-note-content').value;
+    if (noteText) {
+        // This assumes you have a notes field in your ticket table
+        // Adjust the selector to match your actual ticket notes field
+        const ticketNotes = document.querySelector('#tickets-body tr:last-child td:nth-child(3)');
+        if (ticketNotes) {
+            ticketNotes.textContent = noteText;
+        } else {
+            alert('No active ticket found to insert note into');
+        }
+    } else {
+        alert('No note to insert!');
+    }
+}
+
+function clearNote() {
+    document.getElementById('ticket-note-content').value = '';
+    document.getElementById('note-type').selectedIndex = 0;
+}
+    </script>
+</body>
+</html>
