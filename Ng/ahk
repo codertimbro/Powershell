@@ -1,0 +1,196 @@
+AutoHotkey v2 has significant syntax changes compared to v1. The previous examples were largely in v1 syntax. Let's convert them and provide new examples that are fully compatible with AutoHotkey 2.0.19+.
+
+Key changes in AHK v2 relevant to these scripts:
+
+No more :: for hotstrings: Hotstrings are now defined with :*: or simply :: for auto-replace.
+Functions vs. old-style subroutines: Return is used within functions. For hotkeys, a direct function call or a block is typically used.
+Variable assignment: Use = for assignment, := for expression assignment (like in other languages). % is no longer used for dereferencing variables in most contexts; variables are simply named.
+MsgBox arguments: Now use comma-separated arguments, not separate parameters.
+SendInput and Run: Generally the same, but context around them might change.
+FormatTime: Now a function, returns a string.
+FileAppend: Now a function, with arguments.
+RegRead, RegWrite, etc.: Are now functions.
+No ErrorLevel: Most functions return a value indicating success/failure or throw an error.
+A_ built-in variables: Still exist and are used directly.
+Here are the AHK v2.0.19+ compatible scripts:
+
+General Automation & Efficiency (AHK v2.0.19+)
+Quick Text Expansion/Hotstrings:
+
+Use Case: Quickly insert common phrases, email templates, code snippets, or lengthy technical descriptions.
+Example:
+AutoHotkey
+
+; Hotstrings are still defined with ::
+; However, multi-line hotstrings now typically use a function or a block,
+; or are simply wrapped directly if no other logic is needed.
+
+::btw::By the way
+
+; For multi-line, it's often cleaner to put it in a function or use a continuation section:
+::emailtemplate::
+(Join`r`n
+Subject: Regarding your recent inquiry
+
+Dear [Customer Name],
+
+Thank out you for contacting our help desk. We have received your request and are currently investigating the issue.
+
+We will get back to you as soon as possible with an update or resolution.
+
+Sincerely,
+[Your Name]
+Help Desk Team
+)
+Explanation: (Joinrn ... ) is a continuation section that joins lines with a carriage return and newline, suitable for text expansion.
+Application Launcher/Switcher:
+
+Use Case: Quickly launch frequently used applications or switch between them.
+Example:
+AutoHotkey
+
+#r::Run "mstsc.exe" ; Win+R to open Remote Desktop Connection
+#p::Run "C:\Program Files\PuTTY\putty.exe" ; Win+P to open PuTTY (adjust path)
+^!a::WinActivate "ahk_class ConsoleWindowClass" ; Ctrl+Alt+A to activate a command prompt window
+Explanation: Run now takes string arguments. WinActivate also takes a string.
+Clipboard Enhancements (Simple Timestamp):
+
+Use Case: Quickly insert the current date and time.
+Example:
+AutoHotkey
+
+^t:: {
+    ; FormatTime is now a function
+    CurrentDateTime := FormatTime(,"M/d/yyyy h:mm tt")
+    SendInput CurrentDateTime
+}
+Explanation: Hotkeys now typically use a block {}. FormatTime() is called as a function.
+Automated Log Collection (Basic Local Log Copy):
+
+Use Case: Automate gathering specific log files.
+Example:
+AutoHotkey
+
+F10:: { ; Press F10 to trigger
+    TargetFolder := A_Temp "\Logs_" A_YYYY A_MM A_DD
+    ; FileCreateDir is now a function
+    FileCreateDir TargetFolder
+    ; FileCopy is now a function. Overwrite parameter is 1 for overwrite.
+    FileCopy "C:\Windows\System32\winevt\Logs\System.evtx", TargetFolder "\System_Log.evtx", 1
+    MsgBox "Log files copied to " TargetFolder
+}
+Explanation: Variables are used directly (e.g., A_Temp), and FileCreateDir and FileCopy are functions. String concatenation uses ..
+Standardized Troubleshooting Steps (Ping and Tracert):
+
+Use Case: Guide through troubleshooting steps, prompting for input.
+Example:
+AutoHotkey
+
+#n:: { ; Win+N for Network Troubleshoot
+    ; InputBox returns a string. If user cancels, it returns an empty string.
+    IPAddress := InputBox("Please enter the IP address or hostname to troubleshoot:", "Enter IP Address")
+    If (IPAddress = "") ; User cancelled
+        Return
+
+    Run "cmd /k ping " IPAddress " && tracert " IPAddress
+}
+Explanation: InputBox() returns the entered value or an empty string if cancelled. String concatenation is used for the command.
+Advanced Level 3 Specific Scripts (AHK v2.0.19+)
+Registry Key Management (Read a key):
+
+Use Case: Quickly read, backup, restore, or modify registry keys.
+Example:
+AutoHotkey
+
+F11:: { ; Press F11 to trigger
+    ; RegRead is a function.
+    ; Note: HKEY_CURRENT_USER is "HKCU", HKEY_LOCAL_MACHINE is "HKLM", etc.
+    try {
+        OutputVar := RegRead("HKCU\Software\Microsoft\Windows\CurrentVersion\Run", "OneDrive")
+        MsgBox "OneDrive startup entry: " OutputVar
+    } catch e {
+        MsgBox "Error reading registry: " e.Message
+    }
+    ; RegDelete and RegWrite are also functions:
+    ; RegDelete("HKCU\Software\Microsoft\Windows\CurrentVersion\Run", "OneDrive")
+    ; RegWrite("REG_SZ", "HKCU\Software\Microsoft\Windows\CurrentVersion\Run", "NewEntry", "C:\Path\To\App.exe")
+}
+Explanation: RegRead() is a function. Error handling with try...catch is good practice in v2, as functions might throw exceptions.
+Service Management (Restart Spooler service):
+
+Use Case: Quickly stop, start, or restart specific services.
+Example:
+AutoHotkey
+
+^!s:: { ; Ctrl+Alt+S to restart Print Spooler
+    ; Run options are passed as separate arguments. 'Hide' is a string.
+    Run "net stop ""Print Spooler"" && net start ""Print Spooler""",,, "Hide"
+    MsgBox "Print Spooler service restarted."
+}
+Explanation: Double quotes are used to escape spaces in the service name within the Run command string. The Run function takes a set of optional parameters for working directory, output variable, and options.
+Active Directory/User Management (Launch ADUC and Search):
+
+Use Case: Launch and pre-fill fields in AD tools, or execute PowerShell scripts.
+Example:
+AutoHotkey
+
+#d:: { ; Win+D for Active Directory Users and Computers
+    Run "dsa.msc"
+    Sleep 1000 ; Give it time to load
+    SendInput "{F3}" ; Press F3 to open search
+    Sleep 200
+    UserName := InputBox("Enter username to search for:", "Search AD")
+    If (UserName = "")
+        Return
+    SendInput UserName "{Enter}"
+}
+Explanation: Similar to v1, but InputBox usage and hotkey block syntax.
+Network Drive Mapping/Troubleshooting:
+
+Use Case: Quickly map or unmap network drives.
+Example:
+AutoHotkey
+
+^!m:: { ; Ctrl+Alt+M to map network drive
+    Run "net use Z: \\servername\sharename /persistent:yes"
+    MsgBox "Network drive Z: mapped."
+}
+Explanation: Run command with a string argument.
+Automated Reporting (Basic System Info):
+
+Use Case: Gather data and compile it into a simple report.
+Example:
+AutoHotkey
+
+F12:: { ; F12 to generate system info report
+    ReportFile := A_Temp "\SystemReport_" A_YYYY A_MM A_DD ".txt"
+
+    ; FileAppend is now a function. No parentheses for continuation needed if it's just a string.
+    FileAppend
+    ("
+    --- System Information Report ---
+    Date: " A_YYYY "-" A_MM "-" A_DD " " A_Hour ":" A_Min ":" A_Sec "
+    Computer Name: " A_ComputerName "
+    User Name: " A_UserName "
+    OS Version: " A_OSVersion "
+    CPU Cores: " A_ProcessorCount "
+    Total RAM: " A_MemTotal " MB
+
+    --- IP Configuration ---
+    "), ReportFile
+
+    ; RunWait and >> redirection still work for command line.
+    RunWait "cmd /c ipconfig /all >> """ ReportFile """",,, "Hide"
+    RunWait "cmd /c systeminfo >> """ ReportFile """",,, "Hide"
+
+    MsgBox "System report generated at " ReportFile
+    Run ReportFile
+}
+Explanation: FileAppend() is a function. String concatenation with variables. RunWait and quoting of the ReportFile path are important for cmd /c redirection.
+Important Notes for AutoHotkey v2:
+
+Official Documentation is Your Friend: Always refer to the official AutoHotkey v2 documentation. It's comprehensive and up-to-date: https://www.autohotkey.com/docs/v2/
+Debug with MsgBox or OutputDebug: If a script isn't working as expected, use MsgBox to display variable values at different points, or use OutputDebug and a debugger like SciTE4AutoHotkey.
+Error Handling: AHK v2 heavily favors throwing exceptions for errors. Use try...catch blocks for robust scripts, especially when dealing with file operations, registry, or external commands.
+Syntax Highlighting: Use an editor that supports AHK v2 syntax highlighting (like VS Code with the AutoHotkey extension, or SciTE4AutoHotkey updated for v2) to catch common errors.
+These AHK v2 examples should provide a solid foundation for a Level 3 help desk technician to start automating tasks effectively.
