@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ticket Management System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .form-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        textarea {
+            height: 80px;
+            resize: vertical;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .tickets-list {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        .ticket {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 15px;
+            margin-bottom: 10px;
+            position: relative;
+            background-color: #fff;
+            cursor: grab;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .ticket.dragging {
+            opacity: 0.5;
+            transform: scale(1.02);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            cursor: grabbing;
+        }
+        .ticket h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        .ticket p {
+            margin: 5px 0;
+        }
+        .delete-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #f44336;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .delete-btn:hover {
+            background-color: #d32f2f;
+        }
+        .no-tickets {
+            text-align: center;
+            color: #666;
+            font-style: italic;
+        }
+        .drag-handle {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 20px;
+            height: 20px;
+            cursor: move;
+            opacity: 0.5;
+        }
+        .drag-handle:hover {
+            opacity: 1;
+        }
+        .drag-handle::before {
+            content: "≡";
+            font-size: 24px;
+            line-height: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ticket Management System</h1>
+    
+    <div class="form-container">
+        <h2>Add New Ticket</h2>
+        <form id="ticketForm">
+            <div class="form-group">
+                <label for="ticketNumber">Ticket Number:</label>
+                <input type="text" id="ticketNumber" required>
+            </div>
+            <div class="form-group">
+                <label for="date">Date:</label>
+                <input type="date" id="date" required>
+            </div>
+            <div class="form-group">
+                <label for="user">User:</label>
+                <input type="text" id="user" required>
+            </div>
+            <div class="form-group">
+                <label for="issue">Issue:</label>
+                <textarea id="issue" required></textarea>
+            </div>
+            <button type="submit">Add Ticket</button>
+        </form>
+    </div>
+    
+    <div class="tickets-list">
+        <h2>Ticket List</h2>
+        <div id="ticketsContainer">
+            <p class="no-tickets">No tickets added yet.</p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const ticketForm = document.getElementById('ticketForm');
+            const ticketsContainer = document.getElementById('ticketsContainer');
+            let tickets = [];
+            let draggedItem = null;
+            
+            // Load tickets from localStorage if available
+            if (localStorage.getItem('tickets')) {
+                tickets = JSON.parse(localStorage.getItem('tickets'));
+                renderTickets();
+            }
+            
+            ticketForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const ticketNumber = document.getElementById('ticketNumber').value;
+                const date = document.getElementById('date').value;
+                const user = document.getElementById('user').value;
+                const issue = document.getElementById('issue').value;
+                
+                const newTicket = {
+                    ticketNumber,
+                    date,
+                    user,
+                    issue
+                };
+                
+                tickets.push(newTicket);
+                saveTickets();
+                renderTickets();
+                
+                // Reset the form
+                ticketForm.reset();
+            });
+            
+            function renderTickets() {
+                if (tickets.length === 0) {
+                    ticketsContainer.innerHTML = '<p class="no-tickets">No tickets added yet.</p>';
+                    return;
+                }
+                
+                ticketsContainer.innerHTML = '';
+                
+                tickets.forEach((ticket, index) => {
+                    const ticketElement = document.createElement('div');
+                    ticketElement.className = 'ticket';
+                    ticketElement.setAttribute('draggable', 'true');
+                    ticketElement.setAttribute('data-index', index);
+                    ticketElement.innerHTML = `
+                        <div class="drag-handle"></div>
+                        <h3>Ticket #${ticket.ticketNumber}</h3>
+                        <p><strong>Date:</strong> ${ticket.date}</p>
+                        <p><strong>User:</strong> ${ticket.user}</p>
+                        <p><strong>Issue:</strong> ${ticket.issue}</p>
+                        <button class="delete-btn" data-index="${index}">Delete</button>
+                    `;
+                    
+                    // Drag and drop event listeners
+                    ticketElement.addEventListener('dragstart', handleDragStart);
+                    ticketElement.addEventListener('dragover', handleDragOver);
+                    ticketElement.addEventListener('dragleave', handleDragLeave);
+                    ticketElement.addEventListener('drop', handleDrop);
+                    ticketElement.addEventListener('dragend', handleDragEnd);
+                    
+                    ticketsContainer.appendChild(ticketElement);
+                });
+                
+                // Add event listeners to delete buttons
+                document.querySelectorAll('.delete-btn').forEach(button => {
+                    button.addEventListener('click', function() {
+                        const index = parseInt(this.getAttribute('data-index'));
+                        tickets.splice(index, 1);
+                        saveTickets();
+                        renderTickets();
+                    });
+                });
+            }
+            
+            // Drag and drop functions
+            function handleDragStart(e) {
+                draggedItem = this;
+                this.classList.add('dragging');
+                e.dataTransfer.effectAllowed = 'move';
+                e.dataTransfer.setData('text/html', this.innerHTML);
+            }
+            
+            function handleDragOver(e) {
+                e.preventDefault();
+                e.dataTransfer.dropEffect = 'move';
+                this.classList.add('drag-over');
+            }
+            
+            function handleDragLeave() {
+                this.classList.remove('drag-over');
+            }
+            
+            function handleDrop(e) {
+                e.stopPropagation();
+                e.preventDefault();
+                this.classList.remove('drag-over');
+                
+                if (draggedItem !== this) {
+                    // Get the indices of the dragged item and the drop target
+                    const fromIndex = parseInt(draggedItem.getAttribute('data-index'));
+                    const toIndex = parseInt(this.getAttribute('data-index'));
+                    
+                    // Reorder the tickets array
+                    const movedItem = tickets.splice(fromIndex, 1)[0];
+                    tickets.splice(toIndex, 0, movedItem);
+                    
+                    // Save and re-render
+                    saveTickets();
+                    renderTickets();
+                }
+            }
+            
+            function handleDragEnd() {
+                this.classList.remove('dragging');
+                document.querySelectorAll('.ticket').forEach(item => {
+                    item.classList.remove('drag-over');
+                });
+            }
+            
+            function saveTickets() {
+                localStorage.setItem('tickets', JSON.stringify(tickets));
+            }
+        });
+    </script>
+</body>
+</html>
