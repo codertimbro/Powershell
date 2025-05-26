@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Help Desk RCA Knowledge Base</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #1e40af;
+            --background: #f8fafc;
+            --text-color: #1e293b;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            line-height: 1.6;
+            padding: 2rem;
+            background-color: var(--background);
+            color: var(--text-color);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .search-filter {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+
+        #searchInput {
+            flex: 1;
+            padding: 0.8rem;
+            border: 2px solid #cbd5e1;
+            border-radius: 8px;
+            min-width: 300px;
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 6px;
+            background: #e2e8f0;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filter-btn.active {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e2e8f0;
+        }
+
+        .card h3 {
+            color: var(--secondary-color);
+            margin-bottom: 1rem;
+            font-size: 1.25rem;
+        }
+
+        .card-category {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            background: #dbeafe;
+            color: var(--primary-color);
+            font-size: 0.875rem;
+            margin-bottom: 1rem;
+        }
+
+        .card-section h4 {
+            margin: 1rem 0 0.5rem;
+            font-size: 1rem;
+            color: #475569;
+        }
+
+        .card-section ul {
+            padding-left: 1.25rem;
+            color: #64748b;
+        }
+
+        .card-section li {
+            margin-bottom: 0.25rem;
+        }
+
+        @media (max-width: 768px) {
+            .cards-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>IT Help Desk RCA Knowledge Base</h1>
+        
+        <div class="search-filter">
+            <input type="text" id="searchInput" placeholder="Search issues (e.g., error code, keyword)...">
+            
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="Windows 11">Windows 11</button>
+                <button class="filter-btn" data-filter="Excel">Excel</button>
+                <button class="filter-btn" data-filter="Outlook">Outlook</button>
+                <button class="filter-btn" data-filter="Word">Word</button>
+                <button class="filter-btn" data-filter="Adobe Pro">Adobe Pro</button>
+                <button class="filter-btn" data-filter="SCCM">SCCM</button>
+            </div>
+        </div>
+
+        <div class="cards-grid">
+            <!-- Card 1: Windows 11 Update Failure -->
+            <div class="card" data-app="Windows 11" data-errors="0x80070002,0x80240034">
+                <div class="card-category">Windows 11</div>
+                <h3>Update Failure</h3>
+                <div class="card-section">
+                    <h4>Symptoms</h4>
+                    <ul>
+                        <li>Updates stuck at 0% or specific percentage</li>
+                        <li>Error codes (e.g., 0x80070002, 0x80240034)</li>
+                        <li>Post-update system instability</li>
+                    </ul>
+                </div>
+                <div class="card-section">
+                    <h4>Root Causes</h4>
+                    <ul>
+                        <li>Corrupted update cache in SoftwareDistribution</li>
+                        <li>Insufficient disk space or driver conflicts</li>
+                        <li>Network interruptions during download</li>
+                    </ul>
+                </div>
+                <div class="card-section">
+                    <h4>Resolution</h4>
+                    <ul>
+                        <li>Run Windows Update Troubleshooter</li>
+                        <li>Manually clear C:\Windows\SoftwareDistribution\Download</li>
+                        <li>Ensure 20+ GB free disk space</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Add remaining 9 cards following the same structure -->
+            <!-- (Include other cards from the original list here) -->
+        </div>
+    </div>
+
+    <script>
+        // Filter and Search functionality
+        const filterBtns = document.querySelectorAll('.filter-btn');
+        const cards = document.querySelectorAll('.card');
+        const searchInput = document.getElementById('searchInput');
+
+        function filterCards() {
+            const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
+            const searchTerm = searchInput.value.toLowerCase();
+
+            cards.forEach(card => {
+                const app = card.dataset.app.toLowerCase();
+                const textContent = card.textContent.toLowerCase();
+                const matchesFilter = activeFilter === 'all' || app === activeFilter.toLowerCase();
+                const matchesSearch = textContent.includes(searchTerm) || 
+                                    (card.dataset.errors && card.dataset.errors.includes(searchTerm));
+
+                card.style.display = (matchesFilter && matchesSearch) ? 'block' : 'none';
+            });
+        }
+
+        // Event Listeners
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                filterBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                filterCards();
+            });
+        });
+
+        searchInput.addEventListener('input', filterCards);
+
+        // Initial filter
+        filterCards();
+
+        // Dynamic card height equalization
+        function equalizeCardHeights() {
+            const cards = document.querySelectorAll('.card');
+            let maxHeight = 0;
+
+            cards.forEach(card => {
+                card.style.height = 'auto';
+                maxHeight = Math.max(maxHeight, card.offsetHeight);
+            });
+
+            cards.forEach(card => card.style.height = `${maxHeight}px`);
+        }
+
+        window.addEventListener('resize', equalizeCardHeights);
+        window.addEventListener('load', equalizeCardHeights);
+    </script>
+</body>
+</html>
